@@ -1,0 +1,10 @@
+1) First get the POS tagger from this website: 
+http://www.ark.cs.cmu.edu/TweetNLP/
+
+2) Download latest version (ark-tweet-*) from following path:
+https://code.google.com/p/ark-tweet-nlp/downloads/list
+
+3) Extract downloaded directory and then open a terminal to run following command:
+./runTagger.sh examples/example_tweets.txt
+
+ 

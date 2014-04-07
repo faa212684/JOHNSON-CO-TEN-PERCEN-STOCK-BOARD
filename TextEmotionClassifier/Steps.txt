@@ -1,0 +1,5 @@
+1) Consider database of 100K songs with lyrics
+2) Use dictionary of word to emotion category mapping where each word's presence in 
+each of eight categories is given.
+3) Write script which takes in song's lyrics as input from stdin and then gives a csv as output with columns as each mood category
+and value as count of word in each category, also save total number of words in song. 
