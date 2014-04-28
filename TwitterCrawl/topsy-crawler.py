@@ -9,6 +9,7 @@ import csv
 import sys
 import urllib
 import urlparse
+import time
 
 class TopsyCrawler:
     """
@@ -66,7 +67,7 @@ class TopsyCrawler:
         self.csvHeadersWritten = True
         offset = processedResult.offset
         nextOffset = offset+10
-        noOfTweetsFetched = len(resultsObj.response['list'])
+        noOfTweetsFetched = len(processedResult.response['list'])
         while True:
             #Check if condition to exit the loop is met
             if noOfTweetsFetched > maxTweetNumber:
@@ -80,7 +81,6 @@ class TopsyCrawler:
             resultObj = self.crawlUrl(url)
             processedResult = ResultsProcessor(resultObj)
             self.writeJsonToCsv(processedResult)
-            break
             
             #Book keeping for processing next result
             nextOffset = nextOffset+10
