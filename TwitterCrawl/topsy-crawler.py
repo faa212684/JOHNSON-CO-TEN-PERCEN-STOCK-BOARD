@@ -90,11 +90,10 @@ class TopsyCrawler:
         """
         Used to write tweets data to csv file
         """
-        columnNames = []
+        columnNames  = ['hits','firstpost_date','title','url','trackback_date','trackback_total','url_expansions','target_birth_date','content',\
+    'mytype','score','topsy_author_img','trackback_permalink','trackback_author_url','highlight','topsy_author_url','topsy_trackback_url','trackback_author_name','trackback_author_nick']
         if self.csvHeadersWritten ==  False:
             #Write column names at the top of the csv
-            columnNames  = ['hits','firstpost_date','title','url','trackback_date','trackback_total','url_expansions','target_birth_date','content',\
-    'mytype','score','topsy_author_img','trackback_permalink','trackback_author_url','highlight','topsy_author_url','topsy_trackback_url','trackback_author_name','trackback_author_nick']
             print "\t".join(columnNames)
         
         #For now, simplify
@@ -103,10 +102,14 @@ class TopsyCrawler:
             for column in columnNames:
                 if type(tweet[column])==unicode:
                     #print "string"
-                    print tweet[column].encode('utf-8')+"\t"
+                    if column == 'trackback_author_nick':
+                        #This is the last column and so insert new line after it for the new tweet
+                        print repr(tweet[column].encode('utf-8'))+"\t"
+                    else:
+                        print repr(tweet[column].encode('utf-8'))+"\t",
                 else:
                     #print "number"
-                    print str(tweet[column])+"\t"
+                    print str(tweet[column])+"\t",
             
             
 class ResultsProcessor:
@@ -147,5 +150,8 @@ if __name__ == "__main__":
     """
     #example to fetch multiple tweets
     crawlerObj = TopsyCrawler(API_KEY)
-    crawlerObj.fetchTweets(50, 10, apikey=API_KEY, type='tweet', window='a', q='#happy #surprised')
+    crawlerObj.fetchTweets(50, 5, apikey=API_KEY, type='tweet', window='a', q='#happy #surprised')
+
+# <codecell>
+
 
