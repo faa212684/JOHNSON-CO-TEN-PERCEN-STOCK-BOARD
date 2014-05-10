@@ -5,6 +5,15 @@ __pycache__/
 # C extensions
 *.so
 
+#API keys
+api_keys.txt
+
+#backup folders
+.ipynb_checkpoints/
+CrawledData/
+#Libraries
+ark-*
+otterapi-read-only/
 # Distribution / packaging
 .Python
 env/
