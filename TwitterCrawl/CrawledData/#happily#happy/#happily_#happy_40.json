@@ -1,0 +1,297 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23happily+%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=40",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#happily #happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "40"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1388516101,
+                "title": "#coffe #friends #lol #brown #happily #happy aaaaaa\u2665 http://t.co/l2MZYgf02y",
+                "url": "http://twitter.com/vickymate2/status/418092947830493184",
+                "trackback_date": 1388516101,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/l2MZYgf02y",
+                        "display_url": "instagram.com/p/imMhmQrvMW/",
+                        "expanded_url": "http://instagram.com/p/imMhmQrvMW/",
+                        "topsy_expanded_url": "http://instagram.com/p/imMhmQrvMW/"
+                    }
+                ],
+                "target_birth_date": 1388516101,
+                "content": "#coffe #friends #lol #brown #happily #happy aaaaaa\u2665 http://t.co/l2MZYgf02y",
+                "mytype": "tweet",
+                "score": 4.760245,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459485360696078336/pfsxoqWL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/vickymate2/status/418092947830493184",
+                "trackback_author_url": "http://twitter.com/vickymate2",
+                "highlight": "#coffe #friends #lol #brown #happily #happy aaaaaa\u2665",
+                "topsy_author_url": "http://topsy.com/twitter/vickymate2",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/vickymate2/status/418092947830493184",
+                "trackback_author_name": "Victoria Mate",
+                "trackback_author_nick": "vickymate2"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1386951576,
+                "title": "\"Baby, be with me so happily..\" #BomDia #BoaTarde #Happily #Happy #OneDirection #1D http://t.co/kEkKILEX2P",
+                "url": "http://twitter.com/demsfeeling/status/411530853907709952",
+                "trackback_date": 1386951576,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kEkKILEX2P",
+                        "display_url": "instagram.com/p/h3kaYim_od/",
+                        "expanded_url": "http://instagram.com/p/h3kaYim_od/",
+                        "topsy_expanded_url": "http://instagram.com/p/h3kaYim_od/"
+                    }
+                ],
+                "target_birth_date": 1386951576,
+                "content": "\"Baby, be with me so happily..\" #BomDia #BoaTarde #Happily #Happy #OneDirection #1D http://t.co/kEkKILEX2P",
+                "mytype": "tweet",
+                "score": 4.760245,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458081215032328192/EH7DQmFj_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/demsfeeling/status/411530853907709952",
+                "trackback_author_url": "http://twitter.com/demsfeeling",
+                "highlight": "\"Baby, be with me so happily..\" #BomDia #BoaTarde #Happily #Happy #OneDirection #1D",
+                "topsy_author_url": "http://topsy.com/twitter/demsfeeling",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/demsfeeling/status/411530853907709952",
+                "trackback_author_name": "warrior",
+                "trackback_author_nick": "demsfeeling"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1386951578,
+                "title": "Photo: \"Baby, be with me so happily..\" #BomDia #BoaTarde #Happily #Happy #OneDirection #1D http://t.co/EDUP0xqJGj",
+                "url": "http://twitter.com/umanjopramim/status/411530862053048320",
+                "trackback_date": 1386951578,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/EDUP0xqJGj",
+                        "display_url": "tmblr.co/ZjVFLx115dVb-",
+                        "expanded_url": "http://tmblr.co/ZjVFLx115dVb-",
+                        "topsy_expanded_url": "http://r-eset.tumblr.com/post/69887457663/baby-be-with-me-so-happily-bomdia-boatarde"
+                    }
+                ],
+                "target_birth_date": 1386951578,
+                "content": "Photo: \"Baby, be with me so happily..\" #BomDia #BoaTarde #Happily #Happy #OneDirection #1D http://t.co/EDUP0xqJGj",
+                "mytype": "tweet",
+                "score": 4.7468953,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000134448370/334b5b3e0d300f75069c816fff75e862_normal.png",
+                "trackback_permalink": "http://twitter.com/UmAnjoPraMim/status/411530862053048320",
+                "trackback_author_url": "http://twitter.com/umanjopramim",
+                "highlight": "Photo: \"Baby, be with me so happily..\" #BomDia #BoaTarde #Happily #Happy #OneDirection #1D",
+                "topsy_author_url": "http://topsy.com/twitter/umanjopramim",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/umanjopramim/status/411530862053048320",
+                "trackback_author_name": "Just smile",
+                "trackback_author_nick": "umanjopramim"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1397933921,
+                "title": "#Happily #Happy #Hapoy #1D #Jonas #Miley http://t.co/xYzGlDXbGT",
+                "url": "http://twitter.com/aldydejyrus/status/457594150641483776",
+                "trackback_date": 1397933921,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/xYzGlDXbGT",
+                        "display_url": "instagram.com/p/m-3ly6KhJE/",
+                        "expanded_url": "http://instagram.com/p/m-3ly6KhJE/",
+                        "topsy_expanded_url": "http://instagram.com/p/m-3ly6KhJE/"
+                    }
+                ],
+                "target_birth_date": 1397933921,
+                "content": "#Happily #Happy #Hapoy #1D #Jonas #Miley http://t.co/xYzGlDXbGT",
+                "mytype": "tweet",
+                "score": 4.746122,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462708498560581632/2k-chcT9_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AldyDeJyrus/status/457594150641483776",
+                "trackback_author_url": "http://twitter.com/aldydejyrus",
+                "highlight": "#Happily #Happy #Hapoy #1D #Jonas #Miley",
+                "topsy_author_url": "http://topsy.com/twitter/aldydejyrus",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/aldydejyrus/status/457594150641483776",
+                "trackback_author_name": "|HAPOY JONAS DAY|",
+                "trackback_author_nick": "aldydejyrus"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1387629234,
+                "title": "JE VAIS AVOIR UN TELEPHONE A NOEL ! #HAPPILY #HAPPY #WIKO",
+                "url": "http://twitter.com/insanelylovely/status/414373157131534336",
+                "trackback_date": 1387629234,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1387629234,
+                "content": "JE VAIS AVOIR UN TELEPHONE A NOEL ! #HAPPILY #HAPPY #WIKO",
+                "mytype": "tweet",
+                "score": 4.7382197,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462871468808740864/YGxPBb_c_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/InsanelyLovely/status/414373157131534336",
+                "trackback_author_url": "http://twitter.com/insanelylovely",
+                "highlight": "JE VAIS AVOIR UN TELEPHONE A NOEL ! #HAPPILY #HAPPY",
+                "topsy_author_url": "http://topsy.com/twitter/insanelylovely",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/insanelylovely/status/414373157131534336",
+                "trackback_author_name": "ADOPTEZ MOI.",
+                "trackback_author_nick": "insanelylovely"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1393115800,
+                "title": "happiness doesn't depends of a person, happiness depends on you. #happily #happy #happiness #hope #fun\u2026 http://t.co/cLJxVVyZMm",
+                "url": "http://twitter.com/fxckestyles/status/437385483883405312",
+                "trackback_date": 1393115800,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cLJxVVyZMm",
+                        "display_url": "instagram.com/p/kvRwQLAlbB/",
+                        "expanded_url": "http://instagram.com/p/kvRwQLAlbB/",
+                        "topsy_expanded_url": "http://instagram.com/p/kvRwQLAlbB/"
+                    }
+                ],
+                "target_birth_date": 1393115800,
+                "content": "happiness doesn't depends of a person, happiness depends on you. #happily #happy #happiness #hope #fun\u2026 http://t.co/cLJxVVyZMm",
+                "mytype": "tweet",
+                "score": 4.7371554,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/456245441969942528/tC3OONrx_normal.png",
+                "trackback_permalink": "http://twitter.com/fxckestyles/status/437385483883405312",
+                "trackback_author_url": "http://twitter.com/fxckestyles",
+                "highlight": "happiness doesn't depends of a person, happiness depends on you. #happily #happy #happiness #hope #fun\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/fxckestyles",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/fxckestyles/status/437385483883405312",
+                "trackback_author_name": "FOLLOW ME ON IG",
+                "trackback_author_nick": "fxckestyles"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392983609,
+                "title": ";) #Party #Friday #YOLO #Happily #Happy #FollowMe http://t.co/vLGtiK9Gvm",
+                "url": "http://twitter.com/lauraamaartinez/status/436831034915958785",
+                "trackback_date": 1392983609,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vLGtiK9Gvm",
+                        "display_url": "instagram.com/p/krVns8Sa_Z/",
+                        "expanded_url": "http://instagram.com/p/krVns8Sa_Z/",
+                        "topsy_expanded_url": "http://instagram.com/p/krVns8Sa_Z/"
+                    }
+                ],
+                "target_birth_date": 1392983609,
+                "content": ";) #Party #Friday #YOLO #Happily #Happy #FollowMe http://t.co/vLGtiK9Gvm",
+                "mytype": "tweet",
+                "score": 4.734165,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463080847235510272/oNofYCgg_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LauraaMaartinez/status/436831034915958785",
+                "trackback_author_url": "http://twitter.com/lauraamaartinez",
+                "highlight": ";) #Party #Friday #YOLO #Happily #Happy #FollowMe",
+                "topsy_author_url": "http://topsy.com/twitter/lauraamaartinez",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lauraamaartinez/status/436831034915958785",
+                "trackback_author_name": "Laura Styles\u2661 ",
+                "trackback_author_nick": "lauraamaartinez"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1389640632,
+                "title": "\u2661 sonr\u00ede a pesar de todo, demuestra que hoy eres mas fuerte que ayer. \u2661 [ #me #girl #happily #happy\u2026 http://t.co/ArNegNwJbo",
+                "url": "http://twitter.com/0nedift5sos/status/422809575541469184",
+                "trackback_date": 1389640632,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ArNegNwJbo",
+                        "display_url": "instagram.com/p/jHtZgMOkoa/",
+                        "expanded_url": "http://instagram.com/p/jHtZgMOkoa/",
+                        "topsy_expanded_url": "http://instagram.com/p/jHtZgMOkoa/"
+                    }
+                ],
+                "target_birth_date": 1389640632,
+                "content": "\u2661 sonr\u00ede a pesar de todo, demuestra que hoy eres mas fuerte que ayer. \u2661 [ #me #girl #happily #happy\u2026 http://t.co/ArNegNwJbo",
+                "mytype": "tweet",
+                "score": 4.7330375,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459763096513302528/4Jvi141H_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/0nedift5sos/status/422809575541469184",
+                "trackback_author_url": "http://twitter.com/0nedift5sos",
+                "highlight": "\u2661 sonr\u00ede a pesar de todo, demuestra que hoy eres mas fuerte que ayer. \u2661 [ #me #girl #happily #happy\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/0nedift5sos",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/0nedift5sos/status/422809575541469184",
+                "trackback_author_name": "FUI AL WWAT\u2661",
+                "trackback_author_nick": "0nedift5sos"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1387729584,
+                "title": "Ese momento de felicidad... cuando me recibio... no tiene precio #happily #happy #welcome #brother\u2026 http://t.co/09bayu8g7G",
+                "url": "http://twitter.com/lesliedaniie/status/414794057949659136",
+                "trackback_date": 1387729584,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/09bayu8g7G",
+                        "display_url": "instagram.com/p/iOwXPts-iQ/",
+                        "expanded_url": "http://instagram.com/p/iOwXPts-iQ/",
+                        "topsy_expanded_url": "http://instagram.com/p/iOwXPts-iQ/"
+                    }
+                ],
+                "target_birth_date": 1387729584,
+                "content": "Ese momento de felicidad... cuando me recibio... no tiene precio #happily #happy #welcome #brother\u2026 http://t.co/09bayu8g7G",
+                "mytype": "tweet",
+                "score": 4.7291293,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461948217849307137/M0Pd2vd__normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LeslieDaniie/status/414794057949659136",
+                "trackback_author_url": "http://twitter.com/lesliedaniie",
+                "highlight": "Ese momento de felicidad... cuando me recibio... no tiene precio #happily #happy #welcome #brother\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/lesliedaniie",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lesliedaniie/status/414794057949659136",
+                "trackback_author_name": ".welcome to my life.",
+                "trackback_author_nick": "lesliedaniie"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1369099051,
+                "title": "Ang komplikado pero maganda:) #photography #photo #focus #Happily #Happy #HoorayForToday http://t.co/zM8ItHSwnu",
+                "url": "http://twitter.com/kleyrific/status/336651936487059457",
+                "trackback_date": 1369099051,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/zM8ItHSwnu",
+                        "display_url": "instagram.com/p/ZjhR_JhgnQ/",
+                        "expanded_url": "http://instagram.com/p/ZjhR_JhgnQ/",
+                        "topsy_expanded_url": "http://instagram.com/p/ZjhR_JhgnQ/"
+                    }
+                ],
+                "target_birth_date": 1369099051,
+                "content": "Ang komplikado pero maganda:) #photography #photo #focus #Happily #Happy #HoorayForToday http://t.co/zM8ItHSwnu",
+                "mytype": "tweet",
+                "score": 4.7202663,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464230023017136128/rhms61EB_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/kleyrific/status/336651936487059457",
+                "trackback_author_url": "http://twitter.com/clarissacruzz",
+                "highlight": "Ang komplikado pero maganda:) #photography #photo #focus #Happily #Happy #HoorayForToday",
+                "topsy_author_url": "http://topsy.com/twitter/clarissacruzz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kleyrific/status/336651936487059457",
+                "trackback_author_name": "Clarisse",
+                "trackback_author_nick": "clarissacruzz"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 40,
+        "hidden": 0,
+        "total": 1064,
+        "page": 1
+    }
+}

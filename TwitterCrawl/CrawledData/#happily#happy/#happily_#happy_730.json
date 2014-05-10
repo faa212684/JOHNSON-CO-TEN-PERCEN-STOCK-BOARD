@@ -1,0 +1,290 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23happily+%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=730",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#happily #happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "730"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1383508442,
+                "title": "Sonreir\u00e9 hasta que no pueda m\u00e1s.  #Me #Smile #Smiling #BigSmile #Happy #VeryHappy #Happily #Happiest\u2026 http://t.co/QOJl1GMoZU",
+                "url": "http://twitter.com/chus_raboso/status/397089305510035456",
+                "trackback_date": 1383508442,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/QOJl1GMoZU",
+                        "display_url": "instagram.com/p/gQ8D6VumDU/",
+                        "expanded_url": "http://instagram.com/p/gQ8D6VumDU/",
+                        "topsy_expanded_url": "http://instagram.com/p/gQ8D6VumDU/"
+                    }
+                ],
+                "target_birth_date": 1383508442,
+                "content": "Sonreir\u00e9 hasta que no pueda m\u00e1s.  #Me #Smile #Smiling #BigSmile #Happy #VeryHappy #Happily #Happiest\u2026 http://t.co/QOJl1GMoZU",
+                "mytype": "tweet",
+                "score": 1.6074183,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463776292941225984/00-nRRXc_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Chus_Raboso/status/397089305510035456",
+                "trackback_author_url": "http://twitter.com/chus_raboso",
+                "highlight": "Sonreir\u00e9 hasta que no pueda m\u00e1s. #Me #Smile #Smiling #BigSmile #Happy #VeryHappy #Happily #Happiest\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/chus_raboso",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/chus_raboso/status/397089305510035456",
+                "trackback_author_name": "Cehacheuese \u2661",
+                "trackback_author_nick": "chus_raboso"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1393567363,
+                "title": "#selfie #girl #woman #pretty #beautiful #crazy #confident #beingme #happy #happiness #happily\u2026 http://t.co/cMug7Y5gDI",
+                "url": "http://twitter.com/namelesscele/status/439279478842593280",
+                "trackback_date": 1393567363,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cMug7Y5gDI",
+                        "display_url": "instagram.com/p/k8vCzbBfDS/",
+                        "expanded_url": "http://instagram.com/p/k8vCzbBfDS/",
+                        "topsy_expanded_url": "http://instagram.com/p/k8vCzbBfDS/"
+                    }
+                ],
+                "target_birth_date": 1393567363,
+                "content": "#selfie #girl #woman #pretty #beautiful #crazy #confident #beingme #happy #happiness #happily\u2026 http://t.co/cMug7Y5gDI",
+                "mytype": "tweet",
+                "score": 1.6048892,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462125254869917696/m-_VZWNb_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NamelessCele/status/439279478842593280",
+                "trackback_author_url": "http://twitter.com/mylifeasceleste",
+                "highlight": "#selfie #girl #woman #pretty #beautiful #crazy #confident #beingme #happy #happiness #happily\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/mylifeasceleste",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/namelesscele/status/439279478842593280",
+                "trackback_author_name": "\u262fCeleste Figueroa\u262f ",
+                "trackback_author_nick": "mylifeasceleste"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1355534330,
+                "title": "#happy#funny#happily#lovely#nice#cute#pretty#beautiful#sweet#girl#girls#night#home#me#Liza#nothing#to#do#ama http://t.co/jc5nEoXX",
+                "url": "http://twitter.com/lzinovenko/status/279757375668363265",
+                "trackback_date": 1355534330,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jc5nEoXX",
+                        "display_url": "instagr.am/p/TPQpKPJaeu/",
+                        "expanded_url": "http://instagr.am/p/TPQpKPJaeu/",
+                        "topsy_expanded_url": "http://instagram.com/p/TPQpKPJaeu/"
+                    }
+                ],
+                "target_birth_date": 1355534330,
+                "content": "#happy#funny#happily#lovely#nice#cute#pretty#beautiful#sweet#girl#girls#night#home#me#Liza#nothing#to#do#ama http://t.co/jc5nEoXX",
+                "mytype": "tweet",
+                "score": 1.6045573,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/444066675865190400/HIZTFEpk_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LZinovenko/status/279757375668363265",
+                "trackback_author_url": "http://twitter.com/lzinovenko",
+                "highlight": "#happy#funny#happily#lovely#nice#cute#pretty#beautiful#sweet#girl#girls#night#home#me#Liza#nothing#to#do#ama",
+                "topsy_author_url": "http://topsy.com/twitter/lzinovenko",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lzinovenko/status/279757375668363265",
+                "trackback_author_name": "LZinovenko",
+                "trackback_author_nick": "lzinovenko"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1391355681,
+                "title": "#Sunday #Happy #Birthday #happily #Friends #Love #Family #London #Uk #BIRTHDAY #Wish #World #People\u2026 http://t.co/JEiI5x4oJo",
+                "url": "http://twitter.com/gabycardenas61/status/430003011365376001",
+                "trackback_date": 1391355681,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/JEiI5x4oJo",
+                        "display_url": "instagram.com/p/j6zWQCHKfS/",
+                        "expanded_url": "http://instagram.com/p/j6zWQCHKfS/",
+                        "topsy_expanded_url": "http://instagram.com/p/j6zWQCHKfS/"
+                    }
+                ],
+                "target_birth_date": 1391355681,
+                "content": "#Sunday #Happy #Birthday #happily #Friends #Love #Family #London #Uk #BIRTHDAY #Wish #World #People\u2026 http://t.co/JEiI5x4oJo",
+                "mytype": "tweet",
+                "score": 1.5940126,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462604808772648961/q_35zTb__normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Gabycardenas61/status/430003011365376001",
+                "trackback_author_url": "http://twitter.com/gabycardenas61",
+                "highlight": "#Sunday #Happy #Birthday #happily #Friends #Love #Family #London #Uk #BIRTHDAY #Wish #World #People\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/gabycardenas61",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gabycardenas61/status/430003011365376001",
+                "trackback_author_name": "Gabriela ...",
+                "trackback_author_nick": "gabycardenas61"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1372284734,
+                "title": "M\u00e1s guapos imposible. #boy #girl #couple #boyfriend #girl #fun #cute #happy #silly #happily #ever\u2026 http://t.co/2SEbAIItlP",
+                "url": "http://twitter.com/bea1dayatatime/status/350013659470237697",
+                "trackback_date": 1372284734,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2SEbAIItlP",
+                        "display_url": "instagram.com/p/bCda-9vGDo/",
+                        "expanded_url": "http://instagram.com/p/bCda-9vGDo/",
+                        "topsy_expanded_url": "http://instagram.com/p/bCda-9vGDo/"
+                    }
+                ],
+                "target_birth_date": 1372284734,
+                "content": "M\u00e1s guapos imposible. #boy #girl #couple #boyfriend #girl #fun #cute #happy #silly #happily #ever\u2026 http://t.co/2SEbAIItlP",
+                "mytype": "tweet",
+                "score": 1.5918002,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2864364008/f0ec26cad55406603ccb8a500a8ab5aa_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Bea1DayAtATime/status/350013659470237697",
+                "trackback_author_url": "http://twitter.com/bea1dayatatime",
+                "highlight": "M\u00e1s guapos imposible. #boy #girl #couple #boyfriend #girl #fun #cute #happy #silly #happily #ever\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/bea1dayatatime",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bea1dayatatime/status/350013659470237697",
+                "trackback_author_name": "Risk it all. ",
+                "trackback_author_nick": "bea1dayatatime"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1395851144,
+                "title": "#be #happy #always live #life #happily",
+                "url": "http://twitter.com/believebp/status/448858347950055424",
+                "trackback_date": 1395851144,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1395851144,
+                "content": "#be #happy #always live #life #happily",
+                "mytype": "tweet",
+                "score": 1.5907809,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000687609395/731af32881ad22e16b1555abd86627aa_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/believebp/status/448858347950055424",
+                "trackback_author_url": "http://twitter.com/believebp",
+                "highlight": "#be #happy #always live #life",
+                "topsy_author_url": "http://topsy.com/twitter/believebp",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/believebp/status/448858347950055424",
+                "trackback_author_name": "Bhumik Patel",
+                "trackback_author_nick": "believebp"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1389353272,
+                "title": "we are family.. :) #family #happy #fun #happily #gathering :D http://t.co/DxTXie636C",
+                "url": "http://twitter.com/whysoserious005/status/421604300406923264",
+                "trackback_date": 1389353272,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DxTXie636C",
+                        "display_url": "instagram.com/p/i_JTakRaZA/",
+                        "expanded_url": "http://instagram.com/p/i_JTakRaZA/",
+                        "topsy_expanded_url": "http://instagram.com/p/i_JTakRaZA/"
+                    }
+                ],
+                "target_birth_date": 1389353272,
+                "content": "we are family.. :) #family #happy #fun #happily #gathering :D http://t.co/DxTXie636C",
+                "mytype": "tweet",
+                "score": 1.5841619,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/444840484863631361/y4MEkmuj_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/whysoserious005/status/421604300406923264",
+                "trackback_author_url": "http://twitter.com/whysoserious005",
+                "highlight": "we are family.. :) #family #happy #fun #happily #gathering :D",
+                "topsy_author_url": "http://topsy.com/twitter/whysoserious005",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/whysoserious005/status/421604300406923264",
+                "trackback_author_name": " MAHADI (\ub9c8 \ud558\u00a0\ub514)",
+                "trackback_author_nick": "whysoserious005"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1393567365,
+                "title": "Photo: #selfie #girl #woman #pretty #beautiful #crazy #confident #beingme #happy #happiness #happily... http://t.co/h400rw7kvW",
+                "url": "http://twitter.com/namelesscele/status/439279486966976512",
+                "trackback_date": 1393567365,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/h400rw7kvW",
+                        "display_url": "tmblr.co/ZYFNAx18kHSMt",
+                        "expanded_url": "http://tmblr.co/ZYFNAx18kHSMt",
+                        "topsy_expanded_url": "http://cdfigueroa.tumblr.com/post/78085735863/selfie-girl-woman-pretty-beautiful-crazy"
+                    }
+                ],
+                "target_birth_date": 1393567365,
+                "content": "Photo: #selfie #girl #woman #pretty #beautiful #crazy #confident #beingme #happy #happiness #happily... http://t.co/h400rw7kvW",
+                "mytype": "tweet",
+                "score": 1.5785702,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462125254869917696/m-_VZWNb_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NamelessCele/status/439279486966976512",
+                "trackback_author_url": "http://twitter.com/mylifeasceleste",
+                "highlight": "Photo: #selfie #girl #woman #pretty #beautiful #crazy #confident #beingme #happy #happiness #happily",
+                "topsy_author_url": "http://topsy.com/twitter/mylifeasceleste",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/namelesscele/status/439279486966976512",
+                "trackback_author_name": "\u262fCeleste Figueroa\u262f ",
+                "trackback_author_nick": "mylifeasceleste"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1339170651,
+                "title": "sometimes the people thought that the #happily be is not the most important, this is false, the #happily is the first thing to be #happy.",
+                "url": "http://twitter.com/wymandepp/status/211123129488121856",
+                "trackback_date": 1339170651,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1339170651,
+                "content": "sometimes the people thought that the #happily be is not the most important, this is false, the #happily is the first thing to be #happy.",
+                "mytype": "tweet",
+                "score": 1.5784289,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/3088928907/5d4616470445bb7c9ab110e9c4ddca2d_normal.png",
+                "trackback_permalink": "http://twitter.com/WymanDepp/status/211123129488121856",
+                "trackback_author_url": "http://twitter.com/sarahcauffman",
+                "highlight": "sometimes the people thought that the #happily be is not the most important, this is false, the #happily is the first thing to be #happy.",
+                "topsy_author_url": "http://topsy.com/twitter/sarahcauffman",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wymandepp/status/211123129488121856",
+                "trackback_author_name": "Sarah Cauffman",
+                "trackback_author_nick": "sarahcauffman"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1397392873,
+                "title": "Happy Sunday!\u2665 #Selfie #HappySunday #Happy #Chillin #Happily #Me #I #Love #It #PhotoCrazy #Photography\u2026 http://t.co/VYUQ1JOkcv",
+                "url": "http://twitter.com/barbaradani_h/status/455324830334992384",
+                "trackback_date": 1397392873,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/VYUQ1JOkcv",
+                        "display_url": "ln.is/instagram.com/\u2026",
+                        "expanded_url": "http://ln.is/instagram.com/p/yEOC8",
+                        "topsy_expanded_url": "http://linkis.com/instagram.com/p/yEOC8"
+                    }
+                ],
+                "target_birth_date": 1397392873,
+                "content": "Happy Sunday!\u2665 #Selfie #HappySunday #Happy #Chillin #Happily #Me #I #Love #It #PhotoCrazy #Photography\u2026 http://t.co/VYUQ1JOkcv",
+                "mytype": "tweet",
+                "score": 1.5760385,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464805794567827456/Wzibqeh__normal.jpeg",
+                "trackback_permalink": "http://twitter.com/barbaradani_H/status/455324830334992384",
+                "trackback_author_url": "http://twitter.com/barbarastyles__",
+                "highlight": "Happy Sunday!\u2665 #Selfie #HappySunday #Happy #Chillin #Happily #Me #I #Love #It #PhotoCrazy #Photography\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/barbarastyles__",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/barbaradani_h/status/455324830334992384",
+                "trackback_author_name": "My name is B\u00e1rbara\u2665",
+                "trackback_author_nick": "barbarastyles__"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 730,
+        "hidden": 0,
+        "total": 1065,
+        "page": 1
+    }
+}

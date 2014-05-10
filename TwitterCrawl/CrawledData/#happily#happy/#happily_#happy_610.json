@@ -1,0 +1,290 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23happily+%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=610",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#happily #happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "610"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1384978774,
+                "title": "When I get bored on SnapChat... \u270f\ufe0f #snapchat #mickeymouse #mikkemus #bored #draw #happy #happily\u2026 http://t.co/UG9wzUSzoq",
+                "url": "http://twitter.com/likatvond/status/403256325708468224",
+                "trackback_date": 1384978774,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/UG9wzUSzoq",
+                        "display_url": "instagram.com/p/g8xagOH6FO/",
+                        "expanded_url": "http://instagram.com/p/g8xagOH6FO/",
+                        "topsy_expanded_url": "http://instagram.com/p/g8xagOH6FO/"
+                    }
+                ],
+                "target_birth_date": 1384978774,
+                "content": "When I get bored on SnapChat... \u270f\ufe0f #snapchat #mickeymouse #mikkemus #bored #draw #happy #happily\u2026 http://t.co/UG9wzUSzoq",
+                "mytype": "tweet",
+                "score": 1.821821,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1778415745/DSC01553_normal.JPG",
+                "trackback_permalink": "http://twitter.com/Likatvond/status/403256325708468224",
+                "trackback_author_url": "http://twitter.com/likatvond",
+                "highlight": "When I get bored on SnapChat... \u270f\ufe0f #snapchat #mickeymouse #mikkemus #bored #draw #happy #happily\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/likatvond",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/likatvond/status/403256325708468224",
+                "trackback_author_name": "Lisa Michelle",
+                "trackback_author_nick": "likatvond"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1367085216,
+                "title": "\ud83d\udd1dFelicidad nivel\ud83d\udd1d #happy #happily #candy #reeses #oreos #nestle #jetpuffed #marshmellow #gummies\u2026 http://t.co/LvLPdomdJR",
+                "url": "http://twitter.com/staycoolhiguera/status/328205304028332032",
+                "trackback_date": 1367085216,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/LvLPdomdJR",
+                        "display_url": "instagram.com/p/YngLJKIyDp/",
+                        "expanded_url": "http://instagram.com/p/YngLJKIyDp/",
+                        "topsy_expanded_url": "http://instagram.com/p/YngLJKIyDp/"
+                    }
+                ],
+                "target_birth_date": 1367085216,
+                "content": "\ud83d\udd1dFelicidad nivel\ud83d\udd1d #happy #happily #candy #reeses #oreos #nestle #jetpuffed #marshmellow #gummies\u2026 http://t.co/LvLPdomdJR",
+                "mytype": "tweet",
+                "score": 1.8215034,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/451168557276348416/Sg3W7-11_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/StayCoolHiguera/status/328205304028332032",
+                "trackback_author_url": "http://twitter.com/belikeisabella",
+                "highlight": "\ud83d\udd1dFelicidad nivel\ud83d\udd1d #happy #happily #candy #reeses #oreos #nestle #jetpuffed #marshmellow #gummies\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/belikeisabella",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/staycoolhiguera/status/328205304028332032",
+                "trackback_author_name": "Isabella Higuera",
+                "trackback_author_nick": "belikeisabella"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1357931828,
+                "title": "#red wine #pizza #dark #light #romance #love #happy #happily #emotion #friends #together #jazz #amazing @\u00e7ukurcuma49 http://t.co/G8z7F64d",
+                "url": "http://twitter.com/nefisegulru/status/289813210037637120",
+                "trackback_date": 1357931828,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/G8z7F64d",
+                        "display_url": "yfrog.com/kh1nbtoj",
+                        "expanded_url": "http://yfrog.com/kh1nbtoj",
+                        "topsy_expanded_url": "http://twitter.yfrog.com/kh1nbtoj"
+                    }
+                ],
+                "target_birth_date": 1357931828,
+                "content": "#red wine #pizza #dark #light #romance #love #happy #happily #emotion #friends #together #jazz #amazing @\u00e7ukurcuma49 http://t.co/G8z7F64d",
+                "mytype": "tweet",
+                "score": 1.8209624,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/440531189603241984/wADjsglf_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/nefisegulru/status/289813210037637120",
+                "trackback_author_url": "http://twitter.com/nefisegulru",
+                "highlight": "#red wine #pizza #dark #light #romance #love #happy #happily #emotion #friends #together #jazz #amazing @\u00e7ukurcuma49",
+                "topsy_author_url": "http://topsy.com/twitter/nefisegulru",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nefisegulru/status/289813210037637120",
+                "trackback_author_name": "N.G.D",
+                "trackback_author_nick": "nefisegulru"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1391112085,
+                "title": "#me #nigga #selfie #weird #faces #love #luv #smile #happy #happily #newpic #instalike #instapic\u2026 http://t.co/QAI98YlGl4",
+                "url": "http://twitter.com/bermeomapy/status/428981293784006656",
+                "trackback_date": 1391112085,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/QAI98YlGl4",
+                        "display_url": "instagram.com/p/jzj-H3AtGw/",
+                        "expanded_url": "http://instagram.com/p/jzj-H3AtGw/",
+                        "topsy_expanded_url": "http://instagram.com/p/jzj-H3AtGw/"
+                    }
+                ],
+                "target_birth_date": 1391112085,
+                "content": "#me #nigga #selfie #weird #faces #love #luv #smile #happy #happily #newpic #instalike #instapic\u2026 http://t.co/QAI98YlGl4",
+                "mytype": "tweet",
+                "score": 1.8194484,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461243488345272320/8M7EpMLS_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BermeoMapy/status/428981293784006656",
+                "trackback_author_url": "http://twitter.com/bermeomapy",
+                "highlight": "#me #nigga #selfie #weird #faces #love #luv #smile #happy #happily #newpic #instalike #instapic\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/bermeomapy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bermeomapy/status/428981293784006656",
+                "trackback_author_name": "#EcuadorNeedsWWAT",
+                "trackback_author_nick": "bermeomapy"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1391276869,
+                "title": "Mon amour &lt;3 #amour #love #boyfriend #amoureux #six #month #happy #happily #lovely #lfl #likeforlike\u2026 http://t.co/5lA0V5KfQc",
+                "url": "http://twitter.com/smileofguys/status/429672448276324353",
+                "trackback_date": 1391276869,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/5lA0V5KfQc",
+                        "display_url": "instagram.com/p/j4eRVzgh1A/",
+                        "expanded_url": "http://instagram.com/p/j4eRVzgh1A/",
+                        "topsy_expanded_url": "http://instagram.com/p/j4eRVzgh1A/"
+                    }
+                ],
+                "target_birth_date": 1391276869,
+                "content": "Mon amour &lt;3 #amour #love #boyfriend #amoureux #six #month #happy #happily #lovely #lfl #likeforlike\u2026 http://t.co/5lA0V5KfQc",
+                "mytype": "tweet",
+                "score": 1.8193603,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/456295123270119425/qoh4-mz9_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/smileofguys/status/429672448276324353",
+                "trackback_author_url": "http://twitter.com/smileofguys",
+                "highlight": "Mon amour &lt;3 #amour #love #boyfriend #amoureux #six #month #happy #happily #lovely #lfl #likeforlike\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/smileofguys",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/smileofguys/status/429672448276324353",
+                "trackback_author_name": "Corn\u00e9lia \u2728",
+                "trackback_author_nick": "smileofguys"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1356137254,
+                "title": "#90sBabyFollowTrain \ue420\n#RT ; #iFOLLOW #youFOLLOW \nwere #happy , no #FB yo a* is #HAPPILY#UNFOLLOWED \ue00d\n#leggo#lesbians#studs",
+                "url": "http://twitter.com/grownstatus_/status/282286220065775617",
+                "trackback_date": 1356138634,
+                "trackback_total": 8,
+                "url_expansions": [],
+                "target_birth_date": 1356137254,
+                "content": "RT @grownstatus_: #90sBabyFollowTrain \ue420\n#RT ; #iFOLLOW #youFOLLOW \nwere #happy , no #FB yo a* is #HAPPILY#UNFOLLOWED \ue00d\n#leggo#lesbians#studs",
+                "mytype": "tweet",
+                "score": 1.8181888,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000727238400/1af7d930b4f1f88c283e99ad43e21a1b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SLIMJ95/status/282292010914836481",
+                "trackback_author_url": "http://twitter.com/lmc_yungmari",
+                "highlight": "#90sBabyFollowTrain \ue420 #RT ; #iFOLLOW #youFOLLOW were #happy , no #FB yo a* is #HAPPILY#UNFOLLOWED \ue00d #leggo#lesbians",
+                "topsy_author_url": "http://topsy.com/twitter/lmc_yungmari",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/grownstatus_/status/282286220065775617",
+                "trackback_author_name": "Mario",
+                "trackback_author_nick": "lmc_yungmari"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1386169586,
+                "title": "\u2022I'm freezing.Brr\u2022\u2744\u26c4 #cold #toocold #wintertime #sun #happy #happily #happiness #scarf #beanie #coat\u2026 http://t.co/mmQAHZZkB3",
+                "url": "http://twitter.com/sadgiulia19/status/408250952949719040",
+                "trackback_date": 1386169586,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/mmQAHZZkB3",
+                        "display_url": "instagram.com/p/hgQvbjtIMu/",
+                        "expanded_url": "http://instagram.com/p/hgQvbjtIMu/",
+                        "topsy_expanded_url": "http://instagram.com/p/hgQvbjtIMu/"
+                    }
+                ],
+                "target_birth_date": 1386169586,
+                "content": "\u2022I'm freezing.Brr\u2022\u2744\u26c4 #cold #toocold #wintertime #sun #happy #happily #happiness #scarf #beanie #coat\u2026 http://t.co/mmQAHZZkB3",
+                "mytype": "tweet",
+                "score": 1.8181415,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463775485369909248/MWzYRWsI_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/sadgiulia19/status/408250952949719040",
+                "trackback_author_url": "http://twitter.com/sadgiulia19",
+                "highlight": "\u2022I'm freezing.Brr\u2022\u2744\u26c4 #cold #toocold #wintertime #sun #happy #happily #happiness #scarf #beanie #coat\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/sadgiulia19",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sadgiulia19/status/408250952949719040",
+                "trackback_author_name": "#FIAM",
+                "trackback_author_nick": "sadgiulia19"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1390724779,
+                "title": "#fruit #time #happily #ever  #happy #healthy #life #smile #strawberry #eat #laugh #pepino #meyve\u2026 http://t.co/vu4VZ6oSHk",
+                "url": "http://twitter.com/jbdrm/status/427356817656926208",
+                "trackback_date": 1390724779,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vu4VZ6oSHk",
+                        "display_url": "instagram.com/p/joBPt_kVs0/",
+                        "expanded_url": "http://instagram.com/p/joBPt_kVs0/",
+                        "topsy_expanded_url": "http://instagram.com/p/joBPt_kVs0/"
+                    }
+                ],
+                "target_birth_date": 1390724779,
+                "content": "#fruit #time #happily #ever  #happy #healthy #life #smile #strawberry #eat #laugh #pepino #meyve\u2026 http://t.co/vu4VZ6oSHk",
+                "mytype": "tweet",
+                "score": 1.8174222,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2805532689/8008b4648e2e428ae067ffebdd111da8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Jbdrm/status/427356817656926208",
+                "trackback_author_url": "http://twitter.com/jbdrm",
+                "highlight": "#fruit #time #happily #ever #happy #healthy #life #smile #strawberry #eat #laugh #pepino #meyve\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/jbdrm",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jbdrm/status/427356817656926208",
+                "trackback_author_name": "Beg\u00fcm T\u00fcrk",
+                "trackback_author_nick": "jbdrm"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1382266090,
+                "title": "\u00c9motionnellement joyeuse. #Yessaille #Happily #Fun #Happy #Happiness #Smile #Heureuse #WithoutYou #WestIndies #OhYeah. \u2764",
+                "url": "http://twitter.com/972_westindia/status/391878504796536832",
+                "trackback_date": 1382266090,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1382266090,
+                "content": "\u00c9motionnellement joyeuse. #Yessaille #Happily #Fun #Happy #Happiness #Smile #Heureuse #WithoutYou #WestIndies #OhYeah. \u2764",
+                "mytype": "tweet",
+                "score": 1.8167026,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000669594658/d7ba39fecf5f01fabe2efd418152b972_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/972_WestIndia/status/391878504796536832",
+                "trackback_author_url": "http://twitter.com/lilyvicenzo",
+                "highlight": "\u00c9motionnellement joyeuse. #Yessaille #Happily #Fun #Happy #Happiness #Smile #Heureuse #WithoutYou #WestIndies #OhYeah. \u2764",
+                "topsy_author_url": "http://topsy.com/twitter/lilyvicenzo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/972_westindia/status/391878504796536832",
+                "trackback_author_name": "Lisa's Tweets",
+                "trackback_author_nick": "lilyvicenzo"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1344184848,
+                "title": "#me #Moi #Mi #Friends #BestFriends #Sisters #Sister #Love #LoveHer #Happy #Happily #Posing #Posers #Photogra http://t.co/1SRojfWS",
+                "url": "http://twitter.com/georgie_spencer/status/232154196500164608",
+                "trackback_date": 1344184848,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1SRojfWS",
+                        "display_url": "instagr.am/p/N9AqpATEWo/",
+                        "expanded_url": "http://instagr.am/p/N9AqpATEWo/",
+                        "topsy_expanded_url": "http://instagr.am/p/N9AqpATEWo/"
+                    }
+                ],
+                "target_birth_date": 1344184848,
+                "content": "#me #Moi #Mi #Friends #BestFriends #Sisters #Sister #Love #LoveHer #Happy #Happily #Posing #Posers #Photogra http://t.co/1SRojfWS",
+                "mytype": "tweet",
+                "score": 1.8163478,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000420332348/7f8a755fe64ca40f9874387007d72456_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Georgie_spencer/status/232154196500164608",
+                "trackback_author_url": "http://twitter.com/georgie_spencer",
+                "highlight": "#me #Moi #Mi #Friends #BestFriends #Sisters #Sister #Love #LoveHer #Happy #Happily #Posing #Posers #Photogra",
+                "topsy_author_url": "http://topsy.com/twitter/georgie_spencer",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/georgie_spencer/status/232154196500164608",
+                "trackback_author_name": "That's so Georgia",
+                "trackback_author_nick": "georgie_spencer"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 610,
+        "hidden": 0,
+        "total": 1065,
+        "page": 1
+    }
+}

@@ -1,0 +1,296 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23happily+%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=980",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#happily #happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "980"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1387643003,
+                "title": "Hi \u270c\ufe0f#me #hi #giulia #happy #hair #brown #eyes #smile    #happily #instangram #instanlove #follow\u2026 http://t.co/B4rPUNuTlf",
+                "url": "http://twitter.com/ggiulii98/status/414430910281695232",
+                "trackback_date": 1387643003,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/B4rPUNuTlf",
+                        "display_url": "instagram.com/p/iMLOP5JxVO/",
+                        "expanded_url": "http://instagram.com/p/iMLOP5JxVO/",
+                        "topsy_expanded_url": "http://instagram.com/p/iMLOP5JxVO/"
+                    }
+                ],
+                "target_birth_date": 1387643003,
+                "content": "Hi \u270c\ufe0f#me #hi #giulia #happy #hair #brown #eyes #smile    #happily #instangram #instanlove #follow\u2026 http://t.co/B4rPUNuTlf",
+                "mytype": "tweet",
+                "score": 0.895701,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/422528715193872384/PYJnAiVc_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/GGiulii98/status/414430910281695232",
+                "trackback_author_url": "http://twitter.com/ggiulii98",
+                "highlight": "Hi \u270c\ufe0f#me #hi #giulia #happy #hair #brown #eyes #smile #happily #instangram #instanlove #follow\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/ggiulii98",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ggiulii98/status/414430910281695232",
+                "trackback_author_name": "I want a hug.",
+                "trackback_author_nick": "ggiulii98"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1360055521,
+                "title": "Your #happily every after only #occurs when #you #chose to be #happy #every #day. ~\u2665~",
+                "url": "http://twitter.com/radityosuargo8/status/298720624564637697",
+                "trackback_date": 1360055521,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1360055521,
+                "content": "Your #happily every after only #occurs when #you #chose to be #happy #every #day. ~\u2665~",
+                "mytype": "tweet",
+                "score": 0.89120716,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2950442865/28e988621cd9c3c811877426d6f657f5_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RadityoSuargo8/status/298720624564637697",
+                "trackback_author_url": "http://twitter.com/radityosuargo8",
+                "highlight": "Your #happily every after only #occurs when #you #chose to be #happy #every #day. ~\u2665~",
+                "topsy_author_url": "http://topsy.com/twitter/radityosuargo8",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/radityosuargo8/status/298720624564637697",
+                "trackback_author_name": "\u4e09R/\\DITYO \u264a SU/\\RGO\u4e09",
+                "trackback_author_nick": "radityosuargo8"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1359657907,
+                "title": "Kadircigimle eglendik biraz \ud83d\ude01 #happy #fun #funny #instagood #instamood #instaboy #happily #friend #pretty #c http://t.co/kiUJr4Cx",
+                "url": "http://twitter.com/caliskanyagmur/status/297052909881925632",
+                "trackback_date": 1359657907,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kiUJr4Cx",
+                        "display_url": "instagr.am/p/VKJcfhheO6/",
+                        "expanded_url": "http://instagr.am/p/VKJcfhheO6/",
+                        "topsy_expanded_url": "http://instagram.com/p/VKJcfhheO6/"
+                    }
+                ],
+                "target_birth_date": 1359657907,
+                "content": "Kadircigimle eglendik biraz \ud83d\ude01 #happy #fun #funny #instagood #instamood #instaboy #happily #friend #pretty #c http://t.co/kiUJr4Cx",
+                "mytype": "tweet",
+                "score": 0.88718086,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/450365932775694336/tIjJokh1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/caliskanyagmur/status/297052909881925632",
+                "trackback_author_url": "http://twitter.com/itsmeyagmurxo",
+                "highlight": "Kadircigimle eglendik biraz \ud83d\ude01 #happy #fun #funny #instagood #instamood #instaboy #happily #friend #pretty #c",
+                "topsy_author_url": "http://topsy.com/twitter/itsmeyagmurxo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/caliskanyagmur/status/297052909881925632",
+                "trackback_author_name": "Ya\u011fmur \u00c7al\u0131\u015fkan",
+                "trackback_author_nick": "itsmeyagmurxo"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1397487823,
+                "title": "RT @kingazurawska: One Direction - Happily \ud83c\udfb6 #onedirection #happily #6secondcovers #smile #happy https://t.co/2VmuoXtIvP",
+                "url": "http://twitter.com/elina_harry/status/455723078082129920",
+                "trackback_date": 1397487823,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/2VmuoXtIvP",
+                        "expanded_url": "https://vine.co/v/MqUTLzBOT15",
+                        "display_url": "vine.co/v/MqUTLzBOT15"
+                    }
+                ],
+                "target_birth_date": 1397487823,
+                "content": "RT @kingazurawska: One Direction - Happily \ud83c\udfb6 #onedirection #happily #6secondcovers #smile #happy https://t.co/2VmuoXtIvP",
+                "mytype": "tweet",
+                "score": 0.88265026,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464468674989268992/o7ypxgTF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Elina_Harry/status/455723078082129920",
+                "trackback_author_url": "http://twitter.com/elina_harry",
+                "highlight": "One Direction - Happily \ud83c\udfb6 #onedirection #happily #6secondcovers #smile #happy",
+                "topsy_author_url": "http://topsy.com/twitter/elina_harry",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/elina_harry/status/455723078082129920",
+                "trackback_author_name": "\u2661Elina\u2661",
+                "trackback_author_nick": "elina_harry"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1368413233,
+                "title": "#yesterday #happy #very #much #with #mylove #myheart #sweet #happily #happiness #handsome #pretty\u2026 http://t.co/hgPNadoTH6",
+                "url": "http://twitter.com/tiny_wd/status/333775407549669376",
+                "trackback_date": 1368413233,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/hgPNadoTH6",
+                        "display_url": "instagram.com/p/ZPFJs0AzfR/",
+                        "expanded_url": "http://instagram.com/p/ZPFJs0AzfR/",
+                        "topsy_expanded_url": "http://instagram.com/p/ZPFJs0AzfR/"
+                    }
+                ],
+                "target_birth_date": 1368413233,
+                "content": "#yesterday #happy #very #much #with #mylove #myheart #sweet #happily #happiness #handsome #pretty\u2026 http://t.co/hgPNadoTH6",
+                "mytype": "tweet",
+                "score": 0.87799066,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000054485138/089a155bff89ecbf3200e52e7123009a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Tiny_WD/status/333775407549669376",
+                "trackback_author_url": "http://twitter.com/tiny_wd",
+                "highlight": "#yesterday #happy #very #much #with #mylove #myheart #sweet #happily #happiness #handsome #pretty\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/tiny_wd",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tiny_wd/status/333775407549669376",
+                "trackback_author_name": "\u03c4\u0129\u0438\u04f5 \u2665 \u03c9\u0503",
+                "trackback_author_nick": "tiny_wd"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1358652102,
+                "title": "cover your sadness #happy #joy #enjoy #bliss #sadness #friends #motivate #love #happily #friendship #advice http://t.co/Jci4EJmH",
+                "url": "http://twitter.com/idzwane1/status/292834259738185728",
+                "trackback_date": 1358652102,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Jci4EJmH",
+                        "display_url": "instagr.am/p/UsLQ_0xzxi/",
+                        "expanded_url": "http://instagr.am/p/UsLQ_0xzxi/",
+                        "topsy_expanded_url": "http://instagram.com/p/UsLQ_0xzxi/"
+                    }
+                ],
+                "target_birth_date": 1358652102,
+                "content": "cover your sadness #happy #joy #enjoy #bliss #sadness #friends #motivate #love #happily #friendship #advice http://t.co/Jci4EJmH",
+                "mytype": "tweet",
+                "score": 0.87340075,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/450608983146242049/MK7uBuBh_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/IdzwanE1/status/292834259738185728",
+                "trackback_author_url": "http://twitter.com/idzwane1",
+                "highlight": "cover your sadness #happy #joy #enjoy #bliss #sadness #friends #motivate #love #happily #friendship #advice",
+                "topsy_author_url": "http://topsy.com/twitter/idzwane1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/idzwane1/status/292834259738185728",
+                "trackback_author_name": "iDzwanE1",
+                "trackback_author_nick": "idzwane1"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1387890664,
+                "title": "#24/12/1991 #22 #happy  #birthday #Louis #Tomlinson #picture #myhusband #darling #happily #forever\u2026 http://t.co/IAWQVrcWyx",
+                "url": "http://twitter.com/real_eda_nur/status/415469674223382528",
+                "trackback_date": 1387890664,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/IAWQVrcWyx",
+                        "display_url": "instagram.com/p/iTjmM_FebC/",
+                        "expanded_url": "http://instagram.com/p/iTjmM_FebC/",
+                        "topsy_expanded_url": "http://instagram.com/p/iTjmM_FebC/"
+                    }
+                ],
+                "target_birth_date": 1387890664,
+                "content": "#24/12/1991 #22 #happy  #birthday #Louis #Tomlinson #picture #myhusband #darling #happily #forever\u2026 http://t.co/IAWQVrcWyx",
+                "mytype": "tweet",
+                "score": 0.8689527,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/444854509299195904/HDcINQ0o_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Real_Eda_Nur/status/415469674223382528",
+                "trackback_author_url": "http://twitter.com/edawinchester_",
+                "highlight": "#24/12/1991 #22 #happy #birthday #Louis #Tomlinson #picture #myhusband #darling #happily #forever\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/edawinchester_",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/real_eda_nur/status/415469674223382528",
+                "trackback_author_name": "Eda Winchester",
+                "trackback_author_nick": "edawinchester_"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1386695687,
+                "title": "#RETRICA #me #crazys #beautiful #moments #time #good #happy #day #life #love #nice #cute #happily\u2026 http://t.co/8HKirRvis5",
+                "url": "http://twitter.com/escalante_gene/status/410457580285460480",
+                "trackback_date": 1386695687,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8HKirRvis5",
+                        "display_url": "instagram.com/p/hv7K67newZ/",
+                        "expanded_url": "http://instagram.com/p/hv7K67newZ/",
+                        "topsy_expanded_url": "http://instagram.com/p/hv7K67newZ/"
+                    }
+                ],
+                "target_birth_date": 1386695687,
+                "content": "#RETRICA #me #crazys #beautiful #moments #time #good #happy #day #life #love #nice #cute #happily\u2026 http://t.co/8HKirRvis5",
+                "mytype": "tweet",
+                "score": 0.86458623,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/415556343115042816/a9CS_5Bp_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/escalante_gene/status/410457580285460480",
+                "trackback_author_url": "http://twitter.com/escalante_gene",
+                "highlight": "#RETRICA #me #crazys #beautiful #moments #time #good #happy #day #life #love #nice #cute #happily\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/escalante_gene",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/escalante_gene/status/410457580285460480",
+                "trackback_author_name": "genesis escalante ",
+                "trackback_author_nick": "escalante_gene"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1393663445,
+                "title": "#yesterday #birthday #dad #majuelo #happy #crazy #watching #football #mum #cousin #so #happily\u2026 http://t.co/IeugXnEGsl",
+                "url": "http://twitter.com/maribelrgarcia/status/439682476525760512",
+                "trackback_date": 1393663445,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/IeugXnEGsl",
+                        "display_url": "instagram.com/p/k_mTkylWWx/",
+                        "expanded_url": "http://instagram.com/p/k_mTkylWWx/",
+                        "topsy_expanded_url": "http://instagram.com/p/k_mTkylWWx/"
+                    }
+                ],
+                "target_birth_date": 1393663445,
+                "content": "#yesterday #birthday #dad #majuelo #happy #crazy #watching #football #mum #cousin #so #happily\u2026 http://t.co/IeugXnEGsl",
+                "mytype": "tweet",
+                "score": 0.85718673,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/442569049445531648/dm85yfj7_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MaribelRGarcia/status/439682476525760512",
+                "trackback_author_url": "http://twitter.com/maribelrgarcia",
+                "highlight": "#yesterday #birthday #dad #majuelo #happy #crazy #watching #football #mum #cousin #so #happily\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/maribelrgarcia",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/maribelrgarcia/status/439682476525760512",
+                "trackback_author_name": "cuatro\u2665",
+                "trackback_author_nick": "maribelrgarcia"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1386043679,
+                "title": "#happily #love #hey #party #hard #crazy #alcool #loved #instacrazy #happy http://t.co/NL3P1iKvX0",
+                "url": "http://twitter.com/jukennady/status/407722861441585152",
+                "trackback_date": 1386043679,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/NL3P1iKvX0",
+                        "display_url": "instagram.com/p/hcguNDI6FU/",
+                        "expanded_url": "http://instagram.com/p/hcguNDI6FU/",
+                        "topsy_expanded_url": "http://instagram.com/p/hcguNDI6FU/"
+                    }
+                ],
+                "target_birth_date": 1386043679,
+                "content": "#happily #love #hey #party #hard #crazy #alcool #loved #instacrazy #happy http://t.co/NL3P1iKvX0",
+                "mytype": "tweet",
+                "score": 0.85541695,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461335626424791040/lcEhBzK8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jukennady/status/407722861441585152",
+                "trackback_author_url": "http://twitter.com/jukennady",
+                "highlight": "#happily #love #hey #party #hard #crazy #alcool #loved #instacrazy #happy",
+                "topsy_author_url": "http://topsy.com/twitter/jukennady",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jukennady/status/407722861441585152",
+                "trackback_author_name": "Julie Kennady",
+                "trackback_author_nick": "jukennady"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 980,
+        "hidden": 0,
+        "total": 1065,
+        "page": 1
+    }
+}

@@ -44,6 +44,8 @@ class TopsyCrawler:
         query.update(self.base_params)
         url_parts[4] = urllib.urlencode(query)
         initial_url = urlparse.urlunparse(url_parts)
+        print initial_url
+        sys.stdout.flush()
         return initial_url
     
     def crawlUrl(self, url):
@@ -52,7 +54,7 @@ class TopsyCrawler:
         """
         return json.loads(urllib.urlopen(url).readlines()[0]) #return json output
     
-    def fetchTweets(self, maxTweetNumber, delayPerRequest, **kwargs):
+    def fetchTweets(self, maxTweetNumber, delayPerRequest, writeFileHandle, folderName, **kwargs):
         """
         fetches tweets until the number of tweets fetched exceeds 'maxTweetNumber'
         'delayPerRequest' is the time in seconds to wait before making next request.
@@ -63,7 +65,7 @@ class TopsyCrawler:
         resultObj = {}
         resultObj = self.crawlUrl(url)
         processedResult = ResultsProcessor(resultObj)
-        self.writeJsonToCsv(processedResult)
+        self.writeJsonToCsv(processedResult, resultObj, writeFileHandle, 0, kwargs['q'], folderName)
         self.csvHeadersWritten = True
         offset = processedResult.offset
         nextOffset = offset+10
@@ -80,38 +82,46 @@ class TopsyCrawler:
             url = self.queryBuilder(apikey=self.base_params['apikey'], type=self.base_params['type'], window=self.base_params['window'], q=self.base_params['q'], offset=nextOffset)
             resultObj = self.crawlUrl(url)
             processedResult = ResultsProcessor(resultObj)
-            self.writeJsonToCsv(processedResult)
+            self.writeJsonToCsv(processedResult, resultObj, writeFileHandle, nextOffset, kwargs['q'], folderName)
             
             #Book keeping for processing next result
             nextOffset = nextOffset+10
             noOfTweetsFetched = len(processedResult.response['list']) + noOfTweetsFetched
+            #print "noOfTweetsFetched: ",noOfTweetsFetched
             
-    def writeJsonToCsv(self, jsonData):
+    def writeJsonToCsv(self, jsonData, jsonRawData, writeFile, offset, queryTags, folderName):
         """
         Used to write tweets data to csv file
+        writeFileHandle is False if output is to be written to stdout
+        writeFileHandle has fileName if output json is to be written to file
         """
-        columnNames  = ['hits','firstpost_date','title','url','trackback_date','trackback_total','url_expansions','target_birth_date','content',\
-    'mytype','score','topsy_author_img','trackback_permalink','trackback_author_url','highlight','topsy_author_url','topsy_trackback_url','trackback_author_name','trackback_author_nick']
-        if self.csvHeadersWritten ==  False:
-            #Write column names at the top of the csv
-            print "\t".join(columnNames)
-        
-        #For now, simplify
-        for tweet in jsonData.response['list']:
-            line = ""
-            for column in columnNames:
-                if type(tweet[column])==unicode:
-                    #print "string"
-                    if column == 'trackback_author_nick':
-                        #This is the last column and so insert new line after it for the new tweet
-                        print repr(tweet[column].encode('utf-8'))+"\t"
+        if not writeFile:
+            columnNames  = ['hits','firstpost_date','title','url','trackback_date','trackback_total','url_expansions','target_birth_date','content',\
+        'mytype','score','topsy_author_img','trackback_permalink','trackback_author_url','highlight','topsy_author_url','topsy_trackback_url','trackback_author_name','trackback_author_nick']
+            if self.csvHeadersWritten ==  False:
+                #Write column names at the top of the csv
+                print "\t".join(columnNames)
+            
+            #For now, simplify
+            for tweet in jsonData.response['list']:
+                line = ""
+                for column in columnNames:
+                    if type(tweet[column])==unicode:
+                        #print "string"
+                        if column == 'trackback_author_nick':
+                            #This is the last column and so insert new line after it for the new tweet
+                            print repr(tweet[column].encode('utf-8'))+"\t"
+                        else:
+                            print repr(tweet[column].encode('utf-8'))+"\t",
                     else:
-                        print repr(tweet[column].encode('utf-8'))+"\t",
-                else:
-                    #print "number"
-                    print str(tweet[column])+"\t",
-            
-            
+                        #print "number"
+                        print str(tweet[column])+"\t",
+        else:
+            #write json output to file
+            myfp = open(folderName+"/"+"_".join(queryTags.lower().split())+"_"+ str(offset) +".json","w")
+            json.dump(jsonRawData,  myfp, indent=4, sort_keys=False, separators=(',', ': '))
+            myfp.close()
+        
 class ResultsProcessor:
     """
     This class will perform operations on json results received from Topsy Crawler class
@@ -150,8 +160,25 @@ if __name__ == "__main__":
     """
     #example to fetch multiple tweets
     crawlerObj = TopsyCrawler(API_KEY)
-    crawlerObj.fetchTweets(50, 5, apikey=API_KEY, type='tweet', window='a', q='#happy #surprised')
-
-# <codecell>
-
+    
+    try:
+        no_of_results = int(sys.argv[1])
+        time_delay = float(sys.argv[2])
+        if sys.argv[3] == "True" or sys.argv[3] == "true":
+            write_to_file_flag = True
+        else:
+            write_to_file_flag = False
+        path_to_store_results = sys.argv[4]
+        query = sys.argv[5]                    
+        
+        print no_of_results
+        print time_delay
+        print write_to_file_flag
+        print path_to_store_results
+        print query
+        
+        crawlerObj.fetchTweets(no_of_results, time_delay, write_to_file_flag, path_to_store_results, apikey=API_KEY, type='tweet', window='a', q=query)
+    except:
+        print "Usage: python scriptName no_of_tweets_to_fetch time_delay_between_queries write_to_file_flag path_to_store_results query"
+        print "Error: ",sys.exc_info()[1]
 

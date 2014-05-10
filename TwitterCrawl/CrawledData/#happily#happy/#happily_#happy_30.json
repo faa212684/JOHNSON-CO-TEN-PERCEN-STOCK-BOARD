@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23happily+%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=30",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#happily #happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "30"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1390397335,
+                "title": "I'm in a good mood today #Happily #Happy",
+                "url": "http://twitter.com/malekrekik/status/425983414345273344",
+                "trackback_date": 1390397335,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1390397335,
+                "content": "I'm in a good mood today #Happily #Happy",
+                "mytype": "tweet",
+                "score": 4.863496,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463611267992014848/HEuvmtfe_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MalekRekik/status/425983414345273344",
+                "trackback_author_url": "http://twitter.com/malekrekik",
+                "highlight": "I'm in a good mood today #Happily",
+                "topsy_author_url": "http://topsy.com/twitter/malekrekik",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/malekrekik/status/425983414345273344",
+                "trackback_author_name": "Malek Rekik \u2661",
+                "trackback_author_nick": "malekrekik"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1387110259,
+                "title": "#Crisma #BomDia #Happily #Happy http://t.co/SiNB1rSFCn",
+                "url": "http://twitter.com/demsfeeling/status/412196418582249472",
+                "trackback_date": 1387110259,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/SiNB1rSFCn",
+                        "display_url": "instagram.com/p/h8Sw8mm_pd/",
+                        "expanded_url": "http://instagram.com/p/h8Sw8mm_pd/",
+                        "topsy_expanded_url": "http://instagram.com/p/h8Sw8mm_pd/"
+                    }
+                ],
+                "target_birth_date": 1387110259,
+                "content": "#Crisma #BomDia #Happily #Happy http://t.co/SiNB1rSFCn",
+                "mytype": "tweet",
+                "score": 4.8462377,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458081215032328192/EH7DQmFj_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/demsfeeling/status/412196418582249472",
+                "trackback_author_url": "http://twitter.com/demsfeeling",
+                "highlight": "#Crisma #BomDia #Happily #Happy",
+                "topsy_author_url": "http://topsy.com/twitter/demsfeeling",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/demsfeeling/status/412196418582249472",
+                "trackback_author_name": "warrior",
+                "trackback_author_nick": "demsfeeling"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1386063201,
+                "title": "Empieza bien el dia con una #rosa \ud83c\udf39\ud83d\ude0a #happily #happy #day http://t.co/MwqNVgFZ9l",
+                "url": "http://twitter.com/israel_corral/status/407804740484231168",
+                "trackback_date": 1386063201,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/MwqNVgFZ9l",
+                        "display_url": "instagram.com/p/hdFx0bDU4y/",
+                        "expanded_url": "http://instagram.com/p/hdFx0bDU4y/",
+                        "topsy_expanded_url": "http://instagram.com/p/hdFx0bDU4y/"
+                    }
+                ],
+                "target_birth_date": 1386063201,
+                "content": "Empieza bien el dia con una #rosa \ud83c\udf39\ud83d\ude0a #happily #happy #day http://t.co/MwqNVgFZ9l",
+                "mytype": "tweet",
+                "score": 4.836237,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3491359392/3658d3b9571f73f1a4db098533238c96_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Israel_Corral/status/407804740484231168",
+                "trackback_author_url": "http://twitter.com/israel_corral",
+                "highlight": "Empieza bien el dia con una #rosa \ud83c\udf39\ud83d\ude0a #happily #happy #day",
+                "topsy_author_url": "http://topsy.com/twitter/israel_corral",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/israel_corral/status/407804740484231168",
+                "trackback_author_name": "Israel Corral",
+                "trackback_author_nick": "israel_corral"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1332829717,
+                "title": "#\ud55c\uad6d\uc5b4 #hangul #smile #smiling #happy #happily #pola #bear #bears #swimming #swim #water #ice #white #blue #zo http://t.co/0VX6h4nv",
+                "url": "http://twitter.com/shanie_lui/status/184527327030546432",
+                "trackback_date": 1332829717,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/0VX6h4nv",
+                        "display_url": "instagr.am/p/Iqm0lYmVm0/",
+                        "expanded_url": "http://instagr.am/p/Iqm0lYmVm0/",
+                        "topsy_expanded_url": "http://instagr.am/p/Iqm0lYmVm0/"
+                    }
+                ],
+                "target_birth_date": 1332829717,
+                "content": "#\ud55c\uad6d\uc5b4 #hangul #smile #smiling #happy #happily #pola #bear #bears #swimming #swim #water #ice #white #blue #zo http://t.co/0VX6h4nv",
+                "mytype": "tweet",
+                "score": 4.8294225,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000752726679/8372764eb59108611330f3561c1b5732_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Shanie_Lui/status/184527327030546432",
+                "trackback_author_url": "http://twitter.com/shaniexxlui",
+                "highlight": "#\ud55c\uad6d\uc5b4 #hangul #smile #smiling #happy #happily #pola #bear #bears #swimming #swim #water #ice #white #blue #zo",
+                "topsy_author_url": "http://topsy.com/twitter/shaniexxlui",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/shanie_lui/status/184527327030546432",
+                "trackback_author_name": "\u2744\u30b7\u30e3\u30fc\u30cb\u30fc \u2744\u10e6\u10e6\u261c",
+                "trackback_author_nick": "shaniexxlui"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1385947927,
+                "title": "#happily #happy #directioner #wuandi http://t.co/oxjaPlKspI",
+                "url": "http://twitter.com/camillam_04/status/407321248449167360",
+                "trackback_date": 1385947927,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/oxjaPlKspI",
+                        "display_url": "instagram.com/p/hZqFasNa4z/",
+                        "expanded_url": "http://instagram.com/p/hZqFasNa4z/",
+                        "topsy_expanded_url": "http://instagram.com/p/hZqFasNa4z/"
+                    }
+                ],
+                "target_birth_date": 1385947927,
+                "content": "#happily #happy #directioner #wuandi http://t.co/oxjaPlKspI",
+                "mytype": "tweet",
+                "score": 4.822642,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462646653326221312/SRt_im70_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CamillaM_04/status/407321248449167360",
+                "trackback_author_url": "http://twitter.com/camillam_04",
+                "highlight": "#happily #happy #directioner #wuandi",
+                "topsy_author_url": "http://topsy.com/twitter/camillam_04",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/camillam_04/status/407321248449167360",
+                "trackback_author_name": "Camilla Melgarejo \u221e",
+                "trackback_author_nick": "camillam_04"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1395356170,
+                "title": "Feliz Dia de la Felicidad :)) #happily #happy #pharellwilliams #OneDirection",
+                "url": "http://twitter.com/joceline1d5sos/status/446782275846279168",
+                "trackback_date": 1395356170,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1395356170,
+                "content": "Feliz Dia de la Felicidad :)) #happily #happy #pharellwilliams #OneDirection",
+                "mytype": "tweet",
+                "score": 4.816519,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460052167819161602/FDF4CLLm_normal.png",
+                "trackback_permalink": "http://twitter.com/joceline1D5SOS/status/446782275846279168",
+                "trackback_author_url": "http://twitter.com/joceline1d5sos",
+                "highlight": "Feliz Dia de la Felicidad :)) #happily #happy #pharellwilliams",
+                "topsy_author_url": "http://topsy.com/twitter/joceline1d5sos",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/joceline1d5sos/status/446782275846279168",
+                "trackback_author_name": "joceline1D",
+                "trackback_author_nick": "joceline1d5sos"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1391022528,
+                "title": "\u00a1TREC acabado! ueeee\ud83c\udf89\ud83c\udf8a\ud83c\udf89\ud83c\udf88\ud83c\udf89\ud83c\udf8a\ud83c\udf89\ud83c\udf89\ud83c\udf88\ud83c\udf88#happily #happy #felicidad http://t.co/27oSoKhqyz",
+                "url": "http://twitter.com/bradfordlove_/status/428605666383908864",
+                "trackback_date": 1391022528,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/27oSoKhqyz",
+                        "display_url": "instagram.com/p/jw5J8ry1Rr/",
+                        "expanded_url": "http://instagram.com/p/jw5J8ry1Rr/",
+                        "topsy_expanded_url": "http://instagram.com/p/jw5J8ry1Rr/"
+                    }
+                ],
+                "target_birth_date": 1391022528,
+                "content": "\u00a1TREC acabado! ueeee\ud83c\udf89\ud83c\udf8a\ud83c\udf89\ud83c\udf88\ud83c\udf89\ud83c\udf8a\ud83c\udf89\ud83c\udf89\ud83c\udf88\ud83c\udf88#happily #happy #felicidad http://t.co/27oSoKhqyz",
+                "mytype": "tweet",
+                "score": 4.8098283,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/432194101732061184/gH3ayY8d_normal.png",
+                "trackback_permalink": "http://twitter.com/bradfordlove_/status/428605666383908864",
+                "trackback_author_url": "http://twitter.com/1dftfivesos",
+                "highlight": "\u00a1TREC acabado! ueeee\ud83c\udf89\ud83c\udf8a\ud83c\udf89\ud83c\udf88\ud83c\udf89\ud83c\udf8a\ud83c\udf89\ud83c\udf89\ud83c\udf88\ud83c\udf88#happily #happy #felicidad",
+                "topsy_author_url": "http://topsy.com/twitter/1dftfivesos",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bradfordlove_/status/428605666383908864",
+                "trackback_author_name": "\u262f ex bradfordlove_ \u262f",
+                "trackback_author_nick": "1dftfivesos"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1384753936,
+                "title": "WOOOOOOOOOAAAHHH!!!!\nI'M #HAPPILY #HAPPY :D",
+                "url": "http://twitter.com/cleonxd/status/402313284335837185",
+                "trackback_date": 1384753936,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1384753936,
+                "content": "WOOOOOOOOOAAAHHH!!!!\nI'M #HAPPILY #HAPPY :D",
+                "mytype": "tweet",
+                "score": 4.7744513,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461983949959737344/Yt75A5Ba_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CLeonXD/status/402313284335837185",
+                "trackback_author_url": "http://twitter.com/cleonxd",
+                "highlight": "WOOOOOOOOOAAAHHH!!!! I'M #HAPPILY #HAPPY :D",
+                "topsy_author_url": "http://topsy.com/twitter/cleonxd",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cleonxd/status/402313284335837185",
+                "trackback_author_name": "Leon.",
+                "trackback_author_nick": "cleonxd"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396944287,
+                "title": "Bom dia. Boa ter\u00e7a. \ud83d\ude0a\r#happiness #happily #happy #hope #bomdia\r#work #job http://t.co/TLx7MGKszZ",
+                "url": "http://twitter.com/moreeirajosi/status/453443324910002176",
+                "trackback_date": 1396944287,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/TLx7MGKszZ",
+                        "display_url": "instagram.com/p/mhYA-Hzd7Y/",
+                        "expanded_url": "http://instagram.com/p/mhYA-Hzd7Y/",
+                        "topsy_expanded_url": "http://instagram.com/p/mhYA-Hzd7Y/"
+                    }
+                ],
+                "target_birth_date": 1396944287,
+                "content": "Bom dia. Boa ter\u00e7a. \ud83d\ude0a\r#happiness #happily #happy #hope #bomdia\r#work #job http://t.co/TLx7MGKszZ",
+                "mytype": "tweet",
+                "score": 4.770706,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/446817991251210242/oPqJhuad_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MoreeiraJosi/status/453443324910002176",
+                "trackback_author_url": "http://twitter.com/moreeirajosi",
+                "highlight": "Bom dia. Boa ter\u00e7a. \ud83d\ude0a #happiness #happily #happy #hope #bomdia #work #job",
+                "topsy_author_url": "http://topsy.com/twitter/moreeirajosi",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/moreeirajosi/status/453443324910002176",
+                "trackback_author_name": "JOSIVANI MOREIRA \u2020",
+                "trackback_author_nick": "moreeirajosi"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392679894,
+                "title": "@onedirection #Happily #Happy :-) its a good song .my favorite song on the album.",
+                "url": "http://twitter.com/ttylnevaeh/status/435557162270461952",
+                "trackback_date": 1392679894,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1392679894,
+                "content": "@onedirection #Happily #Happy :-) its a good song .my favorite song on the album.",
+                "mytype": "tweet",
+                "score": 4.768859,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/416047774983929857/RdjNYgbp_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ttylnevaeh/status/435557162270461952",
+                "trackback_author_url": "http://twitter.com/ttylnevaeh",
+                "highlight": " #Happily #Happy :-) its a good song .my favorite song on the album.",
+                "topsy_author_url": "http://topsy.com/twitter/ttylnevaeh",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ttylnevaeh/status/435557162270461952",
+                "trackback_author_name": "Nevaeh (:",
+                "trackback_author_nick": "ttylnevaeh"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 30,
+        "hidden": 0,
+        "total": 1064,
+        "page": 1
+    }
+}

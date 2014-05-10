@@ -1,0 +1,310 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23happily+%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=370",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#happily #happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "370"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1360850333,
+                "title": "Both of us, sisters #happy #happily #happiness #overdue #cny #celebration #sisters #singapore #smile\u2026 http://t.co/gHoYRVGq",
+                "url": "http://twitter.com/unipenguinn/status/302054305849016320",
+                "trackback_date": 1360850333,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/gHoYRVGq",
+                        "display_url": "instagr.am/p/VtsID8lp2S/",
+                        "expanded_url": "http://instagr.am/p/VtsID8lp2S/",
+                        "topsy_expanded_url": "http://instagram.com/p/VtsID8lp2S/"
+                    }
+                ],
+                "target_birth_date": 1360850333,
+                "content": "Both of us, sisters #happy #happily #happiness #overdue #cny #celebration #sisters #singapore #smile\u2026 http://t.co/gHoYRVGq",
+                "mytype": "tweet",
+                "score": 1.9912726,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461746318143025153/cHWVKKqV_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/UNIPenguinn/status/302054305849016320",
+                "trackback_author_url": "http://twitter.com/peiyee_s",
+                "highlight": "Both of us, sisters #happy #happily #happiness #overdue #cny #celebration #sisters #singapore #smile\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/peiyee_s",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/unipenguinn/status/302054305849016320",
+                "trackback_author_name": "\u2022PE\u25b2YEE\u2022 ",
+                "trackback_author_nick": "peiyee_s"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1393981378,
+                "title": "#me #i #now #directioner #crazymofo #latina #argentina #happily #smile #happy #untouchable\u2026 http://t.co/w4z5KcKl7n",
+                "url": "http://twitter.com/lauradasilva96/status/441015980849106944",
+                "trackback_date": 1393981378,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/w4z5KcKl7n",
+                        "display_url": "instagram.com/p/lJEtp7muga/",
+                        "expanded_url": "http://instagram.com/p/lJEtp7muga/",
+                        "topsy_expanded_url": "http://instagram.com/p/lJEtp7muga/"
+                    }
+                ],
+                "target_birth_date": 1393981378,
+                "content": "#me #i #now #directioner #crazymofo #latina #argentina #happily #smile #happy #untouchable\u2026 http://t.co/w4z5KcKl7n",
+                "mytype": "tweet",
+                "score": 1.9908483,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000795946455/ea05ab297a8739d6eb1b94a0da50ed23_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LauraDaSilva96/status/441015980849106944",
+                "trackback_author_url": "http://twitter.com/lauradasilva96",
+                "highlight": "#me #i #now #directioner #crazymofo #latina #argentina #happily #smile #happy #untouchable\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/lauradasilva96",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lauradasilva96/status/441015980849106944",
+                "trackback_author_name": "Laura Da Silva \u2665 ",
+                "trackback_author_nick": "lauradasilva96"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396694021,
+                "title": "#dog #love #fun #happy #happily #animal #pet #instagram #photo #pic #nature #little http://t.co/2ZmMnU6Md7",
+                "url": "http://twitter.com/kalinicines/status/452393631694213120",
+                "trackback_date": 1396694021,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2ZmMnU6Md7",
+                        "display_url": "instagram.com/p/mZ6q5UGDbm/",
+                        "expanded_url": "http://instagram.com/p/mZ6q5UGDbm/",
+                        "topsy_expanded_url": "http://instagram.com/p/mZ6q5UGDbm/"
+                    }
+                ],
+                "target_birth_date": 1396694021,
+                "content": "#dog #love #fun #happy #happily #animal #pet #instagram #photo #pic #nature #little http://t.co/2ZmMnU6Md7",
+                "mytype": "tweet",
+                "score": 1.9894722,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459779231845998592/w3f30fzB_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/kalinicines/status/452393631694213120",
+                "trackback_author_url": "http://twitter.com/kalinicines",
+                "highlight": "#dog #love #fun #happy #happily #animal #pet #instagram #photo #pic #nature #little",
+                "topsy_author_url": "http://topsy.com/twitter/kalinicines",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kalinicines/status/452393631694213120",
+                "trackback_author_name": "Ines",
+                "trackback_author_nick": "kalinicines"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1398489890,
+                "title": "http://t.co/JjVmr2dFcJ #old #both #together #forever #happy #happily #ever #after #family #love #lifeistooshort... http://t.co/UCXUdQxdef",
+                "url": "http://twitter.com/datingfll/status/459926050269827072",
+                "trackback_date": 1398489890,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/JjVmr2dFcJ",
+                        "display_url": "r-js.com/1iXVCvw",
+                        "expanded_url": "http://r-js.com/1iXVCvw",
+                        "topsy_expanded_url": "http://instagram.com/p/nPb8khMZrY/"
+                    },
+                    {
+                        "url": "http://t.co/UCXUdQxdef",
+                        "display_url": "pic.twitter.com/UCXUdQxdef",
+                        "expanded_url": "http://twitter.com/DatingFLL/status/459926050269827072/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BmH8TimIIAAHD8_.jpg"
+                    }
+                ],
+                "target_birth_date": 1398489890,
+                "content": "http://t.co/JjVmr2dFcJ #old #both #together #forever #happy #happily #ever #after #family #love #lifeistooshort... http://t.co/UCXUdQxdef",
+                "mytype": "tweet",
+                "score": 1.9888804,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452429719510589440/zq3tP4Gy_normal.png",
+                "trackback_permalink": "http://twitter.com/DatingFLL/status/459926050269827072",
+                "trackback_author_url": "http://twitter.com/datingfll",
+                "highlight": " #old #both #together #forever #happy #happily #ever #after #family #love #lifeistooshort",
+                "topsy_author_url": "http://topsy.com/twitter/datingfll",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/datingfll/status/459926050269827072",
+                "trackback_author_name": "DatingFLL",
+                "trackback_author_nick": "datingfll"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392580799,
+                "title": "I love Thor&lt;3 \n#Fun #Funny #FollowMe #Fashion #friendly #Friend #Cool #Love #Hug #Hi #Happy #happily\u2026 http://t.co/LEfezYB7hA",
+                "url": "http://twitter.com/miluguerra22/status/435141527489482752",
+                "trackback_date": 1392580799,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/LEfezYB7hA",
+                        "display_url": "instagram.com/p/kfVUgjtooo/",
+                        "expanded_url": "http://instagram.com/p/kfVUgjtooo/",
+                        "topsy_expanded_url": "http://instagram.com/p/kfVUgjtooo/"
+                    }
+                ],
+                "target_birth_date": 1392580799,
+                "content": "I love Thor&lt;3 \n#Fun #Funny #FollowMe #Fashion #friendly #Friend #Cool #Love #Hug #Hi #Happy #happily\u2026 http://t.co/LEfezYB7hA",
+                "mytype": "tweet",
+                "score": 1.9882536,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/423850968128958464/OAL3kT6x_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MiluGuerra22/status/435141527489482752",
+                "trackback_author_url": "http://twitter.com/miluguerra22",
+                "highlight": "I love Thor&lt;3 #Fun #Funny #FollowMe #Fashion #friendly #Friend #Cool #Love #Hug #Hi #Happy #happily\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/miluguerra22",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/miluguerra22/status/435141527489482752",
+                "trackback_author_name": "Miluska Guerra\u221e",
+                "trackback_author_nick": "miluguerra22"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1370393553,
+                "title": "#\u0634\u062e\u0627\u0628\u064a\u0637\u064a #HAPPY #LIFE #SMILE #HAPPINESS  #HAPPILY BE HAPPY :\") http://t.co/90g1KXEbcU",
+                "url": "http://twitter.com/najwais1/status/342081473806991361",
+                "trackback_date": 1370393553,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/90g1KXEbcU",
+                        "display_url": "pic.twitter.com/90g1KXEbcU",
+                        "expanded_url": "http://twitter.com/najwais1/status/342081473806991361/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BL9RSbsCAAAk6bI.jpg"
+                    }
+                ],
+                "target_birth_date": 1370393553,
+                "content": "#\u0634\u062e\u0627\u0628\u064a\u0637\u064a #HAPPY #LIFE #SMILE #HAPPINESS  #HAPPILY BE HAPPY :\") http://t.co/90g1KXEbcU",
+                "mytype": "tweet",
+                "score": 1.9873811,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000776576112/3353a309f2e2ec37a7f42d3fd376e5e3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/najwais1/status/342081473806991361",
+                "trackback_author_url": "http://twitter.com/najwais1",
+                "highlight": "#\u0634\u062e\u0627\u0628\u064a\u0637\u064a #HAPPY #LIFE #SMILE #HAPPINESS #HAPPILY BE HAPPY :\")",
+                "topsy_author_url": "http://topsy.com/twitter/najwais1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/najwais1/status/342081473806991361",
+                "trackback_author_name": "I AM @enjise",
+                "trackback_author_nick": "najwais1"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1356309873,
+                "title": "I love this picture! \ud83c\udf37 #lovely #iloveyou #adorable #cute #dog #sweet #pretty #pose #oldtimes #happy #happily http://t.co/yI7D0btt",
+                "url": "http://twitter.com/likatvond/status/283010239958233089",
+                "trackback_date": 1356309873,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/yI7D0btt",
+                        "display_url": "instagr.am/p/TmXlNBn6KS/",
+                        "expanded_url": "http://instagr.am/p/TmXlNBn6KS/",
+                        "topsy_expanded_url": "http://instagram.com/p/TmXlNBn6KS/"
+                    }
+                ],
+                "target_birth_date": 1356309873,
+                "content": "I love this picture! \ud83c\udf37 #lovely #iloveyou #adorable #cute #dog #sweet #pretty #pose #oldtimes #happy #happily http://t.co/yI7D0btt",
+                "mytype": "tweet",
+                "score": 1.987334,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1778415745/DSC01553_normal.JPG",
+                "trackback_permalink": "http://twitter.com/Likatvond/status/283010239958233089",
+                "trackback_author_url": "http://twitter.com/likatvond",
+                "highlight": "I love this picture! \ud83c\udf37 #lovely #iloveyou #adorable #cute #dog #sweet #pretty #pose #oldtimes #happy #happily",
+                "topsy_author_url": "http://topsy.com/twitter/likatvond",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/likatvond/status/283010239958233089",
+                "trackback_author_name": "Lisa Michelle",
+                "trackback_author_nick": "likatvond"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1388148779,
+                "title": "#Instasummer #Instafiesta #Instatrabuco #Good #Time #Happy #Happily #Me #And anamarti96 aiidalara\u2026 http://t.co/go5mG4jEXB",
+                "url": "http://twitter.com/lidiagarrido96/status/416552290045394944",
+                "trackback_date": 1388148779,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/go5mG4jEXB",
+                        "display_url": "instagram.com/p/ibP6gnqCfp/",
+                        "expanded_url": "http://instagram.com/p/ibP6gnqCfp/",
+                        "topsy_expanded_url": "http://instagram.com/p/ibP6gnqCfp/"
+                    }
+                ],
+                "target_birth_date": 1388148779,
+                "content": "#Instasummer #Instafiesta #Instatrabuco #Good #Time #Happy #Happily #Me #And anamarti96 aiidalara\u2026 http://t.co/go5mG4jEXB",
+                "mytype": "tweet",
+                "score": 1.9864491,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/446352753473110016/VQ5KMEND_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LidiaGarrido96/status/416552290045394944",
+                "trackback_author_url": "http://twitter.com/lidiagarrido96",
+                "highlight": "#Instasummer #Instafiesta #Instatrabuco #Good #Time #Happy #Happily #Me #And anamarti96 aiidalara\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/lidiagarrido96",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lidiagarrido96/status/416552290045394944",
+                "trackback_author_name": "Lidiia Garrido\u265a",
+                "trackback_author_nick": "lidiagarrido96"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1376040739,
+                "title": "#icetea #ice #tea #lipton #new #happy #happily #yeah #love #good #best http://t.co/Uy1OMmalDu",
+                "url": "http://twitter.com/aysima_ozen/status/365767486987182080",
+                "trackback_date": 1376040739,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Uy1OMmalDu",
+                        "display_url": "instagram.com/p/cyZlrig5tk/",
+                        "expanded_url": "http://instagram.com/p/cyZlrig5tk/",
+                        "topsy_expanded_url": "http://instagram.com/p/cyZlrig5tk/"
+                    }
+                ],
+                "target_birth_date": 1376040739,
+                "content": "#icetea #ice #tea #lipton #new #happy #happily #yeah #love #good #best http://t.co/Uy1OMmalDu",
+                "mytype": "tweet",
+                "score": 1.9860222,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452867476708012032/Y9hmnqDM_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Aysima_Ozen/status/365767486987182080",
+                "trackback_author_url": "http://twitter.com/aysimaaozen",
+                "highlight": "#icetea #ice #tea #lipton #new #happy #happily #yeah #love #good #best",
+                "topsy_author_url": "http://topsy.com/twitter/aysimaaozen",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/aysima_ozen/status/365767486987182080",
+                "trackback_author_name": "Aysima \u00d6zen",
+                "trackback_author_nick": "aysimaaozen"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1361110331,
+                "title": "GOOD MORNING\n#morning #day #sun #wonderful #me #beautiful #pretty #prettygirl #body #happy #happily\u2026 http://t.co/k8l9LySQ",
+                "url": "http://twitter.com/kaaat_dreams/status/303144817121193984",
+                "trackback_date": 1361110331,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/k8l9LySQ",
+                        "display_url": "instagr.am/p/V1b2UmqE2E/",
+                        "expanded_url": "http://instagr.am/p/V1b2UmqE2E/",
+                        "topsy_expanded_url": "http://instagram.com/p/V1b2UmqE2E/"
+                    }
+                ],
+                "target_birth_date": 1361110331,
+                "content": "GOOD MORNING\n#morning #day #sun #wonderful #me #beautiful #pretty #prettygirl #body #happy #happily\u2026 http://t.co/k8l9LySQ",
+                "mytype": "tweet",
+                "score": 1.9852426,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000111028605/6eedac392f4731524be2e389f0976ed7_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/kaaat_dreams/status/303144817121193984",
+                "trackback_author_url": "http://twitter.com/kaaat_dreams",
+                "highlight": "GOOD MORNING #morning #day #sun #wonderful #me #beautiful #pretty #prettygirl #body #happy #happily\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/kaaat_dreams",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kaaat_dreams/status/303144817121193984",
+                "trackback_author_name": "Kath Cavalcanti",
+                "trackback_author_nick": "kaaat_dreams"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 370,
+        "hidden": 0,
+        "total": 1065,
+        "page": 1
+    }
+}

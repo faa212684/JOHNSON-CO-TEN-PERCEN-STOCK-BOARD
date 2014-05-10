@@ -1,0 +1,304 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23happily+%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=210",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#happily #happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "210"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1391821911,
+                "title": "#Happy #Hello  #Happily Only I want to be YOUR and I forever HAPPILY http://t.co/Bet3Hk8s5Z",
+                "url": "http://twitter.com/girlfriend_nial/status/431958519546273792",
+                "trackback_date": 1391821911,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Bet3Hk8s5Z",
+                        "display_url": "pic.twitter.com/Bet3Hk8s5Z",
+                        "expanded_url": "http://twitter.com/Girlfriend_Nial/status/431958519546273792/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bf6f_COCYAAoGuy.jpg"
+                    }
+                ],
+                "target_birth_date": 1391821911,
+                "content": "#Happy #Hello  #Happily Only I want to be YOUR and I forever HAPPILY http://t.co/Bet3Hk8s5Z",
+                "mytype": "tweet",
+                "score": 3.136408,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462768571009863681/0qWxAVvA_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Girlfriend_Nial/status/431958519546273792",
+                "trackback_author_url": "http://twitter.com/girlfriend_nial",
+                "highlight": "#Happy #Hello #Happily Only I want to be YOUR and I forever HAPPILY",
+                "topsy_author_url": "http://topsy.com/twitter/girlfriend_nial",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/girlfriend_nial/status/431958519546273792",
+                "trackback_author_name": "Mrs. Horan\u2764",
+                "trackback_author_nick": "girlfriend_nial"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1387760609,
+                "title": "@mayara_tiosso  tee amoo pretonaaa #formatura #party #night #blue #pink #happy #happily #fun #funny\u2026 http://t.co/SMfZKzi6iC",
+                "url": "http://twitter.com/giumarega/status/414924187703459840",
+                "trackback_date": 1387760609,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/SMfZKzi6iC",
+                        "display_url": "instagram.com/p/iPrifEsxCQ/",
+                        "expanded_url": "http://instagram.com/p/iPrifEsxCQ/",
+                        "topsy_expanded_url": "http://instagram.com/p/iPrifEsxCQ/"
+                    }
+                ],
+                "target_birth_date": 1387760609,
+                "content": "@mayara_tiosso  tee amoo pretonaaa #formatura #party #night #blue #pink #happy #happily #fun #funny\u2026 http://t.co/SMfZKzi6iC",
+                "mytype": "tweet",
+                "score": 2.9412222,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/422360474433245184/hNf8ZX88_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/giumarega/status/414924187703459840",
+                "trackback_author_url": "http://twitter.com/giumarega",
+                "highlight": " tee amoo pretonaaa #formatura #party #night #blue #pink #happy #happily #fun #funny\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/giumarega",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/giumarega/status/414924187703459840",
+                "trackback_author_name": "giumarega",
+                "trackback_author_nick": "giumarega"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1392774161,
+                "title": "Boring night.. #bored #black #and #white #homework #happily #onedirection #music #happy #:) http://t.co/TljXmEOuaW",
+                "url": "http://twitter.com/anne_marie22/status/435952546793136128",
+                "trackback_date": 1392774161,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/TljXmEOuaW",
+                        "display_url": "instagram.com/p/klGIUnoRnF/",
+                        "expanded_url": "http://instagram.com/p/klGIUnoRnF/",
+                        "topsy_expanded_url": "http://instagram.com/p/klGIUnoRnF/"
+                    }
+                ],
+                "target_birth_date": 1392774161,
+                "content": "Boring night.. #bored #black #and #white #homework #happily #onedirection #music #happy #:) http://t.co/TljXmEOuaW",
+                "mytype": "tweet",
+                "score": 2.8497531,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000760091266/216520987cb392c81ced0b6d5b2cb770_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Anne_Marie22/status/435952546793136128",
+                "trackback_author_url": "http://twitter.com/anne_marie22",
+                "highlight": "Boring night.. #bored #black #and #white #homework #happily #onedirection #music #happy #:)",
+                "topsy_author_url": "http://topsy.com/twitter/anne_marie22",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/anne_marie22/status/435952546793136128",
+                "trackback_author_name": "Anne-Marie Tremblay",
+                "trackback_author_nick": "anne_marie22"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1391385679,
+                "title": "Raquetas de nieve!!! :)) #canada #quebec #smile #sentmenat #snow #neige #harrystyles #happy #happily\u2026 http://t.co/w8hoKJDETz",
+                "url": "http://twitter.com/paulachl/status/430128829873803264",
+                "trackback_date": 1391385679,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/w8hoKJDETz",
+                        "display_url": "instagram.com/p/j7tz3ZJ9yS/",
+                        "expanded_url": "http://instagram.com/p/j7tz3ZJ9yS/",
+                        "topsy_expanded_url": "http://instagram.com/p/j7tz3ZJ9yS/"
+                    }
+                ],
+                "target_birth_date": 1391385679,
+                "content": "Raquetas de nieve!!! :)) #canada #quebec #smile #sentmenat #snow #neige #harrystyles #happy #happily\u2026 http://t.co/w8hoKJDETz",
+                "mytype": "tweet",
+                "score": 2.8443224,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464461239759142912/o6hXMG8X_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PaulaChL/status/430128829873803264",
+                "trackback_author_url": "http://twitter.com/paulachl",
+                "highlight": "Raquetas de nieve!!! :)) #canada #quebec #smile #sentmenat #snow #neige #harrystyles #happy #happily\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/paulachl",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/paulachl/status/430128829873803264",
+                "trackback_author_name": "Please Niall | Paula",
+                "trackback_author_nick": "paulachl"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396577956,
+                "title": "Podemos hacer que dure hasta el final.\u2665 #Me #Girl #School #Happy #Happily #Fly_Away_Away #Young #Love #Music\u2026 http://t.co/w4UPY6i4R4",
+                "url": "http://twitter.com/888infinito888/status/451906820555030529",
+                "trackback_date": 1396577956,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/w4UPY6i4R4",
+                        "display_url": "wp.me/p3QQZJ-2lMZ",
+                        "expanded_url": "http://wp.me/p3QQZJ-2lMZ",
+                        "topsy_expanded_url": "http://infinitooooo.wordpress.com/2014/04/04/podemos-hacer-que-dure-hasta-el-final-%e2%99%a5-me-girl-school-happy-happily-fly_away_away-young-love-music-followme-likeforlike-like4like-tagsforlikes-tagsforlikes-belive-photo-pictu/"
+                    }
+                ],
+                "target_birth_date": 1396577956,
+                "content": "Podemos hacer que dure hasta el final.\u2665 #Me #Girl #School #Happy #Happily #Fly_Away_Away #Young #Love #Music\u2026 http://t.co/w4UPY6i4R4",
+                "mytype": "tweet",
+                "score": 2.8170385,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1800782757/infinity_sticker-p217158763114904261z85xz_400_normal.jpg",
+                "trackback_permalink": "http://twitter.com/888infinito888/status/451906820555030529",
+                "trackback_author_url": "http://twitter.com/888infinito888",
+                "highlight": "Podemos hacer que dure hasta el final.\u2665 #Me #Girl #School #Happy #Happily #Fly_Away_Away #Young #Love #Music\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/888infinito888",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/888infinito888/status/451906820555030529",
+                "trackback_author_name": "\u221eInfiniTweet\u221e",
+                "trackback_author_nick": "888infinito888"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1348277007,
+                "title": "#beutiful #be #happy #today #happily #by #me #cool @gabi_taka http://t.co/ehmX7DTg",
+                "url": "http://twitter.com/raquelmmello/status/249317956885024768",
+                "trackback_date": 1348277007,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ehmX7DTg",
+                        "display_url": "instagr.am/p/P2-a6ozDbi/",
+                        "expanded_url": "http://instagr.am/p/P2-a6ozDbi/",
+                        "topsy_expanded_url": "http://instagr.am/p/P2-a6ozDbi/"
+                    }
+                ],
+                "target_birth_date": 1348277007,
+                "content": "#beutiful #be #happy #today #happily #by #me #cool @gabi_taka http://t.co/ehmX7DTg",
+                "mytype": "tweet",
+                "score": 2.8036427,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000578124197/87ed0224393950cb457d3dc2815f6053_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/raquelmmello/status/249317956885024768",
+                "trackback_author_url": "http://twitter.com/raquelmmello",
+                "highlight": "#beutiful #be #happy #today #happily #by #me #cool @gabi_taka",
+                "topsy_author_url": "http://topsy.com/twitter/raquelmmello",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/raquelmmello/status/249317956885024768",
+                "trackback_author_name": "Raquel",
+                "trackback_author_nick": "raquelmmello"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1391886297,
+                "title": "Be with me so happily &lt;3 #meandyou #love #you #happy #onedirection #happily #bored #RVA #instaframe\u2026 http://t.co/L5hdLwBWVJ",
+                "url": "http://twitter.com/savannah_ayee97/status/432228576352800768",
+                "trackback_date": 1391886297,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/L5hdLwBWVJ",
+                        "display_url": "instagram.com/p/kKoqhYBMFF/",
+                        "expanded_url": "http://instagram.com/p/kKoqhYBMFF/",
+                        "topsy_expanded_url": "http://instagram.com/p/kKoqhYBMFF/"
+                    }
+                ],
+                "target_birth_date": 1391886297,
+                "content": "Be with me so happily &lt;3 #meandyou #love #you #happy #onedirection #happily #bored #RVA #instaframe\u2026 http://t.co/L5hdLwBWVJ",
+                "mytype": "tweet",
+                "score": 2.765348,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000800709741/2875ffffc90326f4100ef753a4844c82_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/savannah_ayee97/status/432228576352800768",
+                "trackback_author_url": "http://twitter.com/savannah_ayee97",
+                "highlight": "Be with me so happily &lt;3 #meandyou #love #you #happy #onedirection #happily #bored #RVA #instaframe\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/savannah_ayee97",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/savannah_ayee97/status/432228576352800768",
+                "trackback_author_name": "5SOS \u2665 1D \u2665 MAHOMIE",
+                "trackback_author_nick": "savannah_ayee97"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1387566093,
+                "title": "Bye bye exams. #me #girl #bye #exams #holidays #christmas #cute #pretty #eyes #smile #happy #happily\u2026 http://t.co/piZnlp0YU4",
+                "url": "http://twitter.com/albabf12/status/414108328659529728",
+                "trackback_date": 1387566093,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/piZnlp0YU4",
+                        "display_url": "instagram.com/p/iJ4h6Dy8aW/",
+                        "expanded_url": "http://instagram.com/p/iJ4h6Dy8aW/",
+                        "topsy_expanded_url": "http://instagram.com/p/iJ4h6Dy8aW/"
+                    }
+                ],
+                "target_birth_date": 1387566093,
+                "content": "Bye bye exams. #me #girl #bye #exams #holidays #christmas #cute #pretty #eyes #smile #happy #happily\u2026 http://t.co/piZnlp0YU4",
+                "mytype": "tweet",
+                "score": 2.6823306,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/446805765610037249/ug7TEUtJ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Albabf12/status/414108328659529728",
+                "trackback_author_url": "http://twitter.com/albabf12",
+                "highlight": "Bye bye exams. #me #girl #bye #exams #holidays #christmas #cute #pretty #eyes #smile #happy #happily\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/albabf12",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/albabf12/status/414108328659529728",
+                "trackback_author_name": "Alba",
+                "trackback_author_nick": "albabf12"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1387229352,
+                "title": "#cruise #crusero #happy #harry #msc #f4f #follow #familia #forever #happy #happily #l4l #lala #liam\u2026 http://t.co/BUwwmAOPnM",
+                "url": "http://twitter.com/sra__direction/status/412695934477533184",
+                "trackback_date": 1387229352,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/BUwwmAOPnM",
+                        "display_url": "instagram.com/p/h_2GYmmOag/",
+                        "expanded_url": "http://instagram.com/p/h_2GYmmOag/",
+                        "topsy_expanded_url": "http://instagram.com/p/h_2GYmmOag/"
+                    }
+                ],
+                "target_birth_date": 1387229352,
+                "content": "#cruise #crusero #happy #harry #msc #f4f #follow #familia #forever #happy #happily #l4l #lala #liam\u2026 http://t.co/BUwwmAOPnM",
+                "mytype": "tweet",
+                "score": 2.666549,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/455519356672561152/jUjqq0_v_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Sra__Direction/status/412695934477533184",
+                "trackback_author_url": "http://twitter.com/sra__direction",
+                "highlight": "#cruise #crusero #happy #harry #msc #f4f #follow #familia #forever #happy #happily #l4l #lala #liam\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/sra__direction",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sra__direction/status/412695934477533184",
+                "trackback_author_name": "Shailyn ",
+                "trackback_author_nick": "sra__direction"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1381419564,
+                "title": "Felicidad(es). #wedding #smile #laugh #happy #happiness #happily #ever #after #bride #dress #white\u2026 http://t.co/YyprdgXizU",
+                "url": "http://twitter.com/andiepuntog/status/388327916549177344",
+                "trackback_date": 1381419564,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/YyprdgXizU",
+                        "display_url": "instagram.com/p/fSsr1NjB7Y/",
+                        "expanded_url": "http://instagram.com/p/fSsr1NjB7Y/",
+                        "topsy_expanded_url": "http://instagram.com/p/fSsr1NjB7Y/"
+                    }
+                ],
+                "target_birth_date": 1381419564,
+                "content": "Felicidad(es). #wedding #smile #laugh #happy #happiness #happily #ever #after #bride #dress #white\u2026 http://t.co/YyprdgXizU",
+                "mytype": "tweet",
+                "score": 2.597631,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2394003705/9zn7azqz2pfjof23hfka_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/andiepuntoG/status/388327916549177344",
+                "trackback_author_url": "http://twitter.com/andiepuntog",
+                "highlight": "Felicidad(es). #wedding #smile #laugh #happy #happiness #happily #ever #after #bride #dress #white\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/andiepuntog",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/andiepuntog/status/388327916549177344",
+                "trackback_author_name": "Andie - PERVERTIDO",
+                "trackback_author_nick": "andiepuntog"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 210,
+        "hidden": 0,
+        "total": 1065,
+        "page": 1
+    }
+}
