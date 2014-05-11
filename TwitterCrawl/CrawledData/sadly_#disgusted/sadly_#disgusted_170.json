@@ -1,0 +1,66 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=sadly+%23disgusted&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=170",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "sadly #disgusted",
+            "window": "a",
+            "type": "tweet",
+            "offset": "170"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1332809497,
+                "title": "RT @freemdd: Sadly yes. RT @naujar: #TEAMMGMC @MaksimC @MelissaEGilbert were underscored!! Judges are playing games already #DISGUSTED #DWTS",
+                "url": "http://twitter.com/alllwftopic/status/184442516534329346",
+                "trackback_date": 1332809497,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1332809497,
+                "content": "RT @freemdd: Sadly yes. RT @naujar: #TEAMMGMC @MaksimC @MelissaEGilbert were underscored!! Judges are playing games already #DISGUSTED #DWTS",
+                "mytype": "tweet",
+                "score": -0.36550655999999998,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/424047106613981184/Uae01I8r_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Alllwftopic/status/184442516534329346",
+                "trackback_author_url": "http://twitter.com/alllwftopic",
+                "highlight": "Sadly yes.#TEAMMGMC @MaksimC @MelissaEGilbert were underscored!! Judges are playing games already #DISGUSTED",
+                "topsy_author_url": "http://topsy.com/twitter/alllwftopic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/alllwftopic/status/184442516534329346",
+                "trackback_author_name": "Allwftopic",
+                "trackback_author_nick": "alllwftopic"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1332809486,
+                "title": "RT @freemdd: Sadly yes. RT @naujar: #TEAMMGMC @MaksimC @MelissaEGilbert were underscored!! Judges are playing games already #DISGUSTED #DWTS",
+                "url": "http://twitter.com/naujar/status/184442472041160704",
+                "trackback_date": 1332809486,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1332809486,
+                "content": "RT @freemdd: Sadly yes. RT @naujar: #TEAMMGMC @MaksimC @MelissaEGilbert were underscored!! Judges are playing games already #DISGUSTED #DWTS",
+                "mytype": "tweet",
+                "score": -0.36550655999999998,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1924965678/aquarius42_normal.jpg",
+                "trackback_permalink": "http://twitter.com/naujar/status/184442472041160704",
+                "trackback_author_url": "http://twitter.com/naujar",
+                "highlight": "Sadly yes.#TEAMMGMC @MaksimC @MelissaEGilbert were underscored!! Judges are playing games already #DISGUSTED",
+                "topsy_author_url": "http://topsy.com/twitter/naujar",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/naujar/status/184442472041160704",
+                "trackback_author_name": "Rajuan Bratcher",
+                "trackback_author_nick": "naujar"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 170,
+        "hidden": 0,
+        "total": 172,
+        "page": 1
+    }
+}

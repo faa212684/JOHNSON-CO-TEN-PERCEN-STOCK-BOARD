@@ -1,0 +1,51 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23angrily+%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#angrily #happy",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1376237727,
+                "title": "#london #thorpepark #happy #blacklooks #angrily http://t.co/H3Nm4ddKtC",
+                "url": "http://twitter.com/serdarkya/status/366593714036031489",
+                "trackback_date": 1376237727,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/H3Nm4ddKtC",
+                        "display_url": "instagram.com/p/c4RIOzvzY3/",
+                        "expanded_url": "http://instagram.com/p/c4RIOzvzY3/",
+                        "topsy_expanded_url": "http://instagram.com/p/c4RIOzvzY3/"
+                    }
+                ],
+                "target_birth_date": 1376237727,
+                "content": "#london #thorpepark #happy #blacklooks #angrily http://t.co/H3Nm4ddKtC",
+                "mytype": "tweet",
+                "score": 1.8730156,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000277301947/8de8ad611d81e305888cd54ccb5073fa_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/serdarkya/status/366593714036031489",
+                "trackback_author_url": "http://twitter.com/serdarkya",
+                "highlight": "#london #thorpepark #happy #blacklooks #angrily",
+                "topsy_author_url": "http://topsy.com/twitter/serdarkya",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/serdarkya/status/366593714036031489",
+                "trackback_author_name": "serdar kaya",
+                "trackback_author_nick": "serdarkya"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

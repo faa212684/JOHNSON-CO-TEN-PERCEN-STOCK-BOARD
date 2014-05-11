@@ -1,0 +1,73 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23surprisingly+%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=40",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#surprisingly #happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "40"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1348680053,
+                "title": "Time to get paid \ud83d\udcb5 #work #hollister #me #surprisingly #happy #money #mall #colgate #smile #me #handsome #bla http://t.co/uqle2qCo",
+                "url": "http://twitter.com/terrellalmighty/status/251008452221083648",
+                "trackback_date": 1348680053,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/uqle2qCo",
+                        "display_url": "instagr.am/p/QBXgq9jFCJ/",
+                        "expanded_url": "http://instagr.am/p/QBXgq9jFCJ/",
+                        "topsy_expanded_url": "http://instagr.am/p/QBXgq9jFCJ/"
+                    }
+                ],
+                "target_birth_date": 1348680053,
+                "content": "Time to get paid \ud83d\udcb5 #work #hollister #me #surprisingly #happy #money #mall #colgate #smile #me #handsome #bla http://t.co/uqle2qCo",
+                "mytype": "tweet",
+                "score": 4.500877,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464247521859362816/Ji9aXsAc_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TerrellAlmighty/status/251008452221083648",
+                "trackback_author_url": "http://twitter.com/awiseblackguy",
+                "highlight": "Time to get paid \ud83d\udcb5 #work #hollister #me #surprisingly #happy #money #mall #colgate #smile #me #handsome #bla",
+                "topsy_author_url": "http://topsy.com/twitter/awiseblackguy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/terrellalmighty/status/251008452221083648",
+                "trackback_author_name": "Terrell \u270c\ufe0f",
+                "trackback_author_nick": "awiseblackguy"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1364226772,
+                "title": "Days been great! \ud83d\ude0a #happy #surprisingly #illtakeittho",
+                "url": "http://twitter.com/brianawyant/status/316216119167967234",
+                "trackback_date": 1364226772,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1364226772,
+                "content": "Days been great! \ud83d\ude0a #happy #surprisingly #illtakeittho",
+                "mytype": "tweet",
+                "score": 2.3353557999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464785398141440000/8opgwcRC_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/brianawyant/status/316216119167967234",
+                "trackback_author_url": "http://twitter.com/brianawyant",
+                "highlight": "Days been great! \ud83d\ude0a #happy #surprisingly",
+                "topsy_author_url": "http://topsy.com/twitter/brianawyant",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/brianawyant/status/316216119167967234",
+                "trackback_author_name": "Briana",
+                "trackback_author_nick": "brianawyant"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 40,
+        "hidden": 0,
+        "total": 86,
+        "page": 1
+    }
+}

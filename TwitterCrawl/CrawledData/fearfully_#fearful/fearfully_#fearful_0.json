@@ -1,0 +1,100 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=fearfully+%23fearful&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "fearfully #fearful",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1367262214,
+                "title": "@BobbyEgwim you have just 1 ball!!!!\nI asked why, u said:\nGod created humans both wonderfuly and fearfully made.\n#fearful made idiot!",
+                "url": "http://twitter.com/chuckzy_paul/status/328947685300256768",
+                "trackback_date": 1367262214,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1367262214,
+                "content": "@BobbyEgwim you have just 1 ball!!!!\nI asked why, u said:\nGod created humans both wonderfuly and fearfully made.\n#fearful made idiot!",
+                "mytype": "tweet",
+                "score": 0.89154169999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3441607893/5e66e4751dab6902e4de759acffc4851_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/chuckzy_Paul/status/328947685300256768",
+                "trackback_author_url": "http://twitter.com/chuckzy_paul",
+                "highlight": " you have just 1 ball!!!! I asked why, u said: God created humans both wonderfuly and fearfully made. #fearful made idiot!",
+                "topsy_author_url": "http://topsy.com/twitter/chuckzy_paul",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/chuckzy_paul/status/328947685300256768",
+                "trackback_author_name": "Paul\u00a4Clinton",
+                "trackback_author_nick": "chuckzy_paul"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1359409006,
+                "title": "Watch us crawl so fearfully. #life #underoath #lyrics #triangle #illuminati #outside #fearful #trees #nature http://t.co/Ggy11UKT",
+                "url": "http://twitter.com/anaimadrid/status/296008943694647298",
+                "trackback_date": 1359409006,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Ggy11UKT",
+                        "display_url": "instagr.am/p/VCu1dlvdt0/",
+                        "expanded_url": "http://instagr.am/p/VCu1dlvdt0/",
+                        "topsy_expanded_url": "http://instagram.com/p/VCu1dlvdt0/"
+                    }
+                ],
+                "target_birth_date": 1359409006,
+                "content": "Watch us crawl so fearfully. #life #underoath #lyrics #triangle #illuminati #outside #fearful #trees #nature http://t.co/Ggy11UKT",
+                "mytype": "tweet",
+                "score": 0.82760979999999995,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/445370564245348352/UMJ9PCeA_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/anaimadrid/status/296008943694647298",
+                "trackback_author_url": "http://twitter.com/anaimadrid",
+                "highlight": "Watch us crawl so fearfully. #life #underoath #lyrics #triangle #illuminati #outside #fearful #trees #nature",
+                "topsy_author_url": "http://topsy.com/twitter/anaimadrid",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/anaimadrid/status/296008943694647298",
+                "trackback_author_name": "Ana Madrid",
+                "trackback_author_nick": "anaimadrid"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1360081134,
+                "title": "I Am Fearfully And Wonderfully Made!! In My KK Voice!\n\n#Fearful #Wonderful #InHisHands #Love #God\u2026 http://t.co/qhyHoF9z",
+                "url": "http://twitter.com/olegurrl/status/298828054342541313",
+                "trackback_date": 1360081134,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/qhyHoF9z",
+                        "display_url": "instagr.am/p/VWwpdVod8R/",
+                        "expanded_url": "http://instagr.am/p/VWwpdVod8R/",
+                        "topsy_expanded_url": "http://instagram.com/p/VWwpdVod8R/"
+                    }
+                ],
+                "target_birth_date": 1360081134,
+                "content": "I Am Fearfully And Wonderfully Made!! In My KK Voice!\n\n#Fearful #Wonderful #InHisHands #Love #God\u2026 http://t.co/qhyHoF9z",
+                "mytype": "tweet",
+                "score": 0.81622492999999996,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/431108572034772992/Z8y62Fee_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OleGurrl/status/298828054342541313",
+                "trackback_author_url": "http://twitter.com/gigibuford",
+                "highlight": "I Am Fearfully And Wonderfully Made!! In My KK Voice! #Fearful #Wonderful #InHisHands #Love #God\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/gigibuford",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/olegurrl/status/298828054342541313",
+                "trackback_author_name": "Gigi Buford",
+                "trackback_author_nick": "gigibuford"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 3,
+        "page": 1
+    }
+}

@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=sadly+%23disgusted&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=160",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "sadly #disgusted",
+            "window": "a",
+            "type": "tweet",
+            "offset": "160"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1384448809,
+                "title": "RT @DJFreshSA: Sadly not illegal RT @Jadey169: HELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt! http://t\u2026",
+                "url": "http://twitter.com/burner_wc/status/401033491171012608",
+                "trackback_date": 1384448809,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/YZYWmGU0Yx",
+                        "expanded_url": "http://twitter.com/MelissaBachman/status/396306051298902017/photo/1",
+                        "display_url": "pic.twitter.com/YZYWmGU0Yx"
+                    }
+                ],
+                "target_birth_date": 1384448809,
+                "content": "RT @DJFreshSA: Sadly not illegal RT @Jadey169: HELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt! http://t\u2026",
+                "mytype": "tweet",
+                "score": -0.14403819000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/443362798106849281/26uM1Tst_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Burner_WC/status/401033491171012608",
+                "trackback_author_url": "http://twitter.com/burner_wc",
+                "highlight": "Sadly not illegalHELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt!",
+                "topsy_author_url": "http://topsy.com/twitter/burner_wc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/burner_wc/status/401033491171012608",
+                "trackback_author_name": "Werner Cilliers",
+                "trackback_author_nick": "burner_wc"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1384448781,
+                "title": "RT @DJFreshSA: Sadly not illegal RT @Jadey169: HELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt! http://t\u2026",
+                "url": "http://twitter.com/sirkvn/status/401033370853212160",
+                "trackback_date": 1384448781,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/YZYWmGU0Yx",
+                        "expanded_url": "http://twitter.com/MelissaBachman/status/396306051298902017/photo/1",
+                        "display_url": "pic.twitter.com/YZYWmGU0Yx"
+                    }
+                ],
+                "target_birth_date": 1384448781,
+                "content": "RT @DJFreshSA: Sadly not illegal RT @Jadey169: HELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt! http://t\u2026",
+                "mytype": "tweet",
+                "score": -0.14403819000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2352271868/u17pvmevgdh3nuhyz4qu_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Sirkvn/status/401033370853212160",
+                "trackback_author_url": "http://twitter.com/sirkvn",
+                "highlight": "Sadly not illegalHELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt!",
+                "topsy_author_url": "http://topsy.com/twitter/sirkvn",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sirkvn/status/401033370853212160",
+                "trackback_author_name": "Sirkev",
+                "trackback_author_nick": "sirkvn"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1384448251,
+                "title": "RT @DJFreshSA: Sadly not illegal RT @Jadey169: HELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt! http://t\u2026",
+                "url": "http://twitter.com/venterchris/status/401031150845431809",
+                "trackback_date": 1384448251,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/YZYWmGU0Yx",
+                        "expanded_url": "http://twitter.com/MelissaBachman/status/396306051298902017/photo/1",
+                        "display_url": "pic.twitter.com/YZYWmGU0Yx"
+                    }
+                ],
+                "target_birth_date": 1384448251,
+                "content": "RT @DJFreshSA: Sadly not illegal RT @Jadey169: HELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt! http://t\u2026",
+                "mytype": "tweet",
+                "score": -0.14403819000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461975350537252864/rFTBe92H_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/venterchris/status/401031150845431809",
+                "trackback_author_url": "http://twitter.com/venterchris",
+                "highlight": "Sadly not illegalHELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt!",
+                "topsy_author_url": "http://topsy.com/twitter/venterchris",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/venterchris/status/401031150845431809",
+                "trackback_author_name": "CV",
+                "trackback_author_nick": "venterchris"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1384448240,
+                "title": "RT @DJFreshSA: Sadly not illegal RT @Jadey169: HELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt! http://t\u2026",
+                "url": "http://twitter.com/kerudru/status/401031103219511296",
+                "trackback_date": 1384448240,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/YZYWmGU0Yx",
+                        "expanded_url": "http://twitter.com/MelissaBachman/status/396306051298902017/photo/1",
+                        "display_url": "pic.twitter.com/YZYWmGU0Yx"
+                    }
+                ],
+                "target_birth_date": 1384448240,
+                "content": "RT @DJFreshSA: Sadly not illegal RT @Jadey169: HELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt! http://t\u2026",
+                "mytype": "tweet",
+                "score": -0.14403819000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000710970074/1b46e44a99b6f8a17625e1923832b902_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/kerudru/status/401031103219511296",
+                "trackback_author_url": "http://twitter.com/kerudru",
+                "highlight": "Sadly not illegalHELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt!",
+                "topsy_author_url": "http://topsy.com/twitter/kerudru",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kerudru/status/401031103219511296",
+                "trackback_author_name": "Dru",
+                "trackback_author_nick": "kerudru"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1384448011,
+                "title": "RT @DJFreshSA: Sadly not illegal RT @Jadey169: HELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt! http://t\u2026",
+                "url": "http://twitter.com/angeblackstar/status/401030142577094656",
+                "trackback_date": 1384448011,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/YZYWmGU0Yx",
+                        "expanded_url": "http://twitter.com/MelissaBachman/status/396306051298902017/photo/1",
+                        "display_url": "pic.twitter.com/YZYWmGU0Yx"
+                    }
+                ],
+                "target_birth_date": 1384448011,
+                "content": "RT @DJFreshSA: Sadly not illegal RT @Jadey169: HELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt! http://t\u2026",
+                "mytype": "tweet",
+                "score": -0.14403819000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000448098221/975b56f0c964b3f8f65ca07c7bcd5e44_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Angeblackstar/status/401030142577094656",
+                "trackback_author_url": "http://twitter.com/angeblackstar",
+                "highlight": "Sadly not illegalHELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt!",
+                "topsy_author_url": "http://topsy.com/twitter/angeblackstar",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/angeblackstar/status/401030142577094656",
+                "trackback_author_name": "Angela Scott-Parkin",
+                "trackback_author_nick": "angeblackstar"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1384447954,
+                "title": "RT @DJFreshSA: Sadly not illegal RT @Jadey169: HELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt! http://t\u2026",
+                "url": "http://twitter.com/jfk_za/status/401029903937982464",
+                "trackback_date": 1384447954,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/YZYWmGU0Yx",
+                        "expanded_url": "http://twitter.com/MelissaBachman/status/396306051298902017/photo/1",
+                        "display_url": "pic.twitter.com/YZYWmGU0Yx"
+                    }
+                ],
+                "target_birth_date": 1384447954,
+                "content": "RT @DJFreshSA: Sadly not illegal RT @Jadey169: HELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt! http://t\u2026",
+                "mytype": "tweet",
+                "score": -0.14403819000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1741655062/IMG-20111123-00809_normal.jpg",
+                "trackback_permalink": "http://twitter.com/JFK_ZA/status/401029903937982464",
+                "trackback_author_url": "http://twitter.com/jfk_za",
+                "highlight": "Sadly not illegalHELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt!",
+                "topsy_author_url": "http://topsy.com/twitter/jfk_za",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jfk_za/status/401029903937982464",
+                "trackback_author_name": "Johan F Kruger",
+                "trackback_author_nick": "jfk_za"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1384447887,
+                "title": "RT @DJFreshSA: Sadly not illegal RT @Jadey169: HELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt! http://t\u2026",
+                "url": "http://twitter.com/youngnovadc/status/401029622592466944",
+                "trackback_date": 1384447887,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/YZYWmGU0Yx",
+                        "expanded_url": "http://twitter.com/MelissaBachman/status/396306051298902017/photo/1",
+                        "display_url": "pic.twitter.com/YZYWmGU0Yx"
+                    }
+                ],
+                "target_birth_date": 1384447887,
+                "content": "RT @DJFreshSA: Sadly not illegal RT @Jadey169: HELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt! http://t\u2026",
+                "mytype": "tweet",
+                "score": -0.14403819000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462757844920434688/FEy2muG9_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/YoungNovaDC/status/401029622592466944",
+                "trackback_author_url": "http://twitter.com/youngnovadc",
+                "highlight": "Sadly not illegalHELP!How do we report this?!! #disgusted \"@MelissaBachman:hunt in S.A! what a hunt!",
+                "topsy_author_url": "http://topsy.com/twitter/youngnovadc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/youngnovadc/status/401029622592466944",
+                "trackback_author_name": "NovaDC #RIPMadiba ",
+                "trackback_author_nick": "youngnovadc"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1372415182,
+                "title": "RT @wchohan_: From NFAK, Abida Parveen to Alamgir and Nazia Hasan. Sadly, we gave fame to Taher Shah. #Pakistan. #Disgusted. #Wherearewehea\u2026",
+                "url": "http://twitter.com/itxsmg/status/350560799770685443",
+                "trackback_date": 1372415182,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1372415182,
+                "content": "RT @wchohan_: From NFAK, Abida Parveen to Alamgir and Nazia Hasan. Sadly, we gave fame to Taher Shah. #Pakistan. #Disgusted. #Wherearewehea\u2026",
+                "mytype": "tweet",
+                "score": -0.18089674,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000148543897/fb4c6325fc8c4fe13a6354b964a35e33_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/itxSMG/status/350560799770685443",
+                "trackback_author_url": "http://twitter.com/itxsmg",
+                "highlight": "From NFAK, Abida Parveen to Alamgir and Nazia Hasan. Sadly, we gave fame to Taher Shah. #Pakistan. #Disgusted. #Wherearewehea\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/itxsmg",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/itxsmg/status/350560799770685443",
+                "trackback_author_name": "Sheraz Masoud Gondal",
+                "trackback_author_nick": "itxsmg"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1372414008,
+                "title": "RT @wchohan_: From NFAK, Abida Parveen to Alamgir and Nazia Hasan. Sadly, we gave fame to Taher Shah. #Pakistan. #Disgusted. #Wherearewehea\u2026",
+                "url": "http://twitter.com/ayeshaidawood/status/350555874114285568",
+                "trackback_date": 1372414008,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1372414008,
+                "content": "RT @wchohan_: From NFAK, Abida Parveen to Alamgir and Nazia Hasan. Sadly, we gave fame to Taher Shah. #Pakistan. #Disgusted. #Wherearewehea\u2026",
+                "mytype": "tweet",
+                "score": -0.18089674,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000710455772/28141753c9e5ede763eb48464f58ca9d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ayeshaidawood/status/350555874114285568",
+                "trackback_author_url": "http://twitter.com/ayeshaidawood",
+                "highlight": "From NFAK, Abida Parveen to Alamgir and Nazia Hasan. Sadly, we gave fame to Taher Shah. #Pakistan. #Disgusted. #Wherearewehea\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/ayeshaidawood",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ayeshaidawood/status/350555874114285568",
+                "trackback_author_name": "Ayesha",
+                "trackback_author_nick": "ayeshaidawood"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1332817588,
+                "title": "RT @freemdd: Sadly yes. RT @naujar: #TEAMMGMC @MaksimC @MelissaEGilbert were underscored!! Judges are playing games already #DISGUSTED #DWTS",
+                "url": "http://twitter.com/cowgirlluvsjb/status/184476452828364801",
+                "trackback_date": 1332817588,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1332817588,
+                "content": "RT @freemdd: Sadly yes. RT @naujar: #TEAMMGMC @MaksimC @MelissaEGilbert were underscored!! Judges are playing games already #DISGUSTED #DWTS",
+                "mytype": "tweet",
+                "score": -0.36550655999999998,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3284717407/ec158b3cd37fd46e7e538c555b6b6589_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/cowgirlluvsJB/status/184476452828364801",
+                "trackback_author_url": "http://twitter.com/cowgirlluvsjb",
+                "highlight": "Sadly yes.#TEAMMGMC @MaksimC @MelissaEGilbert were underscored!! Judges are playing games already #DISGUSTED",
+                "topsy_author_url": "http://topsy.com/twitter/cowgirlluvsjb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cowgirlluvsjb/status/184476452828364801",
+                "trackback_author_name": "Lindsay Jones",
+                "trackback_author_nick": "cowgirlluvsjb"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 160,
+        "hidden": 0,
+        "total": 172,
+        "page": 1
+    }
+}

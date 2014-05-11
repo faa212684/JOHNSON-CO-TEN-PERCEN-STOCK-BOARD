@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=angrily+surprised&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=400",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "angrily surprised",
+            "window": "a",
+            "type": "tweet",
+            "offset": "400"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1378137821,
+                "title": "im surprised my phone isnt completely destroyed due to how many times i angrily throw it.",
+                "url": "http://twitter.com/lin_stitzer/status/374563287847149568",
+                "trackback_date": 1378137821,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1378137821,
+                "content": "im surprised my phone isnt completely destroyed due to how many times i angrily throw it.",
+                "mytype": "tweet",
+                "score": 0.98981607000000005,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/450308693994012672/gkSFn3Xr_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/lin_stitzer/status/374563287847149568",
+                "trackback_author_url": "http://twitter.com/lin_stitzer",
+                "highlight": "im surprised my phone isnt completely destroyed due to how many times i angrily throw it.",
+                "topsy_author_url": "http://topsy.com/twitter/lin_stitzer",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lin_stitzer/status/374563287847149568",
+                "trackback_author_name": "Lindsey Stitzer",
+                "trackback_author_nick": "lin_stitzer"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1277665069,
+                "title": "@politicsofuk i'm not surprised england acted angrily to the denied goal, I did, we all did!!!",
+                "url": "",
+                "trackback_date": 1277665069,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1277665069,
+                "content": "@politicsofuk i'm not surprised england acted angrily to the denied goal, I did, we all did!!!",
+                "mytype": "tweet",
+                "score": 0.98755139999999997,
+                "topsy_author_img": "http://a1.twimg.com/profile_images/1266021608/debs1_normal.jpg",
+                "trackback_permalink": "",
+                "trackback_author_url": "http://twitter.com/deborahjpoyser",
+                "highlight": " i'm not surprised england acted angrily to the denied goal, I did, we all did!!!",
+                "topsy_author_url": "http://topsy.com/twitter/deborahjpoyser",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=",
+                "trackback_author_name": "Deborah Jane Poyser",
+                "trackback_author_nick": "deborahjpoyser"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396498697,
+                "title": "RT @newscientist: Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us http://t.co\u2026",
+                "url": "http://twitter.com/nexusdog_uk/status/451574381714501633",
+                "trackback_date": 1396498697,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4JrG3zxqfS",
+                        "expanded_url": "http://ow.ly/vf4MY",
+                        "display_url": "ow.ly/vf4MY"
+                    }
+                ],
+                "target_birth_date": 1396498697,
+                "content": "RT @newscientist: Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us http://t.co\u2026",
+                "mytype": "tweet",
+                "score": 0.98692740000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3703706881/5b55347ca4c6997cb8387d3e29752d2c_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Nexusdog_UK/status/451574381714501633",
+                "trackback_author_url": "http://twitter.com/nexusdog_uk",
+                "highlight": "Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us",
+                "topsy_author_url": "http://topsy.com/twitter/nexusdog_uk",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nexusdog_uk/status/451574381714501633",
+                "trackback_author_name": "Andy",
+                "trackback_author_nick": "nexusdog_uk"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396497814,
+                "title": "RT @newscientist: Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us http://t.co\u2026",
+                "url": "http://twitter.com/transhumantech/status/451570680304115713",
+                "trackback_date": 1396497814,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4JrG3zxqfS",
+                        "expanded_url": "http://ow.ly/vf4MY",
+                        "display_url": "ow.ly/vf4MY"
+                    }
+                ],
+                "target_birth_date": 1396497814,
+                "content": "RT @newscientist: Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us http://t.co\u2026",
+                "mytype": "tweet",
+                "score": 0.98692740000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000442221179/6f2be7f2580370c2eed2b10c5bcb68c1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TranshumanTech/status/451570680304115713",
+                "trackback_author_url": "http://twitter.com/transhumantech",
+                "highlight": "Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us",
+                "topsy_author_url": "http://topsy.com/twitter/transhumantech",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/transhumantech/status/451570680304115713",
+                "trackback_author_name": "TranshumanTechnology",
+                "trackback_author_nick": "transhumantech"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396306358,
+                "title": "RT @newscientist: Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us http://t.co\u2026",
+                "url": "http://twitter.com/orwellupgraded/status/450767655541436416",
+                "trackback_date": 1396306358,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4JrG3zxqfS",
+                        "expanded_url": "http://ow.ly/vf4MY",
+                        "display_url": "ow.ly/vf4MY"
+                    }
+                ],
+                "target_birth_date": 1396306358,
+                "content": "RT @newscientist: Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us http://t.co\u2026",
+                "mytype": "tweet",
+                "score": 0.98692740000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2556746576/19yicobl0wstxzpmf27y_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OrwellUpgraded/status/450767655541436416",
+                "trackback_author_url": "http://twitter.com/orwellupgraded",
+                "highlight": "Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us",
+                "topsy_author_url": "http://topsy.com/twitter/orwellupgraded",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/orwellupgraded/status/450767655541436416",
+                "trackback_author_name": "Orwell Upgraded",
+                "trackback_author_nick": "orwellupgraded"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396305403,
+                "title": "RT @newscientist: Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us http://t.co\u2026",
+                "url": "http://twitter.com/bu_baarchanth/status/450763648957693952",
+                "trackback_date": 1396305403,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4JrG3zxqfS",
+                        "expanded_url": "http://ow.ly/vf4MY",
+                        "display_url": "ow.ly/vf4MY"
+                    }
+                ],
+                "target_birth_date": 1396305403,
+                "content": "RT @newscientist: Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us http://t.co\u2026",
+                "mytype": "tweet",
+                "score": 0.98692740000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2965587756/9b00466e683bc2d4f30b09923d45acd7_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BU_BAArchAnth/status/450763648957693952",
+                "trackback_author_url": "http://twitter.com/bu_baarchanth",
+                "highlight": "Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us",
+                "topsy_author_url": "http://topsy.com/twitter/bu_baarchanth",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bu_baarchanth/status/450763648957693952",
+                "trackback_author_name": "BA Arch&Anth",
+                "trackback_author_nick": "bu_baarchanth"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396302581,
+                "title": "RT @newscientist: Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us http://t.co\u2026",
+                "url": "http://twitter.com/babe471119/status/450751811733839872",
+                "trackback_date": 1396302581,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4JrG3zxqfS",
+                        "expanded_url": "http://ow.ly/vf4MY",
+                        "display_url": "ow.ly/vf4MY"
+                    }
+                ],
+                "target_birth_date": 1396302581,
+                "content": "RT @newscientist: Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us http://t.co\u2026",
+                "mytype": "tweet",
+                "score": 0.98692740000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1249888013/Elizabeth_De_la_Barrera_Blanor_normal.jpg",
+                "trackback_permalink": "http://twitter.com/babe471119/status/450751811733839872",
+                "trackback_author_url": "http://twitter.com/babe471119",
+                "highlight": "Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us",
+                "topsy_author_url": "http://topsy.com/twitter/babe471119",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/babe471119/status/450751811733839872",
+                "trackback_author_name": "Linda DelaBarrera",
+                "trackback_author_nick": "babe471119"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396299875,
+                "title": "RT @newscientist: Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us http://t.co\u2026",
+                "url": "http://twitter.com/illystraight/status/450740463319130112",
+                "trackback_date": 1396299875,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4JrG3zxqfS",
+                        "expanded_url": "http://ow.ly/vf4MY",
+                        "display_url": "ow.ly/vf4MY"
+                    }
+                ],
+                "target_birth_date": 1396299875,
+                "content": "RT @newscientist: Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us http://t.co\u2026",
+                "mytype": "tweet",
+                "score": 0.98692740000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000444833331/33717f00bf7c93c356c6544cc6b45cc4_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/illystraight/status/450740463319130112",
+                "trackback_author_url": "http://twitter.com/illystraight",
+                "highlight": "Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us",
+                "topsy_author_url": "http://topsy.com/twitter/illystraight",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/illystraight/status/450740463319130112",
+                "trackback_author_name": "karen harvill",
+                "trackback_author_nick": "illystraight"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396299725,
+                "title": "RT @newscientist: Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us http://t.co\u2026",
+                "url": "http://twitter.com/rosefroud/status/450739832273518592",
+                "trackback_date": 1396299725,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4JrG3zxqfS",
+                        "expanded_url": "http://ow.ly/vf4MY",
+                        "display_url": "ow.ly/vf4MY"
+                    }
+                ],
+                "target_birth_date": 1396299725,
+                "content": "RT @newscientist: Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us http://t.co\u2026",
+                "mytype": "tweet",
+                "score": 0.98692740000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3274200433/5393ccce9ec45d444e49fd4c924c8afd_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RoseFroud/status/450739832273518592",
+                "trackback_author_url": "http://twitter.com/rosefroud",
+                "highlight": "Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us",
+                "topsy_author_url": "http://topsy.com/twitter/rosefroud",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rosefroud/status/450739832273518592",
+                "trackback_author_name": "Rose Froud",
+                "trackback_author_nick": "rosefroud"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396299450,
+                "title": "RT @newscientist: Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us http://t.co\u2026",
+                "url": "http://twitter.com/manucalves/status/450738682530910208",
+                "trackback_date": 1396299450,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4JrG3zxqfS",
+                        "expanded_url": "http://ow.ly/vf4MY",
+                        "display_url": "ow.ly/vf4MY"
+                    }
+                ],
+                "target_birth_date": 1396299450,
+                "content": "RT @newscientist: Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us http://t.co\u2026",
+                "mytype": "tweet",
+                "score": 0.98692740000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000055922389/d59c1e460c544da17e309640c42fc5f0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ManucAlves/status/450738682530910208",
+                "trackback_author_url": "http://twitter.com/manucalves",
+                "highlight": "Happily surprised or angrily disgusted? A new face map of mixed feelings could help AI machines understand us",
+                "topsy_author_url": "http://topsy.com/twitter/manucalves",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/manucalves/status/450738682530910208",
+                "trackback_author_name": "Manu",
+                "trackback_author_nick": "manucalves"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 400,
+        "hidden": 0,
+        "total": 683,
+        "page": 1
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23surprisingly+%23angry&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#surprisingly #angry",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1352507063,
+                "title": "RT @XboxNewsCenter: Game-News | #Angry #Birds #Star #Wars #Makes #Surprisingly #Good Use Of the #License: Don\u2019t\u2026 http://t.co/2V2jjuWE",
+                "url": "http://twitter.com/folivierefox/status/267060098948538368",
+                "trackback_date": 1352507063,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2V2jjuWE",
+                        "expanded_url": "http://goo.gl/fb/PjwXc",
+                        "display_url": "goo.gl/fb/PjwXc"
+                    }
+                ],
+                "target_birth_date": 1352507063,
+                "content": "RT @XboxNewsCenter: Game-News | #Angry #Birds #Star #Wars #Makes #Surprisingly #Good Use Of the #License: Don\u2019t\u2026 http://t.co/2V2jjuWE",
+                "mytype": "tweet",
+                "score": 0.28109124000000002,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/2911466987/e9dc4abeddcc72df784dfbf70c65d274_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/FOliviereFox/status/267060098948538368",
+                "trackback_author_url": "http://twitter.com/carina_bitt",
+                "highlight": "Game-News | #Angry #Birds #Star #Wars #Makes #Surprisingly #Good Use Of the #License: Don\u2019t\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/carina_bitt",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/folivierefox/status/267060098948538368",
+                "trackback_author_name": "Carina Bittencourt",
+                "trackback_author_nick": "carina_bitt"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

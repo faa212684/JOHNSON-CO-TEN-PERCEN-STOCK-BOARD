@@ -1,0 +1,44 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23fearfully+%23fearful&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#fearfully #fearful",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1279493710,
+                "title": "We are all #fearfully and #wonderfully made but obviously, some are more #fearful than others!",
+                "url": "http://twitter.com/xvalzx/status/18869821706",
+                "trackback_date": 1279493710,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1279493710,
+                "content": "We are all #fearfully and #wonderfully made but obviously, some are more #fearful than others!",
+                "mytype": "tweet",
+                "score": 0.86509150000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/440602974902321152/mQQFiKZJ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/xValzx/status/18869821706",
+                "trackback_author_url": "http://twitter.com/missvaex",
+                "highlight": "We are all #fearfully and #wonderfully made but obviously, some are more #fearful than others!",
+                "topsy_author_url": "http://topsy.com/twitter/missvaex",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/xvalzx/status/18869821706",
+                "trackback_author_name": "Miiss Valerie x",
+                "trackback_author_nick": "missvaex"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

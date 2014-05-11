@@ -1,0 +1,285 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=angrily+%23angry&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=10",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "angrily #angry",
+            "window": "a",
+            "type": "tweet",
+            "offset": "10"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1316014505,
+                "title": "RT @SummerovGeorge: I'm too angry to tweet angrily today. #angry #veryangry #staggeringlyangry",
+                "url": "http://twitter.com/marcusbowlerhat/status/113999213913841664",
+                "trackback_date": 1316014505,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1316014505,
+                "content": "RT @SummerovGeorge: I'm too angry to tweet angrily today. #angry #veryangry #staggeringlyangry",
+                "mytype": "tweet",
+                "score": 4.1149009999999997,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000767381770/426d7584a29585e95abee1b42119bae9_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/marcusbowlerhat/status/113999213913841664",
+                "trackback_author_url": "http://twitter.com/marcusbowlerhat",
+                "highlight": "I'm too angry to tweet angrily today. #angry #veryangry",
+                "topsy_author_url": "http://topsy.com/twitter/marcusbowlerhat",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/marcusbowlerhat/status/113999213913841664",
+                "trackback_author_name": "Marcus Miller",
+                "trackback_author_nick": "marcusbowlerhat"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1383357028,
+                "title": "RT @PuckBuddys: Psychopath. RT @recordsANDradio: Rinaldo angrily pulling his hair on the angry bench. #angry https://t.co/mYKiDsuwRI",
+                "url": "http://twitter.com/tpbadam/status/396454228518256640",
+                "trackback_date": 1383357028,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/mYKiDsuwRI",
+                        "expanded_url": "https://vine.co/v/hjmvAFWz7Yv",
+                        "display_url": "vine.co/v/hjmvAFWz7Yv"
+                    }
+                ],
+                "target_birth_date": 1383357028,
+                "content": "RT @PuckBuddys: Psychopath. RT @recordsANDradio: Rinaldo angrily pulling his hair on the angry bench. #angry https://t.co/mYKiDsuwRI",
+                "mytype": "tweet",
+                "score": 4.048635,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/447849275415089154/rVsYXFd6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TPBadam/status/396454228518256640",
+                "trackback_author_url": "http://twitter.com/tpbadam",
+                "highlight": "Psychopath.Rinaldo angrily pulling his hair on the angry bench. #angry",
+                "topsy_author_url": "http://topsy.com/twitter/tpbadam",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tpbadam/status/396454228518256640",
+                "trackback_author_name": "Adam C",
+                "trackback_author_nick": "tpbadam"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1383356674,
+                "title": "RT @recordsANDradio: Rinaldo angrily pulling his hair on the angry bench... #angry https://t.co/nD50yOrUr9",
+                "url": "http://twitter.com/ngreenberg/status/396452744086568960",
+                "trackback_date": 1383356674,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/nD50yOrUr9",
+                        "expanded_url": "https://vine.co/v/hjmvAFWz7Yv",
+                        "display_url": "vine.co/v/hjmvAFWz7Yv"
+                    }
+                ],
+                "target_birth_date": 1383356674,
+                "content": "RT @recordsANDradio: Rinaldo angrily pulling his hair on the angry bench... #angry https://t.co/nD50yOrUr9",
+                "mytype": "tweet",
+                "score": 3.8245765999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/442456035496714240/EHpavRpp_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ngreenberg/status/396452744086568960",
+                "trackback_author_url": "http://twitter.com/ngreenberg",
+                "highlight": "Rinaldo angrily pulling his hair on the angry bench... #angry",
+                "topsy_author_url": "http://topsy.com/twitter/ngreenberg",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ngreenberg/status/396452744086568960",
+                "trackback_author_name": "Neil Greenberg",
+                "trackback_author_nick": "ngreenberg"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1376016944,
+                "title": "Todd eating his dinner...angrily. #dinner #beach #week #obx #2013 #cfh #campfairhaven #cousin #angry\u2026 http://t.co/8RS7lSkTmN",
+                "url": "http://twitter.com/htlacy/status/365667685712920577",
+                "trackback_date": 1376016944,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8RS7lSkTmN",
+                        "display_url": "instagram.com/p/cxruSrOCc7/",
+                        "expanded_url": "http://instagram.com/p/cxruSrOCc7/",
+                        "topsy_expanded_url": "http://instagram.com/p/cxruSrOCc7/"
+                    }
+                ],
+                "target_birth_date": 1376016944,
+                "content": "Todd eating his dinner...angrily. #dinner #beach #week #obx #2013 #cfh #campfairhaven #cousin #angry\u2026 http://t.co/8RS7lSkTmN",
+                "mytype": "tweet",
+                "score": 3.8074720000000002,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3532806696/3627569eb104713aa88a9287cca36376_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/htlacy/status/365667685712920577",
+                "trackback_author_url": "http://twitter.com/htlacy",
+                "highlight": "Todd eating his dinner...angrily. #dinner #beach #week #obx #2013 #cfh #campfairhaven #cousin #angry\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/htlacy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/htlacy/status/365667685712920577",
+                "trackback_author_name": "Hannah Lacy",
+                "trackback_author_nick": "htlacy"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1381301520,
+                "title": "@labrathor_ I'd feel mean :( I shall just pent up my anger as I stare angrily at him in anger #angry",
+                "url": "http://twitter.com/thisislisa_b/status/387832804501110784",
+                "trackback_date": 1381301520,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1381301520,
+                "content": "@labrathor_ I'd feel mean :( I shall just pent up my anger as I stare angrily at him in anger #angry",
+                "mytype": "tweet",
+                "score": 3.7659433,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460525282781589504/JwNU0NOl_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ThisIsLisa_B/status/387832804501110784",
+                "trackback_author_url": "http://twitter.com/thisislisa_b",
+                "highlight": " I'd feel mean :( I shall just pent up my anger as I stare angrily at him in anger",
+                "topsy_author_url": "http://topsy.com/twitter/thisislisa_b",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/thisislisa_b/status/387832804501110784",
+                "trackback_author_name": "Lisa Bee",
+                "trackback_author_nick": "thisislisa_b"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1362763134,
+                "title": "Justin Bieber angrily lashes out at #paparazzi before vowint it won't happen again on #Twitter  http://t.co/dPxwdHOHEE via @MetroUK #angry",
+                "url": "http://twitter.com/zeusfanhouse/status/310077174642262016",
+                "trackback_date": 1362763134,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/dPxwdHOHEE",
+                        "expanded_url": "http://metro.co.uk/2013/03/08/justin-bieber-angrily-lashes-out-at-paparazzi-before-swiftly-taking-to-twitter-to-declare-im-human-but-it-wont-happen-again-3533258/",
+                        "display_url": "metro.co.uk/2013/03/08/jus\u2026"
+                    }
+                ],
+                "target_birth_date": 1362763134,
+                "content": "Justin Bieber angrily lashes out at #paparazzi before vowint it won't happen again on #Twitter  http://t.co/dPxwdHOHEE via @MetroUK #angry",
+                "mytype": "tweet",
+                "score": 3.7524264000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461687204478087169/-dQBsFhY_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/zeusFanHouse/status/310077174642262016",
+                "trackback_author_url": "http://twitter.com/zeusfanhouse",
+                "highlight": "Justin Bieber angrily lashes out at #paparazzi before vowint it won't happen again on #Twitter via @MetroUK",
+                "topsy_author_url": "http://topsy.com/twitter/zeusfanhouse",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/zeusfanhouse/status/310077174642262016",
+                "trackback_author_name": "Bill D",
+                "trackback_author_nick": "zeusfanhouse"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1377680760,
+                "title": "Angrily eating while I play FFXIV's new \"minigame\" http://t.co/oH3GdmXodQ #FFXIV #FinalFantasyXIV #Food #Angry #Error1017",
+                "url": "http://twitter.com/djclichedarknes/status/372646236483891201",
+                "trackback_date": 1377680760,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/oH3GdmXodQ",
+                        "display_url": "youtube.com/watch?v=4lJVR-\u2026",
+                        "expanded_url": "http://www.youtube.com/watch?v=4lJVR-w6f8M",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=4lJVR-w6f8M"
+                    }
+                ],
+                "target_birth_date": 1377680760,
+                "content": "Angrily eating while I play FFXIV's new \"minigame\" http://t.co/oH3GdmXodQ #FFXIV #FinalFantasyXIV #Food #Angry #Error1017",
+                "mytype": "tweet",
+                "score": 3.7007656,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/384971851/amanokage_normal.gif",
+                "trackback_permalink": "http://twitter.com/DJClicheDarknes/status/372646236483891201",
+                "trackback_author_url": "http://twitter.com/djclichedarknes",
+                "highlight": "Angrily eating while I play FFXIV's new \"minigame\" #FFXIV #FinalFantasyXIV #Food #Angry",
+                "topsy_author_url": "http://topsy.com/twitter/djclichedarknes",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/djclichedarknes/status/372646236483891201",
+                "trackback_author_name": "DJClicheDarknes",
+                "trackback_author_nick": "djclichedarknes"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1383356858,
+                "title": "RT @recordsANDradio: Rinaldo angrily pulling his hair on the angry bench... #angry https://t.co/nD50yOrUr9",
+                "url": "http://twitter.com/alrightalright/status/396453514085679104",
+                "trackback_date": 1383356858,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/nD50yOrUr9",
+                        "expanded_url": "https://vine.co/v/hjmvAFWz7Yv",
+                        "display_url": "vine.co/v/hjmvAFWz7Yv"
+                    }
+                ],
+                "target_birth_date": 1383356858,
+                "content": "RT @recordsANDradio: Rinaldo angrily pulling his hair on the angry bench... #angry https://t.co/nD50yOrUr9",
+                "mytype": "tweet",
+                "score": 3.5526542999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1080536690/Picture_247_normal.png",
+                "trackback_permalink": "http://twitter.com/alrightalright/status/396453514085679104",
+                "trackback_author_url": "http://twitter.com/alrightalright",
+                "highlight": "Rinaldo angrily pulling his hair on the angry bench... #angry",
+                "topsy_author_url": "http://topsy.com/twitter/alrightalright",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/alrightalright/status/396453514085679104",
+                "trackback_author_name": "Vape for Vendetta",
+                "trackback_author_nick": "alrightalright"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1383356879,
+                "title": "Soo weird... RT \u201c@recordsANDradio: Rinaldo angrily pulling his hair on the angry bench... #angry https://t.co/WiU6Frw8uf\u201d",
+                "url": "http://twitter.com/michellemchugh/status/396453604405424129",
+                "trackback_date": 1383356879,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/WiU6Frw8uf",
+                        "display_url": "vine.co/v/hjmvAFWz7Yv",
+                        "expanded_url": "https://vine.co/v/hjmvAFWz7Yv",
+                        "topsy_expanded_url": "https://vine.co/v/hjmvAFWz7Yv"
+                    }
+                ],
+                "target_birth_date": 1383356879,
+                "content": "Soo weird... RT \u201c@recordsANDradio: Rinaldo angrily pulling his hair on the angry bench... #angry https://t.co/WiU6Frw8uf\u201d",
+                "mytype": "tweet",
+                "score": 3.5072800000000002,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/434961610231537664/Ru8G5QeT_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MichelleMcHugh/status/396453604405424129",
+                "trackback_author_url": "http://twitter.com/michellemchugh",
+                "highlight": "Soo weird... RT \u201c@recordsANDradio: Rinaldo angrily pulling his hair on the angry bench... #angry",
+                "topsy_author_url": "http://topsy.com/twitter/michellemchugh",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/michellemchugh/status/396453604405424129",
+                "trackback_author_name": "Michelle McHugh",
+                "trackback_author_nick": "michellemchugh"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1383357330,
+                "title": "RT @PuckBuddys: Psychopath. RT @recordsANDradio: Rinaldo angrily pulling his hair on the angry bench. #angry https://t.co/mYKiDsuwRI",
+                "url": "http://twitter.com/skystroll/status/396455495479074816",
+                "trackback_date": 1383357330,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/mYKiDsuwRI",
+                        "expanded_url": "https://vine.co/v/hjmvAFWz7Yv",
+                        "display_url": "vine.co/v/hjmvAFWz7Yv"
+                    }
+                ],
+                "target_birth_date": 1383357330,
+                "content": "RT @PuckBuddys: Psychopath. RT @recordsANDradio: Rinaldo angrily pulling his hair on the angry bench. #angry https://t.co/mYKiDsuwRI",
+                "mytype": "tweet",
+                "score": 3.4625237000000002,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/440836754653085697/z2KJnus2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SkyStroll/status/396455495479074816",
+                "trackback_author_url": "http://twitter.com/skystroll",
+                "highlight": "Psychopath.Rinaldo angrily pulling his hair on the angry bench. #angry",
+                "topsy_author_url": "http://topsy.com/twitter/skystroll",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/skystroll/status/396455495479074816",
+                "trackback_author_name": "Jerry D",
+                "trackback_author_nick": "skystroll"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 10,
+        "hidden": 0,
+        "total": 119,
+        "page": 1
+    }
+}

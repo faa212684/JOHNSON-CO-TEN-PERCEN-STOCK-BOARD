@@ -1,0 +1,65 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23angrily+sad&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#angrily sad",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1378593543,
+                "title": "me not gonna feel sad abt u again in ma lyf#angrily#",
+                "url": "http://twitter.com/lawal36/status/376474722927525888",
+                "trackback_date": 1378593543,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1378593543,
+                "content": "me not gonna feel sad abt u again in ma lyf#angrily#",
+                "mytype": "tweet",
+                "score": 1.5034561,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/438923558086250497/thTMlpfv_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/lawal36/status/376474722927525888",
+                "trackback_author_url": "http://twitter.com/lawal36",
+                "highlight": "me not gonna feel sad abt u again in ma lyf#angrily",
+                "topsy_author_url": "http://topsy.com/twitter/lawal36",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lawal36/status/376474722927525888",
+                "trackback_author_name": "Damilaw Starboy",
+                "trackback_author_nick": "lawal36"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1344107526,
+                "title": "@BannerBro IT'S NOT SAD IT HAPPENS TO EVERYONE. #STOMPSAWAYANGRILY #BOOBSBOUNCING #ANGRILY",
+                "url": "http://twitter.com/ironsnark/status/231829886912847872",
+                "trackback_date": 1344107526,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1344107526,
+                "content": "@BannerBro IT'S NOT SAD IT HAPPENS TO EVERYONE. #STOMPSAWAYANGRILY #BOOBSBOUNCING #ANGRILY",
+                "mytype": "tweet",
+                "score": 1.2548189999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/454750161386754048/1A7IygHZ_normal.png",
+                "trackback_permalink": "http://twitter.com/ironsnark/status/231829886912847872",
+                "trackback_author_url": "http://twitter.com/ironsnark",
+                "highlight": " IT'S NOT SAD IT HAPPENS TO EVERYONE. #STOMPSAWAYANGRILY #BOOBSBOUNCING",
+                "topsy_author_url": "http://topsy.com/twitter/ironsnark",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ironsnark/status/231829886912847872",
+                "trackback_author_name": "Anthony Edward Stark",
+                "trackback_author_nick": "ironsnark"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 2,
+        "page": 1
+    }
+}

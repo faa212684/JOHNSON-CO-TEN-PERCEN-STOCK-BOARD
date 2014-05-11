@@ -1,0 +1,44 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=sadly+%23fearful&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "sadly #fearful",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1358051395,
+                "title": "@Shawncantspell Sadly, no you won't. Can't tell if you were secretly hoping for a packers win so you could take a shot at me. Haha. #fearful",
+                "url": "http://twitter.com/r_bohn/status/290314711302545409",
+                "trackback_date": 1358051395,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1358051395,
+                "content": "@Shawncantspell Sadly, no you won't. Can't tell if you were secretly hoping for a packers win so you could take a shot at me. Haha. #fearful",
+                "mytype": "tweet",
+                "score": 0.55223920000000004,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/421321029500157952/9CRyM6bc_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/r_bohn/status/290314711302545409",
+                "trackback_author_url": "http://twitter.com/r_bohn",
+                "highlight": " Sadly, no you won't. Can't tell if you were secretly hoping for a packers win so you could take a shot at me. Haha.",
+                "topsy_author_url": "http://topsy.com/twitter/r_bohn",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/r_bohn/status/290314711302545409",
+                "trackback_author_name": "Richard Bohn",
+                "trackback_author_nick": "r_bohn"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

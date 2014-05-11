@@ -1,0 +1,23 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=happily+%23sad&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=760",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "happily #sad",
+            "window": "a",
+            "type": "tweet",
+            "offset": "760"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 760,
+        "hidden": 0,
+        "total": 759,
+        "page": 1
+    }
+}

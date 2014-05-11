@@ -1,0 +1,66 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=disgusted+%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=40",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "disgusted #happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "40"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1381242151,
+                "title": "I'm disgusted ! RT @StacyBlocker: Dang only beat you @CoryHill32 by 6 this week but I still won!!! #victorious #happy #loveit ??????",
+                "url": "http://twitter.com/coryhill32/status/387583790819721216",
+                "trackback_date": 1381242151,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1381242151,
+                "content": "I'm disgusted ! RT @StacyBlocker: Dang only beat you @CoryHill32 by 6 this week but I still won!!! #victorious #happy #loveit ??????",
+                "mytype": "tweet",
+                "score": 0.18819486999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2989056712/60379a6be5c6d23b670b9873b096d582_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CoryHill32/status/387583790819721216",
+                "trackback_author_url": "http://twitter.com/coryhill32",
+                "highlight": "I'm disgusted !Dang only beat you @CoryHill32 by 6 this week but I still won!!! #victorious #happy #loveit ??????",
+                "topsy_author_url": "http://topsy.com/twitter/coryhill32",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/coryhill32/status/387583790819721216",
+                "trackback_author_name": "Cory Hill",
+                "trackback_author_nick": "coryhill32"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1320886876,
+                "title": "RT @s_shaped: Do the people in #Happy Valley realize just how baffled and disgusted and outraged the rest of the country is?  #penn #paterno",
+                "url": "http://twitter.com/jenninestern/status/134435420766355456",
+                "trackback_date": 1320886876,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1320886876,
+                "content": "RT @s_shaped: Do the people in #Happy Valley realize just how baffled and disgusted and outraged the rest of the country is?  #penn #paterno",
+                "mytype": "tweet",
+                "score": 0.15736516,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000024897513/4f76542eb8c08fef3048ac65bab21408_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jenninestern/status/134435420766355456",
+                "trackback_author_url": "http://twitter.com/jenninestern",
+                "highlight": "Do the people in #Happy Valley realize just how baffled and disgusted and outraged the rest of the country is? #penn",
+                "topsy_author_url": "http://topsy.com/twitter/jenninestern",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jenninestern/status/134435420766355456",
+                "trackback_author_name": "jennine",
+                "trackback_author_nick": "jenninestern"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 40,
+        "hidden": 0,
+        "total": 42,
+        "page": 1
+    }
+}

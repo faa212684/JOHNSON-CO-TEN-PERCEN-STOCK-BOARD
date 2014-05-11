@@ -1,0 +1,290 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=surprisingly+angry&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=30",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "surprisingly angry",
+            "window": "a",
+            "type": "tweet",
+            "offset": "30"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 2,
+                "firstpost_date": 1319956630,
+                "title": "The World Is Surprisingly Angry About the End of Google Reader : http://t.co/O1WLdkuO",
+                "url": "http://twitter.com/albertedenis/status/130533684464988160",
+                "trackback_date": 1319956630,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/O1WLdkuO",
+                        "display_url": "bit.ly/sLiwiU",
+                        "expanded_url": "http://bit.ly/sLiwiU",
+                        "topsy_expanded_url": "http://www.theatlanticwire.com/technology/2011/10/world-surprisingly-angry-about-end-google-reader/44109/"
+                    }
+                ],
+                "target_birth_date": 1319956630,
+                "content": "The World Is Surprisingly Angry About the End of Google Reader : http://t.co/O1WLdkuO",
+                "mytype": "tweet",
+                "score": 8.2452740000000002,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/628255720/twitterProfilePhoto_normal.jpg",
+                "trackback_permalink": "http://twitter.com/albertedenis/status/130533684464988160",
+                "trackback_author_url": "http://twitter.com/albertedenis",
+                "highlight": "The World Is Surprisingly Angry About the End of Google Reader :",
+                "topsy_author_url": "http://topsy.com/twitter/albertedenis",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/albertedenis/status/130533684464988160",
+                "trackback_author_name": "Alberte Denis",
+                "trackback_author_nick": "albertedenis"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1288811501,
+                "title": "I'm surprisingly angry with @ElaineOrrMorgan at the moment!  Stop rubbing it in.  Ha",
+                "url": "http://twitter.com/littlerandy/status/29597981171",
+                "trackback_date": 1288811501,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1288811501,
+                "content": "I'm surprisingly angry with @ElaineOrrMorgan at the moment!  Stop rubbing it in.  Ha",
+                "mytype": "tweet",
+                "score": 8.2386440000000007,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462290538889105408/B5pWGVel_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/littlerandy/status/29597981171",
+                "trackback_author_url": "http://twitter.com/littlerandy",
+                "highlight": "I'm surprisingly angry with @ElaineOrrMorgan at the moment! Stop rubbing it in. Ha",
+                "topsy_author_url": "http://topsy.com/twitter/littlerandy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/littlerandy/status/29597981171",
+                "trackback_author_name": "Randy Little",
+                "trackback_author_nick": "littlerandy"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1319685008,
+                "title": "RT @KEXINO: The World Is Surprisingly Angry About the End of Google Reader http://t.co/3LvORjV4 | It aint' broke, Google. Don't fix it.",
+                "url": "http://twitter.com/juan_diaz_diaz/status/129394418766725120",
+                "trackback_date": 1319685008,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3LvORjV4",
+                        "display_url": "bit.ly/vGXhgn",
+                        "expanded_url": "http://bit.ly/vGXhgn",
+                        "topsy_expanded_url": "http://www.theatlanticwire.com/technology/2011/10/world-surprisingly-angry-about-end-google-reader/44109/"
+                    }
+                ],
+                "target_birth_date": 1319685008,
+                "content": "RT @KEXINO: The World Is Surprisingly Angry About the End of Google Reader http://t.co/3LvORjV4 | It aint' broke, Google. Don't fix it.",
+                "mytype": "tweet",
+                "score": 8.2302029999999995,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2291742457/sqon5uenx2e46b1fdc9i_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/juan_diaz_diaz/status/129394418766725120",
+                "trackback_author_url": "http://twitter.com/juan_diaz_diaz",
+                "highlight": "The World Is Surprisingly Angry About the End of Google Reader | It aint' broke, Google. Don't fix it.",
+                "topsy_author_url": "http://topsy.com/twitter/juan_diaz_diaz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/juan_diaz_diaz/status/129394418766725120",
+                "trackback_author_name": "juan_diaz_diaz",
+                "trackback_author_nick": "juan_diaz_diaz"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1366014729,
+                "title": "I am surprisingly angry about that nasty mendacious link between crime in western Sydney and asylum seekers. What kind of country does that.",
+                "url": "http://twitter.com/prestontowers/status/323715353425358848",
+                "trackback_date": 1366014729,
+                "trackback_total": 8,
+                "url_expansions": [],
+                "target_birth_date": 1366014729,
+                "content": "I am surprisingly angry about that nasty mendacious link between crime in western Sydney and asylum seekers. What kind of country does that.",
+                "mytype": "tweet",
+                "score": 8.2210160000000005,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2611887530/c97z9yi731n4wri1gs4f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/prestontowers/status/323715353425358848",
+                "trackback_author_url": "http://twitter.com/prestontowers",
+                "highlight": "I am surprisingly angry about that nasty mendacious link between crime in western Sydney and asylum seekers. What kind of country does that.",
+                "topsy_author_url": "http://topsy.com/twitter/prestontowers",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/prestontowers/status/323715353425358848",
+                "trackback_author_name": "Preston Towers",
+                "trackback_author_nick": "prestontowers"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1319971458,
+                "title": "The World Is Surprisingly Angry About the End of Google Reader - Technology - The Atlantic Wire http://t.co/F7xl2f2h",
+                "url": "http://twitter.com/samj/status/130595878317735936",
+                "trackback_date": 1319971458,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/F7xl2f2h",
+                        "display_url": "theatlanticwire.com/technology/201\u2026",
+                        "expanded_url": "http://www.theatlanticwire.com/technology/2011/10/world-surprisingly-angry-about-end-google-reader/44109/",
+                        "topsy_expanded_url": "http://www.theatlanticwire.com/technology/2011/10/world-surprisingly-angry-about-end-google-reader/44109/"
+                    }
+                ],
+                "target_birth_date": 1319971458,
+                "content": "The World Is Surprisingly Angry About the End of Google Reader - Technology - The Atlantic Wire http://t.co/F7xl2f2h",
+                "mytype": "tweet",
+                "score": 8.1975840000000009,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000625214530/58f56bd38736a318afb8340530f89b48_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/samj/status/130595878317735936",
+                "trackback_author_url": "http://twitter.com/samj",
+                "highlight": "The World Is Surprisingly Angry About the End of Google Reader - Technology - The Atlantic Wire",
+                "topsy_author_url": "http://topsy.com/twitter/samj",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/samj/status/130595878317735936",
+                "trackback_author_name": "Sam Johnston",
+                "trackback_author_nick": "samj"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1320010566,
+                "title": "The World Is Surprisingly Angry About the End of Google Reader (Adam Clark Estes/The Atlantic Wire) http://t.co/WrwyNEue",
+                "url": "http://twitter.com/_maximpact/status/130759909045305344",
+                "trackback_date": 1320010566,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WrwyNEue",
+                        "display_url": "bit.ly/t5oe5a",
+                        "expanded_url": "http://bit.ly/t5oe5a",
+                        "topsy_expanded_url": "http://www.theatlanticwire.com/technology/2011/10/world-surprisingly-angry-about-end-google-reader/44109/"
+                    }
+                ],
+                "target_birth_date": 1320010566,
+                "content": "The World Is Surprisingly Angry About the End of Google Reader (Adam Clark Estes/The Atlantic Wire) http://t.co/WrwyNEue",
+                "mytype": "tweet",
+                "score": 8.1954630000000002,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1594394808/maximpact_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/_MaxImpact/status/130759909045305344",
+                "trackback_author_url": "http://twitter.com/_maximpact",
+                "highlight": "The World Is Surprisingly Angry About the End of Google Reader (Adam Clark Estes/The Atlantic Wire)",
+                "topsy_author_url": "http://topsy.com/twitter/_maximpact",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/_maximpact/status/130759909045305344",
+                "trackback_author_name": "Max Impact",
+                "trackback_author_nick": "_maximpact"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1295491356,
+                "title": "Top iOS downloads of all time: http://t.co/1XTAQOy\n\n(surprisingly Angry Birds is only #4)",
+                "url": "http://twitter.com/erikveland/status/27918890096918528",
+                "trackback_date": 1295491356,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1XTAQOy",
+                        "display_url": "techcrunch.com/2011/01/19/iph\u2026",
+                        "expanded_url": "http://techcrunch.com/2011/01/19/iphone-ipad-top-app-downloads/",
+                        "topsy_expanded_url": "http://techcrunch.com/2011/01/19/iphone-ipad-top-app-downloads/"
+                    }
+                ],
+                "target_birth_date": 1295491356,
+                "content": "Top iOS downloads of all time: http://t.co/1XTAQOy\n\n(surprisingly Angry Birds is only #4)",
+                "mytype": "tweet",
+                "score": 8.193092,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3761095673/23001b4ca4a48ab45db28136d36c36cb_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ErikVeland/status/27918890096918528",
+                "trackback_author_url": "http://twitter.com/erikveland",
+                "highlight": "Top iOS downloads of all time: (surprisingly Angry Birds is only #4)",
+                "topsy_author_url": "http://topsy.com/twitter/erikveland",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/erikveland/status/27918890096918528",
+                "trackback_author_name": "Erik Veland",
+                "trackback_author_nick": "erikveland"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1319641331,
+                "title": "The World Is Surprisingly Angry About the End of Google Reader http://t.co/q0QBbgQk #GoogleReader #occupygooglereader",
+                "url": "http://twitter.com/rafacampoamor/status/129211226294206464",
+                "trackback_date": 1319641331,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/q0QBbgQk",
+                        "display_url": "bit.ly/vJWi7W",
+                        "expanded_url": "http://bit.ly/vJWi7W",
+                        "topsy_expanded_url": "http://www.theatlanticwire.com/technology/2011/10/world-surprisingly-angry-about-end-google-reader/44109/"
+                    }
+                ],
+                "target_birth_date": 1319641331,
+                "content": "The World Is Surprisingly Angry About the End of Google Reader http://t.co/q0QBbgQk #GoogleReader #occupygooglereader",
+                "mytype": "tweet",
+                "score": 8.189978,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/457493501895516161/tPKQUDSd_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rafacampoamor/status/129211226294206464",
+                "trackback_author_url": "http://twitter.com/rafacampoamor",
+                "highlight": "The World Is Surprisingly Angry About the End of Google Reader #GoogleReader",
+                "topsy_author_url": "http://topsy.com/twitter/rafacampoamor",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rafacampoamor/status/129211226294206464",
+                "trackback_author_name": "Rafael P. Campoamor",
+                "trackback_author_nick": "rafacampoamor"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1381456056,
+                "title": "Surprisingly angry crowd of people picketing Insomnia w/signs and flags in Harvard. What\u2019s that about? @universalhub http://t.co/OMIRu5vUzl",
+                "url": "http://twitter.com/heytristan/status/388480973417230336",
+                "trackback_date": 1381456056,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/OMIRu5vUzl",
+                        "display_url": "pic.twitter.com/OMIRu5vUzl",
+                        "expanded_url": "http://twitter.com/heytristan/status/388480973417230336/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BWQpYw0IUAAwPTh.jpg"
+                    }
+                ],
+                "target_birth_date": 1381456056,
+                "content": "Surprisingly angry crowd of people picketing Insomnia w/signs and flags in Harvard. What\u2019s that about? @universalhub http://t.co/OMIRu5vUzl",
+                "mytype": "tweet",
+                "score": 8.1814040000000006,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000075459901/8ee6d6bd2f03ae171e345ba1317d8c38_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/heytristan/status/388480973417230336",
+                "trackback_author_url": "http://twitter.com/heytristan",
+                "highlight": "Surprisingly angry crowd of people picketing Insomnia w/signs and flags in Harvard. What\u2019s that about? @universalhub",
+                "topsy_author_url": "http://topsy.com/twitter/heytristan",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/heytristan/status/388480973417230336",
+                "trackback_author_name": "$TANIMAL JONE$",
+                "trackback_author_nick": "heytristan"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1319977365,
+                "title": "The World Is Surprisingly Angry About the End of Google Reader - Technology - The Atlantic Wire http://t.co/mvUqEt13",
+                "url": "http://twitter.com/cselland/status/130620654444740609",
+                "trackback_date": 1319977365,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/mvUqEt13",
+                        "display_url": "theatlanticwire.com/technology/201\u2026",
+                        "expanded_url": "http://www.theatlanticwire.com/technology/2011/10/world-surprisingly-angry-about-end-google-reader/44109/",
+                        "topsy_expanded_url": "http://www.theatlanticwire.com/technology/2011/10/world-surprisingly-angry-about-end-google-reader/44109/"
+                    }
+                ],
+                "target_birth_date": 1319977365,
+                "content": "The World Is Surprisingly Angry About the End of Google Reader - Technology - The Atlantic Wire http://t.co/mvUqEt13",
+                "mytype": "tweet",
+                "score": 8.179176,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/433756464205680641/4fQtIsYA_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/cselland/status/130620654444740609",
+                "trackback_author_url": "http://twitter.com/cselland",
+                "highlight": "The World Is Surprisingly Angry About the End of Google Reader - Technology - The Atlantic Wire",
+                "topsy_author_url": "http://topsy.com/twitter/cselland",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cselland/status/130620654444740609",
+                "trackback_author_name": "Chris Selland",
+                "trackback_author_nick": "cselland"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 30,
+        "hidden": 0,
+        "total": 7354,
+        "page": 1
+    }
+}

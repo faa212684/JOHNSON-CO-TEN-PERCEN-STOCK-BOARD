@@ -1,0 +1,281 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=surprisingly+sad&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=30",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "surprisingly sad",
+            "window": "a",
+            "type": "tweet",
+            "offset": "30"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1367177986,
+                "title": "I have three periods of maths left EVER and I'm surprisingly sad about it",
+                "url": "http://twitter.com/staywithhannah/status/328594409534943232",
+                "trackback_date": 1367177986,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1367177986,
+                "content": "I have three periods of maths left EVER and I'm surprisingly sad about it",
+                "mytype": "tweet",
+                "score": 8.2932269999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463466294814441472/2uXJjKeY_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/staywithhannah/status/328594409534943232",
+                "trackback_author_url": "http://twitter.com/hannahrusselll_",
+                "highlight": "I have three periods of maths left EVER and I'm surprisingly sad about it",
+                "topsy_author_url": "http://topsy.com/twitter/hannahrusselll_",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/staywithhannah/status/328594409534943232",
+                "trackback_author_name": "Hannah",
+                "trackback_author_nick": "hannahrusselll_"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1283303652,
+                "title": "\"Wanted: someone to go back in time with me.\" The real, surprisingly sad story of a 1997 joke: http://bit.ly/cIMGOQ (via metafilter)",
+                "url": "http://twitter.com/martynpedler/status/22666159644",
+                "trackback_date": 1283303652,
+                "trackback_total": 3,
+                "url_expansions": [],
+                "target_birth_date": 1283303652,
+                "content": "\"Wanted: someone to go back in time with me.\" The real, surprisingly sad story of a 1997 joke: http://bit.ly/cIMGOQ (via metafilter)",
+                "mytype": "tweet",
+                "score": 8.2847919999999995,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/537645254/magiciansmall_normal.jpg",
+                "trackback_permalink": "http://twitter.com/martynpedler/status/22666159644",
+                "trackback_author_url": "http://twitter.com/martynpedler",
+                "highlight": "\"Wanted: someone to go back in time with me.\" The real, surprisingly sad story of a 1997 joke: (via metafilter)",
+                "topsy_author_url": "http://topsy.com/twitter/martynpedler",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/martynpedler/status/22666159644",
+                "trackback_author_name": "Martyn Pedler",
+                "trackback_author_nick": "martynpedler"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1315707998,
+                "title": "http://t.co/zha8KNH Surprisingly sad. Where @jamiekilstein and I met. Oh, and where we also began the ... http://t.co/RNJ3nb9",
+                "url": "http://twitter.com/allisonkilkenny/status/112713631933796352",
+                "trackback_date": 1315707998,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/zha8KNH",
+                        "display_url": "lockerz.com/s/137683573",
+                        "expanded_url": "http://lockerz.com/s/137683573",
+                        "topsy_expanded_url": "http://lockerz.com/s/137683573"
+                    },
+                    {
+                        "url": "http://t.co/RNJ3nb9",
+                        "display_url": "tmi.me/fOEuh",
+                        "expanded_url": "http://tmi.me/fOEuh",
+                        "topsy_expanded_url": "http://tmi.me/fOEuh"
+                    }
+                ],
+                "target_birth_date": 1315707998,
+                "content": "http://t.co/zha8KNH Surprisingly sad. Where @jamiekilstein and I met. Oh, and where we also began the ... http://t.co/RNJ3nb9",
+                "mytype": "tweet",
+                "score": 8.2838980000000006,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1436823223/224280_10150185935549730_513309729_6735021_6352044_n_normal.jpg",
+                "trackback_permalink": "http://twitter.com/allisonkilkenny/status/112713631933796352",
+                "trackback_author_url": "http://twitter.com/allisonkilkenny",
+                "highlight": " Surprisingly sad. Where @jamiekilstein and I met. Oh, and where we also began the ",
+                "topsy_author_url": "http://topsy.com/twitter/allisonkilkenny",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/allisonkilkenny/status/112713631933796352",
+                "trackback_author_name": "allisonkilkenny",
+                "trackback_author_nick": "allisonkilkenny"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1368140418,
+                "title": "Cat diary entries are surprisingly sad http://t.co/6sifyzABfd",
+                "url": "http://twitter.com/huffpostcomedy/status/332631139162394624",
+                "trackback_date": 1368140418,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/6sifyzABfd",
+                        "display_url": "huff.to/1953tPp",
+                        "expanded_url": "http://huff.to/1953tPp",
+                        "topsy_expanded_url": "http://www.huffingtonpost.com/2013/05/09/sad-cat-diary-even-more-c_n_3248411.html"
+                    }
+                ],
+                "target_birth_date": 1368140418,
+                "content": "Cat diary entries are surprisingly sad http://t.co/6sifyzABfd",
+                "mytype": "tweet",
+                "score": 8.2824179999999998,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3465253250/b7ddf2c1f7948a68f6b0ea933bf6e890_normal.png",
+                "trackback_permalink": "http://twitter.com/HuffPostComedy/status/332631139162394624",
+                "trackback_author_url": "http://twitter.com/huffpostcomedy",
+                "highlight": "Cat diary entries are surprisingly sad",
+                "topsy_author_url": "http://topsy.com/twitter/huffpostcomedy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/huffpostcomedy/status/332631139162394624",
+                "trackback_author_name": "HuffPostComedy",
+                "trackback_author_nick": "huffpostcomedy"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1333603881,
+                "title": "I'm so shocked right now.. This info I'm gettin is surprisingly sad",
+                "url": "http://twitter.com/markbattles317/status/187774404040728576",
+                "trackback_date": 1333603881,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1333603881,
+                "content": "I'm so shocked right now.. This info I'm gettin is surprisingly sad",
+                "mytype": "tweet",
+                "score": 8.2585300000000004,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/450391461385625601/cUGFDw76_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/markbattles317/status/187774404040728576",
+                "trackback_author_url": "http://twitter.com/markbattles317",
+                "highlight": "I'm so shocked right now.. This info I'm gettin is surprisingly sad",
+                "topsy_author_url": "http://topsy.com/twitter/markbattles317",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/markbattles317/status/187774404040728576",
+                "trackback_author_name": "Mark Battles",
+                "trackback_author_nick": "markbattles317"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1335155502,
+                "title": "I'm surprisingly sad about the end of http://t.co/qJPfHpx8. Going through all these old photos has got me feeling VERY nostalgic.",
+                "url": "http://twitter.com/cmcclarney/status/194282373548998656",
+                "trackback_date": 1335155502,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/qJPfHpx8",
+                        "display_url": "BeenUp2.com",
+                        "expanded_url": "http://BeenUp2.com",
+                        "topsy_expanded_url": "http://BeenUp2.com"
+                    }
+                ],
+                "target_birth_date": 1335155502,
+                "content": "I'm surprisingly sad about the end of http://t.co/qJPfHpx8. Going through all these old photos has got me feeling VERY nostalgic.",
+                "mytype": "tweet",
+                "score": 8.2514629999999993,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000177849054/7a3a775d399e5671b27da6df4f752a1a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/cmcclarney/status/194282373548998656",
+                "trackback_author_url": "http://twitter.com/cmcclarney",
+                "highlight": "I'm surprisingly sad about the end of Going through all these old photos has got me feeling VERY nostalgic.",
+                "topsy_author_url": "http://topsy.com/twitter/cmcclarney",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cmcclarney/status/194282373548998656",
+                "trackback_author_name": "Chris McClarney",
+                "trackback_author_nick": "cmcclarney"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1338821219,
+                "title": "The guy in the \"Trololo\" video died. I'm surprisingly sad about this, but glad he enjoyed the fame at end of his life. http://t.co/4sC9VEVz",
+                "url": "http://twitter.com/augustjpollak/status/209657507331842049",
+                "trackback_date": 1338821219,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4sC9VEVz",
+                        "display_url": "blogs.suntimes.com/ebert/mr-trolo\u2026",
+                        "expanded_url": "http://blogs.suntimes.com/ebert/mr-trololo-dies-at-77.html",
+                        "topsy_expanded_url": "http://blogs.suntimes.com/ebert/mr-trololo-dies-at-77.html"
+                    }
+                ],
+                "target_birth_date": 1338821219,
+                "content": "The guy in the \"Trololo\" video died. I'm surprisingly sad about this, but glad he enjoyed the fame at end of his life. http://t.co/4sC9VEVz",
+                "mytype": "tweet",
+                "score": 8.2252030000000005,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1637953478/sweetiebelle_gentlemen_normal.png",
+                "trackback_permalink": "http://twitter.com/AugustJPollak/status/209657507331842049",
+                "trackback_author_url": "http://twitter.com/augustjpollak",
+                "highlight": "The guy in the \"Trololo\" video died. I'm surprisingly sad about this, but glad he enjoyed the fame at end of his life.",
+                "topsy_author_url": "http://topsy.com/twitter/augustjpollak",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/augustjpollak/status/209657507331842049",
+                "trackback_author_name": "August J. Pollak",
+                "trackback_author_nick": "augustjpollak"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1332201621,
+                "title": "Hearing that Vlad is considering going to Japan is surprisingly sad to me.  Its like if Seth Joyner had finished his career in the CFL.",
+                "url": "http://twitter.com/lonestarball/status/181892900597153792",
+                "trackback_date": 1332201621,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1332201621,
+                "content": "Hearing that Vlad is considering going to Japan is surprisingly sad to me.  Its like if Seth Joyner had finished his career in the CFL.",
+                "mytype": "tweet",
+                "score": 8.2084630000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1508973186/Th_BuckyKatt_normal.jpg",
+                "trackback_permalink": "http://twitter.com/lonestarball/status/181892900597153792",
+                "trackback_author_url": "http://twitter.com/lonestarball",
+                "highlight": "Hearing that Vlad is considering going to Japan is surprisingly sad to me. Its like if Seth Joyner had finished his career in the CFL.",
+                "topsy_author_url": "http://topsy.com/twitter/lonestarball",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lonestarball/status/181892900597153792",
+                "trackback_author_name": "Adam J. Morris",
+                "trackback_author_nick": "lonestarball"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1315708337,
+                "title": "RT @allisonkilkenny: http://t.co/1EerztD Surprisingly sad. Where @jamiekilstein and I met. Oh, and where we also ... http://t.co/0XTBIrz",
+                "url": "http://twitter.com/jamiekilstein/status/112715052833972224",
+                "trackback_date": 1315708337,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1EerztD",
+                        "display_url": "lockerz.com/s/137683573",
+                        "expanded_url": "http://lockerz.com/s/137683573",
+                        "topsy_expanded_url": "http://lockerz.com/s/137683573"
+                    },
+                    {
+                        "url": "http://t.co/0XTBIrz",
+                        "display_url": "tmi.me/fOFcX",
+                        "expanded_url": "http://tmi.me/fOFcX",
+                        "topsy_expanded_url": "http://tmi.me/fOFcX"
+                    }
+                ],
+                "target_birth_date": 1315708337,
+                "content": "RT @allisonkilkenny: http://t.co/1EerztD Surprisingly sad. Where @jamiekilstein and I met. Oh, and where we also ... http://t.co/0XTBIrz",
+                "mytype": "tweet",
+                "score": 8.2048620000000003,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000610110367/bd071ca0f4ee6d1478b53f3f860a5251_normal.png",
+                "trackback_permalink": "http://twitter.com/jamiekilstein/status/112715052833972224",
+                "trackback_author_url": "http://twitter.com/jamiekilstein",
+                "highlight": " Surprisingly sad. Where @jamiekilstein and I met. Oh, and where we also ",
+                "topsy_author_url": "http://topsy.com/twitter/jamiekilstein",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jamiekilstein/status/112715052833972224",
+                "trackback_author_name": "Jamie Kilstein",
+                "trackback_author_nick": "jamiekilstein"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1320206081,
+                "title": "I've been surprisingly sad lately. It's the kind that lingers with you everywhere... I wish it were easier to make yourself happy",
+                "url": "http://twitter.com/connorjon/status/131579960421924864",
+                "trackback_date": 1320206081,
+                "trackback_total": 9,
+                "url_expansions": [],
+                "target_birth_date": 1320206081,
+                "content": "I've been surprisingly sad lately. It's the kind that lingers with you everywhere... I wish it were easier to make yourself happy",
+                "mytype": "tweet",
+                "score": 8.1954530000000005,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3011943836/eff38369b87ef030b3099c9c9f768424_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ConnorJon/status/131579960421924864",
+                "trackback_author_url": "http://twitter.com/connorjon",
+                "highlight": "I've been surprisingly sad lately. It's the kind that lingers with you everywhere... I wish it were easier to make yourself happy",
+                "topsy_author_url": "http://topsy.com/twitter/connorjon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/connorjon/status/131579960421924864",
+                "trackback_author_name": "Connor Jon",
+                "trackback_author_nick": "connorjon"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 30,
+        "hidden": 0,
+        "total": 22305,
+        "page": 1
+    }
+}

@@ -1,0 +1,304 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=fearfully+happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=80",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "fearfully happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "80"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1398424103,
+                "title": "I liked a @YouTube video http://t.co/le7Ob0XSbE Link is Fearfully Happy",
+                "url": "http://twitter.com/fluffymugi/status/459650121303867392",
+                "trackback_date": 1398424103,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/le7Ob0XSbE",
+                        "display_url": "youtu.be/Z3YVANLQbQA?a",
+                        "expanded_url": "http://youtu.be/Z3YVANLQbQA?a",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=Z3YVANLQbQA&a=&feature=youtu.be"
+                    }
+                ],
+                "target_birth_date": 1398424103,
+                "content": "I liked a @YouTube video http://t.co/le7Ob0XSbE Link is Fearfully Happy",
+                "mytype": "tweet",
+                "score": 4.7661752999999996,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1956328644/Bu3qQ6Tk_normal",
+                "trackback_permalink": "http://twitter.com/Fluffymugi/status/459650121303867392",
+                "trackback_author_url": "http://twitter.com/fluffymugi",
+                "highlight": "I liked a @YouTube video Link is Fearfully Happy",
+                "topsy_author_url": "http://topsy.com/twitter/fluffymugi",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/fluffymugi/status/459650121303867392",
+                "trackback_author_name": "Monkey D fluffy",
+                "trackback_author_nick": "fluffymugi"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1315596441,
+                "title": "*tear* RT@matthammitt: A year ago today Bowen entered the world, fearfully and wonderfully made. Happy birthday babyboy! http://t.co/jlxnI5k",
+                "url": "http://twitter.com/julieorange/status/112245728641941505",
+                "trackback_date": 1315596441,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jlxnI5k",
+                        "display_url": "wp.me/12hxq",
+                        "expanded_url": "http://wp.me/12hxq",
+                        "topsy_expanded_url": "http://bowensheart.com/"
+                    }
+                ],
+                "target_birth_date": 1315596441,
+                "content": "*tear* RT@matthammitt: A year ago today Bowen entered the world, fearfully and wonderfully made. Happy birthday babyboy! http://t.co/jlxnI5k",
+                "mytype": "tweet",
+                "score": 4.763306,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/457427491893039104/V6cYkiaP_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JulieOrange/status/112245728641941505",
+                "trackback_author_url": "http://twitter.com/julieorange",
+                "highlight": "*tear* RT@matthammitt: A year ago today Bowen entered the world, fearfully and wonderfully made. Happy birthday babyboy!",
+                "topsy_author_url": "http://topsy.com/twitter/julieorange",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/julieorange/status/112245728641941505",
+                "trackback_author_name": "Julie Reyes Villalta",
+                "trackback_author_nick": "julieorange"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1398426939,
+                "title": "Gostei de um v\u00eddeo @YouTube http://t.co/wi9ghL9UbN is Fearfully Happy",
+                "url": "http://twitter.com/lilonow/status/459662016375185408",
+                "trackback_date": 1398426939,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/wi9ghL9UbN",
+                        "display_url": "youtu.be/Z3YVANLQbQA?aL\u2026",
+                        "expanded_url": "http://youtu.be/Z3YVANLQbQA?aLink",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=Z3YVANLQbQA&aLink=&feature=youtu.be"
+                    }
+                ],
+                "target_birth_date": 1398426939,
+                "content": "Gostei de um v\u00eddeo @YouTube http://t.co/wi9ghL9UbN is Fearfully Happy",
+                "mytype": "tweet",
+                "score": 4.7629413999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464776556934471680/WwnT8OLZ_normal.png",
+                "trackback_permalink": "http://twitter.com/lilonow/status/459662016375185408",
+                "trackback_author_url": "http://twitter.com/lilonow",
+                "highlight": "Gostei de um v\u00eddeo @YouTube is Fearfully Happy",
+                "topsy_author_url": "http://topsy.com/twitter/lilonow",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lilonow/status/459662016375185408",
+                "trackback_author_name": "joseph wolriefield",
+                "trackback_author_nick": "lilonow"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1398502530,
+                "title": "I liked a @YouTube video http://t.co/UrycRHkbyp Link is Fearfully Happy",
+                "url": "http://twitter.com/kodymagic/status/459979067568435200",
+                "trackback_date": 1398502530,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/UrycRHkbyp",
+                        "display_url": "youtu.be/Z3YVANLQbQA?a",
+                        "expanded_url": "http://youtu.be/Z3YVANLQbQA?a",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=Z3YVANLQbQA&a=&feature=youtu.be"
+                    }
+                ],
+                "target_birth_date": 1398502530,
+                "content": "I liked a @YouTube video http://t.co/UrycRHkbyp Link is Fearfully Happy",
+                "mytype": "tweet",
+                "score": 4.7607393,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/429203329076326400/5aisYArP_normal.png",
+                "trackback_permalink": "http://twitter.com/kodymagic/status/459979067568435200",
+                "trackback_author_url": "http://twitter.com/kodymagic",
+                "highlight": "I liked a @YouTube video Link is Fearfully Happy",
+                "topsy_author_url": "http://topsy.com/twitter/kodymagic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kodymagic/status/459979067568435200",
+                "trackback_author_name": "kodymagic",
+                "trackback_author_nick": "kodymagic"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1398489213,
+                "title": "I liked a @YouTube video http://t.co/kBopu8xsHh Link is Fearfully Happy",
+                "url": "http://twitter.com/chelchoargueta/status/459923211606822912",
+                "trackback_date": 1398489213,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kBopu8xsHh",
+                        "display_url": "youtu.be/Z3YVANLQbQA?a",
+                        "expanded_url": "http://youtu.be/Z3YVANLQbQA?a",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=Z3YVANLQbQA&a=&feature=youtu.be"
+                    }
+                ],
+                "target_birth_date": 1398489213,
+                "content": "I liked a @YouTube video http://t.co/kBopu8xsHh Link is Fearfully Happy",
+                "mytype": "tweet",
+                "score": 4.7607393,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2380642112/470yrgefatohtlfvhggm_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ChelchoArgueta/status/459923211606822912",
+                "trackback_author_url": "http://twitter.com/chelchoargueta",
+                "highlight": "I liked a @YouTube video Link is Fearfully Happy",
+                "topsy_author_url": "http://topsy.com/twitter/chelchoargueta",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/chelchoargueta/status/459923211606822912",
+                "trackback_author_name": "Sergio Argueta",
+                "trackback_author_nick": "chelchoargueta"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1398521377,
+                "title": "I liked a @YouTube video http://t.co/IOhzBuaPh3 Link is Fearfully Happy",
+                "url": "http://twitter.com/lanston_harner/status/460058119431651330",
+                "trackback_date": 1398521377,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/IOhzBuaPh3",
+                        "display_url": "youtu.be/Z3YVANLQbQA?a",
+                        "expanded_url": "http://youtu.be/Z3YVANLQbQA?a",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=Z3YVANLQbQA&a=&feature=youtu.be"
+                    }
+                ],
+                "target_birth_date": 1398521377,
+                "content": "I liked a @YouTube video http://t.co/IOhzBuaPh3 Link is Fearfully Happy",
+                "mytype": "tweet",
+                "score": 4.7603024999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000602564307/253fdc5370f1acb8cbe46a67af621be8_normal.png",
+                "trackback_permalink": "http://twitter.com/Lanston_Harner/status/460058119431651330",
+                "trackback_author_url": "http://twitter.com/lanston_harner",
+                "highlight": "I liked a @YouTube video Link is Fearfully Happy",
+                "topsy_author_url": "http://topsy.com/twitter/lanston_harner",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lanston_harner/status/460058119431651330",
+                "trackback_author_name": "Lanston Harner",
+                "trackback_author_nick": "lanston_harner"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1398425750,
+                "title": "Link is Fearfully Happy http://t.co/I0OIePVkOq",
+                "url": "http://twitter.com/1620dk/status/459657029028950016",
+                "trackback_date": 1398425750,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/I0OIePVkOq",
+                        "display_url": "flip.it/WMSqR",
+                        "expanded_url": "http://flip.it/WMSqR",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=Z3YVANLQbQA"
+                    }
+                ],
+                "target_birth_date": 1398425750,
+                "content": "Link is Fearfully Happy http://t.co/I0OIePVkOq",
+                "mytype": "tweet",
+                "score": 4.7603024999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461839100639973376/nIuaZdxh_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/1620dk/status/459657029028950016",
+                "trackback_author_url": "http://twitter.com/1620dk",
+                "highlight": "Link is Fearfully Happy",
+                "topsy_author_url": "http://topsy.com/twitter/1620dk",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/1620dk/status/459657029028950016",
+                "trackback_author_name": "16:20",
+                "trackback_author_nick": "1620dk"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1398489214,
+                "title": "I added a video to a @YouTube playlist http://t.co/kBopu8xsHh Link is Fearfully Happy",
+                "url": "http://twitter.com/chelchoargueta/status/459923214924537856",
+                "trackback_date": 1398489214,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kBopu8xsHh",
+                        "display_url": "youtu.be/Z3YVANLQbQA?a",
+                        "expanded_url": "http://youtu.be/Z3YVANLQbQA?a",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=Z3YVANLQbQA&a=&feature=youtu.be"
+                    }
+                ],
+                "target_birth_date": 1398489214,
+                "content": "I added a video to a @YouTube playlist http://t.co/kBopu8xsHh Link is Fearfully Happy",
+                "mytype": "tweet",
+                "score": 4.7595559999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2380642112/470yrgefatohtlfvhggm_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ChelchoArgueta/status/459923214924537856",
+                "trackback_author_url": "http://twitter.com/chelchoargueta",
+                "highlight": "I added a video to a @YouTube playlist Link is Fearfully Happy",
+                "topsy_author_url": "http://topsy.com/twitter/chelchoargueta",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/chelchoargueta/status/459923214924537856",
+                "trackback_author_name": "Sergio Argueta",
+                "trackback_author_nick": "chelchoargueta"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1398451130,
+                "title": "I liked a @YouTube video http://t.co/Im4Q4nLjFn Link is Fearfully Happy",
+                "url": "http://twitter.com/bohemianflower1/status/459763480783237120",
+                "trackback_date": 1398451130,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Im4Q4nLjFn",
+                        "display_url": "youtu.be/Z3YVANLQbQA?a",
+                        "expanded_url": "http://youtu.be/Z3YVANLQbQA?a",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=Z3YVANLQbQA&a=&feature=youtu.be"
+                    }
+                ],
+                "target_birth_date": 1398451130,
+                "content": "I liked a @YouTube video http://t.co/Im4Q4nLjFn Link is Fearfully Happy",
+                "mytype": "tweet",
+                "score": 4.7595559999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/450877247344214016/e3zAWe7X_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BohemianFlower1/status/459763480783237120",
+                "trackback_author_url": "http://twitter.com/bohemianflower1",
+                "highlight": "I liked a @YouTube video Link is Fearfully Happy",
+                "topsy_author_url": "http://topsy.com/twitter/bohemianflower1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bohemianflower1/status/459763480783237120",
+                "trackback_author_name": "BohemianFlower",
+                "trackback_author_nick": "bohemianflower1"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1398444218,
+                "title": "I liked a @YouTube video http://t.co/GJWZ4gdftB Link is Fearfully Happy",
+                "url": "http://twitter.com/xenerock/status/459734491435511809",
+                "trackback_date": 1398444218,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/GJWZ4gdftB",
+                        "display_url": "youtu.be/Z3YVANLQbQA?a",
+                        "expanded_url": "http://youtu.be/Z3YVANLQbQA?a",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=Z3YVANLQbQA&a=&feature=youtu.be"
+                    }
+                ],
+                "target_birth_date": 1398444218,
+                "content": "I liked a @YouTube video http://t.co/GJWZ4gdftB Link is Fearfully Happy",
+                "mytype": "tweet",
+                "score": 4.7595559999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/426890741588037633/OVYI4pQc_normal.png",
+                "trackback_permalink": "http://twitter.com/Xenerock/status/459734491435511809",
+                "trackback_author_url": "http://twitter.com/xenerock",
+                "highlight": "I liked a @YouTube video Link is Fearfully Happy",
+                "topsy_author_url": "http://topsy.com/twitter/xenerock",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/xenerock/status/459734491435511809",
+                "trackback_author_name": "Xenerock",
+                "trackback_author_nick": "xenerock"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 80,
+        "hidden": 0,
+        "total": 1925,
+        "page": 1
+    }
+}

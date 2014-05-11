@@ -1,0 +1,87 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=angrily+surprised&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=680",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "angrily surprised",
+            "window": "a",
+            "type": "tweet",
+            "offset": "680"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1328978135,
+                "title": "RT @strtbrdsn: Ferguson reacts angrily to post match interviews, misses pressers and is adored for doing so. Kenny does it and people ar ...",
+                "url": "http://twitter.com/shez_lfc/status/168372621547798529",
+                "trackback_date": 1328978135,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1328978135,
+                "content": "RT @strtbrdsn: Ferguson reacts angrily to post match interviews, misses pressers and is adored for doing so. Kenny does it and people ar ...",
+                "mytype": "tweet",
+                "score": -0.22967777,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/455404183664214016/PBsfwx3F_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Shez_LFC/status/168372621547798529",
+                "trackback_author_url": "http://twitter.com/shez_lfc",
+                "highlight": "Ferguson reacts angrily to post match interviews, misses pressers and is adored for doing so. Kenny does it and people ar ",
+                "topsy_author_url": "http://topsy.com/twitter/shez_lfc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/shez_lfc/status/168372621547798529",
+                "trackback_author_name": "#MakeUsDream",
+                "trackback_author_nick": "shez_lfc"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1328976904,
+                "title": "RT @strtbrdsn: Ferguson reacts angrily to post match interviews, misses pressers and is adored for doing so. Kenny does it and people ar ...",
+                "url": "http://twitter.com/hameedmr/status/168367457092898816",
+                "trackback_date": 1328976904,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1328976904,
+                "content": "RT @strtbrdsn: Ferguson reacts angrily to post match interviews, misses pressers and is adored for doing so. Kenny does it and people ar ...",
+                "mytype": "tweet",
+                "score": -0.22967777,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1743005453/Luis-Suarez-Liverpool-s-Number-7-luis-suarez-20934160-1280-960_normal.jpg",
+                "trackback_permalink": "http://twitter.com/hameedmr/status/168367457092898816",
+                "trackback_author_url": "http://twitter.com/hameedmr",
+                "highlight": "Ferguson reacts angrily to post match interviews, misses pressers and is adored for doing so. Kenny does it and people ar ",
+                "topsy_author_url": "http://topsy.com/twitter/hameedmr",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hameedmr/status/168367457092898816",
+                "trackback_author_name": "Hameed Rowther",
+                "trackback_author_nick": "hameedmr"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1328976537,
+                "title": "RT @strtbrdsn: Ferguson reacts angrily to post match interviews, misses pressers and is adored for doing so. Kenny does it and people ar ...",
+                "url": "http://twitter.com/nairmitesh/status/168365919356203009",
+                "trackback_date": 1328976537,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1328976537,
+                "content": "RT @strtbrdsn: Ferguson reacts angrily to post match interviews, misses pressers and is adored for doing so. Kenny does it and people ar ...",
+                "mytype": "tweet",
+                "score": -0.22967777,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000576681468/4df8d9dc392cba119efe4e848f4c07e2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NairMitesh/status/168365919356203009",
+                "trackback_author_url": "http://twitter.com/nairmitesh",
+                "highlight": "Ferguson reacts angrily to post match interviews, misses pressers and is adored for doing so. Kenny does it and people ar ",
+                "topsy_author_url": "http://topsy.com/twitter/nairmitesh",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nairmitesh/status/168365919356203009",
+                "trackback_author_name": "Nair Mitesh",
+                "trackback_author_nick": "nairmitesh"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 680,
+        "hidden": 0,
+        "total": 683,
+        "page": 1
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23disgusted+fearful&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#disgusted fearful",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1332594034,
+                "title": "The words bitch; pussy, don't even begin to fittingly define the scum, filth, disgrace, or fearful! INhuman being you are. #disgusted",
+                "url": "http://twitter.com/samhourihan/status/183538798431453184",
+                "trackback_date": 1332594034,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1332594034,
+                "content": "The words bitch; pussy, don't even begin to fittingly define the scum, filth, disgrace, or fearful! INhuman being you are. #disgusted",
+                "mytype": "tweet",
+                "score": 0.96599599999999997,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1246355277/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/SamHourihan/status/183538798431453184",
+                "trackback_author_url": "http://twitter.com/samhourihan",
+                "highlight": "The words bitch; pussy, don't even begin to fittingly define the scum, filth, disgrace, or fearful! INhuman being you are.",
+                "topsy_author_url": "http://topsy.com/twitter/samhourihan",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/samhourihan/status/183538798431453184",
+                "trackback_author_name": "Samantha Hourihan",
+                "trackback_author_nick": "samhourihan"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

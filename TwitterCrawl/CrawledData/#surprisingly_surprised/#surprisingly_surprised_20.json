@@ -1,0 +1,45 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23surprisingly+surprised&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=20",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#surprisingly surprised",
+            "window": "a",
+            "type": "tweet",
+            "offset": "20"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1384517802,
+                "title": "@jotennant_Flo u'd b surprised actually smells nice same with the katy Perry one as well #surprisingly",
+                "url": "http://twitter.com/gazlee11/status/401322868749131777",
+                "trackback_date": 1384517802,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1384517802,
+                "content": "@jotennant_Flo u'd b surprised actually smells nice same with the katy Perry one as well #surprisingly",
+                "mytype": "tweet",
+                "score": 0.35820249999999998,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2550019154/JxIFm9CX_normal",
+                "trackback_permalink": "http://twitter.com/gazlee11/status/401322868749131777",
+                "trackback_author_url": "http://twitter.com/gazlee11",
+                "highlight": " u'd b surprised actually smells nice same with the katy Perry one as well",
+                "topsy_author_url": "http://topsy.com/twitter/gazlee11",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gazlee11/status/401322868749131777",
+                "trackback_author_name": "Gareth Lee",
+                "trackback_author_nick": "gazlee11"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 20,
+        "hidden": 0,
+        "total": 21,
+        "page": 1
+    }
+}

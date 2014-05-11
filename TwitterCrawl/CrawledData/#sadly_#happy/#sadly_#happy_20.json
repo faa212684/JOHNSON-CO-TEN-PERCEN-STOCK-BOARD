@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23sadly+%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=20",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#sadly #happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "20"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1367459850,
+                "title": "#sadly but #happy http://t.co/aMrTySXOGz",
+                "url": "http://twitter.com/mrcjsan/status/329776632116158465",
+                "trackback_date": 1367459850,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/aMrTySXOGz",
+                        "display_url": "instagram.com/p/Yyq1eqDHHv/",
+                        "expanded_url": "http://instagram.com/p/Yyq1eqDHHv/",
+                        "topsy_expanded_url": "http://instagram.com/p/Yyq1eqDHHv/"
+                    }
+                ],
+                "target_birth_date": 1367459850,
+                "content": "#sadly but #happy http://t.co/aMrTySXOGz",
+                "mytype": "tweet",
+                "score": 2.3069660000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3407559825/395ca9dfc3de92f2e334141aa0f649a7_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MrCjsan/status/329776632116158465",
+                "trackback_author_url": "http://twitter.com/mrcjsan",
+                "highlight": "#sadly but #happy",
+                "topsy_author_url": "http://topsy.com/twitter/mrcjsan",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mrcjsan/status/329776632116158465",
+                "trackback_author_name": "Los",
+                "trackback_author_nick": "mrcjsan"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1358523440,
+                "title": "Exams done for the day #happy #sadly #more #studying #weekend",
+                "url": "http://twitter.com/banana2016_04/status/292294612847063041",
+                "trackback_date": 1358523440,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1358523440,
+                "content": "Exams done for the day #happy #sadly #more #studying #weekend",
+                "mytype": "tweet",
+                "score": 2.3006224999999998,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/455188278107312128/M4qh4XEW_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/banana2016_04/status/292294612847063041",
+                "trackback_author_url": "http://twitter.com/banana2016_03",
+                "highlight": "Exams done for the day #happy #sadly #more #studying",
+                "topsy_author_url": "http://topsy.com/twitter/banana2016_03",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/banana2016_04/status/292294612847063041",
+                "trackback_author_name": " Anna Brady",
+                "trackback_author_nick": "banana2016_03"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1351935800,
+                "title": "\"polepel couple\" , \"pascal \u2665 Ica\" , #terharu #flashback #galau #happy #sadly",
+                "url": "http://twitter.com/jesfel_icafel/status/264664047239184384",
+                "trackback_date": 1351935800,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1351935800,
+                "content": "\"polepel couple\" , \"pascal \u2665 Ica\" , #terharu #flashback #galau #happy #sadly",
+                "mytype": "tweet",
+                "score": 2.1373617999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463324977467375616/i_AUC1Gm_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jesfel_icafel/status/264664047239184384",
+                "trackback_author_url": "http://twitter.com/jsscflc",
+                "highlight": "\"polepel couple\" , \"pascal \u2665 Ica\" , #terharu #flashback #galau #happy",
+                "topsy_author_url": "http://topsy.com/twitter/jsscflc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jesfel_icafel/status/264664047239184384",
+                "trackback_author_name": "Jesfel",
+                "trackback_author_nick": "jsscflc"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1350137672,
+                "title": "#hurt #happy #sadly #amazing #theadjustmentbureau #goodmovies #HBO",
+                "url": "http://twitter.com/julian_triono/status/257122152111828992",
+                "trackback_date": 1350137672,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1350137672,
+                "content": "#hurt #happy #sadly #amazing #theadjustmentbureau #goodmovies #HBO",
+                "mytype": "tweet",
+                "score": 2.1339445000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/424762620986400768/B606XZX7_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/julian_triono/status/257122152111828992",
+                "trackback_author_url": "http://twitter.com/julian_triono",
+                "highlight": "#hurt #happy #sadly #amazing #theadjustmentbureau #goodmovies",
+                "topsy_author_url": "http://topsy.com/twitter/julian_triono",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/julian_triono/status/257122152111828992",
+                "trackback_author_name": "JUNOK'S",
+                "trackback_author_nick": "julian_triono"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1379749963,
+                "title": "#ips1ips2 #family #friendship #crazy #happy #sadly #bestclassever",
+                "url": "http://twitter.com/ikalinaa/status/381325102412869632",
+                "trackback_date": 1379749963,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1379749963,
+                "content": "#ips1ips2 #family #friendship #crazy #happy #sadly #bestclassever",
+                "mytype": "tweet",
+                "score": 2.1226828000000002,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462107114861633536/mYwOfpXZ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ikalinaa/status/381325102412869632",
+                "trackback_author_url": "http://twitter.com/frderikaa",
+                "highlight": "#ips1ips2 #family #friendship #crazy #happy #sadly",
+                "topsy_author_url": "http://topsy.com/twitter/frderikaa",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ikalinaa/status/381325102412869632",
+                "trackback_author_name": "mariana.frederika",
+                "trackback_author_nick": "frderikaa"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1388922861,
+                "title": "My worst enemy is MEMORY. #me #life #love #like #happy #sadly #crazy #kiss #hug #people #stay #leave\u2026 http://t.co/vfyJ1kgEh8",
+                "url": "http://twitter.com/llllllovelllll/status/419799024754229248",
+                "trackback_date": 1388922861,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vfyJ1kgEh8",
+                        "display_url": "instagram.com/p/iyUW-HLVhL/",
+                        "expanded_url": "http://instagram.com/p/iyUW-HLVhL/",
+                        "topsy_expanded_url": "http://instagram.com/p/iyUW-HLVhL/"
+                    }
+                ],
+                "target_birth_date": 1388922861,
+                "content": "My worst enemy is MEMORY. #me #life #love #like #happy #sadly #crazy #kiss #hug #people #stay #leave\u2026 http://t.co/vfyJ1kgEh8",
+                "mytype": "tweet",
+                "score": 1.9639114,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464768060797120512/quAM9zXv_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/lllllLovelllll/status/419799024754229248",
+                "trackback_author_url": "http://twitter.com/llllllovelllll",
+                "highlight": "My worst enemy is MEMORY. #me #life #love #like #happy #sadly #crazy #kiss #hug #people #stay #leave\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/llllllovelllll",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/llllllovelllll/status/419799024754229248",
+                "trackback_author_name": "--Wine Me--",
+                "trackback_author_nick": "llllllovelllll"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1363969106,
+                "title": "#WeddingParty #mysister #happy #sadly #instaphoto #likeforlike with my lovely @LalanYudanto http://t.co/syMKqdvst0",
+                "url": "http://twitter.com/nolilianda/status/315135388639440896",
+                "trackback_date": 1363969106,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/syMKqdvst0",
+                        "display_url": "instagram.com/p/XKonoCom81/",
+                        "expanded_url": "http://instagram.com/p/XKonoCom81/",
+                        "topsy_expanded_url": "http://instagram.com/p/XKonoCom81/"
+                    }
+                ],
+                "target_birth_date": 1363969106,
+                "content": "#WeddingParty #mysister #happy #sadly #instaphoto #likeforlike with my lovely @LalanYudanto http://t.co/syMKqdvst0",
+                "mytype": "tweet",
+                "score": 1.9619911000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/439108237648883712/eczy70gg_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/nolilianda/status/315135388639440896",
+                "trackback_author_url": "http://twitter.com/nolilianda",
+                "highlight": "#WeddingParty #mysister #happy #sadly #instaphoto #likeforlike with my lovely @LalanYudanto",
+                "topsy_author_url": "http://topsy.com/twitter/nolilianda",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nolilianda/status/315135388639440896",
+                "trackback_author_name": "NOLI Lianda",
+                "trackback_author_nick": "nolilianda"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1382702812,
+                "title": "#me #door #to #my #soul #hollister #happy #sadly #so #close #together http://t.co/jgKLsKTXU9",
+                "url": "http://twitter.com/daiquiri98/status/393710248282030080",
+                "trackback_date": 1382702812,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jgKLsKTXU9",
+                        "display_url": "instagram.com/p/f48XXUzIlP/",
+                        "expanded_url": "http://instagram.com/p/f48XXUzIlP/",
+                        "topsy_expanded_url": "http://instagram.com/p/f48XXUzIlP/"
+                    }
+                ],
+                "target_birth_date": 1382702812,
+                "content": "#me #door #to #my #soul #hollister #happy #sadly #so #close #together http://t.co/jgKLsKTXU9",
+                "mytype": "tweet",
+                "score": 1.9602942000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000754016160/86b9c24902e36b9c1b741c3e715a2dba_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/daiquiri98/status/393710248282030080",
+                "trackback_author_url": "http://twitter.com/daiquiri98",
+                "highlight": "#me #door #to #my #soul #hollister #happy #sadly #so #close #together",
+                "topsy_author_url": "http://topsy.com/twitter/daiquiri98",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/daiquiri98/status/393710248282030080",
+                "trackback_author_name": "Daliri",
+                "trackback_author_nick": "daiquiri98"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1382702819,
+                "title": "#me #door #to #my #soul #hollister #happy #sadly #so #close #together http://t.co/XsECMLL0Bd",
+                "url": "http://twitter.com/daiquiri98/status/393710277763801088",
+                "trackback_date": 1382702819,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XsECMLL0Bd",
+                        "display_url": "instagram.com/p/f48kRwzIlf/",
+                        "expanded_url": "http://instagram.com/p/f48kRwzIlf/",
+                        "topsy_expanded_url": "http://instagram.com/p/f48kRwzIlf/"
+                    }
+                ],
+                "target_birth_date": 1382702819,
+                "content": "#me #door #to #my #soul #hollister #happy #sadly #so #close #together http://t.co/XsECMLL0Bd",
+                "mytype": "tweet",
+                "score": 1.958782,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000754016160/86b9c24902e36b9c1b741c3e715a2dba_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/daiquiri98/status/393710277763801088",
+                "trackback_author_url": "http://twitter.com/daiquiri98",
+                "highlight": "#me #door #to #my #soul #hollister #happy #sadly #so #close #together",
+                "topsy_author_url": "http://topsy.com/twitter/daiquiri98",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/daiquiri98/status/393710277763801088",
+                "trackback_author_name": "Daliri",
+                "trackback_author_nick": "daiquiri98"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1358839625,
+                "title": "#bestfriends #happy #shes  #sadly @ezgishere http://t.co/CfmNVT7A",
+                "url": "http://twitter.com/silaksuuu/status/293620787863240704",
+                "trackback_date": 1358839625,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/CfmNVT7A",
+                        "display_url": "instagr.am/p/Uxw_n7xWG2/",
+                        "expanded_url": "http://instagr.am/p/Uxw_n7xWG2/",
+                        "topsy_expanded_url": "http://instagram.com/p/Uxw_n7xWG2/"
+                    }
+                ],
+                "target_birth_date": 1358839625,
+                "content": "#bestfriends #happy #shes  #sadly @ezgishere http://t.co/CfmNVT7A",
+                "mytype": "tweet",
+                "score": 1.9383098999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463392085744582656/Ny-b9xS4_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/silaksuuu/status/293620787863240704",
+                "trackback_author_url": "http://twitter.com/silaksuuu",
+                "highlight": "#bestfriends #happy #shes #sadly @ezgishere",
+                "topsy_author_url": "http://topsy.com/twitter/silaksuuu",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/silaksuuu/status/293620787863240704",
+                "trackback_author_name": "S\u0131la Aksu",
+                "trackback_author_nick": "silaksuuu"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 20,
+        "hidden": 0,
+        "total": 79,
+        "page": 1
+    }
+}

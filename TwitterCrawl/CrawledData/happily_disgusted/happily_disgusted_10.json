@@ -1,0 +1,303 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=happily+disgusted&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=10",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "happily disgusted",
+            "window": "a",
+            "type": "tweet",
+            "offset": "10"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 11,
+                "firstpost_date": 1396390797,
+                "title": "Computer Maps 21 Facial Expressions, Even \"Happily Disgusted\" http://t.co/vcPJjAlFgX",
+                "url": "http://twitter.com/psychnews/status/451121818867601408",
+                "trackback_date": 1396390797,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vcPJjAlFgX",
+                        "display_url": "bit.ly/1hxqdze",
+                        "expanded_url": "http://bit.ly/1hxqdze",
+                        "topsy_expanded_url": "http://www.sciencedaily.com/releases/2014/03/140331153518.htm"
+                    }
+                ],
+                "target_birth_date": 1396390797,
+                "content": "Computer Maps 21 Facial Expressions, Even \"Happily Disgusted\" http://t.co/vcPJjAlFgX",
+                "mytype": "tweet",
+                "score": 8.9991389999999996,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1812518851/SPNlogo-twitter130_normal.jpg",
+                "trackback_permalink": "http://twitter.com/PsychNews/status/451121818867601408",
+                "trackback_author_url": "http://twitter.com/psychnews",
+                "highlight": "Computer Maps 21 Facial Expressions, Even \"Happily Disgusted\"",
+                "topsy_author_url": "http://topsy.com/twitter/psychnews",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/psychnews/status/451121818867601408",
+                "trackback_author_name": "Psychology News",
+                "trackback_author_nick": "psychnews"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1396705367,
+                "title": "Computer learns to recognize 21 Emotional Expressions, from \"Happy\" to \"Disgusted\" and even \"Happily Disgusted\" http://t.co/PoVWh9ESO7",
+                "url": "http://twitter.com/kdnuggets/status/452441218539323392",
+                "trackback_date": 1396705367,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PoVWh9ESO7",
+                        "display_url": "bit.ly/1eh76oB",
+                        "expanded_url": "http://bit.ly/1eh76oB",
+                        "topsy_expanded_url": "http://researchnews.osu.edu/archive/21emotions.htm"
+                    }
+                ],
+                "target_birth_date": 1396705367,
+                "content": "Computer learns to recognize 21 Emotional Expressions, from \"Happy\" to \"Disgusted\" and even \"Happily Disgusted\" http://t.co/PoVWh9ESO7",
+                "mytype": "tweet",
+                "score": 8.9185660000000002,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1174228552/gpsc2_normal.jpg",
+                "trackback_permalink": "http://twitter.com/kdnuggets/status/452441218539323392",
+                "trackback_author_url": "http://twitter.com/kdnuggets",
+                "highlight": "Computer learns to recognize 21 Emotional Expressions, from \"Happy\" to \"Disgusted\" and even \"Happily Disgusted\"",
+                "topsy_author_url": "http://topsy.com/twitter/kdnuggets",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kdnuggets/status/452441218539323392",
+                "trackback_author_name": "Gregory Piatetsky",
+                "trackback_author_nick": "kdnuggets"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1396645706,
+                "title": "Ever been \"happily disgusted?\" How about \"sadly surprised?\" http://t.co/wvnF74nSdC",
+                "url": "http://twitter.com/cnnhealth/status/452190983505997824",
+                "trackback_date": 1396645706,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/wvnF74nSdC",
+                        "display_url": "cnn.it/1hK54BY",
+                        "expanded_url": "http://cnn.it/1hK54BY",
+                        "topsy_expanded_url": "http://www.cnn.com/2014/04/04/health/facial-expressions/index.html"
+                    }
+                ],
+                "target_birth_date": 1396645706,
+                "content": "Ever been \"happily disgusted?\" How about \"sadly surprised?\" http://t.co/wvnF74nSdC",
+                "mytype": "tweet",
+                "score": 8.8786839999999998,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2181626355/healthlogo_normal.jpg",
+                "trackback_permalink": "http://twitter.com/cnnhealth/status/452190983505997824",
+                "trackback_author_url": "http://twitter.com/cnnhealth",
+                "highlight": "Ever been \"happily disgusted?\" How about \"sadly surprised?\"",
+                "topsy_author_url": "http://topsy.com/twitter/cnnhealth",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cnnhealth/status/452190983505997824",
+                "trackback_author_name": "CNN Health",
+                "trackback_author_nick": "cnnhealth"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1396309525,
+                "title": "Computer Maps 21 Distinct Emotional Expressions, Even Happily Disgusted http://t.co/IPpMsds01o http://t.co/VRI8kRTwy0",
+                "url": "http://twitter.com/neurosciencenew/status/450780937245036544",
+                "trackback_date": 1396309525,
+                "trackback_total": 20,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/IPpMsds01o",
+                        "display_url": "neurosciencenews.com/complex-facial\u2026",
+                        "expanded_url": "http://neurosciencenews.com/complex-facial-emotions-computational-neuroscience-910/",
+                        "topsy_expanded_url": "http://neurosciencenews.com/complex-facial-emotions-computational-neuroscience-910/"
+                    },
+                    {
+                        "url": "http://t.co/VRI8kRTwy0",
+                        "display_url": "pic.twitter.com/VRI8kRTwy0",
+                        "expanded_url": "http://twitter.com/NeuroscienceNew/status/450780937245036544/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BkF-38SCEAA9dr8.jpg"
+                    }
+                ],
+                "target_birth_date": 1396309525,
+                "content": "Computer Maps 21 Distinct Emotional Expressions, Even Happily Disgusted http://t.co/IPpMsds01o http://t.co/VRI8kRTwy0",
+                "mytype": "tweet",
+                "score": 8.8685759999999991,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1064042742/NNicon_normal.png",
+                "trackback_permalink": "http://twitter.com/NeuroscienceNew/status/450780937245036544",
+                "trackback_author_url": "http://twitter.com/neurosciencenew",
+                "highlight": "Computer Maps 21 Distinct Emotional Expressions, Even Happily Disgusted",
+                "topsy_author_url": "http://topsy.com/twitter/neurosciencenew",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/neurosciencenew/status/450780937245036544",
+                "trackback_author_name": "Neuroscience News",
+                "trackback_author_nick": "neurosciencenew"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1396410834,
+                "title": "Is your face \"happily disgusted?\" Scientists discover we have 21 different facial expressions on #BBCNewsday http://t.co/AOC1ZVThcP",
+                "url": "http://twitter.com/bbcworldservice/status/451205858333323264",
+                "trackback_date": 1396410834,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/AOC1ZVThcP",
+                        "display_url": "bbc.in/1hgrfeD",
+                        "expanded_url": "http://bbc.in/1hgrfeD",
+                        "topsy_expanded_url": "http://www.bbc.co.uk/programmes/p00w940j?ocid=socialflow_twitter"
+                    }
+                ],
+                "target_birth_date": 1396410834,
+                "content": "Is your face \"happily disgusted?\" Scientists discover we have 21 different facial expressions on #BBCNewsday http://t.co/AOC1ZVThcP",
+                "mytype": "tweet",
+                "score": 8.758305,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458891808240455681/KRsjhn1__normal.jpeg",
+                "trackback_permalink": "http://twitter.com/bbcworldservice/status/451205858333323264",
+                "trackback_author_url": "http://twitter.com/bbcworldservice",
+                "highlight": "Is your face \"happily disgusted?\" Scientists discover we have 21 different facial expressions on #BBCNewsday",
+                "topsy_author_url": "http://topsy.com/twitter/bbcworldservice",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bbcworldservice/status/451205858333323264",
+                "trackback_author_name": "BBC World Service",
+                "trackback_author_nick": "bbcworldservice"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1396311273,
+                "title": "Computer maps 21 distinct emotional expressions \u2014 even \u2018happily disgusted\u2019 http://t.co/Lq4RLCGREo",
+                "url": "http://twitter.com/psypost/status/450788271367282689",
+                "trackback_date": 1396311273,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Lq4RLCGREo",
+                        "display_url": "bit.ly/1ljc6hM",
+                        "expanded_url": "http://bit.ly/1ljc6hM",
+                        "topsy_expanded_url": "http://www.psypost.org/2014/03/computer-maps-21-distinct-emotional-expressions-even-happily-disgusted-24046"
+                    }
+                ],
+                "target_birth_date": 1396311273,
+                "content": "Computer maps 21 distinct emotional expressions \u2014 even \u2018happily disgusted\u2019 http://t.co/Lq4RLCGREo",
+                "mytype": "tweet",
+                "score": 8.6851690000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3759708549/cb70e9824c428e7cb72c6418446c9547_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PsyPost/status/450788271367282689",
+                "trackback_author_url": "http://twitter.com/psypost",
+                "highlight": "Computer maps 21 distinct emotional expressions \u2014 even \u2018happily disgusted\u2019",
+                "topsy_author_url": "http://topsy.com/twitter/psypost",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/psypost/status/450788271367282689",
+                "trackback_author_name": "PsyPost.org",
+                "trackback_author_nick": "psypost"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1327005609,
+                "title": "1st single off New Project \"Rooftop Basement\" The Basement EP \"Happily Disgusted\" Recorded/Mixed/Produced by yours... http://t.co/Xg3hcsZ3",
+                "url": "http://twitter.com/samiamprod/status/160099247516155905",
+                "trackback_date": 1327005609,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Xg3hcsZ3",
+                        "display_url": "fb.me/Y4Enr4Jh",
+                        "expanded_url": "http://fb.me/Y4Enr4Jh",
+                        "topsy_expanded_url": "http://soundcloud.com/rooftopbasement"
+                    }
+                ],
+                "target_birth_date": 1327005609,
+                "content": "1st single off New Project \"Rooftop Basement\" The Basement EP \"Happily Disgusted\" Recorded/Mixed/Produced by yours... http://t.co/Xg3hcsZ3",
+                "mytype": "tweet",
+                "score": 8.6607699999999994,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1060474769/l_fcb5908401ade85fb8f19f8d457c43e6_normal.jpg",
+                "trackback_permalink": "http://twitter.com/samiamprod/status/160099247516155905",
+                "trackback_author_url": "http://twitter.com/samiamprod",
+                "highlight": "1st single off New Project \"Rooftop Basement\" The Basement EP \"Happily Disgusted\" Recorded/Mixed/Produced by yours",
+                "topsy_author_url": "http://topsy.com/twitter/samiamprod",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/samiamprod/status/160099247516155905",
+                "trackback_author_name": "Sam Thomas",
+                "trackback_author_nick": "samiamprod"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1396305792,
+                "title": "Happily disgusted, sadly fearful, fearfully angry, angrily surprised? Is there an app for that?\nhttps://t.co/bb2MAbauqJ",
+                "url": "http://twitter.com/conversationedu/status/450765280017252352",
+                "trackback_date": 1396305792,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/bb2MAbauqJ",
+                        "display_url": "theconversation.com/happily-disgus\u2026",
+                        "expanded_url": "https://theconversation.com/happily-disgusted-it-could-show-all-over-your-face-24986",
+                        "topsy_expanded_url": "https://theconversation.com/happily-disgusted-it-could-show-all-over-your-face-24986"
+                    }
+                ],
+                "target_birth_date": 1396305792,
+                "content": "Happily disgusted, sadly fearful, fearfully angry, angrily surprised? Is there an app for that?\nhttps://t.co/bb2MAbauqJ",
+                "mytype": "tweet",
+                "score": 8.5845859999999998,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2132690691/twitter_normal.png",
+                "trackback_permalink": "http://twitter.com/ConversationEDU/status/450765280017252352",
+                "trackback_author_url": "http://twitter.com/conversationedu",
+                "highlight": "Happily disgusted, sadly fearful, fearfully angry, angrily surprised? Is there an app for that?",
+                "topsy_author_url": "http://topsy.com/twitter/conversationedu",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/conversationedu/status/450765280017252352",
+                "trackback_author_name": "The Conversation",
+                "trackback_author_nick": "conversationedu"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1399259481,
+                "title": "Computer maps 21 distinct emotional expressions -- even \u2018happily disgusted\u2019 http://t.co/C0DGkO4Gk8",
+                "url": "http://twitter.com/psypost/status/463153948669378560",
+                "trackback_date": 1399259481,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/C0DGkO4Gk8",
+                        "display_url": "psypost.org/?p=24046",
+                        "expanded_url": "http://www.psypost.org/?p=24046",
+                        "topsy_expanded_url": "http://www.psypost.org/2014/03/computer-maps-21-distinct-emotional-expressions-even-happily-disgusted-24046"
+                    }
+                ],
+                "target_birth_date": 1399259481,
+                "content": "Computer maps 21 distinct emotional expressions -- even \u2018happily disgusted\u2019 http://t.co/C0DGkO4Gk8",
+                "mytype": "tweet",
+                "score": 8.5842285,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3759708549/cb70e9824c428e7cb72c6418446c9547_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PsyPost/status/463153948669378560",
+                "trackback_author_url": "http://twitter.com/psypost",
+                "highlight": "Computer maps 21 distinct emotional expressions -- even \u2018happily disgusted\u2019",
+                "topsy_author_url": "http://topsy.com/twitter/psypost",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/psypost/status/463153948669378560",
+                "trackback_author_name": "PsyPost.org",
+                "trackback_author_nick": "psypost"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1348159982,
+                "title": "\ud83d\ude02\ud83d\ude02 RT @STheMisfit: If a man never look at you happily disgusted with the way you are sucking that manmeat, you aren't doing enough.",
+                "url": "http://twitter.com/bmorepocahontas/status/248827116584566784",
+                "trackback_date": 1348159982,
+                "trackback_total": 3,
+                "url_expansions": [],
+                "target_birth_date": 1348159982,
+                "content": "\ud83d\ude02\ud83d\ude02 RT @STheMisfit: If a man never look at you happily disgusted with the way you are sucking that manmeat, you aren't doing enough.",
+                "mytype": "tweet",
+                "score": 8.5596680000000003,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/423524135718109184/ob1xm9mV_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BmorePocahontas/status/248827116584566784",
+                "trackback_author_url": "http://twitter.com/bmorepocahontas",
+                "highlight": "\ud83d\ude02\ud83d\ude02If a man never look at you happily disgusted with the way you are sucking that manmeat, you aren't doing enough.",
+                "topsy_author_url": "http://topsy.com/twitter/bmorepocahontas",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bmorepocahontas/status/248827116584566784",
+                "trackback_author_name": "",
+                "trackback_author_nick": "bmorepocahontas"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 10,
+        "hidden": 0,
+        "total": 2895,
+        "page": 1
+    }
+}

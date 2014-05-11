@@ -1,0 +1,87 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=fearfully+sad&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=250",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "fearfully sad",
+            "window": "a",
+            "type": "tweet",
+            "offset": "250"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1392924132,
+                "title": "RT @georgiariffle: It's sad that this day in age if a girl thinks she's beautiful it's \"conceited\" of her. Ladies, you were fearfully &amp; won\u2026",
+                "url": "http://twitter.com/sarahaivie/status/436581571156377600",
+                "trackback_date": 1392924132,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1392924132,
+                "content": "RT @georgiariffle: It's sad that this day in age if a girl thinks she's beautiful it's \"conceited\" of her. Ladies, you were fearfully &amp; won\u2026",
+                "mytype": "tweet",
+                "score": -0.20683192,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458297751042682882/Y2s3TZ-c_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/sarahaivie/status/436581571156377600",
+                "trackback_author_url": "http://twitter.com/sarahaivie",
+                "highlight": "It's sad that this day in age if a girl thinks she's beautiful it's \"conceited\" of her. Ladies, you were fearfully &amp; won\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/sarahaivie",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sarahaivie/status/436581571156377600",
+                "trackback_author_name": "Sarah Ivie",
+                "trackback_author_nick": "sarahaivie"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392181386,
+                "title": "RT @aaronpaquette: If you scurry fearfully worried about threat, lack, power, revenge - it's hard to see your own music or believe you have\u2026",
+                "url": "http://twitter.com/outshyned/status/433466266720825344",
+                "trackback_date": 1392181386,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1392181386,
+                "content": "RT @aaronpaquette: If you scurry fearfully worried about threat, lack, power, revenge - it's hard to see your own music or believe you have\u2026",
+                "mytype": "tweet",
+                "score": -0.32241154,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000131665598/6532e49e927e5623af4e52612aa7a986_normal.png",
+                "trackback_permalink": "http://twitter.com/Outshyned/status/433466266720825344",
+                "trackback_author_url": "http://twitter.com/outshyned",
+                "highlight": "If you scurry fearfully worried about threat, lack, power, revenge - it's hard to see your own music or believe you have\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/outshyned",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/outshyned/status/433466266720825344",
+                "trackback_author_name": "Rebecca ",
+                "trackback_author_nick": "outshyned"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392181301,
+                "title": "RT @aaronpaquette: If you scurry fearfully worried about threat, lack, power, revenge - it's hard to see your own music or believe you have\u2026",
+                "url": "http://twitter.com/nikkiverified/status/433465913199702016",
+                "trackback_date": 1392181301,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1392181301,
+                "content": "RT @aaronpaquette: If you scurry fearfully worried about threat, lack, power, revenge - it's hard to see your own music or believe you have\u2026",
+                "mytype": "tweet",
+                "score": -0.32241154,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419165646530686976/MzxqNP3d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Nikkiverified/status/433465913199702016",
+                "trackback_author_url": "http://twitter.com/nikkiverified",
+                "highlight": "If you scurry fearfully worried about threat, lack, power, revenge - it's hard to see your own music or believe you have\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/nikkiverified",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nikkiverified/status/433465913199702016",
+                "trackback_author_name": "niki ",
+                "trackback_author_nick": "nikkiverified"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 250,
+        "hidden": 0,
+        "total": 253,
+        "page": 1
+    }
+}

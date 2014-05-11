@@ -1,0 +1,45 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23surprisingly+happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=320",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#surprisingly happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "320"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1325056312,
+                "title": "@miss_sofyne lol shut up, yea I'm Happy too tho && most important laney is Happy && Actually be wantin to go over there #surprisingly",
+                "url": "http://twitter.com/nikkiism3/status/151923301181177857",
+                "trackback_date": 1325056312,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1325056312,
+                "content": "@miss_sofyne lol shut up, yea I'm Happy too tho && most important laney is Happy && Actually be wantin to go over there #surprisingly",
+                "mytype": "tweet",
+                "score": 0.12061188,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/3127758009/2c4d90304ede0466421de1832de18e0f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/nikkiism3/status/151923301181177857",
+                "trackback_author_url": "http://twitter.com/nikkiism3",
+                "highlight": " lol shut up, yea I'm Happy too tho && most important laney is Happy && Actually be wantin to go over there",
+                "topsy_author_url": "http://topsy.com/twitter/nikkiism3",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nikkiism3/status/151923301181177857",
+                "trackback_author_name": "Mrs.McDonald",
+                "trackback_author_nick": "nikkiism3"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 320,
+        "hidden": 0,
+        "total": 321,
+        "page": 1
+    }
+}

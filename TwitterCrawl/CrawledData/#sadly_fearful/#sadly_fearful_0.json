@@ -1,0 +1,65 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23sadly+fearful&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#sadly fearful",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1354512199,
+                "title": "She don't like me because who my ex is and want he meant to me its funny how fearful she is #sadly",
+                "url": "http://twitter.com/jizzle_loveable/status/275470246192750592",
+                "trackback_date": 1354512199,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1354512199,
+                "content": "She don't like me because who my ex is and want he meant to me its funny how fearful she is #sadly",
+                "mytype": "tweet",
+                "score": 1.6861953999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/441782103416774656/atb1APKA_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Jizzle_Loveable/status/275470246192750592",
+                "trackback_author_url": "http://twitter.com/jizzle_loveable",
+                "highlight": "She don't like me because who my ex is and want he meant to me its funny how fearful she is",
+                "topsy_author_url": "http://topsy.com/twitter/jizzle_loveable",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jizzle_loveable/status/275470246192750592",
+                "trackback_author_name": "simply a boss",
+                "trackback_author_nick": "jizzle_loveable"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1374604183,
+                "title": "Yr Heart Does not Doubt, it's Yr mind  That does all the work there and combined with ignorance can lead you 2B fearful of yourself #sadly",
+                "url": "http://twitter.com/captinmcfly/status/359742135622307842",
+                "trackback_date": 1374604183,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1374604183,
+                "content": "Yr Heart Does not Doubt, it's Yr mind  That does all the work there and combined with ignorance can lead you 2B fearful of yourself #sadly",
+                "mytype": "tweet",
+                "score": 1.4995551,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1658666605/axis_as_bold_as_love_cover-1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/captinmcfly/status/359742135622307842",
+                "trackback_author_url": "http://twitter.com/captinmcfly",
+                "highlight": "Yr Heart Does not Doubt, it's Yr mind That does all the work there and combined with ignorance can lead you 2B fearful of yourself",
+                "topsy_author_url": "http://topsy.com/twitter/captinmcfly",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/captinmcfly/status/359742135622307842",
+                "trackback_author_name": "David  Robertson ",
+                "trackback_author_nick": "captinmcfly"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 2,
+        "page": 1
+    }
+}

@@ -1,0 +1,315 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=happily+disgusted&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=30",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "happily disgusted",
+            "window": "a",
+            "type": "tweet",
+            "offset": "30"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 2,
+                "firstpost_date": 1396350921,
+                "title": "Do you know what a happily disgusted person looks like? Because soon, an app might know the answer https://t.co/bb2MAbauqJ",
+                "url": "http://twitter.com/conversationedu/status/450954566624751617",
+                "trackback_date": 1396350921,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/bb2MAbauqJ",
+                        "display_url": "theconversation.com/happily-disgus\u2026",
+                        "expanded_url": "https://theconversation.com/happily-disgusted-it-could-show-all-over-your-face-24986",
+                        "topsy_expanded_url": "https://theconversation.com/happily-disgusted-it-could-show-all-over-your-face-24986"
+                    }
+                ],
+                "target_birth_date": 1396350921,
+                "content": "Do you know what a happily disgusted person looks like? Because soon, an app might know the answer https://t.co/bb2MAbauqJ",
+                "mytype": "tweet",
+                "score": 8.3218999999999994,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2132690691/twitter_normal.png",
+                "trackback_permalink": "http://twitter.com/ConversationEDU/status/450954566624751617",
+                "trackback_author_url": "http://twitter.com/conversationedu",
+                "highlight": "Do you know what a happily disgusted person looks like? Because soon, an app might know the answer",
+                "topsy_author_url": "http://topsy.com/twitter/conversationedu",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/conversationedu/status/450954566624751617",
+                "trackback_author_name": "The Conversation",
+                "trackback_author_nick": "conversationedu"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1396293064,
+                "title": "Computers can now detect 21 different emotions -- even 'happily disgusted.' New @OhioState research. http://t.co/9Aj5OQYlDZ",
+                "url": "http://twitter.com/osuresearch/status/450711897982382081",
+                "trackback_date": 1396293064,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9Aj5OQYlDZ",
+                        "display_url": "ow.ly/vebUa",
+                        "expanded_url": "http://ow.ly/vebUa",
+                        "topsy_expanded_url": "http://researchnews.osu.edu/archive/21emotions.htm"
+                    }
+                ],
+                "target_birth_date": 1396293064,
+                "content": "Computers can now detect 21 different emotions -- even 'happily disgusted.' New @OhioState research. http://t.co/9Aj5OQYlDZ",
+                "mytype": "tweet",
+                "score": 8.2908270000000002,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/80690824/Tspic3_smla_normal.jpg",
+                "trackback_permalink": "http://twitter.com/osuresearch/status/450711897982382081",
+                "trackback_author_url": "http://twitter.com/osuresearch",
+                "highlight": "Computers can now detect 21 different emotions -- even 'happily disgusted.' New @OhioState research.",
+                "topsy_author_url": "http://topsy.com/twitter/osuresearch",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/osuresearch/status/450711897982382081",
+                "trackback_author_name": "OSU Research News",
+                "trackback_author_nick": "osuresearch"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1396639178,
+                "title": "Happily disgusted? 15 new emotions ID'd: http://t.co/35odNFlwVk http://t.co/vwltFLuZUs",
+                "url": "http://twitter.com/kytv/status/452163602070269952",
+                "trackback_date": 1396639178,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/35odNFlwVk",
+                        "display_url": "bit.ly/1lvGxBe",
+                        "expanded_url": "http://bit.ly/1lvGxBe",
+                        "topsy_expanded_url": "http://www.ky3.com/Happily-disgusted-15-new-emotions-ID-d/21048768_25322962"
+                    },
+                    {
+                        "url": "http://t.co/vwltFLuZUs",
+                        "display_url": "pic.twitter.com/vwltFLuZUs",
+                        "expanded_url": "http://twitter.com/kytv/status/452163602070269952/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BkZoZnZCUAAegsY.jpg"
+                    }
+                ],
+                "target_birth_date": 1396639178,
+                "content": "Happily disgusted? 15 new emotions ID'd: http://t.co/35odNFlwVk http://t.co/vwltFLuZUs",
+                "mytype": "tweet",
+                "score": 8.2838329999999996,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000673084786/9764689b70d26d29a821da4bdd635994_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/kytv/status/452163602070269952",
+                "trackback_author_url": "http://twitter.com/kytv",
+                "highlight": "Happily disgusted? 15 new emotions ID'd:",
+                "topsy_author_url": "http://topsy.com/twitter/kytv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kytv/status/452163602070269952",
+                "trackback_author_name": "KY3 News",
+                "trackback_author_nick": "kytv"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396627027,
+                "title": "Happily disgusted? 15 new emotions ID'd http://t.co/MvklhCfPea",
+                "url": "http://twitter.com/live__healthy/status/452112637418295297",
+                "trackback_date": 1396627027,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/MvklhCfPea",
+                        "display_url": "dld.bz/dmWPJ",
+                        "expanded_url": "http://dld.bz/dmWPJ",
+                        "topsy_expanded_url": "http://www.cnn.com/2014/04/04/health/facial-expressions/index.html"
+                    }
+                ],
+                "target_birth_date": 1396627027,
+                "content": "Happily disgusted? 15 new emotions ID'd http://t.co/MvklhCfPea",
+                "mytype": "tweet",
+                "score": 8.2643389999999997,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000728039726/a56121b9e98aa0d9dcbb21edd7738721_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Live__Healthy/status/452112637418295297",
+                "trackback_author_url": "http://twitter.com/live__healthy",
+                "highlight": "Happily disgusted? 15 new emotions ID'd",
+                "topsy_author_url": "http://topsy.com/twitter/live__healthy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/live__healthy/status/452112637418295297",
+                "trackback_author_name": "Live Healthy",
+                "trackback_author_nick": "live__healthy"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1396649958,
+                "title": "Interesting research on emotion: Happily disgusted? 15 new emotions ID'd http://t.co/u4y0nE3XOp",
+                "url": "http://twitter.com/karenreivich/status/452208817649221633",
+                "trackback_date": 1396649958,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/u4y0nE3XOp",
+                        "display_url": "cnn.com/2014/04/04/hea\u2026",
+                        "expanded_url": "http://www.cnn.com/2014/04/04/health/facial-expressions/index.html",
+                        "topsy_expanded_url": "http://www.cnn.com/2014/04/04/health/facial-expressions/index.html"
+                    }
+                ],
+                "target_birth_date": 1396649958,
+                "content": "Interesting research on emotion: Happily disgusted? 15 new emotions ID'd http://t.co/u4y0nE3XOp",
+                "mytype": "tweet",
+                "score": 8.2556290000000008,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3374840885/d455176fd8431c64d65b272c1429c4b0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/KarenReivich/status/452208817649221633",
+                "trackback_author_url": "http://twitter.com/karenreivich",
+                "highlight": "Interesting research on emotion: Happily disgusted? 15 new emotions ID'd",
+                "topsy_author_url": "http://topsy.com/twitter/karenreivich",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/karenreivich/status/452208817649221633",
+                "trackback_author_name": "Karen Reivich",
+                "trackback_author_nick": "karenreivich"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396729801,
+                "title": "Happily disgusted? 15 new emotions ID'd http://t.co/UPAsVFmtC8 http://t.co/6MYi51WcYb",
+                "url": "http://twitter.com/darinrmcclure/status/452543702758850560",
+                "trackback_date": 1396729801,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/UPAsVFmtC8",
+                        "display_url": "be.rtgit.com/1kclIxN",
+                        "expanded_url": "http://be.rtgit.com/1kclIxN",
+                        "topsy_expanded_url": "http://www.cnn.com/2014/04/04/health/facial-expressions/index.html"
+                    },
+                    {
+                        "url": "http://t.co/6MYi51WcYb",
+                        "display_url": "pic.twitter.com/6MYi51WcYb",
+                        "expanded_url": "http://twitter.com/DarinRMcClure/status/452543702758850560/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BkfCGXrIAAAyiju.jpg"
+                    }
+                ],
+                "target_birth_date": 1396729801,
+                "content": "Happily disgusted? 15 new emotions ID'd http://t.co/UPAsVFmtC8 http://t.co/6MYi51WcYb",
+                "mytype": "tweet",
+                "score": 8.2388779999999997,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459008970628149248/rOZaQ-cd_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DarinRMcClure/status/452543702758850560",
+                "trackback_author_url": "http://twitter.com/darinrmcclure",
+                "highlight": "Happily disgusted? 15 new emotions ID'd",
+                "topsy_author_url": "http://topsy.com/twitter/darinrmcclure",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/darinrmcclure/status/452543702758850560",
+                "trackback_author_name": "Darin",
+                "trackback_author_nick": "darinrmcclure"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396358783,
+                "title": "Computers Can Now Tell If You Are Happy, Disgusted Or Happily Disgusted http://t.co/Pw7JBaMt19 http://t.co/9XKqOuh0iu",
+                "url": "http://twitter.com/carbonatedtv/status/450987541890473984",
+                "trackback_date": 1396358783,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Pw7JBaMt19",
+                        "display_url": "goo.gl/Eqw7EK",
+                        "expanded_url": "http://goo.gl/Eqw7EK",
+                        "topsy_expanded_url": "http://www.carbonated.tv/technology/scientists-use-computer-to-map-21-different-human-emotions"
+                    },
+                    {
+                        "url": "http://t.co/9XKqOuh0iu",
+                        "display_url": "pic.twitter.com/9XKqOuh0iu",
+                        "expanded_url": "http://twitter.com/CarbonatedTV/status/450987541890473984/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BkI6x6jCIAAEMEl.jpg"
+                    }
+                ],
+                "target_birth_date": 1396358783,
+                "content": "Computers Can Now Tell If You Are Happy, Disgusted Or Happily Disgusted http://t.co/Pw7JBaMt19 http://t.co/9XKqOuh0iu",
+                "mytype": "tweet",
+                "score": 8.2341069999999998,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000849881217/07d086a9724a074d7a7d8c4ad0c4f12f_normal.png",
+                "trackback_permalink": "http://twitter.com/CarbonatedTV/status/450987541890473984",
+                "trackback_author_url": "http://twitter.com/carbonatedtv",
+                "highlight": "Computers Can Now Tell If You Are Happy, Disgusted Or Happily Disgusted",
+                "topsy_author_url": "http://topsy.com/twitter/carbonatedtv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/carbonatedtv/status/450987541890473984",
+                "trackback_author_name": "Carbonated.TV",
+                "trackback_author_nick": "carbonatedtv"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1396312364,
+                "title": "Computer maps 21 distinct emotional expressions \u2014 even \u2018happily disgusted\u2019 | http://t.co/3K8aSvi5cW #science rt @PsyPost @jurylady5",
+                "url": "http://twitter.com/torque10/status/450792846195703808",
+                "trackback_date": 1396312364,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3K8aSvi5cW",
+                        "display_url": "bit.ly/1ljc6hM",
+                        "expanded_url": "http://bit.ly/1ljc6hM",
+                        "topsy_expanded_url": "http://www.psypost.org/2014/03/computer-maps-21-distinct-emotional-expressions-even-happily-disgusted-24046"
+                    }
+                ],
+                "target_birth_date": 1396312364,
+                "content": "Computer maps 21 distinct emotional expressions \u2014 even \u2018happily disgusted\u2019 | http://t.co/3K8aSvi5cW #science rt @PsyPost @jurylady5",
+                "mytype": "tweet",
+                "score": 8.2308880000000002,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452808975558250496/7dVSmyFS_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/torque10/status/450792846195703808",
+                "trackback_author_url": "http://twitter.com/torque10",
+                "highlight": "Computer maps 21 distinct emotional expressions \u2014 even \u2018happily disgusted\u2019 | #science rt @PsyPost @jurylady5",
+                "topsy_author_url": "http://topsy.com/twitter/torque10",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/torque10/status/450792846195703808",
+                "trackback_author_name": "pagan",
+                "trackback_author_nick": "torque10"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1397478332,
+                "title": "Computer maps 21 distinct emotional expressions -- even \u2018happily disgusted\u2019 http://t.co/C0DGkO4Gk8",
+                "url": "http://twitter.com/psypost/status/455683268717723648",
+                "trackback_date": 1397478332,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/C0DGkO4Gk8",
+                        "display_url": "psypost.org/?p=24046",
+                        "expanded_url": "http://www.psypost.org/?p=24046",
+                        "topsy_expanded_url": "http://www.psypost.org/2014/03/computer-maps-21-distinct-emotional-expressions-even-happily-disgusted-24046"
+                    }
+                ],
+                "target_birth_date": 1397478332,
+                "content": "Computer maps 21 distinct emotional expressions -- even \u2018happily disgusted\u2019 http://t.co/C0DGkO4Gk8",
+                "mytype": "tweet",
+                "score": 8.2005490000000005,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3759708549/cb70e9824c428e7cb72c6418446c9547_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PsyPost/status/455683268717723648",
+                "trackback_author_url": "http://twitter.com/psypost",
+                "highlight": "Computer maps 21 distinct emotional expressions -- even \u2018happily disgusted\u2019",
+                "topsy_author_url": "http://topsy.com/twitter/psypost",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/psypost/status/455683268717723648",
+                "trackback_author_name": "PsyPost.org",
+                "trackback_author_nick": "psypost"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1396342308,
+                "title": "Developments in Autism, feeling 'happily disgusted' &amp; catching bugs from your cat. Join me on @FirstlineNZ tomorrow 8:15am for more science",
+                "url": "http://twitter.com/medickinson/status/450918440237162497",
+                "trackback_date": 1396342308,
+                "trackback_total": 4,
+                "url_expansions": [],
+                "target_birth_date": 1396342308,
+                "content": "Developments in Autism, feeling 'happily disgusted' &amp; catching bugs from your cat. Join me on @FirstlineNZ tomorrow 8:15am for more science",
+                "mytype": "tweet",
+                "score": 8.1986760000000007,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3346460129/55bd01631d2fab81341802184c917518_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/medickinson/status/450918440237162497",
+                "trackback_author_url": "http://twitter.com/medickinson",
+                "highlight": "Developments in Autism, feeling 'happily disgusted' &amp; catching bugs from your cat. Join me on @FirstlineNZ tomorrow 8:15am for more science",
+                "topsy_author_url": "http://topsy.com/twitter/medickinson",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/medickinson/status/450918440237162497",
+                "trackback_author_name": "Nanogirl",
+                "trackback_author_nick": "medickinson"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 30,
+        "hidden": 0,
+        "total": 2895,
+        "page": 1
+    }
+}

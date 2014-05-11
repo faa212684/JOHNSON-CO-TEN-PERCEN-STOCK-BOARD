@@ -1,0 +1,44 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=angrily+%23surprised&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "angrily #surprised",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1399516484,
+                "title": "There are 21 #distinct #emotions that can be expressed by the human face. happily #disgusted and angrily #surprised are two of them!",
+                "url": "http://twitter.com/lisadoflob/status/464231901109043201",
+                "trackback_date": 1399516484,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1399516484,
+                "content": "There are 21 #distinct #emotions that can be expressed by the human face. happily #disgusted and angrily #surprised are two of them!",
+                "mytype": "tweet",
+                "score": 4.7261939999999996,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460557025294815234/KZCZBjtk_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LisaDofLob/status/464231901109043201",
+                "trackback_author_url": "http://twitter.com/lisadoflob",
+                "highlight": "There are 21 #distinct #emotions that can be expressed by the human face. happily #disgusted and angrily #surprised are two of them!",
+                "topsy_author_url": "http://topsy.com/twitter/lisadoflob",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lisadoflob/status/464231901109043201",
+                "trackback_author_name": "Lifestyleofbeauty",
+                "trackback_author_nick": "lisadoflob"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

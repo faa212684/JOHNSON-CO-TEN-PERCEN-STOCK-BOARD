@@ -1,0 +1,80 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=fearfully+%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=30",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "fearfully #happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "30"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1349034277,
+                "title": "Fearfully and wonderfully made! :) (Loki creeping in the background haha) #Psalm139 #happy #Loki  http://t.co/WaNxd5bK",
+                "url": "http://twitter.com/jenlillian/status/252494174845276160",
+                "trackback_date": 1349048566,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WaNxd5bK",
+                        "display_url": "instagr.am/p/QNi1xmk7rM/",
+                        "expanded_url": "http://instagr.am/p/QNi1xmk7rM/",
+                        "topsy_expanded_url": "http://instagram.com/p/QNi1xmk7rM/"
+                    }
+                ],
+                "target_birth_date": 1349034277,
+                "content": "RT @jenlillian: Fearfully and wonderfully made! :) (Loki creeping in the background haha) #Psalm139 #happy #Loki  http://t.co/WaNxd5bK",
+                "mytype": "tweet",
+                "score": 0.74345899999999998,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1790244868/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/MichWishgranter/status/252554110665101313",
+                "trackback_author_url": "http://twitter.com/michwishgranter",
+                "highlight": "Fearfully and wonderfully made! :) (Loki creeping in the background haha) #Psalm139 #happy #Loki",
+                "topsy_author_url": "http://topsy.com/twitter/michwishgranter",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jenlillian/status/252494174845276160",
+                "trackback_author_name": "J Pratt",
+                "trackback_author_nick": "michwishgranter"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1386530854,
+                "title": "For I am fearfully and wonderfully made. Psalms 139:14 \u2728\ud83d\udc95\ud83d\udc51\u263a\ufe0f\ud83d\udc53 #Glasses #SelfieSunday #Happy http://t.co/ZI8z4ecbQ1",
+                "url": "http://twitter.com/sdavis743/status/409766221253726208",
+                "trackback_date": 1386530854,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ZI8z4ecbQ1",
+                        "display_url": "instagram.com/p/hrAg9OOjyK/",
+                        "expanded_url": "http://instagram.com/p/hrAg9OOjyK/",
+                        "topsy_expanded_url": "http://instagram.com/p/hrAg9OOjyK/"
+                    }
+                ],
+                "target_birth_date": 1386530854,
+                "content": "For I am fearfully and wonderfully made. Psalms 139:14 \u2728\ud83d\udc95\ud83d\udc51\u263a\ufe0f\ud83d\udc53 #Glasses #SelfieSunday #Happy http://t.co/ZI8z4ecbQ1",
+                "mytype": "tweet",
+                "score": 0.71777539999999995,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464232824954818560/icNiI1_G_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/sdavis743/status/409766221253726208",
+                "trackback_author_url": "http://twitter.com/sdavis743",
+                "highlight": "For I am fearfully and wonderfully made. Psalms 139:14 \u2728\ud83d\udc95\ud83d\udc51\u263a\ufe0f\ud83d\udc53 #Glasses #SelfieSunday #Happy",
+                "topsy_author_url": "http://topsy.com/twitter/sdavis743",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sdavis743/status/409766221253726208",
+                "trackback_author_name": "\u25cfSarah Davis\u25cf",
+                "trackback_author_nick": "sdavis743"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 30,
+        "hidden": 0,
+        "total": 32,
+        "page": 1
+    }
+}

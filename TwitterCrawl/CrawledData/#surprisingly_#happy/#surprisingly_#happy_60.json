@@ -1,0 +1,94 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23surprisingly+%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=60",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#surprisingly #happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "60"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1385107324,
+                "title": "Getting ready for school bitches #school #woo #recovery #happy #surprisingly #friday http://t.co/fSabUd1AmA",
+                "url": "http://twitter.com/idekrachel/status/403795500979470336",
+                "trackback_date": 1385107324,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/fSabUd1AmA",
+                        "display_url": "instagram.com/p/hAmq5bkCL0/",
+                        "expanded_url": "http://instagram.com/p/hAmq5bkCL0/",
+                        "topsy_expanded_url": "http://instagram.com/p/hAmq5bkCL0/"
+                    }
+                ],
+                "target_birth_date": 1385107324,
+                "content": "Getting ready for school bitches #school #woo #recovery #happy #surprisingly #friday http://t.co/fSabUd1AmA",
+                "mytype": "tweet",
+                "score": 2.2692385000000002,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3712980495/2a1d56cf65943c17c02cbdb1412551fd_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/idekrachel/status/403795500979470336",
+                "trackback_author_url": "http://twitter.com/idekrachel",
+                "highlight": "Getting ready for school bitches #school #woo #recovery #happy #surprisingly #friday",
+                "topsy_author_url": "http://topsy.com/twitter/idekrachel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/idekrachel/status/403795500979470336",
+                "trackback_author_name": "rachel",
+                "trackback_author_nick": "idekrachel"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1393449511,
+                "title": ":) I'm in such a good mood considering I'm about to go fail a midterm #happy #surprisingly",
+                "url": "http://twitter.com/hbella1424/status/438785171081265155",
+                "trackback_date": 1393449511,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1393449511,
+                "content": ":) I'm in such a good mood considering I'm about to go fail a midterm #happy #surprisingly",
+                "mytype": "tweet",
+                "score": 2.1776966999999998,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464605342375362562/EhblAhtF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/hbella1424/status/438785171081265155",
+                "trackback_author_url": "http://twitter.com/hbella1424",
+                "highlight": ":) I'm in such a good mood considering I'm about to go fail a midterm #happy",
+                "topsy_author_url": "http://topsy.com/twitter/hbella1424",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hbella1424/status/438785171081265155",
+                "trackback_author_name": "Hannah DeBella",
+                "trackback_author_nick": "hbella1424"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1305125317,
+                "title": "#surprisingly I'm #happy that it's raining! I don't have to burn my legs on my leather seats today!!(:",
+                "url": "http://twitter.com/skyfbaby/status/68326651162931201",
+                "trackback_date": 1305125317,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1305125317,
+                "content": "#surprisingly I'm #happy that it's raining! I don't have to burn my legs on my leather seats today!!(:",
+                "mytype": "tweet",
+                "score": 1.9371254,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/455954561727885313/Oi1WI-vF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SkyFbaby/status/68326651162931201",
+                "trackback_author_url": "http://twitter.com/skyfbaby",
+                "highlight": "#surprisingly I'm #happy that it's raining! I don't have to burn my legs on my leather seats today!!(:",
+                "topsy_author_url": "http://topsy.com/twitter/skyfbaby",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/skyfbaby/status/68326651162931201",
+                "trackback_author_name": "Skylar Funderburk",
+                "trackback_author_nick": "skyfbaby"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 60,
+        "hidden": 0,
+        "total": 86,
+        "page": 1
+    }
+}

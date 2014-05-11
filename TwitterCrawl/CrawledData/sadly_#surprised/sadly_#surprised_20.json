@@ -1,0 +1,66 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=sadly+%23surprised&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=20",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "sadly #surprised",
+            "window": "a",
+            "type": "tweet",
+            "offset": "20"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1346027106,
+                "title": "RT @kay_hobson: @xoomdaddy @RogersErika i would also disagree but sadly she indeed did shower #surprised",
+                "url": "http://twitter.com/rogerserika/status/239881185545826305",
+                "trackback_date": 1346027106,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1346027106,
+                "content": "RT @kay_hobson: @xoomdaddy @RogersErika i would also disagree but sadly she indeed did shower #surprised",
+                "mytype": "tweet",
+                "score": 0.59952680000000003,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460596997985034240/pyQhkws9_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RogersErika/status/239881185545826305",
+                "trackback_author_url": "http://twitter.com/rogerserika",
+                "highlight": " @RogersErika i would also disagree but sadly she indeed did shower",
+                "topsy_author_url": "http://topsy.com/twitter/rogerserika",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rogerserika/status/239881185545826305",
+                "trackback_author_name": "Erika Rogers",
+                "trackback_author_nick": "rogerserika"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1369371001,
+                "title": "@im_muhranduh sadly ill have to agree that it was pretty good #surprised #gladididntfallasleep",
+                "url": "http://twitter.com/coy_buck17/status/337792579372470272",
+                "trackback_date": 1369371001,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1369371001,
+                "content": "@im_muhranduh sadly ill have to agree that it was pretty good #surprised #gladididntfallasleep",
+                "mytype": "tweet",
+                "score": 0.37363420000000003,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2729692959/151faf2283048ec987fb72efcaa5d7c5_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Coy_Buck17/status/337792579372470272",
+                "trackback_author_url": "http://twitter.com/coy_buck17",
+                "highlight": " sadly ill have to agree that it was pretty good #surprised",
+                "topsy_author_url": "http://topsy.com/twitter/coy_buck17",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/coy_buck17/status/337792579372470272",
+                "trackback_author_name": "Coy Buchanan",
+                "trackback_author_nick": "coy_buck17"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 20,
+        "hidden": 0,
+        "total": 22,
+        "page": 1
+    }
+}

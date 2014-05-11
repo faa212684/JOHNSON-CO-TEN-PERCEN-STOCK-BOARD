@@ -1,0 +1,86 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23sadly+%23surprised&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#sadly #surprised",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1281712850,
+                "title": "Disappointing news: proposed a partnership with @AVERT org, received a letter of \"fundings declined\" #startled #sadly #surprised",
+                "url": "http://twitter.com/peoplespride/status/21072308703",
+                "trackback_date": 1281712850,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1281712850,
+                "content": "Disappointing news: proposed a partnership with @AVERT org, received a letter of \"fundings declined\" #startled #sadly #surprised",
+                "mytype": "tweet",
+                "score": 4.6402416000000004,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1497322458/CREST_normal.png",
+                "trackback_permalink": "http://twitter.com/PEOPLESPRIDE/status/21072308703",
+                "trackback_author_url": "http://twitter.com/peoplespride",
+                "highlight": "Disappointing news: proposed a partnership with @AVERT org, received a letter of \"fundings declined\" #startled #sadly",
+                "topsy_author_url": "http://topsy.com/twitter/peoplespride",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/peoplespride/status/21072308703",
+                "trackback_author_name": "PEOPLES PRIDE",
+                "trackback_author_nick": "peoplespride"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1351359567,
+                "title": "I still can't get over how nasty that is. But #sadly not #surprised.",
+                "url": "http://twitter.com/yobails/status/262247148895236097",
+                "trackback_date": 1351359567,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1351359567,
+                "content": "I still can't get over how nasty that is. But #sadly not #surprised.",
+                "mytype": "tweet",
+                "score": 2.2542469999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464517618142310400/CF_SGQDS_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/yobails/status/262247148895236097",
+                "trackback_author_url": "http://twitter.com/yobails",
+                "highlight": "I still can't get over how nasty that is. But #sadly not #surprised.",
+                "topsy_author_url": "http://topsy.com/twitter/yobails",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/yobails/status/262247148895236097",
+                "trackback_author_name": "BaileyKelly",
+                "trackback_author_nick": "yobails"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1368115928,
+                "title": "\u201c@UberFacts: In New York City, about 1,600 people are bitten by other humans every year.\u201d #SICK #SADLY #NOT #SURPRISED #EW #EW #EW",
+                "url": "http://twitter.com/locoldi/status/332528420540006403",
+                "trackback_date": 1368115928,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1368115928,
+                "content": "\u201c@UberFacts: In New York City, about 1,600 people are bitten by other humans every year.\u201d #SICK #SADLY #NOT #SURPRISED #EW #EW #EW",
+                "mytype": "tweet",
+                "score": 1.3174313,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/378800000505048648/a17a9afd08410e4f180f8921ae41f7b2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/locoldi/status/332528420540006403",
+                "trackback_author_url": "http://twitter.com/locoldi",
+                "highlight": "\u201c@UberFacts: In New York City, about 1,600 people are bitten by other humans every year.\u201d #SICK #SADLY #NOT #SURPRISED #EW #EW",
+                "topsy_author_url": "http://topsy.com/twitter/locoldi",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/locoldi/status/332528420540006403",
+                "trackback_author_name": "Lorraine Coldiron",
+                "trackback_author_nick": "locoldi"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 3,
+        "page": 1
+    }
+}

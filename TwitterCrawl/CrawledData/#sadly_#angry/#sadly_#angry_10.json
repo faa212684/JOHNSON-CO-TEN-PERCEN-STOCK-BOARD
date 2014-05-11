@@ -1,0 +1,45 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23sadly+%23angry&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=10",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#sadly #angry",
+            "window": "a",
+            "type": "tweet",
+            "offset": "10"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1375815366,
+                "title": "I'm gonna be dead after work today :(. #sadly #sick #pissy #angry #novoiceasitis",
+                "url": "http://twitter.com/loveislove1627/status/364822204497657858",
+                "trackback_date": 1375815366,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1375815366,
+                "content": "I'm gonna be dead after work today :(. #sadly #sick #pissy #angry #novoiceasitis",
+                "mytype": "tweet",
+                "score": 1.5754826,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463922053913919488/eEMmdxro_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/loveislove1627/status/364822204497657858",
+                "trackback_author_url": "http://twitter.com/loveislove1627",
+                "highlight": "I'm gonna be dead after work today :(. #sadly #sick #pissy #angry",
+                "topsy_author_url": "http://topsy.com/twitter/loveislove1627",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/loveislove1627/status/364822204497657858",
+                "trackback_author_name": "Bad Luck Lesbian",
+                "trackback_author_nick": "loveislove1627"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 10,
+        "hidden": 0,
+        "total": 11,
+        "page": 1
+    }
+}

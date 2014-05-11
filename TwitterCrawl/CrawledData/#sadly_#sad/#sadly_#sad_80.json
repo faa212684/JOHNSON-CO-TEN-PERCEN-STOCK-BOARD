@@ -1,0 +1,290 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23sadly+%23sad&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=80",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#sadly #sad",
+            "window": "a",
+            "type": "tweet",
+            "offset": "80"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1384578018,
+                "title": "#sad #sadness #sadly #sadtweet",
+                "url": "http://twitter.com/jolie_meow/status/401575431897227265",
+                "trackback_date": 1384578018,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1384578018,
+                "content": "#sad #sadness #sadly #sadtweet",
+                "mytype": "tweet",
+                "score": 1.9564657999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461490298430836736/_9mUyorF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jolie_meow/status/401575431897227265",
+                "trackback_author_url": "http://twitter.com/jolie_meow",
+                "highlight": "#sad #sadness #sadly",
+                "topsy_author_url": "http://topsy.com/twitter/jolie_meow",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jolie_meow/status/401575431897227265",
+                "trackback_author_name": "Jolie Pham",
+                "trackback_author_nick": "jolie_meow"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1395510148,
+                "title": "\u041d\u0430\u0441\u0442\u043e\u044f\u0449\u0430\u044f \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \ud83d\ude14\ud83d\udcd6\ud83d\udcda #book #books #quote #word #words #raybradbury #fahrenheit451 #sad #sadly\u2026 http://t.co/avaAx87JPg",
+                "url": "http://twitter.com/rituzarituza/status/447428106870353920",
+                "trackback_date": 1395510148,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/avaAx87JPg",
+                        "display_url": "instagram.com/p/l2onB_gXUu/",
+                        "expanded_url": "http://instagram.com/p/l2onB_gXUu/",
+                        "topsy_expanded_url": "http://instagram.com/p/l2onB_gXUu/"
+                    }
+                ],
+                "target_birth_date": 1395510148,
+                "content": "\u041d\u0430\u0441\u0442\u043e\u044f\u0449\u0430\u044f \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \ud83d\ude14\ud83d\udcd6\ud83d\udcda #book #books #quote #word #words #raybradbury #fahrenheit451 #sad #sadly\u2026 http://t.co/avaAx87JPg",
+                "mytype": "tweet",
+                "score": 1.9564452999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/448545665904160768/uDzMkh4L_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rituzarituza/status/447428106870353920",
+                "trackback_author_url": "http://twitter.com/ritusharitusha",
+                "highlight": "\u041d\u0430\u0441\u0442\u043e\u044f\u0449\u0430\u044f \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \ud83d\ude14\ud83d\udcd6\ud83d\udcda #book #books #quote #word #words #raybradbury #fahrenheit451 #sad #sadly\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/ritusharitusha",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rituzarituza/status/447428106870353920",
+                "trackback_author_name": "\u0420\u0438\u0442\u0443\u0448\u0430",
+                "trackback_author_nick": "ritusharitusha"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1339194140,
+                "title": "I do.. :`(( miss you...!! #miss  #love #missing #you #pillow #quote #pain #sad #sadly #sadness #life #truth  http://t.co/cbpuThdv",
+                "url": "http://twitter.com/tiamosilva33/status/211221650878898177",
+                "trackback_date": 1339194140,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cbpuThdv",
+                        "display_url": "instagr.am/p/LoSI71MwFP/",
+                        "expanded_url": "http://instagr.am/p/LoSI71MwFP/",
+                        "topsy_expanded_url": "http://instagr.am/p/LoSI71MwFP/"
+                    }
+                ],
+                "target_birth_date": 1339194140,
+                "content": "I do.. :`(( miss you...!! #miss  #love #missing #you #pillow #quote #pain #sad #sadly #sadness #life #truth  http://t.co/cbpuThdv",
+                "mytype": "tweet",
+                "score": 1.9550282999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462346299053199360/Sn-rMJSN_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TiAmoSilva33/status/211221650878898177",
+                "trackback_author_url": "http://twitter.com/ricky22loyal",
+                "highlight": "I do.. :`(( miss you...!! #miss #love #missing #you #pillow #quote #pain #sad #sadly #sadness #life #truth",
+                "topsy_author_url": "http://topsy.com/twitter/ricky22loyal",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tiamosilva33/status/211221650878898177",
+                "trackback_author_name": "A.C.MILAN",
+                "trackback_author_nick": "ricky22loyal"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1368497003,
+                "title": "Tan cerca de ser aluCno ejemplar tan lejos de tener mi Ibiza #instasad #sad #sadly #dissapointed",
+                "url": "http://twitter.com/erickmpulido/status/334126764982927361",
+                "trackback_date": 1368497003,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1368497003,
+                "content": "Tan cerca de ser aluCno ejemplar tan lejos de tener mi Ibiza #instasad #sad #sadly #dissapointed",
+                "mytype": "tweet",
+                "score": 1.932631,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452572601978601472/nO27ZCXn_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ErickMPulido/status/334126764982927361",
+                "trackback_author_url": "http://twitter.com/erickmpulido",
+                "highlight": "Tan cerca de ser aluCno ejemplar tan lejos de tener mi Ibiza #instasad #sad #sadly",
+                "topsy_author_url": "http://topsy.com/twitter/erickmpulido",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/erickmpulido/status/334126764982927361",
+                "trackback_author_name": "Erick Josafat",
+                "trackback_author_nick": "erickmpulido"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1383101339,
+                "title": "Sin duda no ha sido un buen dia... #sad #sadly #day #fuckoff #stich #rain #blue #notgood #bad\u2026 http://t.co/Mu1aCgz0zH",
+                "url": "http://twitter.com/desssweetink/status/395381792930557952",
+                "trackback_date": 1383101339,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Mu1aCgz0zH",
+                        "display_url": "instagram.com/p/gE0cvhLBoZ/",
+                        "expanded_url": "http://instagram.com/p/gE0cvhLBoZ/",
+                        "topsy_expanded_url": "http://instagram.com/p/gE0cvhLBoZ/"
+                    }
+                ],
+                "target_birth_date": 1383101339,
+                "content": "Sin duda no ha sido un buen dia... #sad #sadly #day #fuckoff #stich #rain #blue #notgood #bad\u2026 http://t.co/Mu1aCgz0zH",
+                "mytype": "tweet",
+                "score": 1.931543,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459749017937653760/klPwv0G4_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DessSweetInk/status/395381792930557952",
+                "trackback_author_url": "http://twitter.com/desssweetink",
+                "highlight": "Sin duda no ha sido un buen dia... #sad #sadly #day #fuckoff #stich #rain #blue #notgood #bad\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/desssweetink",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/desssweetink/status/395381792930557952",
+                "trackback_author_name": "Sweet Ink\u2665",
+                "trackback_author_nick": "desssweetink"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1364291171,
+                "title": "So scarier and sadly clouds.Looks like autumn #Nomood #Climate #Clouds #Grey #Depression #Sad #Sadly\u2026 http://t.co/q4SLKgWyHS",
+                "url": "http://twitter.com/petr_lauder/status/316486227341737984",
+                "trackback_date": 1364291171,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/q4SLKgWyHS",
+                        "display_url": "instagram.com/p/XUO-iaKRNL/",
+                        "expanded_url": "http://instagram.com/p/XUO-iaKRNL/",
+                        "topsy_expanded_url": "http://instagram.com/p/XUO-iaKRNL/"
+                    }
+                ],
+                "target_birth_date": 1364291171,
+                "content": "So scarier and sadly clouds.Looks like autumn #Nomood #Climate #Clouds #Grey #Depression #Sad #Sadly\u2026 http://t.co/q4SLKgWyHS",
+                "mytype": "tweet",
+                "score": 1.9313593,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462965193199190016/MhbeQ2BF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Petr_Lauder/status/316486227341737984",
+                "trackback_author_url": "http://twitter.com/petrlauder",
+                "highlight": "So scarier and sadly clouds.Looks like autumn #Nomood #Climate #Clouds #Grey #Depression #Sad #Sadly\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/petrlauder",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/petr_lauder/status/316486227341737984",
+                "trackback_author_name": "PETR LAUDER",
+                "trackback_author_nick": "petrlauder"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1373688056,
+                "title": "Exactamente yo.. #cry #crying #sad #sadly #make #me #happy #happiness #life #live #love #bored #just\u2026 http://t.co/QprL38JsUc",
+                "url": "http://twitter.com/imalikjuana/status/355899620716576768",
+                "trackback_date": 1373688056,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/QprL38JsUc",
+                        "display_url": "instagram.com/p/bsR2IYBzIL/",
+                        "expanded_url": "http://instagram.com/p/bsR2IYBzIL/",
+                        "topsy_expanded_url": "http://instagram.com/p/bsR2IYBzIL/"
+                    }
+                ],
+                "target_birth_date": 1373688056,
+                "content": "Exactamente yo.. #cry #crying #sad #sadly #make #me #happy #happiness #life #live #love #bored #just\u2026 http://t.co/QprL38JsUc",
+                "mytype": "tweet",
+                "score": 1.9312028000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460570913789206529/TVUs7jTx_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/imalikjuana/status/355899620716576768",
+                "trackback_author_url": "http://twitter.com/imalikjuana",
+                "highlight": "Exactamente yo.. #cry #crying #sad #sadly #make #me #happy #happiness #life #live #love #bored #just\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/imalikjuana",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/imalikjuana/status/355899620716576768",
+                "trackback_author_name": "Yuli. \u2020",
+                "trackback_author_nick": "imalikjuana"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1388802799,
+                "title": "Just want to sleep forever :( #depressed #teen #tears #sleeping #not-awaking #awake #sad #sadly\u2026 http://t.co/x4MATB3CvJ",
+                "url": "http://twitter.com/67webb_random7/status/419295448877498368",
+                "trackback_date": 1388802799,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/x4MATB3CvJ",
+                        "display_url": "instagram.com/p/iuvCxjzE6i/",
+                        "expanded_url": "http://instagram.com/p/iuvCxjzE6i/",
+                        "topsy_expanded_url": "http://instagram.com/p/iuvCxjzE6i/"
+                    }
+                ],
+                "target_birth_date": 1388802799,
+                "content": "Just want to sleep forever :( #depressed #teen #tears #sleeping #not-awaking #awake #sad #sadly\u2026 http://t.co/x4MATB3CvJ",
+                "mytype": "tweet",
+                "score": 1.9308514999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/417521090328395776/ClS3qO8Q_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/67Webb_random7/status/419295448877498368",
+                "trackback_author_url": "http://twitter.com/67webb_random7",
+                "highlight": "Just want to sleep forever :( #depressed #teen #tears #sleeping #not-awaking #awake #sad #sadly\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/67webb_random7",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/67webb_random7/status/419295448877498368",
+                "trackback_author_name": "alicia webb",
+                "trackback_author_nick": "67webb_random7"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1357549895,
+                "title": "...yesterday I was in Gran Canaria... #cold #winter #monday #sad #sadly #job #work #morning  @ Via Rubattino http://t.co/haJADsWX",
+                "url": "http://twitter.com/infolifephoto/status/288211269075472384",
+                "trackback_date": 1357549895,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/haJADsWX",
+                        "display_url": "instagr.am/p/ULU7kuIszO/",
+                        "expanded_url": "http://instagr.am/p/ULU7kuIszO/",
+                        "topsy_expanded_url": "http://instagram.com/p/ULU7kuIszO/"
+                    }
+                ],
+                "target_birth_date": 1357549895,
+                "content": "...yesterday I was in Gran Canaria... #cold #winter #monday #sad #sadly #job #work #morning  @ Via Rubattino http://t.co/haJADsWX",
+                "mytype": "tweet",
+                "score": 1.9306920999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1796254326/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/InfoLifephoto/status/288211269075472384",
+                "trackback_author_url": "http://twitter.com/infolifephoto",
+                "highlight": "...yesterday I was in Gran Canaria... #cold #winter #monday #sad #sadly #job #work #morning @ Via Rubattino",
+                "topsy_author_url": "http://topsy.com/twitter/infolifephoto",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/infolifephoto/status/288211269075472384",
+                "trackback_author_name": "giuseppeponsphotos",
+                "trackback_author_nick": "infolifephoto"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1340803448,
+                "title": "#girl #me #sad #sadly #mude #moment #tears #cried #life #badthings  @ My Place http://t.co/lQFH2KlQ",
+                "url": "http://twitter.com/09_09_1998/status/217971579081072640",
+                "trackback_date": 1340803448,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/lQFH2KlQ",
+                        "display_url": "instagr.am/p/MYPxY7IZB-/",
+                        "expanded_url": "http://instagr.am/p/MYPxY7IZB-/",
+                        "topsy_expanded_url": "http://instagr.am/p/MYPxY7IZB-/"
+                    }
+                ],
+                "target_birth_date": 1340803448,
+                "content": "#girl #me #sad #sadly #mude #moment #tears #cried #life #badthings  @ My Place http://t.co/lQFH2KlQ",
+                "mytype": "tweet",
+                "score": 1.9297048000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/444074948575760385/4dURf5Mn_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/09_09_1998/status/217971579081072640",
+                "trackback_author_url": "http://twitter.com/09_09_1998",
+                "highlight": "#girl #me #sad #sadly #mude #moment #tears #cried #life #badthings @ My Place",
+                "topsy_author_url": "http://topsy.com/twitter/09_09_1998",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/09_09_1998/status/217971579081072640",
+                "trackback_author_name": "Bee_Be\u2122",
+                "trackback_author_nick": "09_09_1998"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 80,
+        "hidden": 0,
+        "total": 206,
+        "page": 1
+    }
+}

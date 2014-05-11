@@ -1,0 +1,66 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=angrily+disgusted&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=220",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "angrily disgusted",
+            "window": "a",
+            "type": "tweet",
+            "offset": "220"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1372912244,
+                "title": "@HisTaintedPet -- stalk upstairs and scowl angrily as I see you setting up for him and in general seeing the love from you. It disgusted --",
+                "url": "http://twitter.com/alluringcruelty/status/352645629656301568",
+                "trackback_date": 1372912244,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1372912244,
+                "content": "@HisTaintedPet -- stalk upstairs and scowl angrily as I see you setting up for him and in general seeing the love from you. It disgusted --",
+                "mytype": "tweet",
+                "score": -0.48886471999999997,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000524059938/059cb159d24c634bb0d78e58edad5f6b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AlluringCruelty/status/352645629656301568",
+                "trackback_author_url": "http://twitter.com/alluringcruelty",
+                "highlight": " -- stalk upstairs and scowl angrily as I see you setting up for him and in general seeing the love from you. It disgusted --",
+                "topsy_author_url": "http://topsy.com/twitter/alluringcruelty",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/alluringcruelty/status/352645629656301568",
+                "trackback_author_name": "Abraxas Malfoy",
+                "trackback_author_nick": "alluringcruelty"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1373977214,
+                "title": "@madnessmemories -looks disgusted and starts spitting rapidly-EUGH!-glares at shin-goddamn it i wanted to die you idiot!-angrily walks away-",
+                "url": "http://twitter.com/megancounihanxx/status/357112438992289792",
+                "trackback_date": 1373977214,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1373977214,
+                "content": "@madnessmemories -looks disgusted and starts spitting rapidly-EUGH!-glares at shin-goddamn it i wanted to die you idiot!-angrily walks away-",
+                "mytype": "tweet",
+                "score": -0.5358984,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463459207417974784/VsOfWxDh_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Megancounihanxx/status/357112438992289792",
+                "trackback_author_url": "http://twitter.com/megancounihanxx",
+                "highlight": " -looks disgusted and starts spitting rapidly-EUGH!-glares at shin-goddamn it i wanted to die you idiot!-angrily walks away-",
+                "topsy_author_url": "http://topsy.com/twitter/megancounihanxx",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/megancounihanxx/status/357112438992289792",
+                "trackback_author_name": "Zero Kiryu",
+                "trackback_author_nick": "megancounihanxx"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 220,
+        "hidden": 0,
+        "total": 222,
+        "page": 1
+    }
+}

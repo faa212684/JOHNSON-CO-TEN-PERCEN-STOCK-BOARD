@@ -1,0 +1,23 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=surprisingly+%23surprised&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=660",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "surprisingly #surprised",
+            "window": "a",
+            "type": "tweet",
+            "offset": "660"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 660,
+        "hidden": 0,
+        "total": 660,
+        "page": 1
+    }
+}

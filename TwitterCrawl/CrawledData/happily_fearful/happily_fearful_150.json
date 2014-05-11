@@ -1,0 +1,87 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=happily+fearful&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=150",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "happily fearful",
+            "window": "a",
+            "type": "tweet",
+            "offset": "150"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1313513139,
+                "title": "RT @MichaelWhite: No, Kate, not happily dined with Rupert. Try thinking of them as hostages in the Ogre's castle, fearful they may be ne ...",
+                "url": "http://twitter.com/sandyhkgray2011/status/103507727132803073",
+                "trackback_date": 1313513139,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1313513139,
+                "content": "RT @MichaelWhite: No, Kate, not happily dined with Rupert. Try thinking of them as hostages in the Ogre's castle, fearful they may be ne ...",
+                "mytype": "tweet",
+                "score": -0.18573302,
+                "topsy_author_img": "http://a3.twimg.com/profile_images/1509542487/IMG_5887_normal.JPG",
+                "trackback_permalink": "http://twitter.com/Sandyhkgray2011/status/103507727132803073",
+                "trackback_author_url": "http://twitter.com/sandyhkgray2011",
+                "highlight": "No, Kate, not happily dined with Rupert. Try thinking of them as hostages in the Ogre's castle, fearful they may be ne ",
+                "topsy_author_url": "http://topsy.com/twitter/sandyhkgray2011",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sandyhkgray2011/status/103507727132803073",
+                "trackback_author_name": "Sandy Gray",
+                "trackback_author_nick": "sandyhkgray2011"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1361414981,
+                "title": "@A_sIenderwoman *sighs happily* I know the feeling. I love my lady~ She gives me a lot of love I don't get otherwise. Everyone's too fearful",
+                "url": "http://twitter.com/thatslenderslut/status/304422612916924416",
+                "trackback_date": 1361414981,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1361414981,
+                "content": "@A_sIenderwoman *sighs happily* I know the feeling. I love my lady~ She gives me a lot of love I don't get otherwise. Everyone's too fearful",
+                "mytype": "tweet",
+                "score": -0.19746949999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/450806007363416064/QFFYdajX_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ThatSlenderslut/status/304422612916924416",
+                "trackback_author_url": "http://twitter.com/shkeenami",
+                "highlight": " *sighs happily* I know the feeling. I love my lady~ She gives me a lot of love I don't get otherwise. Everyone's too fearful",
+                "topsy_author_url": "http://topsy.com/twitter/shkeenami",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/thatslenderslut/status/304422612916924416",
+                "trackback_author_name": "\u273f Holla back gurl \u273f",
+                "trackback_author_nick": "shkeenami"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1341344026,
+                "title": "@billhilton Although, happily, you never felt the need to ask, \"Ooooh - are they... apricots?\" in a slightly fearful tone. Croeso i Wrecsam.",
+                "url": "http://twitter.com/christina_les/status/220238925216747520",
+                "trackback_date": 1341344026,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1341344026,
+                "content": "@billhilton Although, happily, you never felt the need to ask, \"Ooooh - are they... apricots?\" in a slightly fearful tone. Croeso i Wrecsam.",
+                "mytype": "tweet",
+                "score": -0.48492622000000002,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3498463890/184c2606ecc7d8488a73348f68642d74_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/christina_les/status/220238925216747520",
+                "trackback_author_url": "http://twitter.com/christina_les",
+                "highlight": " Although, happily, you never felt the need to ask, \"Ooooh - are they... apricots?\" in a slightly fearful tone. Croeso i Wrecsam.",
+                "topsy_author_url": "http://topsy.com/twitter/christina_les",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/christina_les/status/220238925216747520",
+                "trackback_author_name": "Christina Les",
+                "trackback_author_nick": "christina_les"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 150,
+        "hidden": 0,
+        "total": 153,
+        "page": 1
+    }
+}

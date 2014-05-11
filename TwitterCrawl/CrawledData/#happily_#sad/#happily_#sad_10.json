@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23happily+%23sad&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=10",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#happily #sad",
+            "window": "a",
+            "type": "tweet",
+            "offset": "10"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1354971970,
+                "title": "#Test #newava #Cry #Sad #Miss #Happily",
+                "url": "http://twitter.com/damaredipambudi/status/277398668255047680",
+                "trackback_date": 1354971970,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1354971970,
+                "content": "#Test #newava #Cry #Sad #Miss #Happily",
+                "mytype": "tweet",
+                "score": 1.8841030000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461851474339704834/fTb9N92U_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DamarediPambudi/status/277398668255047680",
+                "trackback_author_url": "http://twitter.com/damaredip",
+                "highlight": "#Test #newava #Cry #Sad #Miss",
+                "topsy_author_url": "http://topsy.com/twitter/damaredip",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/damaredipambudi/status/277398668255047680",
+                "trackback_author_name": "rendi",
+                "trackback_author_nick": "damaredip"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1385041946,
+                "title": "#photo #instagram #hope #nsn #happily #or #sad #bored #instalove #ok #follow #me #and #i #follow #back #\u2665 http://t.co/llNge4LHsM",
+                "url": "http://twitter.com/niallsvojice/status/403521286145855488",
+                "trackback_date": 1385041946,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/llNge4LHsM",
+                        "display_url": "instagram.com/p/g-p736HN8C/",
+                        "expanded_url": "http://instagram.com/p/g-p736HN8C/",
+                        "topsy_expanded_url": "http://instagram.com/p/g-p736HN8C/"
+                    }
+                ],
+                "target_birth_date": 1385041946,
+                "content": "#photo #instagram #hope #nsn #happily #or #sad #bored #instalove #ok #follow #me #and #i #follow #back #\u2665 http://t.co/llNge4LHsM",
+                "mytype": "tweet",
+                "score": 1.8195505000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461842912343375872/UiLCzOCQ_normal.png",
+                "trackback_permalink": "http://twitter.com/niallsvojice/status/403521286145855488",
+                "trackback_author_url": "http://twitter.com/njallsbeauty",
+                "highlight": "#photo #instagram #hope #nsn #happily #or #sad #bored #instalove #ok #follow #me #and #i #follow #back #\u2665",
+                "topsy_author_url": "http://topsy.com/twitter/njallsbeauty",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/niallsvojice/status/403521286145855488",
+                "trackback_author_name": "\u21e8anello invisibile\u21e6",
+                "trackback_author_nick": "njallsbeauty"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392979867,
+                "title": "#Black #And #White #Smile #Sad #Fake #Happy #Happily http://t.co/NU8IlOXCAA",
+                "url": "http://twitter.com/maridelvallepaz/status/436815342242119680",
+                "trackback_date": 1392979867,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/NU8IlOXCAA",
+                        "display_url": "instagram.com/p/krOe_lFc1I/",
+                        "expanded_url": "http://instagram.com/p/krOe_lFc1I/",
+                        "topsy_expanded_url": "http://instagram.com/p/krOe_lFc1I/"
+                    }
+                ],
+                "target_birth_date": 1392979867,
+                "content": "#Black #And #White #Smile #Sad #Fake #Happy #Happily http://t.co/NU8IlOXCAA",
+                "mytype": "tweet",
+                "score": 1.5686179,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/455766094272163841/p-ce6OtX_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/maridelvallepaz/status/436815342242119680",
+                "trackback_author_url": "http://twitter.com/maridelvallepaz",
+                "highlight": "#Black #And #White #Smile #Sad #Fake #Happy #Happily",
+                "topsy_author_url": "http://topsy.com/twitter/maridelvallepaz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/maridelvallepaz/status/436815342242119680",
+                "trackback_author_name": "\u2022 H(urt)APPY ",
+                "trackback_author_nick": "maridelvallepaz"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1391250689,
+                "title": "#Cry #Sad #NewDay #Hope #Happily #nothing2do #lol http://t.co/c3ZHP6w81B",
+                "url": "http://twitter.com/hey_is_karla/status/429562642416820224",
+                "trackback_date": 1391250689,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/c3ZHP6w81B",
+                        "display_url": "instagram.com/p/j3sVpOGOtb/",
+                        "expanded_url": "http://instagram.com/p/j3sVpOGOtb/",
+                        "topsy_expanded_url": "http://instagram.com/p/j3sVpOGOtb/"
+                    }
+                ],
+                "target_birth_date": 1391250689,
+                "content": "#Cry #Sad #NewDay #Hope #Happily #nothing2do #lol http://t.co/c3ZHP6w81B",
+                "mytype": "tweet",
+                "score": 1.5397552999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464118235038629888/YU7MyPCu_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Hey_Is_Karla/status/429562642416820224",
+                "trackback_author_url": "http://twitter.com/hey_is_karla",
+                "highlight": "#Cry #Sad #NewDay #Hope #Happily #nothing2do #lol",
+                "topsy_author_url": "http://topsy.com/twitter/hey_is_karla",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hey_is_karla/status/429562642416820224",
+                "trackback_author_name": "AbigaiL \u25cf\u04dc\u25cf",
+                "trackback_author_nick": "hey_is_karla"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396241991,
+                "title": "When I am sad you always with me thanks my boo #teddy #bear #emotion #sad #happy #love #happily #never\u2026 http://t.co/0xNzNWZVUJ",
+                "url": "http://twitter.com/chandra_harry/status/450497680826175488",
+                "trackback_date": 1396241991,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/0xNzNWZVUJ",
+                        "display_url": "instagram.com/p/mMcVrari5U/",
+                        "expanded_url": "http://instagram.com/p/mMcVrari5U/",
+                        "topsy_expanded_url": "http://instagram.com/p/mMcVrari5U/"
+                    }
+                ],
+                "target_birth_date": 1396241991,
+                "content": "When I am sad you always with me thanks my boo #teddy #bear #emotion #sad #happy #love #happily #never\u2026 http://t.co/0xNzNWZVUJ",
+                "mytype": "tweet",
+                "score": 1.4206548999999999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/456315914879660032/O4nXKNyX_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/chandra_harry/status/450497680826175488",
+                "trackback_author_url": "http://twitter.com/chandra_harry",
+                "highlight": "When I am sad you always with me thanks my boo #teddy #bear #emotion #sad #happy #love #happily #never\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/chandra_harry",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/chandra_harry/status/450497680826175488",
+                "trackback_author_name": "chandra_harry68",
+                "trackback_author_nick": "chandra_harry"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1388903095,
+                "title": "We didn't just grow up we grew up not beliving in fairytales anymore , or happily ever afters &lt;3 :( #Sad #Fairytales #Happily #Everafters",
+                "url": "http://twitter.com/lsraven/status/419716120224862208",
+                "trackback_date": 1388903095,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1388903095,
+                "content": "We didn't just grow up we grew up not beliving in fairytales anymore , or happily ever afters &lt;3 :( #Sad #Fairytales #Happily #Everafters",
+                "mytype": "tweet",
+                "score": 1.3975416000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/440384406029467649/ov4xI-c0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LsRaven/status/419716120224862208",
+                "trackback_author_url": "http://twitter.com/lsraven",
+                "highlight": "We didn't just grow up we grew up not beliving in fairytales anymore , or happily ever afters &lt;3 :( #Sad #Fairytales #Happily",
+                "topsy_author_url": "http://topsy.com/twitter/lsraven",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lsraven/status/419716120224862208",
+                "trackback_author_name": "Natalia Andrea",
+                "trackback_author_nick": "lsraven"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1344354334,
+                "title": "Always remind yourself to think #positively,eat #healthily and live #happily.Even when you're #sad, #choose to see the #positive side.",
+                "url": "http://twitter.com/yuenyling/status/232865071397744640",
+                "trackback_date": 1344354334,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1344354334,
+                "content": "Always remind yourself to think #positively,eat #healthily and live #happily.Even when you're #sad, #choose to see the #positive side.",
+                "mytype": "tweet",
+                "score": 1.3662205999999999,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/2571761859/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/yuenyling/status/232865071397744640",
+                "trackback_author_url": "http://twitter.com/yuenyling",
+                "highlight": "Always remind yourself to think #positively,eat #healthily and live #happily.Even when you're #sad, #choose to see the #positive side.",
+                "topsy_author_url": "http://topsy.com/twitter/yuenyling",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/yuenyling/status/232865071397744640",
+                "trackback_author_name": "Yuen Ling(ling)",
+                "trackback_author_nick": "yuenyling"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1318864355,
+                "title": "Feels #Sad for da #Haters they will neva live #Happily ever after",
+                "url": "http://twitter.com/lil_boy_blue123/status/125952354049728512",
+                "trackback_date": 1318864355,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1318864355,
+                "content": "Feels #Sad for da #Haters they will neva live #Happily ever after",
+                "mytype": "tweet",
+                "score": 1.2305748000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/427914025402265600/3CDxcUvF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/lil_boy_blue123/status/125952354049728512",
+                "trackback_author_url": "http://twitter.com/hip_2_it_all",
+                "highlight": "Feels #Sad for da #Haters they will neva live #Happily ever after",
+                "topsy_author_url": "http://topsy.com/twitter/hip_2_it_all",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lil_boy_blue123/status/125952354049728512",
+                "trackback_author_name": "LastOfADyingBreed",
+                "trackback_author_nick": "hip_2_it_all"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1390413157,
+                "title": "#RETRICA #sad #upset #happy #happily #good #cool #like #like4like #follow #followme #live #hair #\u015fekil http://t.co/0tgfHLBaZM",
+                "url": "http://twitter.com/beratcr7_/status/426049780612333568",
+                "trackback_date": 1390413157,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/0tgfHLBaZM",
+                        "display_url": "instagram.com/p/jeu35WE0tx/",
+                        "expanded_url": "http://instagram.com/p/jeu35WE0tx/",
+                        "topsy_expanded_url": "http://instagram.com/p/jeu35WE0tx/"
+                    }
+                ],
+                "target_birth_date": 1390413157,
+                "content": "#RETRICA #sad #upset #happy #happily #good #cool #like #like4like #follow #followme #live #hair #\u015fekil http://t.co/0tgfHLBaZM",
+                "mytype": "tweet",
+                "score": 1.2028844000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/446741064658206720/tRfC6FAv_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/beratcr7_/status/426049780612333568",
+                "trackback_author_url": "http://twitter.com/beratcr7_",
+                "highlight": "#RETRICA #sad #upset #happy #happily #good #cool #like #like4like #follow #followme #live #hair #\u015fekil",
+                "topsy_author_url": "http://topsy.com/twitter/beratcr7_",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/beratcr7_/status/426049780612333568",
+                "trackback_author_name": "Berat Ba\u011fdatl\u0131",
+                "trackback_author_nick": "beratcr7_"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1390105465,
+                "title": "True Friends Never Die #new #friends #laugh #sad #together #forever #dormmates #happily #happysunday\u2026 http://t.co/5b2SQqcp8y",
+                "url": "http://twitter.com/zerarosli17/status/424759223818649600",
+                "trackback_date": 1390105465,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/5b2SQqcp8y",
+                        "display_url": "instagram.com/p/jVj_vJgwWn/",
+                        "expanded_url": "http://instagram.com/p/jVj_vJgwWn/",
+                        "topsy_expanded_url": "http://instagram.com/p/jVj_vJgwWn/"
+                    }
+                ],
+                "target_birth_date": 1390105465,
+                "content": "True Friends Never Die #new #friends #laugh #sad #together #forever #dormmates #happily #happysunday\u2026 http://t.co/5b2SQqcp8y",
+                "mytype": "tweet",
+                "score": 1.1960343,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458089854484484096/LkImOyML_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ZeraRosli17/status/424759223818649600",
+                "trackback_author_url": "http://twitter.com/zerarosli17",
+                "highlight": "True Friends Never Die #new #friends #laugh #sad #together #forever #dormmates #happily #happysunday\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/zerarosli17",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/zerarosli17/status/424759223818649600",
+                "trackback_author_name": "IG : zerarosli",
+                "trackback_author_nick": "zerarosli17"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 10,
+        "hidden": 0,
+        "total": 30,
+        "page": 1
+    }
+}

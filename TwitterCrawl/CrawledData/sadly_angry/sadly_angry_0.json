@@ -1,0 +1,281 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=sadly+angry&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "sadly angry",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 10,
+                "firstpost_date": 1396294929,
+                "title": "Can you recall ever feeling \"happily disgusted\" or \"sadly angry\"? You're not alone... http://t.co/tReDxQ079C",
+                "url": "http://twitter.com/telegraph/status/450719716588670976",
+                "trackback_date": 1396294929,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/tReDxQ079C",
+                        "display_url": "fw.to/QwqBEeY",
+                        "expanded_url": "http://fw.to/QwqBEeY",
+                        "topsy_expanded_url": "http://fw.to/QwqBEeY"
+                    }
+                ],
+                "target_birth_date": 1396294929,
+                "content": "Can you recall ever feeling \"happily disgusted\" or \"sadly angry\"? You're not alone... http://t.co/tReDxQ079C",
+                "mytype": "tweet",
+                "score": 9.6546699999999994,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2841375552/9364fdaf746fd3695a572360a118e389_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Telegraph/status/450719716588670976",
+                "trackback_author_url": "http://twitter.com/telegraph",
+                "highlight": "Can you recall ever feeling \"happily disgusted\" or \"sadly angry\"? You're not alone",
+                "topsy_author_url": "http://topsy.com/twitter/telegraph",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/telegraph/status/450719716588670976",
+                "trackback_author_name": "The Telegraph",
+                "trackback_author_nick": "telegraph"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1396377922,
+                "title": "Happily surprised? Sadly angry? Computer tags emotions http://t.co/wszHzSwl01",
+                "url": "http://twitter.com/dailynation/status/451067814401417218",
+                "trackback_date": 1396377922,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/wszHzSwl01",
+                        "display_url": "bit.ly/1pIdLNY",
+                        "expanded_url": "http://bit.ly/1pIdLNY",
+                        "topsy_expanded_url": "http://mobile.nation.co.ke/business/computer-tags-emotions/-/1950106/2265692/-/format/xhtml/-/5oqm21/-/index.html"
+                    }
+                ],
+                "target_birth_date": 1396377922,
+                "content": "Happily surprised? Sadly angry? Computer tags emotions http://t.co/wszHzSwl01",
+                "mytype": "tweet",
+                "score": 8.1172850000000007,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/420487347579281408/oGyqJe_1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/dailynation/status/451067814401417218",
+                "trackback_author_url": "http://twitter.com/dailynation",
+                "highlight": "Happily surprised? Sadly angry? Computer tags emotions",
+                "topsy_author_url": "http://topsy.com/twitter/dailynation",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dailynation/status/451067814401417218",
+                "trackback_author_name": "Daily Nation",
+                "trackback_author_nick": "dailynation"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396385148,
+                "title": "Happily surprised? Sadly angry? Computer tags emotions http://t.co/1ap8ZlI3cK http://t.co/yuO9K05kLc",
+                "url": "http://twitter.com/ntvkenya/status/451098122689990656",
+                "trackback_date": 1396385148,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1ap8ZlI3cK",
+                        "display_url": "ow.ly/vhT45",
+                        "expanded_url": "http://ow.ly/vhT45",
+                        "topsy_expanded_url": "http://www.nation.co.ke/business/Tech/computer-tags-emotions/-/1017288/2265692/-/v96bnqz/-/index.html"
+                    },
+                    {
+                        "url": "http://t.co/yuO9K05kLc",
+                        "display_url": "ow.ly/i/55MKX",
+                        "expanded_url": "http://ow.ly/i/55MKX",
+                        "topsy_expanded_url": "http://ow.ly/i/55MKX"
+                    }
+                ],
+                "target_birth_date": 1396385148,
+                "content": "Happily surprised? Sadly angry? Computer tags emotions http://t.co/1ap8ZlI3cK http://t.co/yuO9K05kLc",
+                "mytype": "tweet",
+                "score": 8.0922070000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/301900542/NTV_new_normal.jpg",
+                "trackback_permalink": "http://twitter.com/ntvkenya/status/451098122689990656",
+                "trackback_author_url": "http://twitter.com/ntvkenya",
+                "highlight": "Happily surprised? Sadly angry? Computer tags emotions",
+                "topsy_author_url": "http://topsy.com/twitter/ntvkenya",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ntvkenya/status/451098122689990656",
+                "trackback_author_name": "NTV Kenya",
+                "trackback_author_nick": "ntvkenya"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1320968531,
+                "title": "Sadly angry.",
+                "url": "http://twitter.com/justinbraa/status/134777903996088321",
+                "trackback_date": 1320968531,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1320968531,
+                "content": "Sadly angry.",
+                "mytype": "tweet",
+                "score": 8.0154409999999991,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/451788765326233600/ai5Z0KR__normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JustinBraa/status/134777903996088321",
+                "trackback_author_url": "http://twitter.com/justinbraa",
+                "highlight": "Sadly angry.",
+                "topsy_author_url": "http://topsy.com/twitter/justinbraa",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/justinbraa/status/134777903996088321",
+                "trackback_author_name": "\u2606Brian, just Brian\u2606",
+                "trackback_author_nick": "justinbraa"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1344682992,
+                "title": "Ever noticed how rioters (anywhere around the world) are happily angry and not sadly angry. 'Mob mentality' is a dangerous thing!",
+                "url": "http://twitter.com/fonseyka/status/234243565801320449",
+                "trackback_date": 1344682992,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1344682992,
+                "content": "Ever noticed how rioters (anywhere around the world) are happily angry and not sadly angry. 'Mob mentality' is a dangerous thing!",
+                "mytype": "tweet",
+                "score": 7.9809184000000002,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464186642735980544/TMTWIHCb_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/fonseyka/status/234243565801320449",
+                "trackback_author_url": "http://twitter.com/fonseyka",
+                "highlight": "Ever noticed how rioters (anywhere around the world) are happily angry and not sadly angry. 'Mob mentality' is a dangerous thing!",
+                "topsy_author_url": "http://topsy.com/twitter/fonseyka",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/fonseyka/status/234243565801320449",
+                "trackback_author_name": "PotBoy",
+                "trackback_author_nick": "fonseyka"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1396362241,
+                "title": "Are you 'sadly angry' or 'happily disgusted'? Computer program maps 21 distinct facial expressions: http://t.co/FQvshXDZkn",
+                "url": "http://twitter.com/phillycomhealth/status/451002043985956864",
+                "trackback_date": 1396362241,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/FQvshXDZkn",
+                        "display_url": "bit.ly/1olJIAj",
+                        "expanded_url": "http://bit.ly/1olJIAj",
+                        "topsy_expanded_url": "http://www.philly.com/philly/health/HealthDay686275_20140401_Computer_Program_Spots_21_Distinct_Facial_Expressions.html"
+                    }
+                ],
+                "target_birth_date": 1396362241,
+                "content": "Are you 'sadly angry' or 'happily disgusted'? Computer program maps 21 distinct facial expressions: http://t.co/FQvshXDZkn",
+                "mytype": "tweet",
+                "score": 7.9717307000000002,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000334636177/1ab94fd6a9973eaffb23274beda0f864_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/phillycomhealth/status/451002043985956864",
+                "trackback_author_url": "http://twitter.com/phillycomhealth",
+                "highlight": "Are you 'sadly angry' or 'happily disgusted'? Computer program maps 21 distinct facial expressions:",
+                "topsy_author_url": "http://topsy.com/twitter/phillycomhealth",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/phillycomhealth/status/451002043985956864",
+                "trackback_author_name": "PhillyHealthyLiving",
+                "trackback_author_nick": "phillycomhealth"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396407022,
+                "title": "Happily surprised? Sadly angry? Computer tags emotions http://t.co/wszHzSwl01",
+                "url": "http://twitter.com/dailynation/status/451189869960646658",
+                "trackback_date": 1396407022,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/wszHzSwl01",
+                        "display_url": "bit.ly/1pIdLNY",
+                        "expanded_url": "http://bit.ly/1pIdLNY",
+                        "topsy_expanded_url": "http://mobile.nation.co.ke/business/computer-tags-emotions/-/1950106/2265692/-/format/xhtml/-/5oqm21/-/index.html"
+                    }
+                ],
+                "target_birth_date": 1396407022,
+                "content": "Happily surprised? Sadly angry? Computer tags emotions http://t.co/wszHzSwl01",
+                "mytype": "tweet",
+                "score": 7.8879213000000004,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/420487347579281408/oGyqJe_1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/dailynation/status/451189869960646658",
+                "trackback_author_url": "http://twitter.com/dailynation",
+                "highlight": "Happily surprised? Sadly angry? Computer tags emotions",
+                "topsy_author_url": "http://topsy.com/twitter/dailynation",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dailynation/status/451189869960646658",
+                "trackback_author_name": "Daily Nation",
+                "trackback_author_nick": "dailynation"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1396856357,
+                "title": "\"Happily disgusted\"? \"Sadly angry\"? Check out these new \"compound emotions\" cognitive scientists have identified! http://t.co/Jpn4rolgqD",
+                "url": "http://twitter.com/995playfm/status/453074518408318976",
+                "trackback_date": 1396856357,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Jpn4rolgqD",
+                        "display_url": "wtkr.com/2014/04/04/are\u2026",
+                        "expanded_url": "http://wtkr.com/2014/04/04/are-you-happily-disgusted-scientists-identify-15-new-emotions/",
+                        "topsy_expanded_url": "http://wtkr.com/2014/04/04/are-you-happily-disgusted-scientists-identify-15-new-emotions/"
+                    }
+                ],
+                "target_birth_date": 1396856357,
+                "content": "\"Happily disgusted\"? \"Sadly angry\"? Check out these new \"compound emotions\" cognitive scientists have identified! http://t.co/Jpn4rolgqD",
+                "mytype": "tweet",
+                "score": 7.8705179999999997,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461027849122508801/S8eqjb3c_normal.png",
+                "trackback_permalink": "http://twitter.com/995playFM/status/453074518408318976",
+                "trackback_author_url": "http://twitter.com/995playfm",
+                "highlight": "\"Happily disgusted\"? \"Sadly angry\"? Check out these new \"compound emotions\" cognitive scientists have identified!",
+                "topsy_author_url": "http://topsy.com/twitter/995playfm",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/995playfm/status/453074518408318976",
+                "trackback_author_name": "995 Play FM",
+                "trackback_author_nick": "995playfm"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1355000310,
+                "title": "Sadly angry birds can't get rid of these vendors... or can it *gets slingshot*",
+                "url": "http://twitter.com/gostabby/status/277517534234812416",
+                "trackback_date": 1355000310,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1355000310,
+                "content": "Sadly angry birds can't get rid of these vendors... or can it *gets slingshot*",
+                "mytype": "tweet",
+                "score": 7.8276260000000004,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463282600250191872/72NiPp-p_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/GoStabby/status/277517534234812416",
+                "trackback_author_url": "http://twitter.com/gostabby",
+                "highlight": "Sadly angry birds can't get rid of these vendors... or can it *gets slingshot*",
+                "topsy_author_url": "http://topsy.com/twitter/gostabby",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gostabby/status/277517534234812416",
+                "trackback_author_name": "Thrilla in Shamilla",
+                "trackback_author_nick": "gostabby"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1333816993,
+                "title": "Sadly angry yet surprisingly happy moment=....yall get the picture.",
+                "url": "http://twitter.com/paultheesquire/status/188668262014386178",
+                "trackback_date": 1333816993,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1333816993,
+                "content": "Sadly angry yet surprisingly happy moment=....yall get the picture.",
+                "mytype": "tweet",
+                "score": 7.8130990000000002,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/447538038374428672/RDvxRta8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PaulTheEsquire/status/188668262014386178",
+                "trackback_author_url": "http://twitter.com/paultheesquire",
+                "highlight": "Sadly angry yet surprisingly happy moment=....yall get the picture.",
+                "topsy_author_url": "http://topsy.com/twitter/paultheesquire",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/paultheesquire/status/188668262014386178",
+                "trackback_author_name": "Poetic P",
+                "trackback_author_nick": "paultheesquire"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 7598,
+        "page": 1
+    }
+}

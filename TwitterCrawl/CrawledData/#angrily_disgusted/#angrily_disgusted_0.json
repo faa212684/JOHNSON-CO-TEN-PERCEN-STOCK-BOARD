@@ -1,0 +1,44 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23angrily+disgusted&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#angrily disgusted",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1351271652,
+                "title": "@megynkelly I am disgusted w/guests on FOX who say We The People don't care WE WAITED 16hrs for a President to say something #angrily waited",
+                "url": "http://twitter.com/jadedbypolitics/status/261878407489544192",
+                "trackback_date": 1351271652,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1351271652,
+                "content": "@megynkelly I am disgusted w/guests on FOX who say We The People don't care WE WAITED 16hrs for a President to say something #angrily waited",
+                "mytype": "tweet",
+                "score": 3.8752520000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463809417591259138/IvBvXbWT_normal.png",
+                "trackback_permalink": "http://twitter.com/JadedByPolitics/status/261878407489544192",
+                "trackback_author_url": "http://twitter.com/jadedbypolitics",
+                "highlight": " I am disgusted w/guests on FOX who say We The People don't care WE WAITED 16hrs for a President to say something #angrily waited",
+                "topsy_author_url": "http://topsy.com/twitter/jadedbypolitics",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jadedbypolitics/status/261878407489544192",
+                "trackback_author_name": "JadedByPolitics",
+                "trackback_author_nick": "jadedbypolitics"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

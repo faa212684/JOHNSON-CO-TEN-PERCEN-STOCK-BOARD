@@ -1,0 +1,44 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23fearfully+fearful&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#fearfully fearful",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1299141676,
+                "title": "ppl are #fearfully and wonderfully made... some are more fearful though hihi... @Wajc wait...Rihanna has an Umbrella already? kyangaa",
+                "url": "http://twitter.com/warhia/status/43229442297962496",
+                "trackback_date": 1299141676,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1299141676,
+                "content": "ppl are #fearfully and wonderfully made... some are more fearful though hihi... @Wajc wait...Rihanna has an Umbrella already? kyangaa",
+                "mytype": "tweet",
+                "score": 3.9578973999999998,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000513738549/4fe0922adaf48eed9c65969f54f825cd_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Warhia/status/43229442297962496",
+                "trackback_author_url": "http://twitter.com/warhia",
+                "highlight": "ppl are #fearfully and wonderfully made... some are more fearful though hihi... @Wajc wait...Rihanna has an Umbrella already? kyangaa",
+                "topsy_author_url": "http://topsy.com/twitter/warhia",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/warhia/status/43229442297962496",
+                "trackback_author_name": "I'm With Khaleesi.",
+                "trackback_author_nick": "warhia"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

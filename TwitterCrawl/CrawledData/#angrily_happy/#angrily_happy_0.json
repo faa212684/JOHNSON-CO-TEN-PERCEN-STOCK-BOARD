@@ -1,0 +1,44 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23angrily+happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#angrily happy",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1371606158,
+                "title": "INNER EDITOR: Do you even know what you're doing? ME: NO. THERE. ARE YOU HAPPY!? I HAVE NO CLUE ANYMORE. #AmWriting #Angrily",
+                "url": "http://twitter.com/eveyjacob/status/347167507704057856",
+                "trackback_date": 1371606158,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1371606158,
+                "content": "INNER EDITOR: Do you even know what you're doing? ME: NO. THERE. ARE YOU HAPPY!? I HAVE NO CLUE ANYMORE. #AmWriting #Angrily",
+                "mytype": "tweet",
+                "score": 1.0654085,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/421042831503802369/gs2rCwbF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/EveyJacob/status/347167507704057856",
+                "trackback_author_url": "http://twitter.com/eveyjacob",
+                "highlight": "INNER EDITOR: Do you even know what you're doing? ME: NO. THERE. ARE YOU HAPPY!? I HAVE NO CLUE ANYMORE. #AmWriting",
+                "topsy_author_url": "http://topsy.com/twitter/eveyjacob",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/eveyjacob/status/347167507704057856",
+                "trackback_author_name": "Eve Jacob",
+                "trackback_author_nick": "eveyjacob"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23happily+disgusted&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#happily disgusted",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 2,
+                "firstpost_date": 1396897231,
+                "title": "Scientists identified 15 NEW emotions. A few are #happily surprised, fearfully surprised &amp; #happily disgusted.\nSee more on...cnn.it/1kje3Of",
+                "url": "http://twitter.com/cnnimpact/status/453245957841248257",
+                "trackback_date": 1396897231,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1396897231,
+                "content": "Scientists identified 15 NEW emotions. A few are #happily surprised, fearfully surprised &amp; #happily disgusted.\nSee more on...cnn.it/1kje3Of",
+                "mytype": "tweet",
+                "score": 8.2637289999999997,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3050219630/fb44b619986bf0229cc771423a0c5d87_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CNNImpact/status/453245957841248257",
+                "trackback_author_url": "http://twitter.com/cnnimpact",
+                "highlight": "Scientists identified 15 NEW emotions. A few are #happily surprised, fearfully surprised &amp; #happily disgusted. See more on...cnn.it/1kje3Of",
+                "topsy_author_url": "http://topsy.com/twitter/cnnimpact",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cnnimpact/status/453245957841248257",
+                "trackback_author_name": "Impact Your World",
+                "trackback_author_nick": "cnnimpact"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396652183,
+                "title": "Get ready to overload with new emoticons..now that 15 new emotions are ID'd ! http://t.co/El9YeXKzaK should i say #happily-disgusted?",
+                "url": "http://twitter.com/vnsuba/status/452218150830866432",
+                "trackback_date": 1396652183,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/El9YeXKzaK",
+                        "display_url": "cnn.com/2014/04/04/hea\u2026",
+                        "expanded_url": "http://www.cnn.com/2014/04/04/health/facial-expressions/index.html?sr=sharebar_twitter",
+                        "topsy_expanded_url": "http://www.cnn.com/2014/04/04/health/facial-expressions/index.html?sr=sharebar_twitter"
+                    }
+                ],
+                "target_birth_date": 1396652183,
+                "content": "Get ready to overload with new emoticons..now that 15 new emotions are ID'd ! http://t.co/El9YeXKzaK should i say #happily-disgusted?",
+                "mytype": "tweet",
+                "score": 4.7080060000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1829543140/profile_photo_normal.JPG",
+                "trackback_permalink": "http://twitter.com/vnsuba/status/452218150830866432",
+                "trackback_author_url": "http://twitter.com/vnsuba",
+                "highlight": "Get ready to overload with new emoticons..now that 15 new emotions are ID'd ! should i say #happily-disgusted?",
+                "topsy_author_url": "http://topsy.com/twitter/vnsuba",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/vnsuba/status/452218150830866432",
+                "trackback_author_name": "Vimal N Suba",
+                "trackback_author_nick": "vnsuba"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396692410,
+                "title": "#Happily disgusted? 15 new emotions ID'd - CNN http://t.co/Bctpj6SPJk",
+                "url": "http://twitter.com/757livescience/status/452386874863419392",
+                "trackback_date": 1396692410,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Bctpj6SPJk",
+                        "display_url": "757live.tk/1dWVRHu",
+                        "expanded_url": "http://757live.tk/1dWVRHu",
+                        "topsy_expanded_url": "http://on.757live.tk/2681290/http:/links.757live.tk/~r/Sci/Google/~3/2bQ2S-wKX8Y/url"
+                    }
+                ],
+                "target_birth_date": 1396692410,
+                "content": "#Happily disgusted? 15 new emotions ID'd - CNN http://t.co/Bctpj6SPJk",
+                "mytype": "tweet",
+                "score": 4.6765559999999997,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464800549813370880/M2WBgMsn_normal.png",
+                "trackback_permalink": "http://twitter.com/757LiveScience/status/452386874863419392",
+                "trackback_author_url": "http://twitter.com/757livescience",
+                "highlight": "#Happily disgusted? 15 new emotions ID'd - CNN",
+                "topsy_author_url": "http://topsy.com/twitter/757livescience",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/757livescience/status/452386874863419392",
+                "trackback_author_name": "757Live Science",
+                "trackback_author_nick": "757livescience"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 4,
+        "page": 1
+    }
+}

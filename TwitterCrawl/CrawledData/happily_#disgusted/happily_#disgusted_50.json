@@ -1,0 +1,45 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=happily+%23disgusted&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=50",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "happily #disgusted",
+            "window": "a",
+            "type": "tweet",
+            "offset": "50"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1352252698,
+                "title": "RT @Alexis_Lyons: If you can happily say gays should kill themselves, do not dare label yourself as a Christian, ever. #hypocrite #disgu ...",
+                "url": "http://twitter.com/lbw_bound/status/265993213066764288",
+                "trackback_date": 1352252698,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1352252698,
+                "content": "RT @Alexis_Lyons: If you can happily say gays should kill themselves, do not dare label yourself as a Christian, ever. #hypocrite #disgu ...",
+                "mytype": "tweet",
+                "score": -0.22405241000000001,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2446223204/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/LBW_Bound/status/265993213066764288",
+                "trackback_author_url": "http://twitter.com/lbw_bound",
+                "highlight": "If you can happily say gays should kill themselves, do not dare label yourself as a Christian, ever. #hypocrite #disgu ",
+                "topsy_author_url": "http://topsy.com/twitter/lbw_bound",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lbw_bound/status/265993213066764288",
+                "trackback_author_name": "Daven Blanks",
+                "trackback_author_nick": "lbw_bound"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 50,
+        "hidden": 0,
+        "total": 51,
+        "page": 1
+    }
+}
