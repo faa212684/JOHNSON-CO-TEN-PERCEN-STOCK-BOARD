@@ -1,0 +1,51 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=disgusted+%23happy&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "disgusted #happy",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1401320626,
+                "title": "My MANY FACES!! #happy#sad#excited#sexy#worried#disgusted#CAMBODIAN @ Chelsea, New York, New York http://t.co/fCfc2otqDl",
+                "url": "http://twitter.com/timmythok/status/471799021418213376",
+                "trackback_date": 1401320626,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/fCfc2otqDl",
+                        "display_url": "instagram.com/p/ojzN_XLz4A/",
+                        "expanded_url": "http://instagram.com/p/ojzN_XLz4A/",
+                        "topsy_expanded_url": "http://instagram.com/p/ojzN_XLz4A/"
+                    }
+                ],
+                "target_birth_date": 1401320626,
+                "content": "My MANY FACES!! #happy#sad#excited#sexy#worried#disgusted#CAMBODIAN @ Chelsea, New York, New York http://t.co/fCfc2otqDl",
+                "mytype": "tweet",
+                "score": 1.2927371,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1924698234/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/TimmyThok/status/471799021418213376",
+                "trackback_author_url": "http://twitter.com/timmythok",
+                "highlight": "My MANY FACES!! #happy#sad#excited#sexy#worried#disgusted#CAMBODIAN @ Chelsea, New York, New York",
+                "topsy_author_url": "http://topsy.com/twitter/timmythok",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/timmythok/status/471799021418213376",
+                "trackback_author_name": "Timmy Thok",
+                "trackback_author_nick": "timmythok"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

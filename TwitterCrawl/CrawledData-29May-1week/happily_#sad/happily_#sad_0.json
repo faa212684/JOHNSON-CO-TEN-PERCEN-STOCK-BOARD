@@ -1,0 +1,44 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=happily+%23sad&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "happily #sad",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1401054145,
+                "title": "Just want to feel wanted, just want my family back together specially on days like this. I hope god has my happily ever after waiting #sad",
+                "url": "http://twitter.com/alyssalarkins/status/470681316606746624",
+                "trackback_date": 1401054145,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1401054145,
+                "content": "Just want to feel wanted, just want my family back together specially on days like this. I hope god has my happily ever after waiting #sad",
+                "mytype": "tweet",
+                "score": 2.5072687,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/470976259481022464/MikNW42h_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AlyssaLarkins/status/470681316606746624",
+                "trackback_author_url": "http://twitter.com/alyssalarkins",
+                "highlight": "Just want to feel wanted, just want my family back together specially on days like this. I hope god has my happily ever after waiting",
+                "topsy_author_url": "http://topsy.com/twitter/alyssalarkins",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/alyssalarkins/status/470681316606746624",
+                "trackback_author_name": "AnnaAlyssa",
+                "trackback_author_nick": "alyssalarkins"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

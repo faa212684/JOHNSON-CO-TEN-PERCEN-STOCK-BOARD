@@ -1,0 +1,87 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=happily+sad&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=340",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "happily sad",
+            "window": "w",
+            "type": "tweet",
+            "offset": "340"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1400810572,
+                "title": "RT @alrightcoolguy: it's honestly so sad that we have to work our asses off to live a decent life... why can't we just happily exist and li\u2026",
+                "url": "http://twitter.com/shellydelghetto/status/469659696815947776",
+                "trackback_date": 1400810572,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1400810572,
+                "content": "RT @alrightcoolguy: it's honestly so sad that we have to work our asses off to live a decent life... why can't we just happily exist and li\u2026",
+                "mytype": "tweet",
+                "score": -0.164443,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471383392592736256/GFNTPz9N_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/shellydelghetto/status/469659696815947776",
+                "trackback_author_url": "http://twitter.com/shellydelghetto",
+                "highlight": "it's honestly so sad that we have to work our asses off to live a decent life... why can't we just happily exist and li\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/shellydelghetto",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/shellydelghetto/status/469659696815947776",
+                "trackback_author_name": "Trouble13",
+                "trackback_author_nick": "shellydelghetto"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1400759107,
+                "title": "@danwootton @kieran0322 @MissKatiePrice He had it made! So sad he messed up. Could he be trusted? Words are easy. Lets hope it ends happily",
+                "url": "http://twitter.com/stefaniejjj/status/469443836981555200",
+                "trackback_date": 1400759107,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1400759107,
+                "content": "@danwootton @kieran0322 @MissKatiePrice He had it made! So sad he messed up. Could he be trusted? Words are easy. Lets hope it ends happily",
+                "mytype": "tweet",
+                "score": -0.21331957,
+                "topsy_author_img": "http://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+                "trackback_permalink": "http://twitter.com/stefaniejjj/status/469443836981555200",
+                "trackback_author_url": "http://twitter.com/stefaniejjj",
+                "highlight": " @kieran0322 @MissKatiePrice He had it made! So sad he messed up. Could he be trusted? Words are easy. Lets hope it ends happily",
+                "topsy_author_url": "http://topsy.com/twitter/stefaniejjj",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/stefaniejjj/status/469443836981555200",
+                "trackback_author_name": "StefanieJ",
+                "trackback_author_nick": "stefaniejjj"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1400742450,
+                "title": "RT @InfinitelyKaren: @SkinsQuotes So sad now, they'll 4ever be my favorite lesbian couple.Can I pretend series7 never happened and they liv\u2026",
+                "url": "http://twitter.com/mebegian/status/469373973906468866",
+                "trackback_date": 1400742450,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1400742450,
+                "content": "RT @InfinitelyKaren: @SkinsQuotes So sad now, they'll 4ever be my favorite lesbian couple.Can I pretend series7 never happened and they liv\u2026",
+                "mytype": "tweet",
+                "score": -0.42938974,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467158511135121408/zrtX_qn8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mebeGian/status/469373973906468866",
+                "trackback_author_url": "http://twitter.com/mebegian",
+                "highlight": " So sad now, they'll 4ever be my favorite lesbian couple.Can I pretend series7 never happened and they liv\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/mebegian",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mebegian/status/469373973906468866",
+                "trackback_author_name": "guysiknowkungfu",
+                "trackback_author_nick": "mebegian"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 340,
+        "hidden": 0,
+        "total": 343,
+        "page": 1
+    }
+}

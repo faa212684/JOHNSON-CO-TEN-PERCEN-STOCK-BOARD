@@ -1,0 +1,65 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=fearfully+angry&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "fearfully angry",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1400773924,
+                "title": "Why is it that angry men seem to be the only ones cling fearfully to their guns and women have more sense #guncontrol",
+                "url": "http://twitter.com/wolfe4_20/status/469505987117060096",
+                "trackback_date": 1400773924,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1400773924,
+                "content": "Why is it that angry men seem to be the only ones cling fearfully to their guns and women have more sense #guncontrol",
+                "mytype": "tweet",
+                "score": 1.9051362,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2281173616/t3669gtekx2tbtht7k56_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Wolfe4_20/status/469505987117060096",
+                "trackback_author_url": "http://twitter.com/wolfe4_20",
+                "highlight": "Why is it that angry men seem to be the only ones cling fearfully to their guns and women have more sense",
+                "topsy_author_url": "http://topsy.com/twitter/wolfe4_20",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wolfe4_20/status/469505987117060096",
+                "trackback_author_name": "Alex Wolfe",
+                "trackback_author_nick": "wolfe4_20"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1401172604,
+                "title": "You can't be angry for what u don't have but rather be thankful for all that u have... THANK YOU JESUS! I'm fearfully &amp; wonderfully made me.",
+                "url": "http://twitter.com/newbreedlc/status/471178171703111680",
+                "trackback_date": 1401172604,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1401172604,
+                "content": "You can't be angry for what u don't have but rather be thankful for all that u have... THANK YOU JESUS! I'm fearfully &amp; wonderfully made me.",
+                "mytype": "tweet",
+                "score": 0.48560023,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000460507869/161b36c69d558d655429d8787c6fb234_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NewbreedLC/status/471178171703111680",
+                "trackback_author_url": "http://twitter.com/newbreedlc",
+                "highlight": "You can't be angry for what u don't have but rather be thankful for all that u have... THANK YOU JESUS! I'm fearfully &amp; wonderfully made me.",
+                "topsy_author_url": "http://topsy.com/twitter/newbreedlc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/newbreedlc/status/471178171703111680",
+                "trackback_author_name": "NewbreedLC",
+                "trackback_author_nick": "newbreedlc"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 2,
+        "page": 1
+    }
+}

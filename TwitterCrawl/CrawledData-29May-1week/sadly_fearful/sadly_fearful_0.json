@@ -1,0 +1,93 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=sadly+fearful&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "sadly fearful",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1400883584,
+                "title": "\"We Are Not Descended From Fearful Men\" Murrow, we are scared! sadly. Police use cellphone spying device - New York http://t.co/fwQNAsS18x",
+                "url": "http://twitter.com/thedirtypenguin/status/469965933675433985",
+                "trackback_date": 1400883584,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/fwQNAsS18x",
+                        "display_url": "myfoxny.com/story/25597191\u2026",
+                        "expanded_url": "http://www.myfoxny.com/story/25597191/police-use-cellphone-spying-device#.U3_JMWzVI0s.twitter",
+                        "topsy_expanded_url": "http://www.myfoxny.com/story/25597191/police-use-cellphone-spying-device"
+                    }
+                ],
+                "target_birth_date": 1400883584,
+                "content": "\"We Are Not Descended From Fearful Men\" Murrow, we are scared! sadly. Police use cellphone spying device - New York http://t.co/fwQNAsS18x",
+                "mytype": "tweet",
+                "score": 0.8345535,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/416707011795898368/HUlVN0PU_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TheDirtyPenguin/status/469965933675433985",
+                "trackback_author_url": "http://twitter.com/thedirtypenguin",
+                "highlight": "\"We Are Not Descended From Fearful Men\" Murrow, we are scared! sadly. Police use cellphone spying device - New York",
+                "topsy_author_url": "http://topsy.com/twitter/thedirtypenguin",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/thedirtypenguin/status/469965933675433985",
+                "trackback_author_name": "Levi Wertz",
+                "trackback_author_nick": "thedirtypenguin"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1401132659,
+                "title": "@Mayhem357Mark @PeterJFielding \n\n'Racism' is the dirty word that makes people fearful of backlash, but sadly it's practised by all races.",
+                "url": "http://twitter.com/reliantctfc/status/471010629537783808",
+                "trackback_date": 1401132659,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1401132659,
+                "content": "@Mayhem357Mark @PeterJFielding \n\n'Racism' is the dirty word that makes people fearful of backlash, but sadly it's practised by all races.",
+                "mytype": "tweet",
+                "score": 0.44131625,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2305217189/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/ReliantCTFC/status/471010629537783808",
+                "trackback_author_url": "http://twitter.com/reliantctfc",
+                "highlight": " @PeterJFielding 'Racism' is the dirty word that makes people fearful of backlash, but sadly it's practised by all races.",
+                "topsy_author_url": "http://topsy.com/twitter/reliantctfc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/reliantctfc/status/471010629537783808",
+                "trackback_author_name": "Tarquin Symonds",
+                "trackback_author_nick": "reliantctfc"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1400886067,
+                "title": "@jamesdkavanagh depressing that they got near 50% of labour vote in w/c wards. sadly a lot of ignorant and fearful racists",
+                "url": "http://twitter.com/gerrybeee/status/469976347528691713",
+                "trackback_date": 1400886067,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1400886067,
+                "content": "@jamesdkavanagh depressing that they got near 50% of labour vote in w/c wards. sadly a lot of ignorant and fearful racists",
+                "mytype": "tweet",
+                "score": 0.3954283,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/436917338168774656/meG0aXOS_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/gerrybeee/status/469976347528691713",
+                "trackback_author_url": "http://twitter.com/gerrybeee",
+                "highlight": " depressing that they got near 50% of labour vote in w/c wards. sadly a lot of ignorant and fearful racists",
+                "topsy_author_url": "http://topsy.com/twitter/gerrybeee",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gerrybeee/status/469976347528691713",
+                "trackback_author_name": "gerry byrne",
+                "trackback_author_nick": "gerrybeee"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 3,
+        "page": 1
+    }
+}

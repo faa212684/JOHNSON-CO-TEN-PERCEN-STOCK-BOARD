@@ -1,0 +1,22 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23sadly+surprised&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#sadly surprised",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [],
+        "last_offset": 0,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 0,
+        "page": 1
+    }
+}

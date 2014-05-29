@@ -1,0 +1,51 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23fearfully+%23happy&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#fearfully #happy",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1400745177,
+                "title": "#Fearfully #WonderfullyMade #GodisAmazing #CelebratingMe #Happy #Content \ud83d\udc9e\ud83d\udc96 #Psalms139:14\ud83d\udc4c http://t.co/DYS0PvONjB",
+                "url": "http://twitter.com/daisy1s/status/469385413434417152",
+                "trackback_date": 1400745177,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DYS0PvONjB",
+                        "display_url": "instagram.com/p/oSpow5KUQ0/",
+                        "expanded_url": "http://instagram.com/p/oSpow5KUQ0/",
+                        "topsy_expanded_url": "http://instagram.com/p/oSpow5KUQ0/"
+                    }
+                ],
+                "target_birth_date": 1400745177,
+                "content": "#Fearfully #WonderfullyMade #GodisAmazing #CelebratingMe #Happy #Content \ud83d\udc9e\ud83d\udc96 #Psalms139:14\ud83d\udc4c http://t.co/DYS0PvONjB",
+                "mytype": "tweet",
+                "score": 1.3849971,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460733970289008640/SWhPEkN2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Daisy1S/status/469385413434417152",
+                "trackback_author_url": "http://twitter.com/daisy1s",
+                "highlight": "#Fearfully #WonderfullyMade #GodisAmazing #CelebratingMe #Happy #Content \ud83d\udc9e\ud83d\udc96 #Psalms139:14\ud83d\udc4c",
+                "topsy_author_url": "http://topsy.com/twitter/daisy1s",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/daisy1s/status/469385413434417152",
+                "trackback_author_name": "Daisy Spiegel",
+                "trackback_author_nick": "daisy1s"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

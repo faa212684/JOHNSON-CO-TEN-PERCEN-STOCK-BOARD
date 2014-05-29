@@ -1,0 +1,45 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=sadly+disgusted&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=10",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "sadly disgusted",
+            "window": "w",
+            "type": "tweet",
+            "offset": "10"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1400849466,
+                "title": "@NazishMahmood sadly dear  Every bajauri coming back from Karachi brings the same sad story ... Always feel disgusted @ what's happening thr",
+                "url": "http://twitter.com/nawabzada_jalal/status/469822829332942850",
+                "trackback_date": 1400849594,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1400849466,
+                "content": "RT @nawabzada_jalal: @NazishMahmood sadly dear  Every bajauri coming back from Karachi brings the same sad story ... Always feel disgusted \u2026",
+                "mytype": "tweet",
+                "score": -0.09030894,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/466719157245849600/NqMqFmkG_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NazishMahmood/status/469823366312910850",
+                "trackback_author_url": "http://twitter.com/nazishmahmood",
+                "highlight": " sadly dear Every bajauri coming back from Karachi brings the same sad story ... Always feel disgusted \u2026",
+                "topsy_author_url": "http://topsy.com/twitter/nazishmahmood",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nawabzada_jalal/status/469822829332942850",
+                "trackback_author_name": "Nazish",
+                "trackback_author_nick": "nazishmahmood"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 10,
+        "hidden": 0,
+        "total": 11,
+        "page": 1
+    }
+}

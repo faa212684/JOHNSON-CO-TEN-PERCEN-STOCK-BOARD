@@ -1,0 +1,51 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=happily+fearful&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "happily fearful",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1401324321,
+                "title": "Happy, sad, fearful - turns out there are even more \"compound emotions\" out there. Are you happily surprised? http://t.co/h5AuHTI6la",
+                "url": "http://twitter.com/hopelab/status/471814517702537217",
+                "trackback_date": 1401324321,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/h5AuHTI6la",
+                        "display_url": "ow.ly/xm02m",
+                        "expanded_url": "http://ow.ly/xm02m",
+                        "topsy_expanded_url": "http://www.cnn.com/2014/04/04/health/facial-expressions/index.html?hpt=hp_t4"
+                    }
+                ],
+                "target_birth_date": 1401324321,
+                "content": "Happy, sad, fearful - turns out there are even more \"compound emotions\" out there. Are you happily surprised? http://t.co/h5AuHTI6la",
+                "mytype": "tweet",
+                "score": 3.7907324,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/567296493/HL_molecule__3__normal.jpg",
+                "trackback_permalink": "http://twitter.com/HopeLab/status/471814517702537217",
+                "trackback_author_url": "http://twitter.com/hopelab",
+                "highlight": "Happy, sad, fearful - turns out there are even more \"compound emotions\" out there. Are you happily surprised?",
+                "topsy_author_url": "http://topsy.com/twitter/hopelab",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hopelab/status/471814517702537217",
+                "trackback_author_name": "HopeLab",
+                "trackback_author_nick": "hopelab"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

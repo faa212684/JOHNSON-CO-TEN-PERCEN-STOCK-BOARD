@@ -1,0 +1,66 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=angrily+sad&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=10",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "angrily sad",
+            "window": "w",
+            "type": "tweet",
+            "offset": "10"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1400929816,
+                "title": "i got angrily talked at in welsh by an old lady and it made me sad and a bit scared :(",
+                "url": "http://twitter.com/imalex_k/status/470159844595732480",
+                "trackback_date": 1400929816,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1400929816,
+                "content": "i got angrily talked at in welsh by an old lady and it made me sad and a bit scared :(",
+                "mytype": "tweet",
+                "score": 0.9009015,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000497738126/c998984a68919e767133d8dd81962cb4_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/imalex_k/status/470159844595732480",
+                "trackback_author_url": "http://twitter.com/imalex_k",
+                "highlight": "i got angrily talked at in welsh by an old lady and it made me sad and a bit scared :(",
+                "topsy_author_url": "http://topsy.com/twitter/imalex_k",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/imalex_k/status/470159844595732480",
+                "trackback_author_name": "Alex :)",
+                "trackback_author_nick": "imalex_k"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1401319937,
+                "title": "It's sad that I have come to be afraid of being close friends with guys because I've been angrily accused of \"friend zoning\". #YesAllWomen",
+                "url": "http://twitter.com/christinaisblue/status/471796130326786048",
+                "trackback_date": 1401319937,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1401319937,
+                "content": "It's sad that I have come to be afraid of being close friends with guys because I've been angrily accused of \"friend zoning\". #YesAllWomen",
+                "mytype": "tweet",
+                "score": 0.6707221,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/442113790096584706/18Hp6MQ8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/christinaisblue/status/471796130326786048",
+                "trackback_author_url": "http://twitter.com/christinaisblue",
+                "highlight": "It's sad that I have come to be afraid of being close friends with guys because I've been angrily accused of \"friend zoning\".",
+                "topsy_author_url": "http://topsy.com/twitter/christinaisblue",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/christinaisblue/status/471796130326786048",
+                "trackback_author_name": "Christina  Bluford",
+                "trackback_author_nick": "christinaisblue"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 10,
+        "hidden": 0,
+        "total": 13,
+        "page": 1
+    }
+}

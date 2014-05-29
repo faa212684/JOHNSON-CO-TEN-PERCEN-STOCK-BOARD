@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=happily+%23happy&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "happily #happy",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1401133020,
+                "title": "#HowTo to eat to help you age healthily and happily. http://t.co/3XMxo00SmP #vegan #yoga #dude #vyd #health #happy",
+                "url": "http://twitter.com/veganyogadude/status/471012144343830529",
+                "trackback_date": 1401133020,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3XMxo00SmP",
+                        "display_url": "ivillage.com/eating-drinkin\u2026",
+                        "expanded_url": "http://ivillage.com/eating-drinking-and-living/4-b-109464",
+                        "topsy_expanded_url": "http://www.ivillage.com/6-foods-extend-time/4-b-109463"
+                    }
+                ],
+                "target_birth_date": 1401133020,
+                "content": "#HowTo to eat to help you age healthily and happily. http://t.co/3XMxo00SmP #vegan #yoga #dude #vyd #health #happy",
+                "mytype": "tweet",
+                "score": 4.5684023,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000631473483/55a274502304d96ea106d3f235cf27fb_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/VeganYogaDude/status/471012144343830529",
+                "trackback_author_url": "http://twitter.com/veganyogadude",
+                "highlight": "#HowTo to eat to help you age healthily and happily. #vegan #yoga #dude #vyd #health",
+                "topsy_author_url": "http://topsy.com/twitter/veganyogadude",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/veganyogadude/status/471012144343830529",
+                "trackback_author_name": "Roberto Blizzard",
+                "trackback_author_nick": "veganyogadude"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1400992457,
+                "title": "\ud83c\udfb5This love will be the death of me\nBut I know I'll die happily\ud83c\udfb5\n#Instahappy #Happy #Vida #Instalove\u2026 http://t.co/fN53HVWv4t",
+                "url": "http://twitter.com/harry_uillar/status/470422577035227136",
+                "trackback_date": 1400992457,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/fN53HVWv4t",
+                        "display_url": "instagram.com/p/oaBSM3nfkX/",
+                        "expanded_url": "http://instagram.com/p/oaBSM3nfkX/",
+                        "topsy_expanded_url": "http://instagram.com/p/oaBSM3nfkX/"
+                    }
+                ],
+                "target_birth_date": 1400992457,
+                "content": "\ud83c\udfb5This love will be the death of me\nBut I know I'll die happily\ud83c\udfb5\n#Instahappy #Happy #Vida #Instalove\u2026 http://t.co/fN53HVWv4t",
+                "mytype": "tweet",
+                "score": 2.1560369,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467515589905620992/Lo3IQ5zQ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Harry_Uillar/status/470422577035227136",
+                "trackback_author_url": "http://twitter.com/harry_uillar",
+                "highlight": "\ud83c\udfb5This love will be the death of me But I know I'll die happily\ud83c\udfb5 #Instahappy #Happy #Vida #Instalove\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/harry_uillar",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/harry_uillar/status/470422577035227136",
+                "trackback_author_name": "Que isso Harry?",
+                "trackback_author_nick": "harry_uillar"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1401003150,
+                "title": "looking forward to aberdeen so happily #damnhappy #happy #happybirthdayvichibtw",
+                "url": "http://twitter.com/loucustardbath/status/470467426887675904",
+                "trackback_date": 1401003150,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1401003150,
+                "content": "looking forward to aberdeen so happily #damnhappy #happy #happybirthdayvichibtw",
+                "mytype": "tweet",
+                "score": 2.0944242,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467403266259562496/A7xh6ZN0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LouCustardbath/status/470467426887675904",
+                "trackback_author_url": "http://twitter.com/loucustardbath",
+                "highlight": "looking forward to aberdeen so happily #damnhappy #happy",
+                "topsy_author_url": "http://topsy.com/twitter/loucustardbath",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/loucustardbath/status/470467426887675904",
+                "trackback_author_name": "Lou",
+                "trackback_author_nick": "loucustardbath"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1401218283,
+                "title": "And now, I am very happily full. #happy #mommaschilli #yum",
+                "url": "http://twitter.com/kelviepeniuk/status/471369761956171776",
+                "trackback_date": 1401218283,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1401218283,
+                "content": "And now, I am very happily full. #happy #mommaschilli #yum",
+                "mytype": "tweet",
+                "score": 1.8941185,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460639598394105856/qSTOBApA_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/kelviepeniuk/status/471369761956171776",
+                "trackback_author_url": "http://twitter.com/kelviepeniuk",
+                "highlight": "And now, I am very happily full. #happy #mommaschilli",
+                "topsy_author_url": "http://topsy.com/twitter/kelviepeniuk",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kelviepeniuk/status/471369761956171776",
+                "trackback_author_name": "Kelvie Peniuk",
+                "trackback_author_nick": "kelviepeniuk"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1401045702,
+                "title": "#happy, Happily Unhappy by #dhirajamritraj http://t.co/JNoP1RwQGs",
+                "url": "http://twitter.com/unopick/status/470645904324976640",
+                "trackback_date": 1401045702,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/JNoP1RwQGs",
+                        "display_url": "pic.twitter.com/JNoP1RwQGs",
+                        "expanded_url": "http://twitter.com/unopick/status/470645904324976640/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BogR9MrIgAADCOA.jpg"
+                    }
+                ],
+                "target_birth_date": 1401045702,
+                "content": "#happy, Happily Unhappy by #dhirajamritraj http://t.co/JNoP1RwQGs",
+                "mytype": "tweet",
+                "score": 1.8938621,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459830024527294464/qHB-VLH2_normal.png",
+                "trackback_permalink": "http://twitter.com/unopick/status/470645904324976640",
+                "trackback_author_url": "http://twitter.com/unopick",
+                "highlight": "#happy, Happily Unhappy by #dhirajamritraj",
+                "topsy_author_url": "http://topsy.com/twitter/unopick",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/unopick/status/470645904324976640",
+                "trackback_author_name": "Uno Pick",
+                "trackback_author_nick": "unopick"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1401019692,
+                "title": "#happy, Happily Homless by #aarunb88 http://t.co/Uz2kRIjta3",
+                "url": "http://twitter.com/unopick/status/470536809110593536",
+                "trackback_date": 1401019692,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Uz2kRIjta3",
+                        "display_url": "pic.twitter.com/Uz2kRIjta3",
+                        "expanded_url": "http://twitter.com/unopick/status/470536809110593536/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BoeuvBWIMAAU4Fc.jpg"
+                    }
+                ],
+                "target_birth_date": 1401019692,
+                "content": "#happy, Happily Homless by #aarunb88 http://t.co/Uz2kRIjta3",
+                "mytype": "tweet",
+                "score": 1.8935025,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459830024527294464/qHB-VLH2_normal.png",
+                "trackback_permalink": "http://twitter.com/unopick/status/470536809110593536",
+                "trackback_author_url": "http://twitter.com/unopick",
+                "highlight": "#happy, Happily Homless by #aarunb88",
+                "topsy_author_url": "http://topsy.com/twitter/unopick",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/unopick/status/470536809110593536",
+                "trackback_author_name": "Uno Pick",
+                "trackback_author_nick": "unopick"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1400734702,
+                "title": "\"It is never too late to live happily ever after\" #happybirthday  #happy #moments #celebrating http://t.co/qUXUmGTlwP",
+                "url": "http://twitter.com/1sparklingparty/status/469341477378588672",
+                "trackback_date": 1400734702,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/qUXUmGTlwP",
+                        "display_url": "instagram.com/p/oSVqEUFy3W/",
+                        "expanded_url": "http://instagram.com/p/oSVqEUFy3W/",
+                        "topsy_expanded_url": "http://instagram.com/p/oSVqEUFy3W/"
+                    }
+                ],
+                "target_birth_date": 1400734702,
+                "content": "\"It is never too late to live happily ever after\" #happybirthday  #happy #moments #celebrating http://t.co/qUXUmGTlwP",
+                "mytype": "tweet",
+                "score": 1.6825976,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/429689273491525635/R1LJU0An_normal.png",
+                "trackback_permalink": "http://twitter.com/1SparklingParty/status/469341477378588672",
+                "trackback_author_url": "http://twitter.com/1sparklingparty",
+                "highlight": "\"It is never too late to live happily ever after\" #happybirthday #happy #moments #celebrating",
+                "topsy_author_url": "http://topsy.com/twitter/1sparklingparty",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/1sparklingparty/status/469341477378588672",
+                "trackback_author_name": "Kathy WF",
+                "trackback_author_nick": "1sparklingparty"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1401020998,
+                "title": "When my friends got exhausted and I still can take a picture with laughing happily! :D #museum #happy\u2026 http://t.co/3lUsbzLgdr",
+                "url": "http://twitter.com/nunikool/status/470542286481530880",
+                "trackback_date": 1401020998,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3lUsbzLgdr",
+                        "display_url": "instagram.com/p/oa3uMaxcQ_/",
+                        "expanded_url": "http://instagram.com/p/oa3uMaxcQ_/",
+                        "topsy_expanded_url": "http://instagram.com/p/oa3uMaxcQ_/"
+                    }
+                ],
+                "target_birth_date": 1401020998,
+                "content": "When my friends got exhausted and I still can take a picture with laughing happily! :D #museum #happy\u2026 http://t.co/3lUsbzLgdr",
+                "mytype": "tweet",
+                "score": 1.5522877,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/422962836797530112/DkLoCnDc_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/nunikool/status/470542286481530880",
+                "trackback_author_url": "http://twitter.com/nunikool",
+                "highlight": "When my friends got exhausted and I still can take a picture with laughing happily! :D #museum #happy\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/nunikool",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nunikool/status/470542286481530880",
+                "trackback_author_name": "Nunik Indriani",
+                "trackback_author_nick": "nunikool"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1400917232,
+                "title": "Chillin' happily on the bench! #happy #nature #vacation #good #f4f #ifollowback http://t.co/fDTWWTJXw2",
+                "url": "http://twitter.com/aneliuke/status/470107062546882560",
+                "trackback_date": 1400917232,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/fDTWWTJXw2",
+                        "display_url": "instagram.com/p/oXxzh-lJhM/",
+                        "expanded_url": "http://instagram.com/p/oXxzh-lJhM/",
+                        "topsy_expanded_url": "http://instagram.com/p/oXxzh-lJhM/"
+                    }
+                ],
+                "target_birth_date": 1400917232,
+                "content": "Chillin' happily on the bench! #happy #nature #vacation #good #f4f #ifollowback http://t.co/fDTWWTJXw2",
+                "mytype": "tweet",
+                "score": 1.5329727,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/436249476450500611/Lr1WvsI2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Aneliuke/status/470107062546882560",
+                "trackback_author_url": "http://twitter.com/aneliuke",
+                "highlight": "Chillin' happily on the bench! #happy #nature #vacation #good #f4f #ifollowback",
+                "topsy_author_url": "http://topsy.com/twitter/aneliuke",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/aneliuke/status/470107062546882560",
+                "trackback_author_name": "R\u016bta Bucki\u016bnait\u0117",
+                "trackback_author_nick": "aneliuke"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1400844011,
+                "title": "#Kashmir Haha Policemen Pelted stones On Indian Army , and locals happily joined the Moment. #Happy #India",
+                "url": "http://twitter.com/kmkashkashmir/status/469799950839451649",
+                "trackback_date": 1400844011,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1400844011,
+                "content": "#Kashmir Haha Policemen Pelted stones On Indian Army , and locals happily joined the Moment. #Happy #India",
+                "mytype": "tweet",
+                "score": 1.2864627,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3264508464/be454a8a76303a5a2bbfee32404cf923_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/KMKashKashmir/status/469799950839451649",
+                "trackback_author_url": "http://twitter.com/kmkashkashmir",
+                "highlight": "#Kashmir Haha Policemen Pelted stones On Indian Army , and locals happily joined the Moment. #Happy",
+                "topsy_author_url": "http://topsy.com/twitter/kmkashkashmir",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kmkashkashmir/status/469799950839451649",
+                "trackback_author_name": "KM Kash \ufedb\ufeb8\ufee4\ufef4\ufeae",
+                "trackback_author_nick": "kmkashkashmir"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 25,
+        "page": 1
+    }
+}

@@ -177,7 +177,7 @@ if __name__ == "__main__":
         print path_to_store_results
         print query
         
-        crawlerObj.fetchTweets(no_of_results, time_delay, write_to_file_flag, path_to_store_results, apikey=API_KEY, type='tweet', window='a', q=query)
+        crawlerObj.fetchTweets(no_of_results, time_delay, write_to_file_flag, path_to_store_results, apikey=API_KEY, type='tweet', window='w', q=query)
     except:
         print "Usage: python scriptName no_of_tweets_to_fetch time_delay_between_queries write_to_file_flag path_to_store_results query"
         print "Error: ",sys.exc_info()[1]

@@ -1,0 +1,44 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23disgusted+surprised&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#disgusted surprised",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1401150780,
+                "title": "@WOWFactsOfLife appalled yet not surprised at the favorites, or retweets #entitled #disgusted",
+                "url": "http://twitter.com/angelalittle13/status/471086633643540481",
+                "trackback_date": 1401150780,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1401150780,
+                "content": "@WOWFactsOfLife appalled yet not surprised at the favorites, or retweets #entitled #disgusted",
+                "mytype": "tweet",
+                "score": 0.6005426,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/433088339445444608/pa1sA_Te_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/angelalittle13/status/471086633643540481",
+                "trackback_author_url": "http://twitter.com/angelalittle13",
+                "highlight": " appalled yet not surprised at the favorites, or retweets #entitled",
+                "topsy_author_url": "http://topsy.com/twitter/angelalittle13",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/angelalittle13/status/471086633643540481",
+                "trackback_author_name": "Angela Little -Angie",
+                "trackback_author_nick": "angelalittle13"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

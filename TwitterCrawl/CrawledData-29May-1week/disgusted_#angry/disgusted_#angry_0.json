@@ -1,0 +1,65 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=disgusted+%23angry&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "disgusted #angry",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1400946793,
+                "title": "Absolutely disgusted by @AmazonUK &amp; @AmazonKindle - 2 days after ordering and still no parcel (despite paying for next day delivery) #angry",
+                "url": "http://twitter.com/sineadconroy/status/470231049302441984",
+                "trackback_date": 1400962892,
+                "trackback_total": 3,
+                "url_expansions": [],
+                "target_birth_date": 1400946793,
+                "content": "RT @SineadConroy: Absolutely disgusted by @AmazonUK &amp; @AmazonKindle - 2 days after ordering and still no parcel (despite paying for next da\u2026",
+                "mytype": "tweet",
+                "score": 2.7673488,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000815731591/ed52ac1a84e4b72cd8d555a50d7099b0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MrMilktray/status/470298574581166080",
+                "trackback_author_url": "http://twitter.com/mrmilktray",
+                "highlight": "Absolutely disgusted by @AmazonUK &amp; @AmazonKindle - 2 days after ordering and still no parcel (despite paying for next da\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/mrmilktray",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sineadconroy/status/470231049302441984",
+                "trackback_author_name": "David Biggins",
+                "trackback_author_nick": "mrmilktray"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1401298506,
+                "title": "@richardbranson @virgin Disgusted at Virgin. Failure to sort phone lines causing grief for family! Moved across country not universe! #angry",
+                "url": "http://twitter.com/snowmaidensword/status/471706240465510401",
+                "trackback_date": 1401298506,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1401298506,
+                "content": "@richardbranson @virgin Disgusted at Virgin. Failure to sort phone lines causing grief for family! Moved across country not universe! #angry",
+                "mytype": "tweet",
+                "score": 0.52062565,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1732096876/snowmaid2_normal.jpg",
+                "trackback_permalink": "http://twitter.com/SnowMaidenSword/status/471706240465510401",
+                "trackback_author_url": "http://twitter.com/snowmaidensword",
+                "highlight": " @virgin Disgusted at Virgin. Failure to sort phone lines causing grief for family! Moved across country not universe!",
+                "topsy_author_url": "http://topsy.com/twitter/snowmaidensword",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/snowmaidensword/status/471706240465510401",
+                "trackback_author_name": "Joey Taylor",
+                "trackback_author_nick": "snowmaidensword"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 3,
+        "page": 1
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23sadly+%23sad&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#sadly #sad",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 2,
+                "firstpost_date": 1400757732,
+                "title": "It's #sad and #heartbreaking that I #wakeup to no more #kitties...#sadly #yesterday #cadence #pastaway\u2026 http://t.co/T55BJKdEPv",
+                "url": "http://twitter.com/trueartgirl/status/469438071692210176",
+                "trackback_date": 1400757732,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/T55BJKdEPv",
+                        "display_url": "instagram.com/p/oTBlTbzJzV/",
+                        "expanded_url": "http://instagram.com/p/oTBlTbzJzV/",
+                        "topsy_expanded_url": "http://instagram.com/p/oTBlTbzJzV/"
+                    }
+                ],
+                "target_birth_date": 1400757732,
+                "content": "It's #sad and #heartbreaking that I #wakeup to no more #kitties...#sadly #yesterday #cadence #pastaway\u2026 http://t.co/T55BJKdEPv",
+                "mytype": "tweet",
+                "score": 1.0094143,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419873248990330881/fcGiAJKK_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/trueartgirl/status/469438071692210176",
+                "trackback_author_url": "http://twitter.com/trueartgirl",
+                "highlight": "It's #sad and #heartbreaking that I #wakeup to no more #kitties...#sadly #yesterday #cadence #pastaway\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/trueartgirl",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/trueartgirl/status/469438071692210176",
+                "trackback_author_name": "Trueartgirl",
+                "trackback_author_nick": "trueartgirl"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1400809214,
+                "title": "So this is me #me #sad #cold #scarf \u2744\ufe0f\u26c4\ufe0f\u26c4\ufe0f\u26c4\ufe0f\u26c4\ufe0f\u26c4\ufe0f\u26c4\ufe0f\u2764\ufe0f\u26c4\ufe0f\u270c\ufe0f #followus #followback #meeee #face #sadly @\u2026 http://t.co/gT1xiBFTx8",
+                "url": "http://twitter.com/solchumendez/status/469654000002793472",
+                "trackback_date": 1400809214,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/gT1xiBFTx8",
+                        "display_url": "instagram.com/p/oUjxqPQLhn/",
+                        "expanded_url": "http://instagram.com/p/oUjxqPQLhn/",
+                        "topsy_expanded_url": "http://instagram.com/p/oUjxqPQLhn/"
+                    }
+                ],
+                "target_birth_date": 1400809214,
+                "content": "So this is me #me #sad #cold #scarf \u2744\ufe0f\u26c4\ufe0f\u26c4\ufe0f\u26c4\ufe0f\u26c4\ufe0f\u26c4\ufe0f\u26c4\ufe0f\u2764\ufe0f\u26c4\ufe0f\u270c\ufe0f #followus #followback #meeee #face #sadly @\u2026 http://t.co/gT1xiBFTx8",
+                "mytype": "tweet",
+                "score": -0.14781454,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463045219802685440/FRnedg16_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/solchumendez/status/469654000002793472",
+                "trackback_author_url": "http://twitter.com/solchumendez",
+                "highlight": "So this is me #me #sad #cold #scarf \u2744\ufe0f\u26c4\ufe0f\u26c4\ufe0f\u26c4\ufe0f\u26c4\ufe0f\u26c4\ufe0f\u26c4\ufe0f\u2764\ufe0f\u26c4\ufe0f\u270c\ufe0f #followus #followback #meeee #face #sadly @\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/solchumendez",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/solchumendez/status/469654000002793472",
+                "trackback_author_name": "Sirah",
+                "trackback_author_nick": "solchumendez"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 3,
+        "page": 1
+    }
+}

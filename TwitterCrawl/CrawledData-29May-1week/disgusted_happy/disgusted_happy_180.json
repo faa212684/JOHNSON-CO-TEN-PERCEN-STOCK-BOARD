@@ -1,0 +1,311 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=disgusted+happy&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=180",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "disgusted happy",
+            "window": "w",
+            "type": "tweet",
+            "offset": "180"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1400859384,
+                "title": "RT @HUMonTHESE: She disgusted with life. RT @wusa9: Oldest living American turns 115. HAPPY BIRTHDAY! http://t.co/FGvr6OLw0G http://t.co/sI\u2026",
+                "url": "http://twitter.com/seefec/status/469864430813978624",
+                "trackback_date": 1400859384,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/FGvr6OLw0G",
+                        "expanded_url": "http://on.wusa9.com/TBUB3M",
+                        "display_url": "on.wusa9.com/TBUB3M"
+                    },
+                    {
+                        "url": "http://t.co/sImVvTqP0m",
+                        "expanded_url": "http://twitter.com/wusa9/status/469842331471192064/photo/1",
+                        "display_url": "pic.twitter.com/sImVvTqP0m"
+                    }
+                ],
+                "target_birth_date": 1400859384,
+                "content": "RT @HUMonTHESE: She disgusted with life. RT @wusa9: Oldest living American turns 115. HAPPY BIRTHDAY! http://t.co/FGvr6OLw0G http://t.co/sI\u2026",
+                "mytype": "tweet",
+                "score": 0.36722577,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453052315931385856/jADsPbj6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SeefEC/status/469864430813978624",
+                "trackback_author_url": "http://twitter.com/seefec",
+                "highlight": "She disgusted with life.Oldest living American turns 115. HAPPY BIRTHDAY!",
+                "topsy_author_url": "http://topsy.com/twitter/seefec",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/seefec/status/469864430813978624",
+                "trackback_author_name": "Gambit, ETC",
+                "trackback_author_nick": "seefec"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1400857916,
+                "title": "RT @HUMonTHESE: She disgusted with life. RT @wusa9: Oldest living American turns 115. HAPPY BIRTHDAY! http://t.co/FGvr6OLw0G http://t.co/sI\u2026",
+                "url": "http://twitter.com/__devyn/status/469858274762698752",
+                "trackback_date": 1400857916,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/FGvr6OLw0G",
+                        "expanded_url": "http://on.wusa9.com/TBUB3M",
+                        "display_url": "on.wusa9.com/TBUB3M"
+                    },
+                    {
+                        "url": "http://t.co/sImVvTqP0m",
+                        "expanded_url": "http://twitter.com/wusa9/status/469842331471192064/photo/1",
+                        "display_url": "pic.twitter.com/sImVvTqP0m"
+                    }
+                ],
+                "target_birth_date": 1400857916,
+                "content": "RT @HUMonTHESE: She disgusted with life. RT @wusa9: Oldest living American turns 115. HAPPY BIRTHDAY! http://t.co/FGvr6OLw0G http://t.co/sI\u2026",
+                "mytype": "tweet",
+                "score": 0.36722577,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/466010033918988289/dxfhi1IS_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/__devyn/status/469858274762698752",
+                "trackback_author_url": "http://twitter.com/__devyn",
+                "highlight": "She disgusted with life.Oldest living American turns 115. HAPPY BIRTHDAY!",
+                "topsy_author_url": "http://topsy.com/twitter/__devyn",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/__devyn/status/469858274762698752",
+                "trackback_author_name": "Devyn",
+                "trackback_author_nick": "__devyn"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1400857417,
+                "title": "RT @HUMonTHESE: She disgusted with life. RT @wusa9: Oldest living American turns 115. HAPPY BIRTHDAY! http://t.co/FGvr6OLw0G http://t.co/sI\u2026",
+                "url": "http://twitter.com/tripandretti/status/469856180668747776",
+                "trackback_date": 1400857417,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/FGvr6OLw0G",
+                        "expanded_url": "http://on.wusa9.com/TBUB3M",
+                        "display_url": "on.wusa9.com/TBUB3M"
+                    },
+                    {
+                        "url": "http://t.co/sImVvTqP0m",
+                        "expanded_url": "http://twitter.com/wusa9/status/469842331471192064/photo/1",
+                        "display_url": "pic.twitter.com/sImVvTqP0m"
+                    }
+                ],
+                "target_birth_date": 1400857417,
+                "content": "RT @HUMonTHESE: She disgusted with life. RT @wusa9: Oldest living American turns 115. HAPPY BIRTHDAY! http://t.co/FGvr6OLw0G http://t.co/sI\u2026",
+                "mytype": "tweet",
+                "score": 0.36722577,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471710063120646144/5Rz6yQQD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TripAndretti/status/469856180668747776",
+                "trackback_author_url": "http://twitter.com/tripandretti",
+                "highlight": "She disgusted with life.Oldest living American turns 115. HAPPY BIRTHDAY!",
+                "topsy_author_url": "http://topsy.com/twitter/tripandretti",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tripandretti/status/469856180668747776",
+                "trackback_author_name": "Dream.Zone.Achieve",
+                "trackback_author_nick": "tripandretti"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1400857336,
+                "title": "RT @HUMonTHESE: She disgusted with life. RT @wusa9: Oldest living American turns 115. HAPPY BIRTHDAY! http://t.co/FGvr6OLw0G http://t.co/sI\u2026",
+                "url": "http://twitter.com/smokeyciabotta/status/469855841987092481",
+                "trackback_date": 1400857336,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/FGvr6OLw0G",
+                        "expanded_url": "http://on.wusa9.com/TBUB3M",
+                        "display_url": "on.wusa9.com/TBUB3M"
+                    },
+                    {
+                        "url": "http://t.co/sImVvTqP0m",
+                        "expanded_url": "http://twitter.com/wusa9/status/469842331471192064/photo/1",
+                        "display_url": "pic.twitter.com/sImVvTqP0m"
+                    }
+                ],
+                "target_birth_date": 1400857336,
+                "content": "RT @HUMonTHESE: She disgusted with life. RT @wusa9: Oldest living American turns 115. HAPPY BIRTHDAY! http://t.co/FGvr6OLw0G http://t.co/sI\u2026",
+                "mytype": "tweet",
+                "score": 0.36722577,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471459934702690304/sUb--zoc_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SmokeyCiabotta/status/469855841987092481",
+                "trackback_author_url": "http://twitter.com/smokeyciabotta",
+                "highlight": "She disgusted with life.Oldest living American turns 115. HAPPY BIRTHDAY!",
+                "topsy_author_url": "http://topsy.com/twitter/smokeyciabotta",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/smokeyciabotta/status/469855841987092481",
+                "trackback_author_name": "zzzzzzzzzzzzz",
+                "trackback_author_nick": "smokeyciabotta"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1400857044,
+                "title": "RT @HUMonTHESE: She disgusted with life. RT @wusa9: Oldest living American turns 115. HAPPY BIRTHDAY! http://t.co/FGvr6OLw0G http://t.co/sI\u2026",
+                "url": "http://twitter.com/2trippy4demhoes/status/469854613928042498",
+                "trackback_date": 1400857044,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/FGvr6OLw0G",
+                        "expanded_url": "http://on.wusa9.com/TBUB3M",
+                        "display_url": "on.wusa9.com/TBUB3M"
+                    },
+                    {
+                        "url": "http://t.co/sImVvTqP0m",
+                        "expanded_url": "http://twitter.com/wusa9/status/469842331471192064/photo/1",
+                        "display_url": "pic.twitter.com/sImVvTqP0m"
+                    }
+                ],
+                "target_birth_date": 1400857044,
+                "content": "RT @HUMonTHESE: She disgusted with life. RT @wusa9: Oldest living American turns 115. HAPPY BIRTHDAY! http://t.co/FGvr6OLw0G http://t.co/sI\u2026",
+                "mytype": "tweet",
+                "score": 0.36722577,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463756000932401153/5FFUjC4b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/2Trippy4DemHoes/status/469854613928042498",
+                "trackback_author_url": "http://twitter.com/2trippy4demhoes",
+                "highlight": "She disgusted with life.Oldest living American turns 115. HAPPY BIRTHDAY!",
+                "topsy_author_url": "http://topsy.com/twitter/2trippy4demhoes",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/2trippy4demhoes/status/469854613928042498",
+                "trackback_author_name": "#CartelCapo ",
+                "trackback_author_nick": "2trippy4demhoes"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1400856906,
+                "title": "RT @HUMonTHESE: She disgusted with life. RT @wusa9: Oldest living American turns 115. HAPPY BIRTHDAY! http://t.co/FGvr6OLw0G http://t.co/sI\u2026",
+                "url": "http://twitter.com/im_justkiana/status/469854036670554112",
+                "trackback_date": 1400856906,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/FGvr6OLw0G",
+                        "expanded_url": "http://on.wusa9.com/TBUB3M",
+                        "display_url": "on.wusa9.com/TBUB3M"
+                    },
+                    {
+                        "url": "http://t.co/sImVvTqP0m",
+                        "expanded_url": "http://twitter.com/wusa9/status/469842331471192064/photo/1",
+                        "display_url": "pic.twitter.com/sImVvTqP0m"
+                    }
+                ],
+                "target_birth_date": 1400856906,
+                "content": "RT @HUMonTHESE: She disgusted with life. RT @wusa9: Oldest living American turns 115. HAPPY BIRTHDAY! http://t.co/FGvr6OLw0G http://t.co/sI\u2026",
+                "mytype": "tweet",
+                "score": 0.36722577,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/470238891338125312/C-s4aM6r_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/iM_JustKiana/status/469854036670554112",
+                "trackback_author_url": "http://twitter.com/im_justkiana",
+                "highlight": "She disgusted with life.Oldest living American turns 115. HAPPY BIRTHDAY!",
+                "topsy_author_url": "http://topsy.com/twitter/im_justkiana",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/im_justkiana/status/469854036670554112",
+                "trackback_author_name": "\u2749",
+                "trackback_author_nick": "im_justkiana"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1400856846,
+                "title": "RT @HUMonTHESE: She disgusted with life. RT @wusa9: Oldest living American turns 115. HAPPY BIRTHDAY! http://t.co/FGvr6OLw0G http://t.co/sI\u2026",
+                "url": "http://twitter.com/nowitsme2/status/469853783426469889",
+                "trackback_date": 1400856846,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/FGvr6OLw0G",
+                        "expanded_url": "http://on.wusa9.com/TBUB3M",
+                        "display_url": "on.wusa9.com/TBUB3M"
+                    },
+                    {
+                        "url": "http://t.co/sImVvTqP0m",
+                        "expanded_url": "http://twitter.com/wusa9/status/469842331471192064/photo/1",
+                        "display_url": "pic.twitter.com/sImVvTqP0m"
+                    }
+                ],
+                "target_birth_date": 1400856846,
+                "content": "RT @HUMonTHESE: She disgusted with life. RT @wusa9: Oldest living American turns 115. HAPPY BIRTHDAY! http://t.co/FGvr6OLw0G http://t.co/sI\u2026",
+                "mytype": "tweet",
+                "score": 0.36722577,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/470675618594443265/bejSIYvF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/nowitsme2/status/469853783426469889",
+                "trackback_author_url": "http://twitter.com/nowitsme2",
+                "highlight": "She disgusted with life.Oldest living American turns 115. HAPPY BIRTHDAY!",
+                "topsy_author_url": "http://topsy.com/twitter/nowitsme2",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nowitsme2/status/469853783426469889",
+                "trackback_author_name": "yeahokaysure",
+                "trackback_author_nick": "nowitsme2"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1401140099,
+                "title": "RT @_CoolBreeze: I'm a happy guy, but every time I think about it, I get disgusted with myself cuz I should have a college degree...",
+                "url": "http://twitter.com/spl4sh_ketchum/status/471041833158455296",
+                "trackback_date": 1401140099,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1401140099,
+                "content": "RT @_CoolBreeze: I'm a happy guy, but every time I think about it, I get disgusted with myself cuz I should have a college degree...",
+                "mytype": "tweet",
+                "score": 0.32590002,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/470791987722223616/0IwTsObL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SPL4SH_ketchum/status/471041833158455296",
+                "trackback_author_url": "http://twitter.com/spl4sh_ketchum",
+                "highlight": "I'm a happy guy, but every time I think about it, I get disgusted with myself cuz I should have a college degree",
+                "topsy_author_url": "http://topsy.com/twitter/spl4sh_ketchum",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/spl4sh_ketchum/status/471041833158455296",
+                "trackback_author_name": "Bart ",
+                "trackback_author_nick": "spl4sh_ketchum"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1401162804,
+                "title": "RT @SocialJerkBlog: I'm happy about it too but a religious leader saying he's disgusted by sexually abusive priests should not be such a bi\u2026",
+                "url": "http://twitter.com/mdrswrj/status/471137064860139520",
+                "trackback_date": 1401162804,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1401162804,
+                "content": "RT @SocialJerkBlog: I'm happy about it too but a religious leader saying he's disgusted by sexually abusive priests should not be such a bi\u2026",
+                "mytype": "tweet",
+                "score": 0.31596854,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000764570637/fe99c6441cba6b457a9acc2d1dadd82e_normal.png",
+                "trackback_permalink": "http://twitter.com/MDRSWRJ/status/471137064860139520",
+                "trackback_author_url": "http://twitter.com/mdrswrj",
+                "highlight": "I'm happy about it too but a religious leader saying he's disgusted by sexually abusive priests should not be such a bi\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/mdrswrj",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mdrswrj/status/471137064860139520",
+                "trackback_author_name": "MDRSWRJ",
+                "trackback_author_nick": "mdrswrj"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1401160378,
+                "title": "RT @SocialJerkBlog: I'm happy about it too but a religious leader saying he's disgusted by sexually abusive priests should not be such a bi\u2026",
+                "url": "http://twitter.com/littlemshaldol/status/471126890158116865",
+                "trackback_date": 1401160378,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1401160378,
+                "content": "RT @SocialJerkBlog: I'm happy about it too but a religious leader saying he's disgusted by sexually abusive priests should not be such a bi\u2026",
+                "mytype": "tweet",
+                "score": 0.31596854,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/431280677493813248/ESSKT503_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LittleMsHaldol/status/471126890158116865",
+                "trackback_author_url": "http://twitter.com/littlemshaldol",
+                "highlight": "I'm happy about it too but a religious leader saying he's disgusted by sexually abusive priests should not be such a bi\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/littlemshaldol",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/littlemshaldol/status/471126890158116865",
+                "trackback_author_name": "LittleMissHaldol",
+                "trackback_author_nick": "littlemshaldol"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 180,
+        "hidden": 0,
+        "total": 235,
+        "page": 1
+    }
+}

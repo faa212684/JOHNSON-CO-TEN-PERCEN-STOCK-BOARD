@@ -1,0 +1,44 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=surprisingly+fearful&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "surprisingly fearful",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1400833389,
+                "title": "Surprisingly really nervous about my interview this morning. Not generally fearful of talking to people but this morning is different #feart",
+                "url": "http://twitter.com/jamespatmac/status/469755399294705664",
+                "trackback_date": 1400833389,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1400833389,
+                "content": "Surprisingly really nervous about my interview this morning. Not generally fearful of talking to people but this morning is different #feart",
+                "mytype": "tweet",
+                "score": 0.9568113,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/431992367756099584/J6Dsm6RF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Jamespatmac/status/469755399294705664",
+                "trackback_author_url": "http://twitter.com/jamespatmac",
+                "highlight": "Surprisingly really nervous about my interview this morning. Not generally fearful of talking to people but this morning is different",
+                "topsy_author_url": "http://topsy.com/twitter/jamespatmac",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jamespatmac/status/469755399294705664",
+                "trackback_author_name": "james patrick",
+                "trackback_author_nick": "jamespatmac"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

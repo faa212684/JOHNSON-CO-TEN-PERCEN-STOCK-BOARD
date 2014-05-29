@@ -1,0 +1,44 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=disgusted+%23sad&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "disgusted #sad",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1400946721,
+                "title": "How far we have fallen, how far we truly have fallen and become desensitized to what is indecent and disgusted to what is decent.  #SAD",
+                "url": "http://twitter.com/logan_mannix/status/470230746553417729",
+                "trackback_date": 1400946721,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1400946721,
+                "content": "How far we have fallen, how far we truly have fallen and become desensitized to what is indecent and disgusted to what is decent.  #SAD",
+                "mytype": "tweet",
+                "score": 1.2535652,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1124051062/100907_1858_01_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Logan_Mannix/status/470230746553417729",
+                "trackback_author_url": "http://twitter.com/logan_mannix",
+                "highlight": "How far we have fallen, how far we truly have fallen and become desensitized to what is indecent and disgusted to what is decent.",
+                "topsy_author_url": "http://topsy.com/twitter/logan_mannix",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/logan_mannix/status/470230746553417729",
+                "trackback_author_name": "Logan Mannix",
+                "trackback_author_nick": "logan_mannix"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

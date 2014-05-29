@@ -1,0 +1,44 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23angrily+%23angry&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#angrily #angry",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1401252123,
+                "title": "Patience made me #angry #angrier #angrily but I don't know why I still stay calm . | too #kind",
+                "url": "http://twitter.com/agnafikaz/status/471511696679239682",
+                "trackback_date": 1401252123,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1401252123,
+                "content": "Patience made me #angry #angrier #angrily but I don't know why I still stay calm . | too #kind",
+                "mytype": "tweet",
+                "score": 1.6601406,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453949797691445248/XU9rtITw_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/agnafikaz/status/471511696679239682",
+                "trackback_author_url": "http://twitter.com/agnafikaz",
+                "highlight": "Patience made me #angry #angrier #angrily but I don't know why I still stay calm . | too",
+                "topsy_author_url": "http://topsy.com/twitter/agnafikaz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/agnafikaz/status/471511696679239682",
+                "trackback_author_name": "nabihah-rahim",
+                "trackback_author_nick": "agnafikaz"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

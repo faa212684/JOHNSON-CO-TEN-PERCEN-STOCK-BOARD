@@ -1,0 +1,87 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=sadly+%23sad&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=20",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "sadly #sad",
+            "window": "w",
+            "type": "tweet",
+            "offset": "20"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1400860920,
+                "title": "@gabeguz @elazar Yes that has become the trend. Sadly its not for networking and sharing anymore. Just another Job Board. #truestory #sad",
+                "url": "http://twitter.com/derdiver/status/469870874234204160",
+                "trackback_date": 1400860920,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1400860920,
+                "content": "@gabeguz @elazar Yes that has become the trend. Sadly its not for networking and sharing anymore. Just another Job Board. #truestory #sad",
+                "mytype": "tweet",
+                "score": -0.0814596,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000106958763/dbe90cb164f05305d02534c0cd92e373_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Derdiver/status/469870874234204160",
+                "trackback_author_url": "http://twitter.com/derdiver",
+                "highlight": " @elazar Yes that has become the trend. Sadly its not for networking and sharing anymore. Just another Job Board. #truestory",
+                "topsy_author_url": "http://topsy.com/twitter/derdiver",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/derdiver/status/469870874234204160",
+                "trackback_author_name": "Derek Zeller",
+                "trackback_author_nick": "derdiver"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1401299145,
+                "title": "@denajag Probably awesome.  Sadly, I'm in rainy, humid Groshigan (that's a combination of Gross + Michigan).  #Sad",
+                "url": "http://twitter.com/marchoover1/status/471708922894491648",
+                "trackback_date": 1401299145,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1401299145,
+                "content": "@denajag Probably awesome.  Sadly, I'm in rainy, humid Groshigan (that's a combination of Gross + Michigan).  #Sad",
+                "mytype": "tweet",
+                "score": -0.089330845,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1732598733/empire_normal.jpg",
+                "trackback_permalink": "http://twitter.com/MarcHoover1/status/471708922894491648",
+                "trackback_author_url": "http://twitter.com/marchoover1",
+                "highlight": " Probably awesome. Sadly, I'm in rainy, humid Groshigan (that's a combination of Gross + Michigan).",
+                "topsy_author_url": "http://topsy.com/twitter/marchoover1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/marchoover1/status/471708922894491648",
+                "trackback_author_name": "Marc Hoover",
+                "trackback_author_nick": "marchoover1"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1401332201,
+                "title": "@kallybobally @rvass6 sadly highland park is nowhere near me and I have a big kid job so I can't leave work early to go watch PLL..#sad",
+                "url": "http://twitter.com/amots20/status/471847568775729153",
+                "trackback_date": 1401332201,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1401332201,
+                "content": "@kallybobally @rvass6 sadly highland park is nowhere near me and I have a big kid job so I can't leave work early to go watch PLL..#sad",
+                "mytype": "tweet",
+                "score": -0.406176,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000737408270/e58fbd4a3305ed040af520ecaac670e2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/amots20/status/471847568775729153",
+                "trackback_author_url": "http://twitter.com/amots20",
+                "highlight": " @rvass6 sadly highland park is nowhere near me and I have a big kid job so I can't leave work early to go watch PLL..",
+                "topsy_author_url": "http://topsy.com/twitter/amots20",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/amots20/status/471847568775729153",
+                "trackback_author_name": "Anna Amots",
+                "trackback_author_nick": "amots20"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 20,
+        "hidden": 0,
+        "total": 23,
+        "page": 1
+    }
+}

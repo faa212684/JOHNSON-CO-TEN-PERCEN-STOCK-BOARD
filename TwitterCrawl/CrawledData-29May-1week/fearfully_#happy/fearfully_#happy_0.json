@@ -1,0 +1,51 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=fearfully+%23happy&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "fearfully #happy",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1400920325,
+                "title": "Be fearless. Be honest. Be you(tiful)! Fearfully and wonderfully made &lt;3 #happy #fearless #joy #music\u2026 http://t.co/strmOQY29f",
+                "url": "http://twitter.com/nomsa_xxxo/status/470120037127557120",
+                "trackback_date": 1400920325,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/strmOQY29f",
+                        "display_url": "instagram.com/p/oX3tIzNbid/",
+                        "expanded_url": "http://instagram.com/p/oX3tIzNbid/",
+                        "topsy_expanded_url": "http://instagram.com/p/oX3tIzNbid/"
+                    }
+                ],
+                "target_birth_date": 1400920325,
+                "content": "Be fearless. Be honest. Be you(tiful)! Fearfully and wonderfully made &lt;3 #happy #fearless #joy #music\u2026 http://t.co/strmOQY29f",
+                "mytype": "tweet",
+                "score": 1.3882791,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/431823480179654656/d3QtR-hG_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Nomsa_xxxo/status/470120037127557120",
+                "trackback_author_url": "http://twitter.com/nomsa_xxxo",
+                "highlight": "Be fearless. Be honest. Be you(tiful)! Fearfully and wonderfully made &lt;3 #happy #fearless #joy #music\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/nomsa_xxxo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nomsa_xxxo/status/470120037127557120",
+                "trackback_author_name": "Nomsa Msibi",
+                "trackback_author_nick": "nomsa_xxxo"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23disgusted+%23happy&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#disgusted #happy",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1400853405,
+                "title": "Some faces of me! \n#happy\n##bouthadenough\n#dontwanttobebothered\n#disgusted http://t.co/PtVFXOjJ8K",
+                "url": "http://twitter.com/prfectpear/status/469839354458681344",
+                "trackback_date": 1400853405,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PtVFXOjJ8K",
+                        "display_url": "instagram.com/p/oV4EMaMxbV/",
+                        "expanded_url": "http://instagram.com/p/oV4EMaMxbV/",
+                        "topsy_expanded_url": "http://instagram.com/p/oV4EMaMxbV/"
+                    }
+                ],
+                "target_birth_date": 1400853405,
+                "content": "Some faces of me! \n#happy\n##bouthadenough\n#dontwanttobebothered\n#disgusted http://t.co/PtVFXOjJ8K",
+                "mytype": "tweet",
+                "score": 1.6077296,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2456932307/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/prfectpear/status/469839354458681344",
+                "trackback_author_url": "http://twitter.com/prfectpear",
+                "highlight": "Some faces of me! #happy ##bouthadenough #dontwanttobebothered #disgusted",
+                "topsy_author_url": "http://topsy.com/twitter/prfectpear",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/prfectpear/status/469839354458681344",
+                "trackback_author_name": "Prfectpear",
+                "trackback_author_nick": "prfectpear"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

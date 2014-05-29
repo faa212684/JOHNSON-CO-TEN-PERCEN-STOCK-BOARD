@@ -1,0 +1,65 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23disgusted+happy&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#disgusted happy",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1401187545,
+                "title": "#Pakistan woman stoned to death by family for marrying man she loved #disgusted #sick #shame #sad #angry why can't people see others happy!!",
+                "url": "http://twitter.com/wasimalrayes/status/471240837507350528",
+                "trackback_date": 1401187545,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1401187545,
+                "content": "#Pakistan woman stoned to death by family for marrying man she loved #disgusted #sick #shame #sad #angry why can't people see others happy!!",
+                "mytype": "tweet",
+                "score": 4.2747345,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000754409549/d9cd765589897f2156edf36f59a535cd_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/wasimalrayes/status/471240837507350528",
+                "trackback_author_url": "http://twitter.com/wasimalrayes",
+                "highlight": "#Pakistan woman stoned to death by family for marrying man she loved #disgusted #sick #shame #sad #angry why can't people see others happy!!",
+                "topsy_author_url": "http://topsy.com/twitter/wasimalrayes",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wasimalrayes/status/471240837507350528",
+                "trackback_author_name": "Wasim Ismail - \u0648\u0633\u064a\u0645",
+                "trackback_author_nick": "wasimalrayes"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1400977423,
+                "title": "I really have to stop being so happy, it's keeping me awake and quite frankly, it's disgusting. #Disgusted",
+                "url": "http://twitter.com/wank_shadow/status/470359523820318720",
+                "trackback_date": 1400977423,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1400977423,
+                "content": "I really have to stop being so happy, it's keeping me awake and quite frankly, it's disgusting. #Disgusted",
+                "mytype": "tweet",
+                "score": 1.1301275,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452841877965131776/zSa4sA74_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Wank_Shadow/status/470359523820318720",
+                "trackback_author_url": "http://twitter.com/wank_shadow",
+                "highlight": "I really have to stop being so happy, it's keeping me awake and quite frankly, it's disgusting.",
+                "topsy_author_url": "http://topsy.com/twitter/wank_shadow",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wank_shadow/status/470359523820318720",
+                "trackback_author_name": "Wank Shadow",
+                "trackback_author_nick": "wank_shadow"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 3,
+        "page": 1
+    }
+}

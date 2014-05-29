@@ -1,0 +1,44 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23sadly+happy&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#sadly happy",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1400401766,
+                "title": "#Sadly:\n\nIf you rely on others to make you happy, you will never be happy. Happiness is something only you are responsible for.",
+                "url": "http://twitter.com/the_speakmans/status/467945041609392128",
+                "trackback_date": 1401100584,
+                "trackback_total": 19,
+                "url_expansions": [],
+                "target_birth_date": 1400401766,
+                "content": "RT @the_speakmans: #Sadly:\n\nIf you rely on others to make you happy, you will never be happy. Happiness is something only you are responsib\u2026",
+                "mytype": "tweet",
+                "score": 1.5823004,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/437669828766474240/98ECzp2V_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/HappilyOlivia/status/470876094477107200",
+                "trackback_author_url": "http://twitter.com/happilyolivia",
+                "highlight": "#Sadly: If you rely on others to make you happy, you will never be happy. Happiness is something only you are responsib\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/happilyolivia",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/the_speakmans/status/467945041609392128",
+                "trackback_author_name": "Olivia",
+                "trackback_author_nick": "happilyolivia"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 2,
+        "page": 1
+    }
+}

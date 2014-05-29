@@ -1,0 +1,65 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=surprisingly+disgusted&window=w&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "surprisingly disgusted",
+            "window": "w",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1400892567,
+                "title": "@AsylumXV I'm surprisingly not disgusted",
+                "url": "http://twitter.com/byshiffy/status/470003608772419584",
+                "trackback_date": 1400892567,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1400892567,
+                "content": "@AsylumXV I'm surprisingly not disgusted",
+                "mytype": "tweet",
+                "score": 1.7391986,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/466838212519161857/b1HG_Cro_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ByShiffy/status/470003608772419584",
+                "trackback_author_url": "http://twitter.com/byshiffy",
+                "highlight": " I'm surprisingly not disgusted",
+                "topsy_author_url": "http://topsy.com/twitter/byshiffy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/byshiffy/status/470003608772419584",
+                "trackback_author_name": "Dare Shiffy",
+                "trackback_author_nick": "byshiffy"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1401236442,
+                "title": "I am so beyond disgusted but yet surprisingly intrigued at the same time lmao \ud83d\ude29.",
+                "url": "http://twitter.com/loyal2musiq/status/471445924892663808",
+                "trackback_date": 1401236442,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1401236442,
+                "content": "I am so beyond disgusted but yet surprisingly intrigued at the same time lmao \ud83d\ude29.",
+                "mytype": "tweet",
+                "score": 1.6803348,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/417556789627199488/GJFv8TY1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Loyal2Musiq/status/471445924892663808",
+                "trackback_author_url": "http://twitter.com/loyal2musiq",
+                "highlight": "I am so beyond disgusted but yet surprisingly intrigued at the same time lmao \ud83d\ude29.",
+                "topsy_author_url": "http://topsy.com/twitter/loyal2musiq",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/loyal2musiq/status/471445924892663808",
+                "trackback_author_name": "\u30e1\u03bf\u30e1\u03bf",
+                "trackback_author_nick": "loyal2musiq"
+            }
+        ],
+        "last_offset": 10,
+        "window": "w",
+        "offset": 0,
+        "hidden": 0,
+        "total": 3,
+        "page": 1
+    }
+}
