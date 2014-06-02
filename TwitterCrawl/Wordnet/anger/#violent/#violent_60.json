@@ -1,0 +1,328 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23violent&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=60",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#violent",
+            "window": "a",
+            "type": "tweet",
+            "offset": "60"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1386851307,
+                "title": "MARY JANE!! #VIOLENT http://t.co/Jc2kJMfRnr http://t.co/cjyWW5LCpe",
+                "url": "http://twitter.com/skepta/status/411110298939314176",
+                "trackback_date": 1386851307,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Jc2kJMfRnr",
+                        "display_url": "attackthezombies.com",
+                        "expanded_url": "http://www.attackthezombies.com",
+                        "topsy_expanded_url": "http://attackthezombies.com/"
+                    },
+                    {
+                        "url": "http://t.co/cjyWW5LCpe",
+                        "display_url": "instagram.com/p/h0lIqYs7xa/",
+                        "expanded_url": "http://instagram.com/p/h0lIqYs7xa/",
+                        "topsy_expanded_url": "http://instagram.com/p/h0lIqYs7xa/"
+                    }
+                ],
+                "target_birth_date": 1386851307,
+                "content": "MARY JANE!! #VIOLENT http://t.co/Jc2kJMfRnr http://t.co/cjyWW5LCpe",
+                "mytype": "tweet",
+                "score": 9.828987,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461995167655133184/jXwySrho_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Skepta/status/411110298939314176",
+                "trackback_author_url": "http://twitter.com/skepta",
+                "highlight": "MARY JANE!! #VIOLENT",
+                "topsy_author_url": "http://topsy.com/twitter/skepta",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/skepta/status/411110298939314176",
+                "trackback_author_name": "SKEPTA",
+                "trackback_author_nick": "skepta"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1375722087,
+                "title": "KALLAN!! #MENTAL #VIOLENT http://t.co/Jc2kJMfRnr http://t.co/YMm9U0KTGF",
+                "url": "http://twitter.com/skepta/status/364430965021892608",
+                "trackback_date": 1375722087,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Jc2kJMfRnr",
+                        "display_url": "attackthezombies.com",
+                        "expanded_url": "http://www.attackthezombies.com",
+                        "topsy_expanded_url": "http://attackthezombies.com/"
+                    },
+                    {
+                        "url": "http://t.co/YMm9U0KTGF",
+                        "display_url": "instagram.com/p/co5zDJM73q/",
+                        "expanded_url": "http://instagram.com/p/co5zDJM73q/",
+                        "topsy_expanded_url": "http://instagram.com/p/co5zDJM73q/"
+                    }
+                ],
+                "target_birth_date": 1375722087,
+                "content": "KALLAN!! #MENTAL #VIOLENT http://t.co/Jc2kJMfRnr http://t.co/YMm9U0KTGF",
+                "mytype": "tweet",
+                "score": 9.827577,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461995167655133184/jXwySrho_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Skepta/status/364430965021892608",
+                "trackback_author_url": "http://twitter.com/skepta",
+                "highlight": "KALLAN!! #MENTAL #VIOLENT",
+                "topsy_author_url": "http://topsy.com/twitter/skepta",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/skepta/status/364430965021892608",
+                "trackback_author_name": "SKEPTA",
+                "trackback_author_nick": "skepta"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1375983761,
+                "title": "CHRONIK! #VIOLENT #ZombieAttack http://t.co/Z4SZ9W9GgC http://t.co/RhFEmecuEf",
+                "url": "http://twitter.com/skepta/status/365528503988387841",
+                "trackback_date": 1375983761,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Z4SZ9W9GgC",
+                        "display_url": "attackthezombies.com",
+                        "expanded_url": "http://www.attackthezombies.com",
+                        "topsy_expanded_url": "http://attackthezombies.com/"
+                    },
+                    {
+                        "url": "http://t.co/RhFEmecuEf",
+                        "display_url": "instagram.com/p/cws6CgM75o/",
+                        "expanded_url": "http://instagram.com/p/cws6CgM75o/",
+                        "topsy_expanded_url": "http://instagram.com/p/cws6CgM75o/"
+                    }
+                ],
+                "target_birth_date": 1375983761,
+                "content": "CHRONIK! #VIOLENT #ZombieAttack http://t.co/Z4SZ9W9GgC http://t.co/RhFEmecuEf",
+                "mytype": "tweet",
+                "score": 9.782718,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461995167655133184/jXwySrho_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Skepta/status/365528503988387841",
+                "trackback_author_url": "http://twitter.com/skepta",
+                "highlight": "CHRONIK! #VIOLENT #ZombieAttack",
+                "topsy_author_url": "http://topsy.com/twitter/skepta",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/skepta/status/365528503988387841",
+                "trackback_author_name": "SKEPTA",
+                "trackback_author_nick": "skepta"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1392142764,
+                "title": "RT @Skepta: NEW #VIOLENT BEANIES OUT TOMORROW @ 6PM!! http://t.co/7FBcAVOppu",
+                "url": "http://twitter.com/jmebbk/status/433304274366640128",
+                "trackback_date": 1392142764,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7FBcAVOppu",
+                        "display_url": "instagram.com/p/heJBLdzDpt/",
+                        "expanded_url": "http://instagram.com/p/heJBLdzDpt/",
+                        "topsy_expanded_url": "http://instagram.com/p/heJBLdzDpt/"
+                    }
+                ],
+                "target_birth_date": 1392142764,
+                "content": "RT @Skepta: NEW #VIOLENT BEANIES OUT TOMORROW @ 6PM!! http://t.co/7FBcAVOppu",
+                "mytype": "tweet",
+                "score": 9.777533,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463425860557873152/q_MVqajk_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JmeBBK/status/433304274366640128",
+                "trackback_author_url": "http://twitter.com/jmebbk",
+                "highlight": "NEW #VIOLENT BEANIES OUT TOMORROW @ 6PM!!",
+                "topsy_author_url": "http://topsy.com/twitter/jmebbk",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jmebbk/status/433304274366640128",
+                "trackback_author_name": "Jme",
+                "trackback_author_nick": "jmebbk"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1381939440,
+                "title": "RT @Harryswift: @Skepta #Violent hoodie arrived http://t.co/rvPzpZAMfz &lt;&lt; BO!! \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+                "url": "http://twitter.com/skepta/status/390508435374342144",
+                "trackback_date": 1381939440,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/rvPzpZAMfz",
+                        "display_url": "pic.twitter.com/rvPzpZAMfz",
+                        "expanded_url": "http://twitter.com/Harryswift/status/390476340656623616/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BWtAKbEIQAAwd9L.jpg"
+                    }
+                ],
+                "target_birth_date": 1381939440,
+                "content": "RT @Harryswift: @Skepta #Violent hoodie arrived http://t.co/rvPzpZAMfz &lt;&lt; BO!! \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+                "mytype": "tweet",
+                "score": 9.755788,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461995167655133184/jXwySrho_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Skepta/status/390508435374342144",
+                "trackback_author_url": "http://twitter.com/skepta",
+                "highlight": " #Violent hoodie arrived &lt;&lt; BO!! \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+                "topsy_author_url": "http://topsy.com/twitter/skepta",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/skepta/status/390508435374342144",
+                "trackback_author_name": "SKEPTA",
+                "trackback_author_nick": "skepta"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1388435368,
+                "title": "RT @HanniganMatthew: Zombie Attack @Skepta #Violent #Mental http://t.co/gQUSC4VFan &lt;&lt; http://t.co/qS4TMjXm9d",
+                "url": "http://twitter.com/skepta/status/417754331954569216",
+                "trackback_date": 1388435368,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/gQUSC4VFan",
+                        "display_url": "instagram.com/p/ijS2K5i3VP/",
+                        "expanded_url": "http://instagram.com/p/ijS2K5i3VP/",
+                        "topsy_expanded_url": "http://instagram.com/p/ijS2K5i3VP/"
+                    },
+                    {
+                        "url": "http://t.co/qS4TMjXm9d",
+                        "display_url": "ATTACKTHEZOMBIES.COM",
+                        "expanded_url": "http://WWW.ATTACKTHEZOMBIES.COM",
+                        "topsy_expanded_url": "http://attackthezombies.com/"
+                    }
+                ],
+                "target_birth_date": 1388435368,
+                "content": "RT @HanniganMatthew: Zombie Attack @Skepta #Violent #Mental http://t.co/gQUSC4VFan &lt;&lt; http://t.co/qS4TMjXm9d",
+                "mytype": "tweet",
+                "score": 9.755755,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461995167655133184/jXwySrho_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Skepta/status/417754331954569216",
+                "trackback_author_url": "http://twitter.com/skepta",
+                "highlight": "Zombie Attack @Skepta #Violent #Mental &lt;&lt;",
+                "topsy_author_url": "http://topsy.com/twitter/skepta",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/skepta/status/417754331954569216",
+                "trackback_author_name": "SKEPTA",
+                "trackback_author_nick": "skepta"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1392230507,
+                "title": "RT @HandSomeNigga93: @Skepta just ordered the new #Mental and #Violent beanies \ud83d\udc82 http://t.co/yP97DN3Nnm &lt;&lt; SUPER EARLY!! \n\ud83d\ude97\ud83d\udca8",
+                "url": "http://twitter.com/skepta/status/433672294943444992",
+                "trackback_date": 1392230507,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/yP97DN3Nnm",
+                        "display_url": "pic.twitter.com/yP97DN3Nnm",
+                        "expanded_url": "http://twitter.com/HandSomeNigga93/status/433664112179298305/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BgSvNlaIMAEKRfx.jpg"
+                    }
+                ],
+                "target_birth_date": 1392230507,
+                "content": "RT @HandSomeNigga93: @Skepta just ordered the new #Mental and #Violent beanies \ud83d\udc82 http://t.co/yP97DN3Nnm &lt;&lt; SUPER EARLY!! \n\ud83d\ude97\ud83d\udca8",
+                "mytype": "tweet",
+                "score": 9.74964,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461995167655133184/jXwySrho_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Skepta/status/433672294943444992",
+                "trackback_author_url": "http://twitter.com/skepta",
+                "highlight": " just ordered the new #Mental and #Violent beanies \ud83d\udc82 &lt;&lt; SUPER EARLY!! \ud83d\ude97\ud83d\udca8",
+                "topsy_author_url": "http://topsy.com/twitter/skepta",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/skepta/status/433672294943444992",
+                "trackback_author_name": "SKEPTA",
+                "trackback_author_nick": "skepta"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1378335811,
+                "title": "RT @sambranch92: @Skepta add to the Mental collection #Violent http://t.co/yHx4dCwSXB &lt;&lt; LEGEND!! \ud83d\udc82",
+                "url": "http://twitter.com/skepta/status/375393717991260160",
+                "trackback_date": 1378335811,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/yHx4dCwSXB",
+                        "display_url": "pic.twitter.com/yHx4dCwSXB",
+                        "expanded_url": "http://twitter.com/sambranch92/status/375393311621939200/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BTWqOlmIcAEQ9m-.jpg"
+                    }
+                ],
+                "target_birth_date": 1378335811,
+                "content": "RT @sambranch92: @Skepta add to the Mental collection #Violent http://t.co/yHx4dCwSXB &lt;&lt; LEGEND!! \ud83d\udc82",
+                "mytype": "tweet",
+                "score": 9.722335,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461995167655133184/jXwySrho_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Skepta/status/375393717991260160",
+                "trackback_author_url": "http://twitter.com/skepta",
+                "highlight": " add to the Mental collection #Violent &lt;&lt; LEGEND!! \ud83d\udc82",
+                "topsy_author_url": "http://topsy.com/twitter/skepta",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/skepta/status/375393717991260160",
+                "trackback_author_name": "SKEPTA",
+                "trackback_author_nick": "skepta"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1374158009,
+                "title": "#MENTAL &amp; #VIOLENT RT @Skepta: EXCLUSIVE T-SHIRTS OUT THIS SATURDAY @ 12PM!! #ZombieAttack http://t.co/upaiwbLiuV",
+                "url": "http://twitter.com/jmebbk/status/357870746422358017",
+                "trackback_date": 1374158009,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/upaiwbLiuV",
+                        "display_url": "instagram.com/p/b6R9NjTDpb/",
+                        "expanded_url": "http://instagram.com/p/b6R9NjTDpb/",
+                        "topsy_expanded_url": "http://instagram.com/p/b6R9NjTDpb/"
+                    }
+                ],
+                "target_birth_date": 1374158009,
+                "content": "#MENTAL &amp; #VIOLENT RT @Skepta: EXCLUSIVE T-SHIRTS OUT THIS SATURDAY @ 12PM!! #ZombieAttack http://t.co/upaiwbLiuV",
+                "mytype": "tweet",
+                "score": 9.713959,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463425860557873152/q_MVqajk_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JmeBBK/status/357870746422358017",
+                "trackback_author_url": "http://twitter.com/jmebbk",
+                "highlight": "#MENTAL &amp; #VIOLENTEXCLUSIVE T-SHIRTS OUT THIS SATURDAY @ 12PM!! #ZombieAttack",
+                "topsy_author_url": "http://topsy.com/twitter/jmebbk",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jmebbk/status/357870746422358017",
+                "trackback_author_name": "Jme",
+                "trackback_author_nick": "jmebbk"
+            },
+            {
+                "hits": 26,
+                "firstpost_date": 1400124610,
+                "title": "#Violent #protests in #Turkey's #Soma where #mine collapsed http://t.co/hGdc7BMLDv",
+                "url": "http://twitter.com/alarabiya_eng/status/466782564011634688",
+                "trackback_date": 1400124610,
+                "trackback_total": 29,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/hGdc7BMLDv",
+                        "display_url": "ara.tv/2sjfb",
+                        "expanded_url": "http://ara.tv/2sjfb",
+                        "topsy_expanded_url": "http://english.alarabiya.net/en/News/world/2014/05/13/At-least-200-miners-trapped-in-coal-mine-collapse-in-western-Turkey-local-mayor.html"
+                    }
+                ],
+                "target_birth_date": 1400124610,
+                "content": "#Violent #protests in #Turkey's #Soma where #mine collapsed http://t.co/hGdc7BMLDv",
+                "mytype": "tweet",
+                "score": 9.702316,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000739298555/ff3bfdc18d554836c26776987001ef9a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AlArabiya_Eng/status/466782564011634688",
+                "trackback_author_url": "http://twitter.com/alarabiya_eng",
+                "highlight": "#Violent #protests in #Turkey's #Soma where #mine collapsed",
+                "topsy_author_url": "http://topsy.com/twitter/alarabiya_eng",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/alarabiya_eng/status/466782564011634688",
+                "trackback_author_name": "Al Arabiya English",
+                "trackback_author_nick": "alarabiya_eng"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 60,
+        "hidden": 0,
+        "total": 73069,
+        "page": 1
+    }
+}

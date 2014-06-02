@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23ride&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=20",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#ride",
+            "window": "a",
+            "type": "tweet",
+            "offset": "20"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 11,
+                "firstpost_date": 1363813036,
+                "title": "#Ride http://t.co/9zVMwguyiW",
+                "url": "http://twitter.com/poncecarlos1/status/314480786621464576",
+                "trackback_date": 1363813036,
+                "trackback_total": 15,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9zVMwguyiW",
+                        "display_url": "instagr.am/p/XF_H4mnG81/",
+                        "expanded_url": "http://instagr.am/p/XF_H4mnG81/",
+                        "topsy_expanded_url": "http://instagram.com/p/XF_H4mnG81/"
+                    }
+                ],
+                "target_birth_date": 1363813036,
+                "content": "#Ride http://t.co/9zVMwguyiW",
+                "mytype": "tweet",
+                "score": 9.835885,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462217861529075712/onV2wjFx_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PonceCarlos1/status/314480786621464576",
+                "trackback_author_url": "http://twitter.com/poncecarlos1",
+                "highlight": "#Ride",
+                "topsy_author_url": "http://topsy.com/twitter/poncecarlos1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/poncecarlos1/status/314480786621464576",
+                "trackback_author_name": "Carlos Ponce",
+                "trackback_author_nick": "poncecarlos1"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1379198979,
+                "title": "#Ride ! http://t.co/E7UfgjfVIA",
+                "url": "http://twitter.com/steveangello/status/379014107607089152",
+                "trackback_date": 1379198979,
+                "trackback_total": 26,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/E7UfgjfVIA",
+                        "display_url": "instagram.com/p/eQhfcemigf/",
+                        "expanded_url": "http://instagram.com/p/eQhfcemigf/",
+                        "topsy_expanded_url": "http://instagram.com/p/eQhfcemigf/"
+                    }
+                ],
+                "target_birth_date": 1379198979,
+                "content": "#Ride ! http://t.co/E7UfgjfVIA",
+                "mytype": "tweet",
+                "score": 9.8244095,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471798995614842880/AkP2VFez_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SteveAngello/status/379014107607089152",
+                "trackback_author_url": "http://twitter.com/steveangello",
+                "highlight": "#Ride !",
+                "topsy_author_url": "http://topsy.com/twitter/steveangello",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/steveangello/status/379014107607089152",
+                "trackback_author_name": "Steve Angello",
+                "trackback_author_nick": "steveangello"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1334998167,
+                "title": "RT @JdLiCiOuSz: @official_flo I want a #ride with You http://t.co/kX3mLTXw let's go #WILDONES",
+                "url": "http://twitter.com/official_flo/status/193622462485905409",
+                "trackback_date": 1334998167,
+                "trackback_total": 21,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kX3mLTXw",
+                        "display_url": "lockerz.com/s/121230885",
+                        "expanded_url": "http://lockerz.com/s/121230885",
+                        "topsy_expanded_url": "http://lockerz.com/s/121230885"
+                    }
+                ],
+                "target_birth_date": 1334998167,
+                "content": "RT @JdLiCiOuSz: @official_flo I want a #ride with You http://t.co/kX3mLTXw let's go #WILDONES",
+                "mytype": "tweet",
+                "score": 9.808355,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/438090583978938368/OLbYGChl_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/official_flo/status/193622462485905409",
+                "trackback_author_url": "http://twitter.com/official_flo",
+                "highlight": " I want a #ride with You let's go",
+                "topsy_author_url": "http://topsy.com/twitter/official_flo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/official_flo/status/193622462485905409",
+                "trackback_author_name": "FLO RIDA",
+                "trackback_author_nick": "official_flo"
+            },
+            {
+                "hits": 15,
+                "firstpost_date": 1367625404,
+                "title": "#Ride  (winterrosea) http://t.co/cDcJGlXu0p",
+                "url": "http://twitter.com/steveangello/status/330471013693419520",
+                "trackback_date": 1367625404,
+                "trackback_total": 25,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cDcJGlXu0p",
+                        "expanded_url": "http://instagram.com/p/Y3mj8vGiv2/",
+                        "display_url": "instagram.com/p/Y3mj8vGiv2/"
+                    }
+                ],
+                "target_birth_date": 1367625404,
+                "content": "#Ride  (winterrosea) http://t.co/cDcJGlXu0p",
+                "mytype": "tweet",
+                "score": 9.806233,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471798995614842880/AkP2VFez_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SteveAngello/status/330471013693419520",
+                "trackback_author_url": "http://twitter.com/steveangello",
+                "highlight": "#Ride (winterrosea)",
+                "topsy_author_url": "http://topsy.com/twitter/steveangello",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/steveangello/status/330471013693419520",
+                "trackback_author_name": "Steve Angello",
+                "trackback_author_nick": "steveangello"
+            },
+            {
+                "hits": 283,
+                "firstpost_date": 1389492914,
+                "title": "I'm pumped for my @Vevo debut on Tuesday, with an ALL NEW video for #Ride!",
+                "url": "http://twitter.com/officialsomo/status/422190001493778432",
+                "trackback_date": 1389492914,
+                "trackback_total": 441,
+                "url_expansions": [],
+                "target_birth_date": 1389492914,
+                "content": "I'm pumped for my @Vevo debut on Tuesday, with an ALL NEW video for #Ride!",
+                "mytype": "tweet",
+                "score": 9.798766,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/437446394433925120/wXWlJ5Vz_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OfficialSoMo/status/422190001493778432",
+                "trackback_author_url": "http://twitter.com/officialsomo",
+                "highlight": "I'm pumped for my @Vevo debut on Tuesday, with an ALL NEW video for #Ride!",
+                "topsy_author_url": "http://topsy.com/twitter/officialsomo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/officialsomo/status/422190001493778432",
+                "trackback_author_name": "SoMo",
+                "trackback_author_nick": "officialsomo"
+            },
+            {
+                "hits": 44,
+                "firstpost_date": 1352350544,
+                "title": ". @LanaDelRey is LIVE with @JoJoWright to perform an acoustic version of #RIDE. Listen now: http://t.co/ZkKB6XjX",
+                "url": "http://twitter.com/interscope/status/266403609409892352",
+                "trackback_date": 1352350544,
+                "trackback_total": 63,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ZkKB6XjX",
+                        "display_url": "intersco.pe/TLWGWQ",
+                        "expanded_url": "http://intersco.pe/TLWGWQ",
+                        "topsy_expanded_url": "http://www.iheart.com/live/185/?autoplay=true"
+                    }
+                ],
+                "target_birth_date": 1352350544,
+                "content": ". @LanaDelRey is LIVE with @JoJoWright to perform an acoustic version of #RIDE. Listen now: http://t.co/ZkKB6XjX",
+                "mytype": "tweet",
+                "score": 9.787928,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/610441973/igalogo_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Interscope/status/266403609409892352",
+                "trackback_author_url": "http://twitter.com/interscope",
+                "highlight": ". @LanaDelRey is LIVE with @JoJoWright to perform an acoustic version of #RIDE. Listen now:",
+                "topsy_author_url": "http://topsy.com/twitter/interscope",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/interscope/status/266403609409892352",
+                "trackback_author_name": "Interscope Records",
+                "trackback_author_nick": "interscope"
+            },
+            {
+                "hits": 50,
+                "firstpost_date": 1325357810,
+                "title": "Look, if you HAVE to drive drunk tonight, please do it via Super Mario Kart. #RIDE",
+                "url": "http://twitter.com/npsteve/status/153187877445050370",
+                "trackback_date": 1325357810,
+                "trackback_total": 57,
+                "url_expansions": [],
+                "target_birth_date": 1325357810,
+                "content": "Look, if you HAVE to drive drunk tonight, please do it via Super Mario Kart. #RIDE",
+                "mytype": "tweet",
+                "score": 9.761743,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3225511507/a05c7eb340008ed32c528f69b61204bd_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NPsteve/status/153187877445050370",
+                "trackback_author_url": "http://twitter.com/npsteve",
+                "highlight": "Look, if you HAVE to drive drunk tonight, please do it via Super Mario Kart.",
+                "topsy_author_url": "http://topsy.com/twitter/npsteve",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/npsteve/status/153187877445050370",
+                "trackback_author_name": "Steve Murray",
+                "trackback_author_nick": "npsteve"
+            },
+            {
+                "hits": 140,
+                "firstpost_date": 1389713874,
+                "title": "#VEVOPremiere: Start your morning off on the steamy side with @OfficialSoMo's new video for #RIDE: http://t.co/6nz7mbIgrs #sexytime",
+                "url": "http://twitter.com/vevo/status/423116774624608256",
+                "trackback_date": 1389713874,
+                "trackback_total": 184,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/6nz7mbIgrs",
+                        "display_url": "vevo.ly/OVRo7d",
+                        "expanded_url": "http://vevo.ly/OVRo7d",
+                        "topsy_expanded_url": "http://www.vevo.com/watch/USUV71302664?country=US&shortlink=OVRo7d&syndicationid=bb8a16ab-1279-4f17-969b-1dba5eb60eda"
+                    }
+                ],
+                "target_birth_date": 1389713874,
+                "content": "#VEVOPremiere: Start your morning off on the steamy side with @OfficialSoMo's new video for #RIDE: http://t.co/6nz7mbIgrs #sexytime",
+                "mytype": "tweet",
+                "score": 9.746543,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461496140253233153/l5q6Qn8q_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/VEVO/status/423116774624608256",
+                "trackback_author_url": "http://twitter.com/vevo",
+                "highlight": "#VEVOPremiere: Start your morning off on the steamy side with @OfficialSoMo's new video for #RIDE:",
+                "topsy_author_url": "http://topsy.com/twitter/vevo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/vevo/status/423116774624608256",
+                "trackback_author_name": "Vevo",
+                "trackback_author_nick": "vevo"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1280415446,
+                "title": "Now playing #Ride by Ciara... My jam!",
+                "url": "http://twitter.com/firstladyeve/status/19831941727",
+                "trackback_date": 1280415446,
+                "trackback_total": 7,
+                "url_expansions": [],
+                "target_birth_date": 1280415446,
+                "content": "Now playing #Ride by Ciara... My jam!",
+                "mytype": "tweet",
+                "score": 9.728178,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469669477840199680/2ByYe_5O_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/FirstLadyEve/status/19831941727",
+                "trackback_author_url": "http://twitter.com/evelynlozada",
+                "highlight": "Now playing #Ride by Ciara... My jam!",
+                "topsy_author_url": "http://topsy.com/twitter/evelynlozada",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/firstladyeve/status/19831941727",
+                "trackback_author_name": "Evelyn Lozada",
+                "trackback_author_nick": "evelynlozada"
+            },
+            {
+                "hits": 38,
+                "firstpost_date": 1366906036,
+                "title": "Dropzin peida naooo #vert #half #skate #ride #nofear http://t.co/eotS4UMnIo",
+                "url": "http://twitter.com/ariconecrew/status/327453766280441856",
+                "trackback_date": 1366906036,
+                "trackback_total": 48,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/eotS4UMnIo",
+                        "display_url": "instagram.com/p/YiKhBZuS96/",
+                        "expanded_url": "http://instagram.com/p/YiKhBZuS96/",
+                        "topsy_expanded_url": "http://instagram.com/p/YiKhBZuS96/"
+                    }
+                ],
+                "target_birth_date": 1366906036,
+                "content": "Dropzin peida naooo #vert #half #skate #ride #nofear http://t.co/eotS4UMnIo",
+                "mytype": "tweet",
+                "score": 9.702431,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1285252784/36149_446805506127_679111127_5907465_981564_n_normal.jpg",
+                "trackback_permalink": "http://twitter.com/ariconecrew/status/327453766280441856",
+                "trackback_author_url": "http://twitter.com/ariconecrew",
+                "highlight": "Dropzin peida naooo #vert #half #skate #ride #nofear",
+                "topsy_author_url": "http://topsy.com/twitter/ariconecrew",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ariconecrew/status/327453766280441856",
+                "trackback_author_name": "Ari Cone Crew",
+                "trackback_author_nick": "ariconecrew"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 20,
+        "hidden": 0,
+        "total": 572442,
+        "page": 1
+    }
+}

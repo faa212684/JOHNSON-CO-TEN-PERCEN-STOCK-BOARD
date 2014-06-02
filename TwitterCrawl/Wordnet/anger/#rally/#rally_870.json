@@ -1,0 +1,303 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23rally&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=870",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#rally",
+            "window": "a",
+            "type": "tweet",
+            "offset": "870"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 5,
+                "firstpost_date": 1333086753,
+                "title": "\u30ed\u30fc\u30d6\u304cSS3\u3067\u30ea\u30bf\u30a4\u30a2 http://t.co/sDHPXQyE #wrc #rally",
+                "url": "http://twitter.com/autosport_web/status/185605412727422977",
+                "trackback_date": 1333086753,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/sDHPXQyE",
+                        "display_url": "bit.ly/HwyFtb",
+                        "expanded_url": "http://bit.ly/HwyFtb",
+                        "topsy_expanded_url": "http://as-web.jp/rallyplus/news/info.php?no=25156"
+                    }
+                ],
+                "target_birth_date": 1333086753,
+                "content": "\u30ed\u30fc\u30d6\u304cSS3\u3067\u30ea\u30bf\u30a4\u30a2 http://t.co/sDHPXQyE #wrc #rally",
+                "mytype": "tweet",
+                "score": 8.6457,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453770524514992128/rf4mgh1W_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AUTOSPORT_web/status/185605412727422977",
+                "trackback_author_url": "http://twitter.com/autosport_web",
+                "highlight": "\u30ed\u30fc\u30d6\u304cSS3\u3067\u30ea\u30bf\u30a4\u30a2 #wrc",
+                "topsy_author_url": "http://topsy.com/twitter/autosport_web",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/autosport_web/status/185605412727422977",
+                "trackback_author_name": "AUTOSPORT web",
+                "trackback_author_nick": "autosport_web"
+            },
+            {
+                "hits": 43,
+                "firstpost_date": 1399903360,
+                "title": "Una imagen vale m\u00e1s que mil palabras. - http://t.co/FZ5WPFfbKx #Rally #Motor http://t.co/IbMXvujV3O",
+                "url": "http://twitter.com/motorhd_es/status/465854576907018240",
+                "trackback_date": 1399903360,
+                "trackback_total": 44,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/FZ5WPFfbKx",
+                        "display_url": "motorhd.es/una-imagen-val\u2026",
+                        "expanded_url": "http://www.motorhd.es/una-imagen-vale-mas-que-mil-palabras/",
+                        "topsy_expanded_url": "http://www.motorhd.es/una-imagen-vale-mas-que-mil-palabras/"
+                    },
+                    {
+                        "url": "http://t.co/IbMXvujV3O",
+                        "display_url": "pic.twitter.com/IbMXvujV3O",
+                        "expanded_url": "http://twitter.com/MotorHd_es/status/465854576907018240/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BncMROdIUAAhvxZ.jpg"
+                    }
+                ],
+                "target_birth_date": 1399903360,
+                "content": "Una imagen vale m\u00e1s que mil palabras. - http://t.co/FZ5WPFfbKx #Rally #Motor http://t.co/IbMXvujV3O",
+                "mytype": "tweet",
+                "score": 8.64546,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3639334172/b02f1d59dcb83f293533dbc45a3c8114_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MotorHd_es/status/465854576907018240",
+                "trackback_author_url": "http://twitter.com/motorhd_es",
+                "highlight": "Una imagen vale m\u00e1s que mil palabras. - #Rally #Motor",
+                "topsy_author_url": "http://topsy.com/twitter/motorhd_es",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/motorhd_es/status/465854576907018240",
+                "trackback_author_name": "MotorHd",
+                "trackback_author_nick": "motorhd_es"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1368777935,
+                "title": "\u4e09\u83f1\u3001MiEV Evolution II\u3067\u30d1\u30a4\u30af\u30b9\u30d4\u30fc\u30af\u306b\u6311\u6226 http://t.co/QAarhXtLz0 #wrc #rally",
+                "url": "http://twitter.com/autosport_web/status/335305079102005248",
+                "trackback_date": 1368777935,
+                "trackback_total": 13,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/QAarhXtLz0",
+                        "display_url": "bit.ly/19CNnwR",
+                        "expanded_url": "http://bit.ly/19CNnwR",
+                        "topsy_expanded_url": "http://as-web.jp/rallyplus/news/info.php?no=25773"
+                    }
+                ],
+                "target_birth_date": 1368777935,
+                "content": "\u4e09\u83f1\u3001MiEV Evolution II\u3067\u30d1\u30a4\u30af\u30b9\u30d4\u30fc\u30af\u306b\u6311\u6226 http://t.co/QAarhXtLz0 #wrc #rally",
+                "mytype": "tweet",
+                "score": 8.645279,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453770524514992128/rf4mgh1W_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AUTOSPORT_web/status/335305079102005248",
+                "trackback_author_url": "http://twitter.com/autosport_web",
+                "highlight": "\u4e09\u83f1\u3001MiEV Evolution II\u3067\u30d1\u30a4\u30af\u30b9\u30d4\u30fc\u30af\u306b\u6311\u6226 #wrc",
+                "topsy_author_url": "http://topsy.com/twitter/autosport_web",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/autosport_web/status/335305079102005248",
+                "trackback_author_name": "AUTOSPORT web",
+                "trackback_author_nick": "autosport_web"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1323382282,
+                "title": "RT @ria_novosti: Moscow government authorizes 30,000-strong #opposition #rally http://t.co/2nEkZihY",
+                "url": "http://twitter.com/zerohedge/status/144901910644801537",
+                "trackback_date": 1323382282,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2nEkZihY",
+                        "display_url": "goo.gl/gDnOm",
+                        "expanded_url": "http://goo.gl/gDnOm",
+                        "topsy_expanded_url": "http://en.rian.ru/society/20111209/169500024.html"
+                    }
+                ],
+                "target_birth_date": 1323382282,
+                "content": "RT @ria_novosti: Moscow government authorizes 30,000-strong #opposition #rally http://t.co/2nEkZihY",
+                "mytype": "tweet",
+                "score": 8.645114,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/72647502/tyler_normal.jpg",
+                "trackback_permalink": "http://twitter.com/zerohedge/status/144901910644801537",
+                "trackback_author_url": "http://twitter.com/zerohedge",
+                "highlight": "Moscow government authorizes 30,000-strong #opposition #rally",
+                "topsy_author_url": "http://topsy.com/twitter/zerohedge",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/zerohedge/status/144901910644801537",
+                "trackback_author_name": "zerohedge",
+                "trackback_author_nick": "zerohedge"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1338672721,
+                "title": "Madrina MDP 2012 #rally http://t.co/GIE3w9Df",
+                "url": "http://twitter.com/jancarladiaz/status/209034662725697537",
+                "trackback_date": 1338672721,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/GIE3w9Df",
+                        "display_url": "instagr.am/p/LYvyu4ucDd/",
+                        "expanded_url": "http://instagr.am/p/LYvyu4ucDd/",
+                        "topsy_expanded_url": "http://instagr.am/p/LYvyu4ucDd/"
+                    }
+                ],
+                "target_birth_date": 1338672721,
+                "content": "Madrina MDP 2012 #rally http://t.co/GIE3w9Df",
+                "mytype": "tweet",
+                "score": 8.644953,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/445393520803979264/DxxwuzgE_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JancarlaDiaz/status/209034662725697537",
+                "trackback_author_url": "http://twitter.com/jancarladiaz",
+                "highlight": "Madrina MDP 2012 #rally",
+                "topsy_author_url": "http://topsy.com/twitter/jancarladiaz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jancarladiaz/status/209034662725697537",
+                "trackback_author_name": "Jancarla D\u00edaz",
+                "trackback_author_nick": "jancarladiaz"
+            },
+            {
+                "hits": 20,
+                "firstpost_date": 1359308775,
+                "title": "Innocent passengers in matatu heading to Kajiado perish in yet  another #rally related accident. Rally fans must end this road carnage.",
+                "url": "http://twitter.com/saddiqueshaban/status/295588545714855937",
+                "trackback_date": 1359308775,
+                "trackback_total": 22,
+                "url_expansions": [],
+                "target_birth_date": 1359308775,
+                "content": "Innocent passengers in matatu heading to Kajiado perish in yet  another #rally related accident. Rally fans must end this road carnage.",
+                "mytype": "tweet",
+                "score": 8.644686,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/451069654471958528/TIgwzJQ3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SaddiqueShaban/status/295588545714855937",
+                "trackback_author_url": "http://twitter.com/saddiqueshaban",
+                "highlight": "Innocent passengers in matatu heading to Kajiado perish in yet another #rally related accident. Rally fans must end this road carnage.",
+                "topsy_author_url": "http://topsy.com/twitter/saddiqueshaban",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/saddiqueshaban/status/295588545714855937",
+                "trackback_author_name": "Saddique Shaban",
+                "trackback_author_nick": "saddiqueshaban"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1384997573,
+                "title": "\u30b9\u30d0\u30eb\u3001\u65b0\u578bWRX\u3092LA\u30aa\u30fc\u30c8\u30b7\u30e7\u30fc\u3067\u516c\u958b\uff01 http://t.co/kVi0Hqs1Dj #wrc #rally",
+                "url": "http://twitter.com/autosport_web/status/403335174126981120",
+                "trackback_date": 1384997573,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kVi0Hqs1Dj",
+                        "display_url": "bit.ly/17Ok5uN",
+                        "expanded_url": "http://bit.ly/17Ok5uN",
+                        "topsy_expanded_url": "http://as-web.jp/rallyplus/information/info.php?no=26099"
+                    }
+                ],
+                "target_birth_date": 1384997573,
+                "content": "\u30b9\u30d0\u30eb\u3001\u65b0\u578bWRX\u3092LA\u30aa\u30fc\u30c8\u30b7\u30e7\u30fc\u3067\u516c\u958b\uff01 http://t.co/kVi0Hqs1Dj #wrc #rally",
+                "mytype": "tweet",
+                "score": 8.644655,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453770524514992128/rf4mgh1W_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AUTOSPORT_web/status/403335174126981120",
+                "trackback_author_url": "http://twitter.com/autosport_web",
+                "highlight": "\u30b9\u30d0\u30eb\u3001\u65b0\u578bWRX\u3092LA\u30aa\u30fc\u30c8\u30b7\u30e7\u30fc\u3067\u516c\u958b\uff01 #wrc",
+                "topsy_author_url": "http://topsy.com/twitter/autosport_web",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/autosport_web/status/403335174126981120",
+                "trackback_author_name": "AUTOSPORT web",
+                "trackback_author_nick": "autosport_web"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1340941621,
+                "title": "This was my day #Rally #Heli http://t.co/1J0eNDt0",
+                "url": "http://twitter.com/brandonsemenuk/status/218551116378537985",
+                "trackback_date": 1340941621,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1J0eNDt0",
+                        "display_url": "instagr.am/p/McXV00GXh-/",
+                        "expanded_url": "http://instagr.am/p/McXV00GXh-/",
+                        "topsy_expanded_url": "http://instagr.am/p/McXV00GXh-/"
+                    }
+                ],
+                "target_birth_date": 1340941621,
+                "content": "This was my day #Rally #Heli http://t.co/1J0eNDt0",
+                "mytype": "tweet",
+                "score": 8.644137,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1114909452/47513_1430512795300_1007253741_31049139_4181143_n_normal.jpg",
+                "trackback_permalink": "http://twitter.com/BrandonSemenuk/status/218551116378537985",
+                "trackback_author_url": "http://twitter.com/brandonsemenuk",
+                "highlight": "This was my day #Rally #Heli",
+                "topsy_author_url": "http://topsy.com/twitter/brandonsemenuk",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/brandonsemenuk/status/218551116378537985",
+                "trackback_author_name": "Brandon Semenuk",
+                "trackback_author_nick": "brandonsemenuk"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1376320874,
+                "title": "We like donuts with our mid-morning coffee. MT @djndt: Treat your #benz right...feed it some #dirt. #offroad #rally http://t.co/Vl1wp3tJXc",
+                "url": "http://twitter.com/mbusa/status/366942459239993346",
+                "trackback_date": 1376320874,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Vl1wp3tJXc",
+                        "display_url": "instagram.com/p/c52LZbG_Eq/",
+                        "expanded_url": "http://instagram.com/p/c52LZbG_Eq/",
+                        "topsy_expanded_url": "http://instagram.com/p/c52LZbG_Eq/"
+                    }
+                ],
+                "target_birth_date": 1376320874,
+                "content": "We like donuts with our mid-morning coffee. MT @djndt: Treat your #benz right...feed it some #dirt. #offroad #rally http://t.co/Vl1wp3tJXc",
+                "mytype": "tweet",
+                "score": 8.643503,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3366989056/9f49e9d3bcf26487472a2adecdaa8611_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MBUSA/status/366942459239993346",
+                "trackback_author_url": "http://twitter.com/mbusa",
+                "highlight": "We like donuts with our mid-morning coffee. MT @djndt: Treat your #benz right...feed it some #dirt. #offroad #rally",
+                "topsy_author_url": "http://topsy.com/twitter/mbusa",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mbusa/status/366942459239993346",
+                "trackback_author_name": "Mercedes-Benz USA",
+                "trackback_author_nick": "mbusa"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1363565854,
+                "title": "Don't forget tomorrow 3/18 #Rally in Stamford to WELCOME BACK #OLTL #AMC! Stop by if u are in area. http://t.co/bNfWYfRw6A",
+                "url": "http://twitter.com/spinsvixenella/status/313444029931085824",
+                "trackback_date": 1363565854,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/bNfWYfRw6A",
+                        "display_url": "celebdirtylaundry.com/2013/soap-fans\u2026",
+                        "expanded_url": "http://www.celebdirtylaundry.com/2013/soap-fans-united-announces-high-energy-rally-to-welcome-back-one-life-to-live-and-all-my-children-0316/#disqus_thread",
+                        "topsy_expanded_url": "http://www.celebdirtylaundry.com/2013/soap-fans-united-announces-high-energy-rally-to-welcome-back-one-life-to-live-and-all-my-children-0316/#disqus_thread"
+                    }
+                ],
+                "target_birth_date": 1363565854,
+                "content": "Don't forget tomorrow 3/18 #Rally in Stamford to WELCOME BACK #OLTL #AMC! Stop by if u are in area. http://t.co/bNfWYfRw6A",
+                "mytype": "tweet",
+                "score": 8.64312,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462745827971461122/1eWcH38r_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SpinsVixenella/status/313444029931085824",
+                "trackback_author_url": "http://twitter.com/spinsvixenella",
+                "highlight": "Don't forget tomorrow 3/18 #Rally in Stamford to WELCOME BACK #OLTL #AMC! Stop by if u are in area.",
+                "topsy_author_url": "http://topsy.com/twitter/spinsvixenella",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/spinsvixenella/status/313444029931085824",
+                "trackback_author_name": "Spin's Vixenella",
+                "trackback_author_nick": "spinsvixenella"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 870,
+        "hidden": 0,
+        "total": 442128,
+        "page": 1
+    }
+}

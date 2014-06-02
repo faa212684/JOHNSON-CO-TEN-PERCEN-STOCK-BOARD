@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23gaga&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=830",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#gaga",
+            "window": "a",
+            "type": "tweet",
+            "offset": "830"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 11,
+                "firstpost_date": 1395688034,
+                "title": "https://t.co/kYx83wAUO6 RT @Prince_Yuyi: @ladygaga wearing Gareth Pugh #fashion #gaga #nyc http://t.co/bvKFf5K2rj",
+                "url": "http://twitter.com/propagaga/status/448174215816945664",
+                "trackback_date": 1395688034,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/kYx83wAUO6",
+                        "display_url": "a.tumblr.com/tumblr_n2k0y3I\u2026",
+                        "expanded_url": "https://a.tumblr.com/tumblr_n2k0y3Ior31qbv182o1.mp3#_=",
+                        "topsy_expanded_url": "https://a.tumblr.com/tumblr_n2k0y3Ior31qbv182o1.mp3"
+                    },
+                    {
+                        "url": "http://t.co/bvKFf5K2rj",
+                        "display_url": "pic.twitter.com/bvKFf5K2rj",
+                        "expanded_url": "http://twitter.com/Prince_Yuyi/status/448171456774828033/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bjg5kLYIYAAy2Z5.jpg"
+                    }
+                ],
+                "target_birth_date": 1395688034,
+                "content": "https://t.co/kYx83wAUO6 RT @Prince_Yuyi: @ladygaga wearing Gareth Pugh #fashion #gaga #nyc http://t.co/bvKFf5K2rj",
+                "mytype": "tweet",
+                "score": 8.785899,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461139911131688961/XSiZ7Bqx_normal.png",
+                "trackback_permalink": "http://twitter.com/PropaGaga/status/448174215816945664",
+                "trackback_author_url": "http://twitter.com/propagaga",
+                "highlight": " wearing Gareth Pugh #fashion #gaga #nyc",
+                "topsy_author_url": "http://topsy.com/twitter/propagaga",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/propagaga/status/448174215816945664",
+                "trackback_author_name": "PropaGaga.com",
+                "trackback_author_nick": "propagaga"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1278388837,
+                "title": "\u2655*RE-TWEET IF YOU \u0192\u0e4f\u2113\u2113\u0e4f\u03c9 BACK \u2655 I'LL PROMOTE YOU WITH 3,500+++ FOLLOWERS! #TEAMFOLLOWBACK #500ADAY #GAGA",
+                "url": "http://twitter.com/charmfella/status/17840908328",
+                "trackback_date": 1278388837,
+                "trackback_total": 5,
+                "url_expansions": [],
+                "target_birth_date": 1278388837,
+                "content": "\u2655*RE-TWEET IF YOU \u0192\u0e4f\u2113\u2113\u0e4f\u03c9 BACK \u2655 I'LL PROMOTE YOU WITH 3,500+++ FOLLOWERS! #TEAMFOLLOWBACK #500ADAY #GAGA",
+                "mytype": "tweet",
+                "score": 8.785662,
+                "topsy_author_img": "http://a3.twimg.com/profile_images/1041569059/37461_1404918774743_1585600679_970576_5535892_n_normal.jpg",
+                "trackback_permalink": "http://twitter.com/CHARMFELLA/status/17840908328",
+                "trackback_author_url": "http://twitter.com/charmfella",
+                "highlight": "\u2655*RE-TWEET IF YOU \u0192\u0e4f\u2113\u2113\u0e4f\u03c9 BACK \u2655 I'LL PROMOTE YOU WITH 3,500+++ FOLLOWERS! #TEAMFOLLOWBACK #500ADAY",
+                "topsy_author_url": "http://topsy.com/twitter/charmfella",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/charmfella/status/17840908328",
+                "trackback_author_name": "CHARMFELLA",
+                "trackback_author_nick": "charmfella"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1305299402,
+                "title": "#Chismes: Lady #Gaga rompe con su novio http://ow.ly/4TWHf",
+                "url": "http://twitter.com/en_semana/status/69056816948064256",
+                "trackback_date": 1305299402,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1305299402,
+                "content": "#Chismes: Lady #Gaga rompe con su novio http://ow.ly/4TWHf",
+                "mytype": "tweet",
+                "score": 8.785286,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/979105644/esLogo_normal.JPG",
+                "trackback_permalink": "http://twitter.com/en_semana/status/69056816948064256",
+                "trackback_author_url": "http://twitter.com/en_semana",
+                "highlight": "#Chismes: Lady #Gaga rompe con su novio",
+                "topsy_author_url": "http://topsy.com/twitter/en_semana",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/en_semana/status/69056816948064256",
+                "trackback_author_name": "Periodico EnSemana",
+                "trackback_author_nick": "en_semana"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1377479309,
+                "title": "#lady #gaga #live #vmas #applause http://t.co/iHPipnfK1T",
+                "url": "http://twitter.com/musicalisimoec/status/371801286834151424",
+                "trackback_date": 1377479309,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/iHPipnfK1T",
+                        "display_url": "instagram.com/p/ddRao5kFS4/",
+                        "expanded_url": "http://instagram.com/p/ddRao5kFS4/",
+                        "topsy_expanded_url": "http://instagram.com/p/ddRao5kFS4/"
+                    }
+                ],
+                "target_birth_date": 1377479309,
+                "content": "#lady #gaga #live #vmas #applause http://t.co/iHPipnfK1T",
+                "mytype": "tweet",
+                "score": 8.785165,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461221000320151552/6JtiIDWR_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MUSICALISIMOec/status/371801286834151424",
+                "trackback_author_url": "http://twitter.com/musicalisimoec",
+                "highlight": "#lady #gaga #live #vmas #applause",
+                "topsy_author_url": "http://topsy.com/twitter/musicalisimoec",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/musicalisimoec/status/371801286834151424",
+                "trackback_author_name": "MUSICALISIMO",
+                "trackback_author_nick": "musicalisimoec"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1267830967,
+                "title": "Why the fuck have you got a phone on your head you mad bitch? #GaGa",
+                "url": "http://twitter.com/angrybritain/status/10046977289",
+                "trackback_date": 1267830967,
+                "trackback_total": 5,
+                "url_expansions": [],
+                "target_birth_date": 1267830967,
+                "content": "Why the fuck have you got a phone on your head you mad bitch? #GaGa",
+                "mytype": "tweet",
+                "score": 8.784877,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1157281387/union_seat_normal.jpg",
+                "trackback_permalink": "http://twitter.com/AngryBritain/status/10046977289",
+                "trackback_author_url": "http://twitter.com/angrybritain",
+                "highlight": "Why the fuck have you got a phone on your head you mad bitch?",
+                "topsy_author_url": "http://topsy.com/twitter/angrybritain",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/angrybritain/status/10046977289",
+                "trackback_author_name": "AngryBritain.com",
+                "trackback_author_nick": "angrybritain"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1381432608,
+                "title": "Quando acabar de ler a da Amy Winehouse, irei ler essa del\u00edcia :3 #ladygaga #gaga #mothermonster\u2026 http://t.co/RXvoQB9FYX",
+                "url": "http://twitter.com/iamrafaelbraga/status/388382627394486272",
+                "trackback_date": 1381432608,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RXvoQB9FYX",
+                        "display_url": "instagram.com/p/fTFoKATDqR/",
+                        "expanded_url": "http://instagram.com/p/fTFoKATDqR/",
+                        "topsy_expanded_url": "http://instagram.com/p/fTFoKATDqR/"
+                    }
+                ],
+                "target_birth_date": 1381432608,
+                "content": "Quando acabar de ler a da Amy Winehouse, irei ler essa del\u00edcia :3 #ladygaga #gaga #mothermonster\u2026 http://t.co/RXvoQB9FYX",
+                "mytype": "tweet",
+                "score": 8.783648,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472447302892675072/flthDUhY_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/IamRafaelBraga/status/388382627394486272",
+                "trackback_author_url": "http://twitter.com/iamrafaelbraga",
+                "highlight": "Quando acabar de ler a da Amy Winehouse, irei ler essa del\u00edcia :3 #ladygaga #gaga #mothermonster\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/iamrafaelbraga",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/iamrafaelbraga/status/388382627394486272",
+                "trackback_author_name": "Rafa Jane Holland \u2661",
+                "trackback_author_nick": "iamrafaelbraga"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1307212210,
+                "title": "[NEW POST] Lady Gaga's new album banned in Lebanon http://ow.ly/5a0DK Little monsters at General Security impound album, put paws up #gaga",
+                "url": "http://twitter.com/meinlebanon/status/77079714862346240",
+                "trackback_date": 1307212210,
+                "trackback_total": 3,
+                "url_expansions": [],
+                "target_birth_date": 1307212210,
+                "content": "[NEW POST] Lady Gaga's new album banned in Lebanon http://ow.ly/5a0DK Little monsters at General Security impound album, put paws up #gaga",
+                "mytype": "tweet",
+                "score": 8.783509,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460135235934748672/6s9c4xs8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/meinlebanon/status/77079714862346240",
+                "trackback_author_url": "http://twitter.com/daniellebaiz",
+                "highlight": "[NEW POST] Lady Gaga's new album banned in Lebanon Little monsters at General Security impound album, put paws up",
+                "topsy_author_url": "http://topsy.com/twitter/daniellebaiz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/meinlebanon/status/77079714862346240",
+                "trackback_author_name": "Danielle Baiz",
+                "trackback_author_nick": "daniellebaiz"
+            },
+            {
+                "hits": 74,
+                "firstpost_date": 1313539672,
+                "title": "\u901f\u5831 \u30ec\u30c7\u30a3\u30fc\u30fb\u30ac\u30ac\u306e\u6700\u65b0\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30d3\u30c7\u30aa\u300cYOU & I\u300d\u304c\u5230\u7740\u3002 #gaga #yougaku http://t.co/VYhfHWZ",
+                "url": "http://twitter.com/gossips_japan/status/103619012403019777",
+                "trackback_date": 1313539672,
+                "trackback_total": 90,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/VYhfHWZ",
+                        "display_url": "bit.ly/r4QFkU",
+                        "expanded_url": "http://bit.ly/r4QFkU",
+                        "topsy_expanded_url": "https://bitly.com/a/warning?hash=r4QFkU&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8NK02HXzcPM"
+                    }
+                ],
+                "target_birth_date": 1313539672,
+                "content": "\u901f\u5831 \u30ec\u30c7\u30a3\u30fc\u30fb\u30ac\u30ac\u306e\u6700\u65b0\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30d3\u30c7\u30aa\u300cYOU & I\u300d\u304c\u5230\u7740\u3002 #gaga #yougaku http://t.co/VYhfHWZ",
+                "mytype": "tweet",
+                "score": 8.783385,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467277232478515200/_xENwZPu_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/GOSSIPS_Japan/status/103619012403019777",
+                "trackback_author_url": "http://twitter.com/gossips_japan",
+                "highlight": "\u901f\u5831 \u30ec\u30c7\u30a3\u30fc\u30fb\u30ac\u30ac\u306e\u6700\u65b0\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30d3\u30c7\u30aa\u300cYOU & I\u300d\u304c\u5230\u7740\u3002 #gaga #yougaku",
+                "topsy_author_url": "http://topsy.com/twitter/gossips_japan",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gossips_japan/status/103619012403019777",
+                "trackback_author_name": "\u30b4\u30b7\u30c3\u30d7\u30b9\u7de8\u96c6\u90e8",
+                "trackback_author_nick": "gossips_japan"
+            },
+            {
+                "hits": 23,
+                "firstpost_date": 1396483429,
+                "title": "yall. RT @SkyeTownsend: Beyonce tells a story about when Blue graced Obama with her presence. #gaga https://t.co/j6yxLMYmUx",
+                "url": "http://twitter.com/hollywood_trey/status/451510343940861952",
+                "trackback_date": 1396483966,
+                "trackback_total": 26,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/j6yxLMYmUx",
+                        "display_url": "vine.co/v/MeF30eYh6bi",
+                        "expanded_url": "https://vine.co/v/MeF30eYh6bi",
+                        "topsy_expanded_url": "https://vine.co/v/MeF30eYh6bi"
+                    }
+                ],
+                "target_birth_date": 1396483429,
+                "content": "RT @hollywood_trey: yall. RT @SkyeTownsend: Beyonce tells a story about when Blue graced Obama with her presence. #gaga https://t.co/j6yxLM\u2026",
+                "mytype": "tweet",
+                "score": 8.780653,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471836874534031361/o8c941mR_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Taetachip/status/451512595548487680",
+                "trackback_author_url": "http://twitter.com/taetachip",
+                "highlight": "yall.Beyonce tells a story about when Blue graced Obama with her presence. #gaga",
+                "topsy_author_url": "http://topsy.com/twitter/taetachip",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hollywood_trey/status/451510343940861952",
+                "trackback_author_name": "Taeter Thot",
+                "trackback_author_nick": "taetachip"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1394783118,
+                "title": "#Lady #Gaga\u2019s yet another controversial show http://t.co/aDIpOrSULu",
+                "url": "http://twitter.com/gulf_news/status/444378725098856448",
+                "trackback_date": 1394783118,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/aDIpOrSULu",
+                        "display_url": "gulfnews.com/arts-entertain\u2026",
+                        "expanded_url": "http://gulfnews.com/arts-entertainment/celebrity/lady-gaga-gives-yet-another-controversial-performance-1.1303959",
+                        "topsy_expanded_url": "http://gulfnews.com/arts-entertainment/celebrity/lady-gaga-gives-yet-another-controversial-performance-1.1303959"
+                    }
+                ],
+                "target_birth_date": 1394783118,
+                "content": "#Lady #Gaga\u2019s yet another controversial show http://t.co/aDIpOrSULu",
+                "mytype": "tweet",
+                "score": 8.779591,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/445806545960316929/L6bjfOqL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/gulf_news/status/444378725098856448",
+                "trackback_author_url": "http://twitter.com/gulf_news",
+                "highlight": "#Lady #Gaga\u2019s yet another controversial show",
+                "topsy_author_url": "http://topsy.com/twitter/gulf_news",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gulf_news/status/444378725098856448",
+                "trackback_author_name": "Gulf News",
+                "trackback_author_nick": "gulf_news"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 830,
+        "hidden": 0,
+        "total": 1149647,
+        "page": 1
+    }
+}

@@ -1,0 +1,275 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23rally&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=440",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#rally",
+            "window": "a",
+            "type": "tweet",
+            "offset": "440"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 15,
+                "firstpost_date": 1359615815,
+                "title": "\u30da\u30bf\u30fc\u30012013\u5e74\u306f\u30e9\u30ea\u30fc\u30af\u30ed\u30b9\u306b\u6311\u6226 http://t.co/OvguifMJ #wrc #rally",
+                "url": "http://twitter.com/autosport_web/status/296876362143240192",
+                "trackback_date": 1359615815,
+                "trackback_total": 15,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/OvguifMJ",
+                        "display_url": "bit.ly/11jv0sF",
+                        "expanded_url": "http://bit.ly/11jv0sF",
+                        "topsy_expanded_url": "http://as-web.jp/rallyplus/news/info.php?no=25618"
+                    }
+                ],
+                "target_birth_date": 1359615815,
+                "content": "\u30da\u30bf\u30fc\u30012013\u5e74\u306f\u30e9\u30ea\u30fc\u30af\u30ed\u30b9\u306b\u6311\u6226 http://t.co/OvguifMJ #wrc #rally",
+                "mytype": "tweet",
+                "score": 8.878219,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453770524514992128/rf4mgh1W_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AUTOSPORT_web/status/296876362143240192",
+                "trackback_author_url": "http://twitter.com/autosport_web",
+                "highlight": "\u30da\u30bf\u30fc\u30012013\u5e74\u306f\u30e9\u30ea\u30fc\u30af\u30ed\u30b9\u306b\u6311\u6226 #wrc",
+                "topsy_author_url": "http://topsy.com/twitter/autosport_web",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/autosport_web/status/296876362143240192",
+                "trackback_author_name": "AUTOSPORT web",
+                "trackback_author_nick": "autosport_web"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1329920539,
+                "title": "El piloto Alberto Adriani correr\u00e1 en la 3a V\u00e1lida del Campeonato Mundial de #Rally en M\u00e9xico del 8 al 11/03",
+                "url": "http://twitter.com/hectorodriguez/status/172325348271337472",
+                "trackback_date": 1329920539,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1329920539,
+                "content": "El piloto Alberto Adriani correr\u00e1 en la 3a V\u00e1lida del Campeonato Mundial de #Rally en M\u00e9xico del 8 al 11/03",
+                "mytype": "tweet",
+                "score": 8.876731,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459887252009934848/s8J3jXjz_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/HectoRodriguez/status/172325348271337472",
+                "trackback_author_url": "http://twitter.com/hectorodriguez",
+                "highlight": "El piloto Alberto Adriani correr\u00e1 en la 3a V\u00e1lida del Campeonato Mundial de #Rally en M\u00e9xico del 8 al 11/03",
+                "topsy_author_url": "http://topsy.com/twitter/hectorodriguez",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hectorodriguez/status/172325348271337472",
+                "trackback_author_name": "H\u00e9ctor Rodr\u00edguez C.",
+                "trackback_author_nick": "hectorodriguez"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1349151673,
+                "title": "Rock on #Rally http://t.co/xxPMQcnT",
+                "url": "http://twitter.com/westindies/status/252986569542230016",
+                "trackback_date": 1349151673,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/xxPMQcnT",
+                        "expanded_url": "http://twitter.com/westindies/status/252986569542230016/photo/1",
+                        "display_url": "pic.twitter.com/xxPMQcnT"
+                    }
+                ],
+                "target_birth_date": 1349151673,
+                "content": "Rock on #Rally http://t.co/xxPMQcnT",
+                "mytype": "tweet",
+                "score": 8.874275,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462021633545629696/9iMBYC2o_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/westindies/status/252986569542230016",
+                "trackback_author_url": "http://twitter.com/westindies",
+                "highlight": "Rock on #Rally",
+                "topsy_author_url": "http://topsy.com/twitter/westindies",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/westindies/status/252986569542230016",
+                "trackback_author_name": "westindies",
+                "trackback_author_nick": "westindies"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1348450348,
+                "title": "Miki: \u201cNada m\u00e1s que una previa\u201d http://t.co/Mmwa4rst #Rally",
+                "url": "http://twitter.com/abcdeportes/status/250045000598044672",
+                "trackback_date": 1348450348,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Mmwa4rst",
+                        "display_url": "ow.ly/dVKtW",
+                        "expanded_url": "http://ow.ly/dVKtW",
+                        "topsy_expanded_url": "http://ow.ly/dVKtW"
+                    }
+                ],
+                "target_birth_date": 1348450348,
+                "content": "Miki: \u201cNada m\u00e1s que una previa\u201d http://t.co/Mmwa4rst #Rally",
+                "mytype": "tweet",
+                "score": 8.874018,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3699041086/ed774568be654eca9e842d592e9bb0fd_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/abcdeportes/status/250045000598044672",
+                "trackback_author_url": "http://twitter.com/abcdeportes",
+                "highlight": "Miki: \u201cNada m\u00e1s que una previa\u201d",
+                "topsy_author_url": "http://topsy.com/twitter/abcdeportes",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/abcdeportes/status/250045000598044672",
+                "trackback_author_name": "ABC Deportes",
+                "trackback_author_nick": "abcdeportes"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1310010373,
+                "title": "Heading to the 12th still 8 all. #STLCards #Rally",
+                "url": "http://twitter.com/cardsinsider/status/88816058672222208",
+                "trackback_date": 1310010373,
+                "trackback_total": 7,
+                "url_expansions": [],
+                "target_birth_date": 1310010373,
+                "content": "Heading to the 12th still 8 all. #STLCards #Rally",
+                "mytype": "tweet",
+                "score": 8.873636,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1413260070/Cardinals_Primary_Dimension_normal.JPG",
+                "trackback_permalink": "http://twitter.com/CardsInsider/status/88816058672222208",
+                "trackback_author_url": "http://twitter.com/cardsinsider",
+                "highlight": "Heading to the 12th still 8 all. #STLCards",
+                "topsy_author_url": "http://topsy.com/twitter/cardsinsider",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cardsinsider/status/88816058672222208",
+                "trackback_author_name": "St. Louis Cardinals",
+                "trackback_author_nick": "cardsinsider"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1364485033,
+                "title": "\u30d7\u30b8\u30e7\u30fc\u3001\u30ed\u30fc\u30d6\u3068\u3068\u3082\u306b\u30d1\u30a4\u30af\u30b9\u30d4\u30fc\u30af\u3078\uff01 http://t.co/hR7GEjCN5A #wrc #rally",
+                "url": "http://twitter.com/autosport_web/status/317299344091013120",
+                "trackback_date": 1364485033,
+                "trackback_total": 19,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/hR7GEjCN5A",
+                        "display_url": "bit.ly/ZCi032",
+                        "expanded_url": "http://bit.ly/ZCi032",
+                        "topsy_expanded_url": "http://as-web.jp/rallyplus/news/info.php?no=25695"
+                    }
+                ],
+                "target_birth_date": 1364485033,
+                "content": "\u30d7\u30b8\u30e7\u30fc\u3001\u30ed\u30fc\u30d6\u3068\u3068\u3082\u306b\u30d1\u30a4\u30af\u30b9\u30d4\u30fc\u30af\u3078\uff01 http://t.co/hR7GEjCN5A #wrc #rally",
+                "mytype": "tweet",
+                "score": 8.873628,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453770524514992128/rf4mgh1W_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AUTOSPORT_web/status/317299344091013120",
+                "trackback_author_url": "http://twitter.com/autosport_web",
+                "highlight": "\u30d7\u30b8\u30e7\u30fc\u3001\u30ed\u30fc\u30d6\u3068\u3068\u3082\u306b\u30d1\u30a4\u30af\u30b9\u30d4\u30fc\u30af\u3078\uff01 #wrc",
+                "topsy_author_url": "http://topsy.com/twitter/autosport_web",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/autosport_web/status/317299344091013120",
+                "trackback_author_name": "AUTOSPORT web",
+                "trackback_author_nick": "autosport_web"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1353090426,
+                "title": "Passion! #rally #audi #MonteCarlo http://t.co/kADdNZsZ",
+                "url": "http://twitter.com/crazyleonet/status/269506897260990464",
+                "trackback_date": 1353090426,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kADdNZsZ",
+                        "display_url": "instagr.am/p/SGbVyoAWJn/",
+                        "expanded_url": "http://instagr.am/p/SGbVyoAWJn/",
+                        "topsy_expanded_url": "http://instagram.com/p/SGbVyoAWJn/"
+                    }
+                ],
+                "target_birth_date": 1353090426,
+                "content": "Passion! #rally #audi #MonteCarlo http://t.co/kADdNZsZ",
+                "mytype": "tweet",
+                "score": 8.8725195,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2617136064/gu54lokagr1dw2oj73t3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CrazyLeoNet/status/269506897260990464",
+                "trackback_author_url": "http://twitter.com/crazyleonet",
+                "highlight": "Passion! #rally #audi #MonteCarlo",
+                "topsy_author_url": "http://topsy.com/twitter/crazyleonet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/crazyleonet/status/269506897260990464",
+                "trackback_author_name": "Crazy Leo",
+                "trackback_author_nick": "crazyleonet"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1395676370,
+                "title": "Rally rocks!!!! RT @TashPR: Aah my friend GuguZulu @DJFreshSA just gave you a plug on 5FM!! #Rally\"",
+                "url": "http://twitter.com/djfreshsa/status/448125294592155650",
+                "trackback_date": 1395676370,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1395676370,
+                "content": "Rally rocks!!!! RT @TashPR: Aah my friend GuguZulu @DJFreshSA just gave you a plug on 5FM!! #Rally\"",
+                "mytype": "tweet",
+                "score": 8.870855,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472362768499499009/hZ4j697t_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DJFreshSA/status/448125294592155650",
+                "trackback_author_url": "http://twitter.com/djfreshsa",
+                "highlight": "Rally rocks!!!!Aah my friend GuguZulu @DJFreshSA just gave you a plug on 5FM!! #Rally\"",
+                "topsy_author_url": "http://topsy.com/twitter/djfreshsa",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/djfreshsa/status/448125294592155650",
+                "trackback_author_name": "DJ Fresh (Big Dawg)",
+                "trackback_author_nick": "djfreshsa"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1369722836,
+                "title": "\u30d2\u30e5\u30f3\u30c0\u30a4i20WRC\u304c\u521d\u30c6\u30b9\u30c8 http://t.co/yScIyqJKYP #wrc #rally",
+                "url": "http://twitter.com/autosport_web/status/339268283662491648",
+                "trackback_date": 1369722836,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/yScIyqJKYP",
+                        "display_url": "bit.ly/150OPZT",
+                        "expanded_url": "http://bit.ly/150OPZT",
+                        "topsy_expanded_url": "http://as-web.jp/rallyplus/news/info.php?no=25784"
+                    }
+                ],
+                "target_birth_date": 1369722836,
+                "content": "\u30d2\u30e5\u30f3\u30c0\u30a4i20WRC\u304c\u521d\u30c6\u30b9\u30c8 http://t.co/yScIyqJKYP #wrc #rally",
+                "mytype": "tweet",
+                "score": 8.870745,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453770524514992128/rf4mgh1W_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AUTOSPORT_web/status/339268283662491648",
+                "trackback_author_url": "http://twitter.com/autosport_web",
+                "highlight": "\u30d2\u30e5\u30f3\u30c0\u30a4i20WRC\u304c\u521d\u30c6\u30b9\u30c8 #wrc",
+                "topsy_author_url": "http://topsy.com/twitter/autosport_web",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/autosport_web/status/339268283662491648",
+                "trackback_author_name": "AUTOSPORT web",
+                "trackback_author_nick": "autosport_web"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1315332861,
+                "title": "Why are students doing time? Education's not a crime! #rally #undocumented",
+                "url": "http://twitter.com/dreamact/status/111140193251246080",
+                "trackback_date": 1315332861,
+                "trackback_total": 11,
+                "url_expansions": [],
+                "target_birth_date": 1315332861,
+                "content": "Why are students doing time? Education's not a crime! #rally #undocumented",
+                "mytype": "tweet",
+                "score": 8.870507,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1718741765/DreamActivist-logo_normal.png",
+                "trackback_permalink": "http://twitter.com/DreamAct/status/111140193251246080",
+                "trackback_author_url": "http://twitter.com/dreamact",
+                "highlight": "Why are students doing time? Education's not a crime! #rally",
+                "topsy_author_url": "http://topsy.com/twitter/dreamact",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dreamact/status/111140193251246080",
+                "trackback_author_name": "DreamActivist",
+                "trackback_author_nick": "dreamact"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 440,
+        "hidden": 0,
+        "total": 443716,
+        "page": 1
+    }
+}

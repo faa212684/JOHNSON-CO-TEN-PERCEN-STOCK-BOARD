@@ -1,0 +1,302 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23lecture&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=10",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#lecture",
+            "window": "a",
+            "type": "tweet",
+            "offset": "10"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 14,
+                "firstpost_date": 1370542186,
+                "title": "Joseph Stiglitz: Rediscovering Government http://t.co/uxJjSffcOL http://t.co/dXrdAROfxq #video #lecture",
+                "url": "http://twitter.com/joestiglitz/status/342704886489698304",
+                "trackback_date": 1370542186,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/uxJjSffcOL",
+                        "display_url": "bit.ly/1b9yClW",
+                        "expanded_url": "http://bit.ly/1b9yClW",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=BR04oFR6zEg"
+                    },
+                    {
+                        "url": "http://t.co/dXrdAROfxq",
+                        "display_url": "amzn.to/Mul8oD",
+                        "expanded_url": "http://amzn.to/Mul8oD",
+                        "topsy_expanded_url": "http://www.amazon.com/gp/product/0393088693"
+                    }
+                ],
+                "target_birth_date": 1370542186,
+                "content": "Joseph Stiglitz: Rediscovering Government http://t.co/uxJjSffcOL http://t.co/dXrdAROfxq #video #lecture",
+                "mytype": "tweet",
+                "score": 9.206882,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000452479361/51fc6e8238f924c46abfba9ec0dea25a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/joestiglitz/status/342704886489698304",
+                "trackback_author_url": "http://twitter.com/stiglitzian",
+                "highlight": "Joseph Stiglitz: Rediscovering Government #video",
+                "topsy_author_url": "http://topsy.com/twitter/stiglitzian",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/joestiglitz/status/342704886489698304",
+                "trackback_author_name": "Joseph Stiglitz",
+                "trackback_author_nick": "stiglitzian"
+            },
+            {
+                "hits": 39,
+                "firstpost_date": 1368223952,
+                "title": "\"Lecture: Brian Eno (New York, 2013)\" on Vimeo http://t.co/qbqhUc101a #Vimeo #brianeno #rbma #redbullmusicacademy #lecture",
+                "url": "http://twitter.com/woodelijah/status/332981508002443264",
+                "trackback_date": 1368223952,
+                "trackback_total": 48,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/qbqhUc101a",
+                        "display_url": "vimeo.com/65663692",
+                        "expanded_url": "http://vimeo.com/65663692",
+                        "topsy_expanded_url": "http://vimeo.com/m/65663692"
+                    }
+                ],
+                "target_birth_date": 1368223952,
+                "content": "\"Lecture: Brian Eno (New York, 2013)\" on Vimeo http://t.co/qbqhUc101a #Vimeo #brianeno #rbma #redbullmusicacademy #lecture",
+                "mytype": "tweet",
+                "score": 9.2015085,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3531090417/e841dd2910f7a78b53faa76abafcde5e_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/woodelijah/status/332981508002443264",
+                "trackback_author_url": "http://twitter.com/woodelijah",
+                "highlight": "\"Lecture: Brian Eno (New York, 2013)\" on Vimeo #Vimeo #brianeno #rbma #redbullmusicacademy",
+                "topsy_author_url": "http://topsy.com/twitter/woodelijah",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/woodelijah/status/332981508002443264",
+                "trackback_author_name": "Elijah Wood",
+                "trackback_author_nick": "woodelijah"
+            },
+            {
+                "hits": 38,
+                "firstpost_date": 1391825763,
+                "title": "MT @TeachThought: The Real Problem with #Lecture: http://t.co/wujsHbzup7 #edchat #ntchat",
+                "url": "http://twitter.com/edutopia/status/431974679603994624",
+                "trackback_date": 1391825763,
+                "trackback_total": 38,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/wujsHbzup7",
+                        "display_url": "edut.to/1fPtwRa",
+                        "expanded_url": "http://edut.to/1fPtwRa",
+                        "topsy_expanded_url": "http://www.teachthought.com/teaching/lecture-less-know-understand/"
+                    }
+                ],
+                "target_birth_date": 1391825763,
+                "content": "MT @TeachThought: The Real Problem with #Lecture: http://t.co/wujsHbzup7 #edchat #ntchat",
+                "mytype": "tweet",
+                "score": 9.1714735,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2052280917/Edu_logo_square_normal.jpg",
+                "trackback_permalink": "http://twitter.com/edutopia/status/431974679603994624",
+                "trackback_author_url": "http://twitter.com/edutopia",
+                "highlight": "MT @TeachThought: The Real Problem with #Lecture: #edchat",
+                "topsy_author_url": "http://topsy.com/twitter/edutopia",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/edutopia/status/431974679603994624",
+                "trackback_author_name": "edutopia",
+                "trackback_author_nick": "edutopia"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1297689405,
+                "title": "#FairTrade for All: How trade can promote #development http://bit.ly/f5iJvS thoughtful 2006 Joseph Stiglitz #video #lecture @cceia",
+                "url": "http://twitter.com/oxfam/status/37138174610251776",
+                "trackback_date": 1297689405,
+                "trackback_total": 10,
+                "url_expansions": [],
+                "target_birth_date": 1297689405,
+                "content": "#FairTrade for All: How trade can promote #development http://bit.ly/f5iJvS thoughtful 2006 Joseph Stiglitz #video #lecture @cceia",
+                "mytype": "tweet",
+                "score": 9.168931,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471517109134962688/TP51FR-V_normal.png",
+                "trackback_permalink": "http://twitter.com/Oxfam/status/37138174610251776",
+                "trackback_author_url": "http://twitter.com/oxfam",
+                "highlight": "#FairTrade for All: How trade can promote #development thoughtful 2006 Joseph Stiglitz #video #lecture @cceia",
+                "topsy_author_url": "http://topsy.com/twitter/oxfam",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/oxfam/status/37138174610251776",
+                "trackback_author_name": "Oxfam International",
+                "trackback_author_nick": "oxfam"
+            },
+            {
+                "hits": 101,
+                "firstpost_date": 1367757969,
+                "title": "Joseph Stiglitz: The Failure of Macroeconomics, Monetary Policy &amp; the Need for a Theory of Credit http://t.co/UmBauMegLz #video #lecture",
+                "url": "http://twitter.com/joestiglitz/status/331027032886632449",
+                "trackback_date": 1367757969,
+                "trackback_total": 115,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/UmBauMegLz",
+                        "display_url": "bit.ly/117AyfU",
+                        "expanded_url": "http://bit.ly/117AyfU",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=g8f1BceyqEM"
+                    }
+                ],
+                "target_birth_date": 1367757969,
+                "content": "Joseph Stiglitz: The Failure of Macroeconomics, Monetary Policy &amp; the Need for a Theory of Credit http://t.co/UmBauMegLz #video #lecture",
+                "mytype": "tweet",
+                "score": 9.1553955,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000452479361/51fc6e8238f924c46abfba9ec0dea25a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/joestiglitz/status/331027032886632449",
+                "trackback_author_url": "http://twitter.com/stiglitzian",
+                "highlight": "Joseph Stiglitz: The Failure of Macroeconomics, Monetary Policy &amp; the Need for a Theory of Credit #video",
+                "topsy_author_url": "http://topsy.com/twitter/stiglitzian",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/joestiglitz/status/331027032886632449",
+                "trackback_author_name": "Joseph Stiglitz",
+                "trackback_author_nick": "stiglitzian"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1401290231,
+                "title": "Sky Over The East #lecture in discussion with @SultanAlQassemi  &amp; Matthew Sansom http://t.co/htxduVOG5R",
+                "url": "http://twitter.com/admafsocial/status/471671533018955776",
+                "trackback_date": 1401290231,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/htxduVOG5R",
+                        "display_url": "pic.twitter.com/htxduVOG5R",
+                        "expanded_url": "http://twitter.com/ADMAFsocial/status/471671533018955776/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bou2wjzIgAEQRM0.jpg"
+                    }
+                ],
+                "target_birth_date": 1401290231,
+                "content": "Sky Over The East #lecture in discussion with @SultanAlQassemi  &amp; Matthew Sansom http://t.co/htxduVOG5R",
+                "mytype": "tweet",
+                "score": 9.15531,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459227005339189249/Gf-JStCX_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ADMAFsocial/status/471671533018955776",
+                "trackback_author_url": "http://twitter.com/admafsocial",
+                "highlight": "Sky Over The East #lecture in discussion with @SultanAlQassemi &amp; Matthew Sansom",
+                "topsy_author_url": "http://topsy.com/twitter/admafsocial",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/admafsocial/status/471671533018955776",
+                "trackback_author_name": "ADMAF",
+                "trackback_author_nick": "admafsocial"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1310548181,
+                "title": "Noam Chomsky #lecture: \"Democracy and the Public University\" http://is.gd/c2hxw9 #video",
+                "url": "http://twitter.com/wonkmonk_/status/91071789546999808",
+                "trackback_date": 1310548181,
+                "trackback_total": 13,
+                "url_expansions": [],
+                "target_birth_date": 1310548181,
+                "content": "Noam Chomsky #lecture: \"Democracy and the Public University\" http://is.gd/c2hxw9 #video",
+                "mytype": "tweet",
+                "score": 9.14595,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000226407205/f3bba0f9000db38fc55ef07adb07ab89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/wonkmonk_/status/91071789546999808",
+                "trackback_author_url": "http://twitter.com/wonkmonk_",
+                "highlight": "Noam Chomsky #lecture: \"Democracy and the Public University\"",
+                "topsy_author_url": "http://topsy.com/twitter/wonkmonk_",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wonkmonk_/status/91071789546999808",
+                "trackback_author_name": "wonkmonk",
+                "trackback_author_nick": "wonkmonk_"
+            },
+            {
+                "hits": 35,
+                "firstpost_date": 1391056310,
+                "title": "Are You Not Entertained? 6 Tips to Build a Dynamic #Lecture: http://t.co/gEEon33gpl #edchat #ntchat",
+                "url": "http://twitter.com/edutopia/status/428747356238905346",
+                "trackback_date": 1391056310,
+                "trackback_total": 37,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/gEEon33gpl",
+                        "display_url": "edut.to/1hOLHWD",
+                        "expanded_url": "http://edut.to/1hOLHWD",
+                        "topsy_expanded_url": "http://www.edutopia.org/blog/how-to-build-dynamic-lecture-todd-finley"
+                    }
+                ],
+                "target_birth_date": 1391056310,
+                "content": "Are You Not Entertained? 6 Tips to Build a Dynamic #Lecture: http://t.co/gEEon33gpl #edchat #ntchat",
+                "mytype": "tweet",
+                "score": 9.113195,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2052280917/Edu_logo_square_normal.jpg",
+                "trackback_permalink": "http://twitter.com/edutopia/status/428747356238905346",
+                "trackback_author_url": "http://twitter.com/edutopia",
+                "highlight": "Are You Not Entertained? 6 Tips to Build a Dynamic #Lecture: #edchat",
+                "topsy_author_url": "http://topsy.com/twitter/edutopia",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/edutopia/status/428747356238905346",
+                "trackback_author_name": "edutopia",
+                "trackback_author_nick": "edutopia"
+            },
+            {
+                "hits": 58,
+                "firstpost_date": 1397933042,
+                "title": "Joseph Stiglitz: Finance and the Real economy http://t.co/pVRiVVobYY #video #lecture @INETeconomics",
+                "url": "http://twitter.com/stiglitzian/status/457590463776964608",
+                "trackback_date": 1397933042,
+                "trackback_total": 61,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/pVRiVVobYY",
+                        "display_url": "bit.ly/1jkQH5y",
+                        "expanded_url": "http://bit.ly/1jkQH5y",
+                        "topsy_expanded_url": "https://www.youtube.com/watch?v=09tMZRy7pIs&t=26m40s"
+                    }
+                ],
+                "target_birth_date": 1397933042,
+                "content": "Joseph Stiglitz: Finance and the Real economy http://t.co/pVRiVVobYY #video #lecture @INETeconomics",
+                "mytype": "tweet",
+                "score": 9.10077,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000452479361/51fc6e8238f924c46abfba9ec0dea25a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/stiglitzian/status/457590463776964608",
+                "trackback_author_url": "http://twitter.com/stiglitzian",
+                "highlight": "Joseph Stiglitz: Finance and the Real economy #video #lecture @INETeconomics",
+                "topsy_author_url": "http://topsy.com/twitter/stiglitzian",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/stiglitzian/status/457590463776964608",
+                "trackback_author_name": "Joseph Stiglitz",
+                "trackback_author_nick": "stiglitzian"
+            },
+            {
+                "hits": 53,
+                "firstpost_date": 1376994336,
+                "title": "Stiglitz: The Lessons of the U.S. Crisis for Economic Theory &amp; Policy http://t.co/YHE4r3PRCy http://t.co/M5Y7dhYlLs #video #lecture",
+                "url": "http://twitter.com/joestiglitz/status/369767164360019968",
+                "trackback_date": 1376994336,
+                "trackback_total": 60,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/YHE4r3PRCy",
+                        "display_url": "bit.ly/19uXcis",
+                        "expanded_url": "http://bit.ly/19uXcis",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=RNCzUHBwNiw"
+                    },
+                    {
+                        "url": "http://t.co/M5Y7dhYlLs",
+                        "display_url": "bit.ly/16XJyUS",
+                        "expanded_url": "http://bit.ly/16XJyUS",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=pcSX0gNR2Cw"
+                    }
+                ],
+                "target_birth_date": 1376994336,
+                "content": "Stiglitz: The Lessons of the U.S. Crisis for Economic Theory &amp; Policy http://t.co/YHE4r3PRCy http://t.co/M5Y7dhYlLs #video #lecture",
+                "mytype": "tweet",
+                "score": 9.095367,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000452479361/51fc6e8238f924c46abfba9ec0dea25a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/joestiglitz/status/369767164360019968",
+                "trackback_author_url": "http://twitter.com/stiglitzian",
+                "highlight": "Stiglitz: The Lessons of the U.S. Crisis for Economic Theory &amp; Policy #video",
+                "topsy_author_url": "http://topsy.com/twitter/stiglitzian",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/joestiglitz/status/369767164360019968",
+                "trackback_author_name": "Joseph Stiglitz",
+                "trackback_author_nick": "stiglitzian"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 10,
+        "hidden": 0,
+        "total": 134379,
+        "page": 1
+    }
+}

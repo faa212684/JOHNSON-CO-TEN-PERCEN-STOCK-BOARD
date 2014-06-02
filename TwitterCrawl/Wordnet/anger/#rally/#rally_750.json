@@ -1,0 +1,315 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23rally&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=750",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#rally",
+            "window": "a",
+            "type": "tweet",
+            "offset": "750"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 18,
+                "firstpost_date": 1326822142,
+                "title": "The 2012 #FIA #WRC season kicks off today in legendary Monte-Carlo !\nhttp://t.co/xB3E7Lwp\n#Rally #Montecarlo http://t.co/1Pc7gnnL",
+                "url": "http://twitter.com/fia/status/159329726090055680",
+                "trackback_date": 1326822142,
+                "trackback_total": 20,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/xB3E7Lwp",
+                        "display_url": "bit.ly/wFtrYE",
+                        "expanded_url": "http://bit.ly/wFtrYE",
+                        "topsy_expanded_url": "http://www.fia.com/en-GB/mediacentre/pressreleases/wrc/2012/Pages/2012-wrc-preview.aspx"
+                    },
+                    {
+                        "url": "http://t.co/1Pc7gnnL",
+                        "expanded_url": "http://twitter.com/fia/status/159329726090055680/photo/1",
+                        "display_url": "pic.twitter.com/1Pc7gnnL"
+                    }
+                ],
+                "target_birth_date": 1326822142,
+                "content": "The 2012 #FIA #WRC season kicks off today in legendary Monte-Carlo !\nhttp://t.co/xB3E7Lwp\n#Rally #Montecarlo http://t.co/1Pc7gnnL",
+                "mytype": "tweet",
+                "score": 8.699074,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000137661576/ce58e1ba9ac7bd9bbda46967dc3ccd48_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/fia/status/159329726090055680",
+                "trackback_author_url": "http://twitter.com/fia",
+                "highlight": "The 2012 #FIA #WRC season kicks off today in legendary Monte-Carlo ! #Rally #Montecarlo",
+                "topsy_author_url": "http://topsy.com/twitter/fia",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/fia/status/159329726090055680",
+                "trackback_author_name": "FIA",
+                "trackback_author_nick": "fia"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1389368208,
+                "title": "Thai policeman holds a sign and candle, supporting #democracy &amp; #equality ~ #Bangkok #rally #elections http://t.co/KUs45e1CFW",
+                "url": "http://twitter.com/bedlamfury/status/421666946568843264",
+                "trackback_date": 1389368208,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/KUs45e1CFW",
+                        "display_url": "pic.twitter.com/KUs45e1CFW",
+                        "expanded_url": "http://twitter.com/bedlamfury/status/421666946568843264/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BdoP2okCMAARQwH.jpg"
+                    }
+                ],
+                "target_birth_date": 1389368208,
+                "content": "Thai policeman holds a sign and candle, supporting #democracy &amp; #equality ~ #Bangkok #rally #elections http://t.co/KUs45e1CFW",
+                "mytype": "tweet",
+                "score": 8.698927,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000376100975/c525175969adf803a260ee838561b340_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/bedlamfury/status/421666946568843264",
+                "trackback_author_url": "http://twitter.com/bedlamfury",
+                "highlight": "Thai policeman holds a sign and candle, supporting #democracy &amp; #equality ~ #Bangkok #rally #elections",
+                "topsy_author_url": "http://topsy.com/twitter/bedlamfury",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bedlamfury/status/421666946568843264",
+                "trackback_author_name": "Zashnain Zainal",
+                "trackback_author_nick": "bedlamfury"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1384886227,
+                "title": "Kicking up dust in New Zealand, circa 1996. #teamfalken #Rally #90sareallthat http://t.co/v9vpnqS5Ir",
+                "url": "http://twitter.com/falkentire/status/402868155011186688",
+                "trackback_date": 1384886227,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/v9vpnqS5Ir",
+                        "display_url": "pic.twitter.com/v9vpnqS5Ir",
+                        "expanded_url": "http://twitter.com/FalkenTire/status/402868155011186688/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BZdEB4wCcAAzLI8.jpg"
+                    }
+                ],
+                "target_birth_date": 1384886227,
+                "content": "Kicking up dust in New Zealand, circa 1996. #teamfalken #Rally #90sareallthat http://t.co/v9vpnqS5Ir",
+                "mytype": "tweet",
+                "score": 8.697984,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472983909982937088/afQkbNwa_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/FalkenTire/status/402868155011186688",
+                "trackback_author_url": "http://twitter.com/falkentire",
+                "highlight": "Kicking up dust in New Zealand, circa 1996. #teamfalken #Rally #90sareallthat",
+                "topsy_author_url": "http://topsy.com/twitter/falkentire",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/falkentire/status/402868155011186688",
+                "trackback_author_name": "Falken Tire",
+                "trackback_author_nick": "falkentire"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1323075824,
+                "title": "The #MINI #WRC was named #Rally Car of the Year 2011 @ the AUTOSPORT Awards, London. Read more: http://t.co/24kUW1IZ @krismeeke @DaniSordo",
+                "url": "http://twitter.com/minimotorsport/status/143616534399549440",
+                "trackback_date": 1323075824,
+                "trackback_total": 17,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/24kUW1IZ",
+                        "display_url": "autosport.com/news/report.ph\u2026",
+                        "expanded_url": "http://www.autosport.com/news/report.php/id/96644",
+                        "topsy_expanded_url": "http://www.autosport.com/news/report.php/id/96644"
+                    }
+                ],
+                "target_birth_date": 1323075824,
+                "content": "The #MINI #WRC was named #Rally Car of the Year 2011 @ the AUTOSPORT Awards, London. Read more: http://t.co/24kUW1IZ @krismeeke @DaniSordo",
+                "mytype": "tweet",
+                "score": 8.696812,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1275960826/twitterMM_normal.png",
+                "trackback_permalink": "http://twitter.com/MINImotorsport/status/143616534399549440",
+                "trackback_author_url": "http://twitter.com/minimotorsport",
+                "highlight": "The #MINI #WRC was named #Rally Car of the Year 2011 @ the AUTOSPORT Awards, London. Read more: @krismeeke @DaniSordo",
+                "topsy_author_url": "http://topsy.com/twitter/minimotorsport",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/minimotorsport/status/143616534399549440",
+                "trackback_author_name": "MINImotorsport",
+                "trackback_author_nick": "minimotorsport"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1380435866,
+                "title": "2014\u5e74\u306eWRC\u30ab\u30ec\u30f3\u30c0\u30fc\u304c\u767a\u8868 http://t.co/cdojvXDDKY #wrc #rally",
+                "url": "http://twitter.com/autosport_web/status/384201985517289474",
+                "trackback_date": 1380435866,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cdojvXDDKY",
+                        "display_url": "bit.ly/17dQ2iE",
+                        "expanded_url": "http://bit.ly/17dQ2iE",
+                        "topsy_expanded_url": "http://as-web.jp/rallyplus/news/info.php?no=26007"
+                    }
+                ],
+                "target_birth_date": 1380435866,
+                "content": "2014\u5e74\u306eWRC\u30ab\u30ec\u30f3\u30c0\u30fc\u304c\u767a\u8868 http://t.co/cdojvXDDKY #wrc #rally",
+                "mytype": "tweet",
+                "score": 8.6954565,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453770524514992128/rf4mgh1W_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AUTOSPORT_web/status/384201985517289474",
+                "trackback_author_url": "http://twitter.com/autosport_web",
+                "highlight": "2014\u5e74\u306eWRC\u30ab\u30ec\u30f3\u30c0\u30fc\u304c\u767a\u8868 #wrc",
+                "topsy_author_url": "http://topsy.com/twitter/autosport_web",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/autosport_web/status/384201985517289474",
+                "trackback_author_name": "AUTOSPORT web",
+                "trackback_author_nick": "autosport_web"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1354207657,
+                "title": "[#rally] Video resumen de las Copas de Promoci\u00f3n en el III Rallye Comunidad de Madrid http://t.co/KWKP588q #Madrid #Video",
+                "url": "http://twitter.com/suzukimsport/status/274192903146991616",
+                "trackback_date": 1354207657,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/KWKP588q",
+                        "display_url": "bit.ly/V8pOUY",
+                        "expanded_url": "http://bit.ly/V8pOUY",
+                        "topsy_expanded_url": "http://www.suzukimotorsport.es/2012/11/29/video-resumen-de-las-copas-de-promocion-en-el-iii-rallye-comunidad-de-madrid/"
+                    }
+                ],
+                "target_birth_date": 1354207657,
+                "content": "[#rally] Video resumen de las Copas de Promoci\u00f3n en el III Rallye Comunidad de Madrid http://t.co/KWKP588q #Madrid #Video",
+                "mytype": "tweet",
+                "score": 8.694928,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1163900527/logo-sims_normal.png",
+                "trackback_permalink": "http://twitter.com/suzukimsport/status/274192903146991616",
+                "trackback_author_url": "http://twitter.com/suzukimsport",
+                "highlight": "[#rally] Video resumen de las Copas de Promoci\u00f3n en el III Rallye Comunidad de Madrid #Madrid",
+                "topsy_author_url": "http://topsy.com/twitter/suzukimsport",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/suzukimsport/status/274192903146991616",
+                "trackback_author_name": "Suzuki-Repsol",
+                "trackback_author_nick": "suzukimsport"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1342946629,
+                "title": "Tragedia nel Rally di Lucca Due piloti carbonizzati http://t.co/DJtFxgLn #motori #rally",
+                "url": "http://twitter.com/gazzetta_it/status/226960731839557632",
+                "trackback_date": 1342946629,
+                "trackback_total": 21,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DJtFxgLn",
+                        "display_url": "tinyurl.com/bwhjmtv",
+                        "expanded_url": "http://tinyurl.com/bwhjmtv",
+                        "topsy_expanded_url": "http://tinyurl.com/bwhjmtv"
+                    }
+                ],
+                "target_birth_date": 1342946629,
+                "content": "Tragedia nel Rally di Lucca Due piloti carbonizzati http://t.co/DJtFxgLn #motori #rally",
+                "mytype": "tweet",
+                "score": 8.694692,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1630309124/logo-social_small_normal.png",
+                "trackback_permalink": "http://twitter.com/Gazzetta_it/status/226960731839557632",
+                "trackback_author_url": "http://twitter.com/gazzetta_it",
+                "highlight": "Tragedia nel Rally di Lucca Due piloti carbonizzati #motori",
+                "topsy_author_url": "http://topsy.com/twitter/gazzetta_it",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gazzetta_it/status/226960731839557632",
+                "trackback_author_name": "LaGazzettadelloSport",
+                "trackback_author_nick": "gazzetta_it"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1396012722,
+                "title": "Let the celebration begin! We are so proud!!! #Rally #Wiallin http://t.co/JjiQYPp1d6",
+                "url": "http://twitter.com/digicelcricket/status/449536057772871682",
+                "trackback_date": 1396012722,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/JjiQYPp1d6",
+                        "display_url": "pic.twitter.com/JjiQYPp1d6",
+                        "expanded_url": "http://twitter.com/digicelcricket/status/449536057772871682/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bj0SqaKIEAAnnM5.jpg"
+                    }
+                ],
+                "target_birth_date": 1396012722,
+                "content": "Let the celebration begin! We are so proud!!! #Rally #Wiallin http://t.co/JjiQYPp1d6",
+                "mytype": "tweet",
+                "score": 8.694137,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3323721244/2b520e0329a3f0a4c0fcfa800da0f118_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/digicelcricket/status/449536057772871682",
+                "trackback_author_url": "http://twitter.com/digicelcricket",
+                "highlight": "Let the celebration begin! We are so proud!!! #Rally #Wiallin",
+                "topsy_author_url": "http://topsy.com/twitter/digicelcricket",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/digicelcricket/status/449536057772871682",
+                "trackback_author_name": "Digicel Cricket",
+                "trackback_author_nick": "digicelcricket"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1378086286,
+                "title": "Hundreds turn out for #rally to #BanLiveExport in #Adelaide! Get all the photos: http://t.co/vA09GhV6Mm http://t.co/sDZdBQ6Qp4",
+                "url": "http://twitter.com/animalsaus/status/374347132376858624",
+                "trackback_date": 1378086286,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vA09GhV6Mm",
+                        "display_url": "on.fb.me/1dyVjFF",
+                        "expanded_url": "http://on.fb.me/1dyVjFF",
+                        "topsy_expanded_url": "http://on.fb.me/1dyVjFF"
+                    },
+                    {
+                        "url": "http://t.co/sDZdBQ6Qp4",
+                        "display_url": "pic.twitter.com/sDZdBQ6Qp4",
+                        "expanded_url": "http://twitter.com/AnimalsAus/status/374347132376858624/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BTHyu8hCQAAJi0c.jpg"
+                    }
+                ],
+                "target_birth_date": 1378086286,
+                "content": "Hundreds turn out for #rally to #BanLiveExport in #Adelaide! Get all the photos: http://t.co/vA09GhV6Mm http://t.co/sDZdBQ6Qp4",
+                "mytype": "tweet",
+                "score": 8.693815,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460294781206142976/vMZ2zYDX_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AnimalsAus/status/374347132376858624",
+                "trackback_author_url": "http://twitter.com/animalsaus",
+                "highlight": "Hundreds turn out for #rally to #BanLiveExport in #Adelaide! Get all the photos:",
+                "topsy_author_url": "http://topsy.com/twitter/animalsaus",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/animalsaus/status/374347132376858624",
+                "trackback_author_name": "Animals Australia",
+                "trackback_author_nick": "animalsaus"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1353700857,
+                "title": "I mean I gotta park next to my fellow Subie! #scooby #subaru #love #STI #rally http://t.co/8CqGwGmA",
+                "url": "http://twitter.com/dustinabr/status/272067231129686016",
+                "trackback_date": 1353700857,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8CqGwGmA",
+                        "display_url": "instagr.am/p/SYnmfXr8U2/",
+                        "expanded_url": "http://instagr.am/p/SYnmfXr8U2/",
+                        "topsy_expanded_url": "http://instagram.com/p/SYnmfXr8U2/"
+                    }
+                ],
+                "target_birth_date": 1353700857,
+                "content": "I mean I gotta park next to my fellow Subie! #scooby #subaru #love #STI #rally http://t.co/8CqGwGmA",
+                "mytype": "tweet",
+                "score": 8.693583,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3244725582/f0e8ae6dcaae30ec3099c2d080e47ca4_normal.png",
+                "trackback_permalink": "http://twitter.com/dustinabr/status/272067231129686016",
+                "trackback_author_url": "http://twitter.com/dustinabr",
+                "highlight": "I mean I gotta park next to my fellow Subie! #scooby #subaru #love #STI #rally",
+                "topsy_author_url": "http://topsy.com/twitter/dustinabr",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dustinabr/status/272067231129686016",
+                "trackback_author_name": "DustinABR",
+                "trackback_author_nick": "dustinabr"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 750,
+        "hidden": 0,
+        "total": 441053,
+        "page": 1
+    }
+}

@@ -1,0 +1,315 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23lecture&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=80",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#lecture",
+            "window": "a",
+            "type": "tweet",
+            "offset": "80"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 11,
+                "firstpost_date": 1356023524,
+                "title": "\u00ab Lire au CP \u00bb un site \u00e0 d\u00e9couvrir ! http://t.co/piLM4TsP #EcoleNumerique #lecture",
+                "url": "http://twitter.com/ecolededemain/status/281809201322401792",
+                "trackback_date": 1356023524,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/piLM4TsP",
+                        "display_url": "bit.ly/12Ce7Mh",
+                        "expanded_url": "http://bit.ly/12Ce7Mh",
+                        "topsy_expanded_url": "http://ecolededemain.wordpress.com/2012/12/20/lire-au-cp-un-site-a-decouvrir/"
+                    }
+                ],
+                "target_birth_date": 1356023524,
+                "content": "\u00ab Lire au CP \u00bb un site \u00e0 d\u00e9couvrir ! http://t.co/piLM4TsP #EcoleNumerique #lecture",
+                "mytype": "tweet",
+                "score": 8.797832,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/448457313418891264/5lwhHDTV_normal.png",
+                "trackback_permalink": "http://twitter.com/ecolededemain/status/281809201322401792",
+                "trackback_author_url": "http://twitter.com/ecolededemain",
+                "highlight": "\u00ab Lire au CP \u00bb un site \u00e0 d\u00e9couvrir ! #EcoleNumerique",
+                "topsy_author_url": "http://topsy.com/twitter/ecolededemain",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ecolededemain/status/281809201322401792",
+                "trackback_author_name": "SE-Unsa Education",
+                "trackback_author_nick": "ecolededemain"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1393680816,
+                "title": "#Lecture in #Toronto : #Doctrine of #DivineLove &amp; #Spirituality http://t.co/7eyg7VwWL6 #Goharshahi",
+                "url": "http://twitter.com/zenabyaseen/status/439755333578141696",
+                "trackback_date": 1394691038,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7eyg7VwWL6",
+                        "display_url": "youtu.be/spv6UZQpfVw",
+                        "expanded_url": "http://youtu.be/spv6UZQpfVw",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=spv6UZQpfVw&feature=youtu.be"
+                    }
+                ],
+                "target_birth_date": 1393680816,
+                "content": "RT @ZenabYaseen: #Lecture in #Toronto : #Doctrine of #DivineLove &amp; #Spirituality http://t.co/7eyg7VwWL6 #Goharshahi",
+                "mytype": "tweet",
+                "score": 8.795064,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3344932043/cba8baa23f72186af2a03364915bade6_normal.png",
+                "trackback_permalink": "http://twitter.com/toronto_rt/status/443992510009192448",
+                "trackback_author_url": "http://twitter.com/toronto_rt",
+                "highlight": "#Lecture in #Toronto : #Doctrine of #DivineLove &amp; #Spirituality",
+                "topsy_author_url": "http://topsy.com/twitter/toronto_rt",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/zenabyaseen/status/439755333578141696",
+                "trackback_author_name": "Toronto Retweeter",
+                "trackback_author_nick": "toronto_rt"
+            },
+            {
+                "hits": 45,
+                "firstpost_date": 1366410457,
+                "title": "Joseph Stiglitz: \"Rethinking Macroeconomics: What Went Wrong and How to Fix It\" http://t.co/9yLHTzMXi8 #video #lecture",
+                "url": "http://twitter.com/joestiglitz/status/325375157583638528",
+                "trackback_date": 1366410519,
+                "trackback_total": 53,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9yLHTzMXi8",
+                        "display_url": "bit.ly/10of3qY",
+                        "expanded_url": "http://bit.ly/10of3qY",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=pbc7CHe_Bpc"
+                    }
+                ],
+                "target_birth_date": 1366410457,
+                "content": "RT @joestiglitz: Joseph Stiglitz: \"Rethinking Macroeconomics: What Went Wrong and How to Fix It\" http://t.co/9yLHTzMXi8 #video #lecture",
+                "mytype": "tweet",
+                "score": 8.794798,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000842653683/64e2db257458388f6cb88f971075e165_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OakvilleMayor/status/325375418444161024",
+                "trackback_author_url": "http://twitter.com/oakvillemayor",
+                "highlight": "Joseph Stiglitz: \"Rethinking Macroeconomics: What Went Wrong and How to Fix It\" #video",
+                "topsy_author_url": "http://topsy.com/twitter/oakvillemayor",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/joestiglitz/status/325375157583638528",
+                "trackback_author_name": "Rob Burton",
+                "trackback_author_nick": "oakvillemayor"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1398948038,
+                "title": "Adair Turner: Creating money - for what purpose? http://t.co/PlukGdy2H4 http://t.co/NbBD6vI0yn #video #lecture",
+                "url": "http://twitter.com/wonkmonk_/status/461847662632140800",
+                "trackback_date": 1398948038,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PlukGdy2H4",
+                        "display_url": "bit.ly/1rIg18S",
+                        "expanded_url": "http://bit.ly/1rIg18S",
+                        "topsy_expanded_url": "https://www.youtube.com/watch?v=68l1vJJUb4c"
+                    },
+                    {
+                        "url": "http://t.co/NbBD6vI0yn",
+                        "display_url": "bit.ly/1jkV5UJ",
+                        "expanded_url": "http://bit.ly/1jkV5UJ",
+                        "topsy_expanded_url": "http://www.systemicrisk.ac.uk/sites/default/files/media/Session"
+                    }
+                ],
+                "target_birth_date": 1398948038,
+                "content": "Adair Turner: Creating money - for what purpose? http://t.co/PlukGdy2H4 http://t.co/NbBD6vI0yn #video #lecture",
+                "mytype": "tweet",
+                "score": 8.789982,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000226407205/f3bba0f9000db38fc55ef07adb07ab89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/wonkmonk_/status/461847662632140800",
+                "trackback_author_url": "http://twitter.com/wonkmonk_",
+                "highlight": "Adair Turner: Creating money - for what purpose? #video",
+                "topsy_author_url": "http://topsy.com/twitter/wonkmonk_",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wonkmonk_/status/461847662632140800",
+                "trackback_author_name": "wonkmonk",
+                "trackback_author_nick": "wonkmonk_"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1381996958,
+                "title": "Qui a tu\u00e9 le plus aux USA cette ann\u00e9e ? RT @Samparlebien: #Lecture #Chiffres http://t.co/yqb1n3wkWv",
+                "url": "http://twitter.com/le_m_poireau/status/390749683435327488",
+                "trackback_date": 1381996958,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/yqb1n3wkWv",
+                        "display_url": "pic.twitter.com/yqb1n3wkWv",
+                        "expanded_url": "http://twitter.com/Samparlebien/status/390749310885068800/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BWw4bX5IUAAnjDq.jpg"
+                    }
+                ],
+                "target_birth_date": 1381996958,
+                "content": "Qui a tu\u00e9 le plus aux USA cette ann\u00e9e ? RT @Samparlebien: #Lecture #Chiffres http://t.co/yqb1n3wkWv",
+                "mytype": "tweet",
+                "score": 8.787731,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458636631608524800/JgOf84V4_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Le_M_Poireau/status/390749683435327488",
+                "trackback_author_url": "http://twitter.com/le_m_poireau",
+                "highlight": "Qui a tu\u00e9 le plus aux USA cette ann\u00e9e ?#Lecture #Chiffres",
+                "topsy_author_url": "http://topsy.com/twitter/le_m_poireau",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/le_m_poireau/status/390749683435327488",
+                "trackback_author_name": "Le Monsieur Poireau",
+                "trackback_author_nick": "le_m_poireau"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1397386808,
+                "title": "Wattpad. Un r\u00e9seau social pour tous les amoureux de la #lecture et de l'\u00e9criture http://t.co/CfoOHy8ska",
+                "url": "http://twitter.com/annuweb2/status/455299392925626368",
+                "trackback_date": 1397386808,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/CfoOHy8ska",
+                        "display_url": "bit.ly/1hKVA5a",
+                        "expanded_url": "http://bit.ly/1hKVA5a",
+                        "topsy_expanded_url": "http://allweb2.com/2014/04/wattpad-le-reseau-social-des-ecrivains/"
+                    }
+                ],
+                "target_birth_date": 1397386808,
+                "content": "Wattpad. Un r\u00e9seau social pour tous les amoureux de la #lecture et de l'\u00e9criture http://t.co/CfoOHy8ska",
+                "mytype": "tweet",
+                "score": 8.78178,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/592968280/web2_normal.jpg",
+                "trackback_permalink": "http://twitter.com/annuweb2/status/455299392925626368",
+                "trackback_author_url": "http://twitter.com/annuweb2",
+                "highlight": "Wattpad. Un r\u00e9seau social pour tous les amoureux de la #lecture et de l'\u00e9criture",
+                "topsy_author_url": "http://topsy.com/twitter/annuweb2",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/annuweb2/status/455299392925626368",
+                "trackback_author_name": "Annuaire Web2",
+                "trackback_author_nick": "annuweb2"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1401127436,
+                "title": "Lecture:Backwards+Forwards | Princeton University http://t.co/TRlALKmYVu #lecture http://t.co/xt1mEyLgaK",
+                "url": "http://twitter.com/wacommunity/status/470988721521557505",
+                "trackback_date": 1401127436,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/TRlALKmYVu",
+                        "display_url": "worldarchitecture.org/authors-links/\u2026",
+                        "expanded_url": "http://www.worldarchitecture.org/authors-links/pnccv/lecture-backwardsforwards-princeton-university.html",
+                        "topsy_expanded_url": "http://www.worldarchitecture.org/authors-links/pnccv/lecture-backwardsforwards-princeton-university.html"
+                    },
+                    {
+                        "url": "http://t.co/xt1mEyLgaK",
+                        "display_url": "pic.twitter.com/xt1mEyLgaK",
+                        "expanded_url": "http://twitter.com/WACommunity/status/470988721521557505/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BolJvrGCEAE2hoT.jpg"
+                    }
+                ],
+                "target_birth_date": 1401127436,
+                "content": "Lecture:Backwards+Forwards | Princeton University http://t.co/TRlALKmYVu #lecture http://t.co/xt1mEyLgaK",
+                "mytype": "tweet",
+                "score": 8.780502,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1206437012/wa-logo60x30_normal.jpg",
+                "trackback_permalink": "http://twitter.com/WACommunity/status/470988721521557505",
+                "trackback_author_url": "http://twitter.com/wacommunity",
+                "highlight": "Lecture:Backwards+Forwards | Princeton University #lecture",
+                "topsy_author_url": "http://topsy.com/twitter/wacommunity",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wacommunity/status/470988721521557505",
+                "trackback_author_name": "World Architecture ",
+                "trackback_author_nick": "wacommunity"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1319571313,
+                "title": "Joseph Stiglitz' #lecture @UN: The Global Economic Situation and Sovereign Debt Crisis http://t.co/5zopCarV #video",
+                "url": "http://twitter.com/joestiglitz/status/128917546912055297",
+                "trackback_date": 1319577522,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/5zopCarV",
+                        "expanded_url": "http://is.gd/S72SAS",
+                        "display_url": "is.gd/S72SAS"
+                    }
+                ],
+                "target_birth_date": 1319571313,
+                "content": "RT @joestiglitz: Joseph Stiglitz' #lecture @UN: The Global Economic Situation and Sovereign Debt Crisis http://t.co/5zopCarV #video",
+                "mytype": "tweet",
+                "score": 8.780351,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1187999793/PICT0007_normal.JPG",
+                "trackback_permalink": "http://twitter.com/Loupo85/status/128943592214511616",
+                "trackback_author_url": "http://twitter.com/loupo85",
+                "highlight": "Joseph Stiglitz' #lecture @UN: The Global Economic Situation and Sovereign Debt Crisis",
+                "topsy_author_url": "http://topsy.com/twitter/loupo85",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/joestiglitz/status/128917546912055297",
+                "trackback_author_name": "Gilbert MAHE",
+                "trackback_author_nick": "loupo85"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1392404334,
+                "title": "Noam Chomsky: How to Ruin an Economy; Some Simple Ways (Feb 10, 2014) http://t.co/SI5q4VwpuX #video #lecture",
+                "url": "http://twitter.com/wonkmonk_/status/434401379327938562",
+                "trackback_date": 1392404334,
+                "trackback_total": 19,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/SI5q4VwpuX",
+                        "display_url": "bit.ly/1eWNdIe",
+                        "expanded_url": "http://bit.ly/1eWNdIe",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=6mhj-j0z-fk"
+                    }
+                ],
+                "target_birth_date": 1392404334,
+                "content": "Noam Chomsky: How to Ruin an Economy; Some Simple Ways (Feb 10, 2014) http://t.co/SI5q4VwpuX #video #lecture",
+                "mytype": "tweet",
+                "score": 8.779294,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000226407205/f3bba0f9000db38fc55ef07adb07ab89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/wonkmonk_/status/434401379327938562",
+                "trackback_author_url": "http://twitter.com/wonkmonk_",
+                "highlight": "Noam Chomsky: How to Ruin an Economy; Some Simple Ways (Feb 10, 2014) #video",
+                "topsy_author_url": "http://topsy.com/twitter/wonkmonk_",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wonkmonk_/status/434401379327938562",
+                "trackback_author_name": "wonkmonk",
+                "trackback_author_nick": "wonkmonk_"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1397675826,
+                "title": "Debt and Deficits in the Modern Economy: @StephanieKelton http://t.co/cFxdfMVSWA #video #lecture",
+                "url": "http://twitter.com/wonkmonk_/status/456511618134716417",
+                "trackback_date": 1397675826,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cFxdfMVSWA",
+                        "display_url": "bit.ly/1eKalLo",
+                        "expanded_url": "http://bit.ly/1eKalLo",
+                        "topsy_expanded_url": "https://www.youtube.com/watch?v=GkAKG6nkFM4&t=02m39s"
+                    }
+                ],
+                "target_birth_date": 1397675826,
+                "content": "Debt and Deficits in the Modern Economy: @StephanieKelton http://t.co/cFxdfMVSWA #video #lecture",
+                "mytype": "tweet",
+                "score": 8.776025,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000226407205/f3bba0f9000db38fc55ef07adb07ab89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/wonkmonk_/status/456511618134716417",
+                "trackback_author_url": "http://twitter.com/wonkmonk_",
+                "highlight": "Debt and Deficits in the Modern Economy: @StephanieKelton #video",
+                "topsy_author_url": "http://topsy.com/twitter/wonkmonk_",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wonkmonk_/status/456511618134716417",
+                "trackback_author_name": "wonkmonk",
+                "trackback_author_nick": "wonkmonk_"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 80,
+        "hidden": 0,
+        "total": 131197,
+        "page": 1
+    }
+}

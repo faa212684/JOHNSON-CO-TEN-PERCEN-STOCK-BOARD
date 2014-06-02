@@ -1,0 +1,296 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23lecture&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=450",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#lecture",
+            "window": "a",
+            "type": "tweet",
+            "offset": "450"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1393518556,
+                "title": "#Spritz, la #lecture #num\u00e9rique \u00e0 500 mots par minute http://t.co/iUUSfQnOVi",
+                "url": "http://twitter.com/actualitte/status/439074765660094464",
+                "trackback_date": 1393518556,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/iUUSfQnOVi",
+                        "display_url": "actualitte.com/t/hJdhjAv",
+                        "expanded_url": "http://www.actualitte.com/t/hJdhjAv",
+                        "topsy_expanded_url": "http://www.actualitte.com/usages/spritz-la-lecture-numerique-a-500-mots-par-minute-48472.htm"
+                    }
+                ],
+                "target_birth_date": 1393518556,
+                "content": "#Spritz, la #lecture #num\u00e9rique \u00e0 500 mots par minute http://t.co/iUUSfQnOVi",
+                "mytype": "tweet",
+                "score": 8.317752,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1529495439/Sans_titre_normal.png",
+                "trackback_permalink": "http://twitter.com/ActuaLitte/status/439074765660094464",
+                "trackback_author_url": "http://twitter.com/actualitte",
+                "highlight": "#Spritz, la #lecture #num\u00e9rique \u00e0 500 mots par minute",
+                "topsy_author_url": "http://topsy.com/twitter/actualitte",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/actualitte/status/439074765660094464",
+                "trackback_author_name": "ActuaLitt\u00e9",
+                "trackback_author_nick": "actualitte"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1393098019,
+                "title": "Lecture: Dinosaurs without Bones March 23. FREE #dinosaurs #lecture http://t.co/P4s8bVul2A",
+                "url": "http://twitter.com/fernbankmuseum/status/437310906381664256",
+                "trackback_date": 1393098019,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/P4s8bVul2A",
+                        "display_url": "bit.ly/1dDcxBE",
+                        "expanded_url": "http://bit.ly/1dDcxBE",
+                        "topsy_expanded_url": "http://www.fernbankmuseum.org/calendar-of-events/lecture-dinosaurs-without-bones/"
+                    }
+                ],
+                "target_birth_date": 1393098019,
+                "content": "Lecture: Dinosaurs without Bones March 23. FREE #dinosaurs #lecture http://t.co/P4s8bVul2A",
+                "mytype": "tweet",
+                "score": 8.3176775,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/188310120/fernbankR_colorTV_normal.jpg",
+                "trackback_permalink": "http://twitter.com/FernbankMuseum/status/437310906381664256",
+                "trackback_author_url": "http://twitter.com/fernbankmuseum",
+                "highlight": "Lecture: Dinosaurs without Bones March 23. FREE #dinosaurs #lecture",
+                "topsy_author_url": "http://topsy.com/twitter/fernbankmuseum",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/fernbankmuseum/status/437310906381664256",
+                "trackback_author_name": "Fernbank Museum",
+                "trackback_author_nick": "fernbankmuseum"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1292181418,
+                "title": "Petite mort sortie Rambuteau / \nVillard, Marc #lecture de dbourrion http://tinyurl.com/22swpt5",
+                "url": "http://twitter.com/bibliosurf/status/14036004327391233",
+                "trackback_date": 1292181418,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1292181418,
+                "content": "Petite mort sortie Rambuteau / \nVillard, Marc #lecture de dbourrion http://tinyurl.com/22swpt5",
+                "mytype": "tweet",
+                "score": 8.3171625,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1852509554/rubon3_normal.jpg",
+                "trackback_permalink": "http://twitter.com/bibliosurf/status/14036004327391233",
+                "trackback_author_url": "http://twitter.com/bibliosurf",
+                "highlight": "Petite mort sortie Rambuteau / Villard, Marc #lecture de dbourrion",
+                "topsy_author_url": "http://topsy.com/twitter/bibliosurf",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bibliosurf/status/14036004327391233",
+                "trackback_author_name": "Bibliosurf",
+                "trackback_author_nick": "bibliosurf"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1342737500,
+                "title": "Quoi de mieux que de se pr\u00e9lasser au soleil avec un beau livre! #Lecture #\u00c9t\u00e9 http://t.co/gylC9czm",
+                "url": "http://twitter.com/bouquineuzb/status/226083577996132352",
+                "trackback_date": 1342737500,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/gylC9czm",
+                        "display_url": "livresquementboulimique.com/2012/06/un-ete\u2026",
+                        "expanded_url": "http://www.livresquementboulimique.com/2012/06/un-ete-tout-en-lecture.html?spref=tw",
+                        "topsy_expanded_url": "http://www.livresquementboulimique.com/2012/06/un-ete-tout-en-lecture.html?spref=tw"
+                    }
+                ],
+                "target_birth_date": 1342737500,
+                "content": "Quoi de mieux que de se pr\u00e9lasser au soleil avec un beau livre! #Lecture #\u00c9t\u00e9 http://t.co/gylC9czm",
+                "mytype": "tweet",
+                "score": 8.317152,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461336930584518656/GM_EAMBh_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BouquineuzB/status/226083577996132352",
+                "trackback_author_url": "http://twitter.com/bouquineuzb",
+                "highlight": "Quoi de mieux que de se pr\u00e9lasser au soleil avec un beau livre! #Lecture #\u00c9t\u00e9",
+                "topsy_author_url": "http://topsy.com/twitter/bouquineuzb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bouquineuzb/status/226083577996132352",
+                "trackback_author_name": "BouquineuzBoulimique",
+                "trackback_author_nick": "bouquineuzb"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1399881851,
+                "title": "#semarang #magic #lecture book your seat now! I'm sharing a simple card flourishes that looks like a\u2026 http://t.co/PKKVxRUIls",
+                "url": "http://twitter.com/jibsky/status/465764359507935232",
+                "trackback_date": 1399881851,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PKKVxRUIls",
+                        "display_url": "instagram.com/p/n46-QUR06B/",
+                        "expanded_url": "http://instagram.com/p/n46-QUR06B/",
+                        "topsy_expanded_url": "http://instagram.com/p/n46-QUR06B/"
+                    }
+                ],
+                "target_birth_date": 1399881851,
+                "content": "#semarang #magic #lecture book your seat now! I'm sharing a simple card flourishes that looks like a\u2026 http://t.co/PKKVxRUIls",
+                "mytype": "tweet",
+                "score": 8.316641,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/438022611289636864/Pji4sAoO_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Jibsky/status/465764359507935232",
+                "trackback_author_url": "http://twitter.com/jibsky",
+                "highlight": "#semarang #magic #lecture book your seat now! I'm sharing a simple card flourishes that looks like a\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/jibsky",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jibsky/status/465764359507935232",
+                "trackback_author_name": "adrian martinus",
+                "trackback_author_nick": "jibsky"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1388172932,
+                "title": "La #lecture ouvre des horizons \u00e0 nos #enfants. http://t.co/ewe7caV1lf",
+                "url": "http://twitter.com/enfantsamour/status/416653591449833472",
+                "trackback_date": 1388172932,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ewe7caV1lf",
+                        "display_url": "pic.twitter.com/ewe7caV1lf",
+                        "expanded_url": "http://twitter.com/EnfantsAmour/status/416653591449833472/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BchAO-ECEAA5yo9.jpg"
+                    }
+                ],
+                "target_birth_date": 1388172932,
+                "content": "La #lecture ouvre des horizons \u00e0 nos #enfants. http://t.co/ewe7caV1lf",
+                "mytype": "tweet",
+                "score": 8.316334,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000118521547/6f478a74cb2c6d1aeae2334026898486_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/EnfantsAmour/status/416653591449833472",
+                "trackback_author_url": "http://twitter.com/enfantsamour",
+                "highlight": "La #lecture ouvre des horizons \u00e0 nos #enfants.",
+                "topsy_author_url": "http://topsy.com/twitter/enfantsamour",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/enfantsamour/status/416653591449833472",
+                "trackback_author_name": "Francine Grimard",
+                "trackback_author_nick": "enfantsamour"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1370737299,
+                "title": "#RBMA #Lecture: #QTip Talks #Dilla, #Kanye &amp; more http://t.co/2DEn6tWaba http://t.co/hw6jSeqdz3",
+                "url": "http://twitter.com/fusicology/status/343523247129772032",
+                "trackback_date": 1370737299,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2DEn6tWaba",
+                        "display_url": "fusicology.com/news",
+                        "expanded_url": "http://fusicology.com/news",
+                        "topsy_expanded_url": "http://fusicology.com/news/"
+                    },
+                    {
+                        "url": "http://t.co/hw6jSeqdz3",
+                        "display_url": "instagram.com/p/aUWEfdAWZd/",
+                        "expanded_url": "http://instagram.com/p/aUWEfdAWZd/",
+                        "topsy_expanded_url": "http://instagram.com/p/aUWEfdAWZd/"
+                    }
+                ],
+                "target_birth_date": 1370737299,
+                "content": "#RBMA #Lecture: #QTip Talks #Dilla, #Kanye &amp; more http://t.co/2DEn6tWaba http://t.co/hw6jSeqdz3",
+                "mytype": "tweet",
+                "score": 8.316203,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/440028830590201856/Nn4ItjJM_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/fusicology/status/343523247129772032",
+                "trackback_author_url": "http://twitter.com/fusicology",
+                "highlight": "#RBMA #Lecture: #QTip Talks #Dilla, #Kanye &amp; more",
+                "topsy_author_url": "http://topsy.com/twitter/fusicology",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/fusicology/status/343523247129772032",
+                "trackback_author_name": "Fusicology",
+                "trackback_author_nick": "fusicology"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1298698061,
+                "title": "In the first series of lectures, held from September through the end of last year, NAC stu...  http://reduce.li/j895bo #lecture",
+                "url": "http://twitter.com/blogsoftheworld/status/41368784325316608",
+                "trackback_date": 1298698061,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1298698061,
+                "content": "In the first series of lectures, held from September through the end of last year, NAC stu...  http://reduce.li/j895bo #lecture",
+                "mytype": "tweet",
+                "score": 8.3155365,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/450115169/blogs_of_the_world_normal.jpg",
+                "trackback_permalink": "http://twitter.com/blogsoftheworld/status/41368784325316608",
+                "trackback_author_url": "http://twitter.com/blogsoftheworld",
+                "highlight": "In the first series of lectures, held from September through the end of last year, NAC stu",
+                "topsy_author_url": "http://topsy.com/twitter/blogsoftheworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/blogsoftheworld/status/41368784325316608",
+                "trackback_author_name": "blogs of the world",
+                "trackback_author_nick": "blogsoftheworld"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1334160120,
+                "title": "[Nouvel article] Je relis, je revis http://t.co/be411TM1 #lecture #blog",
+                "url": "http://twitter.com/onlylili/status/190107440895897601",
+                "trackback_date": 1334160120,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/be411TM1",
+                        "display_url": "bit.ly/HBoBB9",
+                        "expanded_url": "http://bit.ly/HBoBB9",
+                        "topsy_expanded_url": "http://onlylili.com/2012/04/je-relis-je-revis/"
+                    }
+                ],
+                "target_birth_date": 1334160120,
+                "content": "[Nouvel article] Je relis, je revis http://t.co/be411TM1 #lecture #blog",
+                "mytype": "tweet",
+                "score": 8.315133,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458606914939543552/OI-FY6Ox_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OnlyLili/status/190107440895897601",
+                "trackback_author_url": "http://twitter.com/onlylili",
+                "highlight": "[Nouvel article] Je relis, je revis #lecture",
+                "topsy_author_url": "http://topsy.com/twitter/onlylili",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/onlylili/status/190107440895897601",
+                "trackback_author_name": "C\u00e9line A.",
+                "trackback_author_nick": "onlylili"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1396564185,
+                "title": "L'aventure #lecture sur http://t.co/wxodFl8zOH !",
+                "url": "http://twitter.com/forum_ecolo/status/451849059926417408",
+                "trackback_date": 1396564185,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/wxodFl8zOH",
+                        "display_url": "Aksebo.com",
+                        "expanded_url": "http://Aksebo.com",
+                        "topsy_expanded_url": "http://www.aksebo.com/"
+                    }
+                ],
+                "target_birth_date": 1396564185,
+                "content": "L'aventure #lecture sur http://t.co/wxodFl8zOH !",
+                "mytype": "tweet",
+                "score": 8.314048,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/532657345/forum_ecolo_avatar_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Forum_Ecolo/status/451849059926417408",
+                "trackback_author_url": "http://twitter.com/forum_ecolo",
+                "highlight": "L'aventure #lecture sur !",
+                "topsy_author_url": "http://topsy.com/twitter/forum_ecolo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/forum_ecolo/status/451849059926417408",
+                "trackback_author_name": "Forum Ecolo",
+                "trackback_author_nick": "forum_ecolo"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 450,
+        "hidden": 0,
+        "total": 131327,
+        "page": 1
+    }
+}

@@ -1,0 +1,280 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23tease&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=120",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#tease",
+            "window": "a",
+            "type": "tweet",
+            "offset": "120"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 16,
+                "firstpost_date": 1341840827,
+                "title": "Good morning everyone! Sippin on some coffee and looking over my new pictures on http://t.co/DIrcMyUX! #Tease #Booty http://t.co/gOvnhXoM",
+                "url": "http://twitter.com/missivysnow/status/222322655678832640",
+                "trackback_date": 1341840827,
+                "trackback_total": 28,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DIrcMyUX",
+                        "display_url": "IvySnow.com",
+                        "expanded_url": "http://IvySnow.com",
+                        "topsy_expanded_url": "http://IvySnow.com"
+                    },
+                    {
+                        "url": "http://t.co/gOvnhXoM",
+                        "expanded_url": "http://twitter.com/MissIvySnow/status/222322655678832640/photo/1",
+                        "display_url": "pic.twitter.com/gOvnhXoM"
+                    }
+                ],
+                "target_birth_date": 1341840827,
+                "content": "Good morning everyone! Sippin on some coffee and looking over my new pictures on http://t.co/DIrcMyUX! #Tease #Booty http://t.co/gOvnhXoM",
+                "mytype": "tweet",
+                "score": 9.315734,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/436562239655387136/cJiFVFVv_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MissIvySnow/status/222322655678832640",
+                "trackback_author_url": "http://twitter.com/missivyjean",
+                "highlight": "Good morning everyone! Sippin on some coffee and looking over my new pictures on #Tease #Booty",
+                "topsy_author_url": "http://topsy.com/twitter/missivyjean",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/missivysnow/status/222322655678832640",
+                "trackback_author_name": "Ivy Jean",
+                "trackback_author_nick": "missivyjean"
+            },
+            {
+                "hits": 25,
+                "firstpost_date": 1394389821,
+                "title": "Het wachten is voorbij. Morgen hoor je de eerste namen voor @pukkelpop op de radio. #tease http://t.co/y35rPks8jD",
+                "url": "http://twitter.com/stubru/status/442729117419462657",
+                "trackback_date": 1394389821,
+                "trackback_total": 26,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/y35rPks8jD",
+                        "display_url": "pic.twitter.com/y35rPks8jD",
+                        "expanded_url": "http://twitter.com/stubru/status/442729117419462657/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BiTjyVaCYAI0Rd6.jpg"
+                    }
+                ],
+                "target_birth_date": 1394389821,
+                "content": "Het wachten is voorbij. Morgen hoor je de eerste namen voor @pukkelpop op de radio. #tease http://t.co/y35rPks8jD",
+                "mytype": "tweet",
+                "score": 9.312624,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000646838838/a3c37072c67c43c8fb4c4393379698d1_normal.png",
+                "trackback_permalink": "http://twitter.com/stubru/status/442729117419462657",
+                "trackback_author_url": "http://twitter.com/stubru",
+                "highlight": "Het wachten is voorbij. Morgen hoor je de eerste namen voor @pukkelpop op de radio. #tease",
+                "topsy_author_url": "http://topsy.com/twitter/stubru",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/stubru/status/442729117419462657",
+                "trackback_author_name": "Studio Brussel",
+                "trackback_author_nick": "stubru"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1352521722,
+                "title": "Back of my dress today I thought was so sexy #lace #tease http://t.co/9Y3v8YEs",
+                "url": "http://twitter.com/alexisford/status/267121582797893633",
+                "trackback_date": 1352521722,
+                "trackback_total": 13,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9Y3v8YEs",
+                        "display_url": "instagr.am/p/R1eqCMFsu-/",
+                        "expanded_url": "http://instagr.am/p/R1eqCMFsu-/",
+                        "topsy_expanded_url": "http://instagram.com/p/R1eqCMFsu-/"
+                    }
+                ],
+                "target_birth_date": 1352521722,
+                "content": "Back of my dress today I thought was so sexy #lace #tease http://t.co/9Y3v8YEs",
+                "mytype": "tweet",
+                "score": 9.309585,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453737765629222913/TU526TYO_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/alexisford/status/267121582797893633",
+                "trackback_author_url": "http://twitter.com/alexisford",
+                "highlight": "Back of my dress today I thought was so sexy #lace #tease",
+                "topsy_author_url": "http://topsy.com/twitter/alexisford",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/alexisford/status/267121582797893633",
+                "trackback_author_name": "Alexis Ford",
+                "trackback_author_nick": "alexisford"
+            },
+            {
+                "hits": 120,
+                "firstpost_date": 1329289590,
+                "title": "just found some more shit from when i was like 14 that only i have. #tease",
+                "url": "http://twitter.com/earlxsweat/status/169678958596595712",
+                "trackback_date": 1329289590,
+                "trackback_total": 196,
+                "url_expansions": [],
+                "target_birth_date": 1329289590,
+                "content": "just found some more shit from when i was like 14 that only i have. #tease",
+                "mytype": "tweet",
+                "score": 9.307615,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462333841646968832/UBWj0OA1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/earlxsweat/status/169678958596595712",
+                "trackback_author_url": "http://twitter.com/earlxsweat",
+                "highlight": "just found some more shit from when i was like 14 that only i have.",
+                "topsy_author_url": "http://topsy.com/twitter/earlxsweat",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/earlxsweat/status/169678958596595712",
+                "trackback_author_name": "EARL",
+                "trackback_author_nick": "earlxsweat"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1366224161,
+                "title": "Headin home from the studio. That tune we recorded 2days gonna be stuck in my head ALL night!! But what could it be? #tease MFx",
+                "url": "http://twitter.com/the_overtones/status/324593775102013440",
+                "trackback_date": 1366224161,
+                "trackback_total": 41,
+                "url_expansions": [],
+                "target_birth_date": 1366224161,
+                "content": "Headin home from the studio. That tune we recorded 2days gonna be stuck in my head ALL night!! But what could it be? #tease MFx",
+                "mytype": "tweet",
+                "score": 9.3010845,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000447683567/e0cd7e8a5a5eab85ae79c67ad9c201f2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/the_overtones/status/324593775102013440",
+                "trackback_author_url": "http://twitter.com/the_overtones",
+                "highlight": "Headin home from the studio. That tune we recorded 2days gonna be stuck in my head ALL night!! But what could it be? #tease MFx",
+                "topsy_author_url": "http://topsy.com/twitter/the_overtones",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/the_overtones/status/324593775102013440",
+                "trackback_author_name": "The Overtones",
+                "trackback_author_nick": "the_overtones"
+            },
+            {
+                "hits": 74,
+                "firstpost_date": 1365885783,
+                "title": "If the 10th hole in The Masters was a women she'd be some c*** #tease",
+                "url": "http://twitter.com/aidancoleman/status/323174513988730880",
+                "trackback_date": 1365885783,
+                "trackback_total": 98,
+                "url_expansions": [],
+                "target_birth_date": 1365885783,
+                "content": "If the 10th hole in The Masters was a women she'd be some c*** #tease",
+                "mytype": "tweet",
+                "score": 9.298373,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463437888907407360/VWliQ2VD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AidanColeman/status/323174513988730880",
+                "trackback_author_url": "http://twitter.com/aidancoleman",
+                "highlight": "If the 10th hole in The Masters was a women she'd be some c***",
+                "topsy_author_url": "http://topsy.com/twitter/aidancoleman",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/aidancoleman/status/323174513988730880",
+                "trackback_author_name": "Aidan Coleman",
+                "trackback_author_nick": "aidancoleman"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1362570151,
+                "title": "OMB, how he just leaves the shirt there. #seductive #tease #imhorny http://t.co/rcWQI8F0tQ",
+                "url": "http://twitter.com/biebersex/status/309267745910964224",
+                "trackback_date": 1362570151,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/rcWQI8F0tQ",
+                        "expanded_url": "http://j.mp/14swan4",
+                        "display_url": "j.mp/14swan4"
+                    }
+                ],
+                "target_birth_date": 1362570151,
+                "content": "OMB, how he just leaves the shirt there. #seductive #tease #imhorny http://t.co/rcWQI8F0tQ",
+                "mytype": "tweet",
+                "score": 9.298006,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471771669535920128/l7hJBqMF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BieberSex/status/309267745910964224",
+                "trackback_author_url": "http://twitter.com/biebersex",
+                "highlight": "OMB, how he just leaves the shirt there. #seductive #tease #imhorny",
+                "topsy_author_url": "http://topsy.com/twitter/biebersex",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/biebersex/status/309267745910964224",
+                "trackback_author_name": "BieberSex",
+                "trackback_author_nick": "biebersex"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1379910563,
+                "title": "Second Thing: #Friends don't #Tease #Friends who are #Sexually #Frustrated #MEANIE \ud83d\ude33\u263a\ud83d\udd2b",
+                "url": "http://twitter.com/pmarizzle/status/381998705387139072",
+                "trackback_date": 1379910563,
+                "trackback_total": 14,
+                "url_expansions": [],
+                "target_birth_date": 1379910563,
+                "content": "Second Thing: #Friends don't #Tease #Friends who are #Sexually #Frustrated #MEANIE \ud83d\ude33\u263a\ud83d\udd2b",
+                "mytype": "tweet",
+                "score": 9.291199,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/465012462316564480/fcB_J0Ec_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PMarizzle/status/381998705387139072",
+                "trackback_author_url": "http://twitter.com/pmarizzle",
+                "highlight": "Second Thing: #Friends don't #Tease #Friends who are #Sexually #Frustrated #MEANIE \ud83d\ude33\u263a\ud83d\udd2b",
+                "topsy_author_url": "http://topsy.com/twitter/pmarizzle",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/pmarizzle/status/381998705387139072",
+                "trackback_author_name": "Phoenix Marie",
+                "trackback_author_nick": "pmarizzle"
+            },
+            {
+                "hits": 141,
+                "firstpost_date": 1375464091,
+                "title": "A #tease snippet of the #Castle writers' room white board: http://t.co/P5NzhS2Blr",
+                "url": "http://twitter.com/daracreasey/status/363348852683714560",
+                "trackback_date": 1375464091,
+                "trackback_total": 230,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/P5NzhS2Blr",
+                        "display_url": "pic.twitter.com/P5NzhS2Blr",
+                        "expanded_url": "http://twitter.com/DaraCreasey/status/363348852683714560/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BQrf2z4CMAAjPWw.jpg"
+                    }
+                ],
+                "target_birth_date": 1375464091,
+                "content": "A #tease snippet of the #Castle writers' room white board: http://t.co/P5NzhS2Blr",
+                "mytype": "tweet",
+                "score": 9.287288,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2454459319/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/DaraCreasey/status/363348852683714560",
+                "trackback_author_url": "http://twitter.com/daracreasey",
+                "highlight": "A #tease snippet of the #Castle writers' room white board:",
+                "topsy_author_url": "http://topsy.com/twitter/daracreasey",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/daracreasey/status/363348852683714560",
+                "trackback_author_name": "Dara Creasey",
+                "trackback_author_nick": "daracreasey"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1347134840,
+                "title": "#GOONLIFE \"Let It All Out\"  http://t.co/RMLBMKpC #mixtape #unreleased #tease",
+                "url": "http://twitter.com/shontelle_layne/status/244527360978862080",
+                "trackback_date": 1347134840,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RMLBMKpC",
+                        "display_url": "shontelledaily.com/english/?p=2935",
+                        "expanded_url": "http://shontelledaily.com/english/?p=2935",
+                        "topsy_expanded_url": "http://shontelledaily.com/english/?p=2935"
+                    }
+                ],
+                "target_birth_date": 1347134840,
+                "content": "#GOONLIFE \"Let It All Out\"  http://t.co/RMLBMKpC #mixtape #unreleased #tease",
+                "mytype": "tweet",
+                "score": 9.285372,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2718512226/c0b0621eaa3cd605836e99fdd3c63c05_normal.png",
+                "trackback_permalink": "http://twitter.com/Shontelle_Layne/status/244527360978862080",
+                "trackback_author_url": "http://twitter.com/shontelle_layne",
+                "highlight": "#GOONLIFE \"Let It All Out\" #mixtape #unreleased",
+                "topsy_author_url": "http://topsy.com/twitter/shontelle_layne",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/shontelle_layne/status/244527360978862080",
+                "trackback_author_name": "Shontelle Layne",
+                "trackback_author_nick": "shontelle_layne"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 120,
+        "hidden": 0,
+        "total": 370303,
+        "page": 1
+    }
+}

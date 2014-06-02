@@ -1,0 +1,296 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23ramp&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=320",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#ramp",
+            "window": "a",
+            "type": "tweet",
+            "offset": "320"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1337547912,
+                "title": "#EMCworld\u2019s Social Media Magic 8-Ball http://t.co/SnjXaMhX #BuzzTalk #RAMP",
+                "url": "http://twitter.com/kemipa/status/204316871313473536",
+                "trackback_date": 1337547912,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/SnjXaMhX",
+                        "display_url": "kmp.bz/Kwy5C0",
+                        "expanded_url": "http://kmp.bz/Kwy5C0",
+                        "topsy_expanded_url": "http://listencompletely.com/2012/05/emc-worlds-social-media-magic-8-ball/"
+                    }
+                ],
+                "target_birth_date": 1337547912,
+                "content": "#EMCworld\u2019s Social Media Magic 8-Ball http://t.co/SnjXaMhX #BuzzTalk #RAMP",
+                "mytype": "tweet",
+                "score": 8.101523,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1691667749/KP-headshot_normal.png",
+                "trackback_permalink": "http://twitter.com/kemipa/status/204316871313473536",
+                "trackback_author_url": "http://twitter.com/keithpaul",
+                "highlight": "#EMCworld\u2019s Social Media Magic 8-Ball #BuzzTalk",
+                "topsy_author_url": "http://topsy.com/twitter/keithpaul",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kemipa/status/204316871313473536",
+                "trackback_author_name": "Keith Paul",
+                "trackback_author_nick": "keithpaul"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1395083034,
+                "title": "I want to try this #skateboard #ramp  http://t.co/4sZ0Lhkysn",
+                "url": "http://twitter.com/poissondidier/status/445636662060924928",
+                "trackback_date": 1395083034,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4sZ0Lhkysn",
+                        "display_url": "fubiz.net/2014/03/14/flo\u2026",
+                        "expanded_url": "http://www.fubiz.net/2014/03/14/floating-skate-ramp-in-lake-tahoe/",
+                        "topsy_expanded_url": "http://www.fubiz.net/2014/03/14/floating-skate-ramp-in-lake-tahoe/"
+                    }
+                ],
+                "target_birth_date": 1395083034,
+                "content": "I want to try this #skateboard #ramp  http://t.co/4sZ0Lhkysn",
+                "mytype": "tweet",
+                "score": 8.101151,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/432409538776825856/JDutuMQ2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PoissonDidier/status/445636662060924928",
+                "trackback_author_url": "http://twitter.com/poissondidier",
+                "highlight": "I want to try this #skateboard #ramp",
+                "topsy_author_url": "http://topsy.com/twitter/poissondidier",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/poissondidier/status/445636662060924928",
+                "trackback_author_name": "Didier Poisson",
+                "trackback_author_nick": "poissondidier"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1359114759,
+                "title": "Bijzondere afleveringen van Trugkieke met kleurenbeelden op Omroep Zeeland over de watersnoodramp: http://t.co/Cj4n7gdt #trugkieke #ramp",
+                "url": "http://twitter.com/omroepzeeland/status/294774783315410945",
+                "trackback_date": 1359114759,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Cj4n7gdt",
+                        "display_url": "omroepzeeland.nl/nieuws/2013-01\u2026",
+                        "expanded_url": "http://www.omroepzeeland.nl/nieuws/2013-01-25/353455/bijzondere-afleveringen-trugkieke-over-watersnoodramp#.UQJx33f4z0o",
+                        "topsy_expanded_url": "http://www.omroepzeeland.nl/node/353455"
+                    }
+                ],
+                "target_birth_date": 1359114759,
+                "content": "Bijzondere afleveringen van Trugkieke met kleurenbeelden op Omroep Zeeland over de watersnoodramp: http://t.co/Cj4n7gdt #trugkieke #ramp",
+                "mytype": "tweet",
+                "score": 8.101124,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/430997005632946176/oOlDFM5s_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/omroepzeeland/status/294774783315410945",
+                "trackback_author_url": "http://twitter.com/omroepzeeland",
+                "highlight": "Bijzondere afleveringen van Trugkieke met kleurenbeelden op Omroep Zeeland over de watersnoodramp: #trugkieke",
+                "topsy_author_url": "http://topsy.com/twitter/omroepzeeland",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/omroepzeeland/status/294774783315410945",
+                "trackback_author_name": "Omroep Zeeland",
+                "trackback_author_nick": "omroepzeeland"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1272458329,
+                "title": "Ik heb zin in cola, niet in huis en geen geld #ramp",
+                "url": "",
+                "trackback_date": 1272458329,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1272458329,
+                "content": "Ik heb zin in cola, niet in huis en geen geld #ramp",
+                "mytype": "tweet",
+                "score": 8.099927,
+                "topsy_author_img": "http://a1.twimg.com/profile_images/1637575295/kellyy_normal.jpg",
+                "trackback_permalink": "",
+                "trackback_author_url": "http://twitter.com/qilsep",
+                "highlight": "Ik heb zin in cola, niet in huis en geen geld",
+                "topsy_author_url": "http://topsy.com/twitter/qilsep",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=",
+                "trackback_author_name": "Kelly ",
+                "trackback_author_nick": "qilsep"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1367423026,
+                "title": "In the works #ramp pesto #rampseason http://t.co/7sGxQrCUKy",
+                "url": "http://twitter.com/foodculturist/status/329622181900328960",
+                "trackback_date": 1367423026,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7sGxQrCUKy",
+                        "display_url": "instagram.com/p/YxkkDKoGvF/",
+                        "expanded_url": "http://instagram.com/p/YxkkDKoGvF/",
+                        "topsy_expanded_url": "http://instagram.com/p/YxkkDKoGvF/"
+                    }
+                ],
+                "target_birth_date": 1367423026,
+                "content": "In the works #ramp pesto #rampseason http://t.co/7sGxQrCUKy",
+                "mytype": "tweet",
+                "score": 8.099862,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2631412691/7ad3c9ed6d800e26c5aa3877a4e95e94_normal.png",
+                "trackback_permalink": "http://twitter.com/foodculturist/status/329622181900328960",
+                "trackback_author_url": "http://twitter.com/foodculturist",
+                "highlight": "In the works #ramp pesto #rampseason",
+                "topsy_author_url": "http://topsy.com/twitter/foodculturist",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/foodculturist/status/329622181900328960",
+                "trackback_author_name": "Nicole A. Taylor",
+                "trackback_author_nick": "foodculturist"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1382320571,
+                "title": "Nope, I'm not that brave. #wheelchair #ramp #accident http://t.co/0j2g1tOESa",
+                "url": "http://twitter.com/kwboogieman/status/392107014052405248",
+                "trackback_date": 1382320571,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/0j2g1tOESa",
+                        "display_url": "instagram.com/p/ftjbymDxOd/",
+                        "expanded_url": "http://instagram.com/p/ftjbymDxOd/",
+                        "topsy_expanded_url": "http://instagram.com/p/ftjbymDxOd/"
+                    }
+                ],
+                "target_birth_date": 1382320571,
+                "content": "Nope, I'm not that brave. #wheelchair #ramp #accident http://t.co/0j2g1tOESa",
+                "mytype": "tweet",
+                "score": 8.098633,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1778752442/Kenny_at_work_normal.jpg",
+                "trackback_permalink": "http://twitter.com/kwboogieman/status/392107014052405248",
+                "trackback_author_url": "http://twitter.com/kwboogieman",
+                "highlight": "Nope, I'm not that brave. #wheelchair #ramp #accident",
+                "topsy_author_url": "http://topsy.com/twitter/kwboogieman",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kwboogieman/status/392107014052405248",
+                "trackback_author_name": "Kenneth Williams",
+                "trackback_author_nick": "kwboogieman"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1386367452,
+                "title": "#CargoPal CP607 4inch #Ramp #Risers 1pr CP607 only for #Race #Trailers Etc #DRAG #DragRace CargoPal EMI-TECH  http://t.co/a9VAUWQby8 Iebm",
+                "url": "http://twitter.com/marylolagouge/status/409080860357722112",
+                "trackback_date": 1386367452,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/a9VAUWQby8",
+                        "display_url": "is.gd/tyynNH",
+                        "expanded_url": "http://is.gd/tyynNH",
+                        "topsy_expanded_url": "http://www.onlineauction.com/auction/1684193/"
+                    }
+                ],
+                "target_birth_date": 1386367452,
+                "content": "#CargoPal CP607 4inch #Ramp #Risers 1pr CP607 only for #Race #Trailers Etc #DRAG #DragRace CargoPal EMI-TECH  http://t.co/a9VAUWQby8 Iebm",
+                "mytype": "tweet",
+                "score": 8.097721,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1281607697/FacebookLogotwitterwMoreBorder_normal.jpg",
+                "trackback_permalink": "http://twitter.com/marylolagouge/status/409080860357722112",
+                "trackback_author_url": "http://twitter.com/marylolagouge",
+                "highlight": "#CargoPal CP607 4inch #Ramp #Risers 1pr CP607 only for #Race #Trailers Etc #DRAG #DragRace CargoPal EMI-TECH Iebm",
+                "topsy_author_url": "http://topsy.com/twitter/marylolagouge",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/marylolagouge/status/409080860357722112",
+                "trackback_author_name": "MaryLola Gouge",
+                "trackback_author_nick": "marylolagouge"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1392215880,
+                "title": "shellings lastnight\n#Ramp #Ruff a gwan wid a bag a tings!!\n\nhttps://t.co/4O7de9fgtl http://t.co/alqRLG04w1",
+                "url": "http://twitter.com/dangel_music/status/433610948889542656",
+                "trackback_date": 1392215880,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/4O7de9fgtl",
+                        "display_url": "soundcloud.com/dangelmusic/da\u2026",
+                        "expanded_url": "https://soundcloud.com/dangelmusic/dangel-ramp-ruff",
+                        "topsy_expanded_url": "http://soundcloud.com/dangelmusic/dangel-ramp-ruff"
+                    },
+                    {
+                        "url": "http://t.co/alqRLG04w1",
+                        "display_url": "fb.me/2O9fbWr9R",
+                        "expanded_url": "http://fb.me/2O9fbWr9R",
+                        "topsy_expanded_url": "http://soundcloud.com/dangelmusic/dangel-ramp-ruff"
+                    }
+                ],
+                "target_birth_date": 1392215880,
+                "content": "shellings lastnight\n#Ramp #Ruff a gwan wid a bag a tings!!\n\nhttps://t.co/4O7de9fgtl http://t.co/alqRLG04w1",
+                "mytype": "tweet",
+                "score": 8.097043,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000850485428/ab0c821acd41020d9abd23b2c184cc3c_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/dangel_music/status/433610948889542656",
+                "trackback_author_url": "http://twitter.com/dangel_music",
+                "highlight": "shellings lastnight #Ramp #Ruff a gwan wid a bag a tings!!",
+                "topsy_author_url": "http://topsy.com/twitter/dangel_music",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dangel_music/status/433610948889542656",
+                "trackback_author_name": "IG: Dangel_Music",
+                "trackback_author_nick": "dangel_music"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1384186513,
+                "title": "#Zeeuwen leven mee met #ramp #Filipijnen http://t.co/9EV9Cwqrtp",
+                "url": "http://twitter.com/omroepzeeland/status/399933341060698112",
+                "trackback_date": 1384186513,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9EV9Cwqrtp",
+                        "display_url": "tinyurl.com/o58zy2a",
+                        "expanded_url": "http://tinyurl.com/o58zy2a",
+                        "topsy_expanded_url": "http://www.omroepzeeland.nl/nieuws/2013-11-11/565763/zeeuwen-leven-mee-met-ramp-filipijnen"
+                    }
+                ],
+                "target_birth_date": 1384186513,
+                "content": "#Zeeuwen leven mee met #ramp #Filipijnen http://t.co/9EV9Cwqrtp",
+                "mytype": "tweet",
+                "score": 8.096284,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/430997005632946176/oOlDFM5s_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/omroepzeeland/status/399933341060698112",
+                "trackback_author_url": "http://twitter.com/omroepzeeland",
+                "highlight": "#Zeeuwen leven mee met #ramp #Filipijnen",
+                "topsy_author_url": "http://topsy.com/twitter/omroepzeeland",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/omroepzeeland/status/399933341060698112",
+                "trackback_author_name": "Omroep Zeeland",
+                "trackback_author_nick": "omroepzeeland"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1393284524,
+                "title": "#Ramp Up Your Web Marketing Through These Great Tips  #article 139542 CanuckClicks",
+                "url": "http://twitter.com/canuckclicks/status/438093166449659904",
+                "trackback_date": 1393284524,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1393284524,
+                "content": "#Ramp Up Your Web Marketing Through These Great Tips  #article 139542 CanuckClicks",
+                "mytype": "tweet",
+                "score": 8.095628,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1637826834/Canuckclicks_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Canuckclicks/status/438093166449659904",
+                "trackback_author_url": "http://twitter.com/canuckclicks",
+                "highlight": "#Ramp Up Your Web Marketing Through These Great Tips #article 139542 CanuckClicks",
+                "topsy_author_url": "http://topsy.com/twitter/canuckclicks",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/canuckclicks/status/438093166449659904",
+                "trackback_author_name": "CanuckClicks",
+                "trackback_author_nick": "canuckclicks"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 320,
+        "hidden": 0,
+        "total": 48086,
+        "page": 1
+    }
+}

@@ -1,0 +1,303 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23gaga&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=50",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#gaga",
+            "window": "a",
+            "type": "tweet",
+            "offset": "50"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 27,
+                "firstpost_date": 1339435594,
+                "title": "VIDEO: Lady #Gaga se recupera despu\u00e9s de sufrir un golpe en la cabeza durante pleno concierto en #NuevaZelanda http://t.co/S1lIrJTf",
+                "url": "http://twitter.com/cnnee/status/212234383208353794",
+                "trackback_date": 1339435594,
+                "trackback_total": 36,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/S1lIrJTf",
+                        "display_url": "on.cnn.com/Myv0Nh",
+                        "expanded_url": "http://on.cnn.com/Myv0Nh",
+                        "topsy_expanded_url": "http://on.cnn.com/Myv0Nh"
+                    }
+                ],
+                "target_birth_date": 1339435594,
+                "content": "VIDEO: Lady #Gaga se recupera despu\u00e9s de sufrir un golpe en la cabeza durante pleno concierto en #NuevaZelanda http://t.co/S1lIrJTf",
+                "mytype": "tweet",
+                "score": 9.96287,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3376166263/498ffb4e5fa43b2a9fffd218f3ca0abe_normal.png",
+                "trackback_permalink": "http://twitter.com/CNNEE/status/212234383208353794",
+                "trackback_author_url": "http://twitter.com/cnnee",
+                "highlight": "VIDEO: Lady #Gaga se recupera despu\u00e9s de sufrir un golpe en la cabeza durante pleno concierto en #NuevaZelanda",
+                "topsy_author_url": "http://topsy.com/twitter/cnnee",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cnnee/status/212234383208353794",
+                "trackback_author_name": "CNN en Espa\u00f1ol",
+                "trackback_author_nick": "cnnee"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1272989810,
+                "title": "@RobertsEmma Yes! Little Monster paws up! #GaGa",
+                "url": "http://twitter.com/perezhilton/status/13372027127",
+                "trackback_date": 1272989810,
+                "trackback_total": 7,
+                "url_expansions": [],
+                "target_birth_date": 1272989810,
+                "content": "@RobertsEmma Yes! Little Monster paws up! #GaGa",
+                "mytype": "tweet",
+                "score": 9.939947,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000211326403/30c8c4f35dc06205358b9903ae6d7490_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PerezHilton/status/13372027127",
+                "trackback_author_url": "http://twitter.com/perezhilton",
+                "highlight": " Yes! Little Monster paws up!",
+                "topsy_author_url": "http://topsy.com/twitter/perezhilton",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/perezhilton/status/13372027127",
+                "trackback_author_name": "Perez Hilton",
+                "trackback_author_nick": "perezhilton"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1337534182,
+                "title": "#Gaga isn't the only one who can pull of this crazy look. See which Gaga outfit you are with this quiz. http://t.co/3J4DB6Gm sp",
+                "url": "http://twitter.com/xstrology/status/204259281959272448",
+                "trackback_date": 1337534182,
+                "trackback_total": 19,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3J4DB6Gm",
+                        "display_url": "bit.ly/Ke1AoD",
+                        "expanded_url": "http://bit.ly/Ke1AoD",
+                        "topsy_expanded_url": "http://www.chacha.com/topic/lady-gaga-style/quiz/391/which-lady-gaga-outfit-are-you?aff_partner=DTAffiliate&aid=CD10136&bid=413&ibid=412&subid1=XSTROLOGY"
+                    }
+                ],
+                "target_birth_date": 1337534182,
+                "content": "#Gaga isn't the only one who can pull of this crazy look. See which Gaga outfit you are with this quiz. http://t.co/3J4DB6Gm sp",
+                "mytype": "tweet",
+                "score": 9.939262,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000408137712/5aa70b8d86a10009856c5a835110853f_normal.png",
+                "trackback_permalink": "http://twitter.com/XSTROLOGY/status/204259281959272448",
+                "trackback_author_url": "http://twitter.com/xstrology",
+                "highlight": "#Gaga isn't the only one who can pull of this crazy look. See which Gaga outfit you are with this quiz. sp",
+                "topsy_author_url": "http://topsy.com/twitter/xstrology",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/xstrology/status/204259281959272448",
+                "trackback_author_name": "Xstrology\u2122",
+                "trackback_author_nick": "xstrology"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1337706330,
+                "title": "Autorizan segundo concierto de Lady #Gaga en #Filipinas http://t.co/Myn0B9sN",
+                "url": "http://twitter.com/el_universal_mx/status/204981321674665984",
+                "trackback_date": 1337706330,
+                "trackback_total": 13,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Myn0B9sN",
+                        "display_url": "eluni.mx/JzCqyA",
+                        "expanded_url": "http://eluni.mx/JzCqyA",
+                        "topsy_expanded_url": "http://www.eluniversal.com.mx/notas/848742.html"
+                    }
+                ],
+                "target_birth_date": 1337706330,
+                "content": "Autorizan segundo concierto de Lady #Gaga en #Filipinas http://t.co/Myn0B9sN",
+                "mytype": "tweet",
+                "score": 9.937026,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000631283952/a2cdffea07354a69571a831436b22517_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/El_Universal_Mx/status/204981321674665984",
+                "trackback_author_url": "http://twitter.com/el_universal_mx",
+                "highlight": "Autorizan segundo concierto de Lady #Gaga en #Filipinas",
+                "topsy_author_url": "http://topsy.com/twitter/el_universal_mx",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/el_universal_mx/status/204981321674665984",
+                "trackback_author_name": "El Universal",
+                "trackback_author_nick": "el_universal_mx"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1334076611,
+                "title": "Lady #Gaga anuncia nueva gira por #Europa #littlemonsters http://t.co/x1G329Wa",
+                "url": "http://twitter.com/el_universal_mx/status/189757178234675200",
+                "trackback_date": 1334076611,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/x1G329Wa",
+                        "display_url": "bit.ly/IAN0s1",
+                        "expanded_url": "http://bit.ly/IAN0s1",
+                        "topsy_expanded_url": "http://www.eluniversal.com.mx/notas/840591.html"
+                    }
+                ],
+                "target_birth_date": 1334076611,
+                "content": "Lady #Gaga anuncia nueva gira por #Europa #littlemonsters http://t.co/x1G329Wa",
+                "mytype": "tweet",
+                "score": 9.928601,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000631283952/a2cdffea07354a69571a831436b22517_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/El_Universal_Mx/status/189757178234675200",
+                "trackback_author_url": "http://twitter.com/el_universal_mx",
+                "highlight": "Lady #Gaga anuncia nueva gira por #Europa #littlemonsters",
+                "topsy_author_url": "http://topsy.com/twitter/el_universal_mx",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/el_universal_mx/status/189757178234675200",
+                "trackback_author_name": "El Universal",
+                "trackback_author_nick": "el_universal_mx"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1373589155,
+                "title": "Only in New York... #GaGa &lt;&lt;&lt;&lt;zammmmmnnn http://t.co/jrd3nL4znP",
+                "url": "http://twitter.com/necolebitchie/status/355484800334831617",
+                "trackback_date": 1373589155,
+                "trackback_total": 19,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jrd3nL4znP",
+                        "display_url": "instagram.com/p/bpTaSzzQ-Z/",
+                        "expanded_url": "http://instagram.com/p/bpTaSzzQ-Z/",
+                        "topsy_expanded_url": "http://instagram.com/p/bpTaSzzQ-Z/"
+                    }
+                ],
+                "target_birth_date": 1373589155,
+                "content": "Only in New York... #GaGa &lt;&lt;&lt;&lt;zammmmmnnn http://t.co/jrd3nL4znP",
+                "mytype": "tweet",
+                "score": 9.926563,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/445042741005676544/fEda9fXA_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/necolebitchie/status/355484800334831617",
+                "trackback_author_url": "http://twitter.com/necolebitchie",
+                "highlight": "Only in New York... #GaGa &lt;&lt;&lt;&lt;zammmmmnnn",
+                "topsy_author_url": "http://topsy.com/twitter/necolebitchie",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/necolebitchie/status/355484800334831617",
+                "trackback_author_name": "Necole Bitchie ",
+                "trackback_author_nick": "necolebitchie"
+            },
+            {
+                "hits": 71,
+                "firstpost_date": 1397142432,
+                "title": "Photo: @LadyGaga after the last show at Roseland Ballroom\n\nMore pics by T Richardson at http://t.co/mPiz3JkkVX\n\n#gaga http://t.co/BRTruQleP4",
+                "url": "http://twitter.com/gagadaily/status/454274404956921857",
+                "trackback_date": 1397142432,
+                "trackback_total": 85,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/mPiz3JkkVX",
+                        "display_url": "bit.ly/Q9vjYe",
+                        "expanded_url": "http://bit.ly/Q9vjYe",
+                        "topsy_expanded_url": "http://gagadaily.com/news/roseland-terry/lady-gaga-at-roseland-by-terry-richardson-16/"
+                    },
+                    {
+                        "url": "http://t.co/BRTruQleP4",
+                        "display_url": "pic.twitter.com/BRTruQleP4",
+                        "expanded_url": "http://twitter.com/gagadaily/status/454274404956921857/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bk3oKhpCYAIqL4N.jpg"
+                    }
+                ],
+                "target_birth_date": 1397142432,
+                "content": "Photo: @LadyGaga after the last show at Roseland Ballroom\n\nMore pics by T Richardson at http://t.co/mPiz3JkkVX\n\n#gaga http://t.co/BRTruQleP4",
+                "mytype": "tweet",
+                "score": 9.920832,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/450527487210954752/kxIvmUba_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/gagadaily/status/454274404956921857",
+                "trackback_author_url": "http://twitter.com/gagadaily",
+                "highlight": "Photo: @LadyGaga after the last show at Roseland Ballroom More pics by T Richardson at #gaga",
+                "topsy_author_url": "http://topsy.com/twitter/gagadaily",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gagadaily/status/454274404956921857",
+                "trackback_author_name": "Lady Gaga Daily",
+                "trackback_author_nick": "gagadaily"
+            },
+            {
+                "hits": 276,
+                "firstpost_date": 1388616189,
+                "title": "SnowGaga is so fab:p I make this with my friends:)) #snow #Gaga #art #ARTPOP #LADYGAGA @LADYGAGA http://t.co/Ab4QbQKfsF",
+                "url": "http://twitter.com/mariethenight82/status/418512747845124096",
+                "trackback_date": 1388616189,
+                "trackback_total": 355,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Ab4QbQKfsF",
+                        "display_url": "instagram.com/p/ioyY-OxUI_/",
+                        "expanded_url": "http://instagram.com/p/ioyY-OxUI_/",
+                        "topsy_expanded_url": "http://instagram.com/p/ioyY-OxUI_/"
+                    }
+                ],
+                "target_birth_date": 1388616189,
+                "content": "SnowGaga is so fab:p I make this with my friends:)) #snow #Gaga #art #ARTPOP #LADYGAGA @LADYGAGA http://t.co/Ab4QbQKfsF",
+                "mytype": "tweet",
+                "score": 9.916848,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471959647113318400/r2wRSigQ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MarieTheNight82/status/418512747845124096",
+                "trackback_author_url": "http://twitter.com/mariethenight82",
+                "highlight": "SnowGaga is so fab:p I make this with my friends:)) #snow #Gaga #art #ARTPOP #LADYGAGA @LADYGAGA",
+                "topsy_author_url": "http://topsy.com/twitter/mariethenight82",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mariethenight82/status/418512747845124096",
+                "trackback_author_name": "PhoEniX ReBeLLioN",
+                "trackback_author_nick": "mariethenight82"
+            },
+            {
+                "hits": 55,
+                "firstpost_date": 1348666953,
+                "title": "\u00bfLady #Gaga se exhibe en ropa interior para pedir compasi\u00f3n por sus defectos? As\u00ed luc\u00e9: http://t.co/W8ItSCkE",
+                "url": "http://twitter.com/cnnee/status/250953507178414080",
+                "trackback_date": 1348666953,
+                "trackback_total": 68,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/W8ItSCkE",
+                        "display_url": "at.cnn.com/Ad7nc9",
+                        "expanded_url": "http://at.cnn.com/Ad7nc9",
+                        "topsy_expanded_url": "http://cnnespanol.cnn.com/2012/09/25/lady-gaga-se-exhibe-en-ropa-interior-para-pedir-compasion-por-sus-defectos/"
+                    }
+                ],
+                "target_birth_date": 1348666953,
+                "content": "\u00bfLady #Gaga se exhibe en ropa interior para pedir compasi\u00f3n por sus defectos? As\u00ed luc\u00e9: http://t.co/W8ItSCkE",
+                "mytype": "tweet",
+                "score": 9.916104,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3376166263/498ffb4e5fa43b2a9fffd218f3ca0abe_normal.png",
+                "trackback_permalink": "http://twitter.com/CNNEE/status/250953507178414080",
+                "trackback_author_url": "http://twitter.com/cnnee",
+                "highlight": "\u00bfLady #Gaga se exhibe en ropa interior para pedir compasi\u00f3n por sus defectos? As\u00ed luc\u00e9:",
+                "topsy_author_url": "http://topsy.com/twitter/cnnee",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cnnee/status/250953507178414080",
+                "trackback_author_name": "CNN en Espa\u00f1ol",
+                "trackback_author_nick": "cnnee"
+            },
+            {
+                "hits": 66,
+                "firstpost_date": 1337315486,
+                "title": "Filipino Christian group wants Lady #Gaga concerts canceled, saying she promotes immorality: http://t.co/c5g46Dle -JM",
+                "url": "http://twitter.com/ap/status/203342005609299969",
+                "trackback_date": 1337315486,
+                "trackback_total": 82,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/c5g46Dle",
+                        "display_url": "apne.ws/J4Ley7",
+                        "expanded_url": "http://apne.ws/J4Ley7",
+                        "topsy_expanded_url": "http://trib.al/FVT6zD"
+                    }
+                ],
+                "target_birth_date": 1337315486,
+                "content": "Filipino Christian group wants Lady #Gaga concerts canceled, saying she promotes immorality: http://t.co/c5g46Dle -JM",
+                "mytype": "tweet",
+                "score": 9.914079,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461964160838803457/8z9FImcv_normal.png",
+                "trackback_permalink": "http://twitter.com/AP/status/203342005609299969",
+                "trackback_author_url": "http://twitter.com/ap",
+                "highlight": "Filipino Christian group wants Lady #Gaga concerts canceled, saying she promotes immorality: -JM",
+                "topsy_author_url": "http://topsy.com/twitter/ap",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ap/status/203342005609299969",
+                "trackback_author_name": "The Associated Press",
+                "trackback_author_nick": "ap"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 50,
+        "hidden": 0,
+        "total": 1167993,
+        "page": 1
+    }
+}

@@ -1,0 +1,296 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23lecture&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=200",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#lecture",
+            "window": "a",
+            "type": "tweet",
+            "offset": "200"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 6,
+                "firstpost_date": 1328462396,
+                "title": "L\u2019adolescent et la lecture, supports et pratiques nouvelles http://t.co/hXI7sV6Y #Donnat #lecture",
+                "url": "http://twitter.com/drmlj/status/166209452196900864",
+                "trackback_date": 1328462396,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/hXI7sV6Y",
+                        "display_url": "mondedulivre.hypotheses.org/377",
+                        "expanded_url": "http://mondedulivre.hypotheses.org/377",
+                        "topsy_expanded_url": "http://mondedulivre.hypotheses.org/377"
+                    }
+                ],
+                "target_birth_date": 1328462396,
+                "content": "L\u2019adolescent et la lecture, supports et pratiques nouvelles http://t.co/hXI7sV6Y #Donnat #lecture",
+                "mytype": "tweet",
+                "score": 8.529008,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468499804088446978/PL0z7iq9_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/drmlj/status/166209452196900864",
+                "trackback_author_url": "http://twitter.com/drmlj",
+                "highlight": "L\u2019adolescent et la lecture, supports et pratiques nouvelles #Donnat",
+                "topsy_author_url": "http://topsy.com/twitter/drmlj",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/drmlj/status/166209452196900864",
+                "trackback_author_name": "Delphine Regnard",
+                "trackback_author_nick": "drmlj"
+            },
+            {
+                "hits": 32,
+                "firstpost_date": 1381607153,
+                "title": "On October 19th, #Saturday (18:00), I\u2019ll give \u201cAt Origins Of The #Castles\u201d #lecture at Ospedale Vecchio in Parma (I). http://t.co/lNu2lCjqw1",
+                "url": "http://twitter.com/davidetansini/status/389114721653100544",
+                "trackback_date": 1381607153,
+                "trackback_total": 45,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/lNu2lCjqw1",
+                        "display_url": "tansini.it/it/incontri201\u2026",
+                        "expanded_url": "http://www.tansini.it/it/incontri2013.html",
+                        "topsy_expanded_url": "http://www.tansini.it/it/incontri2013.html"
+                    }
+                ],
+                "target_birth_date": 1381607153,
+                "content": "On October 19th, #Saturday (18:00), I\u2019ll give \u201cAt Origins Of The #Castles\u201d #lecture at Ospedale Vecchio in Parma (I). http://t.co/lNu2lCjqw1",
+                "mytype": "tweet",
+                "score": 8.527452,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1142586080/FS-2009-00080_normal.jpg",
+                "trackback_permalink": "http://twitter.com/DavideTansini/status/389114721653100544",
+                "trackback_author_url": "http://twitter.com/davidetansini",
+                "highlight": "On October 19th, #Saturday (18:00), I\u2019ll give \u201cAt Origins Of The #Castles\u201d #lecture at Ospedale Vecchio in Parma (I).",
+                "topsy_author_url": "http://topsy.com/twitter/davidetansini",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/davidetansini/status/389114721653100544",
+                "trackback_author_name": "Davide Tansini",
+                "trackback_author_nick": "davidetansini"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1382467488,
+                "title": "Martin Wolf: Has the financial crisis changed the world? http://t.co/tQdGhK0v4c http://t.co/PAzSAkBCpo (pptx) #video #lecture",
+                "url": "http://twitter.com/wonkmonk_/status/392723226029465600",
+                "trackback_date": 1382467488,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/tQdGhK0v4c",
+                        "display_url": "bit.ly/He82zD",
+                        "expanded_url": "http://bit.ly/He82zD",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=1w-pODAjVyE"
+                    },
+                    {
+                        "url": "http://t.co/PAzSAkBCpo",
+                        "display_url": "bit.ly/16qBbn2",
+                        "expanded_url": "http://bit.ly/16qBbn2",
+                        "topsy_expanded_url": "http://www.econ.queensu.ca/files/other/Weatherall%20Lecture%2010.2.2013%20final1_0.pptx"
+                    }
+                ],
+                "target_birth_date": 1382467488,
+                "content": "Martin Wolf: Has the financial crisis changed the world? http://t.co/tQdGhK0v4c http://t.co/PAzSAkBCpo (pptx) #video #lecture",
+                "mytype": "tweet",
+                "score": 8.520678,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000226407205/f3bba0f9000db38fc55ef07adb07ab89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/wonkmonk_/status/392723226029465600",
+                "trackback_author_url": "http://twitter.com/wonkmonk_",
+                "highlight": "Martin Wolf: Has the financial crisis changed the world? (pptx) #video",
+                "topsy_author_url": "http://topsy.com/twitter/wonkmonk_",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wonkmonk_/status/392723226029465600",
+                "trackback_author_name": "wonkmonk",
+                "trackback_author_nick": "wonkmonk_"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1300452730,
+                "title": "\u2638 On ne lit pas qu\u2019avec nos yeux et notre cerveau. \u261b http://bit.ly/f2tW2z  #lecture",
+                "url": "http://twitter.com/dameclicquot/status/48728400860413952",
+                "trackback_date": 1300452730,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1300452730,
+                "content": "\u2638 On ne lit pas qu\u2019avec nos yeux et notre cerveau. \u261b http://bit.ly/f2tW2z  #lecture",
+                "mytype": "tweet",
+                "score": 8.51949,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1093391265/Yola__la_coupe3_normal.jpg",
+                "trackback_permalink": "http://twitter.com/DameClicquot/status/48728400860413952",
+                "trackback_author_url": "http://twitter.com/dameclicquot",
+                "highlight": "\u2638 On ne lit pas qu\u2019avec nos yeux et notre cerveau. \u261b",
+                "topsy_author_url": "http://topsy.com/twitter/dameclicquot",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dameclicquot/status/48728400860413952",
+                "trackback_author_name": "DameClicquot",
+                "trackback_author_nick": "dameclicquot"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1374624892,
+                "title": "Ever heard this original version of 'Memory Lane'? #qtip #nas #djpremier #rbma #nyc #lecture http://t.co/m2VUMrCN0W",
+                "url": "http://twitter.com/rbma/status/359828995514179584",
+                "trackback_date": 1374624892,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/m2VUMrCN0W",
+                        "display_url": "trib.al/f6QBiPo",
+                        "expanded_url": "http://trib.al/f6QBiPo",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=JdozGOWYvKY"
+                    }
+                ],
+                "target_birth_date": 1374624892,
+                "content": "Ever heard this original version of 'Memory Lane'? #qtip #nas #djpremier #rbma #nyc #lecture http://t.co/m2VUMrCN0W",
+                "mytype": "tweet",
+                "score": 8.519105,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1810933659/rbma-logo-square-600_normal.jpg",
+                "trackback_permalink": "http://twitter.com/RBMA/status/359828995514179584",
+                "trackback_author_url": "http://twitter.com/rbma",
+                "highlight": "Ever heard this original version of 'Memory Lane'? #qtip #nas #djpremier #rbma #nyc #lecture",
+                "topsy_author_url": "http://topsy.com/twitter/rbma",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rbma/status/359828995514179584",
+                "trackback_author_name": "RedBullMusicAcademy",
+                "trackback_author_nick": "rbma"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1295018698,
+                "title": "#Lecture sur le fantastique site de @les_bridgets : mes conseils pr \u00e9viter d'\u00eatre un boulet sur adopteunmec.com http://tinyurl.com/4rlnsz7",
+                "url": "http://twitter.com/poupimali/status/25936418706554880",
+                "trackback_date": 1295018698,
+                "trackback_total": 3,
+                "url_expansions": [],
+                "target_birth_date": 1295018698,
+                "content": "#Lecture sur le fantastique site de @les_bridgets : mes conseils pr \u00e9viter d'\u00eatre un boulet sur adopteunmec.com http://tinyurl.com/4rlnsz7",
+                "mytype": "tweet",
+                "score": 8.518895,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461033552680083456/3cnFkTTO_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Poupimali/status/25936418706554880",
+                "trackback_author_url": "http://twitter.com/poupimali",
+                "highlight": "#Lecture sur le fantastique site de @les_bridgets : mes conseils pr \u00e9viter d'\u00eatre un boulet sur adopteunmec.com",
+                "topsy_author_url": "http://topsy.com/twitter/poupimali",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/poupimali/status/25936418706554880",
+                "trackback_author_name": "Poupimali",
+                "trackback_author_nick": "poupimali"
+            },
+            {
+                "hits": 15,
+                "firstpost_date": 1342640700,
+                "title": "#Lecture: 80% des jeunes sont des \"lecteurs efficaces\" mais 5% sont illettr\u00e9s http://t.co/DNweGCux #AFP",
+                "url": "http://twitter.com/afpfr/status/225677569494773761",
+                "trackback_date": 1342640700,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DNweGCux",
+                        "display_url": "bit.ly/NzVkdz",
+                        "expanded_url": "http://bit.ly/NzVkdz",
+                        "topsy_expanded_url": "http://bit.ly/NzVkdz"
+                    }
+                ],
+                "target_birth_date": 1342640700,
+                "content": "#Lecture: 80% des jeunes sont des \"lecteurs efficaces\" mais 5% sont illettr\u00e9s http://t.co/DNweGCux #AFP",
+                "mytype": "tweet",
+                "score": 8.518136,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453811093295489024/xFDvOmR8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/afpfr/status/225677569494773761",
+                "trackback_author_url": "http://twitter.com/afpfr",
+                "highlight": "#Lecture: 80% des jeunes sont des \"lecteurs efficaces\" mais 5% sont illettr\u00e9s",
+                "topsy_author_url": "http://topsy.com/twitter/afpfr",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/afpfr/status/225677569494773761",
+                "trackback_author_name": "Agence France-Presse",
+                "trackback_author_nick": "afpfr"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1328638403,
+                "title": "The myth of the wandering goddess in ancient Egypt: free #lecture in Vancouver this Thursday: http://t.co/9PUQ9U6E",
+                "url": "http://twitter.com/thessea/status/166947681112039424",
+                "trackback_date": 1328638403,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9PUQ9U6E",
+                        "display_url": "tech.groups.yahoo.com/group/sseamemb\u2026",
+                        "expanded_url": "http://tech.groups.yahoo.com/group/sseamembers/message/611",
+                        "topsy_expanded_url": "http://tech.groups.yahoo.com/group/sseamembers/message/611"
+                    }
+                ],
+                "target_birth_date": 1328638403,
+                "content": "The myth of the wandering goddess in ancient Egypt: free #lecture in Vancouver this Thursday: http://t.co/9PUQ9U6E",
+                "mytype": "tweet",
+                "score": 8.516177,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1545783959/ssealogo_normal.jpg",
+                "trackback_permalink": "http://twitter.com/TheSSEA/status/166947681112039424",
+                "trackback_author_url": "http://twitter.com/thessea",
+                "highlight": "The myth of the wandering goddess in ancient Egypt: free #lecture in Vancouver this Thursday:",
+                "topsy_author_url": "http://topsy.com/twitter/thessea",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/thessea/status/166947681112039424",
+                "trackback_author_name": "The SSEA Head Office",
+                "trackback_author_nick": "thessea"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1307439164,
+                "title": "Tadao Ando Lecture at the Royal Academy of Arts #architecture #lecture http://t.co/XnngAIx",
+                "url": "http://twitter.com/format_/status/78031628601012224",
+                "trackback_date": 1307439164,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XnngAIx",
+                        "display_url": "royalacademy.org.uk/architecture/p\u2026",
+                        "expanded_url": "http://www.royalacademy.org.uk/architecture/past-events/tadao-ando-hon-ra,1609,AR.html",
+                        "topsy_expanded_url": "http://www.royalacademy.org.uk/architecture/past-events/tadao-ando-hon-ra,1609,AR.html"
+                    }
+                ],
+                "target_birth_date": 1307439164,
+                "content": "Tadao Ando Lecture at the Royal Academy of Arts #architecture #lecture http://t.co/XnngAIx",
+                "mytype": "tweet",
+                "score": 8.515772,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3229075701/0e204bc688d35049a80680935b779062_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Format_/status/78031628601012224",
+                "trackback_author_url": "http://twitter.com/fredericbaert",
+                "highlight": "Tadao Ando Lecture at the Royal Academy of Arts #architecture #lecture",
+                "topsy_author_url": "http://topsy.com/twitter/fredericbaert",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/format_/status/78031628601012224",
+                "trackback_author_name": "Fr\u00e9d\u00e9ric Baert",
+                "trackback_author_nick": "fredericbaert"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1334822206,
+                "title": "Vid\u00e9o - Dan, le singe qui sait lire http://t.co/ZvI7ORjq #singe #lecture #lire #dan #babouin #orthographe",
+                "url": "http://twitter.com/bfmtv/status/192884431445438464",
+                "trackback_date": 1334822206,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ZvI7ORjq",
+                        "display_url": "t.bfmtv.com/ar211937",
+                        "expanded_url": "http://t.bfmtv.com/ar211937",
+                        "topsy_expanded_url": "http://www.bfmtv.com/dan-le-singe-qui-sait-lire-actu26466.html"
+                    }
+                ],
+                "target_birth_date": 1334822206,
+                "content": "Vid\u00e9o - Dan, le singe qui sait lire http://t.co/ZvI7ORjq #singe #lecture #lire #dan #babouin #orthographe",
+                "mytype": "tweet",
+                "score": 8.514859,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/421585658688192513/U08CGduC_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BFMTV/status/192884431445438464",
+                "trackback_author_url": "http://twitter.com/bfmtv",
+                "highlight": "Vid\u00e9o - Dan, le singe qui sait lire #singe #lecture #lire #dan #babouin",
+                "topsy_author_url": "http://topsy.com/twitter/bfmtv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bfmtv/status/192884431445438464",
+                "trackback_author_name": "BFMTV",
+                "trackback_author_nick": "bfmtv"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 200,
+        "hidden": 0,
+        "total": 131156,
+        "page": 1
+    }
+}

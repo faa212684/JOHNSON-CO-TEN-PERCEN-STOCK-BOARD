@@ -1,0 +1,101 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23trounce&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=310",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#trounce",
+            "window": "a",
+            "type": "tweet",
+            "offset": "310"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1365747495,
+                "title": "RT @MJol_FCSchmoke: @fras001 @GarryMerrell @nadj23 #fcschmoke with the big quarter century this eve in rout @PowerleagueUK in Cardiff! # ...",
+                "url": "http://twitter.com/leighedwar/status/322594493612306432",
+                "trackback_date": 1365747495,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1365747495,
+                "content": "RT @MJol_FCSchmoke: @fras001 @GarryMerrell @nadj23 #fcschmoke with the big quarter century this eve in rout @PowerleagueUK in Cardiff! # ...",
+                "mytype": "tweet",
+                "score": 3.6469162,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/439379933824319488/jB_H2gKo_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/leighedwar/status/322594493612306432",
+                "trackback_author_url": "http://twitter.com/leighedwar",
+                "highlight": " @GarryMerrell @nadj23 #fcschmoke with the big quarter century this eve in rout @PowerleagueUK in Cardiff! # ",
+                "topsy_author_url": "http://topsy.com/twitter/leighedwar",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/leighedwar/status/322594493612306432",
+                "trackback_author_name": "Leigh Edwards",
+                "trackback_author_nick": "leighedwar"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1372906587,
+                "title": "\u300c\u65e5\u30cf\u30e0\u967d\u307e\u305f\u731b\u6253\u8cde\u3067\u8a18\u9332\u306b\u6311\u3080\u300d\u3084\u300c\u7f8e\u59eb\u306e\u7236\u89aa\u306f\u8ab0? \u98db\u3073\u4ea4\u3046\u61b6\u6e2c\u300d\u3084\u300c\u5168\u30bb\u539f\u76e3\u7763\u30015\u65b0\u4eba\u9078\u51fa\u306e\u88cf\u306b\u2026\u300d\u7b49\u306e\u30b9\u30dd\u30fc\u30c4\u30cb\u30e5\u30fc\u30b9 - 2013\u5e7407\u670804\u65e5\u300011\u664255\u5206\u66f4\u65b0\uff01 #\"Hum, #defying #trounce http://t.co/GdnX6lQFKs",
+                "url": "http://twitter.com/sports_news_bot/status/352621901937516544",
+                "trackback_date": 1372906587,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/GdnX6lQFKs",
+                        "display_url": "bit.ly/18xaflx",
+                        "expanded_url": "http://bit.ly/18xaflx",
+                        "topsy_expanded_url": "http://nicoimage.com/v/1/5502/"
+                    }
+                ],
+                "target_birth_date": 1372906587,
+                "content": "\u300c\u65e5\u30cf\u30e0\u967d\u307e\u305f\u731b\u6253\u8cde\u3067\u8a18\u9332\u306b\u6311\u3080\u300d\u3084\u300c\u7f8e\u59eb\u306e\u7236\u89aa\u306f\u8ab0? \u98db\u3073\u4ea4\u3046\u61b6\u6e2c\u300d\u3084\u300c\u5168\u30bb\u539f\u76e3\u7763\u30015\u65b0\u4eba\u9078\u51fa\u306e\u88cf\u306b\u2026\u300d\u7b49\u306e\u30b9\u30dd\u30fc\u30c4\u30cb\u30e5\u30fc\u30b9 - 2013\u5e7407\u670804\u65e5\u300011\u664255\u5206\u66f4\u65b0\uff01 #\"Hum, #defying #trounce http://t.co/GdnX6lQFKs",
+                "mytype": "tweet",
+                "score": 3.62191,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2527028926/v2q3ql11hn41kj02w8dm_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/sports_news_bot/status/352621901937516544",
+                "trackback_author_url": "http://twitter.com/sports_news_bot",
+                "highlight": "\u300c\u65e5\u30cf\u30e0\u967d\u307e\u305f\u731b\u6253\u8cde\u3067\u8a18\u9332\u306b\u6311\u3080\u300d\u3084\u300c\u7f8e\u59eb\u306e\u7236\u89aa\u306f\u8ab0? \u98db\u3073\u4ea4\u3046\u61b6\u6e2c\u300d\u3084\u300c\u5168\u30bb\u539f\u76e3\u7763\u30015\u65b0\u4eba\u9078\u51fa\u306e\u88cf\u306b\u2026\u300d\u7b49\u306e\u30b9\u30dd\u30fc\u30c4\u30cb\u30e5\u30fc\u30b9 - 2013\u5e7407\u670804\u65e5\u300011\u664255\u5206\u66f4\u65b0\uff01 #\"Hum, #defying #trounce",
+                "topsy_author_url": "http://topsy.com/twitter/sports_news_bot",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sports_news_bot/status/352621901937516544",
+                "trackback_author_name": "sports_news_bot",
+                "trackback_author_nick": "sports_news_bot"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1372906588,
+                "title": "\u300c\u65e5\u30cf\u30e0\u967d\u307e\u305f\u731b\u6253\u8cde\u3067\u8a18\u9332\u306b\u6311\u3080\u300d\u3084\u300c\u7f8e\u59eb\u306e\u7236\u89aa\u306f\u8ab0? \u98db\u3073\u4ea4\u3046\u61b6\u6e2c\u300d\u3084\u300c\u5168\u30bb\u539f\u76e3\u7763\u30015\u65b0\u4eba\u9078\u51fa\u306e\u88cf\u306b\u2026\u300d\u7b49\u306e\u30b9\u30dd\u30fc\u30c4\u30cb\u30e5\u30fc\u30b9 - 2013\u5e7407\u670804\u65e5\u300011\u664255\u5206\u66f4\u65b0\uff01 #\"Hum, #defying #trounce http://t.co/8geaDS5Mqa",
+                "url": "http://twitter.com/miox0i/status/352621904747692032",
+                "trackback_date": 1372906588,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8geaDS5Mqa",
+                        "display_url": "bit.ly/18xaflx",
+                        "expanded_url": "http://bit.ly/18xaflx",
+                        "topsy_expanded_url": "http://nicoimage.com/v/1/5502/"
+                    }
+                ],
+                "target_birth_date": 1372906588,
+                "content": "\u300c\u65e5\u30cf\u30e0\u967d\u307e\u305f\u731b\u6253\u8cde\u3067\u8a18\u9332\u306b\u6311\u3080\u300d\u3084\u300c\u7f8e\u59eb\u306e\u7236\u89aa\u306f\u8ab0? \u98db\u3073\u4ea4\u3046\u61b6\u6e2c\u300d\u3084\u300c\u5168\u30bb\u539f\u76e3\u7763\u30015\u65b0\u4eba\u9078\u51fa\u306e\u88cf\u306b\u2026\u300d\u7b49\u306e\u30b9\u30dd\u30fc\u30c4\u30cb\u30e5\u30fc\u30b9 - 2013\u5e7407\u670804\u65e5\u300011\u664255\u5206\u66f4\u65b0\uff01 #\"Hum, #defying #trounce http://t.co/8geaDS5Mqa",
+                "mytype": "tweet",
+                "score": 3.5642807,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1093432430/_____normal.jpg",
+                "trackback_permalink": "http://twitter.com/MIOX0I/status/352621904747692032",
+                "trackback_author_url": "http://twitter.com/miox0i",
+                "highlight": "\u300c\u65e5\u30cf\u30e0\u967d\u307e\u305f\u731b\u6253\u8cde\u3067\u8a18\u9332\u306b\u6311\u3080\u300d\u3084\u300c\u7f8e\u59eb\u306e\u7236\u89aa\u306f\u8ab0? \u98db\u3073\u4ea4\u3046\u61b6\u6e2c\u300d\u3084\u300c\u5168\u30bb\u539f\u76e3\u7763\u30015\u65b0\u4eba\u9078\u51fa\u306e\u88cf\u306b\u2026\u300d\u7b49\u306e\u30b9\u30dd\u30fc\u30c4\u30cb\u30e5\u30fc\u30b9 - 2013\u5e7407\u670804\u65e5\u300011\u664255\u5206\u66f4\u65b0\uff01 #\"Hum, #defying #trounce",
+                "topsy_author_url": "http://topsy.com/twitter/miox0i",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/miox0i/status/352621904747692032",
+                "trackback_author_name": "MIOX0I",
+                "trackback_author_nick": "miox0i"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 310,
+        "hidden": 0,
+        "total": 313,
+        "page": 1
+    }
+}

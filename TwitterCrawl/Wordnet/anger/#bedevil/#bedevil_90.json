@@ -1,0 +1,87 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23bedevil&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=90",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#bedevil",
+            "window": "a",
+            "type": "tweet",
+            "offset": "90"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1365639369,
+                "title": "RT @TruckerSlim: @IndigenousX #RedfernNow great show, no doubt. Tracey Moffatt was telling bang on indigenous stories 20 years ago. #Bed ...",
+                "url": "http://twitter.com/blackvinemedia/status/322140979090055168",
+                "trackback_date": 1365639369,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1365639369,
+                "content": "RT @TruckerSlim: @IndigenousX #RedfernNow great show, no doubt. Tracey Moffatt was telling bang on indigenous stories 20 years ago. #Bed ...",
+                "mytype": "tweet",
+                "score": 3.8121774,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459495801618587648/8_tu_YXC_normal.png",
+                "trackback_permalink": "http://twitter.com/BlackvineMedia/status/322140979090055168",
+                "trackback_author_url": "http://twitter.com/blackvinemedia",
+                "highlight": " #RedfernNow great show, no doubt. Tracey Moffatt was telling bang on indigenous stories 20 years ago. #Bed ",
+                "topsy_author_url": "http://topsy.com/twitter/blackvinemedia",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/blackvinemedia/status/322140979090055168",
+                "trackback_author_name": "Blackvine Media",
+                "trackback_author_nick": "blackvinemedia"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1365507173,
+                "title": "RT @TruckerSlim: @IndigenousX #RedfernNow great show, no doubt. Tracey Moffatt was telling bang on indigenous stories 20 years ago. #Bed ...",
+                "url": "http://twitter.com/indigenousx/status/321586511239852032",
+                "trackback_date": 1365507173,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1365507173,
+                "content": "RT @TruckerSlim: @IndigenousX #RedfernNow great show, no doubt. Tracey Moffatt was telling bang on indigenous stories 20 years ago. #Bed ...",
+                "mytype": "tweet",
+                "score": 3.8121774,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471951646608465920/AGSiDjHF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/IndigenousX/status/321586511239852032",
+                "trackback_author_url": "http://twitter.com/indigenousx",
+                "highlight": " #RedfernNow great show, no doubt. Tracey Moffatt was telling bang on indigenous stories 20 years ago. #Bed ",
+                "topsy_author_url": "http://topsy.com/twitter/indigenousx",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/indigenousx/status/321586511239852032",
+                "trackback_author_name": "Kimberley Benjamin",
+                "trackback_author_nick": "indigenousx"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1394137818,
+                "title": "RT @YouRejoice: Everything under control--What is under the control of the holy spirit or demon?--The holy inclination or the evil inclinat\u2026",
+                "url": "http://twitter.com/gkjwpm/status/441672138940882944",
+                "trackback_date": 1394137818,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1394137818,
+                "content": "RT @YouRejoice: Everything under control--What is under the control of the holy spirit or demon?--The holy inclination or the evil inclinat\u2026",
+                "mytype": "tweet",
+                "score": 3.7045474,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/457829391624437760/ypg6yTGY_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/gkjwpm/status/441672138940882944",
+                "trackback_author_url": "http://twitter.com/gkjwpm",
+                "highlight": "Everything under control--What is under the control of the holy spirit or demon?--The holy inclination or the evil inclinat\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/gkjwpm",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gkjwpm/status/441672138940882944",
+                "trackback_author_name": "f\u03c5\u0438\u2202\u03b1\u0443",
+                "trackback_author_nick": "gkjwpm"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 90,
+        "hidden": 0,
+        "total": 93,
+        "page": 1
+    }
+}

@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23dotty&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=510",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#dotty",
+            "window": "a",
+            "type": "tweet",
+            "offset": "510"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1271965620,
+                "title": "#Dotty Says, Of Course I Can Read I'm Not Dead http://goo.gl/fb/PzTxU #video #alzheimers #lifestyle #health",
+                "url": "http://twitter.com/alzheimersread/status/12657493550",
+                "trackback_date": 1271965620,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1271965620,
+                "content": "#Dotty Says, Of Course I Can Read I'm Not Dead http://goo.gl/fb/PzTxU #video #alzheimers #lifestyle #health",
+                "mytype": "tweet",
+                "score": 8.119355,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458738950639583232/UGdysM9M_normal.png",
+                "trackback_permalink": "http://twitter.com/ALZHEIMERSread/status/12657493550",
+                "trackback_author_url": "http://twitter.com/alzheimersread",
+                "highlight": "#Dotty Says, Of Course I Can Read I'm Not Dead #video #alzheimers #lifestyle",
+                "topsy_author_url": "http://topsy.com/twitter/alzheimersread",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/alzheimersread/status/12657493550",
+                "trackback_author_name": "AlzheimersRead",
+                "trackback_author_nick": "alzheimersread"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1330995109,
+                "title": "@m_delpilar Cuantas veces les he dicho que no me cierren la puerta jajajaja #Dotty http://t.co/Gt1Uq9vq",
+                "url": "http://twitter.com/juanpbc/status/176832418303574018",
+                "trackback_date": 1330995109,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Gt1Uq9vq",
+                        "expanded_url": "http://twitter.com/juanpbc/status/176832418303574018/photo/1",
+                        "display_url": "pic.twitter.com/Gt1Uq9vq"
+                    }
+                ],
+                "target_birth_date": 1330995109,
+                "content": "@m_delpilar Cuantas veces les he dicho que no me cierren la puerta jajajaja #Dotty http://t.co/Gt1Uq9vq",
+                "mytype": "tweet",
+                "score": 8.116452,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/425807906244939776/bNCdJweA_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/juanpbc/status/176832418303574018",
+                "trackback_author_url": "http://twitter.com/juanpbc",
+                "highlight": " Cuantas veces les he dicho que no me cierren la puerta jajajaja #Dotty",
+                "topsy_author_url": "http://topsy.com/twitter/juanpbc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/juanpbc/status/176832418303574018",
+                "trackback_author_name": "Juan Pablo",
+                "trackback_author_nick": "juanpbc"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1340398838,
+                "title": "DailY OuT NoW!! Going a bit Dotty.. #Etsy http://t.co/aXPSvcVV #Dotty #Chat #Verse #Purse #Art #Bootees",
+                "url": "http://twitter.com/greatgreendream/status/216274518568747008",
+                "trackback_date": 1340398838,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/aXPSvcVV",
+                        "display_url": "goo.gl/El8zW",
+                        "expanded_url": "http://goo.gl/El8zW",
+                        "topsy_expanded_url": "http://myblogfinallymadeit.blogspot.com/"
+                    }
+                ],
+                "target_birth_date": 1340398838,
+                "content": "DailY OuT NoW!! Going a bit Dotty.. #Etsy http://t.co/aXPSvcVV #Dotty #Chat #Verse #Purse #Art #Bootees",
+                "mytype": "tweet",
+                "score": 8.116338,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472473374661156864/xSL2HYlr_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/greatgreendream/status/216274518568747008",
+                "trackback_author_url": "http://twitter.com/uniquelyyourdes",
+                "highlight": "DailY OuT NoW!! Going a bit Dotty.. #Etsy #Dotty #Chat #Verse #Purse #Art",
+                "topsy_author_url": "http://topsy.com/twitter/uniquelyyourdes",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/greatgreendream/status/216274518568747008",
+                "trackback_author_name": "Linda",
+                "trackback_author_nick": "uniquelyyourdes"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1302550257,
+                "title": "Move Over Harvey Here Comes the Lion http://goo.gl/fb/Ow7Ft #video #dotty #parrot #lion",
+                "url": "http://twitter.com/alzheimersread/status/57526065257648128",
+                "trackback_date": 1302550257,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1302550257,
+                "content": "Move Over Harvey Here Comes the Lion http://goo.gl/fb/Ow7Ft #video #dotty #parrot #lion",
+                "mytype": "tweet",
+                "score": 8.116226,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458738950639583232/UGdysM9M_normal.png",
+                "trackback_permalink": "http://twitter.com/ALZHEIMERSread/status/57526065257648128",
+                "trackback_author_url": "http://twitter.com/alzheimersread",
+                "highlight": "Move Over Harvey Here Comes the Lion #video #dotty #parrot",
+                "topsy_author_url": "http://topsy.com/twitter/alzheimersread",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/alzheimersread/status/57526065257648128",
+                "trackback_author_name": "AlzheimersRead",
+                "trackback_author_nick": "alzheimersread"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1369175310,
+                "title": "Cutest #gel #manicure ever! #dotty #summer http://t.co/EkCTb9IaxM",
+                "url": "http://twitter.com/pkittytrisha/status/336971791270567937",
+                "trackback_date": 1369175310,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/EkCTb9IaxM",
+                        "display_url": "instagram.com/p/ZlysZ1vOrg/",
+                        "expanded_url": "http://instagram.com/p/ZlysZ1vOrg/",
+                        "topsy_expanded_url": "http://instagram.com/p/ZlysZ1vOrg/"
+                    }
+                ],
+                "target_birth_date": 1369175310,
+                "content": "Cutest #gel #manicure ever! #dotty #summer http://t.co/EkCTb9IaxM",
+                "mytype": "tweet",
+                "score": 8.116106,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/446393991609597952/Be5xFRHh_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Pkittytrisha/status/336971791270567937",
+                "trackback_author_url": "http://twitter.com/pkittytrisha",
+                "highlight": "Cutest #gel #manicure ever! #dotty #summer",
+                "topsy_author_url": "http://topsy.com/twitter/pkittytrisha",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/pkittytrisha/status/336971791270567937",
+                "trackback_author_name": "Trisha F",
+                "trackback_author_nick": "pkittytrisha"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1359347340,
+                "title": "Major Events! All hosted by me! #yababymamasfavorite #dotty #nerdy http://t.co/IgszCNon http://t.co/pSjMsgaF http://t.co/CFw1b5Vc",
+                "url": "http://twitter.com/realydotgdot/status/295750299526770688",
+                "trackback_date": 1359347340,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/IgszCNon",
+                        "expanded_url": "http://lockerz.com/s/279852470",
+                        "display_url": "lockerz.com/s/279852470"
+                    },
+                    {
+                        "url": "http://t.co/pSjMsgaF",
+                        "expanded_url": "http://lockerz.com/s/279852489",
+                        "display_url": "lockerz.com/s/279852489"
+                    },
+                    {
+                        "url": "http://t.co/CFw1b5Vc",
+                        "expanded_url": "http://lockerz.com/s/279852494",
+                        "display_url": "lockerz.com/s/279852494"
+                    }
+                ],
+                "target_birth_date": 1359347340,
+                "content": "Major Events! All hosted by me! #yababymamasfavorite #dotty #nerdy http://t.co/IgszCNon http://t.co/pSjMsgaF http://t.co/CFw1b5Vc",
+                "mytype": "tweet",
+                "score": 8.116032,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/456638066967318531/786pV0Nj_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RealYdotGdot/status/295750299526770688",
+                "trackback_author_url": "http://twitter.com/realydotgdot",
+                "highlight": "Major Events! All hosted by me! #yababymamasfavorite #dotty #nerdy",
+                "topsy_author_url": "http://topsy.com/twitter/realydotgdot",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/realydotgdot/status/295750299526770688",
+                "trackback_author_name": "Ydot Gdot\u266b",
+                "trackback_author_nick": "realydotgdot"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1336397743,
+                "title": "Off to write today's Monday Mani post... #dotty",
+                "url": "http://twitter.com/strawbry_blonde/status/199492711731052545",
+                "trackback_date": 1336397743,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1336397743,
+                "content": "Off to write today's Monday Mani post... #dotty",
+                "mytype": "tweet",
+                "score": 8.1159,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/420241020500975616/E6OfCMlC_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Strawbry_Blonde/status/199492711731052545",
+                "trackback_author_url": "http://twitter.com/strawbry_blonde",
+                "highlight": "Off to write today's Monday Mani post",
+                "topsy_author_url": "http://topsy.com/twitter/strawbry_blonde",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/strawbry_blonde/status/199492711731052545",
+                "trackback_author_name": "Nic",
+                "trackback_author_nick": "strawbry_blonde"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1348617012,
+                "title": "#GrachiPeru #Dotty @m_delpilar haciendo un Conjuro Katty,Betty y Dotty;Dotty Betty y Katty q aparesca un manati... =) http://t.co/MhaBeljg",
+                "url": "http://twitter.com/chiknadacomun/status/250744040323162113",
+                "trackback_date": 1348617012,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/MhaBeljg",
+                        "expanded_url": "http://twitter.com/chiknadacomun/status/250744040323162113/photo/1",
+                        "display_url": "pic.twitter.com/MhaBeljg"
+                    }
+                ],
+                "target_birth_date": 1348617012,
+                "content": "#GrachiPeru #Dotty @m_delpilar haciendo un Conjuro Katty,Betty y Dotty;Dotty Betty y Katty q aparesca un manati... =) http://t.co/MhaBeljg",
+                "mytype": "tweet",
+                "score": 8.115122,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/457418937576083457/Id7S4iVT_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/chiknadacomun/status/250744040323162113",
+                "trackback_author_url": "http://twitter.com/chiknadacomun",
+                "highlight": "#GrachiPeru #Dotty @m_delpilar haciendo un Conjuro Katty,Betty y Dotty;Dotty Betty y Katty q aparesca un manati... =)",
+                "topsy_author_url": "http://topsy.com/twitter/chiknadacomun",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/chiknadacomun/status/250744040323162113",
+                "trackback_author_name": "Pilar \u10e6 PLL \u10e6",
+                "trackback_author_nick": "chiknadacomun"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1289394642,
+                "title": "Dotty Live, Alzheimer's Patient Speaks Live on\u2026 http://goo.gl/fb/TORFm #video #dotty #alzheimersdisease #lifenews",
+                "url": "http://twitter.com/alzheimersread/status/2347416804130816",
+                "trackback_date": 1289394642,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1289394642,
+                "content": "Dotty Live, Alzheimer's Patient Speaks Live on\u2026 http://goo.gl/fb/TORFm #video #dotty #alzheimersdisease #lifenews",
+                "mytype": "tweet",
+                "score": 8.114484,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458738950639583232/UGdysM9M_normal.png",
+                "trackback_permalink": "http://twitter.com/ALZHEIMERSread/status/2347416804130816",
+                "trackback_author_url": "http://twitter.com/alzheimersread",
+                "highlight": "Dotty Live, Alzheimer's Patient Speaks Live on\u2026 #video #dotty #alzheimersdisease",
+                "topsy_author_url": "http://topsy.com/twitter/alzheimersread",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/alzheimersread/status/2347416804130816",
+                "trackback_author_name": "AlzheimersRead",
+                "trackback_author_nick": "alzheimersread"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1265745645,
+                "title": "#Dotty in Eastenders is a BRAT!  i hate her ! lol! #Eastenders",
+                "url": "http://twitter.com/missbroganbaby/status/8868507522",
+                "trackback_date": 1265745645,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1265745645,
+                "content": "#Dotty in Eastenders is a BRAT!  i hate her ! lol! #Eastenders",
+                "mytype": "tweet",
+                "score": 8.1133585,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/436885772579663872/_QsKw175_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MissBroganBaby/status/8868507522",
+                "trackback_author_url": "http://twitter.com/missbroganbaby",
+                "highlight": "#Dotty in Eastenders is a BRAT! i hate her ! lol!",
+                "topsy_author_url": "http://topsy.com/twitter/missbroganbaby",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/missbroganbaby/status/8868507522",
+                "trackback_author_name": "Aint No Wifey.",
+                "trackback_author_nick": "missbroganbaby"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 510,
+        "hidden": 0,
+        "total": 12333,
+        "page": 1
+    }
+}

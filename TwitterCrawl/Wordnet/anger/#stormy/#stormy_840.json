@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23stormy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=840",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#stormy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "840"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1374675720,
+                "title": "Do you love #Stormy like Debbie does? http://t.co/LZr7x4UN31 If so, vote for him in @MiLB #MascotMania at http://t.co/cTeikLXBbt.",
+                "url": "http://twitter.com/omastormchasers/status/360042184969437185",
+                "trackback_date": 1374675720,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/LZr7x4UN31",
+                        "display_url": "youtube.com/watch?v=l8KlgN\u2026",
+                        "expanded_url": "http://www.youtube.com/watch?v=l8KlgNYV1yA",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=l8KlgNYV1yA"
+                    },
+                    {
+                        "url": "http://t.co/cTeikLXBbt",
+                        "display_url": "atmilb.com/12BEzYs",
+                        "expanded_url": "http://atmilb.com/12BEzYs",
+                        "topsy_expanded_url": "http://www.milb.com/milb/fans/mascot_mania/y2013/index.jsp?category=pacific_coast"
+                    }
+                ],
+                "target_birth_date": 1374675720,
+                "content": "Do you love #Stormy like Debbie does? http://t.co/LZr7x4UN31 If so, vote for him in @MiLB #MascotMania at http://t.co/cTeikLXBbt.",
+                "mytype": "tweet",
+                "score": 8.085083,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/451838421330169856/XaMitES6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OMAStormChasers/status/360042184969437185",
+                "trackback_author_url": "http://twitter.com/omastormchasers",
+                "highlight": "Do you love #Stormy like Debbie does? If so, vote for him in @MiLB #MascotMania at",
+                "topsy_author_url": "http://topsy.com/twitter/omastormchasers",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/omastormchasers/status/360042184969437185",
+                "trackback_author_name": "Omaha Storm Chasers",
+                "trackback_author_nick": "omastormchasers"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1360341984,
+                "title": "#Stormy #blizzard #nyfw #FollowFriday #nyc #midtown @ SiriusXM Studios http://t.co/dsODPQvt",
+                "url": "http://twitter.com/kramerbpm/status/299922136011792384",
+                "trackback_date": 1360341984,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/dsODPQvt",
+                        "display_url": "instagr.am/p/Veg8yzyFGS/",
+                        "expanded_url": "http://instagr.am/p/Veg8yzyFGS/",
+                        "topsy_expanded_url": "http://instagram.com/p/Veg8yzyFGS/"
+                    }
+                ],
+                "target_birth_date": 1360341984,
+                "content": "#Stormy #blizzard #nyfw #FollowFriday #nyc #midtown @ SiriusXM Studios http://t.co/dsODPQvt",
+                "mytype": "tweet",
+                "score": 8.084419,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/430147919174303744/CaLZRsrM_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/kramerbpm/status/299922136011792384",
+                "trackback_author_url": "http://twitter.com/kramerbpm",
+                "highlight": "#Stormy #blizzard #nyfw #FollowFriday #nyc #midtown @ SiriusXM Studios",
+                "topsy_author_url": "http://topsy.com/twitter/kramerbpm",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kramerbpm/status/299922136011792384",
+                "trackback_author_name": "austin kramer",
+                "trackback_author_nick": "kramerbpm"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1366203305,
+                "title": "The ride home will be interesting... #stormy",
+                "url": "http://twitter.com/teckiegirl/status/324506301134675969",
+                "trackback_date": 1366203305,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1366203305,
+                "content": "The ride home will be interesting... #stormy",
+                "mytype": "tweet",
+                "score": 8.084407,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/444754791911010305/3l_ffkjy_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TeckieGirl/status/324506301134675969",
+                "trackback_author_url": "http://twitter.com/teckiegirl",
+                "highlight": "The ride home will be interesting",
+                "topsy_author_url": "http://topsy.com/twitter/teckiegirl",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/teckiegirl/status/324506301134675969",
+                "trackback_author_name": "TeckieGirl",
+                "trackback_author_nick": "teckiegirl"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1334337322,
+                "title": "Looks like it's gonna hurl it down here any moment #stormy",
+                "url": "http://twitter.com/pencilsqueezer/status/190850680196567040",
+                "trackback_date": 1334337322,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1334337322,
+                "content": "Looks like it's gonna hurl it down here any moment #stormy",
+                "mytype": "tweet",
+                "score": 8.084399,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/447289827197583361/hP2cmxyI_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Pencilsqueezer/status/190850680196567040",
+                "trackback_author_url": "http://twitter.com/pencilsqueezer",
+                "highlight": "Looks like it's gonna hurl it down here any moment",
+                "topsy_author_url": "http://topsy.com/twitter/pencilsqueezer",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/pencilsqueezer/status/190850680196567040",
+                "trackback_author_name": "Peter Ray ",
+                "trackback_author_nick": "pencilsqueezer"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1307668712,
+                "title": "Tonight's going to be a shambles. My mood, my tunes, and the weather all match. #stormy #fb",
+                "url": "http://twitter.com/colleennika/status/78994421076598784",
+                "trackback_date": 1307668712,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1307668712,
+                "content": "Tonight's going to be a shambles. My mood, my tunes, and the weather all match. #stormy #fb",
+                "mytype": "tweet",
+                "score": 8.08437,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471712434562953216/aTGtI-BS_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/colleennika/status/78994421076598784",
+                "trackback_author_url": "http://twitter.com/colleennika",
+                "highlight": "Tonight's going to be a shambles. My mood, my tunes, and the weather all match. #stormy",
+                "topsy_author_url": "http://topsy.com/twitter/colleennika",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/colleennika/status/78994421076598784",
+                "trackback_author_name": "Colleen Nika",
+                "trackback_author_nick": "colleennika"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1306458934,
+                "title": "Here's @T3DDY_M and @omastormchasers' #Stormy hanging out at the @Universal_Info baseball outing! http://t.co/L45katI",
+                "url": "http://twitter.com/blisser/status/73920245965930497",
+                "trackback_date": 1306458934,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/L45katI",
+                        "display_url": "twitpic.com/52yoc2",
+                        "expanded_url": "http://twitpic.com/52yoc2",
+                        "topsy_expanded_url": "http://twitpic.com/52yoc2"
+                    }
+                ],
+                "target_birth_date": 1306458934,
+                "content": "Here's @T3DDY_M and @omastormchasers' #Stormy hanging out at the @Universal_Info baseball outing! http://t.co/L45katI",
+                "mytype": "tweet",
+                "score": 8.084099,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000459803721/558906c3e775d8323c3445e6133aeca8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Blisser/status/73920245965930497",
+                "trackback_author_url": "http://twitter.com/blisser",
+                "highlight": "Here's @T3DDY_M and @omastormchasers' #Stormy hanging out at the @Universal_Info baseball outing!",
+                "topsy_author_url": "http://topsy.com/twitter/blisser",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/blisser/status/73920245965930497",
+                "trackback_author_name": "Blisser",
+                "trackback_author_nick": "blisser"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1351405984,
+                "title": "Lights just flickered. I am suitably terrified. #stormy",
+                "url": "http://twitter.com/everywhereist/status/262441836453441536",
+                "trackback_date": 1351405984,
+                "trackback_total": 3,
+                "url_expansions": [],
+                "target_birth_date": 1351405984,
+                "content": "Lights just flickered. I am suitably terrified. #stormy",
+                "mytype": "tweet",
+                "score": 8.083757,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000106868608/d51915aa6ea8a51d3bc4b42b142a8516_normal.png",
+                "trackback_permalink": "http://twitter.com/everywhereist/status/262441836453441536",
+                "trackback_author_url": "http://twitter.com/everywhereist",
+                "highlight": "Lights just flickered. I am suitably terrified.",
+                "topsy_author_url": "http://topsy.com/twitter/everywhereist",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/everywhereist/status/262441836453441536",
+                "trackback_author_name": "Geraldine",
+                "trackback_author_nick": "everywhereist"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1368625059,
+                "title": "#stormy in the #north @ Cafe North / School of Education http://t.co/gji9IZToJT",
+                "url": "http://twitter.com/hopkinsdavid/status/334663873447747584",
+                "trackback_date": 1368625059,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/gji9IZToJT",
+                        "display_url": "instagram.com/p/ZVZULVxtgk/",
+                        "expanded_url": "http://instagram.com/p/ZVZULVxtgk/",
+                        "topsy_expanded_url": "http://instagram.com/p/ZVZULVxtgk/"
+                    }
+                ],
+                "target_birth_date": 1368625059,
+                "content": "#stormy in the #north @ Cafe North / School of Education http://t.co/gji9IZToJT",
+                "mytype": "tweet",
+                "score": 8.083706,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/436230208517971968/HhoUs6_1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/hopkinsdavid/status/334663873447747584",
+                "trackback_author_url": "http://twitter.com/hopkinsdavid",
+                "highlight": "#stormy in the #north @ Cafe North / School of Education",
+                "topsy_author_url": "http://topsy.com/twitter/hopkinsdavid",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hopkinsdavid/status/334663873447747584",
+                "trackback_author_name": "David Hopkins",
+                "trackback_author_nick": "hopkinsdavid"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1367776738,
+                "title": "#rain #ocean #clouds #stormy #breezy http://t.co/EhpAsvh8bX",
+                "url": "http://twitter.com/girliegirl0078/status/331105753739964416",
+                "trackback_date": 1367776738,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/EhpAsvh8bX",
+                        "display_url": "pic.twitter.com/EhpAsvh8bX",
+                        "expanded_url": "http://twitter.com/girliegirl0078/status/331105753739964416/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BJhS7cNCMAA5uPy.jpg"
+                    }
+                ],
+                "target_birth_date": 1367776738,
+                "content": "#rain #ocean #clouds #stormy #breezy http://t.co/EhpAsvh8bX",
+                "mytype": "tweet",
+                "score": 8.083386,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/427127764286595073/wCNU1CwC_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/girliegirl0078/status/331105753739964416",
+                "trackback_author_url": "http://twitter.com/girliegirl0078",
+                "highlight": "#rain #ocean #clouds #stormy #breezy",
+                "topsy_author_url": "http://topsy.com/twitter/girliegirl0078",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/girliegirl0078/status/331105753739964416",
+                "trackback_author_name": "girliegirl0078",
+                "trackback_author_nick": "girliegirl0078"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1372705641,
+                "title": "#stormy #berlin @ Hashi Japanese Kitchen http://t.co/rPK2UhqghI",
+                "url": "http://twitter.com/mikeschwede/status/351779074357739521",
+                "trackback_date": 1372705641,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/rPK2UhqghI",
+                        "display_url": "instagram.com/p/bPAdhMjwbg/",
+                        "expanded_url": "http://instagram.com/p/bPAdhMjwbg/",
+                        "topsy_expanded_url": "http://instagram.com/p/bPAdhMjwbg/"
+                    }
+                ],
+                "target_birth_date": 1372705641,
+                "content": "#stormy #berlin @ Hashi Japanese Kitchen http://t.co/rPK2UhqghI",
+                "mytype": "tweet",
+                "score": 8.083267,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453103705953296384/ZCcjpH-y_normal.png",
+                "trackback_permalink": "http://twitter.com/mikeschwede/status/351779074357739521",
+                "trackback_author_url": "http://twitter.com/mikeschwede",
+                "highlight": "#stormy #berlin @ Hashi Japanese Kitchen",
+                "topsy_author_url": "http://topsy.com/twitter/mikeschwede",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mikeschwede/status/351779074357739521",
+                "trackback_author_name": "Mike Schwede",
+                "trackback_author_nick": "mikeschwede"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 840,
+        "hidden": 0,
+        "total": 56386,
+        "page": 1
+    }
+}

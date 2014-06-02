@@ -1,0 +1,274 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23lecture&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=790",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#lecture",
+            "window": "a",
+            "type": "tweet",
+            "offset": "790"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 2,
+                "firstpost_date": 1337182260,
+                "title": "Great Lecture by the master Ray Bradbury! http://t.co/gUzg6S15 #writers #writing #lecture",
+                "url": "http://twitter.com/phantomimic/status/202783212601225216",
+                "trackback_date": 1337182260,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/gUzg6S15",
+                        "display_url": "dld.bz/bw2hS",
+                        "expanded_url": "http://dld.bz/bw2hS",
+                        "topsy_expanded_url": "http://phantomimic.weebly.com/2/post/2012/04/great-lecture-by-the-master-ray-bradbury.html"
+                    }
+                ],
+                "target_birth_date": 1337182260,
+                "content": "Great Lecture by the master Ray Bradbury! http://t.co/gUzg6S15 #writers #writing #lecture",
+                "mytype": "tweet",
+                "score": 8.198502,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000469064308/9671260dc7e59704db6f0caf5f030388_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Phantomimic/status/202783212601225216",
+                "trackback_author_url": "http://twitter.com/phantomimic",
+                "highlight": "Great Lecture by the master Ray Bradbury! #writers #writing",
+                "topsy_author_url": "http://topsy.com/twitter/phantomimic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/phantomimic/status/202783212601225216",
+                "trackback_author_name": "Phantomimic",
+                "trackback_author_nick": "phantomimic"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1331710584,
+                "title": "Une histoire musicale du rock, #lecture http://t.co/kKSNVJkS",
+                "url": "http://twitter.com/etienne_mineur/status/179833338322890752",
+                "trackback_date": 1331710584,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kKSNVJkS",
+                        "expanded_url": "http://twitter.com/etienne_mineur/status/179833338322890752/photo/1",
+                        "display_url": "pic.twitter.com/kKSNVJkS"
+                    }
+                ],
+                "target_birth_date": 1331710584,
+                "content": "Une histoire musicale du rock, #lecture http://t.co/kKSNVJkS",
+                "mytype": "tweet",
+                "score": 8.19827,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000110406204/c1ca181f3c6996f025835e8543595b79_normal.png",
+                "trackback_permalink": "http://twitter.com/etienne_mineur/status/179833338322890752",
+                "trackback_author_url": "http://twitter.com/etienne_mineur",
+                "highlight": "Une histoire musicale du rock, #lecture",
+                "topsy_author_url": "http://topsy.com/twitter/etienne_mineur",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/etienne_mineur/status/179833338322890752",
+                "trackback_author_name": "Etienne Mineur",
+                "trackback_author_nick": "etienne_mineur"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1396866758,
+                "title": "La #liseuse, \"un #meuble tr\u00e8s #parisien\", pour \"client\u00e8le fortun\u00e9e\" http://t.co/y6lD6UrfU3 #lecture",
+                "url": "http://twitter.com/actualitte/status/453118142634397696",
+                "trackback_date": 1396866758,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/y6lD6UrfU3",
+                        "display_url": "actualitte.com/t/LpRHalO",
+                        "expanded_url": "http://www.actualitte.com/t/LpRHalO",
+                        "topsy_expanded_url": "http://www.actualitte.com/patrimoine/la-liseuse-un-meuble-tres-parisien-pour-clientele-fortunee-49353.htm"
+                    }
+                ],
+                "target_birth_date": 1396866758,
+                "content": "La #liseuse, \"un #meuble tr\u00e8s #parisien\", pour \"client\u00e8le fortun\u00e9e\" http://t.co/y6lD6UrfU3 #lecture",
+                "mytype": "tweet",
+                "score": 8.198092,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1529495439/Sans_titre_normal.png",
+                "trackback_permalink": "http://twitter.com/ActuaLitte/status/453118142634397696",
+                "trackback_author_url": "http://twitter.com/actualitte",
+                "highlight": "La #liseuse, \"un #meuble tr\u00e8s #parisien\", pour \"client\u00e8le fortun\u00e9e\"",
+                "topsy_author_url": "http://topsy.com/twitter/actualitte",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/actualitte/status/453118142634397696",
+                "trackback_author_name": "ActuaLitt\u00e9",
+                "trackback_author_nick": "actualitte"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1293035026,
+                "title": "Omsk Architecture http://cih.ru/ae/aa82.html \u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u041e\u043c\u0441\u043a\u0430 #architecture #lecture #Omsk \u2584\u2580 via @cihru",
+                "url": "http://twitter.com/newsarch/status/17616294002040832",
+                "trackback_date": 1293035026,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1293035026,
+                "content": "Omsk Architecture http://cih.ru/ae/aa82.html \u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u041e\u043c\u0441\u043a\u0430 #architecture #lecture #Omsk \u2584\u2580 via @cihru",
+                "mytype": "tweet",
+                "score": 8.197706,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1818092898/ar_normal.png",
+                "trackback_permalink": "http://twitter.com/NewsArch/status/17616294002040832",
+                "trackback_author_url": "http://twitter.com/newsarch",
+                "highlight": "Omsk Architecture \u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u041e\u043c\u0441\u043a\u0430 #architecture #lecture #Omsk \u2584\u2580 via @cihru",
+                "topsy_author_url": "http://topsy.com/twitter/newsarch",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/newsarch/status/17616294002040832",
+                "trackback_author_name": "Architecture News",
+                "trackback_author_nick": "newsarch"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1326698121,
+                "title": "RT @WINERUFFIAN #Lecture Stubborn Fat Loss and the HCG Diet http://t.co/8Xy3NojE - #Vancouver",
+                "url": "http://twitter.com/vancouver_rt/status/158809546373079040",
+                "trackback_date": 1326698121,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8Xy3NojE",
+                        "display_url": "ow.ly/8sHUu",
+                        "expanded_url": "http://ow.ly/8sHUu",
+                        "topsy_expanded_url": "http://hcg-diet.eventbrite.com/"
+                    }
+                ],
+                "target_birth_date": 1326698121,
+                "content": "RT @WINERUFFIAN #Lecture Stubborn Fat Loss and the HCG Diet http://t.co/8Xy3NojE - #Vancouver",
+                "mytype": "tweet",
+                "score": 8.197599,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3344765597/cba8baa23f72186af2a03364915bade6_normal.png",
+                "trackback_permalink": "http://twitter.com/vancouver_rt/status/158809546373079040",
+                "trackback_author_url": "http://twitter.com/vancouver_rt",
+                "highlight": "RT @WINERUFFIAN #Lecture Stubborn Fat Loss and the HCG Diet -",
+                "topsy_author_url": "http://topsy.com/twitter/vancouver_rt",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/vancouver_rt/status/158809546373079040",
+                "trackback_author_name": "Vancouver Retweeter",
+                "trackback_author_nick": "vancouver_rt"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1268011397,
+                "title": "(Source: Royal Aeronautical Society). Two upcoming opportunities to hear David Mackay, tes...  http://reduce.li/j22pnx #lecture",
+                "url": "http://twitter.com/blogsoftheworld/status/10146045785",
+                "trackback_date": 1268011397,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1268011397,
+                "content": "(Source: Royal Aeronautical Society). Two upcoming opportunities to hear David Mackay, tes...  http://reduce.li/j22pnx #lecture",
+                "mytype": "tweet",
+                "score": 8.197487,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/450115169/blogs_of_the_world_normal.jpg",
+                "trackback_permalink": "http://twitter.com/blogsoftheworld/status/10146045785",
+                "trackback_author_url": "http://twitter.com/blogsoftheworld",
+                "highlight": "(Source: Royal Aeronautical Society). Two upcoming opportunities to hear David Mackay, tes",
+                "topsy_author_url": "http://topsy.com/twitter/blogsoftheworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/blogsoftheworld/status/10146045785",
+                "trackback_author_name": "blogs of the world",
+                "trackback_author_nick": "blogsoftheworld"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1274164150,
+                "title": "Pelosi lectures bishops. House Speaker says Church should preach immigration reform from i...  http://reduce.li/lr9icu #lecture",
+                "url": "http://twitter.com/blogsoftheworld/status/14211736801",
+                "trackback_date": 1274164150,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1274164150,
+                "content": "Pelosi lectures bishops. House Speaker says Church should preach immigration reform from i...  http://reduce.li/lr9icu #lecture",
+                "mytype": "tweet",
+                "score": 8.197389,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/450115169/blogs_of_the_world_normal.jpg",
+                "trackback_permalink": "http://twitter.com/blogsoftheworld/status/14211736801",
+                "trackback_author_url": "http://twitter.com/blogsoftheworld",
+                "highlight": "Pelosi lectures bishops. House Speaker says Church should preach immigration reform from i",
+                "topsy_author_url": "http://topsy.com/twitter/blogsoftheworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/blogsoftheworld/status/14211736801",
+                "trackback_author_name": "blogs of the world",
+                "trackback_author_nick": "blogsoftheworld"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1348802782,
+                "title": "In What Time Do We Live?,\u00a0Jacques Ranci\u00e8re http://t.co/H62EFQgf [#video] [#lecture]",
+                "url": "http://twitter.com/hollmanlozano/status/251523215338373120",
+                "trackback_date": 1348802782,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/H62EFQgf",
+                        "display_url": "bit.ly/OsMGSz",
+                        "expanded_url": "http://bit.ly/OsMGSz",
+                        "topsy_expanded_url": "http://www.oca.no/programme/audiovisual/the-state-of-things-jacques-ranci-re"
+                    }
+                ],
+                "target_birth_date": 1348802782,
+                "content": "In What Time Do We Live?,\u00a0Jacques Ranci\u00e8re http://t.co/H62EFQgf [#video] [#lecture]",
+                "mytype": "tweet",
+                "score": 8.197053,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/465914742553317377/DFZDl9fx_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/hollmanlozano/status/251523215338373120",
+                "trackback_author_url": "http://twitter.com/hollmanlozano",
+                "highlight": "In What Time Do We Live?,\u00a0Jacques Ranci\u00e8re [#video] [#lecture]",
+                "topsy_author_url": "http://topsy.com/twitter/hollmanlozano",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hollmanlozano/status/251523215338373120",
+                "trackback_author_name": "Hollman Lozano",
+                "trackback_author_nick": "hollmanlozano"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1356602163,
+                "title": "Ma famille me conna\u00eet ;-) #no\u00ebl #lecture #cadeaux http://t.co/BFZK9GBD",
+                "url": "http://twitter.com/geoffreydorne/status/284236188510994432",
+                "trackback_date": 1356602163,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/BFZK9GBD",
+                        "expanded_url": "http://twitter.com/GeoffreyDorne/status/284236188510994432/photo/1",
+                        "display_url": "pic.twitter.com/BFZK9GBD"
+                    }
+                ],
+                "target_birth_date": 1356602163,
+                "content": "Ma famille me conna\u00eet ;-) #no\u00ebl #lecture #cadeaux http://t.co/BFZK9GBD",
+                "mytype": "tweet",
+                "score": 8.196935,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458691405179658240/KvWME-bS_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/GeoffreyDorne/status/284236188510994432",
+                "trackback_author_url": "http://twitter.com/geoffreydorne",
+                "highlight": "Ma famille me conna\u00eet ;-) #no\u00ebl #lecture #cadeaux",
+                "topsy_author_url": "http://topsy.com/twitter/geoffreydorne",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/geoffreydorne/status/284236188510994432",
+                "trackback_author_name": "Geoffrey Dorne",
+                "trackback_author_nick": "geoffreydorne"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1389740769,
+                "title": "#TheLoungeEffect #Lecture Class is now in session",
+                "url": "http://twitter.com/fly_n_v/status/423229578895970304",
+                "trackback_date": 1389740769,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1389740769,
+                "content": "#TheLoungeEffect #Lecture Class is now in session",
+                "mytype": "tweet",
+                "score": 8.196921,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460791322157142017/qPHb7sPu_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Fly_N_V/status/423229578895970304",
+                "trackback_author_url": "http://twitter.com/fly_n_v",
+                "highlight": "#TheLoungeEffect #Lecture Class is now in session",
+                "topsy_author_url": "http://topsy.com/twitter/fly_n_v",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/fly_n_v/status/423229578895970304",
+                "trackback_author_name": "Arthur Belefonta ",
+                "trackback_author_nick": "fly_n_v"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 790,
+        "hidden": 0,
+        "total": 131248,
+        "page": 1
+    }
+}

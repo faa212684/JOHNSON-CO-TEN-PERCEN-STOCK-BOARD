@@ -1,0 +1,275 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23ramp&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=70",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#ramp",
+            "window": "a",
+            "type": "tweet",
+            "offset": "70"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 2,
+                "firstpost_date": 1316013061,
+                "title": "#RAMP @schneidermike awesome day 2 keynote here in Chicago. http://t.co/d3gRlSE",
+                "url": "http://twitter.com/bj_emerson/status/113993151722696704",
+                "trackback_date": 1316013061,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/d3gRlSE",
+                        "expanded_url": "http://twitter.com/BJ_Emerson/status/113993151722696704/photo/1",
+                        "display_url": "pic.twitter.com/d3gRlSE"
+                    }
+                ],
+                "target_birth_date": 1316013061,
+                "content": "#RAMP @schneidermike awesome day 2 keynote here in Chicago. http://t.co/d3gRlSE",
+                "mytype": "tweet",
+                "score": 8.445369,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3058017091/101f7f2cd53a6ac6b3ea2c8b75ab3c54_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BJ_Emerson/status/113993151722696704",
+                "trackback_author_url": "http://twitter.com/bj_emerson",
+                "highlight": "#RAMP @schneidermike awesome day 2 keynote here in Chicago.",
+                "topsy_author_url": "http://topsy.com/twitter/bj_emerson",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bj_emerson/status/113993151722696704",
+                "trackback_author_name": "BJ Emerson",
+                "trackback_author_nick": "bj_emerson"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1366669026,
+                "title": "Grilled #ramp butter http://t.co/XnwQ27aG4e",
+                "url": "http://twitter.com/alexrsaenz/status/326459674046119937",
+                "trackback_date": 1366669026,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XnwQ27aG4e",
+                        "display_url": "instagram.com/p/YbGY40NaXd/",
+                        "expanded_url": "http://instagram.com/p/YbGY40NaXd/",
+                        "topsy_expanded_url": "http://instagram.com/p/YbGY40NaXd/"
+                    }
+                ],
+                "target_birth_date": 1366669026,
+                "content": "Grilled #ramp butter http://t.co/XnwQ27aG4e",
+                "mytype": "tweet",
+                "score": 8.444194,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000499163889/4ac381f941a7889f7290b4fe999d87a7_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AlexRSaenz/status/326459674046119937",
+                "trackback_author_url": "http://twitter.com/alexrsaenz",
+                "highlight": "Grilled #ramp butter",
+                "topsy_author_url": "http://topsy.com/twitter/alexrsaenz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/alexrsaenz/status/326459674046119937",
+                "trackback_author_name": "Alex S\u00e1enz",
+                "trackback_author_nick": "alexrsaenz"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1315340000,
+                "title": "\u201c@thirzamilena: #ramp fotograaf belt af. Wie kent er professionele fotograaf die ervaring heeft met bruiloften?Nog 9 dagen voor de bruiloft!",
+                "url": "http://twitter.com/renskevents/status/111170136282632193",
+                "trackback_date": 1315340000,
+                "trackback_total": 24,
+                "url_expansions": [],
+                "target_birth_date": 1315340000,
+                "content": "\u201c@thirzamilena: #ramp fotograaf belt af. Wie kent er professionele fotograaf die ervaring heeft met bruiloften?Nog 9 dagen voor de bruiloft!",
+                "mytype": "tweet",
+                "score": 8.437977,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3286460983/4b5577c7595de35f96a84054226b1472_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Renskevents/status/111170136282632193",
+                "trackback_author_url": "http://twitter.com/renskevents",
+                "highlight": "\u201c@thirzamilena: #ramp fotograaf belt af. Wie kent er professionele fotograaf die ervaring heeft met bruiloften?Nog 9 dagen voor de bruiloft!",
+                "topsy_author_url": "http://topsy.com/twitter/renskevents",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/renskevents/status/111170136282632193",
+                "trackback_author_name": "Renske | RenskEvents",
+                "trackback_author_nick": "renskevents"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1316016464,
+                "title": "#ramp \"we used to call it stalking, now we call it location-based marketing\" - @BJ_Emerson",
+                "url": "http://twitter.com/schneidermike/status/114007430911897604",
+                "trackback_date": 1316016464,
+                "trackback_total": 3,
+                "url_expansions": [],
+                "target_birth_date": 1316016464,
+                "content": "#ramp \"we used to call it stalking, now we call it location-based marketing\" - @BJ_Emerson",
+                "mytype": "tweet",
+                "score": 8.435309,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452068977561591808/MXt_cTzw_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/schneidermike/status/114007430911897604",
+                "trackback_author_url": "http://twitter.com/schneidermike",
+                "highlight": "#ramp \"we used to call it stalking, now we call it location-based marketing\" - @BJ_Emerson",
+                "topsy_author_url": "http://topsy.com/twitter/schneidermike",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/schneidermike/status/114007430911897604",
+                "trackback_author_name": "schneidermike",
+                "trackback_author_nick": "schneidermike"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1375469489,
+                "title": "Doing boy stuff with remote control cars with my boy in the back garden #ramp http://t.co/XesksM8ZBG",
+                "url": "http://twitter.com/tyres2u/status/363371493050155009",
+                "trackback_date": 1375469489,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XesksM8ZBG",
+                        "display_url": "pic.twitter.com/XesksM8ZBG",
+                        "expanded_url": "http://twitter.com/tyres2u/status/363371493050155009/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BQr0cp0CAAAnzob.jpg"
+                    }
+                ],
+                "target_birth_date": 1375469489,
+                "content": "Doing boy stuff with remote control cars with my boy in the back garden #ramp http://t.co/XesksM8ZBG",
+                "mytype": "tweet",
+                "score": 8.433394,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000150713067/0373e06f6a26630d48367cecd7d14916_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/tyres2u/status/363371493050155009",
+                "trackback_author_url": "http://twitter.com/tyres2u",
+                "highlight": "Doing boy stuff with remote control cars with my boy in the back garden #ramp",
+                "topsy_author_url": "http://topsy.com/twitter/tyres2u",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tyres2u/status/363371493050155009",
+                "trackback_author_name": "Peter Kerr",
+                "trackback_author_nick": "tyres2u"
+            },
+            {
+                "hits": 15,
+                "firstpost_date": 1344356988,
+                "title": "I Hate When People Hashtag EVERY SINGLE LITTLE THING In There Instagram Pictures EX: #Red #Cool #Kid #Instalikes #FreshFade #Wit #a #Ramp",
+                "url": "http://twitter.com/callme_osmosis/status/232876203147681792",
+                "trackback_date": 1344356988,
+                "trackback_total": 17,
+                "url_expansions": [],
+                "target_birth_date": 1344356988,
+                "content": "I Hate When People Hashtag EVERY SINGLE LITTLE THING In There Instagram Pictures EX: #Red #Cool #Kid #Instalikes #FreshFade #Wit #a #Ramp",
+                "mytype": "tweet",
+                "score": 8.432569,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458599160002793473/VWj8_Y7F_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CallMe_Osmosis/status/232876203147681792",
+                "trackback_author_url": "http://twitter.com/callme_osmosis",
+                "highlight": "I Hate When People Hashtag EVERY SINGLE LITTLE THING In There Instagram Pictures EX: #Red #Cool #Kid #Instalikes #FreshFade #Wit #a",
+                "topsy_author_url": "http://topsy.com/twitter/callme_osmosis",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/callme_osmosis/status/232876203147681792",
+                "trackback_author_name": "IG:Callme_Osmosis",
+                "trackback_author_nick": "callme_osmosis"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1396927634,
+                "title": "Different angle of the ramp! I have a little more work to do 2 it then I'll ride it! #75ft #ramp #temecula #palmtree http://t.co/CNoFHWmGlr",
+                "url": "http://twitter.com/toddpotter1/status/453373474581381120",
+                "trackback_date": 1396927634,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/CNoFHWmGlr",
+                        "display_url": "pic.twitter.com/CNoFHWmGlr",
+                        "expanded_url": "http://twitter.com/TODDPOTTER1/status/453373474581381120/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bkq0xdrCEAAehMc.jpg"
+                    }
+                ],
+                "target_birth_date": 1396927634,
+                "content": "Different angle of the ramp! I have a little more work to do 2 it then I'll ride it! #75ft #ramp #temecula #palmtree http://t.co/CNoFHWmGlr",
+                "mytype": "tweet",
+                "score": 8.428503,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/447059513/931O5496_normal.jpg",
+                "trackback_permalink": "http://twitter.com/TODDPOTTER1/status/453373474581381120",
+                "trackback_author_url": "http://twitter.com/toddpotter1",
+                "highlight": "Different angle of the ramp! I have a little more work to do 2 it then I'll ride it! #75ft #ramp #temecula #palmtree",
+                "topsy_author_url": "http://topsy.com/twitter/toddpotter1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/toddpotter1/status/453373474581381120",
+                "trackback_author_name": "Todd Potter",
+                "trackback_author_nick": "toddpotter1"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1397142599,
+                "title": "RT @thebookmarker10: The Impossible #Ramp for #Disabled http://t.co/e1cpg0W2x5",
+                "url": "http://twitter.com/disabledworld/status/454275102537175040",
+                "trackback_date": 1397142599,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/e1cpg0W2x5",
+                        "display_url": "buff.ly/OJN2V3",
+                        "expanded_url": "http://buff.ly/OJN2V3",
+                        "topsy_expanded_url": "http://www.bubblews.com/news/797295-the-impossible-ramp-for-the-disabled"
+                    }
+                ],
+                "target_birth_date": 1397142599,
+                "content": "RT @thebookmarker10: The Impossible #Ramp for #Disabled http://t.co/e1cpg0W2x5",
+                "mytype": "tweet",
+                "score": 8.422868,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458966948349366272/4kGEZcsH_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DisabledWorld/status/454275102537175040",
+                "trackback_author_url": "http://twitter.com/disabledworld",
+                "highlight": "The Impossible #Ramp for #Disabled",
+                "topsy_author_url": "http://topsy.com/twitter/disabledworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/disabledworld/status/454275102537175040",
+                "trackback_author_name": "Disabled World",
+                "trackback_author_nick": "disabledworld"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1337626592,
+                "title": "Your mission: Transform Your Future. Log on to the ECN today to earn your #RAMP rewards http://t.co/Y5nbzrbe #EMC #EMCWorld",
+                "url": "http://twitter.com/tyleraltrup/status/204646876182618113",
+                "trackback_date": 1337626592,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Y5nbzrbe",
+                        "display_url": "bit.ly/JhLR7E",
+                        "expanded_url": "http://bit.ly/JhLR7E",
+                        "topsy_expanded_url": "https://community.emc.com/community/connect/ramp?short"
+                    }
+                ],
+                "target_birth_date": 1337626592,
+                "content": "Your mission: Transform Your Future. Log on to the ECN today to earn your #RAMP rewards http://t.co/Y5nbzrbe #EMC #EMCWorld",
+                "mytype": "tweet",
+                "score": 8.421825,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2940262441/e1001e14daf2e2366e85b8d3df94e63f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TylerAltrup/status/204646876182618113",
+                "trackback_author_url": "http://twitter.com/tyleraltrup",
+                "highlight": "Your mission: Transform Your Future. Log on to the ECN today to earn your #RAMP rewards #EMC",
+                "topsy_author_url": "http://topsy.com/twitter/tyleraltrup",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tyleraltrup/status/204646876182618113",
+                "trackback_author_name": "Tyler Altrup",
+                "trackback_author_nick": "tyleraltrup"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1382213575,
+                "title": "@omropfryslan Jullie hebben een informerende en publieke rol bij deze #ramp, spreek OF Nederlands,OF zet er ondertitels bij aub! #Leeuwarden",
+                "url": "http://twitter.com/djsteffie/status/391658239483314176",
+                "trackback_date": 1382213575,
+                "trackback_total": 14,
+                "url_expansions": [],
+                "target_birth_date": 1382213575,
+                "content": "@omropfryslan Jullie hebben een informerende en publieke rol bij deze #ramp, spreek OF Nederlands,OF zet er ondertitels bij aub! #Leeuwarden",
+                "mytype": "tweet",
+                "score": 8.413269,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471801137063292928/yJdBn5rR_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/djsteffie/status/391658239483314176",
+                "trackback_author_url": "http://twitter.com/djsteffie",
+                "highlight": " Jullie hebben een informerende en publieke rol bij deze #ramp, spreek OF Nederlands,OF zet er ondertitels bij aub!",
+                "topsy_author_url": "http://topsy.com/twitter/djsteffie",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/djsteffie/status/391658239483314176",
+                "trackback_author_name": "Stef Misker",
+                "trackback_author_nick": "djsteffie"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 70,
+        "hidden": 0,
+        "total": 49027,
+        "page": 1
+    }
+}

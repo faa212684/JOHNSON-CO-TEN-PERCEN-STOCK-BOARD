@@ -1,0 +1,289 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23waste&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=90",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#waste",
+            "window": "a",
+            "type": "tweet",
+            "offset": "90"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 13,
+                "firstpost_date": 1375146009,
+                "title": "Stop writing custom code. http://t.co/25tIYSOgmM #waste",
+                "url": "http://twitter.com/danmartell/status/362014718862442498",
+                "trackback_date": 1375146009,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/25tIYSOgmM",
+                        "display_url": "buff.ly/13hNOxy",
+                        "expanded_url": "http://buff.ly/13hNOxy",
+                        "topsy_expanded_url": "https://medium.com/contrarian-corner/86ba188b0f30"
+                    }
+                ],
+                "target_birth_date": 1375146009,
+                "content": "Stop writing custom code. http://t.co/25tIYSOgmM #waste",
+                "mytype": "tweet",
+                "score": 9.376853,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/465852106419621888/KbEQgsE__normal.jpeg",
+                "trackback_permalink": "http://twitter.com/danmartell/status/362014718862442498",
+                "trackback_author_url": "http://twitter.com/danmartell",
+                "highlight": "Stop writing custom code.",
+                "topsy_author_url": "http://topsy.com/twitter/danmartell",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/danmartell/status/362014718862442498",
+                "trackback_author_name": "Dan Martell",
+                "trackback_author_nick": "danmartell"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1348354243,
+                "title": "Cutting down on #waste: http://t.co/aBKWiuDM Focusing on quality and quantity of #food",
+                "url": "http://twitter.com/nrdc/status/249641907762913280",
+                "trackback_date": 1348354243,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/aBKWiuDM",
+                        "display_url": "j.mp/SF6iy0",
+                        "expanded_url": "http://j.mp/SF6iy0",
+                        "topsy_expanded_url": "http://j.mp/SF6iy0"
+                    }
+                ],
+                "target_birth_date": 1348354243,
+                "content": "Cutting down on #waste: http://t.co/aBKWiuDM Focusing on quality and quantity of #food",
+                "mytype": "tweet",
+                "score": 9.351534,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459033456383496192/umjDmi6i_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NRDC/status/249641907762913280",
+                "trackback_author_url": "http://twitter.com/nrdc",
+                "highlight": "Cutting down on #waste: Focusing on quality and quantity of",
+                "topsy_author_url": "http://topsy.com/twitter/nrdc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nrdc/status/249641907762913280",
+                "trackback_author_name": "NRDC",
+                "trackback_author_nick": "nrdc"
+            },
+            {
+                "hits": 20,
+                "firstpost_date": 1397259716,
+                "title": "#LA: 2nd largest city in US on a path towards achieving #sustainability through robust set of Zero #Waste policies. http://t.co/KiauVUbOiT",
+                "url": "http://twitter.com/nrdc/status/454766327807627264",
+                "trackback_date": 1397259716,
+                "trackback_total": 20,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/KiauVUbOiT",
+                        "display_url": "j.mp/1keC4mV",
+                        "expanded_url": "http://j.mp/1keC4mV",
+                        "topsy_expanded_url": "http://switchboard.nrdc.org/blogs/lescalante/la_city_overwhelmingly_support.html"
+                    }
+                ],
+                "target_birth_date": 1397259716,
+                "content": "#LA: 2nd largest city in US on a path towards achieving #sustainability through robust set of Zero #Waste policies. http://t.co/KiauVUbOiT",
+                "mytype": "tweet",
+                "score": 9.349922,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459033456383496192/umjDmi6i_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NRDC/status/454766327807627264",
+                "trackback_author_url": "http://twitter.com/nrdc",
+                "highlight": "#LA: 2nd largest city in US on a path towards achieving #sustainability through robust set of Zero #Waste policies.",
+                "topsy_author_url": "http://topsy.com/twitter/nrdc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nrdc/status/454766327807627264",
+                "trackback_author_name": "NRDC",
+                "trackback_author_nick": "nrdc"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1323799283,
+                "title": "Mr Georgia Basketball of 2001, Kwame Brown signs a 1 yr $7 mil contract with Golden State. Puts Kwame career earnings at $58,477,908. #Waste",
+                "url": "http://twitter.com/gafollowers/status/146650939326083072",
+                "trackback_date": 1323799283,
+                "trackback_total": 25,
+                "url_expansions": [],
+                "target_birth_date": 1323799283,
+                "content": "Mr Georgia Basketball of 2001, Kwame Brown signs a 1 yr $7 mil contract with Golden State. Puts Kwame career earnings at $58,477,908. #Waste",
+                "mytype": "tweet",
+                "score": 9.349802,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/446021219679088640/lGbDI07i_normal.png",
+                "trackback_permalink": "http://twitter.com/GAFollowers/status/146650939326083072",
+                "trackback_author_url": "http://twitter.com/gafollowers",
+                "highlight": "Mr Georgia Basketball of 2001, Kwame Brown signs a 1 yr $7 mil contract with Golden State. Puts Kwame career earnings at $58,477,908.",
+                "topsy_author_url": "http://topsy.com/twitter/gafollowers",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gafollowers/status/146650939326083072",
+                "trackback_author_name": "Everything Georgia",
+                "trackback_author_nick": "gafollowers"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1391717022,
+                "title": "Easy Steps to Cut #Energy #Waste and Save Money, No Matter How Cold it Gets http://t.co/ecBRkPoHfM #energyefficiency",
+                "url": "http://twitter.com/nrdc/status/431518582955323392",
+                "trackback_date": 1391717022,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ecBRkPoHfM",
+                        "display_url": "j.mp/1eY1qiP",
+                        "expanded_url": "http://j.mp/1eY1qiP",
+                        "topsy_expanded_url": "http://switchboard.nrdc.org/blogs/rstanfield/easy_steps_to_cut_energy_waste.html"
+                    }
+                ],
+                "target_birth_date": 1391717022,
+                "content": "Easy Steps to Cut #Energy #Waste and Save Money, No Matter How Cold it Gets http://t.co/ecBRkPoHfM #energyefficiency",
+                "mytype": "tweet",
+                "score": 9.347664,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459033456383496192/umjDmi6i_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NRDC/status/431518582955323392",
+                "trackback_author_url": "http://twitter.com/nrdc",
+                "highlight": "Easy Steps to Cut #Energy #Waste and Save Money, No Matter How Cold it Gets",
+                "topsy_author_url": "http://topsy.com/twitter/nrdc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nrdc/status/431518582955323392",
+                "trackback_author_name": "NRDC",
+                "trackback_author_nick": "nrdc"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1345729878,
+                "title": "These @USDOL ads were #stimulus funded, but \"govt reports showed the contract created no #jobs\" STORY: http://t.co/oljhfnSr #waste",
+                "url": "http://twitter.com/darrellissa/status/238634524035129344",
+                "trackback_date": 1345729878,
+                "trackback_total": 23,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/oljhfnSr",
+                        "display_url": "bit.ly/Q3llWd",
+                        "expanded_url": "http://bit.ly/Q3llWd",
+                        "topsy_expanded_url": "http://bit.ly/Q3llWd"
+                    }
+                ],
+                "target_birth_date": 1345729878,
+                "content": "These @USDOL ads were #stimulus funded, but \"govt reports showed the contract created no #jobs\" STORY: http://t.co/oljhfnSr #waste",
+                "mytype": "tweet",
+                "score": 9.345517,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/454338555456663552/phM7MZu5_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DarrellIssa/status/238634524035129344",
+                "trackback_author_url": "http://twitter.com/darrellissa",
+                "highlight": "These @USDOL ads were #stimulus funded, but \"govt reports showed the contract created no #jobs\" STORY:",
+                "topsy_author_url": "http://topsy.com/twitter/darrellissa",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/darrellissa/status/238634524035129344",
+                "trackback_author_name": "Darrell Issa",
+                "trackback_author_nick": "darrellissa"
+            },
+            {
+                "hits": 27,
+                "firstpost_date": 1361330280,
+                "title": "Solid #waste management is a critical municipal service. New free report reviews global practices. http://t.co/wX3Rv9ia",
+                "url": "http://twitter.com/worldbank/status/304067350334955520",
+                "trackback_date": 1361330280,
+                "trackback_total": 28,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/wX3Rv9ia",
+                        "expanded_url": "http://bit.ly/YDX3RR",
+                        "display_url": "bit.ly/YDX3RR"
+                    }
+                ],
+                "target_birth_date": 1361330280,
+                "content": "Solid #waste management is a critical municipal service. New free report reviews global practices. http://t.co/wX3Rv9ia",
+                "mytype": "tweet",
+                "score": 9.342742,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467312164873592832/6kwzJPbz_normal.png",
+                "trackback_permalink": "http://twitter.com/WorldBank/status/304067350334955520",
+                "trackback_author_url": "http://twitter.com/worldbank",
+                "highlight": "Solid #waste management is a critical municipal service. New free report reviews global practices.",
+                "topsy_author_url": "http://topsy.com/twitter/worldbank",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/worldbank/status/304067350334955520",
+                "trackback_author_name": "World Bank",
+                "trackback_author_nick": "worldbank"
+            },
+            {
+                "hits": 53,
+                "firstpost_date": 1390444191,
+                "title": "My office is throwing away (!!) a whole bunch of desks. Do any #Melbourne-based NFPs/Charities need desks? DM me... #waste",
+                "url": "http://twitter.com/andrewdotnich/status/426179945568550912",
+                "trackback_date": 1390444191,
+                "trackback_total": 65,
+                "url_expansions": [],
+                "target_birth_date": 1390444191,
+                "content": "My office is throwing away (!!) a whole bunch of desks. Do any #Melbourne-based NFPs/Charities need desks? DM me... #waste",
+                "mytype": "tweet",
+                "score": 9.341676,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000545001682/ec852553d97fe93f1942a5321f455b67_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/andrewdotnich/status/426179945568550912",
+                "trackback_author_url": "http://twitter.com/andrewdotnich",
+                "highlight": "My office is throwing away (!!) a whole bunch of desks. Do any #Melbourne-based NFPs/Charities need desks? DM me",
+                "topsy_author_url": "http://topsy.com/twitter/andrewdotnich",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/andrewdotnich/status/426179945568550912",
+                "trackback_author_name": "Andy Nicholson",
+                "trackback_author_nick": "andrewdotnich"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1314977188,
+                "title": "A synopsis of our Best Listicle Ever Of The Day: http://t.co/OD0nFLY #p2 #military #waste",
+                "url": "http://twitter.com/motherjones/status/109648392728227840",
+                "trackback_date": 1314977188,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/OD0nFLY",
+                        "display_url": "tumblr.com/xlv4gjgxbp",
+                        "expanded_url": "http://tumblr.com/xlv4gjgxbp",
+                        "topsy_expanded_url": "http://tumblr.com/xlv4gjgxbp"
+                    }
+                ],
+                "target_birth_date": 1314977188,
+                "content": "A synopsis of our Best Listicle Ever Of The Day: http://t.co/OD0nFLY #p2 #military #waste",
+                "mytype": "tweet",
+                "score": 9.339368,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/451825504207638528/2kBkscYK_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MotherJones/status/109648392728227840",
+                "trackback_author_url": "http://twitter.com/motherjones",
+                "highlight": "A synopsis of our Best Listicle Ever Of The Day: #p2 #military",
+                "topsy_author_url": "http://topsy.com/twitter/motherjones",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/motherjones/status/109648392728227840",
+                "trackback_author_name": "Mother Jones",
+                "trackback_author_nick": "motherjones"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1362672100,
+                "title": "RT @GOPoversight: Oversight to Hold Field Hearing on $51M #WASTE Annually on Empty Fed Buildings http://t.co/7t2CSp9Bzm",
+                "url": "http://twitter.com/darrellissa/status/309695353433755648",
+                "trackback_date": 1362672100,
+                "trackback_total": 17,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7t2CSp9Bzm",
+                        "display_url": "1.usa.gov/YaGTPn",
+                        "expanded_url": "http://1.usa.gov/YaGTPn",
+                        "topsy_expanded_url": "http://oversight.house.gov/release/u-s-house-committee-to-hold-hearing-in-miami-fla-on-51-million-wasted-annually-on-empty-federal-buildings/"
+                    }
+                ],
+                "target_birth_date": 1362672100,
+                "content": "RT @GOPoversight: Oversight to Hold Field Hearing on $51M #WASTE Annually on Empty Fed Buildings http://t.co/7t2CSp9Bzm",
+                "mytype": "tweet",
+                "score": 9.337532,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/454338555456663552/phM7MZu5_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DarrellIssa/status/309695353433755648",
+                "trackback_author_url": "http://twitter.com/darrellissa",
+                "highlight": "Oversight to Hold Field Hearing on $51M #WASTE Annually on Empty Fed Buildings",
+                "topsy_author_url": "http://topsy.com/twitter/darrellissa",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/darrellissa/status/309695353433755648",
+                "trackback_author_name": "Darrell Issa",
+                "trackback_author_nick": "darrellissa"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 90,
+        "hidden": 0,
+        "total": 588407,
+        "page": 1
+    }
+}

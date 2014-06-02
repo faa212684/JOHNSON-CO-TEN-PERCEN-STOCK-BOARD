@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23stormy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=340",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#stormy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "340"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1351530646,
+                "title": "Perfect weather for tea &amp; toast. #stormy",
+                "url": "http://twitter.com/heartalli/status/262964706384429056",
+                "trackback_date": 1351530646,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1351530646,
+                "content": "Perfect weather for tea &amp; toast. #stormy",
+                "mytype": "tweet",
+                "score": 8.330287,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/378800000040222635/139a0109e4768b9256e2d915f28eb8b6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/HeartAlli/status/262964706384429056",
+                "trackback_author_url": "http://twitter.com/heartalli",
+                "highlight": "Perfect weather for tea &amp; toast.",
+                "topsy_author_url": "http://topsy.com/twitter/heartalli",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/heartalli/status/262964706384429056",
+                "trackback_author_name": "Alli Bhandari",
+                "trackback_author_nick": "heartalli"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1375898290,
+                "title": "Dramatic March Sky http://t.co/llIzpuroEB #nature #stormy",
+                "url": "http://twitter.com/okoldkinderhook/status/365170012274688000",
+                "trackback_date": 1375898290,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/llIzpuroEB",
+                        "display_url": "su.pr/1IMhJM",
+                        "expanded_url": "http://su.pr/1IMhJM",
+                        "topsy_expanded_url": "http://www.stumbleupon.com/old-browser"
+                    }
+                ],
+                "target_birth_date": 1375898290,
+                "content": "Dramatic March Sky http://t.co/llIzpuroEB #nature #stormy",
+                "mytype": "tweet",
+                "score": 8.330101,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1370406420/6-10_110Square2Reduced_normal.jpg",
+                "trackback_permalink": "http://twitter.com/OKOldKinderhook/status/365170012274688000",
+                "trackback_author_url": "http://twitter.com/okoldkinderhook",
+                "highlight": "Dramatic March Sky #nature",
+                "topsy_author_url": "http://topsy.com/twitter/okoldkinderhook",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/okoldkinderhook/status/365170012274688000",
+                "trackback_author_name": "OK.OldKinderhook",
+                "trackback_author_nick": "okoldkinderhook"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1391452393,
+                "title": "In the storm '3 | #storm #stormy #deepblu #sea #reef #cliff http://t.co/Yh93KOYRJK",
+                "url": "http://twitter.com/valeriosdiary/status/430408650738245632",
+                "trackback_date": 1391452393,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Yh93KOYRJK",
+                        "display_url": "fb.me/6Ghb4GtlP",
+                        "expanded_url": "http://fb.me/6Ghb4GtlP",
+                        "topsy_expanded_url": "https://www.facebook.com/photo.php?fbid=783357065027816"
+                    }
+                ],
+                "target_birth_date": 1391452393,
+                "content": "In the storm '3 | #storm #stormy #deepblu #sea #reef #cliff http://t.co/Yh93KOYRJK",
+                "mytype": "tweet",
+                "score": 8.329979,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/433137430414503936/O2efv6-k_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/valeriosdiary/status/430408650738245632",
+                "trackback_author_url": "http://twitter.com/valeriosdiary",
+                "highlight": "In the storm '3 | #storm #stormy #deepblu #sea #reef #cliff",
+                "topsy_author_url": "http://topsy.com/twitter/valeriosdiary",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/valeriosdiary/status/430408650738245632",
+                "trackback_author_name": "Valerio Capitani",
+                "trackback_author_nick": "valeriosdiary"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1344102435,
+                "title": "Fuck you thunder, you can suck my dick! Perfect tune right now. #Scotland #Stormy",
+                "url": "http://twitter.com/timmj95/status/231808532150890496",
+                "trackback_date": 1344102435,
+                "trackback_total": 9,
+                "url_expansions": [],
+                "target_birth_date": 1344102435,
+                "content": "Fuck you thunder, you can suck my dick! Perfect tune right now. #Scotland #Stormy",
+                "mytype": "tweet",
+                "score": 8.32982,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000762573546/5273f9017be1ca3d8c1bd75b471feb83_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Timmj95/status/231808532150890496",
+                "trackback_author_url": "http://twitter.com/timmj95",
+                "highlight": "Fuck you thunder, you can suck my dick! Perfect tune right now. #Scotland",
+                "topsy_author_url": "http://topsy.com/twitter/timmj95",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/timmj95/status/231808532150890496",
+                "trackback_author_name": "Timothy Mj\u00e4llby",
+                "trackback_author_nick": "timmj95"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1396499877,
+                "title": "About 93 lightning strikes in the past 10 minutes between Franklin, Antioch &amp; Smyrna.  Not severe but loud! #stormy http://t.co/VtCJXY7ezj",
+                "url": "http://twitter.com/lpattonwkrn/status/451579332779986944",
+                "trackback_date": 1396499877,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/VtCJXY7ezj",
+                        "display_url": "pic.twitter.com/VtCJXY7ezj",
+                        "expanded_url": "http://twitter.com/lpattonwkrn/status/451579332779986944/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BkRVAp3CMAAD8ic.png"
+                    }
+                ],
+                "target_birth_date": 1396499877,
+                "content": "About 93 lightning strikes in the past 10 minutes between Franklin, Antioch &amp; Smyrna.  Not severe but loud! #stormy http://t.co/VtCJXY7ezj",
+                "mytype": "tweet",
+                "score": 8.329098,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3321480922/7db367b4f3b8881ac242335852211fa1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/lpattonwkrn/status/451579332779986944",
+                "trackback_author_url": "http://twitter.com/lpattonwkrn",
+                "highlight": "About 93 lightning strikes in the past 10 minutes between Franklin, Antioch &amp; Smyrna. Not severe but loud! #stormy",
+                "topsy_author_url": "http://topsy.com/twitter/lpattonwkrn",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lpattonwkrn/status/451579332779986944",
+                "trackback_author_name": "Lisa Patton",
+                "trackback_author_nick": "lpattonwkrn"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1389030256,
+                "title": "#stormy #winchcombe http://t.co/l8burvCOLr http://t.co/Z3C6oPPQAe",
+                "url": "http://twitter.com/redrock_it/status/420249471596118016",
+                "trackback_date": 1389030256,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/l8burvCOLr",
+                        "display_url": "ift.tt/1dagSNi",
+                        "expanded_url": "http://ift.tt/1dagSNi",
+                        "topsy_expanded_url": "http://instagram.com/p/i1gTYBwhe7/"
+                    },
+                    {
+                        "url": "http://t.co/Z3C6oPPQAe",
+                        "display_url": "pic.twitter.com/Z3C6oPPQAe",
+                        "expanded_url": "http://twitter.com/redrock_it/status/420249471596118016/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BdUGqvEIcAAIabL.jpg"
+                    }
+                ],
+                "target_birth_date": 1389030256,
+                "content": "#stormy #winchcombe http://t.co/l8burvCOLr http://t.co/Z3C6oPPQAe",
+                "mytype": "tweet",
+                "score": 8.328203,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/344513261577594179/e229992fa7627ce2227d0ccb8181d8d2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/redrock_it/status/420249471596118016",
+                "trackback_author_url": "http://twitter.com/redrock_it",
+                "highlight": "#stormy #winchcombe",
+                "topsy_author_url": "http://topsy.com/twitter/redrock_it",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/redrock_it/status/420249471596118016",
+                "trackback_author_name": "Mark Scarborough",
+                "trackback_author_nick": "redrock_it"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1379721024,
+                "title": "#Stormy where he is most comfortable... on a baseball diamond! #FuturesNight in KC for the @Royals vs @Rangers. http://t.co/7PjCR2yaPs",
+                "url": "http://twitter.com/omastormchasers/status/381203723784970240",
+                "trackback_date": 1379721024,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7PjCR2yaPs",
+                        "display_url": "pic.twitter.com/7PjCR2yaPs",
+                        "expanded_url": "http://twitter.com/OMAStormChasers/status/381203723784970240/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BUpOxFbCIAAUCFl.jpg"
+                    }
+                ],
+                "target_birth_date": 1379721024,
+                "content": "#Stormy where he is most comfortable... on a baseball diamond! #FuturesNight in KC for the @Royals vs @Rangers. http://t.co/7PjCR2yaPs",
+                "mytype": "tweet",
+                "score": 8.327989,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/451838421330169856/XaMitES6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OMAStormChasers/status/381203723784970240",
+                "trackback_author_url": "http://twitter.com/omastormchasers",
+                "highlight": "#Stormy where he is most comfortable... on a baseball diamond! #FuturesNight in KC for the @Royals vs @Rangers.",
+                "topsy_author_url": "http://topsy.com/twitter/omastormchasers",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/omastormchasers/status/381203723784970240",
+                "trackback_author_name": "Omaha Storm Chasers",
+                "trackback_author_nick": "omastormchasers"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1368578813,
+                "title": "#Hot And #Stormy Times Ahead For The Region!",
+                "url": "http://twitter.com/neweatherhq/status/334469903354560515",
+                "trackback_date": 1368578813,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1368578813,
+                "content": "#Hot And #Stormy Times Ahead For The Region!",
+                "mytype": "tweet",
+                "score": 8.327718,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/445018587854405633/uxkBXIdB_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NEweatherHQ/status/334469903354560515",
+                "trackback_author_url": "http://twitter.com/neweatherhq",
+                "highlight": "#Hot And #Stormy Times Ahead For The Region!",
+                "topsy_author_url": "http://topsy.com/twitter/neweatherhq",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/neweatherhq/status/334469903354560515",
+                "trackback_author_name": "NortheastWeatherHQ",
+                "trackback_author_nick": "neweatherhq"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1337085745,
+                "title": "Thames #stormy http://t.co/zqxeWXtt",
+                "url": "http://twitter.com/katesparkle/status/202378399417778177",
+                "trackback_date": 1337085745,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/zqxeWXtt",
+                        "display_url": "instagr.am/p/Kpc36iCS--/",
+                        "expanded_url": "http://instagr.am/p/Kpc36iCS--/",
+                        "topsy_expanded_url": "http://instagr.am/p/Kpc36iCS--/"
+                    }
+                ],
+                "target_birth_date": 1337085745,
+                "content": "Thames #stormy http://t.co/zqxeWXtt",
+                "mytype": "tweet",
+                "score": 8.324157,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000677466711/184ceee8fdfeedd0cfb2aa9d1e2a0560_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/katesparkle/status/202378399417778177",
+                "trackback_author_url": "http://twitter.com/katesparkle",
+                "highlight": "Thames #stormy",
+                "topsy_author_url": "http://topsy.com/twitter/katesparkle",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/katesparkle/status/202378399417778177",
+                "trackback_author_name": "kate drewett",
+                "trackback_author_nick": "katesparkle"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1274162430,
+                "title": "good morning from hungary. it is #cold #stormy just NOT the way it should be. have a nice day all.. am off to the market now! CU :)",
+                "url": "http://twitter.com/artbymimulux/status/14210724324",
+                "trackback_date": 1274162430,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1274162430,
+                "content": "good morning from hungary. it is #cold #stormy just NOT the way it should be. have a nice day all.. am off to the market now! CU :)",
+                "mytype": "tweet",
+                "score": 8.321657,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1120987044/Older_Than_Time_watermarked_JPG_KLEINAVATAR_normal.jpg",
+                "trackback_permalink": "http://twitter.com/artbymimulux/status/14210724324",
+                "trackback_author_url": "http://twitter.com/artbymimulux",
+                "highlight": "good morning from hungary. it is #cold #stormy just NOT the way it should be. have a nice day all.. am off to the market now! CU :)",
+                "topsy_author_url": "http://topsy.com/twitter/artbymimulux",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/artbymimulux/status/14210724324",
+                "trackback_author_name": "mimulux",
+                "trackback_author_nick": "artbymimulux"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 340,
+        "hidden": 0,
+        "total": 56607,
+        "page": 1
+    }
+}

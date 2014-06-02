@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23rally&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=100",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#rally",
+            "window": "a",
+            "type": "tweet",
+            "offset": "100"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 6,
+                "firstpost_date": 1288464349,
+                "title": "Stewart: wanted to give you \"the best show.\" Good summation. I'll buy that.  #rally",
+                "url": "http://twitter.com/davidcorndc/status/29208479533",
+                "trackback_date": 1288464349,
+                "trackback_total": 7,
+                "url_expansions": [],
+                "target_birth_date": 1288464349,
+                "content": "Stewart: wanted to give you \"the best show.\" Good summation. I'll buy that.  #rally",
+                "mytype": "tweet",
+                "score": 9.404143,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/431276795216678912/K9GgLuad_normal.png",
+                "trackback_permalink": "http://twitter.com/DavidCornDC/status/29208479533",
+                "trackback_author_url": "http://twitter.com/davidcorndc",
+                "highlight": "Stewart: wanted to give you \"the best show.\" Good summation. I'll buy that.",
+                "topsy_author_url": "http://topsy.com/twitter/davidcorndc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/davidcorndc/status/29208479533",
+                "trackback_author_name": "David Corn",
+                "trackback_author_nick": "davidcorndc"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1346877065,
+                "title": "[#rally] Listos para el Pr\u00edncipe de Asturias http://t.co/9ft4sfPs",
+                "url": "http://twitter.com/suzukimsport/status/243446171782217728",
+                "trackback_date": 1346877065,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9ft4sfPs",
+                        "display_url": "bit.ly/TnV3xw",
+                        "expanded_url": "http://bit.ly/TnV3xw",
+                        "topsy_expanded_url": "http://bit.ly/TnV3xw"
+                    }
+                ],
+                "target_birth_date": 1346877065,
+                "content": "[#rally] Listos para el Pr\u00edncipe de Asturias http://t.co/9ft4sfPs",
+                "mytype": "tweet",
+                "score": 9.402621,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1163900527/logo-sims_normal.png",
+                "trackback_permalink": "http://twitter.com/suzukimsport/status/243446171782217728",
+                "trackback_author_url": "http://twitter.com/suzukimsport",
+                "highlight": "[#rally] Listos para el Pr\u00edncipe de Asturias",
+                "topsy_author_url": "http://topsy.com/twitter/suzukimsport",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/suzukimsport/status/243446171782217728",
+                "trackback_author_name": "Suzuki-Repsol",
+                "trackback_author_nick": "suzukimsport"
+            },
+            {
+                "hits": 35,
+                "firstpost_date": 1391053071,
+                "title": "Don't miss your chance to help greyhounds! https://t.co/6NZ9Y32weX #greyhound #rally http://t.co/9QUU2AZrDZ",
+                "url": "http://twitter.com/animalsaus/status/428733771307708417",
+                "trackback_date": 1391053071,
+                "trackback_total": 36,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/6NZ9Y32weX",
+                        "display_url": "facebook.com/photo.php?fbid\u2026",
+                        "expanded_url": "https://www.facebook.com/photo.php?fbid=10152567690945299&set=a.107448345298.115177.32799215298&type=1&stream_ref=10",
+                        "topsy_expanded_url": "https://www.facebook.com/photo.php?set=a.107448345298.115177.32799215298&fbid=10152567690945299&type=1&stream_ref=10"
+                    },
+                    {
+                        "url": "http://t.co/9QUU2AZrDZ",
+                        "display_url": "pic.twitter.com/9QUU2AZrDZ",
+                        "expanded_url": "http://twitter.com/AnimalsAus/status/428733771307708417/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BfMrF-6CcAAPOVI.jpg"
+                    }
+                ],
+                "target_birth_date": 1391053071,
+                "content": "Don't miss your chance to help greyhounds! https://t.co/6NZ9Y32weX #greyhound #rally http://t.co/9QUU2AZrDZ",
+                "mytype": "tweet",
+                "score": 9.402574,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460294781206142976/vMZ2zYDX_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AnimalsAus/status/428733771307708417",
+                "trackback_author_url": "http://twitter.com/animalsaus",
+                "highlight": "Don't miss your chance to help greyhounds! #greyhound #rally",
+                "topsy_author_url": "http://topsy.com/twitter/animalsaus",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/animalsaus/status/428733771307708417",
+                "trackback_author_name": "Animals Australia",
+                "trackback_author_nick": "animalsaus"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1358456850,
+                "title": "#Rally: Joan Roma se lleva la duod\u00e9cima etapa del Rally Dakar y ya es tercero general http://t.co/2oPsvorI",
+                "url": "http://twitter.com/td_deportes/status/292015311195099136",
+                "trackback_date": 1358456850,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2oPsvorI",
+                        "display_url": "televisadeportes.esmas.com/autos/549479/n\u2026",
+                        "expanded_url": "http://televisadeportes.esmas.com/autos/549479/nani-roma-gana-etapa-12-del-dakar/",
+                        "topsy_expanded_url": "http://televisadeportes.esmas.com/autos/549479/nani-roma-gana-etapa-12-del-dakar/"
+                    }
+                ],
+                "target_birth_date": 1358456850,
+                "content": "#Rally: Joan Roma se lleva la duod\u00e9cima etapa del Rally Dakar y ya es tercero general http://t.co/2oPsvorI",
+                "mytype": "tweet",
+                "score": 9.401712,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/783934272/Logo_Deportes_Blanco_normal.jpg",
+                "trackback_permalink": "http://twitter.com/TD_Deportes/status/292015311195099136",
+                "trackback_author_url": "http://twitter.com/td_deportes",
+                "highlight": "#Rally: Joan Roma se lleva la duod\u00e9cima etapa del Rally Dakar y ya es tercero general",
+                "topsy_author_url": "http://topsy.com/twitter/td_deportes",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/td_deportes/status/292015311195099136",
+                "trackback_author_name": "Televisa Deportes",
+                "trackback_author_nick": "td_deportes"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1362498419,
+                "title": "VIDEO: #Guanajuato: reforzar la seguridad e impulsar el turismo con el #rally. Entrevista con @miguelmarquezm http://t.co/KjCFv6gEOX",
+                "url": "http://twitter.com/cnnmex/status/308966882411692032",
+                "trackback_date": 1362498419,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/KjCFv6gEOX",
+                        "display_url": "cnn.mx/v0038CE",
+                        "expanded_url": "http://cnn.mx/v0038CE",
+                        "topsy_expanded_url": "http://mexico.cnn.com/videos/2013/03/05/el-desarrollo-integral-de-guanajuato"
+                    }
+                ],
+                "target_birth_date": 1362498419,
+                "content": "VIDEO: #Guanajuato: reforzar la seguridad e impulsar el turismo con el #rally. Entrevista con @miguelmarquezm http://t.co/KjCFv6gEOX",
+                "mytype": "tweet",
+                "score": 9.400382,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/670220317/CNNMexico_Avatar_normal.jpg",
+                "trackback_permalink": "http://twitter.com/CNNMex/status/308966882411692032",
+                "trackback_author_url": "http://twitter.com/cnnmex",
+                "highlight": "VIDEO: #Guanajuato: reforzar la seguridad e impulsar el turismo con el #rally. Entrevista con @miguelmarquezm",
+                "topsy_author_url": "http://topsy.com/twitter/cnnmex",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cnnmex/status/308966882411692032",
+                "trackback_author_name": "CNNMex",
+                "trackback_author_nick": "cnnmex"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1373929758,
+                "title": "#justicefortrayvon #justice4trayvon #instagood #picoftheday #pictureoftheday #peace #rally #htown\u2026 http://t.co/VB7blDiG7x",
+                "url": "http://twitter.com/979thebox/status/356913390163214337",
+                "trackback_date": 1373929758,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/VB7blDiG7x",
+                        "display_url": "instagram.com/p/bzfJKEGJbR/",
+                        "expanded_url": "http://instagram.com/p/bzfJKEGJbR/",
+                        "topsy_expanded_url": "http://instagram.com/p/bzfJKEGJbR/"
+                    }
+                ],
+                "target_birth_date": 1373929758,
+                "content": "#justicefortrayvon #justice4trayvon #instagood #picoftheday #pictureoftheday #peace #rally #htown\u2026 http://t.co/VB7blDiG7x",
+                "mytype": "tweet",
+                "score": 9.385728,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2852875792/8c7d43727e7ee55fca869508f33b0de2_normal.png",
+                "trackback_permalink": "http://twitter.com/979TheBox/status/356913390163214337",
+                "trackback_author_url": "http://twitter.com/979thebox",
+                "highlight": "#justicefortrayvon #justice4trayvon #instagood #picoftheday #pictureoftheday #peace #rally #htown\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/979thebox",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/979thebox/status/356913390163214337",
+                "trackback_author_name": "KBXX 97.9 The Box",
+                "trackback_author_nick": "979thebox"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1390652165,
+                "title": "[#rally] Disponible el Reglamento de la Copa Suzuki Swift 2014 http://t.co/1ZH3rErpOC",
+                "url": "http://twitter.com/suzukimsport/status/427052249593159680",
+                "trackback_date": 1390652165,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1ZH3rErpOC",
+                        "display_url": "bit.ly/1f0M0vn",
+                        "expanded_url": "http://bit.ly/1f0M0vn",
+                        "topsy_expanded_url": "http://www.suzukimotorsport.es/2014/01/25/disponible-el-reglamento-de-la-copa-suzuki-swift-2014/"
+                    }
+                ],
+                "target_birth_date": 1390652165,
+                "content": "[#rally] Disponible el Reglamento de la Copa Suzuki Swift 2014 http://t.co/1ZH3rErpOC",
+                "mytype": "tweet",
+                "score": 9.380663,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1163900527/logo-sims_normal.png",
+                "trackback_permalink": "http://twitter.com/suzukimsport/status/427052249593159680",
+                "trackback_author_url": "http://twitter.com/suzukimsport",
+                "highlight": "[#rally] Disponible el Reglamento de la Copa Suzuki Swift 2014",
+                "topsy_author_url": "http://topsy.com/twitter/suzukimsport",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/suzukimsport/status/427052249593159680",
+                "trackback_author_name": "Suzuki-Repsol",
+                "trackback_author_nick": "suzukimsport"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1379440817,
+                "title": "Our boy Orlando Bloom is kickin' it with @LateNightJimmy tonight. Yeah, you have to get up early tomorrow, but power nap now and #RALLY!",
+                "url": "http://twitter.com/romeojulietbway/status/380028450779983872",
+                "trackback_date": 1379440817,
+                "trackback_total": 20,
+                "url_expansions": [],
+                "target_birth_date": 1379440817,
+                "content": "Our boy Orlando Bloom is kickin' it with @LateNightJimmy tonight. Yeah, you have to get up early tomorrow, but power nap now and #RALLY!",
+                "mytype": "tweet",
+                "score": 9.3779125,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000484033300/76aed3f925b09883f4747e1fab440619_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RomeoJulietBway/status/380028450779983872",
+                "trackback_author_url": "http://twitter.com/romeojulietbway",
+                "highlight": "Our boy Orlando Bloom is kickin' it with @LateNightJimmy tonight. Yeah, you have to get up early tomorrow, but power nap now and #RALLY!",
+                "topsy_author_url": "http://topsy.com/twitter/romeojulietbway",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/romeojulietbway/status/380028450779983872",
+                "trackback_author_name": "Romeo & Juliet",
+                "trackback_author_nick": "romeojulietbway"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1287866070,
+                "title": "CNN Calls the crowd \"Amazing\" which is pretty amazing!!! #Palin #RNC #RALLY #Orlando",
+                "url": "http://twitter.com/woohooyoo/status/28532258432",
+                "trackback_date": 1287866070,
+                "trackback_total": 11,
+                "url_expansions": [],
+                "target_birth_date": 1287866070,
+                "content": "CNN Calls the crowd \"Amazing\" which is pretty amazing!!! #Palin #RNC #RALLY #Orlando",
+                "mytype": "tweet",
+                "score": 9.37352,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000827739072/0b9a1b9ae5d16e422b52ac6fc6406c2f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/WooHooYoo/status/28532258432",
+                "trackback_author_url": "http://twitter.com/woohooyoo",
+                "highlight": "CNN Calls the crowd \"Amazing\" which is pretty amazing!!! #Palin #RNC #RALLY",
+                "topsy_author_url": "http://topsy.com/twitter/woohooyoo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/woohooyoo/status/28532258432",
+                "trackback_author_name": "Sharon Schwarz",
+                "trackback_author_nick": "woohooyoo"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1288433251,
+                "title": "The @HuffingtonPost buses are beginning to leave Citi Field for #rally. Organizers said earlier this week that 9,900 people had signed up.",
+                "url": "http://twitter.com/brianstelter/status/29170930628",
+                "trackback_date": 1288433251,
+                "trackback_total": 8,
+                "url_expansions": [],
+                "target_birth_date": 1288433251,
+                "content": "The @HuffingtonPost buses are beginning to leave Citi Field for #rally. Organizers said earlier this week that 9,900 people had signed up.",
+                "mytype": "tweet",
+                "score": 9.369296,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000011961281/f053ce187d9fe1393f4684ca92c89d74_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/brianstelter/status/29170930628",
+                "trackback_author_url": "http://twitter.com/brianstelter",
+                "highlight": "The @HuffingtonPost buses are beginning to leave Citi Field for #rally. Organizers said earlier this week that 9,900 people had signed up.",
+                "topsy_author_url": "http://topsy.com/twitter/brianstelter",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/brianstelter/status/29170930628",
+                "trackback_author_name": "Brian Stelter",
+                "trackback_author_nick": "brianstelter"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 100,
+        "hidden": 0,
+        "total": 442113,
+        "page": 1
+    }
+}

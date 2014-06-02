@@ -1,0 +1,78 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23rile&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=530",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#rile",
+            "window": "a",
+            "type": "tweet",
+            "offset": "530"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1393183636,
+                "title": "RT @mandari6: \u00a6 http://t.co/WEDRicvfbM 910  #Emma #Stone\u2014 #Naked #Selfie #Pictures #Rile #Actress  #The #actress #\u2013 #who #s #currently #dat\u2026",
+                "url": "http://twitter.com/madeli_ne_d/status/437670009301520384",
+                "trackback_date": 1393183636,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WEDRicvfbM",
+                        "expanded_url": "http://buff.ly/Ml3rhC",
+                        "display_url": "buff.ly/Ml3rhC"
+                    }
+                ],
+                "target_birth_date": 1393183636,
+                "content": "RT @mandari6: \u00a6 http://t.co/WEDRicvfbM 910  #Emma #Stone\u2014 #Naked #Selfie #Pictures #Rile #Actress  #The #actress #\u2013 #who #s #currently #dat\u2026",
+                "mytype": "tweet",
+                "score": 3.3895848,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000280639497/733f91ae246ab0e9974c965b3ed7478b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/madeli_ne_d/status/437670009301520384",
+                "trackback_author_url": "http://twitter.com/madeli_ne_d",
+                "highlight": "\u00a6 910 #Emma #Stone\u2014 #Naked #Selfie #Pictures #Rile #Actress #The #actress #\u2013 #who #s #currently #dat\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/madeli_ne_d",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/madeli_ne_d/status/437670009301520384",
+                "trackback_author_name": "Madeline",
+                "trackback_author_nick": "madeli_ne_d"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1393183632,
+                "title": "RT @mandari6: \u00a6 http://t.co/WEDRicvfbM 910  #Emma #Stone\u2014 #Naked #Selfie #Pictures #Rile #Actress  #The #actress #\u2013 #who #s #currently #dat\u2026",
+                "url": "http://twitter.com/elene_rush/status/437669992801112065",
+                "trackback_date": 1393183632,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WEDRicvfbM",
+                        "expanded_url": "http://buff.ly/Ml3rhC",
+                        "display_url": "buff.ly/Ml3rhC"
+                    }
+                ],
+                "target_birth_date": 1393183632,
+                "content": "RT @mandari6: \u00a6 http://t.co/WEDRicvfbM 910  #Emma #Stone\u2014 #Naked #Selfie #Pictures #Rile #Actress  #The #actress #\u2013 #who #s #currently #dat\u2026",
+                "mytype": "tweet",
+                "score": 3.3895848,
+                "topsy_author_img": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+                "trackback_permalink": "http://twitter.com/elene_rush/status/437669992801112065",
+                "trackback_author_url": "http://twitter.com/elene_rush",
+                "highlight": "\u00a6 910 #Emma #Stone\u2014 #Naked #Selfie #Pictures #Rile #Actress #The #actress #\u2013 #who #s #currently #dat\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/elene_rush",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/elene_rush/status/437669992801112065",
+                "trackback_author_name": "Elene ^_^",
+                "trackback_author_nick": "elene_rush"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 530,
+        "hidden": 0,
+        "total": 532,
+        "page": 1
+    }
+}

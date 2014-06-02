@@ -1,0 +1,315 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23gaga&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=30",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#gaga",
+            "window": "a",
+            "type": "tweet",
+            "offset": "30"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 12,
+                "firstpost_date": 1377876688,
+                "title": "If you missed Greg getting an exclusive from Sharon Osbourne about #Gaga check this out:http://t.co/FK0UlyoJId",
+                "url": "http://twitter.com/bbcr1/status/373468014865158144",
+                "trackback_date": 1377876688,
+                "trackback_total": 17,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/FK0UlyoJId",
+                        "display_url": "youtube.com/watch?v=pfRIz7\u2026",
+                        "expanded_url": "http://www.youtube.com/watch?v=pfRIz7LR3AU&feature=c4-overview&list=UU-FQUIVQ-bZiefzBiQAa8Fw",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=pfRIz7LR3AU"
+                    }
+                ],
+                "target_birth_date": 1377876688,
+                "content": "If you missed Greg getting an exclusive from Sharon Osbourne about #Gaga check this out:http://t.co/FK0UlyoJId",
+                "mytype": "tweet",
+                "score": 10.0956,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000515658307/5abf4c1c68024e5d46c3c6e672a13e4b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BBCR1/status/373468014865158144",
+                "trackback_author_url": "http://twitter.com/bbcr1",
+                "highlight": "If you missed Greg getting an exclusive from Sharon Osbourne about #Gaga check this out:",
+                "topsy_author_url": "http://topsy.com/twitter/bbcr1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bbcr1/status/373468014865158144",
+                "trackback_author_name": "BBC Radio 1",
+                "trackback_author_nick": "bbcr1"
+            },
+            {
+                "hits": 26,
+                "firstpost_date": 1338476835,
+                "title": "Lady #Gaga, primera tuitera con m\u00e1s de 25 millones de seguidores http://t.co/Th9Xm12a",
+                "url": "http://twitter.com/el_universal_mx/status/208213055488802819",
+                "trackback_date": 1338476835,
+                "trackback_total": 31,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Th9Xm12a",
+                        "display_url": "eluni.mx/KgPsqS",
+                        "expanded_url": "http://eluni.mx/KgPsqS",
+                        "topsy_expanded_url": "http://www.eluniversal.com.mx/notas/850639.html"
+                    }
+                ],
+                "target_birth_date": 1338476835,
+                "content": "Lady #Gaga, primera tuitera con m\u00e1s de 25 millones de seguidores http://t.co/Th9Xm12a",
+                "mytype": "tweet",
+                "score": 10.081801,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000631283952/a2cdffea07354a69571a831436b22517_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/El_Universal_Mx/status/208213055488802819",
+                "trackback_author_url": "http://twitter.com/el_universal_mx",
+                "highlight": "Lady #Gaga, primera tuitera con m\u00e1s de 25 millones de seguidores",
+                "topsy_author_url": "http://topsy.com/twitter/el_universal_mx",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/el_universal_mx/status/208213055488802819",
+                "trackback_author_name": "El Universal",
+                "trackback_author_nick": "el_universal_mx"
+            },
+            {
+                "hits": 85,
+                "firstpost_date": 1397640084,
+                "title": "Lady Gaga thanks @LilyAllen for ARTPOP comment http://t.co/8Uz321vDqU \n\n#gaga http://t.co/HAVTQWIZ3i",
+                "url": "http://twitter.com/gagadaily/status/456361706512330752",
+                "trackback_date": 1397640084,
+                "trackback_total": 97,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8Uz321vDqU",
+                        "display_url": "bit.ly/gagaallen",
+                        "expanded_url": "http://bit.ly/gagaallen",
+                        "topsy_expanded_url": "http://gagadaily.com/news/lady-gaga-lily-allen/"
+                    },
+                    {
+                        "url": "http://t.co/HAVTQWIZ3i",
+                        "display_url": "pic.twitter.com/HAVTQWIZ3i",
+                        "expanded_url": "http://twitter.com/gagadaily/status/456361706512330752/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BlVSjd4CMAAQyBV.jpg"
+                    }
+                ],
+                "target_birth_date": 1397640084,
+                "content": "Lady Gaga thanks @LilyAllen for ARTPOP comment http://t.co/8Uz321vDqU \n\n#gaga http://t.co/HAVTQWIZ3i",
+                "mytype": "tweet",
+                "score": 10.072482,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/450527487210954752/kxIvmUba_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/gagadaily/status/456361706512330752",
+                "trackback_author_url": "http://twitter.com/gagadaily",
+                "highlight": "Lady Gaga thanks @LilyAllen for ARTPOP comment #gaga",
+                "topsy_author_url": "http://topsy.com/twitter/gagadaily",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gagadaily/status/456361706512330752",
+                "trackback_author_name": "Lady Gaga Daily",
+                "trackback_author_nick": "gagadaily"
+            },
+            {
+                "hits": 143,
+                "firstpost_date": 1397019600,
+                "title": "Lady Gaga with her mom and dad backstage at Roseland Ballroom\n\nMore pics http://t.co/1YxgRfQ8RJ\n\n#gaga http://t.co/0BXs5ihjw3",
+                "url": "http://twitter.com/gagadaily/status/453759207393611776",
+                "trackback_date": 1397019600,
+                "trackback_total": 159,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1YxgRfQ8RJ",
+                        "display_url": "bit.ly/rslndterry",
+                        "expanded_url": "http://bit.ly/rslndterry",
+                        "topsy_expanded_url": "http://gagadaily.com/news/roseland-terry/lady-gaga-at-roseland-by-terry-richardson-1/"
+                    },
+                    {
+                        "url": "http://t.co/0BXs5ihjw3",
+                        "display_url": "pic.twitter.com/0BXs5ihjw3",
+                        "expanded_url": "http://twitter.com/gagadaily/status/453759207393611776/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BkwTmFLCUAA1eRR.jpg"
+                    }
+                ],
+                "target_birth_date": 1397019600,
+                "content": "Lady Gaga with her mom and dad backstage at Roseland Ballroom\n\nMore pics http://t.co/1YxgRfQ8RJ\n\n#gaga http://t.co/0BXs5ihjw3",
+                "mytype": "tweet",
+                "score": 10.06397,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/450527487210954752/kxIvmUba_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/gagadaily/status/453759207393611776",
+                "trackback_author_url": "http://twitter.com/gagadaily",
+                "highlight": "Lady Gaga with her mom and dad backstage at Roseland Ballroom More pics #gaga",
+                "topsy_author_url": "http://topsy.com/twitter/gagadaily",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gagadaily/status/453759207393611776",
+                "trackback_author_name": "Lady Gaga Daily",
+                "trackback_author_nick": "gagadaily"
+            },
+            {
+                "hits": 974,
+                "firstpost_date": 1384695491,
+                "title": "International #superstar #LadyGaga wore a series of full #Versace looks on #SNL last night! #GagaOnSNL #gaga http://t.co/MgL7iwpqEV",
+                "url": "http://twitter.com/versace/status/402068148490604544",
+                "trackback_date": 1384695491,
+                "trackback_total": 1233,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/MgL7iwpqEV",
+                        "display_url": "pic.twitter.com/MgL7iwpqEV",
+                        "expanded_url": "http://twitter.com/Versace/status/402068148490604544/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BZRu2cRIIAAryjK.jpg"
+                    }
+                ],
+                "target_birth_date": 1384695491,
+                "content": "International #superstar #LadyGaga wore a series of full #Versace looks on #SNL last night! #GagaOnSNL #gaga http://t.co/MgL7iwpqEV",
+                "mytype": "tweet",
+                "score": 10.048532,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/437172992913588224/w4G6WilT_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Versace/status/402068148490604544",
+                "trackback_author_url": "http://twitter.com/versace",
+                "highlight": "International #superstar #LadyGaga wore a series of full #Versace looks on #SNL last night! #GagaOnSNL #gaga",
+                "topsy_author_url": "http://topsy.com/twitter/versace",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/versace/status/402068148490604544",
+                "trackback_author_name": "Versace",
+                "trackback_author_nick": "versace"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1334780540,
+                "title": "#Gaga no est\u00e1 en la m\u00fasica por el dinero\nhttp://t.co/21qzo9MX",
+                "url": "http://twitter.com/el_universal_mx/status/192709672573210626",
+                "trackback_date": 1334780540,
+                "trackback_total": 22,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/21qzo9MX",
+                        "display_url": "bit.ly/J3RlVu",
+                        "expanded_url": "http://bit.ly/J3RlVu",
+                        "topsy_expanded_url": "http://www.eluniversal.com.mx/notas/842255.html"
+                    }
+                ],
+                "target_birth_date": 1334780540,
+                "content": "#Gaga no est\u00e1 en la m\u00fasica por el dinero\nhttp://t.co/21qzo9MX",
+                "mytype": "tweet",
+                "score": 10.035481,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000631283952/a2cdffea07354a69571a831436b22517_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/El_Universal_Mx/status/192709672573210626",
+                "trackback_author_url": "http://twitter.com/el_universal_mx",
+                "highlight": "#Gaga no est\u00e1 en la m\u00fasica por el dinero",
+                "topsy_author_url": "http://topsy.com/twitter/el_universal_mx",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/el_universal_mx/status/192709672573210626",
+                "trackback_author_name": "El Universal",
+                "trackback_author_nick": "el_universal_mx"
+            },
+            {
+                "hits": 61,
+                "firstpost_date": 1364330592,
+                "title": "RT @VH1Music TWO MORE DAYS! http://t.co/m6djdrhPgp  You ready Little Monsters? #GAGA",
+                "url": "http://twitter.com/vh1/status/316651572799094784",
+                "trackback_date": 1364330592,
+                "trackback_total": 93,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/m6djdrhPgp",
+                        "display_url": "on.vh1.com/ZVfRz7",
+                        "expanded_url": "http://on.vh1.com/ZVfRz7",
+                        "topsy_expanded_url": "http://i1271.photobucket.com/albums/jj626/VH1digital/gaga_2_bday_zps2cb8c51e.gif"
+                    }
+                ],
+                "target_birth_date": 1364330592,
+                "content": "RT @VH1Music TWO MORE DAYS! http://t.co/m6djdrhPgp  You ready Little Monsters? #GAGA",
+                "mytype": "tweet",
+                "score": 10.030648,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469357522197823488/BlQ9MGP-_normal.png",
+                "trackback_permalink": "http://twitter.com/VH1/status/316651572799094784",
+                "trackback_author_url": "http://twitter.com/vh1",
+                "highlight": "RT @VH1Music TWO MORE DAYS! You ready Little Monsters?",
+                "topsy_author_url": "http://topsy.com/twitter/vh1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/vh1/status/316651572799094784",
+                "trackback_author_name": "VH1",
+                "trackback_author_nick": "vh1"
+            },
+            {
+                "hits": 549,
+                "firstpost_date": 1384166741,
+                "title": "Lady Gaga shimmers in a vintage Versace dress and Signature bag. http://t.co/jCbEV2XSxH #LadyGaga #Gaga #VersaceBags http://t.co/AmRt1N0YlF",
+                "url": "http://twitter.com/versace/status/399850409038069760",
+                "trackback_date": 1384166741,
+                "trackback_total": 707,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jCbEV2XSxH",
+                        "display_url": "goo.gl/ryLA6p",
+                        "expanded_url": "http://goo.gl/ryLA6p",
+                        "topsy_expanded_url": "http://us.versace.com/women/bags/142000,en_us_US,sc.html"
+                    },
+                    {
+                        "url": "http://t.co/AmRt1N0YlF",
+                        "display_url": "pic.twitter.com/AmRt1N0YlF",
+                        "expanded_url": "http://twitter.com/Versace/status/399850409038069760/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BYyN1BqCQAAfc0p.jpg"
+                    }
+                ],
+                "target_birth_date": 1384166741,
+                "content": "Lady Gaga shimmers in a vintage Versace dress and Signature bag. http://t.co/jCbEV2XSxH #LadyGaga #Gaga #VersaceBags http://t.co/AmRt1N0YlF",
+                "mytype": "tweet",
+                "score": 10.026766,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/437172992913588224/w4G6WilT_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Versace/status/399850409038069760",
+                "trackback_author_url": "http://twitter.com/versace",
+                "highlight": "Lady Gaga shimmers in a vintage Versace dress and Signature bag. #LadyGaga #Gaga #VersaceBags",
+                "topsy_author_url": "http://topsy.com/twitter/versace",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/versace/status/399850409038069760",
+                "trackback_author_name": "Versace",
+                "trackback_author_nick": "versace"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1316526310,
+                "title": "#Gaga deja ver piercing en zona \u00edntima http://t.co/zAhKiEvt",
+                "url": "http://twitter.com/el_universal_mx/status/116145880280727552",
+                "trackback_date": 1316526310,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/zAhKiEvt",
+                        "display_url": "bit.ly/qOBosa",
+                        "expanded_url": "http://bit.ly/qOBosa",
+                        "topsy_expanded_url": "http://www.eluniversal.com.mx/espectaculos/107389.html"
+                    }
+                ],
+                "target_birth_date": 1316526310,
+                "content": "#Gaga deja ver piercing en zona \u00edntima http://t.co/zAhKiEvt",
+                "mytype": "tweet",
+                "score": 10.025792,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000631283952/a2cdffea07354a69571a831436b22517_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/El_Universal_Mx/status/116145880280727552",
+                "trackback_author_url": "http://twitter.com/el_universal_mx",
+                "highlight": "#Gaga deja ver piercing en zona \u00edntima",
+                "topsy_author_url": "http://topsy.com/twitter/el_universal_mx",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/el_universal_mx/status/116145880280727552",
+                "trackback_author_name": "El Universal",
+                "trackback_author_nick": "el_universal_mx"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1265166754,
+                "title": "@PaulaAbdul Are you a Little Monster? #GaGa",
+                "url": "http://twitter.com/perezhilton/status/8571655550",
+                "trackback_date": 1265166754,
+                "trackback_total": 11,
+                "url_expansions": [],
+                "target_birth_date": 1265166754,
+                "content": "@PaulaAbdul Are you a Little Monster? #GaGa",
+                "mytype": "tweet",
+                "score": 10.022486,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000211326403/30c8c4f35dc06205358b9903ae6d7490_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PerezHilton/status/8571655550",
+                "trackback_author_url": "http://twitter.com/perezhilton",
+                "highlight": " Are you a Little Monster?",
+                "topsy_author_url": "http://topsy.com/twitter/perezhilton",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/perezhilton/status/8571655550",
+                "trackback_author_name": "Perez Hilton",
+                "trackback_author_nick": "perezhilton"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 30,
+        "hidden": 0,
+        "total": 1164678,
+        "page": 1
+    }
+}

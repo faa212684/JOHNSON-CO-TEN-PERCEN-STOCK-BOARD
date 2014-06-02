@@ -1,0 +1,295 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23lecture&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=260",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#lecture",
+            "window": "a",
+            "type": "tweet",
+            "offset": "260"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1364836555,
+                "title": "RT @PecintaMovie RT @montgallery: LUTHER PRICE IS COMING this THURSDAY: https://t.co/bOvEsSQUYl #screening #lecture #filmmaking #unde...",
+                "url": "http://twitter.com/robertshutter/status/318773734423019520",
+                "trackback_date": 1364836555,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/bOvEsSQUYl",
+                        "display_url": "facebook.com/events/5454864\u2026",
+                        "expanded_url": "https://www.facebook.com/events/545486492142621/",
+                        "topsy_expanded_url": "https://www.facebook.com/events/545486492142621/"
+                    }
+                ],
+                "target_birth_date": 1364836555,
+                "content": "RT @PecintaMovie RT @montgallery: LUTHER PRICE IS COMING this THURSDAY: https://t.co/bOvEsSQUYl #screening #lecture #filmmaking #unde...",
+                "mytype": "tweet",
+                "score": 8.460733,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/853613063/cinemaschool-avatar_normal.jpg",
+                "trackback_permalink": "http://twitter.com/robertshutter/status/318773734423019520",
+                "trackback_author_url": "http://twitter.com/robertshutter",
+                "highlight": "RT @PecintaMovieLUTHER PRICE IS COMING this THURSDAY: #screening #lecture #filmmaking #unde",
+                "topsy_author_url": "http://topsy.com/twitter/robertshutter",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/robertshutter/status/318773734423019520",
+                "trackback_author_name": "Robert Shutter",
+                "trackback_author_nick": "robertshutter"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1329930914,
+                "title": "Colleges looking beyond the #lecture (by @danieldevise): http://t.co/TMzMBad6 #college",
+                "url": "http://twitter.com/mheducation/status/172368865794338816",
+                "trackback_date": 1329930914,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/TMzMBad6",
+                        "display_url": "wapo.st/xyz1LU",
+                        "expanded_url": "http://wapo.st/xyz1LU",
+                        "topsy_expanded_url": "http://wapo.st/xyz1LU"
+                    }
+                ],
+                "target_birth_date": 1329930914,
+                "content": "Colleges looking beyond the #lecture (by @danieldevise): http://t.co/TMzMBad6 #college",
+                "mytype": "tweet",
+                "score": 8.4588,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2899289763/35a8f26136f1918185619d2e5e1a175e_normal.png",
+                "trackback_permalink": "http://twitter.com/MHEducation/status/172368865794338816",
+                "trackback_author_url": "http://twitter.com/mheducation",
+                "highlight": "Colleges looking beyond the #lecture (by @danieldevise):",
+                "topsy_author_url": "http://topsy.com/twitter/mheducation",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mheducation/status/172368865794338816",
+                "trackback_author_name": "McGrawHill Education",
+                "trackback_author_nick": "mheducation"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1290534497,
+                "title": "Neuroscience and free will http://is.gd/hEzEf #video #lecture",
+                "url": "http://twitter.com/wonkmonk_/status/7128315429130241",
+                "trackback_date": 1290534497,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1290534497,
+                "content": "Neuroscience and free will http://is.gd/hEzEf #video #lecture",
+                "mytype": "tweet",
+                "score": 8.458241,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000226407205/f3bba0f9000db38fc55ef07adb07ab89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/wonkmonk_/status/7128315429130241",
+                "trackback_author_url": "http://twitter.com/wonkmonk_",
+                "highlight": "Neuroscience and free will #video",
+                "topsy_author_url": "http://topsy.com/twitter/wonkmonk_",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wonkmonk_/status/7128315429130241",
+                "trackback_author_name": "wonkmonk",
+                "trackback_author_nick": "wonkmonk_"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1382524925,
+                "title": "#Jeunesse : Trop d'examens scolaires tue le go\u00fbt de la #lecture, M. #Obama http://t.co/gonff324rX",
+                "url": "http://twitter.com/actualitte/status/392964135966613504",
+                "trackback_date": 1382524925,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/gonff324rX",
+                        "display_url": "actualitte.com/t/jYmAQum",
+                        "expanded_url": "http://www.actualitte.com/t/jYmAQum",
+                        "topsy_expanded_url": "http://www.actualitte.com/education-international/jeunesse-trop-d-examens-scolaires-tue-le-gout-de-la-lecture-m-obama-45852.htm"
+                    }
+                ],
+                "target_birth_date": 1382524925,
+                "content": "#Jeunesse : Trop d'examens scolaires tue le go\u00fbt de la #lecture, M. #Obama http://t.co/gonff324rX",
+                "mytype": "tweet",
+                "score": 8.457634,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1529495439/Sans_titre_normal.png",
+                "trackback_permalink": "http://twitter.com/ActuaLitte/status/392964135966613504",
+                "trackback_author_url": "http://twitter.com/actualitte",
+                "highlight": "#Jeunesse : Trop d'examens scolaires tue le go\u00fbt de la #lecture, M. #Obama",
+                "topsy_author_url": "http://topsy.com/twitter/actualitte",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/actualitte/status/392964135966613504",
+                "trackback_author_name": "ActuaLitt\u00e9",
+                "trackback_author_nick": "actualitte"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1338617094,
+                "title": "\u8b1b\u7fa9\u4e2d\u306b\u8ab0\u304b\u306e\u643a\u5e2f\u306e\u300c\u304a\u8179\u3059\u3044\u305f\u306b\u3083\u30fc\u300d\u3063\u3066\u840c\u3048\u7740\u30dc\u30a4\u30b9\u304c\u6559\u5ba4\u306b\u9cf4\u308a\u97ff\u3044\u305f\u3093\u3060\u3051\u3069\u3001\u5148\u751f\u304c\u300c\u6211\u6162\u3057\u306a\u3055\u3044\u300d\u3063\u3066\u8fd4\u4e8b\u3057\u3066\u305f http:// #Lecture #during #s http://t.co/c7hyVC5r http://",
+                "url": "http://twitter.com/good__words1/status/208801345090752515",
+                "trackback_date": 1338617094,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/c7hyVC5r",
+                        "display_url": "bit.ly/LnbEf2",
+                        "expanded_url": "http://bit.ly/LnbEf2",
+                        "topsy_expanded_url": "http://bit.ly/LnbEf2"
+                    }
+                ],
+                "target_birth_date": 1338617094,
+                "content": "\u8b1b\u7fa9\u4e2d\u306b\u8ab0\u304b\u306e\u643a\u5e2f\u306e\u300c\u304a\u8179\u3059\u3044\u305f\u306b\u3083\u30fc\u300d\u3063\u3066\u840c\u3048\u7740\u30dc\u30a4\u30b9\u304c\u6559\u5ba4\u306b\u9cf4\u308a\u97ff\u3044\u305f\u3093\u3060\u3051\u3069\u3001\u5148\u751f\u304c\u300c\u6211\u6162\u3057\u306a\u3055\u3044\u300d\u3063\u3066\u8fd4\u4e8b\u3057\u3066\u305f http:// #Lecture #during #s http://t.co/c7hyVC5r http://",
+                "mytype": "tweet",
+                "score": 8.45537,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2214883222/hi02_normal.jpg",
+                "trackback_permalink": "http://twitter.com/good__words1/status/208801345090752515",
+                "trackback_author_url": "http://twitter.com/good__words1",
+                "highlight": "\u8b1b\u7fa9\u4e2d\u306b\u8ab0\u304b\u306e\u643a\u5e2f\u306e\u300c\u304a\u8179\u3059\u3044\u305f\u306b\u3083\u30fc\u300d\u3063\u3066\u840c\u3048\u7740\u30dc\u30a4\u30b9\u304c\u6559\u5ba4\u306b\u9cf4\u308a\u97ff\u3044\u305f\u3093\u3060\u3051\u3069\u3001\u5148\u751f\u304c\u300c\u6211\u6162\u3057\u306a\u3055\u3044\u300d\u3063\u3066\u8fd4\u4e8b\u3057\u3066\u305f #Lecture #during #s",
+                "topsy_author_url": "http://topsy.com/twitter/good__words1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/good__words1/status/208801345090752515",
+                "trackback_author_name": "good__words1",
+                "trackback_author_nick": "good__words1"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1336976820,
+                "title": "Tickets are on sale now for the 2012-2013 #Denver Post Pen &amp; Podium #lecture series: http://t.co/BxXpUxJ7",
+                "url": "http://twitter.com/denverpost/status/201921536121257986",
+                "trackback_date": 1336976820,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/BxXpUxJ7",
+                        "display_url": "dpo.st/KZRxbf",
+                        "expanded_url": "http://dpo.st/KZRxbf",
+                        "topsy_expanded_url": "http://www.denverpost.com/books/ci_20596415/denver-post-pen-podium-series-margaret-atwood-jeffrey"
+                    }
+                ],
+                "target_birth_date": 1336976820,
+                "content": "Tickets are on sale now for the 2012-2013 #Denver Post Pen &amp; Podium #lecture series: http://t.co/BxXpUxJ7",
+                "mytype": "tweet",
+                "score": 8.45197,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000296550477/8b833243bcc886ce2bab15154504d2bc_normal.png",
+                "trackback_permalink": "http://twitter.com/denverpost/status/201921536121257986",
+                "trackback_author_url": "http://twitter.com/denverpost",
+                "highlight": "Tickets are on sale now for the 2012-2013 #Denver Post Pen &amp; Podium #lecture series:",
+                "topsy_author_url": "http://topsy.com/twitter/denverpost",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/denverpost/status/201921536121257986",
+                "trackback_author_name": "The Denver Post",
+                "trackback_author_nick": "denverpost"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1289259504,
+                "title": "Maybe I just miss my parents. But I kno if I go home its not gonna be fun. #lecture #lecture #lecture.",
+                "url": "http://twitter.com/smiley_toya/status/1780606027440128",
+                "trackback_date": 1289259504,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1289259504,
+                "content": "Maybe I just miss my parents. But I kno if I go home its not gonna be fun. #lecture #lecture #lecture.",
+                "mytype": "tweet",
+                "score": 8.451565,
+                "topsy_author_img": "http://a3.twimg.com/profile_images/1430328865/38785_416143369701_682659701_4808201_3790001_n_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Smiley_Toya/status/1780606027440128",
+                "trackback_author_url": "http://twitter.com/toystory__",
+                "highlight": "Maybe I just miss my parents. But I kno if I go home its not gonna be fun. #lecture #lecture #lecture.",
+                "topsy_author_url": "http://topsy.com/twitter/toystory__",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/smiley_toya/status/1780606027440128",
+                "trackback_author_name": "Scottie Pippen",
+                "trackback_author_nick": "toystory__"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1380269141,
+                "title": "\"@Velvet_Mood : #lecture #radio : Une l\u00e9g\u00e8re blessure, de Laurent Mauvignier [ http://t.co/hp2qz7wGc0 ]\nJuste et poignant.\"",
+                "url": "http://twitter.com/franceculture/status/383502689868722176",
+                "trackback_date": 1380269141,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/hp2qz7wGc0",
+                        "display_url": "franceculture.fr/emission-l-ate\u2026",
+                        "expanded_url": "http://www.franceculture.fr/emission-l-atelier-fiction-une-legere-blessure-2013-09-03",
+                        "topsy_expanded_url": "http://www.franceculture.fr/emission-l-atelier-fiction-une-legere-blessure-2013-09-03"
+                    }
+                ],
+                "target_birth_date": 1380269141,
+                "content": "\"@Velvet_Mood : #lecture #radio : Une l\u00e9g\u00e8re blessure, de Laurent Mauvignier [ http://t.co/hp2qz7wGc0 ]\nJuste et poignant.\"",
+                "mytype": "tweet",
+                "score": 8.449424,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2579828882/0jlchq3b92mycqq65ua9_normal.png",
+                "trackback_permalink": "http://twitter.com/franceculture/status/383502689868722176",
+                "trackback_author_url": "http://twitter.com/franceculture",
+                "highlight": "\"@Velvet_Mood : #lecture #radio : Une l\u00e9g\u00e8re blessure, de Laurent Mauvignier [ ] Juste et poignant.\"",
+                "topsy_author_url": "http://topsy.com/twitter/franceculture",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/franceculture/status/383502689868722176",
+                "trackback_author_name": "France Culture",
+                "trackback_author_nick": "franceculture"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1374506089,
+                "title": "L'\u00e9t\u00e9, \u00e0 TV5MONDE, on lit...D\u00e9couvrez des id\u00e9es #lecture pour cet #\u00e9t\u00e9 en cliquant sur le lien http://t.co/3C6xFhadhk http://t.co/HfYFzt5kDB",
+                "url": "http://twitter.com/tv5mondeorient/status/359330700400418816",
+                "trackback_date": 1374506089,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3C6xFhadhk",
+                        "display_url": "tv5monde.com/monlivretv5",
+                        "expanded_url": "http://www.tv5monde.com/monlivretv5",
+                        "topsy_expanded_url": "http://focus.tv5monde.com/monlivretv5/"
+                    },
+                    {
+                        "url": "http://t.co/HfYFzt5kDB",
+                        "display_url": "pic.twitter.com/HfYFzt5kDB",
+                        "expanded_url": "http://twitter.com/TV5MONDEORIENT/status/359330700400418816/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BPyZXkLCYAAjdvX.jpg"
+                    }
+                ],
+                "target_birth_date": 1374506089,
+                "content": "L'\u00e9t\u00e9, \u00e0 TV5MONDE, on lit...D\u00e9couvrez des id\u00e9es #lecture pour cet #\u00e9t\u00e9 en cliquant sur le lien http://t.co/3C6xFhadhk http://t.co/HfYFzt5kDB",
+                "mytype": "tweet",
+                "score": 8.447346,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1694507507/tw_maghreb_orient_normal.gif",
+                "trackback_permalink": "http://twitter.com/TV5MONDEORIENT/status/359330700400418816",
+                "trackback_author_url": "http://twitter.com/tv5mondeorient",
+                "highlight": "L'\u00e9t\u00e9, \u00e0 TV5MONDE, on lit...D\u00e9couvrez des id\u00e9es #lecture pour cet #\u00e9t\u00e9 en cliquant sur le lien",
+                "topsy_author_url": "http://topsy.com/twitter/tv5mondeorient",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tv5mondeorient/status/359330700400418816",
+                "trackback_author_name": "TV5MONDE MAGH-ORIENT",
+                "trackback_author_nick": "tv5mondeorient"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1367399313,
+                "title": "Pologne : un maire s'obstine \u00e0 promouvoir la #lecture dans le tram http://t.co/HdgfLe8lhr",
+                "url": "http://twitter.com/actualitte/status/329522721941774336",
+                "trackback_date": 1367399313,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/HdgfLe8lhr",
+                        "expanded_url": "http://www.actualitte.com/t/QfvzZWE",
+                        "display_url": "actualitte.com/t/QfvzZWE"
+                    }
+                ],
+                "target_birth_date": 1367399313,
+                "content": "Pologne : un maire s'obstine \u00e0 promouvoir la #lecture dans le tram http://t.co/HdgfLe8lhr",
+                "mytype": "tweet",
+                "score": 8.444933,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1529495439/Sans_titre_normal.png",
+                "trackback_permalink": "http://twitter.com/ActuaLitte/status/329522721941774336",
+                "trackback_author_url": "http://twitter.com/actualitte",
+                "highlight": "Pologne : un maire s'obstine \u00e0 promouvoir la #lecture dans le tram",
+                "topsy_author_url": "http://topsy.com/twitter/actualitte",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/actualitte/status/329522721941774336",
+                "trackback_author_name": "ActuaLitt\u00e9",
+                "trackback_author_nick": "actualitte"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 260,
+        "hidden": 0,
+        "total": 131252,
+        "page": 1
+    }
+}

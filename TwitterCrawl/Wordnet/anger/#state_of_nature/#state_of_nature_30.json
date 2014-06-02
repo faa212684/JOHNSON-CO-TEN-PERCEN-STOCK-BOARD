@@ -1,0 +1,78 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23state_of_nature&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=30",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#state_of_nature",
+            "window": "a",
+            "type": "tweet",
+            "offset": "30"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1370629961,
+                "title": "RT @BeeStrawbridge: 'Speaking up for Wildlife' - my new blogpost - http://t.co/boVneCQ6ch #wildlife #state_of_nature",
+                "url": "http://twitter.com/earthandnature/status/343073041053519872",
+                "trackback_date": 1370629961,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/boVneCQ6ch",
+                        "expanded_url": "http://bit.ly/121fEhP",
+                        "display_url": "bit.ly/121fEhP"
+                    }
+                ],
+                "target_birth_date": 1370629961,
+                "content": "RT @BeeStrawbridge: 'Speaking up for Wildlife' - my new blogpost - http://t.co/boVneCQ6ch #wildlife #state_of_nature",
+                "mytype": "tweet",
+                "score": 3.8370764,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2891505321/8135fc78bec855f707c8c189d9328ef1_normal.png",
+                "trackback_permalink": "http://twitter.com/EarthandNature/status/343073041053519872",
+                "trackback_author_url": "http://twitter.com/earthandnature",
+                "highlight": "'Speaking up for Wildlife' - my new blogpost - #wildlife",
+                "topsy_author_url": "http://topsy.com/twitter/earthandnature",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/earthandnature/status/343073041053519872",
+                "trackback_author_name": "Earth and Nature Ltd",
+                "trackback_author_nick": "earthandnature"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1370629891,
+                "title": "RT @BeeStrawbridge: 'Speaking up for Wildlife' - my new blogpost - http://t.co/boVneCQ6ch #wildlife #state_of_nature",
+                "url": "http://twitter.com/jimdensham/status/343072748031062016",
+                "trackback_date": 1370629891,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/boVneCQ6ch",
+                        "expanded_url": "http://bit.ly/121fEhP",
+                        "display_url": "bit.ly/121fEhP"
+                    }
+                ],
+                "target_birth_date": 1370629891,
+                "content": "RT @BeeStrawbridge: 'Speaking up for Wildlife' - my new blogpost - http://t.co/boVneCQ6ch #wildlife #state_of_nature",
+                "mytype": "tweet",
+                "score": 3.8370764,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000307844992/ed7846b452e59fbded065ae23354a0d2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimDensham/status/343072748031062016",
+                "trackback_author_url": "http://twitter.com/jimdensham",
+                "highlight": "'Speaking up for Wildlife' - my new blogpost - #wildlife",
+                "topsy_author_url": "http://topsy.com/twitter/jimdensham",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimdensham/status/343072748031062016",
+                "trackback_author_name": "Jim Densham",
+                "trackback_author_nick": "jimdensham"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 30,
+        "hidden": 0,
+        "total": 54,
+        "page": 1
+    }
+}

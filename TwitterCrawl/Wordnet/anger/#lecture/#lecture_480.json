@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23lecture&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=480",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#lecture",
+            "window": "a",
+            "type": "tweet",
+            "offset": "480"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1337790065,
+                "title": "Know that you might not know what's best till you know more. #Lecture #fb",
+                "url": "http://twitter.com/touchda8thwnda/status/205332534408646656",
+                "trackback_date": 1337790065,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1337790065,
+                "content": "Know that you might not know what's best till you know more. #Lecture #fb",
+                "mytype": "tweet",
+                "score": 8.303268,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2736166970/47a9b67d6fc316c3076b74420b2a031e_normal.png",
+                "trackback_permalink": "http://twitter.com/touchda8thwnda/status/205332534408646656",
+                "trackback_author_url": "http://twitter.com/touchda8thwnda",
+                "highlight": "Know that you might not know what's best till you know more. #Lecture",
+                "topsy_author_url": "http://topsy.com/twitter/touchda8thwnda",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/touchda8thwnda/status/205332534408646656",
+                "trackback_author_name": "Thabo Moloi",
+                "trackback_author_nick": "touchda8thwnda"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1384949298,
+                "title": "#Lecture #num\u00e9rique : l'\u00e9dition francophone encore peu concern\u00e9e http://t.co/ugySK8Q0TO",
+                "url": "http://twitter.com/actualitte/status/403132692876652546",
+                "trackback_date": 1384949298,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ugySK8Q0TO",
+                        "display_url": "actualitte.com/t/wBgodiu",
+                        "expanded_url": "http://www.actualitte.com/t/wBgodiu",
+                        "topsy_expanded_url": "http://www.actualitte.com/usages/lecture-numerique-l-edition-francophone-encore-peu-concernee-46439.htm"
+                    }
+                ],
+                "target_birth_date": 1384949298,
+                "content": "#Lecture #num\u00e9rique : l'\u00e9dition francophone encore peu concern\u00e9e http://t.co/ugySK8Q0TO",
+                "mytype": "tweet",
+                "score": 8.30307,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1529495439/Sans_titre_normal.png",
+                "trackback_permalink": "http://twitter.com/ActuaLitte/status/403132692876652546",
+                "trackback_author_url": "http://twitter.com/actualitte",
+                "highlight": "#Lecture #num\u00e9rique : l'\u00e9dition francophone encore peu concern\u00e9e",
+                "topsy_author_url": "http://topsy.com/twitter/actualitte",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/actualitte/status/403132692876652546",
+                "trackback_author_name": "ActuaLitt\u00e9",
+                "trackback_author_nick": "actualitte"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1381845723,
+                "title": "Int\u00e9ressante initiative : utiliser le r\u00e9seau social @Babelio en classe pour d\u00e9velopper la #lecture \nhttp://t.co/hThZK6t8ou via @vousnousils",
+                "url": "http://twitter.com/unlivreunjour/status/390115356921966592",
+                "trackback_date": 1381845723,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/hThZK6t8ou",
+                        "display_url": "vousnousils.fr/2013/10/15/uti\u2026",
+                        "expanded_url": "http://www.vousnousils.fr/2013/10/15/utiliser-le-reseau-social-babelio-en-classe-pour-developper-la-lecture-atelier-ludovia-550167",
+                        "topsy_expanded_url": "http://www.vousnousils.fr/2013/10/15/utiliser-le-reseau-social-babelio-en-classe-pour-developper-la-lecture-atelier-ludovia-550167"
+                    }
+                ],
+                "target_birth_date": 1381845723,
+                "content": "Int\u00e9ressante initiative : utiliser le r\u00e9seau social @Babelio en classe pour d\u00e9velopper la #lecture \nhttp://t.co/hThZK6t8ou via @vousnousils",
+                "mytype": "tweet",
+                "score": 8.302844,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3344755697/da18a85dbf15c1663b7af185397eb88a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/UnLivreUnJour/status/390115356921966592",
+                "trackback_author_url": "http://twitter.com/unlivreunjour",
+                "highlight": "Int\u00e9ressante initiative : utiliser le r\u00e9seau social @Babelio en classe pour d\u00e9velopper la #lecture via @vousnousils",
+                "topsy_author_url": "http://topsy.com/twitter/unlivreunjour",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/unlivreunjour/status/390115356921966592",
+                "trackback_author_name": "Un Livre Un Jour",
+                "trackback_author_nick": "unlivreunjour"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1389269833,
+                "title": "\u00c9coutez la passionnante Sarah Sauquet parler de sa g\u00e9niale application  #lecture  @UntexteUnjour @franceinfo  @nico_teillard #vfinfo",
+                "url": "http://twitter.com/tatianaderosnay/status/421254330625585153",
+                "trackback_date": 1389269833,
+                "trackback_total": 8,
+                "url_expansions": [],
+                "target_birth_date": 1389269833,
+                "content": "\u00c9coutez la passionnante Sarah Sauquet parler de sa g\u00e9niale application  #lecture  @UntexteUnjour @franceinfo  @nico_teillard #vfinfo",
+                "mytype": "tweet",
+                "score": 8.302522,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471958829006348288/i_gRURjF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/tatianaderosnay/status/421254330625585153",
+                "trackback_author_url": "http://twitter.com/tatianaderosnay",
+                "highlight": "\u00c9coutez la passionnante Sarah Sauquet parler de sa g\u00e9niale application #lecture @UntexteUnjour @franceinfo @nico_teillard",
+                "topsy_author_url": "http://topsy.com/twitter/tatianaderosnay",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tatianaderosnay/status/421254330625585153",
+                "trackback_author_name": "Tatiana de Rosnay",
+                "trackback_author_nick": "tatianaderosnay"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1367599182,
+                "title": "Coming Monday Public WTF #lecture @KnowmadsNL What better ways of learning #schools could offer: http://t.co/ANkda4Hwub",
+                "url": "http://twitter.com/floridee/status/330361031962533889",
+                "trackback_date": 1367599182,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ANkda4Hwub",
+                        "display_url": "j.mp/15eyZy6",
+                        "expanded_url": "http://j.mp/15eyZy6",
+                        "topsy_expanded_url": "https://www.facebook.com/events/521448634574438/?ref=2"
+                    }
+                ],
+                "target_birth_date": 1367599182,
+                "content": "Coming Monday Public WTF #lecture @KnowmadsNL What better ways of learning #schools could offer: http://t.co/ANkda4Hwub",
+                "mytype": "tweet",
+                "score": 8.302044,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/67726946/floriscamera_normal.jpg",
+                "trackback_permalink": "http://twitter.com/floridee/status/330361031962533889",
+                "trackback_author_url": "http://twitter.com/floridee",
+                "highlight": "Coming Monday Public WTF #lecture @KnowmadsNL What better ways of learning #schools could offer:",
+                "topsy_author_url": "http://topsy.com/twitter/floridee",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/floridee/status/330361031962533889",
+                "trackback_author_name": "Floris Koot",
+                "trackback_author_nick": "floridee"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1287706504,
+                "title": "RT @Jazzy_Della Learn How to Test your Bones\u2019 Health http://bit.ly/bsqCCg #VANCOUVER #health #Lecture #Osteoporosis",
+                "url": "http://twitter.com/vancouver_rt/status/28074387646",
+                "trackback_date": 1287706504,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1287706504,
+                "content": "RT @Jazzy_Della Learn How to Test your Bones\u2019 Health http://bit.ly/bsqCCg #VANCOUVER #health #Lecture #Osteoporosis",
+                "mytype": "tweet",
+                "score": 8.301692,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3344765597/cba8baa23f72186af2a03364915bade6_normal.png",
+                "trackback_permalink": "http://twitter.com/vancouver_rt/status/28074387646",
+                "trackback_author_url": "http://twitter.com/vancouver_rt",
+                "highlight": "RT @Jazzy_Della Learn How to Test your Bones\u2019 Health #VANCOUVER #health #Lecture",
+                "topsy_author_url": "http://topsy.com/twitter/vancouver_rt",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/vancouver_rt/status/28074387646",
+                "trackback_author_name": "Vancouver Retweeter",
+                "trackback_author_nick": "vancouver_rt"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1313565767,
+                "title": "#Lecture in #Business #Management : Market Entry Strategy for International Business - http://t.co/Vr2qu1y",
+                "url": "http://twitter.com/biztwt/status/103728464816910336",
+                "trackback_date": 1313565767,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Vr2qu1y",
+                        "display_url": "su.pr/2ANilJ",
+                        "expanded_url": "http://su.pr/2ANilJ",
+                        "topsy_expanded_url": "http://business-fundas.com/2011/market-entry-strategy-for-international-business/"
+                    }
+                ],
+                "target_birth_date": 1313565767,
+                "content": "#Lecture in #Business #Management : Market Entry Strategy for International Business - http://t.co/Vr2qu1y",
+                "mytype": "tweet",
+                "score": 8.300987,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1237075149/BizFunda_Logo_normal.JPG",
+                "trackback_permalink": "http://twitter.com/BizTwt/status/103728464816910336",
+                "trackback_author_url": "http://twitter.com/biztwt",
+                "highlight": "#Lecture in #Business #Management : Market Entry Strategy for International Business -",
+                "topsy_author_url": "http://topsy.com/twitter/biztwt",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/biztwt/status/103728464816910336",
+                "trackback_author_name": "Business Tweets",
+                "trackback_author_nick": "biztwt"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1326889100,
+                "title": "#Lecture in #Business #Management : Market Entry Strategy for International Business - http://t.co/RgKX7eiY",
+                "url": "http://twitter.com/biztwt/status/159610573221408768",
+                "trackback_date": 1326889100,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RgKX7eiY",
+                        "display_url": "su.pr/2ANilJ",
+                        "expanded_url": "http://su.pr/2ANilJ",
+                        "topsy_expanded_url": "http://business-fundas.com/2011/market-entry-strategy-for-international-business/"
+                    }
+                ],
+                "target_birth_date": 1326889100,
+                "content": "#Lecture in #Business #Management : Market Entry Strategy for International Business - http://t.co/RgKX7eiY",
+                "mytype": "tweet",
+                "score": 8.300839,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1237075149/BizFunda_Logo_normal.JPG",
+                "trackback_permalink": "http://twitter.com/BizTwt/status/159610573221408768",
+                "trackback_author_url": "http://twitter.com/biztwt",
+                "highlight": "#Lecture in #Business #Management : Market Entry Strategy for International Business -",
+                "topsy_author_url": "http://topsy.com/twitter/biztwt",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/biztwt/status/159610573221408768",
+                "trackback_author_name": "Business Tweets",
+                "trackback_author_nick": "biztwt"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1339963783,
+                "title": "One down! Three to go! #lecture #lecture #lecture #SoCG",
+                "url": "http://twitter.com/michiexile/status/214449766283751425",
+                "trackback_date": 1339963783,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1339963783,
+                "content": "One down! Three to go! #lecture #lecture #lecture #SoCG",
+                "mytype": "tweet",
+                "score": 8.300173,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/421978424563884034/ocUnXFGS_normal.png",
+                "trackback_permalink": "http://twitter.com/michiexile/status/214449766283751425",
+                "trackback_author_url": "http://twitter.com/michiexile",
+                "highlight": "One down! Three to go! #lecture #lecture #lecture",
+                "topsy_author_url": "http://topsy.com/twitter/michiexile",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/michiexile/status/214449766283751425",
+                "trackback_author_name": "michiexile",
+                "trackback_author_nick": "michiexile"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1389445193,
+                "title": "#Lecture #streaming : le #piratage \u00e0 foison n'\u00e9pargne pas la #France http://t.co/Vnp9oJ5ZqD #livrenum",
+                "url": "http://twitter.com/actualitte/status/421989843699118081",
+                "trackback_date": 1389445193,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Vnp9oJ5ZqD",
+                        "display_url": "actualitte.com/t/qxleMAO",
+                        "expanded_url": "http://www.actualitte.com/t/qxleMAO",
+                        "topsy_expanded_url": "http://www.actualitte.com/legislation/lecture-streaming-le-piratage-a-foison-n-epargne-pas-la-france-47463.htm"
+                    }
+                ],
+                "target_birth_date": 1389445193,
+                "content": "#Lecture #streaming : le #piratage \u00e0 foison n'\u00e9pargne pas la #France http://t.co/Vnp9oJ5ZqD #livrenum",
+                "mytype": "tweet",
+                "score": 8.300168,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1529495439/Sans_titre_normal.png",
+                "trackback_permalink": "http://twitter.com/ActuaLitte/status/421989843699118081",
+                "trackback_author_url": "http://twitter.com/actualitte",
+                "highlight": "#Lecture #streaming : le #piratage \u00e0 foison n'\u00e9pargne pas la #France",
+                "topsy_author_url": "http://topsy.com/twitter/actualitte",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/actualitte/status/421989843699118081",
+                "trackback_author_name": "ActuaLitt\u00e9",
+                "trackback_author_nick": "actualitte"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 480,
+        "hidden": 0,
+        "total": 130742,
+        "page": 1
+    }
+}

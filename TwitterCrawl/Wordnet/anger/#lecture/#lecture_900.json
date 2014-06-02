@@ -1,0 +1,289 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23lecture&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=900",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#lecture",
+            "window": "a",
+            "type": "tweet",
+            "offset": "900"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 2,
+                "firstpost_date": 1303667487,
+                "title": "Je viens de terminer le tome 6 des aventures de Thursday Next. Toujours aussi \u00e9bouriffant. #lecture",
+                "url": "http://twitter.com/bortzmeyer/status/62212067918217216",
+                "trackback_date": 1303667487,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1303667487,
+                "content": "Je viens de terminer le tome 6 des aventures de Thursday Next. Toujours aussi \u00e9bouriffant. #lecture",
+                "mytype": "tweet",
+                "score": 8.167619,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1158679288/modem-usr-courier_normal.jpg",
+                "trackback_permalink": "http://twitter.com/bortzmeyer/status/62212067918217216",
+                "trackback_author_url": "http://twitter.com/bortzmeyer",
+                "highlight": "Je viens de terminer le tome 6 des aventures de Thursday Next. Toujours aussi \u00e9bouriffant.",
+                "topsy_author_url": "http://topsy.com/twitter/bortzmeyer",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bortzmeyer/status/62212067918217216",
+                "trackback_author_name": "St\u00e9phane Bortzmeyer",
+                "trackback_author_nick": "bortzmeyer"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1393842884,
+                "title": "#webiversity #free #talk #lecture is out! http://t.co/LSDO6S872o Stories via @KhansaBatma",
+                "url": "http://twitter.com/webiversity/status/440435096722886656",
+                "trackback_date": 1393842884,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/LSDO6S872o",
+                        "display_url": "paper.li/Webiversity/13\u2026",
+                        "expanded_url": "http://paper.li/Webiversity/1302870766",
+                        "topsy_expanded_url": "http://paper.li/Webiversity/1302870766"
+                    }
+                ],
+                "target_birth_date": 1393842884,
+                "content": "#webiversity #free #talk #lecture is out! http://t.co/LSDO6S872o Stories via @KhansaBatma",
+                "mytype": "tweet",
+                "score": 8.167404,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/654140154/lucogo_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Webiversity/status/440435096722886656",
+                "trackback_author_url": "http://twitter.com/webiversity",
+                "highlight": "#webiversity #free #talk #lecture is out! Stories via @KhansaBatma",
+                "topsy_author_url": "http://topsy.com/twitter/webiversity",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/webiversity/status/440435096722886656",
+                "trackback_author_name": "Webiversity.org",
+                "trackback_author_nick": "webiversity"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1284996907,
+                "title": "RT @INFOFIT Seen FOOD INC? Listen to us http://bit.ly/agGwEL #Nutrition #Vancouver #Lecture #Surrey",
+                "url": "http://twitter.com/vancouver_rt/status/25035187486",
+                "trackback_date": 1284996907,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1284996907,
+                "content": "RT @INFOFIT Seen FOOD INC? Listen to us http://bit.ly/agGwEL #Nutrition #Vancouver #Lecture #Surrey",
+                "mytype": "tweet",
+                "score": 8.167253,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3344765597/cba8baa23f72186af2a03364915bade6_normal.png",
+                "trackback_permalink": "http://twitter.com/vancouver_rt/status/25035187486",
+                "trackback_author_url": "http://twitter.com/vancouver_rt",
+                "highlight": "RT @INFOFIT Seen FOOD INC? Listen to us #Nutrition #Vancouver #Lecture",
+                "topsy_author_url": "http://topsy.com/twitter/vancouver_rt",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/vancouver_rt/status/25035187486",
+                "trackback_author_name": "Vancouver Retweeter",
+                "trackback_author_nick": "vancouver_rt"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1384055391,
+                "title": "La #Lecture en cadeau pour les #enfants issus de milieux d\u00e9favoris\u00e9s: http://t.co/VfiXNdELAz et http://t.co/cLm5depkfj (via @FondationAlpha)",
+                "url": "http://twitter.com/educations/status/399383376949284865",
+                "trackback_date": 1384055391,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/VfiXNdELAz",
+                        "display_url": "youtu.be/sVuBUxS8ECg",
+                        "expanded_url": "http://youtu.be/sVuBUxS8ECg",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=sVuBUxS8ECg"
+                    },
+                    {
+                        "url": "http://t.co/cLm5depkfj",
+                        "display_url": "fondationalphabetisation.org/enfants/la_lec\u2026",
+                        "expanded_url": "http://www.fondationalphabetisation.org/enfants/la_lecture_en_cadeau/",
+                        "topsy_expanded_url": "http://www.fondationalphabetisation.org/enfants/la_lecture_en_cadeau/"
+                    }
+                ],
+                "target_birth_date": 1384055391,
+                "content": "La #Lecture en cadeau pour les #enfants issus de milieux d\u00e9favoris\u00e9s: http://t.co/VfiXNdELAz et http://t.co/cLm5depkfj (via @FondationAlpha)",
+                "mytype": "tweet",
+                "score": 8.166907,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/466039138269933568/_25dH5GE_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/educations/status/399383376949284865",
+                "trackback_author_url": "http://twitter.com/educations",
+                "highlight": "La #Lecture en cadeau pour les #enfants issus de milieux d\u00e9favoris\u00e9s: et (via @FondationAlpha)",
+                "topsy_author_url": "http://topsy.com/twitter/educations",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/educations/status/399383376949284865",
+                "trackback_author_name": "Plan\u00e8te-\u00e9ducation",
+                "trackback_author_nick": "educations"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1329818681,
+                "title": "http://t.co/9uaRQLKL #homeopathy #lecture A Lecture on Homeopathy",
+                "url": "http://twitter.com/pulistbook/status/171898123722047488",
+                "trackback_date": 1329818681,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9uaRQLKL",
+                        "display_url": "pulist.net/a-lecture-on-h\u2026",
+                        "expanded_url": "http://www.pulist.net/a-lecture-on-homeopathy.html",
+                        "topsy_expanded_url": "http://www.pulist.net/a-lecture-on-homeopathy.html"
+                    }
+                ],
+                "target_birth_date": 1329818681,
+                "content": "http://t.co/9uaRQLKL #homeopathy #lecture A Lecture on Homeopathy",
+                "mytype": "tweet",
+                "score": 8.166552,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/429631840744271872/dyDx4MG8_normal.png",
+                "trackback_permalink": "http://twitter.com/pulistbook/status/171898123722047488",
+                "trackback_author_url": "http://twitter.com/pulistbook",
+                "highlight": " #homeopathy #lecture A Lecture on Homeopathy",
+                "topsy_author_url": "http://topsy.com/twitter/pulistbook",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/pulistbook/status/171898123722047488",
+                "trackback_author_name": "Pulist",
+                "trackback_author_nick": "pulistbook"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1349120805,
+                "title": "#photigy Tabletop Studio Photography For Beginners #course: #Lecture one. http://t.co/NvVGGA73 #workshops",
+                "url": "http://twitter.com/akoloskov/status/252857101381156864",
+                "trackback_date": 1349120805,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/NvVGGA73",
+                        "display_url": "goo.gl/fb/WJeic",
+                        "expanded_url": "http://goo.gl/fb/WJeic",
+                        "topsy_expanded_url": "http://www.photigy.com/tabletop-studio-photography-for-beginners-course-lecture-one/"
+                    }
+                ],
+                "target_birth_date": 1349120805,
+                "content": "#photigy Tabletop Studio Photography For Beginners #course: #Lecture one. http://t.co/NvVGGA73 #workshops",
+                "mytype": "tweet",
+                "score": 8.166494,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2355307685/8vncgtb3ugichfwg300t_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/akoloskov/status/252857101381156864",
+                "trackback_author_url": "http://twitter.com/akoloskov",
+                "highlight": "#photigy Tabletop Studio Photography For Beginners #course: #Lecture one.",
+                "topsy_author_url": "http://topsy.com/twitter/akoloskov",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/akoloskov/status/252857101381156864",
+                "trackback_author_name": "Alex Koloskov",
+                "trackback_author_nick": "akoloskov"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1381850986,
+                "title": "Le go\u00fbt de la lecture, une responsabilit\u00e9 qui incombe aux parents http://t.co/NUThjycdh9 #EduQc #lecture",
+                "url": "http://twitter.com/jacquestondreau/status/390137431519133696",
+                "trackback_date": 1381850986,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/NUThjycdh9",
+                        "display_url": "ow.ly/pQ3Du",
+                        "expanded_url": "http://ow.ly/pQ3Du",
+                        "topsy_expanded_url": "http://www.actualitte.com/societe/le-gout-de-la-lecture-une-responsabilite-qui-incombe-aux-parents-45673.htm"
+                    }
+                ],
+                "target_birth_date": 1381850986,
+                "content": "Le go\u00fbt de la lecture, une responsabilit\u00e9 qui incombe aux parents http://t.co/NUThjycdh9 #EduQc #lecture",
+                "mytype": "tweet",
+                "score": 8.166458,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1811926257/DSC_0455_normal.jpg",
+                "trackback_permalink": "http://twitter.com/JacquesTondreau/status/390137431519133696",
+                "trackback_author_url": "http://twitter.com/jacquestondreau",
+                "highlight": "Le go\u00fbt de la lecture, une responsabilit\u00e9 qui incombe aux parents #EduQc",
+                "topsy_author_url": "http://topsy.com/twitter/jacquestondreau",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jacquestondreau/status/390137431519133696",
+                "trackback_author_name": "Jacques Tondreau",
+                "trackback_author_nick": "jacquestondreau"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1331826310,
+                "title": "Jusqu'au 28 mai, la @Bpi_Pompidou vous propose de vous installer dans son salon #manga : http://t.co/pRHIc1ze #lecture",
+                "url": "http://twitter.com/centrepompidou/status/180318731308769281",
+                "trackback_date": 1331826310,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/pRHIc1ze",
+                        "display_url": "ow.ly/9u4wv",
+                        "expanded_url": "http://ow.ly/9u4wv",
+                        "topsy_expanded_url": "http://www.bpi.fr/fr/la_saison_culturelle/evenements/salon_manga.html"
+                    }
+                ],
+                "target_birth_date": 1331826310,
+                "content": "Jusqu'au 28 mai, la @Bpi_Pompidou vous propose de vous installer dans son salon #manga : http://t.co/pRHIc1ze #lecture",
+                "mytype": "tweet",
+                "score": 8.166419,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2025058014/centrepompidou2_normal.jpg",
+                "trackback_permalink": "http://twitter.com/centrepompidou/status/180318731308769281",
+                "trackback_author_url": "http://twitter.com/centrepompidou",
+                "highlight": "Jusqu'au 28 mai, la @Bpi_Pompidou vous propose de vous installer dans son salon #manga :",
+                "topsy_author_url": "http://topsy.com/twitter/centrepompidou",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/centrepompidou/status/180318731308769281",
+                "trackback_author_name": "CentrePompidou",
+                "trackback_author_nick": "centrepompidou"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1360238792,
+                "title": "Tacit un logiciel pour la #lecture en CE1 CE2 http://t.co/h1NNTmht",
+                "url": "http://twitter.com/cafepedagogique/status/299489317917687809",
+                "trackback_date": 1360238792,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/h1NNTmht",
+                        "display_url": "cafepedagogique.net/lexpresso/Page\u2026",
+                        "expanded_url": "http://www.cafepedagogique.net/lexpresso/Pages/2013/02/07022013Article634958237452093244.aspx",
+                        "topsy_expanded_url": "http://www.cafepedagogique.net/lexpresso/Pages/2013/02/07022013Article634958237452093244.aspx"
+                    }
+                ],
+                "target_birth_date": 1360238792,
+                "content": "Tacit un logiciel pour la #lecture en CE1 CE2 http://t.co/h1NNTmht",
+                "mytype": "tweet",
+                "score": 8.166275,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2012181726/CAFE_normal.jpg",
+                "trackback_permalink": "http://twitter.com/cafepedagogique/status/299489317917687809",
+                "trackback_author_url": "http://twitter.com/cafepedagogique",
+                "highlight": "Tacit un logiciel pour la #lecture en CE1 CE2",
+                "topsy_author_url": "http://topsy.com/twitter/cafepedagogique",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cafepedagogique/status/299489317917687809",
+                "trackback_author_name": "cafe pedagogique",
+                "trackback_author_nick": "cafepedagogique"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1294799230,
+                "title": "http://www.pulist.net/women-in-management-environment-and-role-the-itt-key-issues-lecture-series.html #management #environment #lecture",
+                "url": "http://twitter.com/pubooks/status/25015903267590144",
+                "trackback_date": 1294799230,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1294799230,
+                "content": "http://www.pulist.net/women-in-management-environment-and-role-the-itt-key-issues-lecture-series.html #management #environment #lecture",
+                "mytype": "tweet",
+                "score": 8.166273,
+                "topsy_author_img": "http://a2.twimg.com/profile_images/1206584980/pb_normal_normal.gif",
+                "trackback_permalink": "http://twitter.com/pubooks/status/25015903267590144",
+                "trackback_author_url": "http://twitter.com/pubooks",
+                "highlight": " #management #environment",
+                "topsy_author_url": "http://topsy.com/twitter/pubooks",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/pubooks/status/25015903267590144",
+                "trackback_author_name": "Joel Michal",
+                "trackback_author_nick": "pubooks"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 900,
+        "hidden": 0,
+        "total": 131203,
+        "page": 1
+    }
+}

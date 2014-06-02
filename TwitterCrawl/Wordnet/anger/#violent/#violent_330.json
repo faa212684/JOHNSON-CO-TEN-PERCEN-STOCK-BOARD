@@ -1,0 +1,281 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23violent&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=330",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#violent",
+            "window": "a",
+            "type": "tweet",
+            "offset": "330"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1313723411,
+                "title": "#violent RT @_VerifiedKISH: i stab niggas with colored pencils.",
+                "url": "http://twitter.com/oaklane215/status/104389671580205056",
+                "trackback_date": 1313723411,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1313723411,
+                "content": "#violent RT @_VerifiedKISH: i stab niggas with colored pencils.",
+                "mytype": "tweet",
+                "score": 8.452196,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/447845933452394496/rObCGVdP_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/oaklane215/status/104389671580205056",
+                "trackback_author_url": "http://twitter.com/oaklane215",
+                "highlight": "#violenti stab niggas with colored pencils.",
+                "topsy_author_url": "http://topsy.com/twitter/oaklane215",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/oaklane215/status/104389671580205056",
+                "trackback_author_name": "Rone",
+                "trackback_author_nick": "oaklane215"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1389184148,
+                "title": "#ICEY #MENTAL AND #VIOLENT WEAR AVAILABLE AT http://t.co/cxkAKNuAGo NOW!! http://t.co/NdlkhfyEZb",
+                "url": "http://twitter.com/kj_bbk/status/420894942714933248",
+                "trackback_date": 1389184148,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cxkAKNuAGo",
+                        "display_url": "ATTACKTHEZOMBIES.COM",
+                        "expanded_url": "http://ATTACKTHEZOMBIES.COM",
+                        "topsy_expanded_url": "http://attackthezombies.com/"
+                    },
+                    {
+                        "url": "http://t.co/NdlkhfyEZb",
+                        "display_url": "pic.twitter.com/NdlkhfyEZb",
+                        "expanded_url": "http://twitter.com/KJ_BBK/status/420894942714933248/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BddRuGKIcAAOL4c.jpg"
+                    }
+                ],
+                "target_birth_date": 1389184148,
+                "content": "#ICEY #MENTAL AND #VIOLENT WEAR AVAILABLE AT http://t.co/cxkAKNuAGo NOW!! http://t.co/NdlkhfyEZb",
+                "mytype": "tweet",
+                "score": 8.451027,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/466597186877554689/sVfapC6F_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/KJ_BBK/status/420894942714933248",
+                "trackback_author_url": "http://twitter.com/kj_bbk",
+                "highlight": "#ICEY #MENTAL AND #VIOLENT WEAR AVAILABLE AT NOW!!",
+                "topsy_author_url": "http://topsy.com/twitter/kj_bbk",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kj_bbk/status/420894942714933248",
+                "trackback_author_name": "KJ",
+                "trackback_author_nick": "kj_bbk"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392755042,
+                "title": "RT @AaronBBR: #Mental &amp; #Violent Beanies now available @ http://t.co/7bRwgOnxpS http://t.co/sSB5WLgjtL",
+                "url": "http://twitter.com/bigfris/status/435872355051929600",
+                "trackback_date": 1392755042,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7bRwgOnxpS",
+                        "display_url": "attackthezombies.com",
+                        "expanded_url": "http://attackthezombies.com",
+                        "topsy_expanded_url": "http://attackthezombies.com/"
+                    },
+                    {
+                        "url": "http://t.co/sSB5WLgjtL",
+                        "display_url": "instagram.com/p/kU2wsbPTtb/",
+                        "expanded_url": "http://instagram.com/p/kU2wsbPTtb/",
+                        "topsy_expanded_url": "http://instagram.com/p/kU2wsbPTtb/"
+                    }
+                ],
+                "target_birth_date": 1392755042,
+                "content": "RT @AaronBBR: #Mental &amp; #Violent Beanies now available @ http://t.co/7bRwgOnxpS http://t.co/sSB5WLgjtL",
+                "mytype": "tweet",
+                "score": 8.450684,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/434606357782990848/o8iv2ZEO_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BigFris/status/435872355051929600",
+                "trackback_author_url": "http://twitter.com/bigfris",
+                "highlight": "#Mental &amp; #Violent Beanies now available @",
+                "topsy_author_url": "http://topsy.com/twitter/bigfris",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bigfris/status/435872355051929600",
+                "trackback_author_name": "BritishNights OUTNOW",
+                "trackback_author_nick": "bigfris"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1376931452,
+                "title": "#MENTAL &amp; #VIOLENT T SHIRTS AVAILABLE AT http://t.co/kC6gnfrSuC",
+                "url": "http://twitter.com/maximumbbk/status/369503407393865728",
+                "trackback_date": 1376931452,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kC6gnfrSuC",
+                        "display_url": "attackthezombies.com",
+                        "expanded_url": "http://www.attackthezombies.com",
+                        "topsy_expanded_url": "http://attackthezombies.com/"
+                    }
+                ],
+                "target_birth_date": 1376931452,
+                "content": "#MENTAL &amp; #VIOLENT T SHIRTS AVAILABLE AT http://t.co/kC6gnfrSuC",
+                "mytype": "tweet",
+                "score": 8.448965,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471712126235860992/RvglQY5F_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/maximumbbk/status/369503407393865728",
+                "trackback_author_url": "http://twitter.com/maximumbbk",
+                "highlight": "#MENTAL &amp; #VIOLENT T SHIRTS AVAILABLE AT",
+                "topsy_author_url": "http://topsy.com/twitter/maximumbbk",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/maximumbbk/status/369503407393865728",
+                "trackback_author_name": "Max",
+                "trackback_author_nick": "maximumbbk"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1373902984,
+                "title": "L'extreme-droite italienne rivalise de #racisme envers la premi\u00e8re ministre noire http://t.co/xkEdcdNuYf #violent #sexisme",
+                "url": "http://twitter.com/isabellegermain/status/356801095282081792",
+                "trackback_date": 1373902984,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/xkEdcdNuYf",
+                        "display_url": "bit.ly/12rU0Pr",
+                        "expanded_url": "http://bit.ly/12rU0Pr",
+                        "topsy_expanded_url": "http://www.lesnouvellesnews.fr/index.php/civilisation-articles-section/civilisation/2991-extreme-droite-italienne-racisme-ministre-noire"
+                    }
+                ],
+                "target_birth_date": 1373902984,
+                "content": "L'extreme-droite italienne rivalise de #racisme envers la premi\u00e8re ministre noire http://t.co/xkEdcdNuYf #violent #sexisme",
+                "mytype": "tweet",
+                "score": 8.448749,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/290872131/n1513075356_179408_1017_normal.jpg",
+                "trackback_permalink": "http://twitter.com/IsabelleGermain/status/356801095282081792",
+                "trackback_author_url": "http://twitter.com/isabellegermain",
+                "highlight": "L'extreme-droite italienne rivalise de #racisme envers la premi\u00e8re ministre noire #violent",
+                "topsy_author_url": "http://topsy.com/twitter/isabellegermain",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/isabellegermain/status/356801095282081792",
+                "trackback_author_name": "IsabelleGermain",
+                "trackback_author_nick": "isabellegermain"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1381591182,
+                "title": "#mental #VIOLENT",
+                "url": "http://twitter.com/devonanderson87/status/389047733371568128",
+                "trackback_date": 1381591182,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1381591182,
+                "content": "#mental #VIOLENT",
+                "mytype": "tweet",
+                "score": 8.447601,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/466593623577219073/0h9gwiQj_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DevonAnderson87/status/389047733371568128",
+                "trackback_author_url": "http://twitter.com/devonanderson87",
+                "highlight": "#mental",
+                "topsy_author_url": "http://topsy.com/twitter/devonanderson87",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/devonanderson87/status/389047733371568128",
+                "trackback_author_name": "Devon Anderson",
+                "trackback_author_nick": "devonanderson87"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1375855235,
+                "title": "To #Rastas, #alcohol promotes an objectionable, #violent, #aggressive, #harmful, &amp; anti-social mind state. They choose #marijuana instead!",
+                "url": "http://twitter.com/cannabisstrains/status/364989427933646849",
+                "trackback_date": 1375855235,
+                "trackback_total": 9,
+                "url_expansions": [],
+                "target_birth_date": 1375855235,
+                "content": "To #Rastas, #alcohol promotes an objectionable, #violent, #aggressive, #harmful, &amp; anti-social mind state. They choose #marijuana instead!",
+                "mytype": "tweet",
+                "score": 8.447209,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1636237414/livingcannabiscircle_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/cannabisstrains/status/364989427933646849",
+                "trackback_author_url": "http://twitter.com/cannabisstrains",
+                "highlight": "To #Rastas, #alcohol promotes an objectionable, #violent, #aggressive, #harmful, &amp; anti-social mind state. They choose #marijuana instead!",
+                "topsy_author_url": "http://topsy.com/twitter/cannabisstrains",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cannabisstrains/status/364989427933646849",
+                "trackback_author_name": "CannabisStrains",
+                "trackback_author_nick": "cannabisstrains"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1316023846,
+                "title": "\u201c@AsiaDee: I haven't gotten #violent in a while\u201d\n\n\nSex life wigggity whacc lol",
+                "url": "http://twitter.com/tayf_3rd/status/114038395751239681",
+                "trackback_date": 1316023846,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1316023846,
+                "content": "\u201c@AsiaDee: I haven't gotten #violent in a while\u201d\n\n\nSex life wigggity whacc lol",
+                "mytype": "tweet",
+                "score": 8.446421,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472456770016010241/871axIMd_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TAYF_3RD/status/114038395751239681",
+                "trackback_author_url": "http://twitter.com/tayf3rd",
+                "highlight": "\u201c@AsiaDee: I haven't gotten #violent in a while\u201d Sex life wigggity whacc lol",
+                "topsy_author_url": "http://topsy.com/twitter/tayf3rd",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tayf_3rd/status/114038395751239681",
+                "trackback_author_name": "3",
+                "trackback_author_nick": "tayf3rd"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1342879856,
+                "title": "There are men out there that think they live in a #violent #video #game.  #theatershooting",
+                "url": "http://twitter.com/shalyn67/status/226680665314320385",
+                "trackback_date": 1342879856,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1342879856,
+                "content": "There are men out there that think they live in a #violent #video #game.  #theatershooting",
+                "mytype": "tweet",
+                "score": 8.446295,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000616545720/a0c7a269dab3b36dcbe0730e792b1841_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Shalyn67/status/226680665314320385",
+                "trackback_author_url": "http://twitter.com/shalyn67",
+                "highlight": "There are men out there that think they live in a #violent #video #game.",
+                "topsy_author_url": "http://topsy.com/twitter/shalyn67",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/shalyn67/status/226680665314320385",
+                "trackback_author_name": "Sharon",
+                "trackback_author_nick": "shalyn67"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1349090516,
+                "title": "Watch Your Back! The Most #Violent Cities In the U.S. #crime | Radar Online http://t.co/7zpM12wZ",
+                "url": "http://twitter.com/radar_online/status/252730060279271425",
+                "trackback_date": 1349090516,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7zpM12wZ",
+                        "display_url": "shar.es/527sL",
+                        "expanded_url": "http://shar.es/527sL",
+                        "topsy_expanded_url": "http://www.radaronline.com/exclusives/2012/10/most-dangerous-cities-usa-photos-america"
+                    }
+                ],
+                "target_birth_date": 1349090516,
+                "content": "Watch Your Back! The Most #Violent Cities In the U.S. #crime | Radar Online http://t.co/7zpM12wZ",
+                "mytype": "tweet",
+                "score": 8.445653,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464064552267554816/l4hhIvhE_normal.png",
+                "trackback_permalink": "http://twitter.com/radar_online/status/252730060279271425",
+                "trackback_author_url": "http://twitter.com/radar_online",
+                "highlight": "Watch Your Back! The Most #Violent Cities In the U.S. #crime | Radar Online",
+                "topsy_author_url": "http://topsy.com/twitter/radar_online",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/radar_online/status/252730060279271425",
+                "trackback_author_name": "Radar Online",
+                "trackback_author_nick": "radar_online"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 330,
+        "hidden": 0,
+        "total": 72737,
+        "page": 1
+    }
+}

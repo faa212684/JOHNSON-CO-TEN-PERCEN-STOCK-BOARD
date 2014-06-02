@@ -1,0 +1,303 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23lecture&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=460",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#lecture",
+            "window": "a",
+            "type": "tweet",
+            "offset": "460"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1343040631,
+                "title": "#Lecture : De surprenants \u00e9carts r\u00e9gionaux  http://t.co/1lYlru9h",
+                "url": "http://twitter.com/cafepedagogique/status/227355002371457025",
+                "trackback_date": 1343040631,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1lYlru9h",
+                        "display_url": "tinyurl.com/c54jstw",
+                        "expanded_url": "http://tinyurl.com/c54jstw",
+                        "topsy_expanded_url": "http://tinyurl.com/c54jstw"
+                    }
+                ],
+                "target_birth_date": 1343040631,
+                "content": "#Lecture : De surprenants \u00e9carts r\u00e9gionaux  http://t.co/1lYlru9h",
+                "mytype": "tweet",
+                "score": 8.313975,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2012181726/CAFE_normal.jpg",
+                "trackback_permalink": "http://twitter.com/cafepedagogique/status/227355002371457025",
+                "trackback_author_url": "http://twitter.com/cafepedagogique",
+                "highlight": "#Lecture : De surprenants \u00e9carts r\u00e9gionaux",
+                "topsy_author_url": "http://topsy.com/twitter/cafepedagogique",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cafepedagogique/status/227355002371457025",
+                "trackback_author_name": "cafe pedagogique",
+                "trackback_author_nick": "cafepedagogique"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1390121246,
+                "title": "Join us Tomorrow @MIAQatar \n#lecture #Doha #Qatar #QMA http://t.co/YVe0g2ESFR",
+                "url": "http://twitter.com/qatarmuseumsaut/status/424825414033231872",
+                "trackback_date": 1390121246,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/YVe0g2ESFR",
+                        "display_url": "pic.twitter.com/YVe0g2ESFR",
+                        "expanded_url": "http://twitter.com/QatarMuseumsAut/status/424825414033231872/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BeVIdpeCUAAR7fj.jpg"
+                    }
+                ],
+                "target_birth_date": 1390121246,
+                "content": "Join us Tomorrow @MIAQatar \n#lecture #Doha #Qatar #QMA http://t.co/YVe0g2ESFR",
+                "mytype": "tweet",
+                "score": 8.313968,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468484347683561473/wvSTnvIT_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/QatarMuseumsAut/status/424825414033231872",
+                "trackback_author_url": "http://twitter.com/qatar_museums",
+                "highlight": "Join us Tomorrow @MIAQatar #lecture #Doha #Qatar #QMA",
+                "topsy_author_url": "http://topsy.com/twitter/qatar_museums",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/qatarmuseumsaut/status/424825414033231872",
+                "trackback_author_name": "Qatar Museums ",
+                "trackback_author_nick": "qatar_museums"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1371824377,
+                "title": "Learn how teeth can tell us about our #evolutionary past at this lunchtime #lecture at the Forsyth Institute June 25: http://t.co/fajPrEwair",
+                "url": "http://twitter.com/harvardmed/status/348082786189578240",
+                "trackback_date": 1371824377,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/fajPrEwair",
+                        "display_url": "hvrd.me/125nV2P",
+                        "expanded_url": "http://hvrd.me/125nV2P",
+                        "topsy_expanded_url": "http://hms.harvard.edu/calendar"
+                    }
+                ],
+                "target_birth_date": 1371824377,
+                "content": "Learn how teeth can tell us about our #evolutionary past at this lunchtime #lecture at the Forsyth Institute June 25: http://t.co/fajPrEwair",
+                "mytype": "tweet",
+                "score": 8.313208,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1857858303/HMS_SocialLion400_normal.png",
+                "trackback_permalink": "http://twitter.com/harvardmed/status/348082786189578240",
+                "trackback_author_url": "http://twitter.com/harvardmed",
+                "highlight": "Learn how teeth can tell us about our #evolutionary past at this lunchtime #lecture at the Forsyth Institute June 25:",
+                "topsy_author_url": "http://topsy.com/twitter/harvardmed",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/harvardmed/status/348082786189578240",
+                "trackback_author_name": "Harvard Med School",
+                "trackback_author_nick": "harvardmed"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1330333213,
+                "title": "Jusqu'au 28 mai, la @Bpi_Pompidou vous propose de vous installer dans son salon #manga : http://t.co/jbSuUUdX #lecture",
+                "url": "http://twitter.com/centrepompidou/status/174056228534747136",
+                "trackback_date": 1330333213,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jbSuUUdX",
+                        "display_url": "ow.ly/946nv",
+                        "expanded_url": "http://ow.ly/946nv",
+                        "topsy_expanded_url": "http://www.bpi.fr/fr/la_saison_culturelle/evenements/salon_manga.html"
+                    }
+                ],
+                "target_birth_date": 1330333213,
+                "content": "Jusqu'au 28 mai, la @Bpi_Pompidou vous propose de vous installer dans son salon #manga : http://t.co/jbSuUUdX #lecture",
+                "mytype": "tweet",
+                "score": 8.312311,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2025058014/centrepompidou2_normal.jpg",
+                "trackback_permalink": "http://twitter.com/centrepompidou/status/174056228534747136",
+                "trackback_author_url": "http://twitter.com/centrepompidou",
+                "highlight": "Jusqu'au 28 mai, la @Bpi_Pompidou vous propose de vous installer dans son salon #manga :",
+                "topsy_author_url": "http://topsy.com/twitter/centrepompidou",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/centrepompidou/status/174056228534747136",
+                "trackback_author_name": "CentrePompidou",
+                "trackback_author_nick": "centrepompidou"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1332604207,
+                "title": "Jusqu'au 28 mai, la @Bpi_Pompidou vous propose de vous installer dans son salon #manga : http://t.co/2CEDi89n #lecture",
+                "url": "http://twitter.com/centrepompidou/status/183581466721132545",
+                "trackback_date": 1332604207,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2CEDi89n",
+                        "display_url": "ow.ly/9u4zP",
+                        "expanded_url": "http://ow.ly/9u4zP",
+                        "topsy_expanded_url": "http://www.bpi.fr/fr/la_saison_culturelle/evenements/salon_manga.html"
+                    }
+                ],
+                "target_birth_date": 1332604207,
+                "content": "Jusqu'au 28 mai, la @Bpi_Pompidou vous propose de vous installer dans son salon #manga : http://t.co/2CEDi89n #lecture",
+                "mytype": "tweet",
+                "score": 8.311564,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2025058014/centrepompidou2_normal.jpg",
+                "trackback_permalink": "http://twitter.com/centrepompidou/status/183581466721132545",
+                "trackback_author_url": "http://twitter.com/centrepompidou",
+                "highlight": "Jusqu'au 28 mai, la @Bpi_Pompidou vous propose de vous installer dans son salon #manga :",
+                "topsy_author_url": "http://topsy.com/twitter/centrepompidou",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/centrepompidou/status/183581466721132545",
+                "trackback_author_name": "CentrePompidou",
+                "trackback_author_nick": "centrepompidou"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1304167809,
+                "title": "\u2638 En 3030, les gens devraient continuer de lire (mais diff\u00e9remment). \u261b  http://j.mp/jSbEkh  #lecture",
+                "url": "http://twitter.com/dameclicquot/status/64310572606427136",
+                "trackback_date": 1304167809,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1304167809,
+                "content": "\u2638 En 3030, les gens devraient continuer de lire (mais diff\u00e9remment). \u261b  http://j.mp/jSbEkh  #lecture",
+                "mytype": "tweet",
+                "score": 8.3114805,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1093391265/Yola__la_coupe3_normal.jpg",
+                "trackback_permalink": "http://twitter.com/DameClicquot/status/64310572606427136",
+                "trackback_author_url": "http://twitter.com/dameclicquot",
+                "highlight": "\u2638 En 3030, les gens devraient continuer de lire (mais diff\u00e9remment). \u261b",
+                "topsy_author_url": "http://topsy.com/twitter/dameclicquot",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dameclicquot/status/64310572606427136",
+                "trackback_author_name": "DameClicquot",
+                "trackback_author_nick": "dameclicquot"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1399388187,
+                "title": "Apr\u00e8s le #yoga, les bouquins. Improbable : un groupe de #lecture topless \u00e0 New York http://t.co/JrvOq6BcoX http://t.co/X4Kj7BMJsH",
+                "url": "http://twitter.com/grazia_fr/status/463693782819418112",
+                "trackback_date": 1399388187,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/JrvOq6BcoX",
+                        "display_url": "bit.ly/1nlngng",
+                        "expanded_url": "http://bit.ly/1nlngng",
+                        "topsy_expanded_url": "http://www.grazia.fr/culture/what-the-buzz/galeries/improbable-un-groupe-de-lecture-topless-a-new-york-644726"
+                    },
+                    {
+                        "url": "http://t.co/X4Kj7BMJsH",
+                        "display_url": "pic.twitter.com/X4Kj7BMJsH",
+                        "expanded_url": "http://twitter.com/grazia_fr/status/463693782819418112/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bm9fCeoCMAAm7dJ.jpg"
+                    }
+                ],
+                "target_birth_date": 1399388187,
+                "content": "Apr\u00e8s le #yoga, les bouquins. Improbable : un groupe de #lecture topless \u00e0 New York http://t.co/JrvOq6BcoX http://t.co/X4Kj7BMJsH",
+                "mytype": "tweet",
+                "score": 8.311278,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/438637607476404224/vM4l9EG4_normal.png",
+                "trackback_permalink": "http://twitter.com/grazia_fr/status/463693782819418112",
+                "trackback_author_url": "http://twitter.com/grazia_fr",
+                "highlight": "Apr\u00e8s le #yoga, les bouquins. Improbable : un groupe de #lecture topless \u00e0 New York",
+                "topsy_author_url": "http://topsy.com/twitter/grazia_fr",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/grazia_fr/status/463693782819418112",
+                "trackback_author_name": "Grazia France",
+                "trackback_author_nick": "grazia_fr"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1323867868,
+                "title": "#Lecture in #Business #Management : Market Entry Strategy for International Business - http://t.co/RgKX7eiY",
+                "url": "http://twitter.com/biztwt/status/146938605527511040",
+                "trackback_date": 1323867868,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RgKX7eiY",
+                        "display_url": "su.pr/2ANilJ",
+                        "expanded_url": "http://su.pr/2ANilJ",
+                        "topsy_expanded_url": "http://business-fundas.com/2011/market-entry-strategy-for-international-business/"
+                    }
+                ],
+                "target_birth_date": 1323867868,
+                "content": "#Lecture in #Business #Management : Market Entry Strategy for International Business - http://t.co/RgKX7eiY",
+                "mytype": "tweet",
+                "score": 8.310405,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1237075149/BizFunda_Logo_normal.JPG",
+                "trackback_permalink": "http://twitter.com/BizTwt/status/146938605527511040",
+                "trackback_author_url": "http://twitter.com/biztwt",
+                "highlight": "#Lecture in #Business #Management : Market Entry Strategy for International Business -",
+                "topsy_author_url": "http://topsy.com/twitter/biztwt",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/biztwt/status/146938605527511040",
+                "trackback_author_name": "Business Tweets",
+                "trackback_author_nick": "biztwt"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1353412598,
+                "title": "Book now for @carolematthews 'With Love At #Christmas' evening #lecture &amp;reception - there will be wine &amp;mince pies! http://t.co/S6lZ8eD6",
+                "url": "http://twitter.com/guildhalllib/status/270858184959344640",
+                "trackback_date": 1353412598,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/S6lZ8eD6",
+                        "display_url": "facebook.com/GuildhallLibra\u2026",
+                        "expanded_url": "http://www.facebook.com/GuildhallLibrary",
+                        "topsy_expanded_url": "http://www.facebook.com/GuildhallLibrary"
+                    }
+                ],
+                "target_birth_date": 1353412598,
+                "content": "Book now for @carolematthews 'With Love At #Christmas' evening #lecture &amp;reception - there will be wine &amp;mince pies! http://t.co/S6lZ8eD6",
+                "mytype": "tweet",
+                "score": 8.309387,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1799250626/157059_169540076416300_200456_n_normal.jpg",
+                "trackback_permalink": "http://twitter.com/GuildhallLib/status/270858184959344640",
+                "trackback_author_url": "http://twitter.com/guildhalllib",
+                "highlight": "Book now for @carolematthews 'With Love At #Christmas' evening #lecture &amp;reception - there will be wine &amp;mince pies!",
+                "topsy_author_url": "http://topsy.com/twitter/guildhalllib",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/guildhalllib/status/270858184959344640",
+                "trackback_author_name": "Guildhall Library",
+                "trackback_author_nick": "guildhalllib"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1389648223,
+                "title": "Lecteurs, quels sont vos r\u00e9seaux ? http://t.co/EJpdhrifRR #lecture #journalisme #\u00e9crivain",
+                "url": "http://twitter.com/wilfrid_esteve/status/422841413881978880",
+                "trackback_date": 1389648223,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/EJpdhrifRR",
+                        "display_url": "shar.es/9Mreb",
+                        "expanded_url": "http://shar.es/9Mreb",
+                        "topsy_expanded_url": "http://www.inaglobal.fr/edition/article/lecteurs-quels-sont-vos-reseaux"
+                    }
+                ],
+                "target_birth_date": 1389648223,
+                "content": "Lecteurs, quels sont vos r\u00e9seaux ? http://t.co/EJpdhrifRR #lecture #journalisme #\u00e9crivain",
+                "mytype": "tweet",
+                "score": 8.30896,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000603936441/3b4c29cfd3445d75de5c6d761dedb34f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Wilfrid_Esteve/status/422841413881978880",
+                "trackback_author_url": "http://twitter.com/wilfrid_esteve",
+                "highlight": "Lecteurs, quels sont vos r\u00e9seaux ? #lecture #journalisme #\u00e9crivain",
+                "topsy_author_url": "http://topsy.com/twitter/wilfrid_esteve",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wilfrid_esteve/status/422841413881978880",
+                "trackback_author_name": "Wilfrid Est\u00e8ve",
+                "trackback_author_nick": "wilfrid_esteve"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 460,
+        "hidden": 0,
+        "total": 130760,
+        "page": 1
+    }
+}

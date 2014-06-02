@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23gaga&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=300",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#gaga",
+            "window": "a",
+            "type": "tweet",
+            "offset": "300"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 127,
+                "firstpost_date": 1393652777,
+                "title": "Can we make all of this trend on March 28th?\n@LadyGaga @TaylorKinney11 @TaylorKinney111 #Gaga http://t.co/B75vx4PBkD",
+                "url": "http://twitter.com/hausofgypsies/status/439637728032849920",
+                "trackback_date": 1393652777,
+                "trackback_total": 147,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/B75vx4PBkD",
+                        "display_url": "pic.twitter.com/B75vx4PBkD",
+                        "expanded_url": "http://twitter.com/HausOfGypsies/status/439637728032849920/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BhnoLzGCAAEHd6z.png"
+                    }
+                ],
+                "target_birth_date": 1393652777,
+                "content": "Can we make all of this trend on March 28th?\n@LadyGaga @TaylorKinney11 @TaylorKinney111 #Gaga http://t.co/B75vx4PBkD",
+                "mytype": "tweet",
+                "score": 9.19341,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472101593307815937/lsJ3aQEO_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/HausOfGypsies/status/439637728032849920",
+                "trackback_author_url": "http://twitter.com/hausofgypsies",
+                "highlight": "Can we make all of this trend on March 28th? @LadyGaga @TaylorKinney11 @TaylorKinney111 #Gaga",
+                "topsy_author_url": "http://topsy.com/twitter/hausofgypsies",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hausofgypsies/status/439637728032849920",
+                "trackback_author_name": "AUSTIN \u2022 ARTPOP",
+                "trackback_author_nick": "hausofgypsies"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1310493784,
+                "title": "Ganz Australien ist #gaga - dank der Lady http://t.co/3Vn0qtQ",
+                "url": "http://twitter.com/prosieben/status/90843631740665856",
+                "trackback_date": 1310493784,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3Vn0qtQ",
+                        "display_url": "bit.ly/qbr4PY",
+                        "expanded_url": "http://bit.ly/qbr4PY",
+                        "topsy_expanded_url": "http://bit.ly/qbr4PY"
+                    }
+                ],
+                "target_birth_date": 1310493784,
+                "content": "Ganz Australien ist #gaga - dank der Lady http://t.co/3Vn0qtQ",
+                "mytype": "tweet",
+                "score": 9.191259,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000822065273/ae9841cccfb5c79863ccc3e8135f2eb6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ProSieben/status/90843631740665856",
+                "trackback_author_url": "http://twitter.com/prosieben",
+                "highlight": "Ganz Australien ist #gaga - dank der Lady",
+                "topsy_author_url": "http://topsy.com/twitter/prosieben",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/prosieben/status/90843631740665856",
+                "trackback_author_name": "ProSieben",
+                "trackback_author_nick": "prosieben"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1336358400,
+                "title": "\uff32\uff25\uff34\uff37\uff25\uff25\uff34 \uff29\uff26 \uff39\uff2f\uff35 \uff26\uff2f\uff2c\uff2c\uff2f\uff37 \uff22\uff21\uff23\uff2b #TeamFollowBack\u2714 #GainFast\u27bdhttp://t.co/h2kYxA3w #BillionDollarArt #Rap #YahooNews #ABC #FOX #Gaga #FollowParty",
+                "url": "http://twitter.com/blogginjoe/status/199327697032327169",
+                "trackback_date": 1336358400,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/h2kYxA3w",
+                        "display_url": "pharopromo.com/song-of-artemi\u2026",
+                        "expanded_url": "http://www.pharopromo.com/song-of-artemis.html",
+                        "topsy_expanded_url": "http://www.pharopromo.com/song-of-artemis.html"
+                    }
+                ],
+                "target_birth_date": 1336358400,
+                "content": "\uff32\uff25\uff34\uff37\uff25\uff25\uff34 \uff29\uff26 \uff39\uff2f\uff35 \uff26\uff2f\uff2c\uff2c\uff2f\uff37 \uff22\uff21\uff23\uff2b #TeamFollowBack\u2714 #GainFast\u27bdhttp://t.co/h2kYxA3w #BillionDollarArt #Rap #YahooNews #ABC #FOX #Gaga #FollowParty",
+                "mytype": "tweet",
+                "score": 9.188805,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000411590543/57cd5fbb54355c81d8aeb345a099ac59_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BlogginJoe/status/199327697032327169",
+                "trackback_author_url": "http://twitter.com/ceomars",
+                "highlight": "\uff32\uff25\uff34\uff37\uff25\uff25\uff34 \uff29\uff26 \uff39\uff2f\uff35 \uff26\uff2f\uff2c\uff2c\uff2f\uff37 \uff22\uff21\uff23\uff2b #TeamFollowBack\u2714 #GainFast\u27bd #BillionDollarArt #Rap #YahooNews #ABC #FOX #Gaga",
+                "topsy_author_url": "http://topsy.com/twitter/ceomars",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/blogginjoe/status/199327697032327169",
+                "trackback_author_name": "DiMarkco S Chandler",
+                "trackback_author_nick": "ceomars"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1320613429,
+                "title": "Quiero filetes, quiero filetes, no quiero cadenas, quiero filetes #gaga #MTVEMAs",
+                "url": "http://twitter.com/revista_cuore/status/133288501822242817",
+                "trackback_date": 1320613429,
+                "trackback_total": 26,
+                "url_expansions": [],
+                "target_birth_date": 1320613429,
+                "content": "Quiero filetes, quiero filetes, no quiero cadenas, quiero filetes #gaga #MTVEMAs",
+                "mytype": "tweet",
+                "score": 9.185119,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463292594965868544/4jq_DYer_normal.png",
+                "trackback_permalink": "http://twitter.com/revista_cuore/status/133288501822242817",
+                "trackback_author_url": "http://twitter.com/cuore",
+                "highlight": "Quiero filetes, quiero filetes, no quiero cadenas, quiero filetes #gaga",
+                "topsy_author_url": "http://topsy.com/twitter/cuore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/revista_cuore/status/133288501822242817",
+                "trackback_author_name": "Revista CUORE",
+                "trackback_author_nick": "cuore"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1353262252,
+                "title": "#Nik #Gaga #Argentina http://t.co/KihszXe4",
+                "url": "http://twitter.com/lorenameritano/status/270227591028428800",
+                "trackback_date": 1353262252,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/KihszXe4",
+                        "display_url": "instagr.am/p/SLjEmqIyxm/",
+                        "expanded_url": "http://instagr.am/p/SLjEmqIyxm/",
+                        "topsy_expanded_url": "http://instagram.com/p/SLjEmqIyxm/"
+                    }
+                ],
+                "target_birth_date": 1353262252,
+                "content": "#Nik #Gaga #Argentina http://t.co/KihszXe4",
+                "mytype": "tweet",
+                "score": 9.185049,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/470656454333313026/Be7V4F1G_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LorenaMeritano/status/270227591028428800",
+                "trackback_author_url": "http://twitter.com/lorenameritano",
+                "highlight": "#Nik #Gaga #Argentina",
+                "topsy_author_url": "http://topsy.com/twitter/lorenameritano",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lorenameritano/status/270227591028428800",
+                "trackback_author_name": "Lorenameritano",
+                "trackback_author_nick": "lorenameritano"
+            },
+            {
+                "hits": 15,
+                "firstpost_date": 1325392890,
+                "title": "#gaga in times square.  jump!",
+                "url": "http://twitter.com/sharpie/status/153335010819182593",
+                "trackback_date": 1325392890,
+                "trackback_total": 16,
+                "url_expansions": [],
+                "target_birth_date": 1325392890,
+                "content": "#gaga in times square.  jump!",
+                "mytype": "tweet",
+                "score": 9.18245,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2824801144/029e423c0e11a4c521a2b50934081a81_normal.png",
+                "trackback_permalink": "http://twitter.com/Sharpie/status/153335010819182593",
+                "trackback_author_url": "http://twitter.com/sharpie",
+                "highlight": "#gaga in times square. jump!",
+                "topsy_author_url": "http://topsy.com/twitter/sharpie",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sharpie/status/153335010819182593",
+                "trackback_author_name": "Sharpie",
+                "trackback_author_nick": "sharpie"
+            },
+            {
+                "hits": 58,
+                "firstpost_date": 1383160308,
+                "title": "\"I bring you love...\" #Gaga #MrBurns http://t.co/uHD53GwYLC",
+                "url": "http://twitter.com/leeroydalvin/status/395629122702946304",
+                "trackback_date": 1383160308,
+                "trackback_total": 60,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/uHD53GwYLC",
+                        "display_url": "pic.twitter.com/uHD53GwYLC",
+                        "expanded_url": "http://twitter.com/Leeroydalvin/status/395629122702946304/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BX2Ol0nCMAAv5DY.jpg"
+                    }
+                ],
+                "target_birth_date": 1383160308,
+                "content": "\"I bring you love...\" #Gaga #MrBurns http://t.co/uHD53GwYLC",
+                "mytype": "tweet",
+                "score": 9.181908,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/416599891558027267/K0JFIUvG_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Leeroydalvin/status/395629122702946304",
+                "trackback_author_url": "http://twitter.com/leeroydalvin",
+                "highlight": "\"I bring you love...\" #Gaga #MrBurns",
+                "topsy_author_url": "http://topsy.com/twitter/leeroydalvin",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/leeroydalvin/status/395629122702946304",
+                "trackback_author_name": "Lee Dalloway",
+                "trackback_author_nick": "leeroydalvin"
+            },
+            {
+                "hits": 126,
+                "firstpost_date": 1396394712,
+                "title": "Beyonce tells a story about when Blue graced Obama with her presence. #gaga  https://t.co/OckqxZNL3b",
+                "url": "http://twitter.com/mademoisellleee/status/451138237747445761",
+                "trackback_date": 1396394712,
+                "trackback_total": 140,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/OckqxZNL3b",
+                        "display_url": "vine.co/v/MeF30eYh6bi",
+                        "expanded_url": "https://vine.co/v/MeF30eYh6bi",
+                        "topsy_expanded_url": "https://vine.co/v/MeF30eYh6bi"
+                    }
+                ],
+                "target_birth_date": 1396394712,
+                "content": "Beyonce tells a story about when Blue graced Obama with her presence. #gaga  https://t.co/OckqxZNL3b",
+                "mytype": "tweet",
+                "score": 9.180816,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471520779742740480/1vOxc6H-_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Mademoisellleee/status/451138237747445761",
+                "trackback_author_url": "http://twitter.com/mademoisellleee",
+                "highlight": "Beyonce tells a story about when Blue graced Obama with her presence. #gaga",
+                "topsy_author_url": "http://topsy.com/twitter/mademoisellleee",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mademoisellleee/status/451138237747445761",
+                "trackback_author_name": "M O R G A N N E",
+                "trackback_author_nick": "mademoisellleee"
+            },
+            {
+                "hits": 28,
+                "firstpost_date": 1327780197,
+                "title": "#Beyonc\u00e9: \"Qual o nome daquela mulher?\"    #Gaga: \"Ke$ha!\"          #Beyonc\u00e9:\" Ke$ha?\"   #Gaga: \"Quero sim, com pouca a\u00e7\u00facar, por favor.\"",
+                "url": "http://twitter.com/divasdoflop/status/163348105293606912",
+                "trackback_date": 1327780197,
+                "trackback_total": 35,
+                "url_expansions": [],
+                "target_birth_date": 1327780197,
+                "content": "#Beyonc\u00e9: \"Qual o nome daquela mulher?\"    #Gaga: \"Ke$ha!\"          #Beyonc\u00e9:\" Ke$ha?\"   #Gaga: \"Quero sim, com pouca a\u00e7\u00facar, por favor.\"",
+                "mytype": "tweet",
+                "score": 9.180349,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3410428123/354b2722660a5972acb0bc0384fdcc4c_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DivasDoFlop/status/163348105293606912",
+                "trackback_author_url": "http://twitter.com/divasdoflop",
+                "highlight": "#Beyonc\u00e9: \"Qual o nome daquela mulher?\" #Gaga: \"Ke$ha!\" #Beyonc\u00e9:\" Ke$ha?\" #Gaga: \"Quero sim, com pouca a\u00e7\u00facar, por favor.\"",
+                "topsy_author_url": "http://topsy.com/twitter/divasdoflop",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/divasdoflop/status/163348105293606912",
+                "trackback_author_name": "Divas do Flop",
+                "trackback_author_nick": "divasdoflop"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1265041529,
+                "title": "#Grammys: The best & worst moments. #gaga #Pink & more. &gt;sc http://bit.ly/d7Cen8",
+                "url": "http://twitter.com/msn/status/8504367343",
+                "trackback_date": 1265041529,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1265041529,
+                "content": "#Grammys: The best & worst moments. #gaga #Pink & more. &gt;sc http://bit.ly/d7Cen8",
+                "mytype": "tweet",
+                "score": 9.178989,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2767070712/48d68220c3281027c1043a01c84a49d3_normal.png",
+                "trackback_permalink": "http://twitter.com/MSN/status/8504367343",
+                "trackback_author_url": "http://twitter.com/msn",
+                "highlight": "#Grammys: The best & worst moments. #gaga #Pink & more. &gt;sc",
+                "topsy_author_url": "http://topsy.com/twitter/msn",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/msn/status/8504367343",
+                "trackback_author_name": "MSN",
+                "trackback_author_nick": "msn"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 300,
+        "hidden": 0,
+        "total": 1146037,
+        "page": 1
+    }
+}

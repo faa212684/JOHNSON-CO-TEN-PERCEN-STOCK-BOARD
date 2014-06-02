@@ -1,0 +1,326 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23nettle&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=20",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#nettle",
+            "window": "a",
+            "type": "tweet",
+            "offset": "20"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 2,
+                "firstpost_date": 1394877476,
+                "title": "Mother's Day Special! #Nettle zing! http://t.co/O6ZCmrzxZq \u00a320.00 OFF #Yarn #Dyeing #Weaving http://t.co/PXVytyQIzL http://t.co/nl9m5kIm6S",
+                "url": "http://twitter.com/francoisem/status/444774489453105152",
+                "trackback_date": 1394877476,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/O6ZCmrzxZq",
+                        "display_url": "bit.ly/1kzbeHD",
+                        "expanded_url": "http://bit.ly/1kzbeHD",
+                        "topsy_expanded_url": "http://www.rootsshootsandleaves.com/products-page/workshops-3/distilling-and-perfume-making/"
+                    },
+                    {
+                        "url": "http://t.co/PXVytyQIzL",
+                        "display_url": "bit.ly/1bK3oaf",
+                        "expanded_url": "http://bit.ly/1bK3oaf",
+                        "topsy_expanded_url": "http://www.rootsshootsandleaves.com/products-page/crafts/nettle-yarn-dyeing-weaving/"
+                    },
+                    {
+                        "url": "http://t.co/nl9m5kIm6S",
+                        "display_url": "pic.twitter.com/nl9m5kIm6S",
+                        "expanded_url": "http://twitter.com/FrancoiseM/status/436470555290501120/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bg6nqEsCAAACxGE.jpg"
+                    }
+                ],
+                "target_birth_date": 1394877476,
+                "content": "Mother's Day Special! #Nettle zing! http://t.co/O6ZCmrzxZq \u00a320.00 OFF #Yarn #Dyeing #Weaving http://t.co/PXVytyQIzL http://t.co/nl9m5kIm6S",
+                "mytype": "tweet",
+                "score": 8.294348,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468333070/Beijing_fm229_314300_normal.jpg",
+                "trackback_permalink": "http://twitter.com/FrancoiseM/status/444774489453105152",
+                "trackback_author_url": "http://twitter.com/francoisem",
+                "highlight": "Mother's Day Special! #Nettle zing! \u00a320.00 OFF #Yarn #Dyeing #Weaving",
+                "topsy_author_url": "http://topsy.com/twitter/francoisem",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/francoisem/status/444774489453105152",
+                "trackback_author_name": "Francoise Murat",
+                "trackback_author_nick": "francoisem"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1394709833,
+                "title": "**Mother's Day Special! #Nettle zing! http://t.co/O6ZCmrzxZq \u00a320.00 OFF #Yarn #Dyeing #Weaving http://t.co/PXVytyQIzL http://t.co/nl9m5kIm6S",
+                "url": "http://twitter.com/francoisem/status/444071343588270080",
+                "trackback_date": 1394709833,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/O6ZCmrzxZq",
+                        "display_url": "bit.ly/1kzbeHD",
+                        "expanded_url": "http://bit.ly/1kzbeHD",
+                        "topsy_expanded_url": "http://www.rootsshootsandleaves.com/products-page/workshops-3/distilling-and-perfume-making/"
+                    },
+                    {
+                        "url": "http://t.co/PXVytyQIzL",
+                        "display_url": "bit.ly/1bK3oaf",
+                        "expanded_url": "http://bit.ly/1bK3oaf",
+                        "topsy_expanded_url": "http://www.rootsshootsandleaves.com/products-page/crafts/nettle-yarn-dyeing-weaving/"
+                    },
+                    {
+                        "url": "http://t.co/nl9m5kIm6S",
+                        "display_url": "pic.twitter.com/nl9m5kIm6S",
+                        "expanded_url": "http://twitter.com/FrancoiseM/status/436470555290501120/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bg6nqEsCAAACxGE.jpg"
+                    }
+                ],
+                "target_birth_date": 1394709833,
+                "content": "**Mother's Day Special! #Nettle zing! http://t.co/O6ZCmrzxZq \u00a320.00 OFF #Yarn #Dyeing #Weaving http://t.co/PXVytyQIzL http://t.co/nl9m5kIm6S",
+                "mytype": "tweet",
+                "score": 8.2942915,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468333070/Beijing_fm229_314300_normal.jpg",
+                "trackback_permalink": "http://twitter.com/FrancoiseM/status/444071343588270080",
+                "trackback_author_url": "http://twitter.com/francoisem",
+                "highlight": "**Mother's Day Special! #Nettle zing! \u00a320.00 OFF #Yarn #Dyeing #Weaving",
+                "topsy_author_url": "http://topsy.com/twitter/francoisem",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/francoisem/status/444071343588270080",
+                "trackback_author_name": "Francoise Murat",
+                "trackback_author_nick": "francoisem"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1387926009,
+                "title": "#Sea #nettle #jelly #fish #ocean #monterey #aquarium #california #video http://t.co/Q4tFPvwUWt",
+                "url": "http://twitter.com/denisevasquez/status/415617924502929409",
+                "trackback_date": 1387926009,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Q4tFPvwUWt",
+                        "display_url": "instagram.com/p/iUnA6RiaIp/",
+                        "expanded_url": "http://instagram.com/p/iUnA6RiaIp/",
+                        "topsy_expanded_url": "http://instagram.com/p/iUnA6RiaIp/"
+                    }
+                ],
+                "target_birth_date": 1387926009,
+                "content": "#Sea #nettle #jelly #fish #ocean #monterey #aquarium #california #video http://t.co/Q4tFPvwUWt",
+                "mytype": "tweet",
+                "score": 8.278682,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471204757659344896/GJl0uYpo_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DENISEVASQUEZ/status/415617924502929409",
+                "trackback_author_url": "http://twitter.com/denisevasquez",
+                "highlight": "#Sea #nettle #jelly #fish #ocean #monterey #aquarium #california #video",
+                "topsy_author_url": "http://topsy.com/twitter/denisevasquez",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/denisevasquez/status/415617924502929409",
+                "trackback_author_name": "DeniseVasquez",
+                "trackback_author_nick": "denisevasquez"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1357233605,
+                "title": "RT @scinewscom Scientists Discover Three New #Nettle Species http://t.co/7DwgUGN6 #biology #botany #nature: Scie... http://t.co/5aDdu4R1",
+                "url": "http://twitter.com/earth_newsrt/status/286884649656016896",
+                "trackback_date": 1357233605,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7DwgUGN6",
+                        "display_url": "bit.ly/TKBDCV",
+                        "expanded_url": "http://bit.ly/TKBDCV",
+                        "topsy_expanded_url": "http://www.sci-news.com/biology/article00800.html"
+                    },
+                    {
+                        "url": "http://t.co/5aDdu4R1",
+                        "display_url": "bit.ly/YYsl6p",
+                        "expanded_url": "http://bit.ly/YYsl6p",
+                        "topsy_expanded_url": "http://twitter.com/scinewscom/status/286879668320235520"
+                    }
+                ],
+                "target_birth_date": 1357233605,
+                "content": "RT @scinewscom Scientists Discover Three New #Nettle Species http://t.co/7DwgUGN6 #biology #botany #nature: Scie... http://t.co/5aDdu4R1",
+                "mytype": "tweet",
+                "score": 8.277866,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1093196933/fg_copy_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Earth_NewsRT/status/286884649656016896",
+                "trackback_author_url": "http://twitter.com/earth_newsrt",
+                "highlight": "RT @scinewscom Scientists Discover Three New #Nettle Species #biology #botany #nature: Scie",
+                "topsy_author_url": "http://topsy.com/twitter/earth_newsrt",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/earth_newsrt/status/286884649656016896",
+                "trackback_author_name": "Earth News ReTweeted",
+                "trackback_author_nick": "earth_newsrt"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1386411328,
+                "title": "Exciting #Nettle #weaving #dyeing comes 2 @Rootshootsleaf ! Already 4 booked! #Christmas http://t.co/PXVytyQIzL http://t.co/Ru2ylPNeq8",
+                "url": "http://twitter.com/francoisem/status/409264890507845632",
+                "trackback_date": 1386411328,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PXVytyQIzL",
+                        "display_url": "bit.ly/1bK3oaf",
+                        "expanded_url": "http://bit.ly/1bK3oaf",
+                        "topsy_expanded_url": "http://www.rootsshootsandleaves.com/products-page/crafts/nettle-yarn-dyeing-weaving/"
+                    },
+                    {
+                        "url": "http://t.co/Ru2ylPNeq8",
+                        "display_url": "pic.twitter.com/Ru2ylPNeq8",
+                        "expanded_url": "http://twitter.com/FrancoiseM/status/408609117498925056/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Baur08fCUAAbK0o.jpg"
+                    }
+                ],
+                "target_birth_date": 1386411328,
+                "content": "Exciting #Nettle #weaving #dyeing comes 2 @Rootshootsleaf ! Already 4 booked! #Christmas http://t.co/PXVytyQIzL http://t.co/Ru2ylPNeq8",
+                "mytype": "tweet",
+                "score": 8.276473,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468333070/Beijing_fm229_314300_normal.jpg",
+                "trackback_permalink": "http://twitter.com/FrancoiseM/status/409264890507845632",
+                "trackback_author_url": "http://twitter.com/francoisem",
+                "highlight": "Exciting #Nettle #weaving #dyeing comes 2 @Rootshootsleaf ! Already 4 booked! #Christmas",
+                "topsy_author_url": "http://topsy.com/twitter/francoisem",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/francoisem/status/409264890507845632",
+                "trackback_author_name": "Francoise Murat",
+                "trackback_author_nick": "francoisem"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1300446199,
+                "title": "NETTLE ON THE BALLS http://bit.ly/gcs5Ea #nettle #on #the #balls",
+                "url": "http://twitter.com/xmvu/status/48701005558325249",
+                "trackback_date": 1300446199,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1300446199,
+                "content": "NETTLE ON THE BALLS http://bit.ly/gcs5Ea #nettle #on #the #balls",
+                "mytype": "tweet",
+                "score": 8.263861,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1208261473/me_normal.jpg",
+                "trackback_permalink": "http://twitter.com/xmvu/status/48701005558325249",
+                "trackback_author_url": "http://twitter.com/xmvu",
+                "highlight": "NETTLE ON THE BALLS #nettle #on #the",
+                "topsy_author_url": "http://topsy.com/twitter/xmvu",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/xmvu/status/48701005558325249",
+                "trackback_author_name": "Xmvu",
+                "trackback_author_nick": "xmvu"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1360925145,
+                "title": "never thought I would be a fan of #nettle tea. It is delicious!",
+                "url": "http://twitter.com/brightonnat/status/302368092246380544",
+                "trackback_date": 1360925145,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1360925145,
+                "content": "never thought I would be a fan of #nettle tea. It is delicious!",
+                "mytype": "tweet",
+                "score": 8.249099,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/425701207303155712/JSvMbh2n_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BrightonNat/status/302368092246380544",
+                "trackback_author_url": "http://twitter.com/brightonnat",
+                "highlight": "never thought I would be a fan of #nettle tea. It is delicious!",
+                "topsy_author_url": "http://topsy.com/twitter/brightonnat",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/brightonnat/status/302368092246380544",
+                "trackback_author_name": "Nathalie GomezdeVera",
+                "trackback_author_nick": "brightonnat"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1396785753,
+                "title": "#nettle pasta ready for the pot @killruddery @SugarloafSlowFd @edhick http://t.co/DrPDts1EBX",
+                "url": "http://twitter.com/aisnicc/status/452778384133988352",
+                "trackback_date": 1396785753,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DrPDts1EBX",
+                        "display_url": "pic.twitter.com/DrPDts1EBX",
+                        "expanded_url": "http://twitter.com/AisNicC/status/452778384133988352/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BkiXipSIYAEDowM.jpg"
+                    }
+                ],
+                "target_birth_date": 1396785753,
+                "content": "#nettle pasta ready for the pot @killruddery @SugarloafSlowFd @edhick http://t.co/DrPDts1EBX",
+                "mytype": "tweet",
+                "score": 8.246787,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/456176439490932736/fG0-rvXI_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AisNicC/status/452778384133988352",
+                "trackback_author_url": "http://twitter.com/aisnicc",
+                "highlight": "#nettle pasta ready for the pot @killruddery @SugarloafSlowFd @edhick",
+                "topsy_author_url": "http://topsy.com/twitter/aisnicc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/aisnicc/status/452778384133988352",
+                "trackback_author_name": "Aisling Nic",
+                "trackback_author_nick": "aisnicc"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1395739454,
+                "title": "Another #nettle learning moment: nettles have over 4 times as much calcium as spinach.  https://t.co/sqOrrzu4UJ",
+                "url": "http://twitter.com/monicashaw/status/448389885557493760",
+                "trackback_date": 1395739454,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/sqOrrzu4UJ",
+                        "display_url": "google.com/search?q=nettl\u2026",
+                        "expanded_url": "https://www.google.com/search?q=nettle+calcium&ie=utf-8&oe=utf-8&aq=t#q=nettle+calcium+vs+spinach",
+                        "topsy_expanded_url": "https://www.google.com/search?oe=utf-8&q=nettle+calcium&ie=utf-8&aq=t"
+                    }
+                ],
+                "target_birth_date": 1395739454,
+                "content": "Another #nettle learning moment: nettles have over 4 times as much calcium as spinach.  https://t.co/sqOrrzu4UJ",
+                "mytype": "tweet",
+                "score": 8.241811,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3330064402/c4900a6d88cfc79e9c98279c9f3c03eb_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/monicashaw/status/448389885557493760",
+                "trackback_author_url": "http://twitter.com/monicashaw",
+                "highlight": "Another #nettle learning moment: nettles have over 4 times as much calcium as spinach.",
+                "topsy_author_url": "http://topsy.com/twitter/monicashaw",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/monicashaw/status/448389885557493760",
+                "trackback_author_name": "Monica Shaw",
+                "trackback_author_nick": "monicashaw"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1367074224,
+                "title": "My treasure trove from the Farmers' Market this morning... 5 pounds of #nettle! http://t.co/HZBNplWAlv #localfood",
+                "url": "http://twitter.com/foodandstyle/status/328159196686196736",
+                "trackback_date": 1367074224,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/HZBNplWAlv",
+                        "display_url": "on.fb.me/10IFNma",
+                        "expanded_url": "http://on.fb.me/10IFNma",
+                        "topsy_expanded_url": "https://www.facebook.com/photo.php?fbid=10151589747182240&set=a.324226262239.150849.165074477239&type=1"
+                    }
+                ],
+                "target_birth_date": 1367074224,
+                "content": "My treasure trove from the Farmers' Market this morning... 5 pounds of #nettle! http://t.co/HZBNplWAlv #localfood",
+                "mytype": "tweet",
+                "score": 8.239193,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/488363690/Viviane_-_thumbnail_normal.jpg",
+                "trackback_permalink": "http://twitter.com/foodandstyle/status/328159196686196736",
+                "trackback_author_url": "http://twitter.com/foodandstyle",
+                "highlight": "My treasure trove from the Farmers' Market this morning... 5 pounds of #nettle!",
+                "topsy_author_url": "http://topsy.com/twitter/foodandstyle",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/foodandstyle/status/328159196686196736",
+                "trackback_author_name": "Viviane BauquetFarre",
+                "trackback_author_nick": "foodandstyle"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 20,
+        "hidden": 0,
+        "total": 3191,
+        "page": 1
+    }
+}

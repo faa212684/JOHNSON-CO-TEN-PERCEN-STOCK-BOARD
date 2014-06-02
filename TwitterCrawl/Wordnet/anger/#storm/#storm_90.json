@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23storm&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=90",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#storm",
+            "window": "a",
+            "type": "tweet",
+            "offset": "90"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 16,
+                "firstpost_date": 1327317325,
+                "title": "Powerful #storm causes damage to Birmingham, Alabama.  Live: http://t.co/iFMHjk82",
+                "url": "http://twitter.com/cnnlive/status/161406680003907585",
+                "trackback_date": 1327317325,
+                "trackback_total": 17,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/iFMHjk82",
+                        "display_url": "on.cnn.com/cnndcl1",
+                        "expanded_url": "http://on.cnn.com/cnndcl1",
+                        "topsy_expanded_url": "http://www.cnn.com/video/"
+                    }
+                ],
+                "target_birth_date": 1327317325,
+                "content": "Powerful #storm causes damage to Birmingham, Alabama.  Live: http://t.co/iFMHjk82",
+                "mytype": "tweet",
+                "score": 9.605436,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/788461836/cnnLive_normal.jpg",
+                "trackback_permalink": "http://twitter.com/CNNLive/status/161406680003907585",
+                "trackback_author_url": "http://twitter.com/cnnlive",
+                "highlight": "Powerful #storm causes damage to Birmingham, Alabama. Live:",
+                "topsy_author_url": "http://topsy.com/twitter/cnnlive",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cnnlive/status/161406680003907585",
+                "trackback_author_name": "CNN Live",
+                "trackback_author_nick": "cnnlive"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1388681179,
+                "title": "Up to 12 inches of snow and bitterly cold temperatures forecast for some parts of the US Midwest http://t.co/cae41jOnm2 #USA #snow #storm",
+                "url": "http://twitter.com/ajelive/status/418785334575759360",
+                "trackback_date": 1388681179,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cae41jOnm2",
+                        "display_url": "aje.me/Kmut7H",
+                        "expanded_url": "http://aje.me/Kmut7H",
+                        "topsy_expanded_url": "http://www.aljazeera.com/weather/2014/01/snow-storm-us-midwest-wreaks-havoc-20141214629869685.html"
+                    }
+                ],
+                "target_birth_date": 1388681179,
+                "content": "Up to 12 inches of snow and bitterly cold temperatures forecast for some parts of the US Midwest http://t.co/cae41jOnm2 #USA #snow #storm",
+                "mytype": "tweet",
+                "score": 9.596492,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/448478250503647233/xZOjTaoA_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AJELive/status/418785334575759360",
+                "trackback_author_url": "http://twitter.com/ajelive",
+                "highlight": "Up to 12 inches of snow and bitterly cold temperatures forecast for some parts of the US Midwest #USA #snow",
+                "topsy_author_url": "http://topsy.com/twitter/ajelive",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ajelive/status/418785334575759360",
+                "trackback_author_name": "AJELive",
+                "trackback_author_nick": "ajelive"
+            },
+            {
+                "hits": 67,
+                "firstpost_date": 1400892079,
+                "title": "RT @isardasorensen: Stormy skies rolling through #NYC tonight. #storm #weather http://t.co/UDrzTaaQCW // \u00a1Impresionante!",
+                "url": "http://twitter.com/webcamsdemexico/status/470001561460940800",
+                "trackback_date": 1400892079,
+                "trackback_total": 78,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/UDrzTaaQCW",
+                        "display_url": "pic.twitter.com/UDrzTaaQCW",
+                        "expanded_url": "http://twitter.com/isardasorensen/status/470000750333292544/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BoXHMP_CMAAbRZE.jpg"
+                    }
+                ],
+                "target_birth_date": 1400892079,
+                "content": "RT @isardasorensen: Stormy skies rolling through #NYC tonight. #storm #weather http://t.co/UDrzTaaQCW // \u00a1Impresionante!",
+                "mytype": "tweet",
+                "score": 9.595428,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1740334648/Nuovo_logo_normal.jpg",
+                "trackback_permalink": "http://twitter.com/webcamsdemexico/status/470001561460940800",
+                "trackback_author_url": "http://twitter.com/webcamsdemexico",
+                "highlight": "Stormy skies rolling through #NYC tonight. #storm #weather // \u00a1Impresionante!",
+                "topsy_author_url": "http://topsy.com/twitter/webcamsdemexico",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/webcamsdemexico/status/470001561460940800",
+                "trackback_author_name": "Webcams de M\u00e9xico",
+                "trackback_author_nick": "webcamsdemexico"
+            },
+            {
+                "hits": 25,
+                "firstpost_date": 1357489050,
+                "title": "ReTWeeT IF U WANT MORE FOLLOWERS #TeamFollowBack BREAKING NEWS: http://t.co/v0js9LOo FOLLOW ALL WHO RT #JGF \"NO!\" #AID #STORM #SANDY",
+                "url": "http://twitter.com/ceonytimes/status/287956064828276736",
+                "trackback_date": 1357489050,
+                "trackback_total": 27,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/v0js9LOo",
+                        "display_url": "wp.me/p2fv7x-7Xg",
+                        "expanded_url": "http://wp.me/p2fv7x-7Xg",
+                        "topsy_expanded_url": "http://guardianlv.com/2013/01/john-fleming-voted-no-to-aid-victims-from-storm-sandy/"
+                    }
+                ],
+                "target_birth_date": 1357489050,
+                "content": "ReTWeeT IF U WANT MORE FOLLOWERS #TeamFollowBack BREAKING NEWS: http://t.co/v0js9LOo FOLLOW ALL WHO RT #JGF \"NO!\" #AID #STORM #SANDY",
+                "mytype": "tweet",
+                "score": 9.5937195,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000411590543/57cd5fbb54355c81d8aeb345a099ac59_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ceoNYTimes/status/287956064828276736",
+                "trackback_author_url": "http://twitter.com/ceomars",
+                "highlight": "ReTWeeT IF U WANT MORE FOLLOWERS #TeamFollowBack BREAKING NEWS: FOLLOW ALL WHO RT #JGF \"NO!\" #AID #STORM",
+                "topsy_author_url": "http://topsy.com/twitter/ceomars",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ceonytimes/status/287956064828276736",
+                "trackback_author_name": "DiMarkco S Chandler",
+                "trackback_author_nick": "ceomars"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1326164402,
+                "title": "Para escribir la \u00f1 en #Storm y #Torch mant\u00e9n tu dedo sobre la tecla N (sin presionarla) y la opci\u00f3n a \u00f1 aparecer\u00e1 en pantalla",
+                "url": "http://twitter.com/blackberryvzla/status/156570969610272768",
+                "trackback_date": 1326164402,
+                "trackback_total": 10,
+                "url_expansions": [],
+                "target_birth_date": 1326164402,
+                "content": "Para escribir la \u00f1 en #Storm y #Torch mant\u00e9n tu dedo sobre la tecla N (sin presionarla) y la opci\u00f3n a \u00f1 aparecer\u00e1 en pantalla",
+                "mytype": "tweet",
+                "score": 9.588334,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2420808487/778yqvwbrbyw3924nj43_normal.gif",
+                "trackback_permalink": "http://twitter.com/BlackberryVzla/status/156570969610272768",
+                "trackback_author_url": "http://twitter.com/blackberryvzla",
+                "highlight": "Para escribir la \u00f1 en #Storm y #Torch mant\u00e9n tu dedo sobre la tecla N (sin presionarla) y la opci\u00f3n a \u00f1 aparecer\u00e1 en pantalla",
+                "topsy_author_url": "http://topsy.com/twitter/blackberryvzla",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/blackberryvzla/status/156570969610272768",
+                "trackback_author_name": "BlackberryVzla ",
+                "trackback_author_nick": "blackberryvzla"
+            },
+            {
+                "hits": 70,
+                "firstpost_date": 1383071590,
+                "title": "\u00c9 o surf n\u00e9 fam\u00edlia ?! @HeitorRo fulanochadan #pocofr\u00edu #storm #crowdiado #familiamormaii #mormaii @ 12 http://t.co/X3kSfX1rqe",
+                "url": "http://twitter.com/caiocastanheira/status/395257014093627392",
+                "trackback_date": 1383071590,
+                "trackback_total": 148,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/X3kSfX1rqe",
+                        "display_url": "instagram.com/p/gD7hkvqbuw/",
+                        "expanded_url": "http://instagram.com/p/gD7hkvqbuw/",
+                        "topsy_expanded_url": "http://instagram.com/p/gD7hkvqbuw/"
+                    }
+                ],
+                "target_birth_date": 1383071590,
+                "content": "\u00c9 o surf n\u00e9 fam\u00edlia ?! @HeitorRo fulanochadan #pocofr\u00edu #storm #crowdiado #familiamormaii #mormaii @ 12 http://t.co/X3kSfX1rqe",
+                "mytype": "tweet",
+                "score": 9.588044,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/435477735839113216/tfQqmMrh_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CaioCastanheira/status/395257014093627392",
+                "trackback_author_url": "http://twitter.com/caiocastanheira",
+                "highlight": "\u00c9 o surf n\u00e9 fam\u00edlia ?! @HeitorRo fulanochadan #pocofr\u00edu #storm #crowdiado #familiamormaii #mormaii @ 12",
+                "topsy_author_url": "http://topsy.com/twitter/caiocastanheira",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/caiocastanheira/status/395257014093627392",
+                "trackback_author_name": "Caio Castro",
+                "trackback_author_nick": "caiocastanheira"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1332889853,
+                "title": "Para escribir la \u00f1 en #Storm y #Torch mant\u00e9n tu dedo sobre la tecla N (sin presionarla) y la opci\u00f3n a \u00f1 aparecer\u00e1 en pantalla",
+                "url": "http://twitter.com/blackberryvzla/status/184779554462773248",
+                "trackback_date": 1332889853,
+                "trackback_total": 7,
+                "url_expansions": [],
+                "target_birth_date": 1332889853,
+                "content": "Para escribir la \u00f1 en #Storm y #Torch mant\u00e9n tu dedo sobre la tecla N (sin presionarla) y la opci\u00f3n a \u00f1 aparecer\u00e1 en pantalla",
+                "mytype": "tweet",
+                "score": 9.587846,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2420808487/778yqvwbrbyw3924nj43_normal.gif",
+                "trackback_permalink": "http://twitter.com/BlackberryVzla/status/184779554462773248",
+                "trackback_author_url": "http://twitter.com/blackberryvzla",
+                "highlight": "Para escribir la \u00f1 en #Storm y #Torch mant\u00e9n tu dedo sobre la tecla N (sin presionarla) y la opci\u00f3n a \u00f1 aparecer\u00e1 en pantalla",
+                "topsy_author_url": "http://topsy.com/twitter/blackberryvzla",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/blackberryvzla/status/184779554462773248",
+                "trackback_author_name": "BlackberryVzla ",
+                "trackback_author_nick": "blackberryvzla"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1382954427,
+                "title": "Hope everyone weathered #storm ok ! 1 month until #sbsevent2013 ! If any winner hasn't got their invite contact @RymanStationery !",
+                "url": "http://twitter.com/theopaphitis/status/394765597118308352",
+                "trackback_date": 1382954427,
+                "trackback_total": 26,
+                "url_expansions": [],
+                "target_birth_date": 1382954427,
+                "content": "Hope everyone weathered #storm ok ! 1 month until #sbsevent2013 ! If any winner hasn't got their invite contact @RymanStationery !",
+                "mytype": "tweet",
+                "score": 9.587199,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1281537726/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/TheoPaphitis/status/394765597118308352",
+                "trackback_author_url": "http://twitter.com/theopaphitis",
+                "highlight": "Hope everyone weathered #storm ok ! 1 month until #sbsevent2013 ! If any winner hasn't got their invite contact @RymanStationery !",
+                "topsy_author_url": "http://topsy.com/twitter/theopaphitis",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/theopaphitis/status/394765597118308352",
+                "trackback_author_name": "Theo Paphitis",
+                "trackback_author_nick": "theopaphitis"
+            },
+            {
+                "hits": 186,
+                "firstpost_date": 1392775175,
+                "title": "#HalleBerry brings the powerful #Storm to #XMen: Days of Future Past. http://t.co/jSofoHoDLd",
+                "url": "http://twitter.com/xmenmovies/status/435956799670190080",
+                "trackback_date": 1392775175,
+                "trackback_total": 220,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jSofoHoDLd",
+                        "display_url": "pic.twitter.com/jSofoHoDLd",
+                        "expanded_url": "http://twitter.com/xmenmovies/status/435956799670190080/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BgzUZkZCAAAFkbm.png"
+                    }
+                ],
+                "target_birth_date": 1392775175,
+                "content": "#HalleBerry brings the powerful #Storm to #XMen: Days of Future Past. http://t.co/jSofoHoDLd",
+                "mytype": "tweet",
+                "score": 9.57857,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469659175455191040/8kond5Qh_normal.png",
+                "trackback_permalink": "http://twitter.com/xmenmovies/status/435956799670190080",
+                "trackback_author_url": "http://twitter.com/xmenmovies",
+                "highlight": "#HalleBerry brings the powerful #Storm to #XMen: Days of Future Past.",
+                "topsy_author_url": "http://topsy.com/twitter/xmenmovies",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/xmenmovies/status/435956799670190080",
+                "trackback_author_name": "X-Men Movies",
+                "trackback_author_nick": "xmenmovies"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1383140903,
+                "title": "I have to phone or internet #storm so will be quiet ish for a week ... Driving to get 3G ... Hilare",
+                "url": "http://twitter.com/thisisdavina/status/395547734062940160",
+                "trackback_date": 1383140903,
+                "trackback_total": 20,
+                "url_expansions": [],
+                "target_birth_date": 1383140903,
+                "content": "I have to phone or internet #storm so will be quiet ish for a week ... Driving to get 3G ... Hilare",
+                "mytype": "tweet",
+                "score": 9.577736,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000292959622/027faaf88586aeb6cbd1fe49fb348a2a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ThisisDavina/status/395547734062940160",
+                "trackback_author_url": "http://twitter.com/thisisdavina",
+                "highlight": "I have to phone or internet #storm so will be quiet ish for a week ... Driving to get 3G ... Hilare",
+                "topsy_author_url": "http://topsy.com/twitter/thisisdavina",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/thisisdavina/status/395547734062940160",
+                "trackback_author_name": "Davina McCall",
+                "trackback_author_nick": "thisisdavina"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 90,
+        "hidden": 0,
+        "total": 1144720,
+        "page": 1
+    }
+}

@@ -1,0 +1,279 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23wild&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=470",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#wild",
+            "window": "a",
+            "type": "tweet",
+            "offset": "470"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1379629186,
+                "title": "[Mixtape] Trinidad James - 10 Pc. #WILD (The Remixes) :: Sep. 24th! http://t.co/mJxPPrTUde @ClubTapes @TrinidadJamesGG",
+                "url": "http://twitter.com/clubtapes/status/380818525817806849",
+                "trackback_date": 1379629186,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/mJxPPrTUde",
+                        "display_url": "livemixtap.es/i9a",
+                        "expanded_url": "http://livemixtap.es/i9a",
+                        "topsy_expanded_url": "http://club.livemixtapes.com/mixtapes/23662/the-remixes.html"
+                    }
+                ],
+                "target_birth_date": 1379629186,
+                "content": "[Mixtape] Trinidad James - 10 Pc. #WILD (The Remixes) :: Sep. 24th! http://t.co/mJxPPrTUde @ClubTapes @TrinidadJamesGG",
+                "mytype": "tweet",
+                "score": 9.0599985,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2781163729/d7f9e08c78f3a971551415745ee4def5_normal.png",
+                "trackback_permalink": "http://twitter.com/ClubTapes/status/380818525817806849",
+                "trackback_author_url": "http://twitter.com/clubtapes",
+                "highlight": "[Mixtape] Trinidad James - 10 Pc. #WILD (The Remixes) :: Sep. 24th! @ClubTapes @TrinidadJamesGG",
+                "topsy_author_url": "http://topsy.com/twitter/clubtapes",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/clubtapes/status/380818525817806849",
+                "trackback_author_name": "ClubTapes",
+                "trackback_author_nick": "clubtapes"
+            },
+            {
+                "hits": 125,
+                "firstpost_date": 1390188140,
+                "title": "4 Days until we get let out onto your screens again. Can't wait to see you there #TVDFamily #TVDS5 #DrWes #Wild \ud83d\udd2c\ud83d\udca5\ud83d\ude80\ud83d\ude0e http://t.co/FG71uZ0a14",
+                "url": "http://twitter.com/rickcosnett/status/425105988211843072",
+                "trackback_date": 1390188140,
+                "trackback_total": 165,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/FG71uZ0a14",
+                        "display_url": "pic.twitter.com/FG71uZ0a14",
+                        "expanded_url": "http://twitter.com/RickCosnett/status/425105988211843072/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BeZHpNGCcAAo85h.jpg"
+                    }
+                ],
+                "target_birth_date": 1390188140,
+                "content": "4 Days until we get let out onto your screens again. Can't wait to see you there #TVDFamily #TVDS5 #DrWes #Wild \ud83d\udd2c\ud83d\udca5\ud83d\ude80\ud83d\ude0e http://t.co/FG71uZ0a14",
+                "mytype": "tweet",
+                "score": 9.058662,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000798232915/113d16d6df4126e3f7957ee87c2fb3a5_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RickCosnett/status/425105988211843072",
+                "trackback_author_url": "http://twitter.com/rickcosnett",
+                "highlight": "4 Days until we get let out onto your screens again. Can't wait to see you there #TVDFamily #TVDS5 #DrWes #Wild \ud83d\udd2c\ud83d\udca5\ud83d\ude80\ud83d\ude0e",
+                "topsy_author_url": "http://topsy.com/twitter/rickcosnett",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rickcosnett/status/425105988211843072",
+                "trackback_author_name": "Rick Cosnett",
+                "trackback_author_nick": "rickcosnett"
+            },
+            {
+                "hits": 83,
+                "firstpost_date": 1341173306,
+                "title": "Possibly? #wild http://t.co/55jMMIVR",
+                "url": "http://twitter.com/jabs_13/status/219522871804964864",
+                "trackback_date": 1341173306,
+                "trackback_total": 96,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/55jMMIVR",
+                        "expanded_url": "http://twitter.com/Jabs_13/status/219522871804964864/photo/1",
+                        "display_url": "pic.twitter.com/55jMMIVR"
+                    }
+                ],
+                "target_birth_date": 1341173306,
+                "content": "Possibly? #wild http://t.co/55jMMIVR",
+                "mytype": "tweet",
+                "score": 9.057652,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460760014529912832/LplyW_D-_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Jabs_13/status/219522871804964864",
+                "trackback_author_url": "http://twitter.com/jabs_13",
+                "highlight": "Possibly? #wild",
+                "topsy_author_url": "http://topsy.com/twitter/jabs_13",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jabs_13/status/219522871804964864",
+                "trackback_author_name": "Jack Jablonski",
+                "trackback_author_nick": "jabs_13"
+            },
+            {
+                "hits": 20,
+                "firstpost_date": 1399081045,
+                "title": "Locked in, ready to go! #Wild #WINorGoHome #WildHawks",
+                "url": "http://twitter.com/lindsay_13/status/462405533945708544",
+                "trackback_date": 1399081045,
+                "trackback_total": 21,
+                "url_expansions": [],
+                "target_birth_date": 1399081045,
+                "content": "Locked in, ready to go! #Wild #WINorGoHome #WildHawks",
+                "mytype": "tweet",
+                "score": 9.056925,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000605863112/174e68b07905a397be44580de5b68f4b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Lindsay_13/status/462405533945708544",
+                "trackback_author_url": "http://twitter.com/lindsay_13",
+                "highlight": "Locked in, ready to go! #Wild #WINorGoHome",
+                "topsy_author_url": "http://topsy.com/twitter/lindsay_13",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lindsay_13/status/462405533945708544",
+                "trackback_author_name": "Lindsay Whalen",
+                "trackback_author_nick": "lindsay_13"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1369673553,
+                "title": ".@JessieJ est\u00e1 de regreso con su nuevo sencillo #WILD feat @BigSean\nEntra aqu\u00ef para escucharlo:http://t.co/ok6F6jQnfM http://t.co/mRNY1z5YFo",
+                "url": "http://twitter.com/umusicmexico/status/339061572855009282",
+                "trackback_date": 1369673553,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ok6F6jQnfM",
+                        "expanded_url": "http://tinyurl.com/qzffhfm",
+                        "display_url": "tinyurl.com/qzffhfm"
+                    },
+                    {
+                        "url": "http://t.co/mRNY1z5YFo",
+                        "expanded_url": "http://twitter.com/UMusicMexico/status/339061572855009282/photo/1",
+                        "display_url": "pic.twitter.com/mRNY1z5YFo"
+                    }
+                ],
+                "target_birth_date": 1369673553,
+                "content": ".@JessieJ est\u00e1 de regreso con su nuevo sencillo #WILD feat @BigSean\nEntra aqu\u00ef para escucharlo:http://t.co/ok6F6jQnfM http://t.co/mRNY1z5YFo",
+                "mytype": "tweet",
+                "score": 9.055484,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/417800005995360256/pUCxpniO_normal.png",
+                "trackback_permalink": "http://twitter.com/UMusicMexico/status/339061572855009282",
+                "trackback_author_url": "http://twitter.com/umusicmexico",
+                "highlight": ".@JessieJ est\u00e1 de regreso con su nuevo sencillo #WILD feat @BigSean Entra aqu\u00ef para escucharlo:",
+                "topsy_author_url": "http://topsy.com/twitter/umusicmexico",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/umusicmexico/status/339061572855009282",
+                "trackback_author_name": "UniversalMusicM\u00e9xico",
+                "trackback_author_nick": "umusicmexico"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1393187641,
+                "title": "Heading to #nyc on Wednesday so time to get #wild !! #gotmilk ? (In my most pronounced British accent\u2026 http://t.co/jhDCSrgcSz",
+                "url": "http://twitter.com/katiewaissel24/status/437686807560740864",
+                "trackback_date": 1393187641,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jhDCSrgcSz",
+                        "display_url": "instagram.com/p/kxax7ijj2O/",
+                        "expanded_url": "http://instagram.com/p/kxax7ijj2O/",
+                        "topsy_expanded_url": "http://instagram.com/p/kxax7ijj2O/"
+                    }
+                ],
+                "target_birth_date": 1393187641,
+                "content": "Heading to #nyc on Wednesday so time to get #wild !! #gotmilk ? (In my most pronounced British accent\u2026 http://t.co/jhDCSrgcSz",
+                "mytype": "tweet",
+                "score": 9.054926,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/422884653838921728/mMEIhXpX_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/katiewaissel24/status/437686807560740864",
+                "trackback_author_url": "http://twitter.com/katiewaissel24",
+                "highlight": "Heading to #nyc on Wednesday so time to get #wild !! #gotmilk ? (In my most pronounced British accent\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/katiewaissel24",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/katiewaissel24/status/437686807560740864",
+                "trackback_author_name": "katie waissel",
+                "trackback_author_nick": "katiewaissel24"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1379445574,
+                "title": "[Mixtape] Trinidad James - 10 Pc. #WILD (The Remixes) :: Sep. 24th! http://t.co/mJxPPrTUde @ClubTapes @TrinidadJamesGG",
+                "url": "http://twitter.com/clubtapes/status/380048400097349632",
+                "trackback_date": 1379445574,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/mJxPPrTUde",
+                        "display_url": "livemixtap.es/i9a",
+                        "expanded_url": "http://livemixtap.es/i9a",
+                        "topsy_expanded_url": "http://club.livemixtapes.com/mixtapes/23662/the-remixes.html"
+                    }
+                ],
+                "target_birth_date": 1379445574,
+                "content": "[Mixtape] Trinidad James - 10 Pc. #WILD (The Remixes) :: Sep. 24th! http://t.co/mJxPPrTUde @ClubTapes @TrinidadJamesGG",
+                "mytype": "tweet",
+                "score": 9.0549,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2781163729/d7f9e08c78f3a971551415745ee4def5_normal.png",
+                "trackback_permalink": "http://twitter.com/ClubTapes/status/380048400097349632",
+                "trackback_author_url": "http://twitter.com/clubtapes",
+                "highlight": "[Mixtape] Trinidad James - 10 Pc. #WILD (The Remixes) :: Sep. 24th! @ClubTapes @TrinidadJamesGG",
+                "topsy_author_url": "http://topsy.com/twitter/clubtapes",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/clubtapes/status/380048400097349632",
+                "trackback_author_name": "ClubTapes",
+                "trackback_author_nick": "clubtapes"
+            },
+            {
+                "hits": 40,
+                "firstpost_date": 1341421993,
+                "title": "Alex Semin has slightly better career numbers than a guy who just got a 13 year, $98 million contract #NHL #Wild #Capitals",
+                "url": "http://twitter.com/redsox0704/status/220565943531749376",
+                "trackback_date": 1341421993,
+                "trackback_total": 43,
+                "url_expansions": [],
+                "target_birth_date": 1341421993,
+                "content": "Alex Semin has slightly better career numbers than a guy who just got a 13 year, $98 million contract #NHL #Wild #Capitals",
+                "mytype": "tweet",
+                "score": 9.054625,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000834236290/2b7899932deb6686a604c4d8dfc94030_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/redsox0704/status/220565943531749376",
+                "trackback_author_url": "http://twitter.com/mikekelly198",
+                "highlight": "Alex Semin has slightly better career numbers than a guy who just got a 13 year, $98 million contract #NHL #Wild",
+                "topsy_author_url": "http://topsy.com/twitter/mikekelly198",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/redsox0704/status/220565943531749376",
+                "trackback_author_name": "michael kelly",
+                "trackback_author_nick": "mikekelly198"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1360279395,
+                "title": "Zach Parise's last name is pronounced Pa-reezy. As in rhymes with easy. #wild He was born in Minny, his dad in MTL hence the difference.",
+                "url": "http://twitter.com/sportsnetmurph/status/299659619901526018",
+                "trackback_date": 1360279395,
+                "trackback_total": 21,
+                "url_expansions": [],
+                "target_birth_date": 1360279395,
+                "content": "Zach Parise's last name is pronounced Pa-reezy. As in rhymes with easy. #wild He was born in Minny, his dad in MTL hence the difference.",
+                "mytype": "tweet",
+                "score": 9.053888,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/455196983498506240/YcZUNeOu_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/sportsnetmurph/status/299659619901526018",
+                "trackback_author_url": "http://twitter.com/sportsnetmurph",
+                "highlight": "Zach Parise's last name is pronounced Pa-reezy. As in rhymes with easy. #wild He was born in Minny, his dad in MTL hence the difference.",
+                "topsy_author_url": "http://topsy.com/twitter/sportsnetmurph",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sportsnetmurph/status/299659619901526018",
+                "trackback_author_name": "Dan Murphy",
+                "trackback_author_nick": "sportsnetmurph"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1302481654,
+                "title": "Thanks to the Minnesota #Wild, the #Blackhawks get to defend their Stanley Cup",
+                "url": "http://twitter.com/csnchicago/status/57238323407765504",
+                "trackback_date": 1302481654,
+                "trackback_total": 16,
+                "url_expansions": [],
+                "target_birth_date": 1302481654,
+                "content": "Thanks to the Minnesota #Wild, the #Blackhawks get to defend their Stanley Cup",
+                "mytype": "tweet",
+                "score": 9.053123,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2586793106/9eg5s6n2ordr1mzv8xyz_normal.png",
+                "trackback_permalink": "http://twitter.com/CSNChicago/status/57238323407765504",
+                "trackback_author_url": "http://twitter.com/csnchicago",
+                "highlight": "Thanks to the Minnesota #Wild, the #Blackhawks get to defend their Stanley Cup",
+                "topsy_author_url": "http://topsy.com/twitter/csnchicago",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/csnchicago/status/57238323407765504",
+                "trackback_author_name": "Comcast SportsNet",
+                "trackback_author_nick": "csnchicago"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 470,
+        "hidden": 0,
+        "total": 1386747,
+        "page": 1
+    }
+}

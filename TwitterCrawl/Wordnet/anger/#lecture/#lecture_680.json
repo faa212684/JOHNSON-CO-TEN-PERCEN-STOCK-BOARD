@@ -1,0 +1,281 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23lecture&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=680",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#lecture",
+            "window": "a",
+            "type": "tweet",
+            "offset": "680"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 6,
+                "firstpost_date": 1372192397,
+                "title": "On y propose mon livre Cupcakes et claquettes: Livresquement boulimique Des suggestions pour d\u00e9crocher http://t.co/5vlEHBlk8D #lecture",
+                "url": "http://twitter.com/sophie_et_cie/status/349626371208790018",
+                "trackback_date": 1372192397,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/5vlEHBlk8D",
+                        "display_url": "livresquementboulimique.com/2013/06/bouqui\u2026",
+                        "expanded_url": "http://www.livresquementboulimique.com/2013/06/bouquinerie-du-mois-des-suggestions.html?spref=tw",
+                        "topsy_expanded_url": "http://www.livresquementboulimique.com/2013/06/bouquinerie-du-mois-des-suggestions.html"
+                    }
+                ],
+                "target_birth_date": 1372192397,
+                "content": "On y propose mon livre Cupcakes et claquettes: Livresquement boulimique Des suggestions pour d\u00e9crocher http://t.co/5vlEHBlk8D #lecture",
+                "mytype": "tweet",
+                "score": 8.225626,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2713475884/d1efb7563c63a07c1fccb13ad8148ec8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Sophie_et_cie/status/349626371208790018",
+                "trackback_author_url": "http://twitter.com/sophie_et_cie",
+                "highlight": "On y propose mon livre Cupcakes et claquettes: Livresquement boulimique Des suggestions pour d\u00e9crocher",
+                "topsy_author_url": "http://topsy.com/twitter/sophie_et_cie",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sophie_et_cie/status/349626371208790018",
+                "trackback_author_name": "Sophie Rondeau",
+                "trackback_author_nick": "sophie_et_cie"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1350320437,
+                "title": "Conf\u00e9rence de Dan Graham.   Salle pleine. #lecture  http://t.co/V8aL86Q5",
+                "url": "http://twitter.com/joelle_dubois/status/257888721771298816",
+                "trackback_date": 1350320437,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/V8aL86Q5",
+                        "display_url": "instagr.am/p/Qz3y6MwBck/",
+                        "expanded_url": "http://instagr.am/p/Qz3y6MwBck/",
+                        "topsy_expanded_url": "http://instagram.com/p/Qz3y6MwBck/"
+                    }
+                ],
+                "target_birth_date": 1350320437,
+                "content": "Conf\u00e9rence de Dan Graham.   Salle pleine. #lecture  http://t.co/V8aL86Q5",
+                "mytype": "tweet",
+                "score": 8.225289,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/413984751112814592/RN-w9s0N_normal.png",
+                "trackback_permalink": "http://twitter.com/joelle_dubois/status/257888721771298816",
+                "trackback_author_url": "http://twitter.com/joelle_dubois",
+                "highlight": "Conf\u00e9rence de Dan Graham. Salle pleine. #lecture",
+                "topsy_author_url": "http://topsy.com/twitter/joelle_dubois",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/joelle_dubois/status/257888721771298816",
+                "trackback_author_name": "Jo\u00eblle Dubois",
+                "trackback_author_nick": "joelle_dubois"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1370245404,
+                "title": "Booknode: \"L'exp\u00e9rience personnelle de chacun cumul\u00e9e \u00e0 celle des autres \" http://t.co/affvjcCJ5c #reseauxsociauxdulivre #lecture",
+                "url": "http://twitter.com/actualitte/status/341460091444264960",
+                "trackback_date": 1370245404,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/affvjcCJ5c",
+                        "expanded_url": "http://www.actualitte.com/t/gDNNpgt",
+                        "display_url": "actualitte.com/t/gDNNpgt"
+                    }
+                ],
+                "target_birth_date": 1370245404,
+                "content": "Booknode: \"L'exp\u00e9rience personnelle de chacun cumul\u00e9e \u00e0 celle des autres \" http://t.co/affvjcCJ5c #reseauxsociauxdulivre #lecture",
+                "mytype": "tweet",
+                "score": 8.224448,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1529495439/Sans_titre_normal.png",
+                "trackback_permalink": "http://twitter.com/ActuaLitte/status/341460091444264960",
+                "trackback_author_url": "http://twitter.com/actualitte",
+                "highlight": "Booknode: \"L'exp\u00e9rience personnelle de chacun cumul\u00e9e \u00e0 celle des autres \" #reseauxsociauxdulivre",
+                "topsy_author_url": "http://topsy.com/twitter/actualitte",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/actualitte/status/341460091444264960",
+                "trackback_author_name": "ActuaLitt\u00e9",
+                "trackback_author_nick": "actualitte"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1364423256,
+                "title": "Des ressources pour les nouveaux parents #Livre #Lecture #B\u00e9b\u00e9 #ToutPetits http://t.co/r4H5waFILP",
+                "url": "http://twitter.com/bouquineuzb/status/317040233759784960",
+                "trackback_date": 1364423256,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/r4H5waFILP",
+                        "expanded_url": "http://www.livresquementboulimique.com/2013/03/des-ressources-pour-les-nouveaux.html?spref=tw",
+                        "display_url": "livresquementboulimique.com/2013/03/des-re\u2026"
+                    }
+                ],
+                "target_birth_date": 1364423256,
+                "content": "Des ressources pour les nouveaux parents #Livre #Lecture #B\u00e9b\u00e9 #ToutPetits http://t.co/r4H5waFILP",
+                "mytype": "tweet",
+                "score": 8.224344,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461336930584518656/GM_EAMBh_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BouquineuzB/status/317040233759784960",
+                "trackback_author_url": "http://twitter.com/bouquineuzb",
+                "highlight": "Des ressources pour les nouveaux parents #Livre #Lecture #B\u00e9b\u00e9 #ToutPetits",
+                "topsy_author_url": "http://topsy.com/twitter/bouquineuzb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bouquineuzb/status/317040233759784960",
+                "trackback_author_name": "BouquineuzBoulimique",
+                "trackback_author_nick": "bouquineuzb"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1391332807,
+                "title": "18 Free #Lecture #Notes And 5 Free #Ebooks On #Microcontrollers! http://t.co/w5BOGHQrA6",
+                "url": "http://twitter.com/linuxforyou/status/429907069744205824",
+                "trackback_date": 1391332807,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/w5BOGHQrA6",
+                        "display_url": "ow.ly/sZucI",
+                        "expanded_url": "http://ow.ly/sZucI",
+                        "topsy_expanded_url": "http://www.efytimes.com/e1/fullnews.asp?edid=126782"
+                    }
+                ],
+                "target_birth_date": 1391332807,
+                "content": "18 Free #Lecture #Notes And 5 Free #Ebooks On #Microcontrollers! http://t.co/w5BOGHQrA6",
+                "mytype": "tweet",
+                "score": 8.224286,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/77579585/Penguin-reading-magazine_normal.png",
+                "trackback_permalink": "http://twitter.com/LinuxForYou/status/429907069744205824",
+                "trackback_author_url": "http://twitter.com/linuxforyou",
+                "highlight": "18 Free #Lecture #Notes And 5 Free #Ebooks On #Microcontrollers!",
+                "topsy_author_url": "http://topsy.com/twitter/linuxforyou",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/linuxforyou/status/429907069744205824",
+                "trackback_author_name": "LINUX For You",
+                "trackback_author_nick": "linuxforyou"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1307916398,
+                "title": "New post: Lecture -10 Greedy Algorithms -I http://hhunit.com/?p=485 #Algorithms #Greedy #Lecture",
+                "url": "http://twitter.com/hhunit/status/80033290534400002",
+                "trackback_date": 1307916398,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1307916398,
+                "content": "New post: Lecture -10 Greedy Algorithms -I http://hhunit.com/?p=485 #Algorithms #Greedy #Lecture",
+                "mytype": "tweet",
+                "score": 8.224131,
+                "topsy_author_img": "http://a1.twimg.com/profile_images/1388239120/QR_HHUnit_normal.png",
+                "trackback_permalink": "http://twitter.com/HHunit/status/80033290534400002",
+                "trackback_author_url": "http://twitter.com/hhunit",
+                "highlight": "New post: Lecture -10 Greedy Algorithms -I #Algorithms #Greedy",
+                "topsy_author_url": "http://topsy.com/twitter/hhunit",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hhunit/status/80033290534400002",
+                "trackback_author_name": "HHUnit",
+                "trackback_author_nick": "hhunit"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1348416834,
+                "title": "Jupp\u00e9 sur #f_inter Je passe.... #lecture",
+                "url": "http://twitter.com/vogelsong/status/249904431812993024",
+                "trackback_date": 1348416834,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1348416834,
+                "content": "Jupp\u00e9 sur #f_inter Je passe.... #lecture",
+                "mytype": "tweet",
+                "score": 8.223942,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/63688274/scruffy_normal.gif",
+                "trackback_permalink": "http://twitter.com/Vogelsong/status/249904431812993024",
+                "trackback_author_url": "http://twitter.com/vogelsong",
+                "highlight": "Jupp\u00e9 sur #f_inter Je passe.",
+                "topsy_author_url": "http://topsy.com/twitter/vogelsong",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/vogelsong/status/249904431812993024",
+                "trackback_author_name": "Vogelsong",
+                "trackback_author_nick": "vogelsong"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1284704704,
+                "title": "RT @INFOFIT Seen FOOD INC? Listen to us http://bit.ly/agGwEL #Nutrition #Vancouver #Lecture",
+                "url": "http://twitter.com/vancouver_rt/status/24736050522",
+                "trackback_date": 1284704704,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1284704704,
+                "content": "RT @INFOFIT Seen FOOD INC? Listen to us http://bit.ly/agGwEL #Nutrition #Vancouver #Lecture",
+                "mytype": "tweet",
+                "score": 8.223875,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3344765597/cba8baa23f72186af2a03364915bade6_normal.png",
+                "trackback_permalink": "http://twitter.com/vancouver_rt/status/24736050522",
+                "trackback_author_url": "http://twitter.com/vancouver_rt",
+                "highlight": "RT @INFOFIT Seen FOOD INC? Listen to us #Nutrition #Vancouver",
+                "topsy_author_url": "http://topsy.com/twitter/vancouver_rt",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/vancouver_rt/status/24736050522",
+                "trackback_author_name": "Vancouver Retweeter",
+                "trackback_author_nick": "vancouver_rt"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1362486219,
+                "title": "Mon site http://t.co/q9DQXUdEmu a \u00e9t\u00e9 mis \u00e0 jour! Merci @Marioprovencher Des nouveaut\u00e9s, des recherches, des articles, des vid\u00e9os #Lecture",
+                "url": "http://twitter.com/pouvoirdelire/status/308915709675716608",
+                "trackback_date": 1362486219,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/q9DQXUdEmu",
+                        "display_url": "pouvoirdelire.com",
+                        "expanded_url": "http://www.pouvoirdelire.com",
+                        "topsy_expanded_url": "http://www.pouvoirdelire.com"
+                    }
+                ],
+                "target_birth_date": 1362486219,
+                "content": "Mon site http://t.co/q9DQXUdEmu a \u00e9t\u00e9 mis \u00e0 jour! Merci @Marioprovencher Des nouveaut\u00e9s, des recherches, des articles, des vid\u00e9os #Lecture",
+                "mytype": "tweet",
+                "score": 8.223447,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1128332940/twitt_avatar_ju_normal.jpg",
+                "trackback_permalink": "http://twitter.com/pouvoirdelire/status/308915709675716608",
+                "trackback_author_url": "http://twitter.com/pouvoirdelire",
+                "highlight": "Mon site a \u00e9t\u00e9 mis \u00e0 jour! Merci @Marioprovencher Des nouveaut\u00e9s, des recherches, des articles, des vid\u00e9os",
+                "topsy_author_url": "http://topsy.com/twitter/pouvoirdelire",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/pouvoirdelire/status/308915709675716608",
+                "trackback_author_name": "Julie Provencher",
+                "trackback_author_nick": "pouvoirdelire"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1324641278,
+                "title": "Letting Go of #Lecture: http://t.co/hUZKWPHz #edtech #emporium",
+                "url": "http://twitter.com/csoleil/status/150182521743740929",
+                "trackback_date": 1324641278,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/hUZKWPHz",
+                        "display_url": "insidehighered.com/news/2011/12/2\u2026",
+                        "expanded_url": "http://www.insidehighered.com/news/2011/12/23/montgomery-college-follows-remedial-math-revolution",
+                        "topsy_expanded_url": "http://www.insidehighered.com/news/2011/12/23/montgomery-college-follows-remedial-math-revolution"
+                    }
+                ],
+                "target_birth_date": 1324641278,
+                "content": "Letting Go of #Lecture: http://t.co/hUZKWPHz #edtech #emporium",
+                "mytype": "tweet",
+                "score": 8.223423,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1568245856/Photo_00011_normal.jpg",
+                "trackback_permalink": "http://twitter.com/csoleil/status/150182521743740929",
+                "trackback_author_url": "http://twitter.com/csoleil",
+                "highlight": "Letting Go of #Lecture: #edtech",
+                "topsy_author_url": "http://topsy.com/twitter/csoleil",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/csoleil/status/150182521743740929",
+                "trackback_author_name": "S. Stoerger",
+                "trackback_author_nick": "csoleil"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 680,
+        "hidden": 0,
+        "total": 130526,
+        "page": 1
+    }
+}

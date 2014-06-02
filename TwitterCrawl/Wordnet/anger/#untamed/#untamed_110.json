@@ -1,0 +1,272 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23untamed&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=110",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#untamed",
+            "window": "a",
+            "type": "tweet",
+            "offset": "110"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 30,
+                "firstpost_date": 1366247724,
+                "title": "Reserved? #Untamed is more like it... RT @andrew_franck: Sexy beast @MercedesBenz http://t.co/kN6iG66YZW",
+                "url": "http://twitter.com/mercedesbenz/status/324692607030681600",
+                "trackback_date": 1366247724,
+                "trackback_total": 34,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kN6iG66YZW",
+                        "expanded_url": "http://twitter.com/andrew_franck/status/324583613263908865/photo/1",
+                        "display_url": "pic.twitter.com/kN6iG66YZW"
+                    }
+                ],
+                "target_birth_date": 1366247724,
+                "content": "Reserved? #Untamed is more like it... RT @andrew_franck: Sexy beast @MercedesBenz http://t.co/kN6iG66YZW",
+                "mytype": "tweet",
+                "score": 8.778124,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000224166791/b8d346a6b66796687a649763d6b91936_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MercedesBenz/status/324692607030681600",
+                "trackback_author_url": "http://twitter.com/mercedesbenz",
+                "highlight": "Reserved? #Untamed is more like it...Sexy beast @MercedesBenz",
+                "topsy_author_url": "http://topsy.com/twitter/mercedesbenz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mercedesbenz/status/324692607030681600",
+                "trackback_author_name": "Mercedes-Benz",
+                "trackback_author_nick": "mercedesbenz"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1373578122,
+                "title": "RT @Airejosh: Boss Nf Kindly #SkyHigh #Untamed #TurnMeOn \"@RuggedyBaba: ... http://t.co/PlqwOCiEqI",
+                "url": "http://twitter.com/ruggedybaba/status/355438525950337025",
+                "trackback_date": 1373578122,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PlqwOCiEqI",
+                        "expanded_url": "http://m.tmi.me/11yemu",
+                        "display_url": "m.tmi.me/11yemu"
+                    }
+                ],
+                "target_birth_date": 1373578122,
+                "content": "RT @Airejosh: Boss Nf Kindly #SkyHigh #Untamed #TurnMeOn \"@RuggedyBaba: ... http://t.co/PlqwOCiEqI",
+                "mytype": "tweet",
+                "score": 8.7774935,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472666968265588737/K7oxp9HB_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RuggedyBaba/status/355438525950337025",
+                "trackback_author_url": "http://twitter.com/ruggedybaba",
+                "highlight": "Boss Nf Kindly #SkyHigh #Untamed #TurnMeOn \"@RuggedyBaba: ",
+                "topsy_author_url": "http://topsy.com/twitter/ruggedybaba",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ruggedybaba/status/355438525950337025",
+                "trackback_author_name": "Ruggedman",
+                "trackback_author_nick": "ruggedybaba"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1373578899,
+                "title": "RT @Airejosh: Boss Nf Kindly #SkyHigh #Untamed #TurnMeOn\"@RuggedyBaba: ... http://t.co/xKP3flZ7Sj",
+                "url": "http://twitter.com/ruggedybaba/status/355441784572219394",
+                "trackback_date": 1373578899,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/xKP3flZ7Sj",
+                        "expanded_url": "http://m.tmi.me/11yhzL",
+                        "display_url": "m.tmi.me/11yhzL"
+                    }
+                ],
+                "target_birth_date": 1373578899,
+                "content": "RT @Airejosh: Boss Nf Kindly #SkyHigh #Untamed #TurnMeOn\"@RuggedyBaba: ... http://t.co/xKP3flZ7Sj",
+                "mytype": "tweet",
+                "score": 8.775739,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472666968265588737/K7oxp9HB_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RuggedyBaba/status/355441784572219394",
+                "trackback_author_url": "http://twitter.com/ruggedybaba",
+                "highlight": "Boss Nf Kindly #SkyHigh #Untamed #TurnMeOn\"@RuggedyBaba: ",
+                "topsy_author_url": "http://topsy.com/twitter/ruggedybaba",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ruggedybaba/status/355441784572219394",
+                "trackback_author_name": "Ruggedman",
+                "trackback_author_nick": "ruggedybaba"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1373578615,
+                "title": "RT @Airejosh: Boss Nf Kindly #SkyHigh #Untamed #TurnMeOn \"@RuggedyBaba: ... http://t.co/gPHpTPl0B5",
+                "url": "http://twitter.com/ruggedybaba/status/355440592899158018",
+                "trackback_date": 1373578615,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/gPHpTPl0B5",
+                        "expanded_url": "http://m.tmi.me/11yh7b",
+                        "display_url": "m.tmi.me/11yh7b"
+                    }
+                ],
+                "target_birth_date": 1373578615,
+                "content": "RT @Airejosh: Boss Nf Kindly #SkyHigh #Untamed #TurnMeOn \"@RuggedyBaba: ... http://t.co/gPHpTPl0B5",
+                "mytype": "tweet",
+                "score": 8.775739,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472666968265588737/K7oxp9HB_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RuggedyBaba/status/355440592899158018",
+                "trackback_author_url": "http://twitter.com/ruggedybaba",
+                "highlight": "Boss Nf Kindly #SkyHigh #Untamed #TurnMeOn \"@RuggedyBaba: ",
+                "topsy_author_url": "http://topsy.com/twitter/ruggedybaba",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ruggedybaba/status/355440592899158018",
+                "trackback_author_name": "Ruggedman",
+                "trackback_author_nick": "ruggedybaba"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1346964850,
+                "title": "#UNTamed #UNTamed #UNTamed RT",
+                "url": "http://twitter.com/nationettes/status/243814369463508992",
+                "trackback_date": 1347008760,
+                "trackback_total": 5,
+                "url_expansions": [],
+                "target_birth_date": 1346964850,
+                "content": "RT @NATIONETTES: #UNTamed #UNTamed #UNTamed RT",
+                "mytype": "tweet",
+                "score": 8.774598,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472669634148061185/RoTkFsLQ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MARGIEFAYE/status/243998540668485632",
+                "trackback_author_url": "http://twitter.com/margiefaye",
+                "highlight": "#UNTamed #UNTamed #UNTamed RT",
+                "topsy_author_url": "http://topsy.com/twitter/margiefaye",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nationettes/status/243814369463508992",
+                "trackback_author_name": "#liftedsaturdays\u270c\ufe0f",
+                "trackback_author_nick": "margiefaye"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1359664085,
+                "title": "Back to matter\"....\".\nIt's  #untamed #untamed #untamed Nottingham \nhttp://t.co/4PWubaA4",
+                "url": "http://twitter.com/aphroden/status/297078823592263681",
+                "trackback_date": 1359664085,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4PWubaA4",
+                        "display_url": "aphroden.com/event-alert-un\u2026",
+                        "expanded_url": "http://www.aphroden.com/event-alert-untamed-party-nottingham-on-the-1st-feb/",
+                        "topsy_expanded_url": "http://www.aphroden.com/event-alert-untamed-party-nottingham-on-the-1st-feb/"
+                    }
+                ],
+                "target_birth_date": 1359664085,
+                "content": "Back to matter\"....\".\nIt's  #untamed #untamed #untamed Nottingham \nhttp://t.co/4PWubaA4",
+                "mytype": "tweet",
+                "score": 8.756373,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/435508899677208576/h6rktmUW_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Aphroden/status/297078823592263681",
+                "trackback_author_url": "http://twitter.com/aphroden",
+                "highlight": "Back to matter\"....\". It's #untamed #untamed #untamed Nottingham",
+                "topsy_author_url": "http://topsy.com/twitter/aphroden",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/aphroden/status/297078823592263681",
+                "trackback_author_name": "Aphroden",
+                "trackback_author_nick": "aphroden"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1347125094,
+                "title": "#UNTamed is worth a retweet",
+                "url": "http://twitter.com/go_hard_foolin/status/244486483690524672",
+                "trackback_date": 1347125094,
+                "trackback_total": 6,
+                "url_expansions": [],
+                "target_birth_date": 1347125094,
+                "content": "#UNTamed is worth a retweet",
+                "mytype": "tweet",
+                "score": 8.755975,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467204609468289024/GAXMlPNq_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/GO_HARD_FOOLIN/status/244486483690524672",
+                "trackback_author_url": "http://twitter.com/go_hard_foolin",
+                "highlight": "#UNTamed is worth a retweet",
+                "topsy_author_url": "http://topsy.com/twitter/go_hard_foolin",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/go_hard_foolin/status/244486483690524672",
+                "trackback_author_name": "Laid Bacc GoHard",
+                "trackback_author_nick": "go_hard_foolin"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1362088254,
+                "title": "Oh? RT @THEFLACKDANGLER: SHE NEED A #UNTAMED NIGGA LIKE ME TO TAME DAT ASS",
+                "url": "http://twitter.com/diamond_so_rare/status/307246522863607809",
+                "trackback_date": 1362088254,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1362088254,
+                "content": "Oh? RT @THEFLACKDANGLER: SHE NEED A #UNTAMED NIGGA LIKE ME TO TAME DAT ASS",
+                "mytype": "tweet",
+                "score": 8.754181,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472127184497549312/Xf5NWX8T_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DIAMOND_SO_RARE/status/307246522863607809",
+                "trackback_author_url": "http://twitter.com/diamond_so_rare",
+                "highlight": "Oh?SHE NEED A #UNTAMED NIGGA LIKE ME TO TAME DAT ASS",
+                "topsy_author_url": "http://topsy.com/twitter/diamond_so_rare",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/diamond_so_rare/status/307246522863607809",
+                "trackback_author_name": "whylie cuz IBeKnowin",
+                "trackback_author_nick": "diamond_so_rare"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1359635440,
+                "title": "#UNTAMED Nottingham. Tomorrow. Be there for epic rockiezz",
+                "url": "http://twitter.com/iamdonawon/status/296958677510942720",
+                "trackback_date": 1359635440,
+                "trackback_total": 5,
+                "url_expansions": [],
+                "target_birth_date": 1359635440,
+                "content": "#UNTAMED Nottingham. Tomorrow. Be there for epic rockiezz",
+                "mytype": "tweet",
+                "score": 8.753946,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472087830299426816/Ds2N1sDj_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/IAmDonawon/status/296958677510942720",
+                "trackback_author_url": "http://twitter.com/iamdonawon",
+                "highlight": "#UNTAMED Nottingham. Tomorrow. Be there for epic rockiezz",
+                "topsy_author_url": "http://topsy.com/twitter/iamdonawon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/iamdonawon/status/296958677510942720",
+                "trackback_author_name": "Muye\u00e8z",
+                "trackback_author_nick": "iamdonawon"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1359664282,
+                "title": "RT @iamdaintyc: And nottingham comes alive in the Night....\nIt's  #untamed #untamed #untamed Nottingham \nhttp://t.co/wW9AWsuq",
+                "url": "http://twitter.com/valneroo/status/297079650134401024",
+                "trackback_date": 1359664282,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/wW9AWsuq",
+                        "display_url": "aphroden.com/event-alert-un\u2026",
+                        "expanded_url": "http://www.aphroden.com/event-alert-untamed-party-nottingham-on-the-1st-feb/",
+                        "topsy_expanded_url": "http://www.aphroden.com/event-alert-untamed-party-nottingham-on-the-1st-feb/"
+                    }
+                ],
+                "target_birth_date": 1359664282,
+                "content": "RT @iamdaintyc: And nottingham comes alive in the Night....\nIt's  #untamed #untamed #untamed Nottingham \nhttp://t.co/wW9AWsuq",
+                "mytype": "tweet",
+                "score": 8.752724,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464829397271597056/8oGzIwxR_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/valneroo/status/297079650134401024",
+                "trackback_author_url": "http://twitter.com/valneroo",
+                "highlight": "And nottingham comes alive in the Night.... It's #untamed #untamed #untamed Nottingham",
+                "topsy_author_url": "http://topsy.com/twitter/valneroo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/valneroo/status/297079650134401024",
+                "trackback_author_name": "The Original",
+                "trackback_author_nick": "valneroo"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 110,
+        "hidden": 0,
+        "total": 38978,
+        "page": 1
+    }
+}

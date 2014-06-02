@@ -1,0 +1,283 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23gravel&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=720",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#gravel",
+            "window": "a",
+            "type": "tweet",
+            "offset": "720"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1384820833,
+                "title": "Just washed my car. Ha. #dirt #gravel #roads #doh (@ Sunnyside Stables) http://t.co/CuacFhccU2",
+                "url": "http://twitter.com/go_van_go/status/402593873320767488",
+                "trackback_date": 1384820833,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/CuacFhccU2",
+                        "display_url": "4sq.com/1f9Wnkn",
+                        "expanded_url": "http://4sq.com/1f9Wnkn",
+                        "topsy_expanded_url": "https://foursquare.com/go_van_go/checkin/528ab061498ee7ed567f6887?ref=tw&s=7Awxi4SlcUU6KTm_9z6irD4GLsI"
+                    }
+                ],
+                "target_birth_date": 1384820833,
+                "content": "Just washed my car. Ha. #dirt #gravel #roads #doh (@ Sunnyside Stables) http://t.co/CuacFhccU2",
+                "mytype": "tweet",
+                "score": 7.773968,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3229629778/a510cc2e63ee821408580f17ce2e1e88_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/go_van_go/status/402593873320767488",
+                "trackback_author_url": "http://twitter.com/go_van_go",
+                "highlight": "Just washed my car. Ha. #dirt #gravel #roads #doh (@ Sunnyside Stables)",
+                "topsy_author_url": "http://topsy.com/twitter/go_van_go",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/go_van_go/status/402593873320767488",
+                "trackback_author_name": "Van Horgen",
+                "trackback_author_nick": "go_van_go"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1377199825,
+                "title": "#parkinglot upgrades at the airport. \n#yxj #paving #dgs #construction #expansion #gravel #packing\u2026 http://t.co/Og3lxMvgYc",
+                "url": "http://twitter.com/onerainywish/status/370629045735940097",
+                "trackback_date": 1377199825,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Og3lxMvgYc",
+                        "display_url": "instagram.com/p/dU8R5UwNjS/",
+                        "expanded_url": "http://instagram.com/p/dU8R5UwNjS/",
+                        "topsy_expanded_url": "http://instagram.com/p/dU8R5UwNjS/"
+                    }
+                ],
+                "target_birth_date": 1377199825,
+                "content": "#parkinglot upgrades at the airport. \n#yxj #paving #dgs #construction #expansion #gravel #packing\u2026 http://t.co/Og3lxMvgYc",
+                "mytype": "tweet",
+                "score": 7.772701,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000624997500/a304fc293129925bd2e014615ba29f99_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OneRainyWish/status/370629045735940097",
+                "trackback_author_url": "http://twitter.com/onerainywish",
+                "highlight": "#parkinglot upgrades at the airport. #yxj #paving #dgs #construction #expansion #gravel #packing\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/onerainywish",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/onerainywish/status/370629045735940097",
+                "trackback_author_name": "Justin",
+                "trackback_author_nick": "onerainywish"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1375653188,
+                "title": "Up and at them #mmr #bkb4life #gravel #millscounty http://t.co/DKppbgeNWh",
+                "url": "http://twitter.com/rafal78/status/364141981104340993",
+                "trackback_date": 1375653188,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DKppbgeNWh",
+                        "display_url": "instagram.com/p/cm2almxuFM/",
+                        "expanded_url": "http://instagram.com/p/cm2almxuFM/",
+                        "topsy_expanded_url": "http://instagram.com/p/cm2almxuFM/"
+                    }
+                ],
+                "target_birth_date": 1375653188,
+                "content": "Up and at them #mmr #bkb4life #gravel #millscounty http://t.co/DKppbgeNWh",
+                "mytype": "tweet",
+                "score": 7.7724857,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/534080945/DSCN0225_normal.JPG",
+                "trackback_permalink": "http://twitter.com/rafal78/status/364141981104340993",
+                "trackback_author_url": "http://twitter.com/rafal78",
+                "highlight": "Up and at them #mmr #bkb4life #gravel #millscounty",
+                "topsy_author_url": "http://topsy.com/twitter/rafal78",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rafal78/status/364141981104340993",
+                "trackback_author_name": "Rafal Doloto",
+                "trackback_author_nick": "rafal78"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1358555828,
+                "title": "It's like fucking #xmas eve the night before a #gravel hundy #giddy #crc \n#soulcraft",
+                "url": "http://twitter.com/mdub71/status/292430455570059265",
+                "trackback_date": 1358555828,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1358555828,
+                "content": "It's like fucking #xmas eve the night before a #gravel hundy #giddy #crc \n#soulcraft",
+                "mytype": "tweet",
+                "score": 7.7709975,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2285808661/tugmx8qehx2n9k4kv65y_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mdub71/status/292430455570059265",
+                "trackback_author_url": "http://twitter.com/mdub71",
+                "highlight": "It's like fucking #xmas eve the night before a #gravel hundy #giddy #crc",
+                "topsy_author_url": "http://topsy.com/twitter/mdub71",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mdub71/status/292430455570059265",
+                "trackback_author_name": "matt wills",
+                "trackback_author_nick": "mdub71"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1381677109,
+                "title": "Lining up...#Filthy50 #gravel #Stewartville. #Sunday http://t.co/ji57PyQ00z",
+                "url": "http://twitter.com/tesshohman/status/389408137528500224",
+                "trackback_date": 1381677109,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ji57PyQ00z",
+                        "display_url": "instagram.com/p/faYDqPKcs_/",
+                        "expanded_url": "http://instagram.com/p/faYDqPKcs_/",
+                        "topsy_expanded_url": "http://instagram.com/p/faYDqPKcs_/"
+                    }
+                ],
+                "target_birth_date": 1381677109,
+                "content": "Lining up...#Filthy50 #gravel #Stewartville. #Sunday http://t.co/ji57PyQ00z",
+                "mytype": "tweet",
+                "score": 7.7703815,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2745712056/3c0dce4537bbf4e739c542d59198d0bb_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TessHohman/status/389408137528500224",
+                "trackback_author_url": "http://twitter.com/tesshohman",
+                "highlight": "Lining up...#Filthy50 #gravel #Stewartville. #Sunday",
+                "topsy_author_url": "http://topsy.com/twitter/tesshohman",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tesshohman/status/389408137528500224",
+                "trackback_author_name": "Tess Hohman",
+                "trackback_author_nick": "tesshohman"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1335144275,
+                "title": "#enqu\u00eate #Gravel \"@gravela_rc: mon blogue sur l'affaire Coulombe http://t.co/LtYrFTYE\" #TLMEP #blog",
+                "url": "http://twitter.com/mellzebrown/status/194235286300016640",
+                "trackback_date": 1335144275,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/LtYrFTYE",
+                        "display_url": "bit.ly/rt3pxA",
+                        "expanded_url": "http://bit.ly/rt3pxA",
+                        "topsy_expanded_url": "http://www.radio-canada.ca/blogues_carnets/"
+                    }
+                ],
+                "target_birth_date": 1335144275,
+                "content": "#enqu\u00eate #Gravel \"@gravela_rc: mon blogue sur l'affaire Coulombe http://t.co/LtYrFTYE\" #TLMEP #blog",
+                "mytype": "tweet",
+                "score": 7.7700696,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000816358015/9ac7e187ef758227fa5bfb21c21e8844_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mellzebrown/status/194235286300016640",
+                "trackback_author_url": "http://twitter.com/mellzebrown",
+                "highlight": "#enqu\u00eate #Gravel \"@gravela_rc: mon blogue sur l'affaire Coulombe #TLMEP",
+                "topsy_author_url": "http://topsy.com/twitter/mellzebrown",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mellzebrown/status/194235286300016640",
+                "trackback_author_name": "M\u00e9lanie Lebrun",
+                "trackback_author_nick": "mellzebrown"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1377904311,
+                "title": "Current progress on 110th Ave + 106th St. \n#roadwork #construction #gravel #packing #new #sidewalks\u2026 http://t.co/2Dy9cZrCNF",
+                "url": "http://twitter.com/onerainywish/status/373583873982349312",
+                "trackback_date": 1377904311,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2Dy9cZrCNF",
+                        "display_url": "instagram.com/p/dp8DwBwNlA/",
+                        "expanded_url": "http://instagram.com/p/dp8DwBwNlA/",
+                        "topsy_expanded_url": "http://instagram.com/p/dp8DwBwNlA/"
+                    }
+                ],
+                "target_birth_date": 1377904311,
+                "content": "Current progress on 110th Ave + 106th St. \n#roadwork #construction #gravel #packing #new #sidewalks\u2026 http://t.co/2Dy9cZrCNF",
+                "mytype": "tweet",
+                "score": 7.769195,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000624997500/a304fc293129925bd2e014615ba29f99_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OneRainyWish/status/373583873982349312",
+                "trackback_author_url": "http://twitter.com/onerainywish",
+                "highlight": "Current progress on 110th Ave + 106th St. #roadwork #construction #gravel #packing #new #sidewalks\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/onerainywish",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/onerainywish/status/373583873982349312",
+                "trackback_author_name": "Justin",
+                "trackback_author_nick": "onerainywish"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1291663411,
+                "title": "#Gravel &gt; Bullets lmao RT @Ace_October: @S_HiTcH shut. up. hoe! I aint even see that shit...nigga I'll let the whole clip ride...",
+                "url": "http://twitter.com/itsbranbo_bitch/status/11863325503660033",
+                "trackback_date": 1291663411,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1291663411,
+                "content": "#Gravel &gt; Bullets lmao RT @Ace_October: @S_HiTcH shut. up. hoe! I aint even see that shit...nigga I'll let the whole clip ride...",
+                "mytype": "tweet",
+                "score": 7.768297,
+                "topsy_author_img": "http://a3.twimg.com/profile_images/1624674773/216FF833-A6C9-4B90-9194-36CD74B8E08A_normal",
+                "trackback_permalink": "http://twitter.com/ItsBranBo_Bitch/status/11863325503660033",
+                "trackback_author_url": "http://twitter.com/thetwo_three",
+                "highlight": "#Gravel &gt; Bullets lmao@S_HiTcH shut. up. hoe! I aint even see that shit...nigga I'll let the whole clip ride",
+                "topsy_author_url": "http://topsy.com/twitter/thetwo_three",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/itsbranbo_bitch/status/11863325503660033",
+                "trackback_author_name": "B. Beasley",
+                "trackback_author_nick": "thetwo_three"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1312737089,
+                "title": "If it does'nt rain, we will be #Excavating tomorrow http://t.co/az9lBso in #Knoxville #TN #BobcatWork @Bobcat2222 #Gravel #Mulch",
+                "url": "http://twitter.com/bobcat2222/status/100252733910683648",
+                "trackback_date": 1312737089,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/az9lBso",
+                        "display_url": "ow.ly/5N8uQ",
+                        "expanded_url": "http://ow.ly/5N8uQ",
+                        "topsy_expanded_url": "http://www.merchantcircle.com/business/Jordans.Bobcat.And.Excavating.865-740-8704"
+                    }
+                ],
+                "target_birth_date": 1312737089,
+                "content": "If it does'nt rain, we will be #Excavating tomorrow http://t.co/az9lBso in #Knoxville #TN #BobcatWork @Bobcat2222 #Gravel #Mulch",
+                "mytype": "tweet",
+                "score": 7.7678227,
+                "topsy_author_img": "http://a1.twimg.com/profile_images/599959771/bobcat7_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Bobcat2222/status/100252733910683648",
+                "trackback_author_url": "http://twitter.com/bobcat2222",
+                "highlight": "If it does'nt rain, we will be #Excavating tomorrow in #Knoxville #TN #BobcatWork @Bobcat2222 #Gravel",
+                "topsy_author_url": "http://topsy.com/twitter/bobcat2222",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bobcat2222/status/100252733910683648",
+                "trackback_author_name": "Chuck__Jones",
+                "trackback_author_nick": "bobcat2222"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1262129766,
+                "title": "en nu slapen want om 10:00 moet ik de baan op met @bashawinkels #Amstelpark #Gravel",
+                "url": "http://twitter.com/basvroonland/status/7175992290",
+                "trackback_date": 1262129766,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1262129766,
+                "content": "en nu slapen want om 10:00 moet ik de baan op met @bashawinkels #Amstelpark #Gravel",
+                "mytype": "tweet",
+                "score": 7.765993,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1179392272/foto_normal.gif",
+                "trackback_permalink": "http://twitter.com/basvroonland/status/7175992290",
+                "trackback_author_url": "http://twitter.com/basvroonland",
+                "highlight": "en nu slapen want om 10:00 moet ik de baan op met @bashawinkels #Amstelpark",
+                "topsy_author_url": "http://topsy.com/twitter/basvroonland",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/basvroonland/status/7175992290",
+                "trackback_author_name": "bas vroonland",
+                "trackback_author_nick": "basvroonland"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 720,
+        "hidden": 0,
+        "total": 13433,
+        "page": 1
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23gravel&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=550",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#gravel",
+            "window": "a",
+            "type": "tweet",
+            "offset": "550"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 2,
+                "firstpost_date": 1392923701,
+                "title": "The Cumming Tap will be rockin' Sat. It is the host to the CIRREM 2014 #Gravel Race with @Cummingbob http://t.co/h91tOGx3g3",
+                "url": "http://twitter.com/bikeiowa/status/436579761868259328",
+                "trackback_date": 1392923701,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/h91tOGx3g3",
+                        "display_url": "buff.ly/1jemkPh",
+                        "expanded_url": "http://buff.ly/1jemkPh",
+                        "topsy_expanded_url": "http://www.bikeiowa.com/Event/7837/cirrem-2014"
+                    }
+                ],
+                "target_birth_date": 1392923701,
+                "content": "The Cumming Tap will be rockin' Sat. It is the host to the CIRREM 2014 #Gravel Race with @Cummingbob http://t.co/h91tOGx3g3",
+                "mytype": "tweet",
+                "score": 7.895405,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3154583434/88b2df1f6039240fca7a7823845cee1e_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/bikeiowa/status/436579761868259328",
+                "trackback_author_url": "http://twitter.com/bikeiowa",
+                "highlight": "The Cumming Tap will be rockin' Sat. It is the host to the CIRREM 2014 #Gravel Race with @Cummingbob",
+                "topsy_author_url": "http://topsy.com/twitter/bikeiowa",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bikeiowa/status/436579761868259328",
+                "trackback_author_name": "BIKEIOWA",
+                "trackback_author_nick": "bikeiowa"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1299709113,
+                "title": "@KearneyRob help get #gravel trending?:) if there was any man to do it  it has to be you:)",
+                "url": "http://twitter.com/evafarrell1/status/45609445014777856",
+                "trackback_date": 1299709113,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1299709113,
+                "content": "@KearneyRob help get #gravel trending?:) if there was any man to do it  it has to be you:)",
+                "mytype": "tweet",
+                "score": 7.8949513,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/470144835719294976/4WoXx0o-_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/evafarrell1/status/45609445014777856",
+                "trackback_author_url": "http://twitter.com/evafarrell1",
+                "highlight": " help get #gravel trending?:) if there was any man to do it it has to be you:)",
+                "topsy_author_url": "http://topsy.com/twitter/evafarrell1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/evafarrell1/status/45609445014777856",
+                "trackback_author_name": "The Cat Papa ",
+                "trackback_author_nick": "evafarrell1"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1356902238,
+                "title": "Spent four hours riding with friends today. #winter #iowa #gravel #cx http://t.co/QunOR749",
+                "url": "http://twitter.com/jonathanneve/status/285494795776978944",
+                "trackback_date": 1356902238,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/QunOR749",
+                        "display_url": "instagr.am/p/T4BssINbrk/",
+                        "expanded_url": "http://instagr.am/p/T4BssINbrk/",
+                        "topsy_expanded_url": "http://instagram.com/p/T4BssINbrk/"
+                    }
+                ],
+                "target_birth_date": 1356902238,
+                "content": "Spent four hours riding with friends today. #winter #iowa #gravel #cx http://t.co/QunOR749",
+                "mytype": "tweet",
+                "score": 7.893187,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/417353672171855873/THmx0uGS_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jonathanneve/status/285494795776978944",
+                "trackback_author_url": "http://twitter.com/jonathanneve",
+                "highlight": "Spent four hours riding with friends today. #winter #iowa #gravel #cx",
+                "topsy_author_url": "http://topsy.com/twitter/jonathanneve",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jonathanneve/status/285494795776978944",
+                "trackback_author_name": "Jack Neve",
+                "trackback_author_nick": "jonathanneve"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1345981867,
+                "title": "#Gravel #Restore #Common Man #Beginning #Solitude http://t.co/kOgi1BBg What We Speak",
+                "url": "http://twitter.com/meilleuresnet/status/239691439754326017",
+                "trackback_date": 1345981867,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kOgi1BBg",
+                        "display_url": "meilleures.net/produit/what-w\u2026",
+                        "expanded_url": "http://www.meilleures.net/produit/what-we-speak.html",
+                        "topsy_expanded_url": "http://www.meilleures.net/produit/what-we-speak.html"
+                    }
+                ],
+                "target_birth_date": 1345981867,
+                "content": "#Gravel #Restore #Common Man #Beginning #Solitude http://t.co/kOgi1BBg What We Speak",
+                "mytype": "tweet",
+                "score": 7.893052,
+                "topsy_author_img": "http://a0.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+                "trackback_permalink": "http://twitter.com/meilleuresnet/status/239691439754326017",
+                "trackback_author_url": "http://twitter.com/meilleuresnet",
+                "highlight": "#Gravel #Restore #Common Man #Beginning #Solitude What We Speak",
+                "topsy_author_url": "http://topsy.com/twitter/meilleuresnet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/meilleuresnet/status/239691439754326017",
+                "trackback_author_name": "Meilleures",
+                "trackback_author_nick": "meilleuresnet"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1378194902,
+                "title": "Happiness is\u2026. #cycling #melbourne #spring #singlespeed #gravel http://t.co/gHufEBCdbd",
+                "url": "http://twitter.com/singlespeed/status/374802701353095169",
+                "trackback_date": 1378194902,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/gHufEBCdbd",
+                        "display_url": "pic.twitter.com/gHufEBCdbd",
+                        "expanded_url": "http://twitter.com/singlespeed/status/374802701353095169/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BTOREinCcAAlGAo.jpg"
+                    }
+                ],
+                "target_birth_date": 1378194902,
+                "content": "Happiness is\u2026. #cycling #melbourne #spring #singlespeed #gravel http://t.co/gHufEBCdbd",
+                "mytype": "tweet",
+                "score": 7.891422,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1320856631/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/singlespeed/status/374802701353095169",
+                "trackback_author_url": "http://twitter.com/singlespeed",
+                "highlight": "Happiness is\u2026. #cycling #melbourne #spring #singlespeed #gravel",
+                "topsy_author_url": "http://topsy.com/twitter/singlespeed",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/singlespeed/status/374802701353095169",
+                "trackback_author_name": "Winston Smith",
+                "trackback_author_nick": "singlespeed"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1369312936,
+                "title": "Plotting the next Guitar Ted Death Ride Invitational on July 13th is happening. #gravel",
+                "url": "http://twitter.com/guitarted1961/status/337549037479788544",
+                "trackback_date": 1369312936,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1369312936,
+                "content": "Plotting the next Guitar Ted Death Ride Invitational on July 13th is happening. #gravel",
+                "mytype": "tweet",
+                "score": 7.890607,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/474329284/october09_0061_normal.jpg",
+                "trackback_permalink": "http://twitter.com/guitarted1961/status/337549037479788544",
+                "trackback_author_url": "http://twitter.com/guitarted1961",
+                "highlight": "Plotting the next Guitar Ted Death Ride Invitational on July 13th is happening.",
+                "topsy_author_url": "http://topsy.com/twitter/guitarted1961",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/guitarted1961/status/337549037479788544",
+                "trackback_author_name": "Guitar Ted",
+                "trackback_author_nick": "guitarted1961"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1382988163,
+                "title": "There's no such thing as a wrong turn - it's just an adventure! #rideyourbike #gravel #outsideisfree http://t.co/kvLr7984rC",
+                "url": "http://twitter.com/performancebike/status/394907095965114368",
+                "trackback_date": 1382988163,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kvLr7984rC",
+                        "display_url": "instagram.com/p/gBcj6DPU61/",
+                        "expanded_url": "http://instagram.com/p/gBcj6DPU61/",
+                        "topsy_expanded_url": "http://instagram.com/p/gBcj6DPU61/"
+                    }
+                ],
+                "target_birth_date": 1382988163,
+                "content": "There's no such thing as a wrong turn - it's just an adventure! #rideyourbike #gravel #outsideisfree http://t.co/kvLr7984rC",
+                "mytype": "tweet",
+                "score": 7.889293,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2166665868/performance_bicycles_logo_normal.jpg",
+                "trackback_permalink": "http://twitter.com/performancebike/status/394907095965114368",
+                "trackback_author_url": "http://twitter.com/performancebike",
+                "highlight": "There's no such thing as a wrong turn - it's just an adventure! #rideyourbike #gravel #outsideisfree",
+                "topsy_author_url": "http://topsy.com/twitter/performancebike",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/performancebike/status/394907095965114368",
+                "trackback_author_name": "Performance Bicycle",
+                "trackback_author_nick": "performancebike"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1385990838,
+                "title": "Legs feel like I could kick a door down. #hundyofthemonthclub #bikes #gravel",
+                "url": "http://twitter.com/mdub71/status/407501227564347392",
+                "trackback_date": 1385990838,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1385990838,
+                "content": "Legs feel like I could kick a door down. #hundyofthemonthclub #bikes #gravel",
+                "mytype": "tweet",
+                "score": 7.88896,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2285808661/tugmx8qehx2n9k4kv65y_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mdub71/status/407501227564347392",
+                "trackback_author_url": "http://twitter.com/mdub71",
+                "highlight": "Legs feel like I could kick a door down. #hundyofthemonthclub #bikes",
+                "topsy_author_url": "http://topsy.com/twitter/mdub71",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mdub71/status/407501227564347392",
+                "trackback_author_name": "matt wills",
+                "trackback_author_nick": "mdub71"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1343272561,
+                "title": "Sac County Supervisors discuss paving #Gravel crossings on @Saukrailtrail  #Carroll #LakeView @IowaTrails http://t.co/HsJneriW",
+                "url": "http://twitter.com/bikeiowa/status/228327786996199424",
+                "trackback_date": 1343272561,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/HsJneriW",
+                        "display_url": "bikeiowa.com/News/5491",
+                        "expanded_url": "http://www.bikeiowa.com/News/5491",
+                        "topsy_expanded_url": "http://www.bikeiowa.com/News/5491"
+                    }
+                ],
+                "target_birth_date": 1343272561,
+                "content": "Sac County Supervisors discuss paving #Gravel crossings on @Saukrailtrail  #Carroll #LakeView @IowaTrails http://t.co/HsJneriW",
+                "mytype": "tweet",
+                "score": 7.8889174,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3154583434/88b2df1f6039240fca7a7823845cee1e_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/bikeiowa/status/228327786996199424",
+                "trackback_author_url": "http://twitter.com/bikeiowa",
+                "highlight": "Sac County Supervisors discuss paving #Gravel crossings on @Saukrailtrail #Carroll #LakeView @IowaTrails",
+                "topsy_author_url": "http://topsy.com/twitter/bikeiowa",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bikeiowa/status/228327786996199424",
+                "trackback_author_name": "BIKEIOWA",
+                "trackback_author_nick": "bikeiowa"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1363010228,
+                "title": "#rocks #pebbles #gravel #landscaping #stones http://t.co/PnWYEuVdZE",
+                "url": "http://twitter.com/clubcabeza/status/311113563269890049",
+                "trackback_date": 1363010228,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PnWYEuVdZE",
+                        "expanded_url": "http://instagr.am/p/WuD2_QIE_c/",
+                        "display_url": "instagr.am/p/WuD2_QIE_c/"
+                    }
+                ],
+                "target_birth_date": 1363010228,
+                "content": "#rocks #pebbles #gravel #landscaping #stones http://t.co/PnWYEuVdZE",
+                "mytype": "tweet",
+                "score": 7.888716,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458733432437100544/vEpUK_3o_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ClubCabeza/status/311113563269890049",
+                "trackback_author_url": "http://twitter.com/clubcabeza",
+                "highlight": "#rocks #pebbles #gravel #landscaping #stones",
+                "topsy_author_url": "http://topsy.com/twitter/clubcabeza",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/clubcabeza/status/311113563269890049",
+                "trackback_author_name": "Steve Cabeza",
+                "trackback_author_nick": "clubcabeza"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 550,
+        "hidden": 0,
+        "total": 13425,
+        "page": 1
+    }
+}

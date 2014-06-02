@@ -1,0 +1,285 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23dotty&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=120",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#dotty",
+            "window": "a",
+            "type": "tweet",
+            "offset": "120"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 16,
+                "firstpost_date": 1390597746,
+                "title": "#Dotty &amp; #Bella\nGender/Age:Females 13 wks\nBreed: Short haired\nColour: Tabby &amp; White\nLocation: #Edenbridge\n#Cats http://t.co/Q0zj3bIXaO",
+                "url": "http://twitter.com/lcanimalrescue/status/426824001206226944",
+                "trackback_date": 1390597746,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Q0zj3bIXaO",
+                        "display_url": "pic.twitter.com/Q0zj3bIXaO",
+                        "expanded_url": "http://twitter.com/LCAnimalRescue/status/426824001206226944/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BexiKu5CEAA1VnA.jpg"
+                    }
+                ],
+                "target_birth_date": 1390597746,
+                "content": "#Dotty &amp; #Bella\nGender/Age:Females 13 wks\nBreed: Short haired\nColour: Tabby &amp; White\nLocation: #Edenbridge\n#Cats http://t.co/Q0zj3bIXaO",
+                "mytype": "tweet",
+                "score": 8.375109,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/436124998076338176/VSjXeWRP_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LCAnimalRescue/status/426824001206226944",
+                "trackback_author_url": "http://twitter.com/lcanimalrescue",
+                "highlight": "#Dotty &amp; #Bella Gender/Age:Females 13 wks Breed: Short haired Colour: Tabby &amp; White Location: #Edenbridge #Cats",
+                "topsy_author_url": "http://topsy.com/twitter/lcanimalrescue",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lcanimalrescue/status/426824001206226944",
+                "trackback_author_name": "Help Rescued Animals",
+                "trackback_author_nick": "lcanimalrescue"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1331169620,
+                "title": "@SharleneTaule y @m_delpilar #Katie y #dotty http://t.co/3hkvCuam",
+                "url": "http://twitter.com/susyescajadillo/status/177564375664689152",
+                "trackback_date": 1331169620,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3hkvCuam",
+                        "display_url": "yfrog.com/odt5cgnj",
+                        "expanded_url": "http://yfrog.com/odt5cgnj",
+                        "topsy_expanded_url": "http://yfrog.com/odt5cgnj"
+                    }
+                ],
+                "target_birth_date": 1331169620,
+                "content": "@SharleneTaule y @m_delpilar #Katie y #dotty http://t.co/3hkvCuam",
+                "mytype": "tweet",
+                "score": 8.369433,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473199776922894336/cCwHKRCo_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SusyEscajadillo/status/177564375664689152",
+                "trackback_author_url": "http://twitter.com/susyartist",
+                "highlight": " y @m_delpilar #Katie y #dotty",
+                "topsy_author_url": "http://topsy.com/twitter/susyartist",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/susyescajadillo/status/177564375664689152",
+                "trackback_author_name": "Susy Escajadillo",
+                "trackback_author_nick": "susyartist"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1365771429,
+                "title": "NEW ANTHEM FROM YdotGdot CALLED \"BADDIE\" !!! LISTEN NOW!!!  http://t.co/Q0O8wW7NYR http://t.co/Adi6EPZ9If #dotty",
+                "url": "http://twitter.com/realydotgdot/status/322694879257952258",
+                "trackback_date": 1365771429,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Q0O8wW7NYR",
+                        "expanded_url": "http://youtu.be/EnwUXPO8INk",
+                        "display_url": "youtu.be/EnwUXPO8INk"
+                    },
+                    {
+                        "url": "http://t.co/Adi6EPZ9If",
+                        "expanded_url": "http://twitter.com/RealYdotGdot/status/321312396440371201/photo/1",
+                        "display_url": "pic.twitter.com/Adi6EPZ9If"
+                    }
+                ],
+                "target_birth_date": 1365771429,
+                "content": "NEW ANTHEM FROM YdotGdot CALLED \"BADDIE\" !!! LISTEN NOW!!!  http://t.co/Q0O8wW7NYR http://t.co/Adi6EPZ9If #dotty",
+                "mytype": "tweet",
+                "score": 8.363202,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/456638066967318531/786pV0Nj_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RealYdotGdot/status/322694879257952258",
+                "trackback_author_url": "http://twitter.com/realydotgdot",
+                "highlight": "NEW ANTHEM FROM YdotGdot CALLED \"BADDIE\" !!! LISTEN NOW!!!",
+                "topsy_author_url": "http://topsy.com/twitter/realydotgdot",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/realydotgdot/status/322694879257952258",
+                "trackback_author_name": "Ydot Gdot\u266b",
+                "trackback_author_nick": "realydotgdot"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1348443967,
+                "title": "#Slimm RT @RealYdotGdot: #dotty",
+                "url": "http://twitter.com/cuteface_slimm/status/250018238887518209",
+                "trackback_date": 1348443967,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1348443967,
+                "content": "#Slimm RT @RealYdotGdot: #dotty",
+                "mytype": "tweet",
+                "score": 8.361527,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3633866318/463004e171548cbd32cd9b7fed5fa37d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/cuteface_slimm/status/250018238887518209",
+                "trackback_author_url": "http://twitter.com/cuteface_slimm",
+                "highlight": "#Slimm",
+                "topsy_author_url": "http://topsy.com/twitter/cuteface_slimm",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cuteface_slimm/status/250018238887518209",
+                "trackback_author_name": "Slimmm Thuggga",
+                "trackback_author_nick": "cuteface_slimm"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1325883027,
+                "title": "#EH #EH @donny_baby #BABYPICTURE #DOTTY http://t.co/kQibYoDw",
+                "url": "http://twitter.com/rasskulz/status/155390797812989952",
+                "trackback_date": 1325883027,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kQibYoDw",
+                        "display_url": "lockerz.com/s/172203757",
+                        "expanded_url": "http://lockerz.com/s/172203757",
+                        "topsy_expanded_url": "http://lockerz.com/s/172203757"
+                    }
+                ],
+                "target_birth_date": 1325883027,
+                "content": "#EH #EH @donny_baby #BABYPICTURE #DOTTY http://t.co/kQibYoDw",
+                "mytype": "tweet",
+                "score": 8.359814,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/415848646832570368/f9XOxqxj_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rasskulz/status/155390797812989952",
+                "trackback_author_url": "http://twitter.com/rasskulz",
+                "highlight": "#EH #EH @donny_baby #BABYPICTURE #DOTTY",
+                "topsy_author_url": "http://topsy.com/twitter/rasskulz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rasskulz/status/155390797812989952",
+                "trackback_author_name": "GOOISEGOONS",
+                "trackback_author_nick": "rasskulz"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1350692958,
+                "title": "\u201c@chiknadacomun: #GrachiPeru Las Panteras #Dotty @m_delpilar #Katty @SharleneTaule en el 7 http://t.co/20k39INK\u201d:)",
+                "url": "http://twitter.com/m_delpilar/status/259451188230111233",
+                "trackback_date": 1350692958,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/20k39INK",
+                        "expanded_url": "http://twitter.com/chiknadacomun/status/259449251451506688/photo/1",
+                        "display_url": "pic.twitter.com/20k39INK"
+                    }
+                ],
+                "target_birth_date": 1350692958,
+                "content": "\u201c@chiknadacomun: #GrachiPeru Las Panteras #Dotty @m_delpilar #Katty @SharleneTaule en el 7 http://t.co/20k39INK\u201d:)",
+                "mytype": "tweet",
+                "score": 8.358493,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000583435665/edf87b065b882841a4052985dbc638df_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/m_delpilar/status/259451188230111233",
+                "trackback_author_url": "http://twitter.com/m_delpilar",
+                "highlight": "\u201c@chiknadacomun: #GrachiPeru Las Panteras #Dotty @m_delpilar #Katty @SharleneTaule en el 7",
+                "topsy_author_url": "http://topsy.com/twitter/m_delpilar",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/m_delpilar/status/259451188230111233",
+                "trackback_author_name": "Maria Del Pilar",
+                "trackback_author_nick": "m_delpilar"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1357279258,
+                "title": "#Grachi2Peru #Dotty @m_delpilar hablando con #Mia @mgabrieladfc acerca d q le gusta su Plantitaa llamada #Leia =) http://t.co/ECUX6Vy6",
+                "url": "http://twitter.com/chiknadacomun/status/287076132422041602",
+                "trackback_date": 1357279258,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ECUX6Vy6",
+                        "display_url": "pic.twitter.com/ECUX6Vy6",
+                        "expanded_url": "http://twitter.com/chiknadacomun/status/287076132422041602/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/A_vmOLECQAALt12.jpg"
+                    }
+                ],
+                "target_birth_date": 1357279258,
+                "content": "#Grachi2Peru #Dotty @m_delpilar hablando con #Mia @mgabrieladfc acerca d q le gusta su Plantitaa llamada #Leia =) http://t.co/ECUX6Vy6",
+                "mytype": "tweet",
+                "score": 8.355246,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/457418937576083457/Id7S4iVT_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/chiknadacomun/status/287076132422041602",
+                "trackback_author_url": "http://twitter.com/chiknadacomun",
+                "highlight": "#Grachi2Peru #Dotty @m_delpilar hablando con #Mia @mgabrieladfc acerca d q le gusta su Plantitaa llamada #Leia =)",
+                "topsy_author_url": "http://topsy.com/twitter/chiknadacomun",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/chiknadacomun/status/287076132422041602",
+                "trackback_author_name": "Pilar \u10e6 PLL \u10e6",
+                "trackback_author_nick": "chiknadacomun"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1349726181,
+                "title": "@rafaeldlf #Diego ve hacer el conjuro del cabello a #Dotty http://t.co/8u6nXnvg",
+                "url": "http://twitter.com/juanpbc/status/255396229280837634",
+                "trackback_date": 1349726181,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8u6nXnvg",
+                        "expanded_url": "http://twitter.com/juanpbc/status/255396229280837634/photo/1",
+                        "display_url": "pic.twitter.com/8u6nXnvg"
+                    }
+                ],
+                "target_birth_date": 1349726181,
+                "content": "@rafaeldlf #Diego ve hacer el conjuro del cabello a #Dotty http://t.co/8u6nXnvg",
+                "mytype": "tweet",
+                "score": 8.349357,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/425807906244939776/bNCdJweA_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/juanpbc/status/255396229280837634",
+                "trackback_author_url": "http://twitter.com/juanpbc",
+                "highlight": " #Diego ve hacer el conjuro del cabello a #Dotty",
+                "topsy_author_url": "http://topsy.com/twitter/juanpbc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/juanpbc/status/255396229280837634",
+                "trackback_author_name": "Juan Pablo",
+                "trackback_author_nick": "juanpbc"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1371796537,
+                "title": "2 days until #TonbridgeTasterDay @TonbridgeTownTe @DemelzaHospice is ready for a fab day on sunday! #Dotty has his sun cream at the ready!",
+                "url": "http://twitter.com/demelzahospice/status/347966012903264258",
+                "trackback_date": 1371796537,
+                "trackback_total": 7,
+                "url_expansions": [],
+                "target_birth_date": 1371796537,
+                "content": "2 days until #TonbridgeTasterDay @TonbridgeTownTe @DemelzaHospice is ready for a fab day on sunday! #Dotty has his sun cream at the ready!",
+                "mytype": "tweet",
+                "score": 8.349041,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000410651252/3da7e2edcce066a10b06ff7b6829d8de_normal.png",
+                "trackback_permalink": "http://twitter.com/DemelzaHospice/status/347966012903264258",
+                "trackback_author_url": "http://twitter.com/demelzahospice",
+                "highlight": "2 days until #TonbridgeTasterDay @TonbridgeTownTe @DemelzaHospice is ready for a fab day on sunday! #Dotty has his sun cream at the ready!",
+                "topsy_author_url": "http://topsy.com/twitter/demelzahospice",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/demelzahospice/status/347966012903264258",
+                "trackback_author_name": "Demelza Hospice",
+                "trackback_author_nick": "demelzahospice"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1360029624,
+                "title": "@RealYdotGdot finna be Turning Up With Me for #TurnDown4What Cotton Club 2k13 Official Barcrawl &gt;&gt;&gt;&gt; \nI'm Alrdy Knowing #Dotty Turns Up",
+                "url": "http://twitter.com/faith_skylark/status/298612004095139841",
+                "trackback_date": 1360029624,
+                "trackback_total": 5,
+                "url_expansions": [],
+                "target_birth_date": 1360029624,
+                "content": "@RealYdotGdot finna be Turning Up With Me for #TurnDown4What Cotton Club 2k13 Official Barcrawl &gt;&gt;&gt;&gt; \nI'm Alrdy Knowing #Dotty Turns Up",
+                "mytype": "tweet",
+                "score": 8.347317,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/470836470472007680/pE2pO9rh_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Faith_SkyLark/status/298612004095139841",
+                "trackback_author_url": "http://twitter.com/faith_skylark",
+                "highlight": " finna be Turning Up With Me for #TurnDown4What Cotton Club 2k13 Official Barcrawl &gt;&gt;&gt;&gt; I'm Alrdy Knowing #Dotty Turns Up",
+                "topsy_author_url": "http://topsy.com/twitter/faith_skylark",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/faith_skylark/status/298612004095139841",
+                "trackback_author_name": "Faith ",
+                "trackback_author_nick": "faith_skylark"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 120,
+        "hidden": 0,
+        "total": 12474,
+        "page": 1
+    }
+}

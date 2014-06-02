@@ -1,0 +1,289 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23storm&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=940",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#storm",
+            "window": "a",
+            "type": "tweet",
+            "offset": "940"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 4,
+                "firstpost_date": 1388091726,
+                "title": "View out my window. Getting worried. #storm http://t.co/GStJtLyeQw",
+                "url": "http://twitter.com/colmtobin/status/416312991479767040",
+                "trackback_date": 1388091726,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/GStJtLyeQw",
+                        "display_url": "instagram.com/p/iZjGCczAKI/",
+                        "expanded_url": "http://instagram.com/p/iZjGCczAKI/",
+                        "topsy_expanded_url": "http://instagram.com/p/iZjGCczAKI/"
+                    }
+                ],
+                "target_birth_date": 1388091726,
+                "content": "View out my window. Getting worried. #storm http://t.co/GStJtLyeQw",
+                "mytype": "tweet",
+                "score": 8.891242,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1174462305/ColmTobin_normal.png",
+                "trackback_permalink": "http://twitter.com/colmtobin/status/416312991479767040",
+                "trackback_author_url": "http://twitter.com/colmtobin",
+                "highlight": "View out my window. Getting worried. #storm",
+                "topsy_author_url": "http://topsy.com/twitter/colmtobin",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/colmtobin/status/416312991479767040",
+                "trackback_author_name": "Colm Tobin",
+                "trackback_author_nick": "colmtobin"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1367182611,
+                "title": "RT @GeorgiaPower: With several severe #storm warnings issued in Ga., it's a good time to review prep &amp; safety tips @ http://t.co/TFPE8eflph.",
+                "url": "http://twitter.com/ajc/status/328613807960231936",
+                "trackback_date": 1367182611,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/TFPE8eflph",
+                        "display_url": "georgiapower.com/storm",
+                        "expanded_url": "http://www.georgiapower.com/storm",
+                        "topsy_expanded_url": "http://www.georgiapower.com/in-your-community/storm-center/home.cshtml"
+                    }
+                ],
+                "target_birth_date": 1367182611,
+                "content": "RT @GeorgiaPower: With several severe #storm warnings issued in Ga., it's a good time to review prep &amp; safety tips @ http://t.co/TFPE8eflph.",
+                "mytype": "tweet",
+                "score": 8.891206,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000571357134/09269e085e6304d209ebf3509181a49b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ajc/status/328613807960231936",
+                "trackback_author_url": "http://twitter.com/ajc",
+                "highlight": "With several severe #storm warnings issued in Ga., it's a good time to review prep &amp; safety tips @",
+                "topsy_author_url": "http://topsy.com/twitter/ajc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ajc/status/328613807960231936",
+                "trackback_author_name": "AJC ",
+                "trackback_author_nick": "ajc"
+            },
+            {
+                "hits": 32,
+                "firstpost_date": 1392557876,
+                "title": "Lovely to see the community in Porthleven helping to clear up the harbour this morning after the #storm http://t.co/NWrYwzmXpJ",
+                "url": "http://twitter.com/tiffytrus/status/435045383673483265",
+                "trackback_date": 1392557876,
+                "trackback_total": 34,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/NWrYwzmXpJ",
+                        "display_url": "pic.twitter.com/NWrYwzmXpJ",
+                        "expanded_url": "http://twitter.com/TiffyTrus/status/435045383673483265/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BgmXeJ5IgAA9UNV.jpg"
+                    }
+                ],
+                "target_birth_date": 1392557876,
+                "content": "Lovely to see the community in Porthleven helping to clear up the harbour this morning after the #storm http://t.co/NWrYwzmXpJ",
+                "mytype": "tweet",
+                "score": 8.890812,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3539138167/d80430fb137777f36690191d60e31b56_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TiffyTrus/status/435045383673483265",
+                "trackback_author_url": "http://twitter.com/tiffytrus",
+                "highlight": "Lovely to see the community in Porthleven helping to clear up the harbour this morning after the #storm",
+                "topsy_author_url": "http://topsy.com/twitter/tiffytrus",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tiffytrus/status/435045383673483265",
+                "trackback_author_name": "Tiffany Truscott",
+                "trackback_author_nick": "tiffytrus"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1398541236,
+                "title": "Nobody likes cherries anyway. \nGutted but will always be proud of my team. #storm",
+                "url": "http://twitter.com/tamsingreenway/status/460141412693323776",
+                "trackback_date": 1398541236,
+                "trackback_total": 39,
+                "url_expansions": [],
+                "target_birth_date": 1398541236,
+                "content": "Nobody likes cherries anyway. \nGutted but will always be proud of my team. #storm",
+                "mytype": "tweet",
+                "score": 8.890595,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1070473762/Tamsin_Profile_Twitter1_normal.jpg",
+                "trackback_permalink": "http://twitter.com/tamsingreenway/status/460141412693323776",
+                "trackback_author_url": "http://twitter.com/tamsingreenway",
+                "highlight": "Nobody likes cherries anyway. Gutted but will always be proud of my team.",
+                "topsy_author_url": "http://topsy.com/twitter/tamsingreenway",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tamsingreenway/status/460141412693323776",
+                "trackback_author_name": "Tamsin Greenway",
+                "trackback_author_nick": "tamsingreenway"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1401056973,
+                "title": "Dominator 3 approaching #tornado warned supercell yesterday near Iraan, TX in the Pecos Valley #storm\u2026 http://t.co/2S9YURXd26",
+                "url": "http://twitter.com/reedtimmertvn/status/470693180036235265",
+                "trackback_date": 1401056973,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2S9YURXd26",
+                        "display_url": "instagram.com/p/ob8Vyblfqf/",
+                        "expanded_url": "http://instagram.com/p/ob8Vyblfqf/",
+                        "topsy_expanded_url": "http://instagram.com/p/ob8Vyblfqf/"
+                    }
+                ],
+                "target_birth_date": 1401056973,
+                "content": "Dominator 3 approaching #tornado warned supercell yesterday near Iraan, TX in the Pecos Valley #storm\u2026 http://t.co/2S9YURXd26",
+                "mytype": "tweet",
+                "score": 8.890478,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/454535697794215936/FDC38b7Q_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/reedtimmerTVN/status/470693180036235265",
+                "trackback_author_url": "http://twitter.com/reedtimmertvn",
+                "highlight": "Dominator 3 approaching #tornado warned supercell yesterday near Iraan, TX in the Pecos Valley #storm\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/reedtimmertvn",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/reedtimmertvn/status/470693180036235265",
+                "trackback_author_name": "Reed Timmer",
+                "trackback_author_nick": "reedtimmertvn"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1320885280,
+                "title": "@almightygod I see you are finally punishing Alaska for Sarah Palin. #storm",
+                "url": "http://twitter.com/racetripper/status/134428724975243264",
+                "trackback_date": 1320885280,
+                "trackback_total": 9,
+                "url_expansions": [],
+                "target_birth_date": 1320885280,
+                "content": "@almightygod I see you are finally punishing Alaska for Sarah Palin. #storm",
+                "mytype": "tweet",
+                "score": 8.89036,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1436697891/75573924.4Kg64JBn_normal.jpg",
+                "trackback_permalink": "http://twitter.com/RaceTripper/status/134428724975243264",
+                "trackback_author_url": "http://twitter.com/racetripper",
+                "highlight": " I see you are finally punishing Alaska for Sarah Palin.",
+                "topsy_author_url": "http://topsy.com/twitter/racetripper",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/racetripper/status/134428724975243264",
+                "trackback_author_name": "RaceTripper",
+                "trackback_author_nick": "racetripper"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1359658732,
+                "title": "Cassini watches #storm choke on its own tail http://t.co/kAsH2oi9 @NASA",
+                "url": "http://twitter.com/physorg_com/status/297056371378118656",
+                "trackback_date": 1359658732,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kAsH2oi9",
+                        "display_url": "phy.so/278863115",
+                        "expanded_url": "http://phy.so/278863115",
+                        "topsy_expanded_url": "http://phys.org/news/2013-01-cassini-storm-tail.html"
+                    }
+                ],
+                "target_birth_date": 1359658732,
+                "content": "Cassini watches #storm choke on its own tail http://t.co/kAsH2oi9 @NASA",
+                "mytype": "tweet",
+                "score": 8.890228,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2049004044/atom_normal.png",
+                "trackback_permalink": "http://twitter.com/physorg_com/status/297056371378118656",
+                "trackback_author_url": "http://twitter.com/physorg_com",
+                "highlight": "Cassini watches #storm choke on its own tail @NASA",
+                "topsy_author_url": "http://topsy.com/twitter/physorg_com",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/physorg_com/status/297056371378118656",
+                "trackback_author_name": "Phys.org",
+                "trackback_author_nick": "physorg_com"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1347977481,
+                "title": "Very dramatic! RT @bradnemitz: Epic sky over Wilson Library. #unc #storm  @ Wilson Library http://t.co/hSAzk9aH",
+                "url": "http://twitter.com/unclibrary/status/248061654661726208",
+                "trackback_date": 1347977481,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/hSAzk9aH",
+                        "display_url": "instagr.am/p/PkRHi7PhP6/",
+                        "expanded_url": "http://instagr.am/p/PkRHi7PhP6/",
+                        "topsy_expanded_url": "http://instagram.com/p/PkRHi7PhP6/"
+                    }
+                ],
+                "target_birth_date": 1347977481,
+                "content": "Very dramatic! RT @bradnemitz: Epic sky over Wilson Library. #unc #storm  @ Wilson Library http://t.co/hSAzk9aH",
+                "mytype": "tweet",
+                "score": 8.890082,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/697303186/TBookLogo2_normal.jpg",
+                "trackback_permalink": "http://twitter.com/UNCLibrary/status/248061654661726208",
+                "trackback_author_url": "http://twitter.com/unclibrary",
+                "highlight": "Very dramatic!Epic sky over Wilson Library. #unc #storm @ Wilson Library",
+                "topsy_author_url": "http://topsy.com/twitter/unclibrary",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/unclibrary/status/248061654661726208",
+                "trackback_author_name": "UNC Library",
+                "trackback_author_nick": "unclibrary"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1385877569,
+                "title": "Kevin Barton.. Dominator engineer. Dominate the #storm! http://t.co/5tvi0kmFEx",
+                "url": "http://twitter.com/reedtimmertvn/status/407026143351820288",
+                "trackback_date": 1385877569,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/5tvi0kmFEx",
+                        "display_url": "instagram.com/p/hXj0gvFfqY/",
+                        "expanded_url": "http://instagram.com/p/hXj0gvFfqY/",
+                        "topsy_expanded_url": "http://instagram.com/p/hXj0gvFfqY/"
+                    }
+                ],
+                "target_birth_date": 1385877569,
+                "content": "Kevin Barton.. Dominator engineer. Dominate the #storm! http://t.co/5tvi0kmFEx",
+                "mytype": "tweet",
+                "score": 8.889904,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/454535697794215936/FDC38b7Q_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/reedtimmerTVN/status/407026143351820288",
+                "trackback_author_url": "http://twitter.com/reedtimmertvn",
+                "highlight": "Kevin Barton.. Dominator engineer. Dominate the #storm!",
+                "topsy_author_url": "http://topsy.com/twitter/reedtimmertvn",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/reedtimmertvn/status/407026143351820288",
+                "trackback_author_name": "Reed Timmer",
+                "trackback_author_nick": "reedtimmertvn"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1348353177,
+                "title": "Gracias @UnderArmourMx     Por mis Pants #storm. Water resistant. .. Para los fr\u00edos y mis tenis \u263a. http://t.co/ZrIuOBhs",
+                "url": "http://twitter.com/gabyelizalde/status/249637431886901249",
+                "trackback_date": 1348353177,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ZrIuOBhs",
+                        "expanded_url": "http://twitter.com/GabyElizalde/status/249637431886901249/photo/1",
+                        "display_url": "pic.twitter.com/ZrIuOBhs"
+                    }
+                ],
+                "target_birth_date": 1348353177,
+                "content": "Gracias @UnderArmourMx     Por mis Pants #storm. Water resistant. .. Para los fr\u00edos y mis tenis \u263a. http://t.co/ZrIuOBhs",
+                "mytype": "tweet",
+                "score": 8.889769,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/418863727224430592/thLUJ0az_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/GabyElizalde/status/249637431886901249",
+                "trackback_author_url": "http://twitter.com/gabyelizalde",
+                "highlight": "Gracias @UnderArmourMx Por mis Pants #storm. Water resistant. .. Para los fr\u00edos y mis tenis \u263a.",
+                "topsy_author_url": "http://topsy.com/twitter/gabyelizalde",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gabyelizalde/status/249637431886901249",
+                "trackback_author_name": "Gaby Elizalde",
+                "trackback_author_nick": "gabyelizalde"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 940,
+        "hidden": 0,
+        "total": 1122396,
+        "page": 1
+    }
+}

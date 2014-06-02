@@ -1,0 +1,283 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23gaga&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=210",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#gaga",
+            "window": "a",
+            "type": "tweet",
+            "offset": "210"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 70,
+                "firstpost_date": 1377483560,
+                "title": "Dat ass. #VMAgae #gaga http://t.co/fHaEWq8KkB",
+                "url": "http://twitter.com/afterellen/status/371819119135313920",
+                "trackback_date": 1377483560,
+                "trackback_total": 108,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/fHaEWq8KkB",
+                        "display_url": "pic.twitter.com/fHaEWq8KkB",
+                        "expanded_url": "http://twitter.com/afterellen/status/371819119135313920/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BSj3hNUCUAACsJ0.jpg"
+                    }
+                ],
+                "target_birth_date": 1377483560,
+                "content": "Dat ass. #VMAgae #gaga http://t.co/fHaEWq8KkB",
+                "mytype": "tweet",
+                "score": 9.352741,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461917233422155777/VP1VmpPS_normal.png",
+                "trackback_permalink": "http://twitter.com/afterellen/status/371819119135313920",
+                "trackback_author_url": "http://twitter.com/afterellen",
+                "highlight": "Dat ass. #VMAgae #gaga",
+                "topsy_author_url": "http://topsy.com/twitter/afterellen",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/afterellen/status/371819119135313920",
+                "trackback_author_name": "AfterEllen.com",
+                "trackback_author_nick": "afterellen"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1384190255,
+                "title": "El \u00faltimo vestido de Lady #Gaga vuela para presentar 'ARTPOP'. Mira el video http://t.co/q2S7vVHgJt",
+                "url": "http://twitter.com/20mmexico/status/399949033986207744",
+                "trackback_date": 1384190255,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/q2S7vVHgJt",
+                        "display_url": "tv.20minutos.com.mx/video/mx_abfnO\u2026",
+                        "expanded_url": "http://tv.20minutos.com.mx/video/mx_abfnOUVZ-lady-gaga-lanza-artpop/0/",
+                        "topsy_expanded_url": "http://tv.20minutos.com.mx/video/mx_abfnOUVZ-lady-gaga-lanza-artpop/0/"
+                    }
+                ],
+                "target_birth_date": 1384190255,
+                "content": "El \u00faltimo vestido de Lady #Gaga vuela para presentar 'ARTPOP'. Mira el video http://t.co/q2S7vVHgJt",
+                "mytype": "tweet",
+                "score": 9.351902,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3603480737/bd39516f0c302b26e41743f5f56cc7cc_normal.png",
+                "trackback_permalink": "http://twitter.com/20mMexico/status/399949033986207744",
+                "trackback_author_url": "http://twitter.com/20mmexico",
+                "highlight": "El \u00faltimo vestido de Lady #Gaga vuela para presentar 'ARTPOP'. Mira el video",
+                "topsy_author_url": "http://topsy.com/twitter/20mmexico",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/20mmexico/status/399949033986207744",
+                "trackback_author_name": "20minutos M\u00e9xico",
+                "trackback_author_nick": "20mmexico"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1336924808,
+                "title": "\uff32\uff25\uff34\uff37\uff25\uff25\uff34 \uff29\uff26 \uff39\uff2f\uff35 \uff26\uff2f\uff2c\uff2c\uff2f\uff37 \uff22\uff21\uff23\uff2b #TeamFollowBack\u2714 #GainFast\u27bdhttp://t.co/oYpNSAoq #BillionDollarArt #Rap #Gaga #500aDay",
+                "url": "http://twitter.com/blogginjoe/status/201703384208781314",
+                "trackback_date": 1336924808,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/oYpNSAoq",
+                        "display_url": "pharopromo.com/billion-dollar\u2026",
+                        "expanded_url": "http://www.pharopromo.com/billion-dollar-painting.html",
+                        "topsy_expanded_url": "http://www.pharopromo.com/billion-dollar-painting.html"
+                    }
+                ],
+                "target_birth_date": 1336924808,
+                "content": "\uff32\uff25\uff34\uff37\uff25\uff25\uff34 \uff29\uff26 \uff39\uff2f\uff35 \uff26\uff2f\uff2c\uff2c\uff2f\uff37 \uff22\uff21\uff23\uff2b #TeamFollowBack\u2714 #GainFast\u27bdhttp://t.co/oYpNSAoq #BillionDollarArt #Rap #Gaga #500aDay",
+                "mytype": "tweet",
+                "score": 9.349068,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000411590543/57cd5fbb54355c81d8aeb345a099ac59_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BlogginJoe/status/201703384208781314",
+                "trackback_author_url": "http://twitter.com/ceomars",
+                "highlight": "\uff32\uff25\uff34\uff37\uff25\uff25\uff34 \uff29\uff26 \uff39\uff2f\uff35 \uff26\uff2f\uff2c\uff2c\uff2f\uff37 \uff22\uff21\uff23\uff2b #TeamFollowBack\u2714 #GainFast\u27bd #BillionDollarArt #Rap #Gaga",
+                "topsy_author_url": "http://topsy.com/twitter/ceomars",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/blogginjoe/status/201703384208781314",
+                "trackback_author_name": "DiMarkco S Chandler",
+                "trackback_author_nick": "ceomars"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1391895937,
+                "title": "#VIDEO - Aqui explic\u00f3 a muchos amigos que me preguntan sobre  #LADY #GAGA y  porqu\u00e9 canto su canci\u00f3n.... http://t.co/fTQe4WbsJK",
+                "url": "http://twitter.com/drapolooficial/status/432269007832748033",
+                "trackback_date": 1391895937,
+                "trackback_total": 19,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/fTQe4WbsJK",
+                        "display_url": "fb.me/3EpFtUl1p",
+                        "expanded_url": "http://fb.me/3EpFtUl1p",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=TpprFRr6ivY"
+                    }
+                ],
+                "target_birth_date": 1391895937,
+                "content": "#VIDEO - Aqui explic\u00f3 a muchos amigos que me preguntan sobre  #LADY #GAGA y  porqu\u00e9 canto su canci\u00f3n.... http://t.co/fTQe4WbsJK",
+                "mytype": "tweet",
+                "score": 9.3481655,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000611641761/b1d12b998c7aba3b1c354e9b124f9f01_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DraPoloOficial/status/432269007832748033",
+                "trackback_author_url": "http://twitter.com/drapolooficial",
+                "highlight": "#VIDEO - Aqui explic\u00f3 a muchos amigos que me preguntan sobre #LADY #GAGA y porqu\u00e9 canto su canci\u00f3n.",
+                "topsy_author_url": "http://topsy.com/twitter/drapolooficial",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/drapolooficial/status/432269007832748033",
+                "trackback_author_name": "Ana Mar\u00eda Polo",
+                "trackback_author_nick": "drapolooficial"
+            },
+            {
+                "hits": 22,
+                "firstpost_date": 1338281271,
+                "title": "We Wink #GAGA http://t.co/leAjoDvd",
+                "url": "http://twitter.com/m1keangelo/status/207392800017354752",
+                "trackback_date": 1338281271,
+                "trackback_total": 40,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/leAjoDvd",
+                        "display_url": "instagr.am/p/LNFLDukBC6/",
+                        "expanded_url": "http://instagr.am/p/LNFLDukBC6/",
+                        "topsy_expanded_url": "http://instagr.am/p/LNFLDukBC6/"
+                    }
+                ],
+                "target_birth_date": 1338281271,
+                "content": "We Wink #GAGA http://t.co/leAjoDvd",
+                "mytype": "tweet",
+                "score": 9.347625,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/420377755696369665/u-cXJ5E1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/M1KEANGELO/status/207392800017354752",
+                "trackback_author_url": "http://twitter.com/m1keangelo",
+                "highlight": "We Wink #GAGA",
+                "topsy_author_url": "http://topsy.com/twitter/m1keangelo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/m1keangelo/status/207392800017354752",
+                "trackback_author_name": "Mike D. Angelo",
+                "trackback_author_nick": "m1keangelo"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1304626582,
+                "title": "Like us on Facebook and get the #Gaga News directly to your wall: http://www.facebook.com/GagaTrueNews \u2716 RT this and we'll list you.",
+                "url": "http://twitter.com/gagatruenews/status/66234802877104128",
+                "trackback_date": 1304626582,
+                "trackback_total": 12,
+                "url_expansions": [],
+                "target_birth_date": 1304626582,
+                "content": "Like us on Facebook and get the #Gaga News directly to your wall: http://www.facebook.com/GagaTrueNews \u2716 RT this and we'll list you.",
+                "mytype": "tweet",
+                "score": 9.346378,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1818369646/gagav_normal.jpg",
+                "trackback_permalink": "http://twitter.com/GagaTrueNews/status/66234802877104128",
+                "trackback_author_url": "http://twitter.com/gagatruenews",
+                "highlight": "Like us on Facebook and get the #Gaga News directly to your wall: \u2716 RT this and we'll list you.",
+                "topsy_author_url": "http://topsy.com/twitter/gagatruenews",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gagatruenews/status/66234802877104128",
+                "trackback_author_name": "Lady Gaga News ",
+                "trackback_author_nick": "gagatruenews"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1383000679,
+                "title": "Tonight on @RadioARTPOP we get a snippet of Mary Jane Holland with special guest @ChrisCrocker tune in at 8pm EST!!! #ARTPOP #Gaga",
+                "url": "http://twitter.com/rodneyrhodes/status/394959590665617408",
+                "trackback_date": 1383000679,
+                "trackback_total": 11,
+                "url_expansions": [],
+                "target_birth_date": 1383000679,
+                "content": "Tonight on @RadioARTPOP we get a snippet of Mary Jane Holland with special guest @ChrisCrocker tune in at 8pm EST!!! #ARTPOP #Gaga",
+                "mytype": "tweet",
+                "score": 9.337171,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472409896080928769/l9BaKxtw_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rodneyrhodes/status/394959590665617408",
+                "trackback_author_url": "http://twitter.com/rodneyrhodes",
+                "highlight": "Tonight on @RadioARTPOP we get a snippet of Mary Jane Holland with special guest @ChrisCrocker tune in at 8pm EST!!! #ARTPOP",
+                "topsy_author_url": "http://topsy.com/twitter/rodneyrhodes",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rodneyrhodes/status/394959590665617408",
+                "trackback_author_name": "\u2020",
+                "trackback_author_nick": "rodneyrhodes"
+            },
+            {
+                "hits": 108,
+                "firstpost_date": 1297651072,
+                "title": "Why #gaga come in that big ass ROACH egg made in china !!",
+                "url": "http://twitter.com/martyflawrence/status/36977394321465344",
+                "trackback_date": 1297651091,
+                "trackback_total": 142,
+                "url_expansions": [],
+                "target_birth_date": 1297651072,
+                "content": "RT @MartyFLawrence: Why #gaga come in that big ass ROACH egg made in china !!",
+                "mytype": "tweet",
+                "score": 9.332005,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467572912191729664/to47FKC9_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MikeZombie/status/36977476043284480",
+                "trackback_author_url": "http://twitter.com/mikezombie",
+                "highlight": "Why #gaga come in that big ass ROACH egg made in china !!",
+                "topsy_author_url": "http://topsy.com/twitter/mikezombie",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/martyflawrence/status/36977394321465344",
+                "trackback_author_name": "Mike Zombie",
+                "trackback_author_nick": "mikezombie"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1339530654,
+                "title": "#Madonna and #Gaga beef: Modonna, you're a damn hypocrite for bashing Gaga's 'Born This Way Ball' - http://t.co/llv79ArN",
+                "url": "http://twitter.com/myspace/status/212633091792044033",
+                "trackback_date": 1339530654,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/llv79ArN",
+                        "display_url": "mysp.ac/KyKUIX",
+                        "expanded_url": "http://mysp.ac/KyKUIX",
+                        "topsy_expanded_url": "http://mysp.ac/KyKUIX"
+                    }
+                ],
+                "target_birth_date": 1339530654,
+                "content": "#Madonna and #Gaga beef: Modonna, you're a damn hypocrite for bashing Gaga's 'Born This Way Ball' - http://t.co/llv79ArN",
+                "mytype": "tweet",
+                "score": 9.329342,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468243952810737664/BaCjRZWs_normal.png",
+                "trackback_permalink": "http://twitter.com/Myspace/status/212633091792044033",
+                "trackback_author_url": "http://twitter.com/myspace",
+                "highlight": "#Madonna and #Gaga beef: Modonna, you're a damn hypocrite for bashing Gaga's 'Born This Way Ball' -",
+                "topsy_author_url": "http://topsy.com/twitter/myspace",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/myspace/status/212633091792044033",
+                "trackback_author_name": "Myspace",
+                "trackback_author_nick": "myspace"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1348314577,
+                "title": "Lady #Gaga s\u2019offre ce soir le Stade de France http://t.co/UfK1dkcJ #LadyGaga #StadedeFrance",
+                "url": "http://twitter.com/le_parisien/status/249475534558486528",
+                "trackback_date": 1348314577,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/UfK1dkcJ",
+                        "display_url": "leparisien.fr/loisirs-et-spe\u2026",
+                        "expanded_url": "http://www.leparisien.fr/loisirs-et-spectacles/lady-gaga-s-offre-le-stade-de-france-22-09-2012-2176305.php",
+                        "topsy_expanded_url": "http://www.leparisien.fr/loisirs-et-spectacles/lady-gaga-s-offre-le-stade-de-france-22-09-2012-2176305.php"
+                    }
+                ],
+                "target_birth_date": 1348314577,
+                "content": "Lady #Gaga s\u2019offre ce soir le Stade de France http://t.co/UfK1dkcJ #LadyGaga #StadedeFrance",
+                "mytype": "tweet",
+                "score": 9.32925,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461434751992074240/4I4uaCxw_normal.png",
+                "trackback_permalink": "http://twitter.com/le_Parisien/status/249475534558486528",
+                "trackback_author_url": "http://twitter.com/le_parisien",
+                "highlight": "Lady #Gaga s\u2019offre ce soir le Stade de France #LadyGaga",
+                "topsy_author_url": "http://topsy.com/twitter/le_parisien",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/le_parisien/status/249475534558486528",
+                "trackback_author_name": "Le Parisien",
+                "trackback_author_nick": "le_parisien"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 210,
+        "hidden": 0,
+        "total": 1157785,
+        "page": 1
+    }
+}

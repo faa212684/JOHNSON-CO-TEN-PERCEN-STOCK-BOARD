@@ -1,0 +1,283 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23lecture&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=850",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#lecture",
+            "window": "a",
+            "type": "tweet",
+            "offset": "850"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 7,
+                "firstpost_date": 1397739143,
+                "title": "[Le Fil du BBF] Le livre \u00e9lectronique et l\u2019open access en d\u00e9bat  http://t.co/ypoVZgvclY #bbf #lecture #ebook #couperin",
+                "url": "http://twitter.com/bbfenssib/status/456777192395898881",
+                "trackback_date": 1397739143,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ypoVZgvclY",
+                        "display_url": "bbf.enssib.fr/le-fil-du-bbf/\u2026",
+                        "expanded_url": "http://bbf.enssib.fr/le-fil-du-bbf/le-livre-electronique-et-l-open-access-en-debat-17-04-2014",
+                        "topsy_expanded_url": "http://bbf.enssib.fr/le-fil-du-bbf/le-livre-electronique-et-l-open-access-en-debat-17-04-2014"
+                    }
+                ],
+                "target_birth_date": 1397739143,
+                "content": "[Le Fil du BBF] Le livre \u00e9lectronique et l\u2019open access en d\u00e9bat  http://t.co/ypoVZgvclY #bbf #lecture #ebook #couperin",
+                "mytype": "tweet",
+                "score": 8.178068,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/454268049273540608/84tBa7L1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BBFenssib/status/456777192395898881",
+                "trackback_author_url": "http://twitter.com/bbfenssib",
+                "highlight": "[Le Fil du BBF] Le livre \u00e9lectronique et l\u2019open access en d\u00e9bat #bbf #lecture #ebook",
+                "topsy_author_url": "http://topsy.com/twitter/bbfenssib",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bbfenssib/status/456777192395898881",
+                "trackback_author_name": "Le BBF en ligne",
+                "trackback_author_nick": "bbfenssib"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1377885573,
+                "title": "Tout chaud, tout beau : le nouveau @icreatefrance !\n#lecture http://t.co/lhITqr1c1I",
+                "url": "http://twitter.com/1scbd/status/373505281244008448",
+                "trackback_date": 1377885573,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/lhITqr1c1I",
+                        "display_url": "pic.twitter.com/lhITqr1c1I",
+                        "expanded_url": "http://twitter.com/1scbd/status/373505281244008448/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BS71EvgIEAANsLp.jpg"
+                    }
+                ],
+                "target_birth_date": 1377885573,
+                "content": "Tout chaud, tout beau : le nouveau @icreatefrance !\n#lecture http://t.co/lhITqr1c1I",
+                "mytype": "tweet",
+                "score": 8.177838,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000455853240/ce431822a9751b89a5011d5bff92fb6a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/1scbd/status/373505281244008448",
+                "trackback_author_url": "http://twitter.com/1scbd",
+                "highlight": "Tout chaud, tout beau : le nouveau @icreatefrance ! #lecture",
+                "topsy_author_url": "http://topsy.com/twitter/1scbd",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/1scbd/status/373505281244008448",
+                "trackback_author_name": "Scrambled",
+                "trackback_author_nick": "1scbd"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1399623476,
+                "title": "#lecture http://t.co/4kiuARdgg5",
+                "url": "http://twitter.com/undessinparjour/status/464680657000857601",
+                "trackback_date": 1399623476,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4kiuARdgg5",
+                        "display_url": "instagram.com/p/nxOKLpGcDo/",
+                        "expanded_url": "http://instagram.com/p/nxOKLpGcDo/",
+                        "topsy_expanded_url": "http://instagram.com/p/nxOKLpGcDo/"
+                    }
+                ],
+                "target_birth_date": 1399623476,
+                "content": "#lecture http://t.co/4kiuARdgg5",
+                "mytype": "tweet",
+                "score": 8.177209,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1421726443/kat_normal.jpg",
+                "trackback_permalink": "http://twitter.com/undessinparjour/status/464680657000857601",
+                "trackback_author_url": "http://twitter.com/undessinparjour",
+                "highlight": "#lecture",
+                "topsy_author_url": "http://topsy.com/twitter/undessinparjour",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/undessinparjour/status/464680657000857601",
+                "trackback_author_name": "CC",
+                "trackback_author_nick": "undessinparjour"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1272455186,
+                "title": "RT @EducationCNW La lecture en cadeau(MD): 30 181 enfants heureux http://bit.ly/b7ztgS #lecture",
+                "url": "http://twitter.com/rire_ctreq/status/13001716905",
+                "trackback_date": 1272455186,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1272455186,
+                "content": "RT @EducationCNW La lecture en cadeau(MD): 30 181 enfants heureux http://bit.ly/b7ztgS #lecture",
+                "mytype": "tweet",
+                "score": 8.177205,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000479412716/23ba37aa348c27c8f857d34576c1ff03_normal.png",
+                "trackback_permalink": "http://twitter.com/RIRE_CTREQ/status/13001716905",
+                "trackback_author_url": "http://twitter.com/rire_ctreq",
+                "highlight": "RT @EducationCNW La lecture en cadeau(MD): 30 181 enfants heureux",
+                "topsy_author_url": "http://topsy.com/twitter/rire_ctreq",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rire_ctreq/status/13001716905",
+                "trackback_author_name": "RIRE_CTREQ",
+                "trackback_author_nick": "rire_ctreq"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1395154698,
+                "title": "Les pr\u00e9conisations du #GLN pour d\u00e9velopper la #lecture #num\u00e9rique http://t.co/zecknFWMIs #livrenum cc @GLNum",
+                "url": "http://twitter.com/actualitte/status/445937240972087297",
+                "trackback_date": 1395154698,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/zecknFWMIs",
+                        "display_url": "actualitte.com/t/DFxFiIx",
+                        "expanded_url": "http://www.actualitte.com/t/DFxFiIx",
+                        "topsy_expanded_url": "http://www.actualitte.com/usages/les-preconisations-du-gln-pour-developper-la-lecture-numerique-48883.htm"
+                    }
+                ],
+                "target_birth_date": 1395154698,
+                "content": "Les pr\u00e9conisations du #GLN pour d\u00e9velopper la #lecture #num\u00e9rique http://t.co/zecknFWMIs #livrenum cc @GLNum",
+                "mytype": "tweet",
+                "score": 8.176381,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1529495439/Sans_titre_normal.png",
+                "trackback_permalink": "http://twitter.com/ActuaLitte/status/445937240972087297",
+                "trackback_author_url": "http://twitter.com/actualitte",
+                "highlight": "Les pr\u00e9conisations du #GLN pour d\u00e9velopper la #lecture #num\u00e9rique #livrenum cc @GLNum",
+                "topsy_author_url": "http://topsy.com/twitter/actualitte",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/actualitte/status/445937240972087297",
+                "trackback_author_name": "ActuaLitt\u00e9",
+                "trackback_author_nick": "actualitte"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1324125358,
+                "title": "\u0427\u0435\u0440\u0435\u0437 5 \u043c\u0438\u043d\u0443\u0442 \u0437\u0430\u0434\u0430\u0451\u043c \u0432\u043e\u043f\u0440\u043e\u0441\u044b \u0434\u0438\u0437\u0430\u0439\u043d\u0435\u0440\u0443 \u0410\u043d\u0434\u0440\u0435\u0439\u044e \u041b\u043e\u0433\u0432\u0438\u043d\u0443 #lecture",
+                "url": "http://twitter.com/tvrain/status/148018596554080256",
+                "trackback_date": 1324125358,
+                "trackback_total": 4,
+                "url_expansions": [],
+                "target_birth_date": 1324125358,
+                "content": "\u0427\u0435\u0440\u0435\u0437 5 \u043c\u0438\u043d\u0443\u0442 \u0437\u0430\u0434\u0430\u0451\u043c \u0432\u043e\u043f\u0440\u043e\u0441\u044b \u0434\u0438\u0437\u0430\u0439\u043d\u0435\u0440\u0443 \u0410\u043d\u0434\u0440\u0435\u0439\u044e \u041b\u043e\u0433\u0432\u0438\u043d\u0443 #lecture",
+                "mytype": "tweet",
+                "score": 8.17492,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/448068739481620480/z5rZhdol_normal.png",
+                "trackback_permalink": "http://twitter.com/tvrain/status/148018596554080256",
+                "trackback_author_url": "http://twitter.com/tvrain",
+                "highlight": "\u0427\u0435\u0440\u0435\u0437 5 \u043c\u0438\u043d\u0443\u0442 \u0437\u0430\u0434\u0430\u0451\u043c \u0432\u043e\u043f\u0440\u043e\u0441\u044b \u0434\u0438\u0437\u0430\u0439\u043d\u0435\u0440\u0443 \u0410\u043d\u0434\u0440\u0435\u0439\u044e \u041b\u043e\u0433\u0432\u0438\u043d\u0443",
+                "topsy_author_url": "http://topsy.com/twitter/tvrain",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tvrain/status/148018596554080256",
+                "trackback_author_name": "\u0422\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b \u0414\u041e\u0416\u0414\u042c",
+                "trackback_author_nick": "tvrain"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1397214989,
+                "title": "Commando de @neiljomunsi en #vendredilecture #lecture http://t.co/twA8c9R8dF",
+                "url": "http://twitter.com/tulisquoi/status/454578730644811776",
+                "trackback_date": 1397214989,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/twA8c9R8dF",
+                        "display_url": "pic.twitter.com/twA8c9R8dF",
+                        "expanded_url": "http://twitter.com/tulisquoi/status/454578730644811776/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bk788mmIUAAYGY2.jpg"
+                    }
+                ],
+                "target_birth_date": 1397214989,
+                "content": "Commando de @neiljomunsi en #vendredilecture #lecture http://t.co/twA8c9R8dF",
+                "mytype": "tweet",
+                "score": 8.174843,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/449879765974269952/vXfzyS_T_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/tulisquoi/status/454578730644811776",
+                "trackback_author_url": "http://twitter.com/tulisquoi",
+                "highlight": "Commando de @neiljomunsi en #vendredilecture #lecture",
+                "topsy_author_url": "http://topsy.com/twitter/tulisquoi",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tulisquoi/status/454578730644811776",
+                "trackback_author_name": "Tulisquoi",
+                "trackback_author_nick": "tulisquoi"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1315119452,
+                "title": "#Business #Management #Lecture in #Finance - Reasons for the Global Financial and Economic recession in 2011 http://t.co/HQyzLAh",
+                "url": "http://twitter.com/biztwt/status/110245090995339264",
+                "trackback_date": 1315119452,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/HQyzLAh",
+                        "display_url": "su.pr/2PNLyU",
+                        "expanded_url": "http://su.pr/2PNLyU",
+                        "topsy_expanded_url": "http://business-fundas.com/2011/global-fiinancial-economic-crisis-in-2011/"
+                    }
+                ],
+                "target_birth_date": 1315119452,
+                "content": "#Business #Management #Lecture in #Finance - Reasons for the Global Financial and Economic recession in 2011 http://t.co/HQyzLAh",
+                "mytype": "tweet",
+                "score": 8.17436,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1237075149/BizFunda_Logo_normal.JPG",
+                "trackback_permalink": "http://twitter.com/BizTwt/status/110245090995339264",
+                "trackback_author_url": "http://twitter.com/biztwt",
+                "highlight": "#Business #Management #Lecture in #Finance - Reasons for the Global Financial and Economic recession in 2011",
+                "topsy_author_url": "http://topsy.com/twitter/biztwt",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/biztwt/status/110245090995339264",
+                "trackback_author_name": "Business Tweets",
+                "trackback_author_nick": "biztwt"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1318182896,
+                "title": "Casser la page http://t.co/yDaMJThW #multim\u00e9dia #lecture",
+                "url": "http://twitter.com/passelaigue/status/123094104245678080",
+                "trackback_date": 1318182896,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/yDaMJThW",
+                        "display_url": "lafeuille.blog.lemonde.fr/2011/10/09/cas\u2026",
+                        "expanded_url": "http://lafeuille.blog.lemonde.fr/2011/10/09/casser-la-page/",
+                        "topsy_expanded_url": "http://lafeuille.blog.lemonde.fr/2011/10/09/casser-la-page/"
+                    }
+                ],
+                "target_birth_date": 1318182896,
+                "content": "Casser la page http://t.co/yDaMJThW #multim\u00e9dia #lecture",
+                "mytype": "tweet",
+                "score": 8.173975,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/215600846/shade-03_normal.jpg",
+                "trackback_permalink": "http://twitter.com/PASSELAIGUE/status/123094104245678080",
+                "trackback_author_url": "http://twitter.com/passelaigue",
+                "highlight": "Casser la page #multim\u00e9dia",
+                "topsy_author_url": "http://topsy.com/twitter/passelaigue",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/passelaigue/status/123094104245678080",
+                "trackback_author_name": "PASSELAIGUE",
+                "trackback_author_nick": "passelaigue"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1288800034,
+                "title": "RT @Education_JS Japanese knives are the best! Wonder why? Find out 11/9: http://ow.ly/339hD #japan #cuisine #lecture",
+                "url": "http://twitter.com/japansociety/status/29584150905",
+                "trackback_date": 1288800034,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1288800034,
+                "content": "RT @Education_JS Japanese knives are the best! Wonder why? Find out 11/9: http://ow.ly/339hD #japan #cuisine #lecture",
+                "mytype": "tweet",
+                "score": 8.173341,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/302604300/JS_Facade_Sternau_normal.JPG",
+                "trackback_permalink": "http://twitter.com/japansociety/status/29584150905",
+                "trackback_author_url": "http://twitter.com/japansociety",
+                "highlight": "RT @Education_JS Japanese knives are the best! Wonder why? Find out 11/9: #japan #cuisine",
+                "topsy_author_url": "http://topsy.com/twitter/japansociety",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/japansociety/status/29584150905",
+                "trackback_author_name": "Japan Society",
+                "trackback_author_nick": "japansociety"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 850,
+        "hidden": 0,
+        "total": 130647,
+        "page": 1
+    }
+}

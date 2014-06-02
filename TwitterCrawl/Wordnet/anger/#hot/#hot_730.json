@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23hot&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=730",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#hot",
+            "window": "a",
+            "type": "tweet",
+            "offset": "730"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1291221050,
+                "title": "Boooa tarde galerinha #HOT! Aqui \u00e9 a @Gabiivaz pra agitar a sua home! UHUUUL ;)",
+                "url": "http://twitter.com/yescolirios/status/10007928257904640",
+                "trackback_date": 1291221050,
+                "trackback_total": 14,
+                "url_expansions": [],
+                "target_birth_date": 1291221050,
+                "content": "Boooa tarde galerinha #HOT! Aqui \u00e9 a @Gabiivaz pra agitar a sua home! UHUUUL ;)",
+                "mytype": "tweet",
+                "score": 9.263145,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1750271071/8_normal.jpg",
+                "trackback_permalink": "http://twitter.com/YesColirios/status/10007928257904640",
+                "trackback_author_url": "http://twitter.com/yescolirios",
+                "highlight": "Boooa tarde galerinha #HOT! Aqui \u00e9 a @Gabiivaz pra agitar a sua home! UHUUUL ;)",
+                "topsy_author_url": "http://topsy.com/twitter/yescolirios",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/yescolirios/status/10007928257904640",
+                "trackback_author_name": "Yes  Col\u00edrios",
+                "trackback_author_nick": "yescolirios"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1400506455,
+                "title": "#HOT Lea Michele estreia videoclipe de \"On My Way\". http://t.co/XnUaLAMcFh",
+                "url": "http://twitter.com/popline/status/468384137473449984",
+                "trackback_date": 1400506455,
+                "trackback_total": 43,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XnUaLAMcFh",
+                        "display_url": "ow.ly/x0qQt",
+                        "expanded_url": "http://ow.ly/x0qQt",
+                        "topsy_expanded_url": "http://portalpopline.com.br/lea-michele-estreia-videoclipe-de-on-my-way/"
+                    }
+                ],
+                "target_birth_date": 1400506455,
+                "content": "#HOT Lea Michele estreia videoclipe de \"On My Way\". http://t.co/XnUaLAMcFh",
+                "mytype": "tweet",
+                "score": 9.263024,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471775453879869440/nRmPMtVP_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/POPline/status/468384137473449984",
+                "trackback_author_url": "http://twitter.com/popline",
+                "highlight": "#HOT Lea Michele estreia videoclipe de \"On My Way\".",
+                "topsy_author_url": "http://topsy.com/twitter/popline",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/popline/status/468384137473449984",
+                "trackback_author_name": "PortalPOPline.com.br",
+                "trackback_author_nick": "popline"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1344755065,
+                "title": "Eu e @LelaGomes estamos presenciando a pegada mais forte das ultimas horas! #hot",
+                "url": "http://twitter.com/hugogloss/status/234545859549855744",
+                "trackback_date": 1344755065,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1344755065,
+                "content": "Eu e @LelaGomes estamos presenciando a pegada mais forte das ultimas horas! #hot",
+                "mytype": "tweet",
+                "score": 9.262417,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2591035594/HugoGloss_normal.jpg",
+                "trackback_permalink": "http://twitter.com/HugoGloss/status/234545859549855744",
+                "trackback_author_url": "http://twitter.com/hugogloss",
+                "highlight": "Eu e @LelaGomes estamos presenciando a pegada mais forte das ultimas horas!",
+                "topsy_author_url": "http://topsy.com/twitter/hugogloss",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hugogloss/status/234545859549855744",
+                "trackback_author_name": "Hugo Gloss",
+                "trackback_author_nick": "hugogloss"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1350526479,
+                "title": "El guap\u00edsimo Mauricio Henao #Hot  http://t.co/sitpahpi",
+                "url": "http://twitter.com/eonlinelatino/status/258752924946149377",
+                "trackback_date": 1350526479,
+                "trackback_total": 56,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/sitpahpi",
+                        "display_url": "instagr.am/p/Q6BAEmiq2h/",
+                        "expanded_url": "http://instagr.am/p/Q6BAEmiq2h/",
+                        "topsy_expanded_url": "http://instagram.com/p/Q6BAEmiq2h/"
+                    }
+                ],
+                "target_birth_date": 1350526479,
+                "content": "El guap\u00edsimo Mauricio Henao #Hot  http://t.co/sitpahpi",
+                "mytype": "tweet",
+                "score": 9.26199,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2563553150/kj2ak6fmczzfhdx0gcei_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/EonlineLatino/status/258752924946149377",
+                "trackback_author_url": "http://twitter.com/eonlinelatino",
+                "highlight": "El guap\u00edsimo Mauricio Henao #Hot",
+                "topsy_author_url": "http://topsy.com/twitter/eonlinelatino",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/eonlinelatino/status/258752924946149377",
+                "trackback_author_name": "E! Latin America",
+                "trackback_author_nick": "eonlinelatino"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1339458902,
+                "title": "Las #HOT cheerleaders de los Miami Dolphins te presentan su l\u00ednea de bikinis mientras cantan \"Call Me Maybe\" &gt;&gt;&gt; http://t.co/o2vF95ae",
+                "url": "http://twitter.com/evenpro/status/212332144268288000",
+                "trackback_date": 1339458902,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/o2vF95ae",
+                        "display_url": "ow.ly/bvGv8",
+                        "expanded_url": "http://ow.ly/bvGv8",
+                        "topsy_expanded_url": "http://ow.ly/bvGv8"
+                    }
+                ],
+                "target_birth_date": 1339458902,
+                "content": "Las #HOT cheerleaders de los Miami Dolphins te presentan su l\u00ednea de bikinis mientras cantan \"Call Me Maybe\" &gt;&gt;&gt; http://t.co/o2vF95ae",
+                "mytype": "tweet",
+                "score": 9.261706,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462236680242483200/zTMQ1V71_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Evenpro/status/212332144268288000",
+                "trackback_author_url": "http://twitter.com/evenpro",
+                "highlight": "Las #HOT cheerleaders de los Miami Dolphins te presentan su l\u00ednea de bikinis mientras cantan \"Call Me Maybe\" &gt;&gt;&gt;",
+                "topsy_author_url": "http://topsy.com/twitter/evenpro",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/evenpro/status/212332144268288000",
+                "trackback_author_name": "Evenpro ",
+                "trackback_author_nick": "evenpro"
+            },
+            {
+                "hits": 42,
+                "firstpost_date": 1399676217,
+                "title": "The story of an investment banker, his golddigger Indian girlfriend &amp; four well-dressed people #hot #themindyproject http://t.co/ubnlc5VSyi",
+                "url": "http://twitter.com/mindykaling/status/464901867856617473",
+                "trackback_date": 1399676217,
+                "trackback_total": 891,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ubnlc5VSyi",
+                        "display_url": "pic.twitter.com/ubnlc5VSyi",
+                        "expanded_url": "http://twitter.com/mindykaling/status/464901867856617473/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BnOpyJmIgAAh2Ro.jpg"
+                    }
+                ],
+                "target_birth_date": 1399676217,
+                "content": "The story of an investment banker, his golddigger Indian girlfriend &amp; four well-dressed people #hot #themindyproject http://t.co/ubnlc5VSyi",
+                "mytype": "tweet",
+                "score": 9.261349,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/435326950811242498/ty1-eCWN_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mindykaling/status/464901867856617473",
+                "trackback_author_url": "http://twitter.com/mindykaling",
+                "highlight": "The story of an investment banker, his golddigger Indian girlfriend &amp; four well-dressed people #hot #themindyproject",
+                "topsy_author_url": "http://topsy.com/twitter/mindykaling",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mindykaling/status/464901867856617473",
+                "trackback_author_name": "Mindy Kaling ",
+                "trackback_author_nick": "mindykaling"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1318604846,
+                "title": "#Hot http://t.co/SLsvrMFT #CapitalAppeal",
+                "url": "http://twitter.com/capitalofficial/status/124863891418255360",
+                "trackback_date": 1318604846,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/SLsvrMFT",
+                        "display_url": "capitalfm.com/charity/news-p\u2026",
+                        "expanded_url": "http://www.capitalfm.com/charity/news-photos/2011-appeal/",
+                        "topsy_expanded_url": "http://www.capitalfm.com/charity/news-photos/2011-appeal/"
+                    }
+                ],
+                "target_birth_date": 1318604846,
+                "content": "#Hot http://t.co/SLsvrMFT #CapitalAppeal",
+                "mytype": "tweet",
+                "score": 9.259942,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458929598156132352/dtJdSHhZ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CapitalOfficial/status/124863891418255360",
+                "trackback_author_url": "http://twitter.com/capitalofficial",
+                "highlight": "#Hot",
+                "topsy_author_url": "http://topsy.com/twitter/capitalofficial",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/capitalofficial/status/124863891418255360",
+                "trackback_author_name": "Capital FM",
+                "trackback_author_nick": "capitalofficial"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1349920972,
+                "title": "@JRemyOFM actually the reason I come is to stole the biggest hit in the studio,cookies are just an excuse @JaySean watch out it's #Hot!",
+                "url": "http://twitter.com/inna_ro/status/256213244929249282",
+                "trackback_date": 1349920972,
+                "trackback_total": 12,
+                "url_expansions": [],
+                "target_birth_date": 1349920972,
+                "content": "@JRemyOFM actually the reason I come is to stole the biggest hit in the studio,cookies are just an excuse @JaySean watch out it's #Hot!",
+                "mytype": "tweet",
+                "score": 9.259765,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458955773578473472/3WeMGtej_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/inna_ro/status/256213244929249282",
+                "trackback_author_url": "http://twitter.com/inna_ro",
+                "highlight": " actually the reason I come is to stole the biggest hit in the studio,cookies are just an excuse @JaySean watch out it's #Hot!",
+                "topsy_author_url": "http://topsy.com/twitter/inna_ro",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/inna_ro/status/256213244929249282",
+                "trackback_author_name": "INNA",
+                "trackback_author_nick": "inna_ro"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1344651859,
+                "title": "Si vas para la playa cuidado con el sol #hot #uf #quemal http://t.co/et06zdUx",
+                "url": "http://twitter.com/rockythekid/status/234112982475472897",
+                "trackback_date": 1344651859,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/et06zdUx",
+                        "expanded_url": "http://twitter.com/RockyTheKid/status/234112982475472897/photo/1",
+                        "display_url": "pic.twitter.com/et06zdUx"
+                    }
+                ],
+                "target_birth_date": 1344651859,
+                "content": "Si vas para la playa cuidado con el sol #hot #uf #quemal http://t.co/et06zdUx",
+                "mytype": "tweet",
+                "score": 9.259732,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464542444475129856/UpiGStD1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RockyTheKid/status/234112982475472897",
+                "trackback_author_url": "http://twitter.com/eldespelotepr",
+                "highlight": "Si vas para la playa cuidado con el sol #hot #uf #quemal",
+                "topsy_author_url": "http://topsy.com/twitter/eldespelotepr",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rockythekid/status/234112982475472897",
+                "trackback_author_name": "#ElDespelote",
+                "trackback_author_nick": "eldespelotepr"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1318331404,
+                "title": "If you joined us with @rihanna in Glasgow last night check out the pictures here: #hot!  http://t.co/KXXzF2kx",
+                "url": "http://twitter.com/capitalofficial/status/123716994464874496",
+                "trackback_date": 1318331404,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/KXXzF2kx",
+                        "display_url": "ht.ly/6TxTK",
+                        "expanded_url": "http://ht.ly/6TxTK",
+                        "topsy_expanded_url": "http://www.capitalfm.com/artists/rihanna/photos/loud-tour/"
+                    }
+                ],
+                "target_birth_date": 1318331404,
+                "content": "If you joined us with @rihanna in Glasgow last night check out the pictures here: #hot!  http://t.co/KXXzF2kx",
+                "mytype": "tweet",
+                "score": 9.259596,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458929598156132352/dtJdSHhZ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CapitalOfficial/status/123716994464874496",
+                "trackback_author_url": "http://twitter.com/capitalofficial",
+                "highlight": "If you joined us with @rihanna in Glasgow last night check out the pictures here: #hot!",
+                "topsy_author_url": "http://topsy.com/twitter/capitalofficial",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/capitalofficial/status/123716994464874496",
+                "trackback_author_name": "Capital FM",
+                "trackback_author_nick": "capitalofficial"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 730,
+        "hidden": 0,
+        "total": 10190555,
+        "page": 1
+    }
+}

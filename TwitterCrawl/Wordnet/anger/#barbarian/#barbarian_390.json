@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23barbarian&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=390",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#barbarian",
+            "window": "a",
+            "type": "tweet",
+            "offset": "390"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1356589924,
+                "title": "#Barbarian http://t.co/7RtEKN8Z Joe the Barbarian",
+                "url": "http://twitter.com/martexpressnet/status/284184856815087619",
+                "trackback_date": 1356589924,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7RtEKN8Z",
+                        "display_url": "martexpress.net/book/b009pohj4\u2026",
+                        "expanded_url": "http://www.martexpress.net/book/b009pohj4w-joe-the-barbarian.html",
+                        "topsy_expanded_url": "http://www.martexpress.net/book/b009pohj4w-joe-the-barbarian.html"
+                    }
+                ],
+                "target_birth_date": 1356589924,
+                "content": "#Barbarian http://t.co/7RtEKN8Z Joe the Barbarian",
+                "mytype": "tweet",
+                "score": 8.11108,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1537119681/me_normal.png",
+                "trackback_permalink": "http://twitter.com/martexpressnet/status/284184856815087619",
+                "trackback_author_url": "http://twitter.com/martexpressnet",
+                "highlight": "#Barbarian Joe the Barbarian",
+                "topsy_author_url": "http://topsy.com/twitter/martexpressnet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/martexpressnet/status/284184856815087619",
+                "trackback_author_name": "martexpress",
+                "trackback_author_nick": "martexpressnet"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1311111360,
+                "title": "...just like the dope game 10 years back... #Barbarian",
+                "url": "http://twitter.com/82fresh/status/93433933953372160",
+                "trackback_date": 1311111360,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1311111360,
+                "content": "...just like the dope game 10 years back... #Barbarian",
+                "mytype": "tweet",
+                "score": 8.110812,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000787655504/7232b75280932b710f554b8bce2e449e_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/82Fresh/status/93433933953372160",
+                "trackback_author_url": "http://twitter.com/82fresh",
+                "highlight": "...just like the dope game 10 years back",
+                "topsy_author_url": "http://topsy.com/twitter/82fresh",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/82fresh/status/93433933953372160",
+                "trackback_author_name": "82Fresh",
+                "trackback_author_nick": "82fresh"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1285879171,
+                "title": "RT @jotheBARbarian: It you fuck wit me at all RT this...DL The #BARbarian tomorrow @ weareflyhigh.com and ... http://tmi.me/1R6UV",
+                "url": "http://twitter.com/birdie_lz/status/26012958393",
+                "trackback_date": 1285879171,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1285879171,
+                "content": "RT @jotheBARbarian: It you fuck wit me at all RT this...DL The #BARbarian tomorrow @ weareflyhigh.com and ... http://tmi.me/1R6UV",
+                "mytype": "tweet",
+                "score": 8.110536,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3515446202/27dc9532ca6a76546c1a16a881579ab6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BiRdie_LZ/status/26012958393",
+                "trackback_author_url": "http://twitter.com/birdie_lz",
+                "highlight": "It you fuck wit me at all RT this...DL The #BARbarian tomorrow @ weareflyhigh.com and ",
+                "topsy_author_url": "http://topsy.com/twitter/birdie_lz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/birdie_lz/status/26012958393",
+                "trackback_author_name": "BiRdie LZ",
+                "trackback_author_nick": "birdie_lz"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1311377093,
+                "title": "Time flies when you're lifting weights like a #barbarian.",
+                "url": "http://twitter.com/hasalynharris/status/94548497147236353",
+                "trackback_date": 1311377093,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1311377093,
+                "content": "Time flies when you're lifting weights like a #barbarian.",
+                "mytype": "tweet",
+                "score": 8.110409,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/470019801440862208/gNYTYnFk_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/hasalynharris/status/94548497147236353",
+                "trackback_author_url": "http://twitter.com/hasalynmodine",
+                "highlight": "Time flies when you're lifting weights like a #barbarian.",
+                "topsy_author_url": "http://topsy.com/twitter/hasalynmodine",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hasalynharris/status/94548497147236353",
+                "trackback_author_name": "Hasalyn Modine",
+                "trackback_author_nick": "hasalynmodine"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1331607829,
+                "title": "Wavves! #barbarian  @ Mohawk http://t.co/9Vny2HtA",
+                "url": "http://twitter.com/atmasphere/status/179402354351816704",
+                "trackback_date": 1331607829,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9Vny2HtA",
+                        "display_url": "instagr.am/p/IGMmFICHou/",
+                        "expanded_url": "http://instagr.am/p/IGMmFICHou/",
+                        "topsy_expanded_url": "http://instagr.am/p/IGMmFICHou/"
+                    }
+                ],
+                "target_birth_date": 1331607829,
+                "content": "Wavves! #barbarian  @ Mohawk http://t.co/9Vny2HtA",
+                "mytype": "tweet",
+                "score": 8.110217,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3177474280/7ad24c945caf31ebe312677e358c1125_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/atmasphere/status/179402354351816704",
+                "trackback_author_url": "http://twitter.com/atmasphere",
+                "highlight": "Wavves! #barbarian @ Mohawk",
+                "topsy_author_url": "http://topsy.com/twitter/atmasphere",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/atmasphere/status/179402354351816704",
+                "trackback_author_name": "Jonathan Greene",
+                "trackback_author_nick": "atmasphere"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1319187530,
+                "title": "WORLD PREMIERE! @SezBatters - '#BARbarian' music video http://t.co/RRZIV8kw  @DetoozFilms  s/o to @ayelogics @MicPhenom @XtotheV",
+                "url": "http://twitter.com/gfunkology/status/127307847624171520",
+                "trackback_date": 1319187530,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RRZIV8kw",
+                        "display_url": "youtu.be/sOe3RJDl-Fk?hd\u2026",
+                        "expanded_url": "http://youtu.be/sOe3RJDl-Fk?hd=1",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=sOe3RJDl-Fk"
+                    }
+                ],
+                "target_birth_date": 1319187530,
+                "content": "WORLD PREMIERE! @SezBatters - '#BARbarian' music video http://t.co/RRZIV8kw  @DetoozFilms  s/o to @ayelogics @MicPhenom @XtotheV",
+                "mytype": "tweet",
+                "score": 8.109983,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/430641117332135936/yqONrGtn_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Gfunkology/status/127307847624171520",
+                "trackback_author_url": "http://twitter.com/harry_clean",
+                "highlight": "WORLD PREMIERE! @SezBatters - '#BARbarian' music video @DetoozFilms s/o to @ayelogics @MicPhenom @XtotheV",
+                "topsy_author_url": "http://topsy.com/twitter/harry_clean",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gfunkology/status/127307847624171520",
+                "trackback_author_name": "u\u0250\u01ddl\u0254 \u028e\u0279\u0279\u0250\u0265",
+                "trackback_author_nick": "harry_clean"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1299898902,
+                "title": "Conan the Barbarian Teaser Trailer http://bit.ly/h7MBSJ #conan #barbarian",
+                "url": "http://twitter.com/philipclark/status/46405475192934401",
+                "trackback_date": 1299898902,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1299898902,
+                "content": "Conan the Barbarian Teaser Trailer http://bit.ly/h7MBSJ #conan #barbarian",
+                "mytype": "tweet",
+                "score": 8.109372,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3636369226/eb35c59e26aae3fe42c3cf8fdadb0898_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PhilipClark/status/46405475192934401",
+                "trackback_author_url": "http://twitter.com/philipclark",
+                "highlight": "Conan the Barbarian Teaser Trailer #conan",
+                "topsy_author_url": "http://topsy.com/twitter/philipclark",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/philipclark/status/46405475192934401",
+                "trackback_author_name": "PhilipClark",
+                "trackback_author_nick": "philipclark"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1383272290,
+                "title": "Dressed up for a 3 dollar chipotle burrito. Yesss. #barbarian http://t.co/ubXN3ye80g",
+                "url": "http://twitter.com/rugged_rad/status/396098812739330048",
+                "trackback_date": 1383272290,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ubXN3ye80g",
+                        "display_url": "instagram.com/p/gJ6oiqnYyp/",
+                        "expanded_url": "http://instagram.com/p/gJ6oiqnYyp/",
+                        "topsy_expanded_url": "http://instagram.com/p/gJ6oiqnYyp/"
+                    }
+                ],
+                "target_birth_date": 1383272290,
+                "content": "Dressed up for a 3 dollar chipotle burrito. Yesss. #barbarian http://t.co/ubXN3ye80g",
+                "mytype": "tweet",
+                "score": 8.108788,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462643632915222528/FJe6CSfy_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Rugged_Rad/status/396098812739330048",
+                "trackback_author_url": "http://twitter.com/rugged_rad",
+                "highlight": "Dressed up for a 3 dollar chipotle burrito. Yesss. #barbarian",
+                "topsy_author_url": "http://topsy.com/twitter/rugged_rad",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rugged_rad/status/396098812739330048",
+                "trackback_author_name": "DICK",
+                "trackback_author_nick": "rugged_rad"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1352906767,
+                "title": "#Barbarian http://t.co/r99V69u7 Brak the Barbarian * Mark of the Demons",
+                "url": "http://twitter.com/martexpressnet/status/268736575557484544",
+                "trackback_date": 1352906767,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/r99V69u7",
+                        "display_url": "martexpress.net/book/brak-the-\u2026",
+                        "expanded_url": "http://www.martexpress.net/book/brak-the-barbarian-mark-of-the-demons.html",
+                        "topsy_expanded_url": "http://www.martexpress.net/book/brak-the-barbarian-mark-of-the-demons.html"
+                    }
+                ],
+                "target_birth_date": 1352906767,
+                "content": "#Barbarian http://t.co/r99V69u7 Brak the Barbarian * Mark of the Demons",
+                "mytype": "tweet",
+                "score": 8.108335,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1537119681/me_normal.png",
+                "trackback_permalink": "http://twitter.com/martexpressnet/status/268736575557484544",
+                "trackback_author_url": "http://twitter.com/martexpressnet",
+                "highlight": "#Barbarian Brak the Barbarian * Mark of the Demons",
+                "topsy_author_url": "http://topsy.com/twitter/martexpressnet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/martexpressnet/status/268736575557484544",
+                "trackback_author_name": "martexpress",
+                "trackback_author_nick": "martexpressnet"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1381456218,
+                "title": "Photo: \ud83c\udf57#Barbarian\ud83c\udf57 http://t.co/2w6RtBds0d",
+                "url": "http://twitter.com/emohotti/status/388481651808153600",
+                "trackback_date": 1381456218,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2w6RtBds0d",
+                        "display_url": "tmblr.co/Z4OJ3yxKYmdV",
+                        "expanded_url": "http://tmblr.co/Z4OJ3yxKYmdV",
+                        "topsy_expanded_url": "http://emohotti.tumblr.com/post/63695423967/barbarian"
+                    }
+                ],
+                "target_birth_date": 1381456218,
+                "content": "Photo: \ud83c\udf57#Barbarian\ud83c\udf57 http://t.co/2w6RtBds0d",
+                "mytype": "tweet",
+                "score": 8.1075535,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461320122343636993/j0ZRUaFk_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/EmoHotti/status/388481651808153600",
+                "trackback_author_url": "http://twitter.com/emohotti",
+                "highlight": "Photo: \ud83c\udf57#Barbarian\ud83c\udf57",
+                "topsy_author_url": "http://topsy.com/twitter/emohotti",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/emohotti/status/388481651808153600",
+                "trackback_author_name": "Jill",
+                "trackback_author_nick": "emohotti"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 390,
+        "hidden": 0,
+        "total": 13438,
+        "page": 1
+    }
+}

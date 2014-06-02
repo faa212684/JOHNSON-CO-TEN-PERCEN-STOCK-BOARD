@@ -1,0 +1,287 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23gaga&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=750",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#gaga",
+            "window": "a",
+            "type": "tweet",
+            "offset": "750"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1305855003,
+                "title": "...and you think the next new #Gaga track will be...?",
+                "url": "http://twitter.com/961kiss/status/71387173454217217",
+                "trackback_date": 1305855003,
+                "trackback_total": 25,
+                "url_expansions": [],
+                "target_birth_date": 1305855003,
+                "content": "...and you think the next new #Gaga track will be...?",
+                "mytype": "tweet",
+                "score": 8.825401,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2944243742/141f6c659ba70f3dd7e0eb48df6ff082_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/961KISS/status/71387173454217217",
+                "trackback_author_url": "http://twitter.com/961kiss",
+                "highlight": "...and you think the next new #Gaga track will be...?",
+                "topsy_author_url": "http://topsy.com/twitter/961kiss",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/961kiss/status/71387173454217217",
+                "trackback_author_name": "961 KISS",
+                "trackback_author_nick": "961kiss"
+            },
+            {
+                "hits": 44,
+                "firstpost_date": 1384664333,
+                "title": "#ladygaga covering #madonna #gaga #snl #bornthisway https://t.co/aQpDcXejUG",
+                "url": "http://twitter.com/nicagboi21/status/401937464967036928",
+                "trackback_date": 1384664358,
+                "trackback_total": 50,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/aQpDcXejUG",
+                        "display_url": "vine.co/v/htXHKXjl3QH",
+                        "expanded_url": "https://vine.co/v/htXHKXjl3QH",
+                        "topsy_expanded_url": "https://vine.co/v/htXHKXjl3QH"
+                    }
+                ],
+                "target_birth_date": 1384664333,
+                "content": "RT @Nicagboi21: #ladygaga covering #madonna #gaga #snl #bornthisway https://t.co/aQpDcXejUG",
+                "mytype": "tweet",
+                "score": 8.8249445,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471687210148704256/2EVjKkWO_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/xTeddyNOIRx/status/401937569430007808",
+                "trackback_author_url": "http://twitter.com/xteddynoirx",
+                "highlight": "#ladygaga covering #madonna #gaga #snl #bornthisway",
+                "topsy_author_url": "http://topsy.com/twitter/xteddynoirx",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nicagboi21/status/401937464967036928",
+                "trackback_author_name": "\u2728 Teddy G. \u26a1\ufe0f",
+                "trackback_author_nick": "xteddynoirx"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1310027459,
+                "title": "\u3057\u3083\u3076\u3057\u3083\u3076\u5c4b\u304b\u3089\u51fa\u3066\u304d\u305f\u30ec\u30c7\u30a3\u30fc\u30fb\u30ac\u30ac in \u516d\u672c\u6728 http://mdpr.jp/011144368 #Ladygaga #gaga #lady",
+                "url": "http://twitter.com/modelpress/status/88887724605575169",
+                "trackback_date": 1310027459,
+                "trackback_total": 11,
+                "url_expansions": [],
+                "target_birth_date": 1310027459,
+                "content": "\u3057\u3083\u3076\u3057\u3083\u3076\u5c4b\u304b\u3089\u51fa\u3066\u304d\u305f\u30ec\u30c7\u30a3\u30fc\u30fb\u30ac\u30ac in \u516d\u672c\u6728 http://mdpr.jp/011144368 #Ladygaga #gaga #lady",
+                "mytype": "tweet",
+                "score": 8.824458,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000408336681/d2c462324fb542da3aa9573f4afa3012_normal.png",
+                "trackback_permalink": "http://twitter.com/modelpress/status/88887724605575169",
+                "trackback_author_url": "http://twitter.com/modelpress",
+                "highlight": "\u3057\u3083\u3076\u3057\u3083\u3076\u5c4b\u304b\u3089\u51fa\u3066\u304d\u305f\u30ec\u30c7\u30a3\u30fc\u30fb\u30ac\u30ac in \u516d\u672c\u6728 #Ladygaga #gaga",
+                "topsy_author_url": "http://topsy.com/twitter/modelpress",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/modelpress/status/88887724605575169",
+                "trackback_author_name": "\u30e2\u30c7\u30eb\u30d7\u30ec\u30b9",
+                "trackback_author_nick": "modelpress"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1387735616,
+                "title": "Yay Gaga and Kermit duet!! Perfect! Muppets Holiday Special #muppets #gaga http://t.co/6b01ZfrLpC",
+                "url": "http://twitter.com/lisa_eldridge/status/414819358909939712",
+                "trackback_date": 1387735616,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/6b01ZfrLpC",
+                        "display_url": "instagram.com/p/iO73mkhIqX/",
+                        "expanded_url": "http://instagram.com/p/iO73mkhIqX/",
+                        "topsy_expanded_url": "http://instagram.com/p/iO73mkhIqX/"
+                    }
+                ],
+                "target_birth_date": 1387735616,
+                "content": "Yay Gaga and Kermit duet!! Perfect! Muppets Holiday Special #muppets #gaga http://t.co/6b01ZfrLpC",
+                "mytype": "tweet",
+                "score": 8.823609,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2403937680/thnqikrq5ygmvf6xz4x0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Lisa_Eldridge/status/414819358909939712",
+                "trackback_author_url": "http://twitter.com/lisa_eldridge",
+                "highlight": "Yay Gaga and Kermit duet!! Perfect! Muppets Holiday Special #muppets #gaga",
+                "topsy_author_url": "http://topsy.com/twitter/lisa_eldridge",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lisa_eldridge/status/414819358909939712",
+                "trackback_author_name": "Lisa Eldridge",
+                "trackback_author_nick": "lisa_eldridge"
+            },
+            {
+                "hits": 15,
+                "firstpost_date": 1368195003,
+                "title": "\u201c@TheRealDaphne: Isabella Blow http://t.co/uqjlHjCQ9t via @TeleFashion\u201d before #Gaga was Isabella. She was glorious. http://t.co/IiqvlsxQ7N",
+                "url": "http://twitter.com/piperperabo/status/332860086638768128",
+                "trackback_date": 1368195003,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/uqjlHjCQ9t",
+                        "display_url": "fashion.telegraph.co.uk/columns/olivia\u2026",
+                        "expanded_url": "http://fashion.telegraph.co.uk/columns/olivia-bergin/TMG10043241/Isabella-Blows-eclectic-wardrobe-to-go-on-display.html",
+                        "topsy_expanded_url": "http://fashion.telegraph.co.uk/columns/olivia-bergin/TMG10043241/Isabella-Blows-eclectic-wardrobe-to-go-on-display.html"
+                    },
+                    {
+                        "url": "http://t.co/IiqvlsxQ7N",
+                        "display_url": "pic.twitter.com/IiqvlsxQ7N",
+                        "expanded_url": "http://twitter.com/PiperPerabo/status/332860086638768128/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BJ6OfDhCcAARphF.jpg"
+                    }
+                ],
+                "target_birth_date": 1368195003,
+                "content": "\u201c@TheRealDaphne: Isabella Blow http://t.co/uqjlHjCQ9t via @TeleFashion\u201d before #Gaga was Isabella. She was glorious. http://t.co/IiqvlsxQ7N",
+                "mytype": "tweet",
+                "score": 8.823269,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3722670412/2074074ae5d0624b11735af884d5c6bc_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PiperPerabo/status/332860086638768128",
+                "trackback_author_url": "http://twitter.com/piperperabo",
+                "highlight": "\u201c@TheRealDaphne: Isabella Blow via @TeleFashion\u201d before #Gaga was Isabella. She was glorious.",
+                "topsy_author_url": "http://topsy.com/twitter/piperperabo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/piperperabo/status/332860086638768128",
+                "trackback_author_name": "Piper Perabo",
+                "trackback_author_nick": "piperperabo"
+            },
+            {
+                "hits": 39,
+                "firstpost_date": 1356017904,
+                "title": "Was SPD-Pressestellen so alles verschicken. #Gaga #SPD http://t.co/UZJ1bbpu",
+                "url": "http://twitter.com/robertrossmann/status/281785630009212928",
+                "trackback_date": 1356017904,
+                "trackback_total": 46,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/UZJ1bbpu",
+                        "expanded_url": "http://twitter.com/RobertRossmann/status/281785630009212928/photo/1",
+                        "display_url": "pic.twitter.com/UZJ1bbpu"
+                    }
+                ],
+                "target_birth_date": 1356017904,
+                "content": "Was SPD-Pressestellen so alles verschicken. #Gaga #SPD http://t.co/UZJ1bbpu",
+                "mytype": "tweet",
+                "score": 8.823146,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1610839352/RoR_normal.jpg",
+                "trackback_permalink": "http://twitter.com/RobertRossmann/status/281785630009212928",
+                "trackback_author_url": "http://twitter.com/robertrossmann",
+                "highlight": "Was SPD-Pressestellen so alles verschicken. #Gaga #SPD",
+                "topsy_author_url": "http://topsy.com/twitter/robertrossmann",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/robertrossmann/status/281785630009212928",
+                "trackback_author_name": "Robert Ro\u00dfmann",
+                "trackback_author_nick": "robertrossmann"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1383890456,
+                "title": "Adam Lambert Goes #Gaga on #Glee; Reminds Us Why He's a True American Idol http://t.co/CsnrfnPpYq http://t.co/mu6dOdk8N7",
+                "url": "http://twitter.com/aoltv/status/398691587804647424",
+                "trackback_date": 1383890456,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/CsnrfnPpYq",
+                        "display_url": "aol.it/17HQOrf",
+                        "expanded_url": "http://aol.it/17HQOrf",
+                        "topsy_expanded_url": "http://tv.aol.com/2013/11/07/adam-lambert-goes-gaga-on-glee?ncid=tweetlnkusaolt00000001&ts=1383879790"
+                    },
+                    {
+                        "url": "http://t.co/mu6dOdk8N7",
+                        "display_url": "ow.ly/i/3F1Mv",
+                        "expanded_url": "http://ow.ly/i/3F1Mv",
+                        "topsy_expanded_url": "http://ow.ly/i/3F1Mv"
+                    }
+                ],
+                "target_birth_date": 1383890456,
+                "content": "Adam Lambert Goes #Gaga on #Glee; Reminds Us Why He's a True American Idol http://t.co/CsnrfnPpYq http://t.co/mu6dOdk8N7",
+                "mytype": "tweet",
+                "score": 8.82267,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000424617347/4a0b97eb5976a567712d7f88e87260f6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AolTV/status/398691587804647424",
+                "trackback_author_url": "http://twitter.com/aoltv",
+                "highlight": "Adam Lambert Goes #Gaga on #Glee; Reminds Us Why He's a True American Idol",
+                "topsy_author_url": "http://topsy.com/twitter/aoltv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/aoltv/status/398691587804647424",
+                "trackback_author_name": "AOL TV",
+                "trackback_author_nick": "aoltv"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1349788511,
+                "title": "Lady #Gaga paid a visit to #WikiLeaks founder Julian Assange. http://t.co/wnUapZQZ",
+                "url": "http://twitter.com/globalpost/status/255657662589583360",
+                "trackback_date": 1349788511,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/wnUapZQZ",
+                        "display_url": "glpo.st/RN1Hgt",
+                        "expanded_url": "http://glpo.st/RN1Hgt",
+                        "topsy_expanded_url": "http://www.globalpost.com/dispatches/globalpost-blogs/hollyworld/lady-gaga-visits-julian-assange-ecuadorian-embassy"
+                    }
+                ],
+                "target_birth_date": 1349788511,
+                "content": "Lady #Gaga paid a visit to #WikiLeaks founder Julian Assange. http://t.co/wnUapZQZ",
+                "mytype": "tweet",
+                "score": 8.822567,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1619375488/GP_Logo_Final_normal.jpg",
+                "trackback_permalink": "http://twitter.com/GlobalPost/status/255657662589583360",
+                "trackback_author_url": "http://twitter.com/globalpost",
+                "highlight": "Lady #Gaga paid a visit to #WikiLeaks founder Julian Assange.",
+                "topsy_author_url": "http://topsy.com/twitter/globalpost",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/globalpost/status/255657662589583360",
+                "trackback_author_name": "GlobalPost",
+                "trackback_author_nick": "globalpost"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1306013941,
+                "title": "Ze is wel gek he? #gaga #Ned3",
+                "url": "http://twitter.com/domien/status/72053810696167424",
+                "trackback_date": 1306013941,
+                "trackback_total": 14,
+                "url_expansions": [],
+                "target_birth_date": 1306013941,
+                "content": "Ze is wel gek he? #gaga #Ned3",
+                "mytype": "tweet",
+                "score": 8.822539,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/417920599336288257/JTC_GI56_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Domien/status/72053810696167424",
+                "trackback_author_url": "http://twitter.com/domien",
+                "highlight": "Ze is wel gek he? #gaga",
+                "topsy_author_url": "http://topsy.com/twitter/domien",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/domien/status/72053810696167424",
+                "trackback_author_name": "Domien Verschuuren",
+                "trackback_author_nick": "domien"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1328727556,
+                "title": "Lady Gaga to play Auckland's Vector Arena on June 7th. #gaga",
+                "url": "http://twitter.com/hilary_barry/status/167321614743117827",
+                "trackback_date": 1328727556,
+                "trackback_total": 11,
+                "url_expansions": [],
+                "target_birth_date": 1328727556,
+                "content": "Lady Gaga to play Auckland's Vector Arena on June 7th. #gaga",
+                "mytype": "tweet",
+                "score": 8.822131,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/413441699260551169/fFQMwjHA_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Hilary_Barry/status/167321614743117827",
+                "trackback_author_url": "http://twitter.com/hilary_barry",
+                "highlight": "Lady Gaga to play Auckland's Vector Arena on June 7th.",
+                "topsy_author_url": "http://topsy.com/twitter/hilary_barry",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hilary_barry/status/167321614743117827",
+                "trackback_author_name": "Hilary Barry",
+                "trackback_author_nick": "hilary_barry"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 750,
+        "hidden": 0,
+        "total": 1155800,
+        "page": 1
+    }
+}

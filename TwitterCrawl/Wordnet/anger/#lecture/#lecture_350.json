@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23lecture&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=350",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#lecture",
+            "window": "a",
+            "type": "tweet",
+            "offset": "350"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 6,
+                "firstpost_date": 1340439390,
+                "title": "Les nouveaut\u00e9s de la collection #Folio 2\u20ac sont \u00e0 d\u00e9couvrir ici : http://t.co/yD63BfMO #lecture #nouvelles #jeu",
+                "url": "http://twitter.com/folio_livres/status/216444608555659264",
+                "trackback_date": 1340439390,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/yD63BfMO",
+                        "display_url": "bit.ly/LHPRPb",
+                        "expanded_url": "http://bit.ly/LHPRPb",
+                        "topsy_expanded_url": "http://bit.ly/LHPRPb"
+                    }
+                ],
+                "target_birth_date": 1340439390,
+                "content": "Les nouveaut\u00e9s de la collection #Folio 2\u20ac sont \u00e0 d\u00e9couvrir ici : http://t.co/yD63BfMO #lecture #nouvelles #jeu",
+                "mytype": "tweet",
+                "score": 8.387342,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/663856124/n1284522622_5687_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Folio_livres/status/216444608555659264",
+                "trackback_author_url": "http://twitter.com/folio_livres",
+                "highlight": "Les nouveaut\u00e9s de la collection #Folio 2\u20ac sont \u00e0 d\u00e9couvrir ici : #lecture #nouvelles",
+                "topsy_author_url": "http://topsy.com/twitter/folio_livres",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/folio_livres/status/216444608555659264",
+                "trackback_author_name": "Folio",
+                "trackback_author_nick": "folio_livres"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1398794994,
+                "title": "#lecture #extrait http://t.co/uuW3ndTuyy",
+                "url": "http://twitter.com/tulisquoi/status/461205750376062976",
+                "trackback_date": 1398794994,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/uuW3ndTuyy",
+                        "display_url": "pic.twitter.com/uuW3ndTuyy",
+                        "expanded_url": "http://twitter.com/tulisquoi/status/461205750376062976/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BmaIL6yIMAAv1s9.jpg"
+                    }
+                ],
+                "target_birth_date": 1398794994,
+                "content": "#lecture #extrait http://t.co/uuW3ndTuyy",
+                "mytype": "tweet",
+                "score": 8.387334,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/449879765974269952/vXfzyS_T_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/tulisquoi/status/461205750376062976",
+                "trackback_author_url": "http://twitter.com/tulisquoi",
+                "highlight": "#lecture #extrait",
+                "topsy_author_url": "http://topsy.com/twitter/tulisquoi",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tulisquoi/status/461205750376062976",
+                "trackback_author_name": "Tulisquoi",
+                "trackback_author_nick": "tulisquoi"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1284417769,
+                "title": "September 13: The Housing Bubble, the Crash, and the Great Recession:** * [Audio](http://d...  http://reduce.li/5msk0l #lecture",
+                "url": "http://twitter.com/blogsoftheworld/status/24421417737",
+                "trackback_date": 1284417769,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1284417769,
+                "content": "September 13: The Housing Bubble, the Crash, and the Great Recession:** * [Audio](http://d...  http://reduce.li/5msk0l #lecture",
+                "mytype": "tweet",
+                "score": 8.387159,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/450115169/blogs_of_the_world_normal.jpg",
+                "trackback_permalink": "http://twitter.com/blogsoftheworld/status/24421417737",
+                "trackback_author_url": "http://twitter.com/blogsoftheworld",
+                "highlight": "September 13: The Housing Bubble, the Crash, and the Great Recession:** * [Audio](",
+                "topsy_author_url": "http://topsy.com/twitter/blogsoftheworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/blogsoftheworld/status/24421417737",
+                "trackback_author_name": "blogs of the world",
+                "trackback_author_nick": "blogsoftheworld"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1338843663,
+                "title": "Join us in July for Acton Lecture Series http://t.co/x910Ovi9 #lecture #grandrapids #evangelical",
+                "url": "http://twitter.com/actoninstitute/status/209751644475363329",
+                "trackback_date": 1338843663,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/x910Ovi9",
+                        "display_url": "ow.ly/blDej",
+                        "expanded_url": "http://ow.ly/blDej",
+                        "topsy_expanded_url": "http://ow.ly/blDej"
+                    }
+                ],
+                "target_birth_date": 1338843663,
+                "content": "Join us in July for Acton Lecture Series http://t.co/x910Ovi9 #lecture #grandrapids #evangelical",
+                "mytype": "tweet",
+                "score": 8.386876,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3627681818/3ca9b6a319fe330e12e0dd2723d3d25f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ActonInstitute/status/209751644475363329",
+                "trackback_author_url": "http://twitter.com/actoninstitute",
+                "highlight": "Join us in July for Acton Lecture Series #lecture #grandrapids",
+                "topsy_author_url": "http://topsy.com/twitter/actoninstitute",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/actoninstitute/status/209751644475363329",
+                "trackback_author_name": "Acton Institute",
+                "trackback_author_nick": "actoninstitute"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1382424466,
+                "title": "Quinze minutes de #lecture \u00e0 voix haute par jour, pas moins http://t.co/ZiNEPDrmrM",
+                "url": "http://twitter.com/actualitte/status/392542779798061056",
+                "trackback_date": 1382424466,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ZiNEPDrmrM",
+                        "display_url": "actualitte.com/t/bDnGCuI",
+                        "expanded_url": "http://www.actualitte.com/t/bDnGCuI",
+                        "topsy_expanded_url": "http://www.actualitte.com/international/quinze-minutes-de-lecture-a-voix-haute-par-jour-pas-moins-45812.htm"
+                    }
+                ],
+                "target_birth_date": 1382424466,
+                "content": "Quinze minutes de #lecture \u00e0 voix haute par jour, pas moins http://t.co/ZiNEPDrmrM",
+                "mytype": "tweet",
+                "score": 8.38533,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1529495439/Sans_titre_normal.png",
+                "trackback_permalink": "http://twitter.com/ActuaLitte/status/392542779798061056",
+                "trackback_author_url": "http://twitter.com/actualitte",
+                "highlight": "Quinze minutes de #lecture \u00e0 voix haute par jour, pas moins",
+                "topsy_author_url": "http://topsy.com/twitter/actualitte",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/actualitte/status/392542779798061056",
+                "trackback_author_name": "ActuaLitt\u00e9",
+                "trackback_author_nick": "actualitte"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1268565701,
+                "title": "The audience could expect her to show up late, sometimes by an hour or more. She would the...  http://reduce.li/t9phoi #lecture",
+                "url": "http://twitter.com/blogsoftheworld/status/10465978449",
+                "trackback_date": 1268565701,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1268565701,
+                "content": "The audience could expect her to show up late, sometimes by an hour or more. She would the...  http://reduce.li/t9phoi #lecture",
+                "mytype": "tweet",
+                "score": 8.385317,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/450115169/blogs_of_the_world_normal.jpg",
+                "trackback_permalink": "http://twitter.com/blogsoftheworld/status/10465978449",
+                "trackback_author_url": "http://twitter.com/blogsoftheworld",
+                "highlight": "The audience could expect her to show up late, sometimes by an hour or more. She would the",
+                "topsy_author_url": "http://topsy.com/twitter/blogsoftheworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/blogsoftheworld/status/10465978449",
+                "trackback_author_name": "blogs of the world",
+                "trackback_author_nick": "blogsoftheworld"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1372496022,
+                "title": "Difficile pour les #enseignants de faire appr\u00e9cier la #lecture http://t.co/VakXSZrvsK",
+                "url": "http://twitter.com/actualitte/status/350899868937621504",
+                "trackback_date": 1372496022,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/VakXSZrvsK",
+                        "expanded_url": "http://www.actualitte.com/t/CDUdLJP",
+                        "display_url": "actualitte.com/t/CDUdLJP"
+                    }
+                ],
+                "target_birth_date": 1372496022,
+                "content": "Difficile pour les #enseignants de faire appr\u00e9cier la #lecture http://t.co/VakXSZrvsK",
+                "mytype": "tweet",
+                "score": 8.383715,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1529495439/Sans_titre_normal.png",
+                "trackback_permalink": "http://twitter.com/ActuaLitte/status/350899868937621504",
+                "trackback_author_url": "http://twitter.com/actualitte",
+                "highlight": "Difficile pour les #enseignants de faire appr\u00e9cier la #lecture",
+                "topsy_author_url": "http://topsy.com/twitter/actualitte",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/actualitte/status/350899868937621504",
+                "trackback_author_name": "ActuaLitt\u00e9",
+                "trackback_author_nick": "actualitte"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1296016923,
+                "title": "Anyone with a computer and an internet connection can now listen to free online lectures a...  http://reduce.li/dpktl7 #lecture",
+                "url": "http://twitter.com/blogsoftheworld/status/30123276483166208",
+                "trackback_date": 1296016923,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1296016923,
+                "content": "Anyone with a computer and an internet connection can now listen to free online lectures a...  http://reduce.li/dpktl7 #lecture",
+                "mytype": "tweet",
+                "score": 8.380735,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/450115169/blogs_of_the_world_normal.jpg",
+                "trackback_permalink": "http://twitter.com/blogsoftheworld/status/30123276483166208",
+                "trackback_author_url": "http://twitter.com/blogsoftheworld",
+                "highlight": "Anyone with a computer and an internet connection can now listen to free online lectures a",
+                "topsy_author_url": "http://topsy.com/twitter/blogsoftheworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/blogsoftheworld/status/30123276483166208",
+                "trackback_author_name": "blogs of the world",
+                "trackback_author_nick": "blogsoftheworld"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1392030978,
+                "title": "#Watch \" #Lecture in #Toronto\" #on #YouTube - https://t.co/3WStOssv9x \u2026 \u2026 #GoharShahi #AskYounusalGohar",
+                "url": "http://twitter.com/muskan60949210/status/432835411879002112",
+                "trackback_date": 1392030978,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/3WStOssv9x",
+                        "display_url": "youtube.com/watch?v=spv6UZ\u2026",
+                        "expanded_url": "https://www.youtube.com/watch?v=spv6UZQpfVw&feature=youtube_gdata_player",
+                        "topsy_expanded_url": "https://www.youtube.com/watch?v=spv6UZQpfVw&feature=youtube_gdata_player"
+                    }
+                ],
+                "target_birth_date": 1392030978,
+                "content": "#Watch \" #Lecture in #Toronto\" #on #YouTube - https://t.co/3WStOssv9x \u2026 \u2026 #GoharShahi #AskYounusalGohar",
+                "mytype": "tweet",
+                "score": 8.379977,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/441518178531676160/wVCH7ThC_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Muskan60949210/status/432835411879002112",
+                "trackback_author_url": "http://twitter.com/muskan60949210",
+                "highlight": "#Watch \" #Lecture in #Toronto\" #on #YouTube - \u2026 \u2026 #GoharShahi",
+                "topsy_author_url": "http://topsy.com/twitter/muskan60949210",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/muskan60949210/status/432835411879002112",
+                "trackback_author_name": "Sheza",
+                "trackback_author_nick": "muskan60949210"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1367391938,
+                "title": "Le droit \u00e0 la paresse, de Paul Lafargue http://t.co/lOeTssggpA #fetedutravail #1ermai #lire #lirenum #ebook #lecture",
+                "url": "http://twitter.com/publienet/status/329491789369184257",
+                "trackback_date": 1367391938,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/lOeTssggpA",
+                        "display_url": "publie.net/fr/ebook/97828\u2026",
+                        "expanded_url": "http://www.publie.net/fr/ebook/9782814504189/le-droit-a-la-paresse",
+                        "topsy_expanded_url": "http://www.publie.net/fr/ebook/9782814504189/le-droit-a-la-paresse"
+                    }
+                ],
+                "target_birth_date": 1367391938,
+                "content": "Le droit \u00e0 la paresse, de Paul Lafargue http://t.co/lOeTssggpA #fetedutravail #1ermai #lire #lirenum #ebook #lecture",
+                "mytype": "tweet",
+                "score": 8.3773575,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419763274284933120/JnPjGZDY_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/publienet/status/329491789369184257",
+                "trackback_author_url": "http://twitter.com/publienet",
+                "highlight": "Le droit \u00e0 la paresse, de Paul Lafargue #fetedutravail #1ermai #lire #lirenum #ebook",
+                "topsy_author_url": "http://topsy.com/twitter/publienet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/publienet/status/329491789369184257",
+                "trackback_author_name": "publienet",
+                "trackback_author_nick": "publienet"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 350,
+        "hidden": 0,
+        "total": 130713,
+        "page": 1
+    }
+}

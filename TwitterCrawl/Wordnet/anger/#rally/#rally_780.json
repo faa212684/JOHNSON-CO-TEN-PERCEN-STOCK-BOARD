@@ -1,0 +1,295 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23rally&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=780",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#rally",
+            "window": "a",
+            "type": "tweet",
+            "offset": "780"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1341936245,
+                "title": "No one expects the statistician inquisition! @ScottStonehouse: @kady Don't let the lab coats know you're guessing at the numbers. #rally",
+                "url": "http://twitter.com/kady/status/222722871145934848",
+                "trackback_date": 1341936245,
+                "trackback_total": 6,
+                "url_expansions": [],
+                "target_birth_date": 1341936245,
+                "content": "No one expects the statistician inquisition! @ScottStonehouse: @kady Don't let the lab coats know you're guessing at the numbers. #rally",
+                "mytype": "tweet",
+                "score": 8.687288,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/418456874699075584/-Be2NTbt_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/kady/status/222722871145934848",
+                "trackback_author_url": "http://twitter.com/kady",
+                "highlight": "No one expects the statistician inquisition! @ScottStonehouse: @kady Don't let the lab coats know you're guessing at the numbers.",
+                "topsy_author_url": "http://topsy.com/twitter/kady",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kady/status/222722871145934848",
+                "trackback_author_name": "kady o'malley",
+                "trackback_author_nick": "kady"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1350339852,
+                "title": "RT @elgraficochile: \"Chaleco\" L\u00f3pez termina noveno en la primera etapa del #Rally de Marruecos http://t.co/pjn64tVg",
+                "url": "http://twitter.com/publimetrochile/status/257970155320127488",
+                "trackback_date": 1350339852,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/pjn64tVg",
+                        "display_url": "ow.ly/euYEl",
+                        "expanded_url": "http://ow.ly/euYEl",
+                        "topsy_expanded_url": "http://www.elgraficochile.cl/chaleco-lopez-termina-noveno-en-la-primera-etapa-del-rally-de-marruecos/prontus_elgrafico/2012-10-15/192211.html"
+                    }
+                ],
+                "target_birth_date": 1350339852,
+                "content": "RT @elgraficochile: \"Chaleco\" L\u00f3pez termina noveno en la primera etapa del #Rally de Marruecos http://t.co/pjn64tVg",
+                "mytype": "tweet",
+                "score": 8.686351,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2012479020/527997_10150822439032573_189079512572_11268410_728118029_n_normal.jpg",
+                "trackback_permalink": "http://twitter.com/PublimetroChile/status/257970155320127488",
+                "trackback_author_url": "http://twitter.com/publimetrochile",
+                "highlight": "\"Chaleco\" L\u00f3pez termina noveno en la primera etapa del #Rally de Marruecos",
+                "topsy_author_url": "http://topsy.com/twitter/publimetrochile",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/publimetrochile/status/257970155320127488",
+                "trackback_author_name": "Diario Publimetro",
+                "trackback_author_nick": "publimetrochile"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1397223270,
+                "title": "Equipo chileno competir\u00e1 en el Mundial de #RALLY http://t.co/ggMBmvENKf http://t.co/ma4NbpZYPR",
+                "url": "http://twitter.com/soychilecl/status/454613463440949248",
+                "trackback_date": 1397223270,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ggMBmvENKf",
+                        "display_url": "bit.ly/1kQoqVo",
+                        "expanded_url": "http://bit.ly/1kQoqVo",
+                        "topsy_expanded_url": "http://www.soychile.cl/Santiago/Deportes/2014/04/11/242250/Equipo-chileno-competira-en-el-Mundial-de-Rally.aspx"
+                    },
+                    {
+                        "url": "http://t.co/ma4NbpZYPR",
+                        "display_url": "pic.twitter.com/ma4NbpZYPR",
+                        "expanded_url": "http://twitter.com/soychilecl/status/454613463440949248/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bk8ciUbCQAA9r1b.jpg"
+                    }
+                ],
+                "target_birth_date": 1397223270,
+                "content": "Equipo chileno competir\u00e1 en el Mundial de #RALLY http://t.co/ggMBmvENKf http://t.co/ma4NbpZYPR",
+                "mytype": "tweet",
+                "score": 8.686219,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3565157059/58d763e6944fdf81e9043e8f073a9f07_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/soychilecl/status/454613463440949248",
+                "trackback_author_url": "http://twitter.com/soychilecl",
+                "highlight": "Equipo chileno competir\u00e1 en el Mundial de #RALLY",
+                "topsy_author_url": "http://topsy.com/twitter/soychilecl",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/soychilecl/status/454613463440949248",
+                "trackback_author_name": "soychile.cl",
+                "trackback_author_nick": "soychilecl"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1390106657,
+                "title": "WRC\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed\uff1a\u30c7\u30a43\u30ea\u30b6\u30eb\u30c8 http://t.co/7pHUjqyLQE #wrc #rally",
+                "url": "http://twitter.com/autosport_web/status/424764224854700034",
+                "trackback_date": 1390106657,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7pHUjqyLQE",
+                        "display_url": "bit.ly/1bkpr6k",
+                        "expanded_url": "http://bit.ly/1bkpr6k",
+                        "topsy_expanded_url": "http://as-web.jp/rallyplus/news/info.php?no=26221"
+                    }
+                ],
+                "target_birth_date": 1390106657,
+                "content": "WRC\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed\uff1a\u30c7\u30a43\u30ea\u30b6\u30eb\u30c8 http://t.co/7pHUjqyLQE #wrc #rally",
+                "mytype": "tweet",
+                "score": 8.685246,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453770524514992128/rf4mgh1W_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AUTOSPORT_web/status/424764224854700034",
+                "trackback_author_url": "http://twitter.com/autosport_web",
+                "highlight": "WRC\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed\uff1a\u30c7\u30a43\u30ea\u30b6\u30eb\u30c8 #wrc",
+                "topsy_author_url": "http://topsy.com/twitter/autosport_web",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/autosport_web/status/424764224854700034",
+                "trackback_author_name": "AUTOSPORT web",
+                "trackback_author_nick": "autosport_web"
+            },
+            {
+                "hits": 20,
+                "firstpost_date": 1347208793,
+                "title": "Kubica, la favola \u00e8 realt\u00e0 Vince subito dopo 19 mesi http://t.co/jOuKSmzk #motori #rally",
+                "url": "http://twitter.com/gazzetta_it/status/244837543709929473",
+                "trackback_date": 1347208793,
+                "trackback_total": 20,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jOuKSmzk",
+                        "display_url": "tinyurl.com/9ljtzcd",
+                        "expanded_url": "http://tinyurl.com/9ljtzcd",
+                        "topsy_expanded_url": "http://tinyurl.com/9ljtzcd"
+                    }
+                ],
+                "target_birth_date": 1347208793,
+                "content": "Kubica, la favola \u00e8 realt\u00e0 Vince subito dopo 19 mesi http://t.co/jOuKSmzk #motori #rally",
+                "mytype": "tweet",
+                "score": 8.684808,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1630309124/logo-social_small_normal.png",
+                "trackback_permalink": "http://twitter.com/Gazzetta_it/status/244837543709929473",
+                "trackback_author_url": "http://twitter.com/gazzetta_it",
+                "highlight": "Kubica, la favola \u00e8 realt\u00e0 Vince subito dopo 19 mesi #motori",
+                "topsy_author_url": "http://topsy.com/twitter/gazzetta_it",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gazzetta_it/status/244837543709929473",
+                "trackback_author_name": "LaGazzettadelloSport",
+                "trackback_author_nick": "gazzetta_it"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1293061931,
+                "title": "Promo\u00e7\u00e3o: Ganhe o jogo Dirt 2 no Twitter http://goo.gl/fb/xW7LP #games #sorteio #promo #gratis #rally #jogo",
+                "url": "http://twitter.com/jogorama/status/17729141608550400",
+                "trackback_date": 1293061931,
+                "trackback_total": 5,
+                "url_expansions": [],
+                "target_birth_date": 1293061931,
+                "content": "Promo\u00e7\u00e3o: Ganhe o jogo Dirt 2 no Twitter http://goo.gl/fb/xW7LP #games #sorteio #promo #gratis #rally #jogo",
+                "mytype": "tweet",
+                "score": 8.684765,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2936939841/5303b32c1c02c0a30590994f4d69960e_normal.png",
+                "trackback_permalink": "http://twitter.com/Jogorama/status/17729141608550400",
+                "trackback_author_url": "http://twitter.com/jogorama",
+                "highlight": "Promo\u00e7\u00e3o: Ganhe o jogo Dirt 2 no Twitter #games #sorteio #promo #gratis #rally",
+                "topsy_author_url": "http://topsy.com/twitter/jogorama",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jogorama/status/17729141608550400",
+                "trackback_author_name": "Jogorama",
+                "trackback_author_nick": "jogorama"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1401258380,
+                "title": "FLASH #RALLY! PLEASE RT! Join our friends from @StopLiveExports in #Fremantle TOMORROW at 10am! https://t.co/pNhNyH4mKa #BanLiveExports",
+                "url": "http://twitter.com/animalsaus/status/471537941940936704",
+                "trackback_date": 1401258380,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/pNhNyH4mKa",
+                        "display_url": "facebook.com/events/2870880\u2026",
+                        "expanded_url": "https://www.facebook.com/events/287088038139505/?ref=22",
+                        "topsy_expanded_url": "https://www.facebook.com/events/287088038139505/?ref=22"
+                    }
+                ],
+                "target_birth_date": 1401258380,
+                "content": "FLASH #RALLY! PLEASE RT! Join our friends from @StopLiveExports in #Fremantle TOMORROW at 10am! https://t.co/pNhNyH4mKa #BanLiveExports",
+                "mytype": "tweet",
+                "score": 8.684195,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460294781206142976/vMZ2zYDX_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AnimalsAus/status/471537941940936704",
+                "trackback_author_url": "http://twitter.com/animalsaus",
+                "highlight": "FLASH #RALLY! PLEASE RT! Join our friends from @StopLiveExports in #Fremantle TOMORROW at 10am!",
+                "topsy_author_url": "http://topsy.com/twitter/animalsaus",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/animalsaus/status/471537941940936704",
+                "trackback_author_name": "Animals Australia",
+                "trackback_author_nick": "animalsaus"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1362709651,
+                "title": "Bring it on!!! please :) #wrc #rally http://t.co/ESW4NmgDrc",
+                "url": "http://twitter.com/crazyleonet/status/309852851285393409",
+                "trackback_date": 1362709651,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ESW4NmgDrc",
+                        "expanded_url": "http://twitter.com/CrazyLeoNet/status/309852851285393409/photo/1",
+                        "display_url": "pic.twitter.com/ESW4NmgDrc"
+                    }
+                ],
+                "target_birth_date": 1362709651,
+                "content": "Bring it on!!! please :) #wrc #rally http://t.co/ESW4NmgDrc",
+                "mytype": "tweet",
+                "score": 8.683887,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2617136064/gu54lokagr1dw2oj73t3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CrazyLeoNet/status/309852851285393409",
+                "trackback_author_url": "http://twitter.com/crazyleonet",
+                "highlight": "Bring it on!!! please :) #wrc #rally",
+                "topsy_author_url": "http://topsy.com/twitter/crazyleonet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/crazyleonet/status/309852851285393409",
+                "trackback_author_name": "Crazy Leo",
+                "trackback_author_nick": "crazyleonet"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1352438994,
+                "title": "\u3010\u52d5\u753b\u3011\u30d6\u30ed\u30c3\u30af\u3055\u3093\u3001\u5c11\u3057\u306f\u6c17\u306b\u3057\u3066\u4e0b\u3055\u3044 http://t.co/STZUZc68 #wrc #rally",
+                "url": "http://twitter.com/autosport_web/status/266774593816121344",
+                "trackback_date": 1352438994,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/STZUZc68",
+                        "display_url": "bit.ly/Td3fzj",
+                        "expanded_url": "http://bit.ly/Td3fzj",
+                        "topsy_expanded_url": "http://as-web.jp/news/info.php?c_id=3&no=44834"
+                    }
+                ],
+                "target_birth_date": 1352438994,
+                "content": "\u3010\u52d5\u753b\u3011\u30d6\u30ed\u30c3\u30af\u3055\u3093\u3001\u5c11\u3057\u306f\u6c17\u306b\u3057\u3066\u4e0b\u3055\u3044 http://t.co/STZUZc68 #wrc #rally",
+                "mytype": "tweet",
+                "score": 8.683215,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453770524514992128/rf4mgh1W_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AUTOSPORT_web/status/266774593816121344",
+                "trackback_author_url": "http://twitter.com/autosport_web",
+                "highlight": "\u3010\u52d5\u753b\u3011\u30d6\u30ed\u30c3\u30af\u3055\u3093\u3001\u5c11\u3057\u306f\u6c17\u306b\u3057\u3066\u4e0b\u3055\u3044 #wrc",
+                "topsy_author_url": "http://topsy.com/twitter/autosport_web",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/autosport_web/status/266774593816121344",
+                "trackback_author_name": "AUTOSPORT web",
+                "trackback_author_nick": "autosport_web"
+            },
+            {
+                "hits": 22,
+                "firstpost_date": 1372296466,
+                "title": "\u30ed\u30fc\u30d6\u3001\u30d1\u30a4\u30af\u30b9\u4e88\u9078\u3067\u30c8\u30c3\u30d7\u30bf\u30a4\u30e0\uff01 http://t.co/oByP9bIgfZ #wrc #rally",
+                "url": "http://twitter.com/autosport_web/status/350062867476787201",
+                "trackback_date": 1372296466,
+                "trackback_total": 27,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/oByP9bIgfZ",
+                        "display_url": "bit.ly/15Hpban",
+                        "expanded_url": "http://bit.ly/15Hpban",
+                        "topsy_expanded_url": "http://as-web.jp/rallyplus/news/info.php?no=25845"
+                    }
+                ],
+                "target_birth_date": 1372296466,
+                "content": "\u30ed\u30fc\u30d6\u3001\u30d1\u30a4\u30af\u30b9\u4e88\u9078\u3067\u30c8\u30c3\u30d7\u30bf\u30a4\u30e0\uff01 http://t.co/oByP9bIgfZ #wrc #rally",
+                "mytype": "tweet",
+                "score": 8.68314,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453770524514992128/rf4mgh1W_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AUTOSPORT_web/status/350062867476787201",
+                "trackback_author_url": "http://twitter.com/autosport_web",
+                "highlight": "\u30ed\u30fc\u30d6\u3001\u30d1\u30a4\u30af\u30b9\u4e88\u9078\u3067\u30c8\u30c3\u30d7\u30bf\u30a4\u30e0\uff01 #wrc",
+                "topsy_author_url": "http://topsy.com/twitter/autosport_web",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/autosport_web/status/350062867476787201",
+                "trackback_author_name": "AUTOSPORT web",
+                "trackback_author_nick": "autosport_web"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 780,
+        "hidden": 0,
+        "total": 440060,
+        "page": 1
+    }
+}

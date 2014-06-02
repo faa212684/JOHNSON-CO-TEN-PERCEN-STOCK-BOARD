@@ -1,0 +1,283 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23lecture&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=470",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#lecture",
+            "window": "a",
+            "type": "tweet",
+            "offset": "470"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 6,
+                "firstpost_date": 1353412598,
+                "title": "Book now for @carolematthews 'With Love At #Christmas' evening #lecture &amp;reception - there will be wine &amp;mince pies! http://t.co/S6lZ8eD6",
+                "url": "http://twitter.com/guildhalllib/status/270858184959344640",
+                "trackback_date": 1353412598,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/S6lZ8eD6",
+                        "display_url": "facebook.com/GuildhallLibra\u2026",
+                        "expanded_url": "http://www.facebook.com/GuildhallLibrary",
+                        "topsy_expanded_url": "http://www.facebook.com/GuildhallLibrary"
+                    }
+                ],
+                "target_birth_date": 1353412598,
+                "content": "Book now for @carolematthews 'With Love At #Christmas' evening #lecture &amp;reception - there will be wine &amp;mince pies! http://t.co/S6lZ8eD6",
+                "mytype": "tweet",
+                "score": 8.309387,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1799250626/157059_169540076416300_200456_n_normal.jpg",
+                "trackback_permalink": "http://twitter.com/GuildhallLib/status/270858184959344640",
+                "trackback_author_url": "http://twitter.com/guildhalllib",
+                "highlight": "Book now for @carolematthews 'With Love At #Christmas' evening #lecture &amp;reception - there will be wine &amp;mince pies!",
+                "topsy_author_url": "http://topsy.com/twitter/guildhalllib",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/guildhalllib/status/270858184959344640",
+                "trackback_author_name": "Guildhall Library",
+                "trackback_author_nick": "guildhalllib"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1389648223,
+                "title": "Lecteurs, quels sont vos r\u00e9seaux ? http://t.co/EJpdhrifRR #lecture #journalisme #\u00e9crivain",
+                "url": "http://twitter.com/wilfrid_esteve/status/422841413881978880",
+                "trackback_date": 1389648223,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/EJpdhrifRR",
+                        "display_url": "shar.es/9Mreb",
+                        "expanded_url": "http://shar.es/9Mreb",
+                        "topsy_expanded_url": "http://www.inaglobal.fr/edition/article/lecteurs-quels-sont-vos-reseaux"
+                    }
+                ],
+                "target_birth_date": 1389648223,
+                "content": "Lecteurs, quels sont vos r\u00e9seaux ? http://t.co/EJpdhrifRR #lecture #journalisme #\u00e9crivain",
+                "mytype": "tweet",
+                "score": 8.30896,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000603936441/3b4c29cfd3445d75de5c6d761dedb34f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Wilfrid_Esteve/status/422841413881978880",
+                "trackback_author_url": "http://twitter.com/wilfrid_esteve",
+                "highlight": "Lecteurs, quels sont vos r\u00e9seaux ? #lecture #journalisme #\u00e9crivain",
+                "topsy_author_url": "http://topsy.com/twitter/wilfrid_esteve",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wilfrid_esteve/status/422841413881978880",
+                "trackback_author_name": "Wilfrid Est\u00e8ve",
+                "trackback_author_nick": "wilfrid_esteve"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1393804550,
+                "title": "LISTEN: Chess &amp; The Art of Business #LECTURE #hiphopEd #innovation #education https://t.co/nABhNYSlT3",
+                "url": "http://twitter.com/hiphopchess/status/440274312956612608",
+                "trackback_date": 1393804550,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/nABhNYSlT3",
+                        "display_url": "soundcloud.com/bishopchronicl\u2026",
+                        "expanded_url": "https://soundcloud.com/bishopchronicles/adisa-banjoko-san-jose",
+                        "topsy_expanded_url": "http://soundcloud.com/bishopchronicles/adisa-banjoko-san-jose"
+                    }
+                ],
+                "target_birth_date": 1393804550,
+                "content": "LISTEN: Chess &amp; The Art of Business #LECTURE #hiphopEd #innovation #education https://t.co/nABhNYSlT3",
+                "mytype": "tweet",
+                "score": 8.307896,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/409051047/HHCFBLACKonwhite_normal.jpg",
+                "trackback_permalink": "http://twitter.com/hiphopchess/status/440274312956612608",
+                "trackback_author_url": "http://twitter.com/hiphopchess",
+                "highlight": "LISTEN: Chess &amp; The Art of Business #LECTURE #hiphopEd #innovation #education",
+                "topsy_author_url": "http://topsy.com/twitter/hiphopchess",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hiphopchess/status/440274312956612608",
+                "trackback_author_name": "HipHopChess",
+                "trackback_author_nick": "hiphopchess"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1346120992,
+                "title": "#lecture http://t.co/bW1UXiXo",
+                "url": "http://twitter.com/shortyminimum/status/240274972218650624",
+                "trackback_date": 1346120992,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/bW1UXiXo",
+                        "display_url": "instagr.am/p/O2uQkIj8co/",
+                        "expanded_url": "http://instagr.am/p/O2uQkIj8co/",
+                        "topsy_expanded_url": "http://instagr.am/p/O2uQkIj8co/"
+                    }
+                ],
+                "target_birth_date": 1346120992,
+                "content": "#lecture http://t.co/bW1UXiXo",
+                "mytype": "tweet",
+                "score": 8.30772,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469460640361635840/oDobSiIp_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/shortyminimum/status/240274972218650624",
+                "trackback_author_url": "http://twitter.com/shortylavie",
+                "highlight": "#lecture",
+                "topsy_author_url": "http://topsy.com/twitter/shortylavie",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/shortyminimum/status/240274972218650624",
+                "trackback_author_name": "Ti Shortissou",
+                "trackback_author_nick": "shortylavie"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1379084965,
+                "title": "\"La #lecture d\u2019un roman jette sur la vie une lumi\u00e8re.\" Louis #Aragon, in Blanche ou L'oubli #citation",
+                "url": "http://twitter.com/folio_livres/status/378535897093767168",
+                "trackback_date": 1379084965,
+                "trackback_total": 6,
+                "url_expansions": [],
+                "target_birth_date": 1379084965,
+                "content": "\"La #lecture d\u2019un roman jette sur la vie une lumi\u00e8re.\" Louis #Aragon, in Blanche ou L'oubli #citation",
+                "mytype": "tweet",
+                "score": 8.307525,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/663856124/n1284522622_5687_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Folio_livres/status/378535897093767168",
+                "trackback_author_url": "http://twitter.com/folio_livres",
+                "highlight": "\"La #lecture d\u2019un roman jette sur la vie une lumi\u00e8re.\" Louis #Aragon, in Blanche ou L'oubli",
+                "topsy_author_url": "http://topsy.com/twitter/folio_livres",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/folio_livres/status/378535897093767168",
+                "trackback_author_name": "Folio",
+                "trackback_author_nick": "folio_livres"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1339780117,
+                "title": "Learn more about the exotic beasts that lived with Egyptian pharaohs and Mesopotamian kings in a #free #lecture Sun @ 2 http://t.co/vdonPY59",
+                "url": "http://twitter.com/ngadc/status/213679414968467456",
+                "trackback_date": 1339780117,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vdonPY59",
+                        "display_url": "ow.ly/bBErp",
+                        "expanded_url": "http://ow.ly/bBErp",
+                        "topsy_expanded_url": "http://ow.ly/bBErp"
+                    }
+                ],
+                "target_birth_date": 1339780117,
+                "content": "Learn more about the exotic beasts that lived with Egyptian pharaohs and Mesopotamian kings in a #free #lecture Sun @ 2 http://t.co/vdonPY59",
+                "mytype": "tweet",
+                "score": 8.306261,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453280658555543552/edkXomUQ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ngadc/status/213679414968467456",
+                "trackback_author_url": "http://twitter.com/ngadc",
+                "highlight": "Learn more about the exotic beasts that lived with Egyptian pharaohs and Mesopotamian kings in a #free #lecture Sun @ 2",
+                "topsy_author_url": "http://topsy.com/twitter/ngadc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ngadc/status/213679414968467456",
+                "trackback_author_name": "Nat. Gallery of Art",
+                "trackback_author_nick": "ngadc"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1310025293,
+                "title": "#Lecture in #Business #Management : Market Entry Strategy for International Business - http://su.pr/2ANilJ",
+                "url": "http://twitter.com/businessfundas/status/88878638862319616",
+                "trackback_date": 1310025293,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1310025293,
+                "content": "#Lecture in #Business #Management : Market Entry Strategy for International Business - http://su.pr/2ANilJ",
+                "mytype": "tweet",
+                "score": 8.305339,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1237075149/BizFunda_Logo_normal.JPG",
+                "trackback_permalink": "http://twitter.com/BusinessFundas/status/88878638862319616",
+                "trackback_author_url": "http://twitter.com/biztwt",
+                "highlight": "#Lecture in #Business #Management : Market Entry Strategy for International Business -",
+                "topsy_author_url": "http://topsy.com/twitter/biztwt",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/businessfundas/status/88878638862319616",
+                "trackback_author_name": "Business Tweets",
+                "trackback_author_nick": "biztwt"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1287077680,
+                "title": "#Lecture: G\u00e9n\u00e9ration \"No Kids\" : ne pas vouloir d'enfants http://t.co/cbk9Aqv",
+                "url": "http://twitter.com/adngold/status/27361766382",
+                "trackback_date": 1287077680,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cbk9Aqv",
+                        "display_url": "questionssociete.suite101.fr/article.cfm/ge\u2026",
+                        "expanded_url": "http://questionssociete.suite101.fr/article.cfm/generation-no-kids---ne-pas-vouloir-denfant",
+                        "topsy_expanded_url": "http://questionssociete.suite101.fr/article.cfm/generation-no-kids---ne-pas-vouloir-denfant"
+                    }
+                ],
+                "target_birth_date": 1287077680,
+                "content": "#Lecture: G\u00e9n\u00e9ration \"No Kids\" : ne pas vouloir d'enfants http://t.co/cbk9Aqv",
+                "mytype": "tweet",
+                "score": 8.304722,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3037862943/d18c95a84db0744c5978e2166d584979_normal.png",
+                "trackback_permalink": "http://twitter.com/Adngold/status/27361766382",
+                "trackback_author_url": "http://twitter.com/adngold",
+                "highlight": "#Lecture: G\u00e9n\u00e9ration \"No Kids\" : ne pas vouloir d'enfants",
+                "topsy_author_url": "http://topsy.com/twitter/adngold",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/adngold/status/27361766382",
+                "trackback_author_name": "Andr\u00e9",
+                "trackback_author_nick": "adngold"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1398389624,
+                "title": "Lecture in Toronto http://t.co/BougRlRLQE #Lecture #Toronto #Goharshahi #Younusalgohar #Canada #spiritual #Peace #Love",
+                "url": "http://twitter.com/follow2_team/status/459505505875296256",
+                "trackback_date": 1398389624,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/BougRlRLQE",
+                        "display_url": "youtube.com/watch?v=spv6UZ\u2026",
+                        "expanded_url": "http://www.youtube.com/watch?v=spv6UZQpfVw",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=spv6UZQpfVw"
+                    }
+                ],
+                "target_birth_date": 1398389624,
+                "content": "Lecture in Toronto http://t.co/BougRlRLQE #Lecture #Toronto #Goharshahi #Younusalgohar #Canada #spiritual #Peace #Love",
+                "mytype": "tweet",
+                "score": 8.304564,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000599551397/1daf18c42bd83f77f9fb8b3f7f47caf6_normal.png",
+                "trackback_permalink": "http://twitter.com/follow2_team/status/459505505875296256",
+                "trackback_author_url": "http://twitter.com/follow2_team",
+                "highlight": "Lecture in Toronto #Lecture #Toronto #Goharshahi #Younusalgohar #Canada #spiritual #Peace",
+                "topsy_author_url": "http://topsy.com/twitter/follow2_team",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/follow2_team/status/459505505875296256",
+                "trackback_author_name": "Team Follow Back",
+                "trackback_author_nick": "follow2_team"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1287603308,
+                "title": "RT @WINERUFFIAN Learn How to Test your Bones\u2019 Health http://bit.ly/bsqCCg #VANCOUVER #health #Lecture #Osteoporosis",
+                "url": "http://twitter.com/vancouver_rt/status/27959012887",
+                "trackback_date": 1287603308,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1287603308,
+                "content": "RT @WINERUFFIAN Learn How to Test your Bones\u2019 Health http://bit.ly/bsqCCg #VANCOUVER #health #Lecture #Osteoporosis",
+                "mytype": "tweet",
+                "score": 8.30418,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3344765597/cba8baa23f72186af2a03364915bade6_normal.png",
+                "trackback_permalink": "http://twitter.com/vancouver_rt/status/27959012887",
+                "trackback_author_url": "http://twitter.com/vancouver_rt",
+                "highlight": "RT @WINERUFFIAN Learn How to Test your Bones\u2019 Health #VANCOUVER #health #Lecture",
+                "topsy_author_url": "http://topsy.com/twitter/vancouver_rt",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/vancouver_rt/status/27959012887",
+                "trackback_author_name": "Vancouver Retweeter",
+                "trackback_author_nick": "vancouver_rt"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 470,
+        "hidden": 0,
+        "total": 131354,
+        "page": 1
+    }
+}

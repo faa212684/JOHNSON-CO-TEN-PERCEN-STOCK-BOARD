@@ -1,0 +1,289 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23storm&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=620",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#storm",
+            "window": "a",
+            "type": "tweet",
+            "offset": "620"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 57,
+                "firstpost_date": 1356639535,
+                "title": "We've hit a record for snowfall on Dec. 27 in Montreal. As of 2 p.m., 38 cm of snow has fallen. Five more centimeters to come. #storm",
+                "url": "http://twitter.com/cbcmontreal/status/284392941940789248",
+                "trackback_date": 1356639535,
+                "trackback_total": 65,
+                "url_expansions": [],
+                "target_birth_date": 1356639535,
+                "content": "We've hit a record for snowfall on Dec. 27 in Montreal. As of 2 p.m., 38 cm of snow has fallen. Five more centimeters to come. #storm",
+                "mytype": "tweet",
+                "score": 9.023202,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467002702686220288/w7vcyX8R_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CBCMontreal/status/284392941940789248",
+                "trackback_author_url": "http://twitter.com/cbcmontreal",
+                "highlight": "We've hit a record for snowfall on Dec. 27 in Montreal. As of 2 p.m., 38 cm of snow has fallen. Five more centimeters to come.",
+                "topsy_author_url": "http://topsy.com/twitter/cbcmontreal",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cbcmontreal/status/284392941940789248",
+                "trackback_author_name": "CBC Montreal",
+                "trackback_author_nick": "cbcmontreal"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1386253806,
+                "title": "OPPASSEN!!! #storm #edgy #weeralarm #fashion http://t.co/kYum2HSST0",
+                "url": "http://twitter.com/jbmeijers/status/408604195605200896",
+                "trackback_date": 1386253806,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kYum2HSST0",
+                        "display_url": "instagram.com/p/hixclKwWGw/",
+                        "expanded_url": "http://instagram.com/p/hixclKwWGw/",
+                        "topsy_expanded_url": "http://instagram.com/p/hixclKwWGw/"
+                    }
+                ],
+                "target_birth_date": 1386253806,
+                "content": "OPPASSEN!!! #storm #edgy #weeralarm #fashion http://t.co/kYum2HSST0",
+                "mytype": "tweet",
+                "score": 9.022729,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000026600347/1d60d668fda4807c62ae061ebe0f4303_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jbmeijers/status/408604195605200896",
+                "trackback_author_url": "http://twitter.com/jbmeijers",
+                "highlight": "OPPASSEN!!! #storm #edgy #weeralarm #fashion",
+                "topsy_author_url": "http://topsy.com/twitter/jbmeijers",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jbmeijers/status/408604195605200896",
+                "trackback_author_name": "JB Meijers",
+                "trackback_author_nick": "jbmeijers"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1388707175,
+                "title": "Speed limit has been lowered to 45 mph on major Pa. highways: http://t.co/9VUEeTeoL8 | #snow #winter #storm http://t.co/nTLEMxR13t",
+                "url": "http://twitter.com/nbcphiladelphia/status/418894371413852160",
+                "trackback_date": 1388707175,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9VUEeTeoL8",
+                        "display_url": "bit.ly/1hk3eZG",
+                        "expanded_url": "http://bit.ly/1hk3eZG",
+                        "topsy_expanded_url": "http://www.nbcphiladelphia.com/weather/stories/Dangerous-Cold-Set-to-Grip-the-Region-238035171.html?_osource=SocialFlowTwt_PHBrand"
+                    },
+                    {
+                        "url": "http://t.co/nTLEMxR13t",
+                        "display_url": "pic.twitter.com/nTLEMxR13t",
+                        "expanded_url": "http://twitter.com/NBCPhiladelphia/status/418894371413852160/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BdA2NhqIgAAR3-l.jpg"
+                    }
+                ],
+                "target_birth_date": 1388707175,
+                "content": "Speed limit has been lowered to 45 mph on major Pa. highways: http://t.co/9VUEeTeoL8 | #snow #winter #storm http://t.co/nTLEMxR13t",
+                "mytype": "tweet",
+                "score": 9.0222645,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2547371604/mylk2ez0ih6trr55zjhy_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NBCPhiladelphia/status/418894371413852160",
+                "trackback_author_url": "http://twitter.com/nbcphiladelphia",
+                "highlight": "Speed limit has been lowered to 45 mph on major Pa. highways: | #snow #winter #storm",
+                "topsy_author_url": "http://topsy.com/twitter/nbcphiladelphia",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbcphiladelphia/status/418894371413852160",
+                "trackback_author_name": "NBC10 Philadelphia",
+                "trackback_author_nick": "nbcphiladelphia"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1306176060,
+                "title": "Scottish and Southern Energy confirm to BBC News that Inverness is without power tonight. #storm",
+                "url": "http://twitter.com/bbcjamescook/status/72733785539620864",
+                "trackback_date": 1306176060,
+                "trackback_total": 14,
+                "url_expansions": [],
+                "target_birth_date": 1306176060,
+                "content": "Scottish and Southern Energy confirm to BBC News that Inverness is without power tonight. #storm",
+                "mytype": "tweet",
+                "score": 9.021015,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2885814798/7be4882f09bd4a447ec82305abf7c2a6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BBCJamesCook/status/72733785539620864",
+                "trackback_author_url": "http://twitter.com/bbcjamescook",
+                "highlight": "Scottish and Southern Energy confirm to BBC News that Inverness is without power tonight.",
+                "topsy_author_url": "http://topsy.com/twitter/bbcjamescook",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bbcjamescook/status/72733785539620864",
+                "trackback_author_name": "James Cook",
+                "trackback_author_nick": "bbcjamescook"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1327330977,
+                "title": "High surf, rain and snow expected today in San Diego http://t.co/MdCUeaaE #storm #rain",
+                "url": "http://twitter.com/nbcsandiego/status/161463938259746816",
+                "trackback_date": 1327330977,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/MdCUeaaE",
+                        "display_url": "bit.ly/xttJ9x",
+                        "expanded_url": "http://bit.ly/xttJ9x",
+                        "topsy_expanded_url": "http://www.nbcsandiego.com/news/local/san-diego-weather-weekend-rain-wind-137779038.html"
+                    }
+                ],
+                "target_birth_date": 1327330977,
+                "content": "High surf, rain and snow expected today in San Diego http://t.co/MdCUeaaE #storm #rain",
+                "mytype": "tweet",
+                "score": 9.02075,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469282356851789824/XBSrYjm4_normal.png",
+                "trackback_permalink": "http://twitter.com/nbcsandiego/status/161463938259746816",
+                "trackback_author_url": "http://twitter.com/nbcsandiego",
+                "highlight": "High surf, rain and snow expected today in San Diego #storm",
+                "topsy_author_url": "http://topsy.com/twitter/nbcsandiego",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbcsandiego/status/161463938259746816",
+                "trackback_author_name": "#NBC7 San Diego",
+                "trackback_author_nick": "nbcsandiego"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1376342608,
+                "title": "Anvil of severe #storm closing in on Watonga, OK likely producing large, damaging #hail.  #okwx\u2026 http://t.co/aJbnlMzfVu",
+                "url": "http://twitter.com/reedtimmertvn/status/367033619929645056",
+                "trackback_date": 1376342608,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/aJbnlMzfVu",
+                        "display_url": "instagram.com/p/c7ZRK9lfoh/",
+                        "expanded_url": "http://instagram.com/p/c7ZRK9lfoh/",
+                        "topsy_expanded_url": "http://instagram.com/p/c7ZRK9lfoh/"
+                    }
+                ],
+                "target_birth_date": 1376342608,
+                "content": "Anvil of severe #storm closing in on Watonga, OK likely producing large, damaging #hail.  #okwx\u2026 http://t.co/aJbnlMzfVu",
+                "mytype": "tweet",
+                "score": 9.020481,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/454535697794215936/FDC38b7Q_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/reedtimmerTVN/status/367033619929645056",
+                "trackback_author_url": "http://twitter.com/reedtimmertvn",
+                "highlight": "Anvil of severe #storm closing in on Watonga, OK likely producing large, damaging #hail. #okwx\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/reedtimmertvn",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/reedtimmertvn/status/367033619929645056",
+                "trackback_author_name": "Reed Timmer",
+                "trackback_author_nick": "reedtimmertvn"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1399328731,
+                "title": "So here's something..... #Storm http://t.co/kyw2pwsJDt",
+                "url": "http://twitter.com/markbrooksart/status/463444405723340800",
+                "trackback_date": 1399328731,
+                "trackback_total": 19,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kyw2pwsJDt",
+                        "display_url": "instagram.com/p/nob-vfKMz5/",
+                        "expanded_url": "http://instagram.com/p/nob-vfKMz5/",
+                        "topsy_expanded_url": "http://instagram.com/p/nob-vfKMz5/"
+                    }
+                ],
+                "target_birth_date": 1399328731,
+                "content": "So here's something..... #Storm http://t.co/kyw2pwsJDt",
+                "mytype": "tweet",
+                "score": 9.02024,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/451202340167503873/yM4lHEP5_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MarkBrooksArt/status/463444405723340800",
+                "trackback_author_url": "http://twitter.com/markbrooksart",
+                "highlight": "So here's something..... #Storm",
+                "topsy_author_url": "http://topsy.com/twitter/markbrooksart",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/markbrooksart/status/463444405723340800",
+                "trackback_author_name": "Mark Brooks",
+                "trackback_author_nick": "markbrooksart"
+            },
+            {
+                "hits": 15,
+                "firstpost_date": 1365761772,
+                "title": "Ice pellets, high winds, blowing snow pick up just before 6 a.m. Up to 15 cm of snow, ice forecast. http://t.co/2S4UIP7EEr #ottnews #storm",
+                "url": "http://twitter.com/ottawacitizen/status/322654377787662336",
+                "trackback_date": 1365761772,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2S4UIP7EEr",
+                        "display_url": "ow.ly/jZPcu",
+                        "expanded_url": "http://ow.ly/jZPcu",
+                        "topsy_expanded_url": "http://www.ottawacitizen.com/news/ottawa/Capital+gets+winter+storm+warning+late+Thursday+Friday/8227019/story.html"
+                    }
+                ],
+                "target_birth_date": 1365761772,
+                "content": "Ice pellets, high winds, blowing snow pick up just before 6 a.m. Up to 15 cm of snow, ice forecast. http://t.co/2S4UIP7EEr #ottnews #storm",
+                "mytype": "tweet",
+                "score": 9.0201025,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468610286090334208/CgXtfa39_normal.png",
+                "trackback_permalink": "http://twitter.com/OttawaCitizen/status/322654377787662336",
+                "trackback_author_url": "http://twitter.com/ottawacitizen",
+                "highlight": "Ice pellets, high winds, blowing snow pick up just before 6 a.m. Up to 15 cm of snow, ice forecast. #ottnews",
+                "topsy_author_url": "http://topsy.com/twitter/ottawacitizen",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ottawacitizen/status/322654377787662336",
+                "trackback_author_name": "Ottawa Citizen",
+                "trackback_author_nick": "ottawacitizen"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1392453295,
+                "title": "Een #storm raast over Nederland: vrijwel overal code geel, ravage in #Breda http://t.co/pQjKzFFY3w",
+                "url": "http://twitter.com/volkskrant/status/434606736411226112",
+                "trackback_date": 1392453295,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/pQjKzFFY3w",
+                        "display_url": "bit.ly/1lRnfWR",
+                        "expanded_url": "http://bit.ly/1lRnfWR",
+                        "topsy_expanded_url": "http://www.volkskrant.nl/vk/nl/2686/Binnenland/article/detail/3597714/2014/02/15/Storm-raast-over-Nederland-ravage-in-Breda.dhtml"
+                    }
+                ],
+                "target_birth_date": 1392453295,
+                "content": "Een #storm raast over Nederland: vrijwel overal code geel, ravage in #Breda http://t.co/pQjKzFFY3w",
+                "mytype": "tweet",
+                "score": 9.019647,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2732464361/d1de681876bd1581ab6d357e677f7e36_normal.png",
+                "trackback_permalink": "http://twitter.com/volkskrant/status/434606736411226112",
+                "trackback_author_url": "http://twitter.com/volkskrant",
+                "highlight": "Een #storm raast over Nederland: vrijwel overal code geel, ravage in #Breda",
+                "topsy_author_url": "http://topsy.com/twitter/volkskrant",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/volkskrant/status/434606736411226112",
+                "trackback_author_name": "De Volkskrant",
+                "trackback_author_nick": "volkskrant"
+            },
+            {
+                "hits": 38,
+                "firstpost_date": 1382893316,
+                "title": "The #Storm2013 has the potential to uproot trees. If you are out during the #storm please take care and look out for flying debris.",
+                "url": "http://twitter.com/ldn_ambulance/status/394509280360935424",
+                "trackback_date": 1382893316,
+                "trackback_total": 44,
+                "url_expansions": [],
+                "target_birth_date": 1382893316,
+                "content": "The #Storm2013 has the potential to uproot trees. If you are out during the #storm please take care and look out for flying debris.",
+                "mytype": "tweet",
+                "score": 9.019507,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472025695804067840/_-vyVGpN_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Ldn_Ambulance/status/394509280360935424",
+                "trackback_author_url": "http://twitter.com/ldn_ambulance",
+                "highlight": "The #Storm2013 has the potential to uproot trees. If you are out during the #storm please take care and look out for flying debris.",
+                "topsy_author_url": "http://topsy.com/twitter/ldn_ambulance",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ldn_ambulance/status/394509280360935424",
+                "trackback_author_name": "London Ambulance",
+                "trackback_author_nick": "ldn_ambulance"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 620,
+        "hidden": 0,
+        "total": 1124903,
+        "page": 1
+    }
+}

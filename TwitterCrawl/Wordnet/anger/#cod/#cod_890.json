@@ -1,0 +1,280 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23cod&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=890",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#cod",
+            "window": "a",
+            "type": "tweet",
+            "offset": "890"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 16,
+                "firstpost_date": 1376514665,
+                "title": "#CallofDuty Infographic - #COD Franchise History http://t.co/6olqJBLTNt",
+                "url": "http://twitter.com/blackops_tips/status/367755277652594688",
+                "trackback_date": 1376514665,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/6olqJBLTNt",
+                        "display_url": "pic.twitter.com/6olqJBLTNt",
+                        "expanded_url": "http://twitter.com/BlackOps_Tips/status/367755277652594688/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BRqHegECEAAHTHx.jpg"
+                    }
+                ],
+                "target_birth_date": 1376514665,
+                "content": "#CallofDuty Infographic - #COD Franchise History http://t.co/6olqJBLTNt",
+                "mytype": "tweet",
+                "score": 8.914862,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2194433107/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/BlackOps_Tips/status/367755277652594688",
+                "trackback_author_url": "http://twitter.com/blackops_tips",
+                "highlight": "#CallofDuty Infographic - #COD Franchise History",
+                "topsy_author_url": "http://topsy.com/twitter/blackops_tips",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/blackops_tips/status/367755277652594688",
+                "trackback_author_name": "COD: Black Ops 2",
+                "trackback_author_nick": "blackops_tips"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1289426702,
+                "title": "RT @aots: Tonight 7P: @MorganWebb talks #COD Black Ops, Skyline's Donald Faison stops by & EPIC GIVEAWAY!!! http://bit.ly/d3OVqN",
+                "url": "http://twitter.com/g4tv/status/2481887528357888",
+                "trackback_date": 1289426702,
+                "trackback_total": 4,
+                "url_expansions": [],
+                "target_birth_date": 1289426702,
+                "content": "RT @aots: Tonight 7P: @MorganWebb talks #COD Black Ops, Skyline's Donald Faison stops by & EPIC GIVEAWAY!!! http://bit.ly/d3OVqN",
+                "mytype": "tweet",
+                "score": 8.914106,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3728584262/282a8d097b1d1191f193a6c29c1edcd1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/g4tv/status/2481887528357888",
+                "trackback_author_url": "http://twitter.com/esqtv",
+                "highlight": "Tonight 7P: @MorganWebb talks #COD Black Ops, Skyline's Donald Faison stops by & EPIC GIVEAWAY!!!",
+                "topsy_author_url": "http://topsy.com/twitter/esqtv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/g4tv/status/2481887528357888",
+                "trackback_author_name": "Esquire Network",
+                "trackback_author_nick": "esqtv"
+            },
+            {
+                "hits": 100,
+                "firstpost_date": 1353682914,
+                "title": "2 HOURS LEFT!!! Enter our #FreeGameGiveaway to #win a copy of #COD #BlackOps2! JUST RT &amp; FOLLOW! #Dabs12K http://t.co/E1Ae1klj",
+                "url": "http://twitter.com/dabsdotcom/status/271991971483115520",
+                "trackback_date": 1353682914,
+                "trackback_total": 112,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/E1Ae1klj",
+                        "expanded_url": "http://twitter.com/DabsDotCom/status/271991971483115520/photo/1",
+                        "display_url": "pic.twitter.com/E1Ae1klj"
+                    }
+                ],
+                "target_birth_date": 1353682914,
+                "content": "2 HOURS LEFT!!! Enter our #FreeGameGiveaway to #win a copy of #COD #BlackOps2! JUST RT &amp; FOLLOW! #Dabs12K http://t.co/E1Ae1klj",
+                "mytype": "tweet",
+                "score": 8.913521,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2328398154/7utfqqovxhsdkoxp0ca0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DabsDotCom/status/271991971483115520",
+                "trackback_author_url": "http://twitter.com/dabsdotcom",
+                "highlight": "2 HOURS LEFT!!! Enter our #FreeGameGiveaway to #win a copy of #COD #BlackOps2! JUST RT &amp; FOLLOW! #Dabs12K",
+                "topsy_author_url": "http://topsy.com/twitter/dabsdotcom",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dabsdotcom/status/271991971483115520",
+                "trackback_author_name": "DabsDotCom",
+                "trackback_author_nick": "dabsdotcom"
+            },
+            {
+                "hits": 25,
+                "firstpost_date": 1399034816,
+                "title": "Call of Duty: Advanced Warfare has been revealed! Can\u2019t wait? Go pre-order right now &gt; http://t.co/iCh55LQQGw #CoD http://t.co/azFsNJ1Ui2",
+                "url": "http://twitter.com/amazonuk/status/462211636707602432",
+                "trackback_date": 1399034816,
+                "trackback_total": 34,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/iCh55LQQGw",
+                        "display_url": "amzn.to/1fAh4YG",
+                        "expanded_url": "http://amzn.to/1fAh4YG",
+                        "topsy_expanded_url": "http://www.amazon.co.uk/s/ref=tsm_1_tw_s_uk_n4y60n?hidden-keywords=B00JXELVR0&rh=n:300703"
+                    },
+                    {
+                        "url": "http://t.co/azFsNJ1Ui2",
+                        "display_url": "pic.twitter.com/azFsNJ1Ui2",
+                        "expanded_url": "http://twitter.com/AmazonUK/status/462211636707602432/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BmobCOGCMAAEQsJ.jpg"
+                    }
+                ],
+                "target_birth_date": 1399034816,
+                "content": "Call of Duty: Advanced Warfare has been revealed! Can\u2019t wait? Go pre-order right now &gt; http://t.co/iCh55LQQGw #CoD http://t.co/azFsNJ1Ui2",
+                "mytype": "tweet",
+                "score": 8.913061,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458871594727665664/ODd0sGDV_normal.png",
+                "trackback_permalink": "http://twitter.com/AmazonUK/status/462211636707602432",
+                "trackback_author_url": "http://twitter.com/amazonuk",
+                "highlight": "Call of Duty: Advanced Warfare has been revealed! Can\u2019t wait? Go pre-order right now &gt; #CoD",
+                "topsy_author_url": "http://topsy.com/twitter/amazonuk",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/amazonuk/status/462211636707602432",
+                "trackback_author_name": "Amazon UK",
+                "trackback_author_nick": "amazonuk"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1383503048,
+                "title": "Call of Duty Ghosts + kaarten Avenged Sevenfold + kaarten CoD launch party met @nickyromero!!! Morgen 07.00 uur @giel3fm! #3FM #CoD",
+                "url": "http://twitter.com/chantykoolhoven/status/397066680071110656",
+                "trackback_date": 1383503048,
+                "trackback_total": 10,
+                "url_expansions": [],
+                "target_birth_date": 1383503048,
+                "content": "Call of Duty Ghosts + kaarten Avenged Sevenfold + kaarten CoD launch party met @nickyromero!!! Morgen 07.00 uur @giel3fm! #3FM #CoD",
+                "mytype": "tweet",
+                "score": 8.913061,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467734651562655744/HlyjDI86_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ChantyKoolhoven/status/397066680071110656",
+                "trackback_author_url": "http://twitter.com/chantykoolhoven",
+                "highlight": "Call of Duty Ghosts + kaarten Avenged Sevenfold + kaarten CoD launch party met @nickyromero!!! Morgen 07.00 uur @giel3fm! #3FM",
+                "topsy_author_url": "http://topsy.com/twitter/chantykoolhoven",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/chantykoolhoven/status/397066680071110656",
+                "trackback_author_name": "Chantal Koolhoven",
+                "trackback_author_nick": "chantykoolhoven"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1303332204,
+                "title": "*MIXTAPE OF 4.20** STEP BACK BRANDING PRESENTS @DONCANNON @BOBBYDRAKETHEDJ @DaRealTROOP41 \"Call of Duty\" HERE: http://bit.ly/h8FGhl #COD",
+                "url": "http://twitter.com/doncannon/status/60805789236994048",
+                "trackback_date": 1303332204,
+                "trackback_total": 4,
+                "url_expansions": [],
+                "target_birth_date": 1303332204,
+                "content": "*MIXTAPE OF 4.20** STEP BACK BRANDING PRESENTS @DONCANNON @BOBBYDRAKETHEDJ @DaRealTROOP41 \"Call of Duty\" HERE: http://bit.ly/h8FGhl #COD",
+                "mytype": "tweet",
+                "score": 8.91127,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000576764801/82f40591f78f16ef6976586029efe8c1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DonCannon/status/60805789236994048",
+                "trackback_author_url": "http://twitter.com/doncannon",
+                "highlight": "*MIXTAPE OF 4.20** STEP BACK BRANDING PRESENTS @DONCANNON @BOBBYDRAKETHEDJ @DaRealTROOP41 \"Call of Duty\" HERE:",
+                "topsy_author_url": "http://topsy.com/twitter/doncannon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/doncannon/status/60805789236994048",
+                "trackback_author_name": "Don Cannon",
+                "trackback_author_nick": "doncannon"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1386599456,
+                "title": "Give a #gamer the perfect gift this #Christmas with Call of Duty Ghosts on PC, PS3, PS4, Xbox 360 or Xbox One: http://t.co/Ie8Hx9EVCL #COD",
+                "url": "http://twitter.com/asda/status/410053958053679104",
+                "trackback_date": 1386599456,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Ie8Hx9EVCL",
+                        "display_url": "bit.ly/16qvKiE",
+                        "expanded_url": "http://bit.ly/16qvKiE",
+                        "topsy_expanded_url": "http://direct.asda.com/Call-Of-Duty/AD110503,default,sc.html?cm_mmc=ad-social-_-twit-_-games-_-call_of_duty"
+                    }
+                ],
+                "target_birth_date": 1386599456,
+                "content": "Give a #gamer the perfect gift this #Christmas with Call of Duty Ghosts on PC, PS3, PS4, Xbox 360 or Xbox One: http://t.co/Ie8Hx9EVCL #COD",
+                "mytype": "tweet",
+                "score": 8.910638,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000793625473/5fa04704b46ab9904cb64c4f40ff21ce_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/asda/status/410053958053679104",
+                "trackback_author_url": "http://twitter.com/asda",
+                "highlight": "Give a #gamer the perfect gift this #Christmas with Call of Duty Ghosts on PC, PS3, PS4, Xbox 360 or Xbox One:",
+                "topsy_author_url": "http://topsy.com/twitter/asda",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/asda/status/410053958053679104",
+                "trackback_author_name": "Asda",
+                "trackback_author_nick": "asda"
+            },
+            {
+                "hits": 38,
+                "firstpost_date": 1355361766,
+                "title": "@karlpilkingtonq Came across this on #COD so thought id share it... #BullshitMan http://t.co/6u1TjcBx",
+                "url": "http://twitter.com/zen_dean/status/279033582327042048",
+                "trackback_date": 1355361766,
+                "trackback_total": 40,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/6u1TjcBx",
+                        "expanded_url": "http://twitter.com/zen_dean/status/279033582327042048/photo/1",
+                        "display_url": "pic.twitter.com/6u1TjcBx"
+                    }
+                ],
+                "target_birth_date": 1355361766,
+                "content": "@karlpilkingtonq Came across this on #COD so thought id share it... #BullshitMan http://t.co/6u1TjcBx",
+                "mytype": "tweet",
+                "score": 8.910519,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3054411823/8dbb4d72009a112f8fcb4a49a4533b02_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/zen_dean/status/279033582327042048",
+                "trackback_author_url": "http://twitter.com/zen_dean",
+                "highlight": " Came across this on #COD so thought id share it... #BullshitMan",
+                "topsy_author_url": "http://topsy.com/twitter/zen_dean",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/zen_dean/status/279033582327042048",
+                "trackback_author_name": "Zen Dean",
+                "trackback_author_nick": "zen_dean"
+            },
+            {
+                "hits": 64,
+                "firstpost_date": 1363449313,
+                "title": "J'ai mon bon commentary sur #COD qui attend d'\u00eatre publi\u00e9. Vous \u00eates chauds ?",
+                "url": "http://twitter.com/benoitdx9/status/312955218037964800",
+                "trackback_date": 1363449313,
+                "trackback_total": 231,
+                "url_expansions": [],
+                "target_birth_date": 1363449313,
+                "content": "J'ai mon bon commentary sur #COD qui attend d'\u00eatre publi\u00e9. Vous \u00eates chauds ?",
+                "mytype": "tweet",
+                "score": 8.91007,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472098983184060416/S6rhqicO_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Benoitdx9/status/312955218037964800",
+                "trackback_author_url": "http://twitter.com/benoitdx9",
+                "highlight": "J'ai mon bon commentary sur #COD qui attend d'\u00eatre publi\u00e9. Vous \u00eates chauds ?",
+                "topsy_author_url": "http://topsy.com/twitter/benoitdx9",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/benoitdx9/status/312955218037964800",
+                "trackback_author_name": "Benoit - Diablox9",
+                "trackback_author_nick": "benoitdx9"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1328339357,
+                "title": "Swagging for #CoD http://t.co/f6DvvIf2",
+                "url": "http://twitter.com/kdiddybop/status/165693391328395265",
+                "trackback_date": 1328339357,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/f6DvvIf2",
+                        "display_url": "yfrog.com/kiczemyj",
+                        "expanded_url": "http://yfrog.com/kiczemyj",
+                        "topsy_expanded_url": "http://yfrog.com/kiczemyj"
+                    }
+                ],
+                "target_birth_date": 1328339357,
+                "content": "Swagging for #CoD http://t.co/f6DvvIf2",
+                "mytype": "tweet",
+                "score": 8.909854,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/420062821083127808/eaM5a4zj_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/KDIDDYBOP/status/165693391328395265",
+                "trackback_author_url": "http://twitter.com/kdiddybop",
+                "highlight": "Swagging for #CoD",
+                "topsy_author_url": "http://topsy.com/twitter/kdiddybop",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kdiddybop/status/165693391328395265",
+                "trackback_author_name": "KALENNA/FLUX",
+                "trackback_author_nick": "kdiddybop"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 890,
+        "hidden": 0,
+        "total": 1484283,
+        "page": 1
+    }
+}

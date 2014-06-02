@@ -1,0 +1,304 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23nettle&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=350",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#nettle",
+            "window": "a",
+            "type": "tweet",
+            "offset": "350"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1394651661,
+                "title": "RT @FrancoiseM: Mother's Day Special! #Nettle zing! http://t.co/O6ZCmrzxZq \u00a320.00 OFF #Yarn #Dyeing #Weaving http://t.co/PXVytyQIzL http://\u2026",
+                "url": "http://twitter.com/acmasterpainter/status/443827351601045504",
+                "trackback_date": 1394651661,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/O6ZCmrzxZq",
+                        "expanded_url": "http://bit.ly/1kzbeHD",
+                        "display_url": "bit.ly/1kzbeHD"
+                    },
+                    {
+                        "url": "http://t.co/PXVytyQIzL",
+                        "expanded_url": "http://bit.ly/1bK3oaf",
+                        "display_url": "bit.ly/1bK3oaf"
+                    },
+                    {
+                        "url": "http://t.co/nl9m5kIm6S",
+                        "expanded_url": "http://twitter.com/FrancoiseM/status/436470555290501120/photo/1",
+                        "display_url": "pic.twitter.com/nl9m5kIm6S"
+                    }
+                ],
+                "target_birth_date": 1394651661,
+                "content": "RT @FrancoiseM: Mother's Day Special! #Nettle zing! http://t.co/O6ZCmrzxZq \u00a320.00 OFF #Yarn #Dyeing #Weaving http://t.co/PXVytyQIzL http://\u2026",
+                "mytype": "tweet",
+                "score": 7.1254435,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2975749436/bd883cbd42531738c47fcd00bf0e49b8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/acmasterpainter/status/443827351601045504",
+                "trackback_author_url": "http://twitter.com/acmasterpainter",
+                "highlight": "Mother's Day Special! #Nettle zing! \u00a320.00 OFF #Yarn #Dyeing #Weaving",
+                "topsy_author_url": "http://topsy.com/twitter/acmasterpainter",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/acmasterpainter/status/443827351601045504",
+                "trackback_author_name": "Andy Crichton",
+                "trackback_author_nick": "acmasterpainter"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1365627195,
+                "title": "RT @TotalBeauty: The new klorane dry shampoo contains #nettle for oily hair and makes hair super soft! http://t.co/eMo0AfWOPg",
+                "url": "http://twitter.com/gloriayangbb/status/322089919340244992",
+                "trackback_date": 1365627195,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/eMo0AfWOPg",
+                        "expanded_url": "http://instagram.com/p/X7UtDqxdOJ/",
+                        "display_url": "instagram.com/p/X7UtDqxdOJ/"
+                    }
+                ],
+                "target_birth_date": 1365627195,
+                "content": "RT @TotalBeauty: The new klorane dry shampoo contains #nettle for oily hair and makes hair super soft! http://t.co/eMo0AfWOPg",
+                "mytype": "tweet",
+                "score": 7.1090317,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419887974588088320/3_bxc0dW_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/GloriaYangBB/status/322089919340244992",
+                "trackback_author_url": "http://twitter.com/gloriasyang",
+                "highlight": "The new klorane dry shampoo contains #nettle for oily hair and makes hair super soft!",
+                "topsy_author_url": "http://topsy.com/twitter/gloriasyang",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gloriayangbb/status/322089919340244992",
+                "trackback_author_name": "Gloria Yang ",
+                "trackback_author_nick": "gloriasyang"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1332150356,
+                "title": "RT @CarlLegge: It's #nettle time again, the simplest nettle pasta dish http://t.co/ovl57kLS :)",
+                "url": "http://twitter.com/mitchdafish/status/181677879317377024",
+                "trackback_date": 1332150356,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ovl57kLS",
+                        "expanded_url": "http://ow.ly/9J96q",
+                        "display_url": "ow.ly/9J96q"
+                    }
+                ],
+                "target_birth_date": 1332150356,
+                "content": "RT @CarlLegge: It's #nettle time again, the simplest nettle pasta dish http://t.co/ovl57kLS :)",
+                "mytype": "tweet",
+                "score": 7.106463,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/427823117671882753/NOgbZ5yP_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mitchdafish/status/181677879317377024",
+                "trackback_author_url": "http://twitter.com/mitchdafish",
+                "highlight": "It's #nettle time again, the simplest nettle pasta dish :)",
+                "topsy_author_url": "http://topsy.com/twitter/mitchdafish",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mitchdafish/status/181677879317377024",
+                "trackback_author_name": "mitchd\u00e5fish",
+                "trackback_author_nick": "mitchdafish"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1369758873,
+                "title": "RT @ullamaaria: Making nettle pasta with the kids, http://t.co/MDz0m1k1Ye #cooking #recipes #nettle #kids",
+                "url": "http://twitter.com/stuffmelikey/status/339419433166585856",
+                "trackback_date": 1369758873,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/MDz0m1k1Ye",
+                        "expanded_url": "http://www.thinglink.com/scene/394859126401794050",
+                        "display_url": "thinglink.com/scene/39485912\u2026"
+                    }
+                ],
+                "target_birth_date": 1369758873,
+                "content": "RT @ullamaaria: Making nettle pasta with the kids, http://t.co/MDz0m1k1Ye #cooking #recipes #nettle #kids",
+                "mytype": "tweet",
+                "score": 7.101165,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458995142662189057/vIyNQpQy_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/StuffMeLikey/status/339419433166585856",
+                "trackback_author_url": "http://twitter.com/stuffmelikey",
+                "highlight": "Making nettle pasta with the kids, #cooking #recipes #nettle",
+                "topsy_author_url": "http://topsy.com/twitter/stuffmelikey",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/stuffmelikey/status/339419433166585856",
+                "trackback_author_name": "Stuff Me Likey",
+                "trackback_author_nick": "stuffmelikey"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1340404934,
+                "title": "@LammaOnline We already have our popular #nettle tisane but are looking into something #fruity! Will keep you updated. Enjoy your weekend!",
+                "url": "http://twitter.com/tregothnan/status/216300089658966017",
+                "trackback_date": 1340404934,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1340404934,
+                "content": "@LammaOnline We already have our popular #nettle tisane but are looking into something #fruity! Will keep you updated. Enjoy your weekend!",
+                "mytype": "tweet",
+                "score": 7.100615,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1847976351/tregtwitter_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Tregothnan/status/216300089658966017",
+                "trackback_author_url": "http://twitter.com/tregothnan",
+                "highlight": " We already have our popular #nettle tisane but are looking into something #fruity! Will keep you updated. Enjoy your weekend!",
+                "topsy_author_url": "http://topsy.com/twitter/tregothnan",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tregothnan/status/216300089658966017",
+                "trackback_author_name": "Tregothnan",
+                "trackback_author_nick": "tregothnan"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1377127884,
+                "title": "RT @CreateCaters: #picstitch#yum #mplsfood #nettle #gnudi #dumplings http://t.co/XKCSanjWeB",
+                "url": "http://twitter.com/metroiba/status/370327305773518848",
+                "trackback_date": 1377127884,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XKCSanjWeB",
+                        "expanded_url": "http://instagram.com/p/dSv4SyOUry/",
+                        "display_url": "instagram.com/p/dSv4SyOUry/"
+                    }
+                ],
+                "target_birth_date": 1377127884,
+                "content": "RT @CreateCaters: #picstitch#yum #mplsfood #nettle #gnudi #dumplings http://t.co/XKCSanjWeB",
+                "mytype": "tweet",
+                "score": 7.0963445,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2225202696/MetroIBA_newlogo_normal.png",
+                "trackback_permalink": "http://twitter.com/MetroIBA/status/370327305773518848",
+                "trackback_author_url": "http://twitter.com/metroiba",
+                "highlight": "#picstitch#yum #mplsfood #nettle #gnudi #dumplings",
+                "topsy_author_url": "http://topsy.com/twitter/metroiba",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/metroiba/status/370327305773518848",
+                "trackback_author_name": "BuyLocalTwinCities",
+                "trackback_author_nick": "metroiba"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1396792575,
+                "title": "RT @AisNicC: #nettle pasta ready for the pot @killruddery @SugarloafSlowFd @edhick http://t.co/DrPDts1EBX",
+                "url": "http://twitter.com/edhick/status/452806997747195905",
+                "trackback_date": 1396792575,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DrPDts1EBX",
+                        "expanded_url": "http://twitter.com/AisNicC/status/452778384133988352/photo/1",
+                        "display_url": "pic.twitter.com/DrPDts1EBX"
+                    }
+                ],
+                "target_birth_date": 1396792575,
+                "content": "RT @AisNicC: #nettle pasta ready for the pot @killruddery @SugarloafSlowFd @edhick http://t.co/DrPDts1EBX",
+                "mytype": "tweet",
+                "score": 7.092012,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472302038756646912/g4LfxvWc_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/edhick/status/452806997747195905",
+                "trackback_author_url": "http://twitter.com/edhick",
+                "highlight": "#nettle pasta ready for the pot @killruddery @SugarloafSlowFd @edhick",
+                "topsy_author_url": "http://topsy.com/twitter/edhick",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/edhick/status/452806997747195905",
+                "trackback_author_name": "Ed Hick",
+                "trackback_author_nick": "edhick"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1316613062,
+                "title": "RT @BeautifulEarth1: Interesting review of #Nettle&Moss products via @IrieDiva @neosole http://t.co/kLvtTuWi #lovingyourhairwithnaturalc ...",
+                "url": "http://twitter.com/iriediva/status/116509746139377664",
+                "trackback_date": 1316613062,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kLvtTuWi",
+                        "expanded_url": "http://iriediva.com/2011/09/20/neosole-talks-naturalhair-locs-janecarter-and-thando-kafele-at-fnoja/",
+                        "display_url": "iriediva.com/2011/09/20/neo\u2026"
+                    }
+                ],
+                "target_birth_date": 1316613062,
+                "content": "RT @BeautifulEarth1: Interesting review of #Nettle&Moss products via @IrieDiva @neosole http://t.co/kLvtTuWi #lovingyourhairwithnaturalc ...",
+                "mytype": "tweet",
+                "score": 7.0834866,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3403184059/225d8ea8c4c7e50d52f7045bf0ed94d3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/IrieDiva/status/116509746139377664",
+                "trackback_author_url": "http://twitter.com/iriediva",
+                "highlight": "Interesting review of #Nettle&Moss products via @IrieDiva @neosole #lovingyourhairwithnaturalc ",
+                "topsy_author_url": "http://topsy.com/twitter/iriediva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/iriediva/status/116509746139377664",
+                "trackback_author_name": "Monique Solomon",
+                "trackback_author_nick": "iriediva"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1331057102,
+                "title": "@guenevere8 Thanks for the RT! Spring is near: Drink your allergies away with Nettle Infusion http://t.co/5RmqsXiF #nettle #recipe",
+                "url": "http://twitter.com/achsapothecary/status/177092438991704064",
+                "trackback_date": 1331057102,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/5RmqsXiF",
+                        "display_url": "ow.ly/9sV7m",
+                        "expanded_url": "http://ow.ly/9sV7m",
+                        "topsy_expanded_url": "http://www.apothecary-shoppe.com/product_info.php?osCsid=b30ea445784365811452439d68447794&products_id=449"
+                    }
+                ],
+                "target_birth_date": 1331057102,
+                "content": "@guenevere8 Thanks for the RT! Spring is near: Drink your allergies away with Nettle Infusion http://t.co/5RmqsXiF #nettle #recipe",
+                "mytype": "tweet",
+                "score": 7.079188,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/181513750/AClogo_normal.gif",
+                "trackback_permalink": "http://twitter.com/ACHSApothecary/status/177092438991704064",
+                "trackback_author_url": "http://twitter.com/achsapothecary",
+                "highlight": " Thanks for the RT! Spring is near: Drink your allergies away with Nettle Infusion #nettle",
+                "topsy_author_url": "http://topsy.com/twitter/achsapothecary",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/achsapothecary/status/177092438991704064",
+                "trackback_author_name": "Apothecary Shoppe",
+                "trackback_author_nick": "achsapothecary"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1386355018,
+                "title": "RT @FrancoiseM: NEW! #Nettle #weaving #dyeing at @Rootshootsleaf . Already 4 booked! #Christmas #gift #perfect http://t.co/PXVytyQIzL http:\u2026",
+                "url": "http://twitter.com/janetedavis/status/409028711116472320",
+                "trackback_date": 1386355018,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PXVytyQIzL",
+                        "expanded_url": "http://bit.ly/1bK3oaf",
+                        "display_url": "bit.ly/1bK3oaf"
+                    },
+                    {
+                        "url": "http://t.co/RtmO83jueL",
+                        "expanded_url": "http://twitter.com/FrancoiseM/status/409027340581081088/photo/1",
+                        "display_url": "pic.twitter.com/RtmO83jueL"
+                    }
+                ],
+                "target_birth_date": 1386355018,
+                "content": "RT @FrancoiseM: NEW! #Nettle #weaving #dyeing at @Rootshootsleaf . Already 4 booked! #Christmas #gift #perfect http://t.co/PXVytyQIzL http:\u2026",
+                "mytype": "tweet",
+                "score": 7.0722065,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1765218716/Self-portrait_18_for48x48Thumb_normal.jpg",
+                "trackback_permalink": "http://twitter.com/janetedavis/status/409028711116472320",
+                "trackback_author_url": "http://twitter.com/janetedavis",
+                "highlight": "NEW! #Nettle #weaving #dyeing at @Rootshootsleaf . Already 4 booked! #Christmas #gift #perfect http:\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/janetedavis",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/janetedavis/status/409028711116472320",
+                "trackback_author_name": "Janet E Davis",
+                "trackback_author_nick": "janetedavis"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 350,
+        "hidden": 0,
+        "total": 3185,
+        "page": 1
+    }
+}

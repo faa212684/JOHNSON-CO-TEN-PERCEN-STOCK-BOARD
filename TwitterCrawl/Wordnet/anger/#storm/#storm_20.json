@@ -1,0 +1,289 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23storm&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=20",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#storm",
+            "window": "a",
+            "type": "tweet",
+            "offset": "20"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1353,
+                "firstpost_date": 1390863623,
+                "title": "#Storm has arrived! Halle Berry graces the next of @EmpireMagazine's 25 #XMen cover exclusives http://t.co/ATivPwEr55 http://t.co/aUXBv90utA",
+                "url": "http://twitter.com/realhughjackman/status/427939167561994240",
+                "trackback_date": 1390863623,
+                "trackback_total": 1635,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ATivPwEr55",
+                        "display_url": "bit.ly/Empire25",
+                        "expanded_url": "http://bit.ly/Empire25",
+                        "topsy_expanded_url": "http://www.empireonline.com/xmen/"
+                    },
+                    {
+                        "url": "http://t.co/aUXBv90utA",
+                        "display_url": "pic.twitter.com/aUXBv90utA",
+                        "expanded_url": "http://twitter.com/RealHughJackman/status/427939167561994240/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BfBYZ9RCUAA9Kg0.jpg"
+                    }
+                ],
+                "target_birth_date": 1390863623,
+                "content": "#Storm has arrived! Halle Berry graces the next of @EmpireMagazine's 25 #XMen cover exclusives http://t.co/ATivPwEr55 http://t.co/aUXBv90utA",
+                "mytype": "tweet",
+                "score": 10.147744,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/124111564/08_Jackman_085_normal.jpg",
+                "trackback_permalink": "http://twitter.com/RealHughJackman/status/427939167561994240",
+                "trackback_author_url": "http://twitter.com/realhughjackman",
+                "highlight": "#Storm has arrived! Halle Berry graces the next of @EmpireMagazine's 25 #XMen cover exclusives",
+                "topsy_author_url": "http://topsy.com/twitter/realhughjackman",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/realhughjackman/status/427939167561994240",
+                "trackback_author_name": "Hugh Jackman",
+                "trackback_author_nick": "realhughjackman"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1362753712,
+                "title": "#Winter #storm hampers New England #commuters http://t.co/cvmnblgXVj  #snow",
+                "url": "http://twitter.com/foxnews/status/310037656732053504",
+                "trackback_date": 1362753712,
+                "trackback_total": 30,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cvmnblgXVj",
+                        "display_url": "fxn.ws/WPhdsc",
+                        "expanded_url": "http://fxn.ws/WPhdsc",
+                        "topsy_expanded_url": "http://www.foxnews.com/weather/2013/03/08/winter-storm-hampers-new-england-commuters/"
+                    }
+                ],
+                "target_birth_date": 1362753712,
+                "content": "#Winter #storm hampers New England #commuters http://t.co/cvmnblgXVj  #snow",
+                "mytype": "tweet",
+                "score": 10.124351,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png",
+                "trackback_permalink": "http://twitter.com/FoxNews/status/310037656732053504",
+                "trackback_author_url": "http://twitter.com/foxnews",
+                "highlight": "#Winter #storm hampers New England #commuters",
+                "topsy_author_url": "http://topsy.com/twitter/foxnews",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/foxnews/status/310037656732053504",
+                "trackback_author_name": "Fox News",
+                "trackback_author_nick": "foxnews"
+            },
+            {
+                "hits": 178,
+                "firstpost_date": 1384736444,
+                "title": "#Timelapse video shows the #storm over #Indianapolis. #Midwest http://t.co/bBTg2scNtA",
+                "url": "http://twitter.com/cnnvideo/status/402239919772295168",
+                "trackback_date": 1384736444,
+                "trackback_total": 220,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/bBTg2scNtA",
+                        "display_url": "cnn.it/17Ea2h8",
+                        "expanded_url": "http://cnn.it/17Ea2h8",
+                        "topsy_expanded_url": "http://www.cnn.com/video/data/2.0/video/weather/2013/11/17/indianapolis-time-lapse.wish.html"
+                    }
+                ],
+                "target_birth_date": 1384736444,
+                "content": "#Timelapse video shows the #storm over #Indianapolis. #Midwest http://t.co/bBTg2scNtA",
+                "mytype": "tweet",
+                "score": 10.122613,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1860347996/CNNVideo_Icon_normal.jpg",
+                "trackback_permalink": "http://twitter.com/CNNVideo/status/402239919772295168",
+                "trackback_author_url": "http://twitter.com/cnnvideo",
+                "highlight": "#Timelapse video shows the #storm over #Indianapolis. #Midwest",
+                "topsy_author_url": "http://topsy.com/twitter/cnnvideo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cnnvideo/status/402239919772295168",
+                "trackback_author_name": "CNN Video",
+                "trackback_author_nick": "cnnvideo"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1356544541,
+                "title": "Christmas #Storm Death Toll Up to 6 as Storm Churns North #weather http://t.co/IiYKl41M",
+                "url": "http://twitter.com/abc/status/283994505772945408",
+                "trackback_date": 1356544541,
+                "trackback_total": 20,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/IiYKl41M",
+                        "display_url": "abcn.ws/YMW07o",
+                        "expanded_url": "http://abcn.ws/YMW07o",
+                        "topsy_expanded_url": "http://abcnews.go.com/US/christmas-storm-death-toll/story?id=18066711"
+                    }
+                ],
+                "target_birth_date": 1356544541,
+                "content": "Christmas #Storm Death Toll Up to 6 as Storm Churns North #weather http://t.co/IiYKl41M",
+                "mytype": "tweet",
+                "score": 10.118922,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3732519004/d336acac6e4bb0696be48e5a4306cd1c_normal.png",
+                "trackback_permalink": "http://twitter.com/ABC/status/283994505772945408",
+                "trackback_author_url": "http://twitter.com/abc",
+                "highlight": "Christmas #Storm Death Toll Up to 6 as Storm Churns North #weather",
+                "topsy_author_url": "http://topsy.com/twitter/abc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/abc/status/283994505772945408",
+                "trackback_author_name": "ABC News",
+                "trackback_author_nick": "abc"
+            },
+            {
+                "hits": 31,
+                "firstpost_date": 1392260867,
+                "title": "\"All of the heavy heavy snow will be west of I-95\" @chadmyerscnn on #Storm. #AC360",
+                "url": "http://twitter.com/ac360/status/433799634763649024",
+                "trackback_date": 1392260867,
+                "trackback_total": 49,
+                "url_expansions": [],
+                "target_birth_date": 1392260867,
+                "content": "\"All of the heavy heavy snow will be west of I-95\" @chadmyerscnn on #Storm. #AC360",
+                "mytype": "tweet",
+                "score": 10.085159,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2672195473/1a3f0555bf9697793f78ef2d5ba01006_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AC360/status/433799634763649024",
+                "trackback_author_url": "http://twitter.com/ac360",
+                "highlight": "\"All of the heavy heavy snow will be west of I-95\" @chadmyerscnn on #Storm.",
+                "topsy_author_url": "http://topsy.com/twitter/ac360",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ac360/status/433799634763649024",
+                "trackback_author_name": "Anderson Cooper 360\u00b0",
+                "trackback_author_nick": "ac360"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1360423862,
+                "title": "RT @AJEWeather | Here are where the biggest #poweroutages are in #Massachusetts do to the severe #winter #storm | http://t.co/pVlStA0W",
+                "url": "http://twitter.com/ajenglish/status/300265557679288320",
+                "trackback_date": 1360423862,
+                "trackback_total": 13,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/pVlStA0W",
+                        "display_url": "aje.me/UP7vuv",
+                        "expanded_url": "http://aje.me/UP7vuv",
+                        "topsy_expanded_url": "http://wbsm.com/nstar-massachusetts-power-outage-map/"
+                    }
+                ],
+                "target_birth_date": 1360423862,
+                "content": "RT @AJEWeather | Here are where the biggest #poweroutages are in #Massachusetts do to the severe #winter #storm | http://t.co/pVlStA0W",
+                "mytype": "tweet",
+                "score": 10.0546465,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/448478192022474752/yOHtpEoL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AJEnglish/status/300265557679288320",
+                "trackback_author_url": "http://twitter.com/ajenglish",
+                "highlight": "RT @AJEWeather | Here are where the biggest #poweroutages are in #Massachusetts do to the severe #winter #storm |",
+                "topsy_author_url": "http://topsy.com/twitter/ajenglish",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ajenglish/status/300265557679288320",
+                "trackback_author_name": "Al Jazeera English",
+                "trackback_author_nick": "ajenglish"
+            },
+            {
+                "hits": 30,
+                "firstpost_date": 1303135125,
+                "title": "Weekend of severe #weather across the #South leaves at least 45 dead, 22 in North Carolina alone http://fxn.ws/hhFZ7O #storm #tornado",
+                "url": "http://twitter.com/foxnews/status/59979179831197697",
+                "trackback_date": 1303135125,
+                "trackback_total": 38,
+                "url_expansions": [],
+                "target_birth_date": 1303135125,
+                "content": "Weekend of severe #weather across the #South leaves at least 45 dead, 22 in North Carolina alone http://fxn.ws/hhFZ7O #storm #tornado",
+                "mytype": "tweet",
+                "score": 10.045382,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png",
+                "trackback_permalink": "http://twitter.com/foxnews/status/59979179831197697",
+                "trackback_author_url": "http://twitter.com/foxnews",
+                "highlight": "Weekend of severe #weather across the #South leaves at least 45 dead, 22 in North Carolina alone #storm",
+                "topsy_author_url": "http://topsy.com/twitter/foxnews",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/foxnews/status/59979179831197697",
+                "trackback_author_name": "Fox News",
+                "trackback_author_nick": "foxnews"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1360396876,
+                "title": "RT @AJEWeather For the latest on the huge #storm slamming the #USA, check out the live weather blog: http://t.co/qcSBUWlk",
+                "url": "http://twitter.com/ajenglish/status/300152372687147008",
+                "trackback_date": 1360396876,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/qcSBUWlk",
+                        "display_url": "aje.me/XuyO9M",
+                        "expanded_url": "http://aje.me/XuyO9M",
+                        "topsy_expanded_url": "http://aje.me/XuyO9M"
+                    }
+                ],
+                "target_birth_date": 1360396876,
+                "content": "RT @AJEWeather For the latest on the huge #storm slamming the #USA, check out the live weather blog: http://t.co/qcSBUWlk",
+                "mytype": "tweet",
+                "score": 10.041038,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/448478192022474752/yOHtpEoL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AJEnglish/status/300152372687147008",
+                "trackback_author_url": "http://twitter.com/ajenglish",
+                "highlight": "RT @AJEWeather For the latest on the huge #storm slamming the #USA, check out the live weather blog:",
+                "topsy_author_url": "http://topsy.com/twitter/ajenglish",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ajenglish/status/300152372687147008",
+                "trackback_author_name": "Al Jazeera English",
+                "trackback_author_nick": "ajenglish"
+            },
+            {
+                "hits": 35,
+                "firstpost_date": 1360276401,
+                "title": "#Massachusetts Gov. Deval Patrick holds a news conference regarding the approaching winter #storm. Live: http://t.co/bgTGmnmU",
+                "url": "http://twitter.com/cnnlive/status/299647062688030721",
+                "trackback_date": 1360276401,
+                "trackback_total": 44,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/bgTGmnmU",
+                        "display_url": "CNN.com/live2",
+                        "expanded_url": "http://CNN.com/live2",
+                        "topsy_expanded_url": "http://www.cnn.com/video/"
+                    }
+                ],
+                "target_birth_date": 1360276401,
+                "content": "#Massachusetts Gov. Deval Patrick holds a news conference regarding the approaching winter #storm. Live: http://t.co/bgTGmnmU",
+                "mytype": "tweet",
+                "score": 10.01348,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/788461836/cnnLive_normal.jpg",
+                "trackback_permalink": "http://twitter.com/CNNLive/status/299647062688030721",
+                "trackback_author_url": "http://twitter.com/cnnlive",
+                "highlight": "#Massachusetts Gov. Deval Patrick holds a news conference regarding the approaching winter #storm. Live:",
+                "topsy_author_url": "http://topsy.com/twitter/cnnlive",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cnnlive/status/299647062688030721",
+                "trackback_author_name": "CNN Live",
+                "trackback_author_nick": "cnnlive"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1300719298,
+                "title": "Tips and tricks for #BlackBerry #Storm users: http://bbry.lv/StormTips ^SH",
+                "url": "http://twitter.com/blackberryhelp/status/49846466495250433",
+                "trackback_date": 1300719298,
+                "trackback_total": 13,
+                "url_expansions": [],
+                "target_birth_date": 1300719298,
+                "content": "Tips and tricks for #BlackBerry #Storm users: http://bbry.lv/StormTips ^SH",
+                "mytype": "tweet",
+                "score": 10.009312,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1993678305/r3_a1_twitter_profile_88x88__2__normal.jpg",
+                "trackback_permalink": "http://twitter.com/BlackBerryHelp/status/49846466495250433",
+                "trackback_author_url": "http://twitter.com/blackberryhelp",
+                "highlight": "Tips and tricks for #BlackBerry #Storm users: ^SH",
+                "topsy_author_url": "http://topsy.com/twitter/blackberryhelp",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/blackberryhelp/status/49846466495250433",
+                "trackback_author_name": "BlackBerryHelp",
+                "trackback_author_nick": "blackberryhelp"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 20,
+        "hidden": 0,
+        "total": 1142547,
+        "page": 1
+    }
+}

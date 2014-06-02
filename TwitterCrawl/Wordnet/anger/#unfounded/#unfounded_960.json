@@ -1,0 +1,294 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23unfounded&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=960",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#unfounded",
+            "window": "a",
+            "type": "tweet",
+            "offset": "960"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1392921738,
+                "title": "RT @tyleronemo: \u00a6 http://t.co/tMUUeAHaZG 290  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #o\u2026",
+                "url": "http://twitter.com/tfb_jack/status/436571531544498176",
+                "trackback_date": 1392921738,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/tMUUeAHaZG",
+                        "expanded_url": "http://buff.ly/Oe4hia",
+                        "display_url": "buff.ly/Oe4hia"
+                    }
+                ],
+                "target_birth_date": 1392921738,
+                "content": "RT @tyleronemo: \u00a6 http://t.co/tMUUeAHaZG 290  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #o\u2026",
+                "mytype": "tweet",
+                "score": 3.5434923,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000675840096/6b96564d2c2463bd6a3859b9e7f229ca_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/tfb_jack/status/436571531544498176",
+                "trackback_author_url": "http://twitter.com/tfb_jack",
+                "highlight": "\u00a6 290 #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded #Because #she #was #o\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/tfb_jack",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tfb_jack/status/436571531544498176",
+                "trackback_author_name": "Jacob",
+                "trackback_author_nick": "tfb_jack"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392921738,
+                "title": "RT @tyleronemo: \u00a6 http://t.co/tMUUeAHaZG 290  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #o\u2026",
+                "url": "http://twitter.com/haileymian/status/436571529397018624",
+                "trackback_date": 1392921738,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/tMUUeAHaZG",
+                        "expanded_url": "http://buff.ly/Oe4hia",
+                        "display_url": "buff.ly/Oe4hia"
+                    }
+                ],
+                "target_birth_date": 1392921738,
+                "content": "RT @tyleronemo: \u00a6 http://t.co/tMUUeAHaZG 290  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #o\u2026",
+                "mytype": "tweet",
+                "score": 3.5434923,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000275505338/e441757e35fc4abc7d08a89ddde2892b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/haileymian/status/436571529397018624",
+                "trackback_author_url": "http://twitter.com/haileymian",
+                "highlight": "\u00a6 290 #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded #Because #she #was #o\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/haileymian",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/haileymian/status/436571529397018624",
+                "trackback_author_name": "Hailey",
+                "trackback_author_nick": "haileymian"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392921736,
+                "title": "RT @tyleronemo: \u00a6 http://t.co/tMUUeAHaZG 290  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #o\u2026",
+                "url": "http://twitter.com/us24news/status/436571520467357696",
+                "trackback_date": 1392921736,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/tMUUeAHaZG",
+                        "expanded_url": "http://buff.ly/Oe4hia",
+                        "display_url": "buff.ly/Oe4hia"
+                    }
+                ],
+                "target_birth_date": 1392921736,
+                "content": "RT @tyleronemo: \u00a6 http://t.co/tMUUeAHaZG 290  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #o\u2026",
+                "mytype": "tweet",
+                "score": 3.5434923,
+                "topsy_author_img": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+                "trackback_permalink": "http://twitter.com/us24news/status/436571520467357696",
+                "trackback_author_url": "http://twitter.com/us24news",
+                "highlight": "\u00a6 290 #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded #Because #she #was #o\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/us24news",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/us24news/status/436571520467357696",
+                "trackback_author_name": "Megan",
+                "trackback_author_nick": "us24news"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392921734,
+                "title": "RT @tyleronemo: \u00a6 http://t.co/tMUUeAHaZG 290  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #o\u2026",
+                "url": "http://twitter.com/playnbeth/status/436571511579615232",
+                "trackback_date": 1392921734,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/tMUUeAHaZG",
+                        "expanded_url": "http://buff.ly/Oe4hia",
+                        "display_url": "buff.ly/Oe4hia"
+                    }
+                ],
+                "target_birth_date": 1392921734,
+                "content": "RT @tyleronemo: \u00a6 http://t.co/tMUUeAHaZG 290  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #o\u2026",
+                "mytype": "tweet",
+                "score": 3.5434923,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000230578548/fd106ddc12bd2425d2bf746affcb7c14_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/playnbeth/status/436571511579615232",
+                "trackback_author_url": "http://twitter.com/playnbeth",
+                "highlight": "\u00a6 290 #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded #Because #she #was #o\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/playnbeth",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/playnbeth/status/436571511579615232",
+                "trackback_author_name": "Elizabeth",
+                "trackback_author_nick": "playnbeth"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392921733,
+                "title": "RT @tyleronemo: \u00a6 http://t.co/tMUUeAHaZG 290  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #o\u2026",
+                "url": "http://twitter.com/usa_ella/status/436571508509380608",
+                "trackback_date": 1392921733,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/tMUUeAHaZG",
+                        "expanded_url": "http://buff.ly/Oe4hia",
+                        "display_url": "buff.ly/Oe4hia"
+                    }
+                ],
+                "target_birth_date": 1392921733,
+                "content": "RT @tyleronemo: \u00a6 http://t.co/tMUUeAHaZG 290  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #o\u2026",
+                "mytype": "tweet",
+                "score": 3.5434923,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000280652299/b0fc062f48b6f5b966659e03556e88da_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/usa_ella/status/436571508509380608",
+                "trackback_author_url": "http://twitter.com/usa_ella",
+                "highlight": "\u00a6 290 #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded #Because #she #was #o\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/usa_ella",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/usa_ella/status/436571508509380608",
+                "trackback_author_name": "Ella",
+                "trackback_author_nick": "usa_ella"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392921729,
+                "title": "RT @tyleronemo: \u00a6 http://t.co/tMUUeAHaZG 290  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #o\u2026",
+                "url": "http://twitter.com/sa__ra_h/status/436571490306101248",
+                "trackback_date": 1392921729,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/tMUUeAHaZG",
+                        "expanded_url": "http://buff.ly/Oe4hia",
+                        "display_url": "buff.ly/Oe4hia"
+                    }
+                ],
+                "target_birth_date": 1392921729,
+                "content": "RT @tyleronemo: \u00a6 http://t.co/tMUUeAHaZG 290  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #o\u2026",
+                "mytype": "tweet",
+                "score": 3.5434923,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000275482091/c8a7f5b0289d52d9851b69cf360f7e5d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/sa__ra_h/status/436571490306101248",
+                "trackback_author_url": "http://twitter.com/sa__ra_h",
+                "highlight": "\u00a6 290 #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded #Because #she #was #o\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/sa__ra_h",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sa__ra_h/status/436571490306101248",
+                "trackback_author_name": "Sarah",
+                "trackback_author_nick": "sa__ra_h"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392837692,
+                "title": "RT @tyleronemo: #CAN http://t.co/URKfMIR71s  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #on\u2026",
+                "url": "http://twitter.com/alexis_golde/status/436219015489269760",
+                "trackback_date": 1392837692,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/URKfMIR71s",
+                        "expanded_url": "http://buff.ly/1eP0A7l",
+                        "display_url": "buff.ly/1eP0A7l"
+                    }
+                ],
+                "target_birth_date": 1392837692,
+                "content": "RT @tyleronemo: #CAN http://t.co/URKfMIR71s  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #on\u2026",
+                "mytype": "tweet",
+                "score": 3.5323434,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000230590096/6b766f4aac70bf6dbfdeb003f826ab56_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/alexis_golde/status/436219015489269760",
+                "trackback_author_url": "http://twitter.com/alexis_golde",
+                "highlight": "#CAN #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded #Because #she #was #on\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/alexis_golde",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/alexis_golde/status/436219015489269760",
+                "trackback_author_name": "Alexis",
+                "trackback_author_nick": "alexis_golde"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392837686,
+                "title": "RT @tyleronemo: #CAN http://t.co/URKfMIR71s  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #on\u2026",
+                "url": "http://twitter.com/tfb_jack/status/436218989836906497",
+                "trackback_date": 1392837686,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/URKfMIR71s",
+                        "expanded_url": "http://buff.ly/1eP0A7l",
+                        "display_url": "buff.ly/1eP0A7l"
+                    }
+                ],
+                "target_birth_date": 1392837686,
+                "content": "RT @tyleronemo: #CAN http://t.co/URKfMIR71s  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #on\u2026",
+                "mytype": "tweet",
+                "score": 3.5323434,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000675840096/6b96564d2c2463bd6a3859b9e7f229ca_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/tfb_jack/status/436218989836906497",
+                "trackback_author_url": "http://twitter.com/tfb_jack",
+                "highlight": "#CAN #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded #Because #she #was #on\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/tfb_jack",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tfb_jack/status/436218989836906497",
+                "trackback_author_name": "Jacob",
+                "trackback_author_nick": "tfb_jack"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392837686,
+                "title": "RT @tyleronemo: #CAN http://t.co/URKfMIR71s  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #on\u2026",
+                "url": "http://twitter.com/playnbeth/status/436218989799149568",
+                "trackback_date": 1392837686,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/URKfMIR71s",
+                        "expanded_url": "http://buff.ly/1eP0A7l",
+                        "display_url": "buff.ly/1eP0A7l"
+                    }
+                ],
+                "target_birth_date": 1392837686,
+                "content": "RT @tyleronemo: #CAN http://t.co/URKfMIR71s  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #on\u2026",
+                "mytype": "tweet",
+                "score": 3.5323434,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000230578548/fd106ddc12bd2425d2bf746affcb7c14_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/playnbeth/status/436218989799149568",
+                "trackback_author_url": "http://twitter.com/playnbeth",
+                "highlight": "#CAN #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded #Because #she #was #on\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/playnbeth",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/playnbeth/status/436218989799149568",
+                "trackback_author_name": "Elizabeth",
+                "trackback_author_nick": "playnbeth"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392837683,
+                "title": "RT @tyleronemo: #CAN http://t.co/URKfMIR71s  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #on\u2026",
+                "url": "http://twitter.com/hannajloo/status/436218978499694592",
+                "trackback_date": 1392837683,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/URKfMIR71s",
+                        "expanded_url": "http://buff.ly/1eP0A7l",
+                        "display_url": "buff.ly/1eP0A7l"
+                    }
+                ],
+                "target_birth_date": 1392837683,
+                "content": "RT @tyleronemo: #CAN http://t.co/URKfMIR71s  #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded  #Because #she #was #on\u2026",
+                "mytype": "tweet",
+                "score": 3.5323434,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000129857618/c4f5a7dca2886a20424026e6c1455b58_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/hannajloo/status/436218978499694592",
+                "trackback_author_url": "http://twitter.com/hannajloo",
+                "highlight": "#CAN #Talking #Angela #App: #Game #Warning #Email #Over #Privacy #Unfounded #Because #she #was #on\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/hannajloo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hannajloo/status/436218978499694592",
+                "trackback_author_name": "Hannah J.",
+                "trackback_author_nick": "hannajloo"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 960,
+        "hidden": 0,
+        "total": 986,
+        "page": 1
+    }
+}

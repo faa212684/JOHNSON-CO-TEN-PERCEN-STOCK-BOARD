@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23gaga&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=290",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#gaga",
+            "window": "a",
+            "type": "tweet",
+            "offset": "290"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 4,
+                "firstpost_date": 1314129036,
+                "title": "El otro a\u00f1o #gaga ser\u00e1 invitada especial a la temporada n\u00famero 23 de Los Simpsons. http://t.co/3Tx7Hhb",
+                "url": "http://twitter.com/telediariomty/status/106090984672215040",
+                "trackback_date": 1314129036,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3Tx7Hhb",
+                        "display_url": "bit.ly/oi3gVT",
+                        "expanded_url": "http://bit.ly/oi3gVT",
+                        "topsy_expanded_url": "http://www.telediario.mx/node/99184"
+                    }
+                ],
+                "target_birth_date": 1314129036,
+                "content": "El otro a\u00f1o #gaga ser\u00e1 invitada especial a la temporada n\u00famero 23 de Los Simpsons. http://t.co/3Tx7Hhb",
+                "mytype": "tweet",
+                "score": 9.207829,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469638063363076097/sbfpMKgF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/telediariomty/status/106090984672215040",
+                "trackback_author_url": "http://twitter.com/telediariomty",
+                "highlight": "El otro a\u00f1o #gaga ser\u00e1 invitada especial a la temporada n\u00famero 23 de Los Simpsons.",
+                "topsy_author_url": "http://topsy.com/twitter/telediariomty",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/telediariomty/status/106090984672215040",
+                "trackback_author_name": "Telediario",
+                "trackback_author_nick": "telediariomty"
+            },
+            {
+                "hits": 34,
+                "firstpost_date": 1305495711,
+                "title": "That was one of the best concert performances #Gaga's ever done! #R1BW",
+                "url": "http://twitter.com/hausofjay/status/69880196009963521",
+                "trackback_date": 1305499534,
+                "trackback_total": 50,
+                "url_expansions": [],
+                "target_birth_date": 1305495711,
+                "content": "RT @hausofjay: That was one of the best concert performances #Gaga's ever done! #R1BW",
+                "mytype": "tweet",
+                "score": 9.207287,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471782800333733890/B8CuJC--_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/GagasDanceFreak/status/69896229588447232",
+                "trackback_author_url": "http://twitter.com/jeremiahcarterr",
+                "highlight": "That was one of the best concert performances #Gaga's ever done!",
+                "topsy_author_url": "http://topsy.com/twitter/jeremiahcarterr",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hausofjay/status/69880196009963521",
+                "trackback_author_name": "Alex Carter",
+                "trackback_author_nick": "jeremiahcarterr"
+            },
+            {
+                "hits": 68,
+                "firstpost_date": 1358868890,
+                "title": "Justin #Bieber se convierte en el tuitero m\u00e1s seguido tras superar a Lady #Gaga http://t.co/AoJe2o1N",
+                "url": "http://twitter.com/efenoticias/status/293743533150568448",
+                "trackback_date": 1358868890,
+                "trackback_total": 84,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/AoJe2o1N",
+                        "display_url": "ow.ly/h1FAi",
+                        "expanded_url": "http://ow.ly/h1FAi",
+                        "topsy_expanded_url": "http://efe.com/efe/noticias/america/ame-gente/-/2/14/0"
+                    }
+                ],
+                "target_birth_date": 1358868890,
+                "content": "Justin #Bieber se convierte en el tuitero m\u00e1s seguido tras superar a Lady #Gaga http://t.co/AoJe2o1N",
+                "mytype": "tweet",
+                "score": 9.203041,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2652161543/53175e40b540f6b0d6659e4d43766c56_normal.png",
+                "trackback_permalink": "http://twitter.com/EFEnoticias/status/293743533150568448",
+                "trackback_author_url": "http://twitter.com/efenoticias",
+                "highlight": "Justin #Bieber se convierte en el tuitero m\u00e1s seguido tras superar a Lady #Gaga",
+                "topsy_author_url": "http://topsy.com/twitter/efenoticias",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/efenoticias/status/293743533150568448",
+                "trackback_author_name": "EFE Noticias ",
+                "trackback_author_nick": "efenoticias"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1337672752,
+                "title": "Lady #Gaga No Longer Speechless, Talks About #Jakarta Concert http://t.co/yIFbzIc7",
+                "url": "http://twitter.com/thejakartaglobe/status/204840486094114816",
+                "trackback_date": 1337672752,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/yIFbzIc7",
+                        "display_url": "bit.ly/KunzW3",
+                        "expanded_url": "http://bit.ly/KunzW3",
+                        "topsy_expanded_url": "http://www.thejakartaglobe.com/home/lady-gaga-no-longer-speechless-talks-about-jakarta-concert/519388"
+                    }
+                ],
+                "target_birth_date": 1337672752,
+                "content": "Lady #Gaga No Longer Speechless, Talks About #Jakarta Concert http://t.co/yIFbzIc7",
+                "mytype": "tweet",
+                "score": 9.202112,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1061117378/JG_twitter_logo2_normal.png",
+                "trackback_permalink": "http://twitter.com/thejakartaglobe/status/204840486094114816",
+                "trackback_author_url": "http://twitter.com/thejakartaglobe",
+                "highlight": "Lady #Gaga No Longer Speechless, Talks About #Jakarta Concert",
+                "topsy_author_url": "http://topsy.com/twitter/thejakartaglobe",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/thejakartaglobe/status/204840486094114816",
+                "trackback_author_name": "The Jakarta Globe",
+                "trackback_author_nick": "thejakartaglobe"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1319893389,
+                "title": "Shah Rukh Khan to attend Lady #Gaga show http://t.co/7vbl70z7",
+                "url": "http://twitter.com/timesofindia/status/130268432770928640",
+                "trackback_date": 1319893389,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7vbl70z7",
+                        "display_url": "toi.in/t72gfb",
+                        "expanded_url": "http://toi.in/t72gfb",
+                        "topsy_expanded_url": "http://timesofindia.indiatimes.com/entertainment/bollywood/news-interviews/Shah-Rukh-Khan-to-attend-Lady-Gaga-show/articleshow/10530120.cms"
+                    }
+                ],
+                "target_birth_date": 1319893389,
+                "content": "Shah Rukh Khan to attend Lady #Gaga show http://t.co/7vbl70z7",
+                "mytype": "tweet",
+                "score": 9.201532,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000305502066/87104f81cf9226166b63c98735bfca58_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/timesofindia/status/130268432770928640",
+                "trackback_author_url": "http://twitter.com/timesofindia",
+                "highlight": "Shah Rukh Khan to attend Lady #Gaga show",
+                "topsy_author_url": "http://topsy.com/twitter/timesofindia",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/timesofindia/status/130268432770928640",
+                "trackback_author_name": "Times of India",
+                "trackback_author_nick": "timesofindia"
+            },
+            {
+                "hits": 34,
+                "firstpost_date": 1376852250,
+                "title": "Support #ARTPOP \nSupport #GAGA\nSupport #APPLAUSE",
+                "url": "http://twitter.com/stevieb0i/status/369171212783456256",
+                "trackback_date": 1376852250,
+                "trackback_total": 51,
+                "url_expansions": [],
+                "target_birth_date": 1376852250,
+                "content": "Support #ARTPOP \nSupport #GAGA\nSupport #APPLAUSE",
+                "mytype": "tweet",
+                "score": 9.201004,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471610471167328256/HBktRhIj_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/StevieB0i/status/369171212783456256",
+                "trackback_author_url": "http://twitter.com/stevieb0i",
+                "highlight": "Support #ARTPOP Support #GAGA Support",
+                "topsy_author_url": "http://topsy.com/twitter/stevieb0i",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/stevieb0i/status/369171212783456256",
+                "trackback_author_name": "STEVIE BOI",
+                "trackback_author_nick": "stevieb0i"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1307036221,
+                "title": "Lady #Gaga wird im #GnTM-Finale einen gigantischen Auftritt haben. Ihre W\u00fcnsche deuten darauf hin....",
+                "url": "http://twitter.com/prosieben/status/76341563059474432",
+                "trackback_date": 1307036221,
+                "trackback_total": 21,
+                "url_expansions": [],
+                "target_birth_date": 1307036221,
+                "content": "Lady #Gaga wird im #GnTM-Finale einen gigantischen Auftritt haben. Ihre W\u00fcnsche deuten darauf hin....",
+                "mytype": "tweet",
+                "score": 9.200781,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000822065273/ae9841cccfb5c79863ccc3e8135f2eb6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ProSieben/status/76341563059474432",
+                "trackback_author_url": "http://twitter.com/prosieben",
+                "highlight": "Lady #Gaga wird im #GnTM-Finale einen gigantischen Auftritt haben. Ihre W\u00fcnsche deuten darauf hin.",
+                "topsy_author_url": "http://topsy.com/twitter/prosieben",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/prosieben/status/76341563059474432",
+                "trackback_author_name": "ProSieben",
+                "trackback_author_nick": "prosieben"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1396394321,
+                "title": "Going thru my FB albums. My #Gaga photoshoot! @ladygaga Dont be a Drag just be Queen! \ud83d\udc9c http://t.co/mxQzxvj6jP",
+                "url": "http://twitter.com/themistyshow/status/451136596537270272",
+                "trackback_date": 1396394321,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/mxQzxvj6jP",
+                        "display_url": "pic.twitter.com/mxQzxvj6jP",
+                        "expanded_url": "http://twitter.com/themistyshow/status/451136596537270272/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BkLCWB2IMAAkYcT.jpg"
+                    }
+                ],
+                "target_birth_date": 1396394321,
+                "content": "Going thru my FB albums. My #Gaga photoshoot! @ladygaga Dont be a Drag just be Queen! \ud83d\udc9c http://t.co/mxQzxvj6jP",
+                "mytype": "tweet",
+                "score": 9.1986685,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2548216550/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/themistyshow/status/451136596537270272",
+                "trackback_author_url": "http://twitter.com/themistyshow",
+                "highlight": "Going thru my FB albums. My #Gaga photoshoot! @ladygaga Dont be a Drag just be Queen! \ud83d\udc9c",
+                "topsy_author_url": "http://topsy.com/twitter/themistyshow",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/themistyshow/status/451136596537270272",
+                "trackback_author_name": "Misty Chance",
+                "trackback_author_nick": "themistyshow"
+            },
+            {
+                "hits": 26,
+                "firstpost_date": 1382905624,
+                "title": "I'm defo no expert in music ...but can someone please tell me how this woman is the biggest female artist in the world #Gaga #Confused",
+                "url": "http://twitter.com/essexpr/status/394560904932503552",
+                "trackback_date": 1382905624,
+                "trackback_total": 50,
+                "url_expansions": [],
+                "target_birth_date": 1382905624,
+                "content": "I'm defo no expert in music ...but can someone please tell me how this woman is the biggest female artist in the world #Gaga #Confused",
+                "mytype": "tweet",
+                "score": 9.193676,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471006820858085376/OD2sdrIB_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/EssexPR/status/394560904932503552",
+                "trackback_author_url": "http://twitter.com/essexpr",
+                "highlight": "I'm defo no expert in music ...but can someone please tell me how this woman is the biggest female artist in the world #Gaga",
+                "topsy_author_url": "http://topsy.com/twitter/essexpr",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/essexpr/status/394560904932503552",
+                "trackback_author_name": "Adam Brooks  ",
+                "trackback_author_nick": "essexpr"
+            },
+            {
+                "hits": 127,
+                "firstpost_date": 1393652777,
+                "title": "Can we make all of this trend on March 28th?\n@LadyGaga @TaylorKinney11 @TaylorKinney111 #Gaga http://t.co/B75vx4PBkD",
+                "url": "http://twitter.com/hausofgypsies/status/439637728032849920",
+                "trackback_date": 1393652777,
+                "trackback_total": 147,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/B75vx4PBkD",
+                        "display_url": "pic.twitter.com/B75vx4PBkD",
+                        "expanded_url": "http://twitter.com/HausOfGypsies/status/439637728032849920/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BhnoLzGCAAEHd6z.png"
+                    }
+                ],
+                "target_birth_date": 1393652777,
+                "content": "Can we make all of this trend on March 28th?\n@LadyGaga @TaylorKinney11 @TaylorKinney111 #Gaga http://t.co/B75vx4PBkD",
+                "mytype": "tweet",
+                "score": 9.19341,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472101593307815937/lsJ3aQEO_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/HausOfGypsies/status/439637728032849920",
+                "trackback_author_url": "http://twitter.com/hausofgypsies",
+                "highlight": "Can we make all of this trend on March 28th? @LadyGaga @TaylorKinney11 @TaylorKinney111 #Gaga",
+                "topsy_author_url": "http://topsy.com/twitter/hausofgypsies",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hausofgypsies/status/439637728032849920",
+                "trackback_author_name": "AUSTIN \u2022 ARTPOP",
+                "trackback_author_nick": "hausofgypsies"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 290,
+        "hidden": 0,
+        "total": 1147870,
+        "page": 1
+    }
+}

@@ -1,0 +1,288 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23storm&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=330",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#storm",
+            "window": "a",
+            "type": "tweet",
+            "offset": "330"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 7,
+                "firstpost_date": 1316180171,
+                "title": "#BBTips \u2013 Para escribir la \u00f1 en #Storm y #Torch mant\u00e9n tu dedo sobre la tecla N (sin presionarla) y la opci\u00f3n a \"\u00f1\" aparecer\u00e1 ^NL",
+                "url": "http://twitter.com/ayudablackberry/status/114694067597746176",
+                "trackback_date": 1316180171,
+                "trackback_total": 40,
+                "url_expansions": [],
+                "target_birth_date": 1316180171,
+                "content": "#BBTips \u2013 Para escribir la \u00f1 en #Storm y #Torch mant\u00e9n tu dedo sobre la tecla N (sin presionarla) y la opci\u00f3n a \"\u00f1\" aparecer\u00e1 ^NL",
+                "mytype": "tweet",
+                "score": 9.226564,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1994333664/r3_a1_twitter_profile_88x88__2__normal.jpg",
+                "trackback_permalink": "http://twitter.com/AyudaBlackBerry/status/114694067597746176",
+                "trackback_author_url": "http://twitter.com/ayudablackberry",
+                "highlight": "#BBTips \u2013 Para escribir la \u00f1 en #Storm y #Torch mant\u00e9n tu dedo sobre la tecla N (sin presionarla) y la opci\u00f3n a \"\u00f1\" aparecer\u00e1 ^NL",
+                "topsy_author_url": "http://topsy.com/twitter/ayudablackberry",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ayudablackberry/status/114694067597746176",
+                "trackback_author_name": "AyudaBlackBerry",
+                "trackback_author_nick": "ayudablackberry"
+            },
+            {
+                "hits": 195,
+                "firstpost_date": 1400768419,
+                "title": "Scary stuff! Here's the Shard being struck by lightning (via @wendowen) #storm http://t.co/PJmvfN2Ml6",
+                "url": "http://twitter.com/googlelocalldn/status/469482895011504128",
+                "trackback_date": 1400768419,
+                "trackback_total": 218,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PJmvfN2Ml6",
+                        "display_url": "pic.twitter.com/PJmvfN2Ml6",
+                        "expanded_url": "http://twitter.com/GoogleLocalLDN/status/469482895011504128/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BoPwNFmCIAMkinT.png"
+                    }
+                ],
+                "target_birth_date": 1400768419,
+                "content": "Scary stuff! Here's the Shard being struck by lightning (via @wendowen) #storm http://t.co/PJmvfN2Ml6",
+                "mytype": "tweet",
+                "score": 9.225491,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2263249549/London_normal.png",
+                "trackback_permalink": "http://twitter.com/GoogleLocalLDN/status/469482895011504128",
+                "trackback_author_url": "http://twitter.com/googlelocalldn",
+                "highlight": "Scary stuff! Here's the Shard being struck by lightning (via @wendowen) #storm",
+                "topsy_author_url": "http://topsy.com/twitter/googlelocalldn",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/googlelocalldn/status/469482895011504128",
+                "trackback_author_name": "Google Local London",
+                "trackback_author_nick": "googlelocalldn"
+            },
+            {
+                "hits": 100,
+                "firstpost_date": 1357557451,
+                "title": "Ministry of Education calls for the closure of schools tomorrow and Wednesday due to the #storm  | #Lebanon #school | http://t.co/3Vvc9PHe",
+                "url": "http://twitter.com/lbci_news_en/status/288242959361658880",
+                "trackback_date": 1357557451,
+                "trackback_total": 116,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3Vvc9PHe",
+                        "display_url": "bit.ly/WnwFtW",
+                        "expanded_url": "http://bit.ly/WnwFtW",
+                        "topsy_expanded_url": "http://www.lbcgroup.tv/news/67985/as-the-storm-continues-roads-turn-to-lakes-trees-f"
+                    }
+                ],
+                "target_birth_date": 1357557451,
+                "content": "Ministry of Education calls for the closure of schools tomorrow and Wednesday due to the #storm  | #Lebanon #school | http://t.co/3Vvc9PHe",
+                "mytype": "tweet",
+                "score": 9.225298,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000632460212/d366e67feb5d2a0f866eb4596e7ee5c2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LBCI_News_EN/status/288242959361658880",
+                "trackback_author_url": "http://twitter.com/lbci_news_en",
+                "highlight": "Ministry of Education calls for the closure of schools tomorrow and Wednesday due to the #storm | #Lebanon #school |",
+                "topsy_author_url": "http://topsy.com/twitter/lbci_news_en",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lbci_news_en/status/288242959361658880",
+                "trackback_author_name": "LBCI News English",
+                "trackback_author_nick": "lbci_news_en"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1347141001,
+                "title": "Ominous video of NYC #storm from my rooftop http://t.co/jJiu1IBI",
+                "url": "http://twitter.com/antderosa/status/244553200395493376",
+                "trackback_date": 1347141001,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jJiu1IBI",
+                        "display_url": "youtu.be/IvmeUStFvz8",
+                        "expanded_url": "http://youtu.be/IvmeUStFvz8",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=IvmeUStFvz8"
+                    }
+                ],
+                "target_birth_date": 1347141001,
+                "content": "Ominous video of NYC #storm from my rooftop http://t.co/jJiu1IBI",
+                "mytype": "tweet",
+                "score": 9.225272,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/416251441557143552/zbtv4WAh_normal.png",
+                "trackback_permalink": "http://twitter.com/AntDeRosa/status/244553200395493376",
+                "trackback_author_url": "http://twitter.com/antderosa",
+                "highlight": "Ominous video of NYC #storm from my rooftop",
+                "topsy_author_url": "http://topsy.com/twitter/antderosa",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/antderosa/status/244553200395493376",
+                "trackback_author_name": "Anthony De Rosa",
+                "trackback_author_nick": "antderosa"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1391386788,
+                "title": "Beautiful sunset behind winter storm in Oklahoma.  #weather #superbowl #winter #storm http://t.co/GpnArOdCRL",
+                "url": "http://twitter.com/reedtimmertvn/status/430133484259397632",
+                "trackback_date": 1391386788,
+                "trackback_total": 13,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/GpnArOdCRL",
+                        "display_url": "instagram.com/p/j7v7U5Ffue/",
+                        "expanded_url": "http://instagram.com/p/j7v7U5Ffue/",
+                        "topsy_expanded_url": "http://instagram.com/p/j7v7U5Ffue/"
+                    }
+                ],
+                "target_birth_date": 1391386788,
+                "content": "Beautiful sunset behind winter storm in Oklahoma.  #weather #superbowl #winter #storm http://t.co/GpnArOdCRL",
+                "mytype": "tweet",
+                "score": 9.224531,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/454535697794215936/FDC38b7Q_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/reedtimmerTVN/status/430133484259397632",
+                "trackback_author_url": "http://twitter.com/reedtimmertvn",
+                "highlight": "Beautiful sunset behind winter storm in Oklahoma. #weather #superbowl #winter #storm",
+                "topsy_author_url": "http://topsy.com/twitter/reedtimmertvn",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/reedtimmertvn/status/430133484259397632",
+                "trackback_author_name": "Reed Timmer",
+                "trackback_author_nick": "reedtimmertvn"
+            },
+            {
+                "hits": 39,
+                "firstpost_date": 1341969019,
+                "title": "RT @islivingston: RT @slashklc Easily 18\" of water on Rhode Island Ave NW in Bloomingdale. #dc #storm http://t.co/CQj4nZCY",
+                "url": "http://twitter.com/capitalweather/status/222860335730790400",
+                "trackback_date": 1341969019,
+                "trackback_total": 41,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/CQj4nZCY",
+                        "expanded_url": "http://twitter.com/slashklc/status/222852089179672576/photo/1",
+                        "display_url": "pic.twitter.com/CQj4nZCY"
+                    }
+                ],
+                "target_birth_date": 1341969019,
+                "content": "RT @islivingston: RT @slashklc Easily 18\" of water on Rhode Island Ave NW in Bloomingdale. #dc #storm http://t.co/CQj4nZCY",
+                "mytype": "tweet",
+                "score": 9.224257,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1153033192/logo_normal.jpg",
+                "trackback_permalink": "http://twitter.com/capitalweather/status/222860335730790400",
+                "trackback_author_url": "http://twitter.com/capitalweather",
+                "highlight": "RT @slashklc Easily 18\" of water on Rhode Island Ave NW in Bloomingdale. #dc #storm",
+                "topsy_author_url": "http://topsy.com/twitter/capitalweather",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/capitalweather/status/222860335730790400",
+                "trackback_author_name": "Capital Weather Gang",
+                "trackback_author_nick": "capitalweather"
+            },
+            {
+                "hits": 34,
+                "firstpost_date": 1323365201,
+                "title": "Wow!... #Turbines #Storm #BBC http://t.co/WqM96OYW",
+                "url": "http://twitter.com/mrhowells/status/144830265892679680",
+                "trackback_date": 1323365674,
+                "trackback_total": 37,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WqM96OYW",
+                        "expanded_url": "http://twitter.com/MrHowells/status/144830265892679680/photo/1",
+                        "display_url": "pic.twitter.com/WqM96OYW"
+                    }
+                ],
+                "target_birth_date": 1323365201,
+                "content": "RT @MrHowells: Wow!... #Turbines #Storm #BBC http://t.co/WqM96OYW",
+                "mytype": "tweet",
+                "score": 9.224204,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1666904408/codepo8_normal.png",
+                "trackback_permalink": "http://twitter.com/codepo8/status/144832253304913920",
+                "trackback_author_url": "http://twitter.com/codepo8",
+                "highlight": "Wow!... #Turbines #Storm #BBC",
+                "topsy_author_url": "http://topsy.com/twitter/codepo8",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mrhowells/status/144830265892679680",
+                "trackback_author_name": "Christian Heilmann ",
+                "trackback_author_nick": "codepo8"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1398711855,
+                "title": "#Storm survivors, use Safe Button on your @redcross #Tornado app to let loved ones know you're ok! Keep hope! http://t.co/fOffTbf6sR",
+                "url": "http://twitter.com/alyssadotcom/status/460857042224181248",
+                "trackback_date": 1398711855,
+                "trackback_total": 13,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/fOffTbf6sR",
+                        "display_url": "rdcrss.org/18cyllM",
+                        "expanded_url": "http://rdcrss.org/18cyllM",
+                        "topsy_expanded_url": "http://www.redcross.org/templates/render/renderCanonical.jsp?pageCan=/prepare/mobile-apps"
+                    }
+                ],
+                "target_birth_date": 1398711855,
+                "content": "#Storm survivors, use Safe Button on your @redcross #Tornado app to let loved ones know you're ok! Keep hope! http://t.co/fOffTbf6sR",
+                "mytype": "tweet",
+                "score": 9.224059,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1937729475/nYc4p_normal.jpg",
+                "trackback_permalink": "http://twitter.com/AlyssaDotCom/status/460857042224181248",
+                "trackback_author_url": "http://twitter.com/alyssadotcom",
+                "highlight": "#Storm survivors, use Safe Button on your @redcross #Tornado app to let loved ones know you're ok! Keep hope!",
+                "topsy_author_url": "http://topsy.com/twitter/alyssadotcom",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/alyssadotcom/status/460857042224181248",
+                "trackback_author_name": "Official Alyssa News",
+                "trackback_author_nick": "alyssadotcom"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1297209604,
+                "title": "Thundersnow: Ultimate #Storm Recorded by @NASA: http://ow.ly/3SLCI #weather",
+                "url": "http://twitter.com/discovery_news/status/35125745474863104",
+                "trackback_date": 1297209604,
+                "trackback_total": 7,
+                "url_expansions": [],
+                "target_birth_date": 1297209604,
+                "content": "Thundersnow: Ultimate #Storm Recorded by @NASA: http://ow.ly/3SLCI #weather",
+                "mytype": "tweet",
+                "score": 9.221584,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3397764810/586f0608937a900f9493ddc455fee6af_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Discovery_News/status/35125745474863104",
+                "trackback_author_url": "http://twitter.com/dnews",
+                "highlight": "Thundersnow: Ultimate #Storm Recorded by @NASA:",
+                "topsy_author_url": "http://topsy.com/twitter/dnews",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/discovery_news/status/35125745474863104",
+                "trackback_author_name": "Discovery News",
+                "trackback_author_nick": "dnews"
+            },
+            {
+                "hits": 34,
+                "firstpost_date": 1323277249,
+                "title": "& Dennis #Storm in nieuwe @OmroepBNN show #Proefkonijnen. Vanaf volgende week op NED3. http://t.co/dvjKd6RZ RT!!",
+                "url": "http://twitter.com/phalerieau/status/144461369582960640",
+                "trackback_date": 1323277249,
+                "trackback_total": 47,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/dvjKd6RZ",
+                        "display_url": "youtu.be/d4UH55sZT6c",
+                        "expanded_url": "http://youtu.be/d4UH55sZT6c",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=d4UH55sZT6c"
+                    }
+                ],
+                "target_birth_date": 1323277249,
+                "content": "& Dennis #Storm in nieuwe @OmroepBNN show #Proefkonijnen. Vanaf volgende week op NED3. http://t.co/dvjKd6RZ RT!!",
+                "mytype": "tweet",
+                "score": 9.218946,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459369899328933888/Iyx5zp-C_normal.png",
+                "trackback_permalink": "http://twitter.com/Phalerieau/status/144461369582960640",
+                "trackback_author_url": "http://twitter.com/phalerieau",
+                "highlight": "& Dennis #Storm in nieuwe @OmroepBNN show #Proefkonijnen. Vanaf volgende week op NED3. RT!!",
+                "topsy_author_url": "http://topsy.com/twitter/phalerieau",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/phalerieau/status/144461369582960640",
+                "trackback_author_name": "Valerio Zeno",
+                "trackback_author_nick": "phalerieau"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 330,
+        "hidden": 0,
+        "total": 1114052,
+        "page": 1
+    }
+}

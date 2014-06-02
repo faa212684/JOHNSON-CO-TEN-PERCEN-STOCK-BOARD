@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23gravel&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=70",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#gravel",
+            "window": "a",
+            "type": "tweet",
+            "offset": "70"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 2,
+                "firstpost_date": 1385939653,
+                "title": "December century complete. That makes 25 months in a row. #gravel #bikes http://t.co/j5AQGVgl5y",
+                "url": "http://twitter.com/mdub71/status/407286544421376001",
+                "trackback_date": 1385939653,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/j5AQGVgl5y",
+                        "display_url": "instagram.com/p/hZaPsvRCOS/",
+                        "expanded_url": "http://instagram.com/p/hZaPsvRCOS/",
+                        "topsy_expanded_url": "http://instagram.com/p/hZaPsvRCOS/"
+                    }
+                ],
+                "target_birth_date": 1385939653,
+                "content": "December century complete. That makes 25 months in a row. #gravel #bikes http://t.co/j5AQGVgl5y",
+                "mytype": "tweet",
+                "score": 8.207168,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2285808661/tugmx8qehx2n9k4kv65y_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mdub71/status/407286544421376001",
+                "trackback_author_url": "http://twitter.com/mdub71",
+                "highlight": "December century complete. That makes 25 months in a row. #gravel #bikes",
+                "topsy_author_url": "http://topsy.com/twitter/mdub71",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mdub71/status/407286544421376001",
+                "trackback_author_name": "matt wills",
+                "trackback_author_nick": "mdub71"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1396639269,
+                "title": "#GRAVEL UK's first-ever Gravel Ride - the Dorset Gravel Dash 100. Details here: http://t.co/RfswmW2bvl http://t.co/UJr6wB4ZKA",
+                "url": "http://twitter.com/cyclocrossrider/status/452163984037146624",
+                "trackback_date": 1396639269,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RfswmW2bvl",
+                        "display_url": "on.fb.me/1efMJIs",
+                        "expanded_url": "http://on.fb.me/1efMJIs",
+                        "topsy_expanded_url": "https://www.facebook.com/photo.php?set=a.626188470768749.1073741831.510659112321686&fbid=631565403564389&theater=&type=1"
+                    },
+                    {
+                        "url": "http://t.co/UJr6wB4ZKA",
+                        "display_url": "pic.twitter.com/UJr6wB4ZKA",
+                        "expanded_url": "http://twitter.com/CYCLOCROSSRIDER/status/452163984037146624/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BkZov3FCcAEyrAO.jpg"
+                    }
+                ],
+                "target_birth_date": 1396639269,
+                "content": "#GRAVEL UK's first-ever Gravel Ride - the Dorset Gravel Dash 100. Details here: http://t.co/RfswmW2bvl http://t.co/UJr6wB4ZKA",
+                "mytype": "tweet",
+                "score": 8.206751,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/447011637472419841/ITPevn5__normal.png",
+                "trackback_permalink": "http://twitter.com/CYCLOCROSSRIDER/status/452163984037146624",
+                "trackback_author_url": "http://twitter.com/cyclocrossrider",
+                "highlight": "#GRAVEL UK's first-ever Gravel Ride - the Dorset Gravel Dash 100. Details here:",
+                "topsy_author_url": "http://topsy.com/twitter/cyclocrossrider",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cyclocrossrider/status/452163984037146624",
+                "trackback_author_name": "CYCLOCROSSRIDER.com",
+                "trackback_author_nick": "cyclocrossrider"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1382855049,
+                "title": "Crews starts with the 7 km of Gandesa today. Mikko and Jarmo will be inside the stage at 7:48 #gravel #wrc #RallyCatalunya",
+                "url": "http://twitter.com/mikkowrc/status/394348775042736128",
+                "trackback_date": 1382855049,
+                "trackback_total": 4,
+                "url_expansions": [],
+                "target_birth_date": 1382855049,
+                "content": "Crews starts with the 7 km of Gandesa today. Mikko and Jarmo will be inside the stage at 7:48 #gravel #wrc #RallyCatalunya",
+                "mytype": "tweet",
+                "score": 8.202991,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/451377324047728640/Ga2qsEFO_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MikkoWRC/status/394348775042736128",
+                "trackback_author_url": "http://twitter.com/mikkowrc",
+                "highlight": "Crews starts with the 7 km of Gandesa today. Mikko and Jarmo will be inside the stage at 7:48 #gravel #wrc",
+                "topsy_author_url": "http://topsy.com/twitter/mikkowrc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mikkowrc/status/394348775042736128",
+                "trackback_author_name": "Mikko Hirvonen",
+                "trackback_author_nick": "mikkowrc"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1358518968,
+                "title": "Thinking tomorrow is Jan gravel hundy go time #gravel",
+                "url": "http://twitter.com/mdub71/status/292275853272961024",
+                "trackback_date": 1358518968,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1358518968,
+                "content": "Thinking tomorrow is Jan gravel hundy go time #gravel",
+                "mytype": "tweet",
+                "score": 8.202008,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2285808661/tugmx8qehx2n9k4kv65y_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mdub71/status/292275853272961024",
+                "trackback_author_url": "http://twitter.com/mdub71",
+                "highlight": "Thinking tomorrow is Jan gravel hundy go time",
+                "topsy_author_url": "http://topsy.com/twitter/mdub71",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mdub71/status/292275853272961024",
+                "trackback_author_name": "matt wills",
+                "trackback_author_nick": "mdub71"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392857570,
+                "title": "Christmas lights all year!  Pretty views! Dusk in #spacottage #garden #gravel http://t.co/G7fLO5mNE5",
+                "url": "http://twitter.com/artofthespa/status/436302389663236096",
+                "trackback_date": 1392857570,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/G7fLO5mNE5",
+                        "display_url": "shrd.by/F5V65a",
+                        "expanded_url": "http://shrd.by/F5V65a",
+                        "topsy_expanded_url": "http://instagram.com/p/knlNvWMbz2/"
+                    }
+                ],
+                "target_birth_date": 1392857570,
+                "content": "Christmas lights all year!  Pretty views! Dusk in #spacottage #garden #gravel http://t.co/G7fLO5mNE5",
+                "mytype": "tweet",
+                "score": 8.201351,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1568591730/_DSC5459_2_normal.jpg",
+                "trackback_permalink": "http://twitter.com/ArtOfTheSpa/status/436302389663236096",
+                "trackback_author_url": "http://twitter.com/artofthespa",
+                "highlight": "Christmas lights all year! Pretty views! Dusk in #spacottage #garden #gravel",
+                "topsy_author_url": "http://topsy.com/twitter/artofthespa",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/artofthespa/status/436302389663236096",
+                "trackback_author_name": "Candy Holladay",
+                "trackback_author_nick": "artofthespa"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1370054230,
+                "title": "Title image. #gravel http://t.co/uklqXxbN0b",
+                "url": "http://twitter.com/cycleboredom/status/340658251660161024",
+                "trackback_date": 1370054230,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/uklqXxbN0b",
+                        "display_url": "flic.kr/p/ezciB5",
+                        "expanded_url": "http://flic.kr/p/ezciB5",
+                        "topsy_expanded_url": "http://www.flickr.com/photos/artboredom/8908287806/"
+                    }
+                ],
+                "target_birth_date": 1370054230,
+                "content": "Title image. #gravel http://t.co/uklqXxbN0b",
+                "mytype": "tweet",
+                "score": 8.200372,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459390301010808832/fZoecbfa_normal.png",
+                "trackback_permalink": "http://twitter.com/Cycleboredom/status/340658251660161024",
+                "trackback_author_url": "http://twitter.com/cycleboredom",
+                "highlight": "Title image. #gravel",
+                "topsy_author_url": "http://topsy.com/twitter/cycleboredom",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cycleboredom/status/340658251660161024",
+                "trackback_author_name": "Cycleboredom",
+                "trackback_author_nick": "cycleboredom"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1259014971,
+                "title": "Oldie but goodie: http://www.youtube.com/watch?v=0rZdAB4V_j8 #gravel",
+                "url": "http://twitter.com/saeverley/status/5989547870",
+                "trackback_date": 1259014971,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1259014971,
+                "content": "Oldie but goodie: http://www.youtube.com/watch?v=0rZdAB4V_j8 #gravel",
+                "mytype": "tweet",
+                "score": 8.197419,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/466245283244806146/rxWJki1P_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/saeverley/status/5989547870",
+                "trackback_author_url": "http://twitter.com/saeverley",
+                "highlight": "Oldie but goodie:",
+                "topsy_author_url": "http://topsy.com/twitter/saeverley",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/saeverley/status/5989547870",
+                "trackback_author_name": "Steve Everley",
+                "trackback_author_nick": "saeverley"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1270604103,
+                "title": "Facebook can't get any more LAME!! #gravel",
+                "url": "http://twitter.com/mph777/status/11730951683",
+                "trackback_date": 1270604103,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1270604103,
+                "content": "Facebook can't get any more LAME!! #gravel",
+                "mytype": "tweet",
+                "score": 8.196389,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/82280828/IMG_0103_normal.JPG",
+                "trackback_permalink": "http://twitter.com/MPH777/status/11730951683",
+                "trackback_author_url": "http://twitter.com/mph777",
+                "highlight": "Facebook can't get any more LAME!!",
+                "topsy_author_url": "http://topsy.com/twitter/mph777",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mph777/status/11730951683",
+                "trackback_author_name": "Michael Harty",
+                "trackback_author_nick": "mph777"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1361883145,
+                "title": "Been asked about where to get \"300 Miles Of Gravel\" doc film on TIV7. Here ya go: http://t.co/YdC9khjkMK Trans Iowa #gravel",
+                "url": "http://twitter.com/guitarted1961/status/306386235532902400",
+                "trackback_date": 1361883145,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/YdC9khjkMK",
+                        "display_url": "300milesofgravel.blogspot.com",
+                        "expanded_url": "http://300milesofgravel.blogspot.com/",
+                        "topsy_expanded_url": "http://300milesofgravel.blogspot.com/"
+                    }
+                ],
+                "target_birth_date": 1361883145,
+                "content": "Been asked about where to get \"300 Miles Of Gravel\" doc film on TIV7. Here ya go: http://t.co/YdC9khjkMK Trans Iowa #gravel",
+                "mytype": "tweet",
+                "score": 8.186277,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/474329284/october09_0061_normal.jpg",
+                "trackback_permalink": "http://twitter.com/guitarted1961/status/306386235532902400",
+                "trackback_author_url": "http://twitter.com/guitarted1961",
+                "highlight": "Been asked about where to get \"300 Miles Of Gravel\" doc film on TIV7. Here ya go: Trans Iowa",
+                "topsy_author_url": "http://topsy.com/twitter/guitarted1961",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/guitarted1961/status/306386235532902400",
+                "trackback_author_name": "Guitar Ted",
+                "trackback_author_nick": "guitarted1961"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1343993187,
+                "title": "Gezocht: mannen uit het juiste hout (E/ZC + Ama) voor een bikkelharde koers rond Norg op 12 augustus. #primeur #gravel http://t.co/SPBriLnA",
+                "url": "http://twitter.com/marcodebos/status/231350311451783168",
+                "trackback_date": 1343993187,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/SPBriLnA",
+                        "display_url": "bit.ly/NXlAig",
+                        "expanded_url": "http://bit.ly/NXlAig",
+                        "topsy_expanded_url": "http://bit.ly/NXlAig"
+                    }
+                ],
+                "target_birth_date": 1343993187,
+                "content": "Gezocht: mannen uit het juiste hout (E/ZC + Ama) voor een bikkelharde koers rond Norg op 12 augustus. #primeur #gravel http://t.co/SPBriLnA",
+                "mytype": "tweet",
+                "score": 8.184337,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1221727653/Marcoog_normal.jpg",
+                "trackback_permalink": "http://twitter.com/marcodebos/status/231350311451783168",
+                "trackback_author_url": "http://twitter.com/marcodebos",
+                "highlight": "Gezocht: mannen uit het juiste hout (E/ZC + Ama) voor een bikkelharde koers rond Norg op 12 augustus. #primeur #gravel",
+                "topsy_author_url": "http://topsy.com/twitter/marcodebos",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/marcodebos/status/231350311451783168",
+                "trackback_author_name": "Marco Bos",
+                "trackback_author_nick": "marcodebos"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 70,
+        "hidden": 0,
+        "total": 13669,
+        "page": 1
+    }
+}

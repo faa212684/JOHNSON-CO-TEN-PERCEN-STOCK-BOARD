@@ -1,0 +1,294 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23storm&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=670",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#storm",
+            "window": "a",
+            "type": "tweet",
+            "offset": "670"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 20,
+                "firstpost_date": 1384717612,
+                "title": "My neighborhood is floating #Chicago #floods #storm http://t.co/ajSIYXTzX0",
+                "url": "http://twitter.com/shannondowney/status/402160931418808320",
+                "trackback_date": 1384717612,
+                "trackback_total": 37,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ajSIYXTzX0",
+                        "display_url": "pic.twitter.com/ajSIYXTzX0",
+                        "expanded_url": "http://twitter.com/ShannonDowney/status/402160931418808320/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BZTDPHoCAAEes-c.jpg"
+                    }
+                ],
+                "target_birth_date": 1384717612,
+                "content": "My neighborhood is floating #Chicago #floods #storm http://t.co/ajSIYXTzX0",
+                "mytype": "tweet",
+                "score": 9.006623,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3103963333/811af24566bc1836bf354da6f321d93a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ShannonDowney/status/402160931418808320",
+                "trackback_author_url": "http://twitter.com/shannondowney",
+                "highlight": "My neighborhood is floating #Chicago #floods #storm",
+                "topsy_author_url": "http://topsy.com/twitter/shannondowney",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/shannondowney/status/402160931418808320",
+                "trackback_author_name": "Shannon Downey",
+                "trackback_author_nick": "shannondowney"
+            },
+            {
+                "hits": 75,
+                "firstpost_date": 1388064863,
+                "title": "Everyone please share #STORM warning for #Ireland . Help keep people safe. @breakingnewsie @thejournal_ie http://t.co/FknauO7fgX",
+                "url": "http://twitter.com/hurricanesart/status/416200319492571137",
+                "trackback_date": 1388064863,
+                "trackback_total": 86,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/FknauO7fgX",
+                        "display_url": "pic.twitter.com/FknauO7fgX",
+                        "expanded_url": "http://twitter.com/HurricanesArt/status/416200319492571137/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bcaj_EcCQAEZG4J.jpg"
+                    }
+                ],
+                "target_birth_date": 1388064863,
+                "content": "Everyone please share #STORM warning for #Ireland . Help keep people safe. @breakingnewsie @thejournal_ie http://t.co/FknauO7fgX",
+                "mytype": "tweet",
+                "score": 9.006202,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2704656174/42d57efabd318042d1c49c34f9867d67_normal.png",
+                "trackback_permalink": "http://twitter.com/HurricanesArt/status/416200319492571137",
+                "trackback_author_url": "http://twitter.com/hurricanesart",
+                "highlight": "Everyone please share #STORM warning for #Ireland . Help keep people safe. @breakingnewsie @thejournal_ie",
+                "topsy_author_url": "http://topsy.com/twitter/hurricanesart",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hurricanesart/status/416200319492571137",
+                "trackback_author_name": "Ian Carruthers",
+                "trackback_author_nick": "hurricanesart"
+            },
+            {
+                "hits": 32,
+                "firstpost_date": 1365599040,
+                "title": "Today's U.S. Weather: Potent #storm system bringing variety of #weather hazards to central, eastern U.S.:   http://t.co/Encl3tYZvO",
+                "url": "http://twitter.com/usnwsgov/status/321971828694323200",
+                "trackback_date": 1365599040,
+                "trackback_total": 31,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Encl3tYZvO",
+                        "display_url": "go.usa.gov/RRX",
+                        "expanded_url": "http://go.usa.gov/RRX",
+                        "topsy_expanded_url": "http://www.hpc.ncep.noaa.gov/discussions/hpcdiscussions.php?disc=pmdspd"
+                    }
+                ],
+                "target_birth_date": 1365599040,
+                "content": "Today's U.S. Weather: Potent #storm system bringing variety of #weather hazards to central, eastern U.S.:   http://t.co/Encl3tYZvO",
+                "mytype": "tweet",
+                "score": 9.006017,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1732728490/NWLogo_normal.jpg",
+                "trackback_permalink": "http://twitter.com/usNWSgov/status/321971828694323200",
+                "trackback_author_url": "http://twitter.com/nws",
+                "highlight": "Today's U.S. Weather: Potent #storm system bringing variety of #weather hazards to central, eastern U.S.:",
+                "topsy_author_url": "http://topsy.com/twitter/nws",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/usnwsgov/status/321971828694323200",
+                "trackback_author_name": "NWS",
+                "trackback_author_nick": "nws"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1394088236,
+                "title": "Fast and furious #storm moves through the #BayArea http://t.co/b9VBAgufhN",
+                "url": "http://twitter.com/ktvu/status/441464177899491328",
+                "trackback_date": 1394088236,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/b9VBAgufhN",
+                        "display_url": "bit.ly/1ic39UM",
+                        "expanded_url": "http://bit.ly/1ic39UM",
+                        "topsy_expanded_url": "http://www.ktvu.com/news/news/local/fast-and-furious-storm-moves-through-bay-area/nd6ng/"
+                    }
+                ],
+                "target_birth_date": 1394088236,
+                "content": "Fast and furious #storm moves through the #BayArea http://t.co/b9VBAgufhN",
+                "mytype": "tweet",
+                "score": 9.0058,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459073091532906496/B-RoXRiM_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/KTVU/status/441464177899491328",
+                "trackback_author_url": "http://twitter.com/ktvu",
+                "highlight": "Fast and furious #storm moves through the #BayArea",
+                "topsy_author_url": "http://topsy.com/twitter/ktvu",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ktvu/status/441464177899491328",
+                "trackback_author_name": "KTVU",
+                "trackback_author_nick": "ktvu"
+            },
+            {
+                "hits": 20,
+                "firstpost_date": 1360355684,
+                "title": "At 4:30PM, Gov &amp; state officials to give #storm update from #NYC office | Watch LIVE @ http://t.co/DboGaFgd #Nemo",
+                "url": "http://twitter.com/nygovcuomo/status/299979598387638273",
+                "trackback_date": 1360355684,
+                "trackback_total": 22,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DboGaFgd",
+                        "expanded_url": "http://www.Governor.ny.gov",
+                        "display_url": "Governor.ny.gov"
+                    }
+                ],
+                "target_birth_date": 1360355684,
+                "content": "At 4:30PM, Gov &amp; state officials to give #storm update from #NYC office | Watch LIVE @ http://t.co/DboGaFgd #Nemo",
+                "mytype": "tweet",
+                "score": 9.005107,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1202639137/CuomoHeadshotFlickr_normal.jpg",
+                "trackback_permalink": "http://twitter.com/NYGovCuomo/status/299979598387638273",
+                "trackback_author_url": "http://twitter.com/nygovcuomo",
+                "highlight": "At 4:30PM, Gov &amp; state officials to give #storm update from #NYC office | Watch LIVE @",
+                "topsy_author_url": "http://topsy.com/twitter/nygovcuomo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nygovcuomo/status/299979598387638273",
+                "trackback_author_name": "Andrew Cuomo",
+                "trackback_author_nick": "nygovcuomo"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1372483320,
+                "title": "#BBTips - \u00bfTienes una #BlackBerry #Storm 9530? \u00bfQuieres ver una gu\u00eda interactiva en tu idioma? \u00a1Adelante! http://t.co/B0lf6073F0 ^JV",
+                "url": "http://twitter.com/ayudablackberry/status/350846590581346304",
+                "trackback_date": 1372483320,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/B0lf6073F0",
+                        "expanded_url": "http://bbry.lv/gY7S7R",
+                        "display_url": "bbry.lv/gY7S7R"
+                    }
+                ],
+                "target_birth_date": 1372483320,
+                "content": "#BBTips - \u00bfTienes una #BlackBerry #Storm 9530? \u00bfQuieres ver una gu\u00eda interactiva en tu idioma? \u00a1Adelante! http://t.co/B0lf6073F0 ^JV",
+                "mytype": "tweet",
+                "score": 9.004503,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1994333664/r3_a1_twitter_profile_88x88__2__normal.jpg",
+                "trackback_permalink": "http://twitter.com/AyudaBlackBerry/status/350846590581346304",
+                "trackback_author_url": "http://twitter.com/ayudablackberry",
+                "highlight": "#BBTips - \u00bfTienes una #BlackBerry #Storm 9530? \u00bfQuieres ver una gu\u00eda interactiva en tu idioma? \u00a1Adelante! ^JV",
+                "topsy_author_url": "http://topsy.com/twitter/ayudablackberry",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ayudablackberry/status/350846590581346304",
+                "trackback_author_name": "AyudaBlackBerry",
+                "trackback_author_nick": "ayudablackberry"
+            },
+            {
+                "hits": 26,
+                "firstpost_date": 1387076313,
+                "title": "Biking home might be an issue. #NYC #storm http://t.co/D2XGoFkCWr",
+                "url": "http://twitter.com/davidmuir/status/412054039120326656",
+                "trackback_date": 1387076313,
+                "trackback_total": 59,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/D2XGoFkCWr",
+                        "display_url": "pic.twitter.com/D2XGoFkCWr",
+                        "expanded_url": "http://twitter.com/DavidMuir/status/412054039120326656/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bbfo9x1IIAAVNPq.jpg"
+                    }
+                ],
+                "target_birth_date": 1387076313,
+                "content": "Biking home might be an issue. #NYC #storm http://t.co/D2XGoFkCWr",
+                "mytype": "tweet",
+                "score": 9.004078,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1341313885/twit3_normal.jpg",
+                "trackback_permalink": "http://twitter.com/DavidMuir/status/412054039120326656",
+                "trackback_author_url": "http://twitter.com/davidmuir",
+                "highlight": "Biking home might be an issue. #NYC #storm",
+                "topsy_author_url": "http://topsy.com/twitter/davidmuir",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/davidmuir/status/412054039120326656",
+                "trackback_author_name": "David Muir",
+                "trackback_author_nick": "davidmuir"
+            },
+            {
+                "hits": 99,
+                "firstpost_date": 1353835501,
+                "title": "De Sint heeft ook last van de #storm... http://t.co/WaQAaowj",
+                "url": "http://twitter.com/woordhumor/status/272631967474917376",
+                "trackback_date": 1353835501,
+                "trackback_total": 114,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WaQAaowj",
+                        "expanded_url": "http://twitter.com/Woordhumor/status/272631967474917376/photo/1",
+                        "display_url": "pic.twitter.com/WaQAaowj"
+                    }
+                ],
+                "target_birth_date": 1353835501,
+                "content": "De Sint heeft ook last van de #storm... http://t.co/WaQAaowj",
+                "mytype": "tweet",
+                "score": 9.004054,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000814909136/69a459e11e06447f9b782a4c601b3cf3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Woordhumor/status/272631967474917376",
+                "trackback_author_url": "http://twitter.com/woordhumor",
+                "highlight": "De Sint heeft ook last van de #storm",
+                "topsy_author_url": "http://topsy.com/twitter/woordhumor",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/woordhumor/status/272631967474917376",
+                "trackback_author_name": "Woordhumor",
+                "trackback_author_nick": "woordhumor"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1386250627,
+                "title": "En dat is de eerste boom... #storm http://t.co/HVY8hK5FHd",
+                "url": "http://twitter.com/annemijnvh/status/408590863787655168",
+                "trackback_date": 1386250627,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/HVY8hK5FHd",
+                        "display_url": "pic.twitter.com/HVY8hK5FHd",
+                        "expanded_url": "http://twitter.com/annemijnvh/status/408590863787655168/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BaubOcIIMAAeyvG.jpg"
+                    }
+                ],
+                "target_birth_date": 1386250627,
+                "content": "En dat is de eerste boom... #storm http://t.co/HVY8hK5FHd",
+                "mytype": "tweet",
+                "score": 9.003971,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3662089594/04b36dafdfb9d21c29f735c45a1c6f98_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/annemijnvh/status/408590863787655168",
+                "trackback_author_url": "http://twitter.com/annemijnvh",
+                "highlight": "En dat is de eerste boom... #storm",
+                "topsy_author_url": "http://topsy.com/twitter/annemijnvh",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/annemijnvh/status/408590863787655168",
+                "trackback_author_name": "Annemijn Van Hilten",
+                "trackback_author_nick": "annemijnvh"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1292404514,
+                "title": "If pubs served bongs I'd be packing a billy right now. Love a cone while watching a #storm.",
+                "url": "http://twitter.com/johnbirmingham/status/14971737099730944",
+                "trackback_date": 1292404514,
+                "trackback_total": 8,
+                "url_expansions": [],
+                "target_birth_date": 1292404514,
+                "content": "If pubs served bongs I'd be packing a billy right now. Love a cone while watching a #storm.",
+                "mytype": "tweet",
+                "score": 9.001603,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1337138321/BirmoCartoon1_normal.jpg",
+                "trackback_permalink": "http://twitter.com/JohnBirmingham/status/14971737099730944",
+                "trackback_author_url": "http://twitter.com/johnbirmingham",
+                "highlight": "If pubs served bongs I'd be packing a billy right now. Love a cone while watching a #storm.",
+                "topsy_author_url": "http://topsy.com/twitter/johnbirmingham",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/johnbirmingham/status/14971737099730944",
+                "trackback_author_name": "John Birmingham",
+                "trackback_author_nick": "johnbirmingham"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 670,
+        "hidden": 0,
+        "total": 1126374,
+        "page": 1
+    }
+}

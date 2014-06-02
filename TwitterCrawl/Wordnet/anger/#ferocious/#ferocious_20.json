@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23ferocious&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=20",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#ferocious",
+            "window": "a",
+            "type": "tweet",
+            "offset": "20"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1325893283,
+                "title": "WE @OneArmDave New entrance to the @AUMensGolf locker room #ferocious  http://t.co/r484hmOu",
+                "url": "http://twitter.com/warblogle/status/155433811189047297",
+                "trackback_date": 1325893283,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/r484hmOu",
+                        "display_url": "yfrog.com/obnrgpgj",
+                        "expanded_url": "http://yfrog.com/obnrgpgj",
+                        "topsy_expanded_url": "http://yfrog.com/obnrgpgj"
+                    }
+                ],
+                "target_birth_date": 1325893283,
+                "content": "WE @OneArmDave New entrance to the @AUMensGolf locker room #ferocious  http://t.co/r484hmOu",
+                "mytype": "tweet",
+                "score": 8.90824,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2187364937/WarBlogle_noWB_335x335_normal.png",
+                "trackback_permalink": "http://twitter.com/WarBlogle/status/155433811189047297",
+                "trackback_author_url": "http://twitter.com/warblogle",
+                "highlight": "WE @OneArmDave New entrance to the @AUMensGolf locker room #ferocious",
+                "topsy_author_url": "http://topsy.com/twitter/warblogle",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/warblogle/status/155433811189047297",
+                "trackback_author_name": "WarBlogle.com",
+                "trackback_author_nick": "warblogle"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1382554749,
+                "title": "The Ford Raptor better be in the new Jurassic Park movie #Ferocious http://t.co/1yoKPvTmYe",
+                "url": "http://twitter.com/allthingsmotor/status/393089224196386816",
+                "trackback_date": 1382554749,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1yoKPvTmYe",
+                        "display_url": "pic.twitter.com/1yoKPvTmYe",
+                        "expanded_url": "http://twitter.com/AllThingsMotor/status/393089224196386816/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BXSIkRWCcAIY-sN.jpg"
+                    }
+                ],
+                "target_birth_date": 1382554749,
+                "content": "The Ford Raptor better be in the new Jurassic Park movie #Ferocious http://t.co/1yoKPvTmYe",
+                "mytype": "tweet",
+                "score": 8.88018,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000660165694/0395bd7eeee47340c860fd6703032dc0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AllThingsMotor/status/393089224196386816",
+                "trackback_author_url": "http://twitter.com/allthingsmotor",
+                "highlight": "The Ford Raptor better be in the new Jurassic Park movie #Ferocious",
+                "topsy_author_url": "http://topsy.com/twitter/allthingsmotor",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/allthingsmotor/status/393089224196386816",
+                "trackback_author_name": "All Things Motor",
+                "trackback_author_nick": "allthingsmotor"
+            },
+            {
+                "hits": 115,
+                "firstpost_date": 1360599915,
+                "title": "I'm convinced that nothing brings out the ugly in some parents more than having their child in competitive swimming. #ferocious",
+                "url": "http://twitter.com/swimmerproblems/status/301003978798411776",
+                "trackback_date": 1360599915,
+                "trackback_total": 152,
+                "url_expansions": [],
+                "target_birth_date": 1360599915,
+                "content": "I'm convinced that nothing brings out the ugly in some parents more than having their child in competitive swimming. #ferocious",
+                "mytype": "tweet",
+                "score": 8.85953,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2194536072/AsLqFAqCMAAMJYk_1__normal.jpg",
+                "trackback_permalink": "http://twitter.com/swimmerproblems/status/301003978798411776",
+                "trackback_author_url": "http://twitter.com/swimmerproblems",
+                "highlight": "I'm convinced that nothing brings out the ugly in some parents more than having their child in competitive swimming.",
+                "topsy_author_url": "http://topsy.com/twitter/swimmerproblems",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/swimmerproblems/status/301003978798411776",
+                "trackback_author_name": "Swimmer Problems",
+                "trackback_author_nick": "swimmerproblems"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1375329515,
+                "title": "I saw The Butler tonight, my review comes out next week but - WOW - @Oprah hasn't lost her acting chops. #Ferocious",
+                "url": "http://twitter.com/claycane/status/362784399667888128",
+                "trackback_date": 1375329515,
+                "trackback_total": 10,
+                "url_expansions": [],
+                "target_birth_date": 1375329515,
+                "content": "I saw The Butler tonight, my review comes out next week but - WOW - @Oprah hasn't lost her acting chops. #Ferocious",
+                "mytype": "tweet",
+                "score": 8.855234,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461669029959057408/vh2Ku361_normal.png",
+                "trackback_permalink": "http://twitter.com/claycane/status/362784399667888128",
+                "trackback_author_url": "http://twitter.com/claycane",
+                "highlight": "I saw The Butler tonight, my review comes out next week but - WOW - @Oprah hasn't lost her acting chops.",
+                "topsy_author_url": "http://topsy.com/twitter/claycane",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/claycane/status/362784399667888128",
+                "trackback_author_name": "Clay",
+                "trackback_author_nick": "claycane"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1316045059,
+                "title": "I can't wait for you to see the #HAIR that Cesar Ramirez (@cesar4styles) is styling for Victor De Souza #NYFW2011 show tonight! #ferocious",
+                "url": "http://twitter.com/shontelle_layne/status/114127366430793728",
+                "trackback_date": 1316045059,
+                "trackback_total": 9,
+                "url_expansions": [],
+                "target_birth_date": 1316045059,
+                "content": "I can't wait for you to see the #HAIR that Cesar Ramirez (@cesar4styles) is styling for Victor De Souza #NYFW2011 show tonight! #ferocious",
+                "mytype": "tweet",
+                "score": 8.83768,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2718512226/c0b0621eaa3cd605836e99fdd3c63c05_normal.png",
+                "trackback_permalink": "http://twitter.com/Shontelle_Layne/status/114127366430793728",
+                "trackback_author_url": "http://twitter.com/shontelle_layne",
+                "highlight": "I can't wait for you to see the #HAIR that Cesar Ramirez (@cesar4styles) is styling for Victor De Souza #NYFW2011 show tonight!",
+                "topsy_author_url": "http://topsy.com/twitter/shontelle_layne",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/shontelle_layne/status/114127366430793728",
+                "trackback_author_name": "Shontelle Layne",
+                "trackback_author_nick": "shontelle_layne"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1344003943,
+                "title": "Awesome picture of the \"faces\" of the weight-lifting competition in mid-lift: http://t.co/3Y7nl3gd #Ferocious",
+                "url": "http://twitter.com/bill_gross/status/231395425092005888",
+                "trackback_date": 1344003943,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3Y7nl3gd",
+                        "display_url": "london2012.nytimes.com/photos?smid=tw\u2026",
+                        "expanded_url": "http://london2012.nytimes.com/photos?smid=tw-londonlive#/?target=all&amp;gridItem=TX---9e1bc692af0d274b1d18fe82dd1c8f22",
+                        "topsy_expanded_url": "http://london2012.nytimes.com/photos?smid=tw-londonlive#/?target=all&amp;gridItem=TX---9e1bc692af0d274b1d18fe82dd1c8f22"
+                    }
+                ],
+                "target_birth_date": 1344003943,
+                "content": "Awesome picture of the \"faces\" of the weight-lifting competition in mid-lift: http://t.co/3Y7nl3gd #Ferocious",
+                "mytype": "tweet",
+                "score": 8.815602,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/264971169/Bill_Gross_Thumbnail_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Bill_Gross/status/231395425092005888",
+                "trackback_author_url": "http://twitter.com/bill_gross",
+                "highlight": "Awesome picture of the \"faces\" of the weight-lifting competition in mid-lift:",
+                "topsy_author_url": "http://topsy.com/twitter/bill_gross",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bill_gross/status/231395425092005888",
+                "trackback_author_name": "Bill Gross",
+                "trackback_author_nick": "bill_gross"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1352764021,
+                "title": "Took this picture of some random chick on Brighton beach decent #Ferocious http://t.co/D5l2qeJI",
+                "url": "http://twitter.com/maximumbbk/status/268137858911567873",
+                "trackback_date": 1352764021,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/D5l2qeJI",
+                        "display_url": "instagr.am/p/R7mEVkQBXU/",
+                        "expanded_url": "http://instagr.am/p/R7mEVkQBXU/",
+                        "topsy_expanded_url": "http://instagram.com/p/R7mEVkQBXU/"
+                    }
+                ],
+                "target_birth_date": 1352764021,
+                "content": "Took this picture of some random chick on Brighton beach decent #Ferocious http://t.co/D5l2qeJI",
+                "mytype": "tweet",
+                "score": 8.780115,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471712126235860992/RvglQY5F_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/maximumbbk/status/268137858911567873",
+                "trackback_author_url": "http://twitter.com/maximumbbk",
+                "highlight": "Took this picture of some random chick on Brighton beach decent #Ferocious",
+                "topsy_author_url": "http://topsy.com/twitter/maximumbbk",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/maximumbbk/status/268137858911567873",
+                "trackback_author_name": "Max",
+                "trackback_author_nick": "maximumbbk"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1313446395,
+                "title": "* #ferocious! ;) * RT @ShontelleFrance: @Shontelle_layne did u see this T-Shirt ?? =&gt; http://t.co/XbGxRAy (@ShonFashion)",
+                "url": "http://twitter.com/shontelle_layne/status/103227779910352897",
+                "trackback_date": 1313446395,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XbGxRAy",
+                        "display_url": "twitpic.com/60iplx",
+                        "expanded_url": "http://twitpic.com/60iplx",
+                        "topsy_expanded_url": "http://twitpic.com/60iplx"
+                    }
+                ],
+                "target_birth_date": 1313446395,
+                "content": "* #ferocious! ;) * RT @ShontelleFrance: @Shontelle_layne did u see this T-Shirt ?? =&gt; http://t.co/XbGxRAy (@ShonFashion)",
+                "mytype": "tweet",
+                "score": 8.774374,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2718512226/c0b0621eaa3cd605836e99fdd3c63c05_normal.png",
+                "trackback_permalink": "http://twitter.com/Shontelle_Layne/status/103227779910352897",
+                "trackback_author_url": "http://twitter.com/shontelle_layne",
+                "highlight": "* #ferocious! ;) *@Shontelle_layne did u see this T-Shirt ?? =&gt; (@ShonFashion)",
+                "topsy_author_url": "http://topsy.com/twitter/shontelle_layne",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/shontelle_layne/status/103227779910352897",
+                "trackback_author_name": "Shontelle Layne",
+                "trackback_author_nick": "shontelle_layne"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1394920877,
+                "title": "So #ferocious. See photos from the Amsterdam launch of @iD_magazine's new digital portal http://t.co/D3LV27wBex http://t.co/ws59xp5foq",
+                "url": "http://twitter.com/diesel/status/444956526642343936",
+                "trackback_date": 1394920877,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/D3LV27wBex",
+                        "display_url": "bit.ly/id-benelux",
+                        "expanded_url": "http://bit.ly/id-benelux",
+                        "topsy_expanded_url": "https://www.facebook.com/media/set/?set=a.10153923945435484.1073741927.62659045483&type=1"
+                    },
+                    {
+                        "url": "http://t.co/ws59xp5foq",
+                        "display_url": "pic.twitter.com/ws59xp5foq",
+                        "expanded_url": "http://twitter.com/DIESEL/status/444956526642343936/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BizNmn-CMAAimZn.jpg"
+                    }
+                ],
+                "target_birth_date": 1394920877,
+                "content": "So #ferocious. See photos from the Amsterdam launch of @iD_magazine's new digital portal http://t.co/D3LV27wBex http://t.co/ws59xp5foq",
+                "mytype": "tweet",
+                "score": 8.768167,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2304569181/hvjtmap032qiascccu5y_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DIESEL/status/444956526642343936",
+                "trackback_author_url": "http://twitter.com/diesel",
+                "highlight": "So #ferocious. See photos from the Amsterdam launch of @iD_magazine's new digital portal",
+                "topsy_author_url": "http://topsy.com/twitter/diesel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/diesel/status/444956526642343936",
+                "trackback_author_name": "Diesel",
+                "trackback_author_nick": "diesel"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1366038842,
+                "title": "All the music I've done in the last 13 years .... #LeaveIt The Work Rate Is #Viloent &amp; #Ferocious.",
+                "url": "http://twitter.com/wileyupdates/status/323816491508183042",
+                "trackback_date": 1366038842,
+                "trackback_total": 23,
+                "url_expansions": [],
+                "target_birth_date": 1366038842,
+                "content": "All the music I've done in the last 13 years .... #LeaveIt The Work Rate Is #Viloent &amp; #Ferocious.",
+                "mytype": "tweet",
+                "score": 8.766331,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460125655313960960/1d4JvmOM_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/WileyUpdates/status/323816491508183042",
+                "trackback_author_url": "http://twitter.com/wileyupdates",
+                "highlight": "All the music I've done in the last 13 years .... #LeaveIt The Work Rate Is #Viloent &amp; #Ferocious.",
+                "topsy_author_url": "http://topsy.com/twitter/wileyupdates",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wileyupdates/status/323816491508183042",
+                "trackback_author_name": "Wiley",
+                "trackback_author_nick": "wileyupdates"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 20,
+        "hidden": 0,
+        "total": 12912,
+        "page": 1
+    }
+}
