@@ -1,0 +1,289 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=650",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "650"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 12,
+                "firstpost_date": 1397424327,
+                "title": "New #severe t'storm warning until 5pm CDT for west half of #Tulsa metro area: http://t.co/4LMSWrYSBA http://t.co/5216PSSf6h",
+                "url": "http://twitter.com/twcbreaking/status/455456756144295936",
+                "trackback_date": 1397424327,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4LMSWrYSBA",
+                        "display_url": "wxch.nl/1kVwHHE",
+                        "expanded_url": "http://wxch.nl/1kVwHHE",
+                        "topsy_expanded_url": "http://www.weather.com/weather/alerts/localalerts/USOK0473?office=KTSA&phenomena=SV&significance=W&areaid=OKC143&etn=0039&hootPostID=f4946d5d58ab1ae1449d8f08513d7f75"
+                    },
+                    {
+                        "url": "http://t.co/5216PSSf6h",
+                        "display_url": "pic.twitter.com/5216PSSf6h",
+                        "expanded_url": "http://twitter.com/TWCBreaking/status/455456756144295936/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BlIbgaPIIAEqsGF.png"
+                    }
+                ],
+                "target_birth_date": 1397424327,
+                "content": "New #severe t'storm warning until 5pm CDT for west half of #Tulsa metro area: http://t.co/4LMSWrYSBA http://t.co/5216PSSf6h",
+                "mytype": "tweet",
+                "score": 9.330083,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/455456756144295936",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "New #severe t'storm warning until 5pm CDT for west half of #Tulsa metro area:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/455456756144295936",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 68,
+                "firstpost_date": 1400547700,
+                "title": "#severe MT @JustonStrmRider: Cinnamon bun shaped meso to the supercell just north of Kimball, NE. @TWCBreaking http://t.co/WLkQ2YZ8Tt",
+                "url": "http://twitter.com/twcbreaking/status/468557131776790528",
+                "trackback_date": 1400547700,
+                "trackback_total": 84,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WLkQ2YZ8Tt",
+                        "display_url": "pic.twitter.com/WLkQ2YZ8Tt",
+                        "expanded_url": "http://twitter.com/JustonStrmRider/status/468556520502734849/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BoClq_yCIAAXtwp.jpg"
+                    }
+                ],
+                "target_birth_date": 1400547700,
+                "content": "#severe MT @JustonStrmRider: Cinnamon bun shaped meso to the supercell just north of Kimball, NE. @TWCBreaking http://t.co/WLkQ2YZ8Tt",
+                "mytype": "tweet",
+                "score": 9.329899,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/468557131776790528",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "#severe MT @JustonStrmRider: Cinnamon bun shaped meso to the supercell just north of Kimball, NE. @TWCBreaking",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/468557131776790528",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 38,
+                "firstpost_date": 1303968461,
+                "title": "Tornado will cross I-20 and come very close to Madison and Apalachee, Georgia. TAKE COVER NOW! Alert: http://wxch.nl/ii4tAu  #severe",
+                "url": "http://twitter.com/twcbreaking/status/63474443833442304",
+                "trackback_date": 1303968461,
+                "trackback_total": 44,
+                "url_expansions": [],
+                "target_birth_date": 1303968461,
+                "content": "Tornado will cross I-20 and come very close to Madison and Apalachee, Georgia. TAKE COVER NOW! Alert: http://wxch.nl/ii4tAu  #severe",
+                "mytype": "tweet",
+                "score": 9.329674,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63474443833442304",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Tornado will cross I-20 and come very close to Madison and Apalachee, Georgia. TAKE COVER NOW! Alert:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63474443833442304",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1313949066,
+                "title": "Huge chunk of real estate under #severe thunderstorm watches http://t.co/7Zw3lSr",
+                "url": "http://twitter.com/jimcantore/status/105336134636285952",
+                "trackback_date": 1313949066,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7Zw3lSr",
+                        "display_url": "spc.noaa.gov",
+                        "expanded_url": "http://www.spc.noaa.gov/",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/"
+                    }
+                ],
+                "target_birth_date": 1313949066,
+                "content": "Huge chunk of real estate under #severe thunderstorm watches http://t.co/7Zw3lSr",
+                "mytype": "tweet",
+                "score": 9.329536,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/105336134636285952",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Huge chunk of real estate under #severe thunderstorm watches",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/105336134636285952",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1330533698,
+                "title": "TOR:CON forecasts just updated for Friday, per @drgregforbes.  Yes...ANOTHER #severe outbreak is likely.  http://t.co/I1JA9CfX",
+                "url": "http://twitter.com/twcbreaking/status/174897123568005120",
+                "trackback_date": 1330533698,
+                "trackback_total": 15,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/I1JA9CfX",
+                        "display_url": "wxch.nl/o4oxFG",
+                        "expanded_url": "http://wxch.nl/o4oxFG",
+                        "topsy_expanded_url": "http://www.weather.com/outlook/weather-news/news/articles/daily-torcon-forecast_2011-07-11"
+                    }
+                ],
+                "target_birth_date": 1330533698,
+                "content": "TOR:CON forecasts just updated for Friday, per @drgregforbes.  Yes...ANOTHER #severe outbreak is likely.  http://t.co/I1JA9CfX",
+                "mytype": "tweet",
+                "score": 9.3286705,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/174897123568005120",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "TOR:CON forecasts just updated for Friday, per @drgregforbes. Yes...ANOTHER #severe outbreak is likely.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/174897123568005120",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1379884072,
+                "title": "#Severe t'storm watch until 11pm MDT for parts of CO including Colo. Springs, Pueblo: http://t.co/0hCIhlkrtJ",
+                "url": "http://twitter.com/weatherchannel/status/381887596563267584",
+                "trackback_date": 1379884072,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/0hCIhlkrtJ",
+                        "display_url": "wxch.nl/17V8egq",
+                        "expanded_url": "http://wxch.nl/17V8egq",
+                        "topsy_expanded_url": "http://www.weather.com/weather/map/interactive/?_rd=n&hootPostID=8834fecd02f511783894a06c9834fa54&lat=38&layers=0039%2C0123&lon=-106&zoom=6"
+                    }
+                ],
+                "target_birth_date": 1379884072,
+                "content": "#Severe t'storm watch until 11pm MDT for parts of CO including Colo. Springs, Pueblo: http://t.co/0hCIhlkrtJ",
+                "mytype": "tweet",
+                "score": 9.328305,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/381887596563267584",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "#Severe t'storm watch until 11pm MDT for parts of CO including Colo. Springs, Pueblo:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/381887596563267584",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 84,
+                "firstpost_date": 1393191756,
+                "title": "Spiky hailstones from Sanford, FL minutes ago #severe RT @lilserf: Holy hail http://t.co/FuGbQpZEaL",
+                "url": "http://twitter.com/weatherchannel/status/437704066442227712",
+                "trackback_date": 1393191756,
+                "trackback_total": 102,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/FuGbQpZEaL",
+                        "display_url": "pic.twitter.com/FuGbQpZEaL",
+                        "expanded_url": "http://twitter.com/lilserf/status/437703098971467776/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BhMIpjmIEAEqfFm.jpg"
+                    }
+                ],
+                "target_birth_date": 1393191756,
+                "content": "Spiky hailstones from Sanford, FL minutes ago #severe RT @lilserf: Holy hail http://t.co/FuGbQpZEaL",
+                "mytype": "tweet",
+                "score": 9.328291,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/437704066442227712",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "Spiky hailstones from Sanford, FL minutes ago #severeHoly hail",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/437704066442227712",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1303758147,
+                "title": "Possible #tornado ENE of Stephenville, TX.  Radar and alert:  http://wxch.nl/ezpmm2  #severe",
+                "url": "http://twitter.com/twcbreaking/status/62592321803386881",
+                "trackback_date": 1303758147,
+                "trackback_total": 11,
+                "url_expansions": [],
+                "target_birth_date": 1303758147,
+                "content": "Possible #tornado ENE of Stephenville, TX.  Radar and alert:  http://wxch.nl/ezpmm2  #severe",
+                "mytype": "tweet",
+                "score": 9.328009,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/62592321803386881",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Possible #tornado ENE of Stephenville, TX. Radar and alert:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/62592321803386881",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 25,
+                "firstpost_date": 1399593617,
+                "title": "7:00pm CT: Get set, #Austin! #Severe thunderstorms are moving your way at 20 mph. #TXwx http://t.co/BSwT91vLIy",
+                "url": "http://twitter.com/weatherchannel/status/464555417780359169",
+                "trackback_date": 1399593617,
+                "trackback_total": 26,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/BSwT91vLIy",
+                        "display_url": "pic.twitter.com/BSwT91vLIy",
+                        "expanded_url": "http://twitter.com/weatherchannel/status/464555417780359169/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BnJusOhIgAEX_s4.png"
+                    }
+                ],
+                "target_birth_date": 1399593617,
+                "content": "7:00pm CT: Get set, #Austin! #Severe thunderstorms are moving your way at 20 mph. #TXwx http://t.co/BSwT91vLIy",
+                "mytype": "tweet",
+                "score": 9.327858,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/464555417780359169",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "7:00pm CT: Get set, #Austin! #Severe thunderstorms are moving your way at 20 mph. #TXwx",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/464555417780359169",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 35,
+                "firstpost_date": 1303944426,
+                "title": "TAKE COVER: Hueytown, Pleasant Grove, Fairfield, Sylvan Springs in Birmingham metro. TORNADO EMERGENCY!!!  http://wxch.nl/l165W3   #severe",
+                "url": "http://twitter.com/twcbreaking/status/63373632763727872",
+                "trackback_date": 1303944426,
+                "trackback_total": 37,
+                "url_expansions": [],
+                "target_birth_date": 1303944426,
+                "content": "TAKE COVER: Hueytown, Pleasant Grove, Fairfield, Sylvan Springs in Birmingham metro. TORNADO EMERGENCY!!!  http://wxch.nl/l165W3   #severe",
+                "mytype": "tweet",
+                "score": 9.327834,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63373632763727872",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "TAKE COVER: Hueytown, Pleasant Grove, Fairfield, Sylvan Springs in Birmingham metro. TORNADO EMERGENCY!!!",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63373632763727872",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 650,
+        "hidden": 0,
+        "total": 163832,
+        "page": 1
+    }
+}

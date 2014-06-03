@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=600",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "600"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 8,
+                "firstpost_date": 1305147193,
+                "title": "Western suburbs of Chicago being monitored: http://www.spc.noaa.gov/products/md/md0739.html #ilwx #severe",
+                "url": "http://twitter.com/jimcantore/status/68418403949477888",
+                "trackback_date": 1305147193,
+                "trackback_total": 11,
+                "url_expansions": [],
+                "target_birth_date": 1305147193,
+                "content": "Western suburbs of Chicago being monitored: http://www.spc.noaa.gov/products/md/md0739.html #ilwx #severe",
+                "mytype": "tweet",
+                "score": 9.339426,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/68418403949477888",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Western suburbs of Chicago being monitored: #ilwx",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/68418403949477888",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1371213018,
+                "title": "Today's #severe threat shifts out of the East into the Plains:  http://t.co/4wGZAaNwaH",
+                "url": "http://twitter.com/weatherchannel/status/345518559851581440",
+                "trackback_date": 1371213018,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4wGZAaNwaH",
+                        "display_url": "wxch.nl/19yTlmC",
+                        "expanded_url": "http://wxch.nl/19yTlmC",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page?hootPostID=9ab5c8d4a55329c74a56474fcd19bf66"
+                    }
+                ],
+                "target_birth_date": 1371213018,
+                "content": "Today's #severe threat shifts out of the East into the Plains:  http://t.co/4wGZAaNwaH",
+                "mytype": "tweet",
+                "score": 9.339096,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/345518559851581440",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "Today's #severe threat shifts out of the East into the Plains:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/345518559851581440",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 20,
+                "firstpost_date": 1303913398,
+                "title": "Funnel cloud reported in Oxford, MS about 6 min. ago.  Alert/radar:  http://wxch.nl/gPZvZB  #tornado  #severe",
+                "url": "http://twitter.com/twcbreaking/status/63243494034120704",
+                "trackback_date": 1303913398,
+                "trackback_total": 21,
+                "url_expansions": [],
+                "target_birth_date": 1303913398,
+                "content": "Funnel cloud reported in Oxford, MS about 6 min. ago.  Alert/radar:  http://wxch.nl/gPZvZB  #tornado  #severe",
+                "mytype": "tweet",
+                "score": 9.337525,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63243494034120704",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Funnel cloud reported in Oxford, MS about 6 min. ago. Alert/radar: #tornado",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63243494034120704",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1338427500,
+                "title": "Nice round up of TX storms via NWS DFW: http://t.co/UfNIY8gU #TXwx #tornado #severe",
+                "url": "http://twitter.com/jimcantore/status/208006130163646464",
+                "trackback_date": 1338427500,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/UfNIY8gU",
+                        "display_url": "srh.noaa.gov/graphicast.php\u2026",
+                        "expanded_url": "http://www.srh.noaa.gov/graphicast.php?site=FWD&gc=1",
+                        "topsy_expanded_url": "http://www.srh.noaa.gov/graphicast.php?site=FWD&gc=1"
+                    }
+                ],
+                "target_birth_date": 1338427500,
+                "content": "Nice round up of TX storms via NWS DFW: http://t.co/UfNIY8gU #TXwx #tornado #severe",
+                "mytype": "tweet",
+                "score": 9.336915,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/208006130163646464",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Nice round up of TX storms via NWS DFW: #TXwx #tornado",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/208006130163646464",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 33,
+                "firstpost_date": 1396810812,
+                "title": "Part of the #severe t'storm watch has been extended thru 6pm, incl. #Shreveport. Details: http://t.co/ztZu99DcwG http://t.co/EhFRMDBkLz",
+                "url": "http://twitter.com/weatherchannel/status/452883488564191233",
+                "trackback_date": 1396810812,
+                "trackback_total": 37,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ztZu99DcwG",
+                        "display_url": "weather.com/weather/alerts\u2026",
+                        "expanded_url": "http://www.weather.com/weather/alerts/localalerts/USLA0426?phenomena=SV&significance=A&areaid=LAC017&office=KSHV&etn=0063",
+                        "topsy_expanded_url": "http://www.weather.com/weather/alerts/localalerts/USLA0426?office=KSHV&phenomena=SV&significance=A&areaid=LAC017&etn=0063"
+                    },
+                    {
+                        "url": "http://t.co/EhFRMDBkLz",
+                        "display_url": "pic.twitter.com/EhFRMDBkLz",
+                        "expanded_url": "http://twitter.com/weatherchannel/status/452883488564191233/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bkj3IhXCUAAkqhN.jpg"
+                    }
+                ],
+                "target_birth_date": 1396810812,
+                "content": "Part of the #severe t'storm watch has been extended thru 6pm, incl. #Shreveport. Details: http://t.co/ztZu99DcwG http://t.co/EhFRMDBkLz",
+                "mytype": "tweet",
+                "score": 9.336608,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/452883488564191233",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "Part of the #severe t'storm watch has been extended thru 6pm, incl. #Shreveport. Details:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/452883488564191233",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 22,
+                "firstpost_date": 1389467227,
+                "title": "2:06 pm ET: Wind gust to 86 mph reported at Raleigh-Durham International Airport about 5 minutes ago. Radar: http://t.co/femvhlPS7W #severe",
+                "url": "http://twitter.com/twcbreaking/status/422082261379715073",
+                "trackback_date": 1389467227,
+                "trackback_total": 23,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/femvhlPS7W",
+                        "display_url": "ow.ly/suqfY",
+                        "expanded_url": "http://ow.ly/suqfY",
+                        "topsy_expanded_url": "http://www.weather.com/weather/map/interactive/USNC0558?animation=true&hootPostID=b984338b650cbb6380a411fc178b07c4"
+                    }
+                ],
+                "target_birth_date": 1389467227,
+                "content": "2:06 pm ET: Wind gust to 86 mph reported at Raleigh-Durham International Airport about 5 minutes ago. Radar: http://t.co/femvhlPS7W #severe",
+                "mytype": "tweet",
+                "score": 9.336496,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/422082261379715073",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "2:06 pm ET: Wind gust to 86 mph reported at Raleigh-Durham International Airport about 5 minutes ago. Radar:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/422082261379715073",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 21,
+                "firstpost_date": 1303858018,
+                "title": "Four #tornado warned supercells to the south and east of Dallas:   http://twitpic.com/4pwo9l  |  Alerts:  http://wxch.nl/cUjj9u  #severe",
+                "url": "http://twitter.com/twcbreaking/status/63011210836193280",
+                "trackback_date": 1303858018,
+                "trackback_total": 26,
+                "url_expansions": [],
+                "target_birth_date": 1303858018,
+                "content": "Four #tornado warned supercells to the south and east of Dallas:   http://twitpic.com/4pwo9l  |  Alerts:  http://wxch.nl/cUjj9u  #severe",
+                "mytype": "tweet",
+                "score": 9.336136,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63011210836193280",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Four #tornado warned supercells to the south and east of Dallas: | Alerts:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63011210836193280",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 31,
+                "firstpost_date": 1392868457,
+                "title": "Midwest, Southeast friends: Are you prepared for another #severe weather outbreak? Storms roll in Thursday. http://t.co/ztCF9w6zFS",
+                "url": "http://twitter.com/twcbreaking/status/436348053835239424",
+                "trackback_date": 1392868457,
+                "trackback_total": 38,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ztCF9w6zFS",
+                        "display_url": "ow.ly/tO1iB",
+                        "expanded_url": "http://ow.ly/tO1iB",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page?hootPostID=6b7b605b4cbb4374b40b8f617e617e45"
+                    }
+                ],
+                "target_birth_date": 1392868457,
+                "content": "Midwest, Southeast friends: Are you prepared for another #severe weather outbreak? Storms roll in Thursday. http://t.co/ztCF9w6zFS",
+                "mytype": "tweet",
+                "score": 9.336067,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/436348053835239424",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Midwest, Southeast friends: Are you prepared for another #severe weather outbreak? Storms roll in Thursday.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/436348053835239424",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 25,
+                "firstpost_date": 1399489585,
+                "title": "1:04pm MT: A #severe thunderstorm watch is in effect for #Nebraska, #Colorado, and #Wyoming until 8pm. http://t.co/Haf3ykjZMo",
+                "url": "http://twitter.com/twcbreaking/status/464119078748049408",
+                "trackback_date": 1399489585,
+                "trackback_total": 33,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Haf3ykjZMo",
+                        "display_url": "pic.twitter.com/Haf3ykjZMo",
+                        "expanded_url": "http://twitter.com/TWCBreaking/status/464119078748049408/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BnDh181CIAAZove.png"
+                    }
+                ],
+                "target_birth_date": 1399489585,
+                "content": "1:04pm MT: A #severe thunderstorm watch is in effect for #Nebraska, #Colorado, and #Wyoming until 8pm. http://t.co/Haf3ykjZMo",
+                "mytype": "tweet",
+                "score": 9.335712,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/464119078748049408",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "1:04pm MT: A #severe thunderstorm watch is in effect for #Nebraska, #Colorado, and #Wyoming until 8pm.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/464119078748049408",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1359595944,
+                "title": "#Severe t'storm warnings have been allowed to expire for the DC/Baltimore area. No reports of damage or high winds.",
+                "url": "http://twitter.com/twcbreaking/status/296793020102242305",
+                "trackback_date": 1359595944,
+                "trackback_total": 14,
+                "url_expansions": [],
+                "target_birth_date": 1359595944,
+                "content": "#Severe t'storm warnings have been allowed to expire for the DC/Baltimore area. No reports of damage or high winds.",
+                "mytype": "tweet",
+                "score": 9.335412,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/296793020102242305",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "#Severe t'storm warnings have been allowed to expire for the DC/Baltimore area. No reports of damage or high winds.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/296793020102242305",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 600,
+        "hidden": 0,
+        "total": 161967,
+        "page": 1
+    }
+}

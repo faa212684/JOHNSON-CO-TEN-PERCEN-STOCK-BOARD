@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23awesome&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=450",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#awesome",
+            "window": "a",
+            "type": "tweet",
+            "offset": "450"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 19,
+                "firstpost_date": 1322089023,
+                "title": "Takin ur job RT @ChrisVanVliet: Video of WWE Superstar @mikethemiz taking over THE BUZZ on @19ActionNews. #AWESOME. http://t.co/axlNC1Vt",
+                "url": "http://twitter.com/mikethemiz/status/139477591823368193",
+                "trackback_date": 1322089023,
+                "trackback_total": 31,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/axlNC1Vt",
+                        "display_url": "youtu.be/HjvgSCC_qu8",
+                        "expanded_url": "http://youtu.be/HjvgSCC_qu8",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=HjvgSCC_qu8"
+                    }
+                ],
+                "target_birth_date": 1322089023,
+                "content": "Takin ur job RT @ChrisVanVliet: Video of WWE Superstar @mikethemiz taking over THE BUZZ on @19ActionNews. #AWESOME. http://t.co/axlNC1Vt",
+                "mytype": "tweet",
+                "score": 9.852143,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3622239804/c78d86ca8f051fd5001f3e4f79d3e43d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mikethemiz/status/139477591823368193",
+                "trackback_author_url": "http://twitter.com/mikethemiz",
+                "highlight": "Takin ur jobVideo of WWE Superstar @mikethemiz taking over THE BUZZ on @19ActionNews. #AWESOME.",
+                "topsy_author_url": "http://topsy.com/twitter/mikethemiz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mikethemiz/status/139477591823368193",
+                "trackback_author_name": "The Miz",
+                "trackback_author_nick": "mikethemiz"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1307461059,
+                "title": "@mikethemiz's entrance theme song = #AWESOME. \"I Came To Play\" by @DownstaitBand is available on iTunes now! http://tinyurl.com/6b9cyw7",
+                "url": "http://twitter.com/wwemusic/status/78123463709171712",
+                "trackback_date": 1307461059,
+                "trackback_total": 33,
+                "url_expansions": [],
+                "target_birth_date": 1307461059,
+                "content": "@mikethemiz's entrance theme song = #AWESOME. \"I Came To Play\" by @DownstaitBand is available on iTunes now! http://tinyurl.com/6b9cyw7",
+                "mytype": "tweet",
+                "score": 9.851978,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/730533289/inl5szoa_normal.jpg",
+                "trackback_permalink": "http://twitter.com/WWEMusic/status/78123463709171712",
+                "trackback_author_url": "http://twitter.com/wwemusic",
+                "highlight": " 's entrance theme song = #AWESOME. \"I Came To Play\" by @DownstaitBand is available on iTunes now!",
+                "topsy_author_url": "http://topsy.com/twitter/wwemusic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wwemusic/status/78123463709171712",
+                "trackback_author_name": "WWE Music Group",
+                "trackback_author_nick": "wwemusic"
+            },
+            {
+                "hits": 47,
+                "firstpost_date": 1388355834,
+                "title": "I Feel Alive was on TV??? #Awesome",
+                "url": "http://twitter.com/travisrclark/status/417420738413748225",
+                "trackback_date": 1388355834,
+                "trackback_total": 85,
+                "url_expansions": [],
+                "target_birth_date": 1388355834,
+                "content": "I Feel Alive was on TV??? #Awesome",
+                "mytype": "tweet",
+                "score": 9.851189,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/413575901834510336/dO6CU-At_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/travisrclark/status/417420738413748225",
+                "trackback_author_url": "http://twitter.com/travisrclark",
+                "highlight": "I Feel Alive was on TV???",
+                "topsy_author_url": "http://topsy.com/twitter/travisrclark",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/travisrclark/status/417420738413748225",
+                "trackback_author_name": "Travis We The Kings",
+                "trackback_author_nick": "travisrclark"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1329958054,
+                "title": "A robot doing The Robot!?! You go, Claptrap! #meta #Borderlands2 #awesome",
+                "url": "http://twitter.com/aots/status/172482697510391810",
+                "trackback_date": 1329958054,
+                "trackback_total": 11,
+                "url_expansions": [],
+                "target_birth_date": 1329958054,
+                "content": "A robot doing The Robot!?! You go, Claptrap! #meta #Borderlands2 #awesome",
+                "mytype": "tweet",
+                "score": 9.850462,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/58667765/AOTS_logo_normal.JPG",
+                "trackback_permalink": "http://twitter.com/aots/status/172482697510391810",
+                "trackback_author_url": "http://twitter.com/aots",
+                "highlight": "A robot doing The Robot!?! You go, Claptrap! #meta #Borderlands2",
+                "topsy_author_url": "http://topsy.com/twitter/aots",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/aots/status/172482697510391810",
+                "trackback_author_name": "Attack of the Show",
+                "trackback_author_nick": "aots"
+            },
+            {
+                "hits": 76,
+                "firstpost_date": 1375590049,
+                "title": "#funnyordie #corn #awesome http://t.co/mJsdjafTdY",
+                "url": "http://twitter.com/millajovovich/status/363877157178580992",
+                "trackback_date": 1375590049,
+                "trackback_total": 110,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/mJsdjafTdY",
+                        "display_url": "instagram.com/p/ck-BDWTMhh/",
+                        "expanded_url": "http://instagram.com/p/ck-BDWTMhh/",
+                        "topsy_expanded_url": "http://instagram.com/p/ck-BDWTMhh/"
+                    }
+                ],
+                "target_birth_date": 1375590049,
+                "content": "#funnyordie #corn #awesome http://t.co/mJsdjafTdY",
+                "mytype": "tweet",
+                "score": 9.850326,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3251448147/efef36887919568382cafca061ca4f0a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MillaJovovich/status/363877157178580992",
+                "trackback_author_url": "http://twitter.com/millajovovich",
+                "highlight": "#funnyordie #corn #awesome",
+                "topsy_author_url": "http://topsy.com/twitter/millajovovich",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/millajovovich/status/363877157178580992",
+                "trackback_author_name": "Milla Jovovich",
+                "trackback_author_nick": "millajovovich"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1397608219,
+                "title": "The Wynn Encore is #AWESOME BABY just like my bride of 42 years !I am a LUCKY GUY! http://t.co/1xBDPZRsMB",
+                "url": "http://twitter.com/dickiev/status/456228057666572288",
+                "trackback_date": 1397608219,
+                "trackback_total": 20,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1xBDPZRsMB",
+                        "display_url": "instagram.com/p/m1KXWagrRF/",
+                        "expanded_url": "http://instagram.com/p/m1KXWagrRF/",
+                        "topsy_expanded_url": "http://instagram.com/p/m1KXWagrRF/"
+                    }
+                ],
+                "target_birth_date": 1397608219,
+                "content": "The Wynn Encore is #AWESOME BABY just like my bride of 42 years !I am a LUCKY GUY! http://t.co/1xBDPZRsMB",
+                "mytype": "tweet",
+                "score": 9.850214,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467022327667236865/4AkHq62A_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DickieV/status/456228057666572288",
+                "trackback_author_url": "http://twitter.com/dickiev",
+                "highlight": "The Wynn Encore is #AWESOME BABY just like my bride of 42 years !I am a LUCKY GUY!",
+                "topsy_author_url": "http://topsy.com/twitter/dickiev",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dickiev/status/456228057666572288",
+                "trackback_author_name": "Dick Vitale",
+                "trackback_author_nick": "dickiev"
+            },
+            {
+                "hits": 40,
+                "firstpost_date": 1380049282,
+                "title": "Missed it? Get it NOW at http://t.co/ipDazrWS69 RT @daonnan: watching @30SECONDSTOMARS at the iTunes festival :) #awesome",
+                "url": "http://twitter.com/30secondstomars/status/382580536856047616",
+                "trackback_date": 1380049282,
+                "trackback_total": 59,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ipDazrWS69",
+                        "display_url": "bit.ly/MARSiTF",
+                        "expanded_url": "http://bit.ly/MARSiTF",
+                        "topsy_expanded_url": "http://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link"
+                    }
+                ],
+                "target_birth_date": 1380049282,
+                "content": "Missed it? Get it NOW at http://t.co/ipDazrWS69 RT @daonnan: watching @30SECONDSTOMARS at the iTunes festival :) #awesome",
+                "mytype": "tweet",
+                "score": 9.850133,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/457238752251760641/m4q-iXKs_normal.png",
+                "trackback_permalink": "http://twitter.com/30SECONDSTOMARS/status/382580536856047616",
+                "trackback_author_url": "http://twitter.com/30secondstomars",
+                "highlight": "Missed it? Get it NOW at @30SECONDSTOMARS at the iTunes festival :)",
+                "topsy_author_url": "http://topsy.com/twitter/30secondstomars",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/30secondstomars/status/382580536856047616",
+                "trackback_author_name": "MARS",
+                "trackback_author_nick": "30secondstomars"
+            },
+            {
+                "hits": 64,
+                "firstpost_date": 1370428204,
+                "title": "Were u bummed Safe Haven wasnt an option. Enjoy man RT @Rove: Hey, @mikethemiz - you're my inflight movie! #Awesome.  http://t.co/0JcSDKtQ8n",
+                "url": "http://twitter.com/mikethemiz/status/342226811939332097",
+                "trackback_date": 1370428204,
+                "trackback_total": 98,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/0JcSDKtQ8n",
+                        "display_url": "say.ly/IRn5Yh3",
+                        "expanded_url": "http://say.ly/IRn5Yh3",
+                        "topsy_expanded_url": "http://www.whosay.com/rovemcmanus/photos/352971?wsref=tw"
+                    }
+                ],
+                "target_birth_date": 1370428204,
+                "content": "Were u bummed Safe Haven wasnt an option. Enjoy man RT @Rove: Hey, @mikethemiz - you're my inflight movie! #Awesome.  http://t.co/0JcSDKtQ8n",
+                "mytype": "tweet",
+                "score": 9.848855,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3622239804/c78d86ca8f051fd5001f3e4f79d3e43d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mikethemiz/status/342226811939332097",
+                "trackback_author_url": "http://twitter.com/mikethemiz",
+                "highlight": "Were u bummed Safe Haven wasnt an option. Enjoy manHey, @mikethemiz - you're my inflight movie! #Awesome.",
+                "topsy_author_url": "http://topsy.com/twitter/mikethemiz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mikethemiz/status/342226811939332097",
+                "trackback_author_name": "The Miz",
+                "trackback_author_nick": "mikethemiz"
+            },
+            {
+                "hits": 53,
+                "firstpost_date": 1379103951,
+                "title": "#Awesome RT @mrbelding: @RobinThicke has a new video partner for #BlurredLines can you say \"Hey, Hey, Hey?\" http://t.co/9qV1e4aM8E",
+                "url": "http://twitter.com/mikethemiz/status/378615530053046274",
+                "trackback_date": 1379103951,
+                "trackback_total": 67,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9qV1e4aM8E",
+                        "display_url": "youtube.com/watch?v=iXm7cp\u2026",
+                        "expanded_url": "http://www.youtube.com/watch?v=iXm7cp0z-j4&feature=youtu.be",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=iXm7cp0z-j4"
+                    }
+                ],
+                "target_birth_date": 1379103951,
+                "content": "#Awesome RT @mrbelding: @RobinThicke has a new video partner for #BlurredLines can you say \"Hey, Hey, Hey?\" http://t.co/9qV1e4aM8E",
+                "mytype": "tweet",
+                "score": 9.848299,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3622239804/c78d86ca8f051fd5001f3e4f79d3e43d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mikethemiz/status/378615530053046274",
+                "trackback_author_url": "http://twitter.com/mikethemiz",
+                "highlight": "#Awesome@RobinThicke has a new video partner for #BlurredLines can you say \"Hey, Hey, Hey?\"",
+                "topsy_author_url": "http://topsy.com/twitter/mikethemiz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mikethemiz/status/378615530053046274",
+                "trackback_author_name": "The Miz",
+                "trackback_author_nick": "mikethemiz"
+            },
+            {
+                "hits": 102,
+                "firstpost_date": 1325807732,
+                "title": "RT \"@GuyNamedTony: My phone autocorrects \"Gaiman\" (As in @NeilHimself) to \"Batman\". I think this qualifies for #awesome.\"  So do I.",
+                "url": "http://twitter.com/neilhimself/status/155074984635674625",
+                "trackback_date": 1325807732,
+                "trackback_total": 124,
+                "url_expansions": [],
+                "target_birth_date": 1325807732,
+                "content": "RT \"@GuyNamedTony: My phone autocorrects \"Gaiman\" (As in @NeilHimself) to \"Batman\". I think this qualifies for #awesome.\"  So do I.",
+                "mytype": "tweet",
+                "score": 9.848113,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000474715943/222215543a2cf37c5c305e6db0a56ae8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/neilhimself/status/155074984635674625",
+                "trackback_author_url": "http://twitter.com/neilhimself",
+                "highlight": "RT \"@GuyNamedTony: My phone autocorrects \"Gaiman\" (As in @NeilHimself) to \"Batman\". I think this qualifies for #awesome.\" So do I.",
+                "topsy_author_url": "http://topsy.com/twitter/neilhimself",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/neilhimself/status/155074984635674625",
+                "trackback_author_name": "Neil Gaiman",
+                "trackback_author_nick": "neilhimself"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 450,
+        "hidden": 0,
+        "total": 10872825,
+        "page": 1
+    }
+}

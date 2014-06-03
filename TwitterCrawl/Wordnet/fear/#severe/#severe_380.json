@@ -1,0 +1,303 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=380",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "380"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 15,
+                "firstpost_date": 1347992396,
+                "title": "#Severe thunderstorm warning issued for Washington, DC and many of its suburbs: http://t.co/21gQzttt",
+                "url": "http://twitter.com/weatherchannel/status/248124211325976576",
+                "trackback_date": 1347992396,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/21gQzttt",
+                        "display_url": "wxch.nl/h1te60",
+                        "expanded_url": "http://wxch.nl/h1te60",
+                        "topsy_expanded_url": "http://www.weather.com/weather/map/interactive/USDC0001"
+                    }
+                ],
+                "target_birth_date": 1347992396,
+                "content": "#Severe thunderstorm warning issued for Washington, DC and many of its suburbs: http://t.co/21gQzttt",
+                "mytype": "tweet",
+                "score": 9.418189,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/248124211325976576",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "#Severe thunderstorm warning issued for Washington, DC and many of its suburbs:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/248124211325976576",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 68,
+                "firstpost_date": 1397934062,
+                "title": "Isolated #severe storms next couple of days. Potential larger threat midweek. Forecast: http://t.co/HVAjNakUmg http://t.co/zU9CHtXnio",
+                "url": "http://twitter.com/weatherchannel/status/457594740108963840",
+                "trackback_date": 1397934062,
+                "trackback_total": 76,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/HVAjNakUmg",
+                        "display_url": "wxch.nl/1hXNA67",
+                        "expanded_url": "http://wxch.nl/1hXNA67",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page?hootPostID=2618c63933e0351811084bc99581ea7b"
+                    },
+                    {
+                        "url": "http://t.co/zU9CHtXnio",
+                        "display_url": "pic.twitter.com/zU9CHtXnio",
+                        "expanded_url": "http://twitter.com/weatherchannel/status/457594740108963840/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Blmz_dWIIAAiefY.jpg"
+                    }
+                ],
+                "target_birth_date": 1397934062,
+                "content": "Isolated #severe storms next couple of days. Potential larger threat midweek. Forecast: http://t.co/HVAjNakUmg http://t.co/zU9CHtXnio",
+                "mytype": "tweet",
+                "score": 9.418102,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/457594740108963840",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "Isolated #severe storms next couple of days. Potential larger threat midweek. Forecast:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/457594740108963840",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1359640904,
+                "title": "1700 miles in 48 hours...a summary of the #severe weather outbreak:  http://t.co/3KovnP2R",
+                "url": "http://twitter.com/weatherchannel/status/296981595410292738",
+                "trackback_date": 1359640904,
+                "trackback_total": 13,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3KovnP2R",
+                        "display_url": "wxch.nl/129eal7",
+                        "expanded_url": "http://wxch.nl/129eal7",
+                        "topsy_expanded_url": "http://www.weather.com/news/weather-severe/severe-storm-outbreak-january-reports-20130130"
+                    }
+                ],
+                "target_birth_date": 1359640904,
+                "content": "1700 miles in 48 hours...a summary of the #severe weather outbreak:  http://t.co/3KovnP2R",
+                "mytype": "tweet",
+                "score": 9.417843,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/296981595410292738",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "1700 miles in 48 hours...a summary of the #severe weather outbreak:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/296981595410292738",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 31,
+                "firstpost_date": 1389463670,
+                "title": "1:00 pm ET: Map showing today's high wind and wind damage reports in AL, FL, GA, SC, and NC:  #severe http://t.co/WNhX5JcSOz",
+                "url": "http://twitter.com/weatherchannel/status/422067340600414209",
+                "trackback_date": 1389463670,
+                "trackback_total": 33,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WNhX5JcSOz",
+                        "display_url": "pic.twitter.com/WNhX5JcSOz",
+                        "expanded_url": "http://twitter.com/weatherchannel/status/422067340600414209/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bdt8AouIYAAY53x.jpg"
+                    }
+                ],
+                "target_birth_date": 1389463670,
+                "content": "1:00 pm ET: Map showing today's high wind and wind damage reports in AL, FL, GA, SC, and NC:  #severe http://t.co/WNhX5JcSOz",
+                "mytype": "tweet",
+                "score": 9.417484,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/422067340600414209",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "1:00 pm ET: Map showing today's high wind and wind damage reports in AL, FL, GA, SC, and NC: #severe",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/422067340600414209",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1317761667,
+                "title": "Phoenix wind issues should last for a few more hours and can't rule out #severe weather developing either http://t.co/7Zqof6rk #azwx",
+                "url": "http://twitter.com/jimcantore/status/121327342919495680",
+                "trackback_date": 1317761667,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7Zqof6rk",
+                        "display_url": "spc.noaa.gov/products/md/md\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/md/md2222.html",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/md/md2222.html"
+                    }
+                ],
+                "target_birth_date": 1317761667,
+                "content": "Phoenix wind issues should last for a few more hours and can't rule out #severe weather developing either http://t.co/7Zqof6rk #azwx",
+                "mytype": "tweet",
+                "score": 9.416975,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/121327342919495680",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Phoenix wind issues should last for a few more hours and can't rule out #severe weather developing either",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/121327342919495680",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 25,
+                "firstpost_date": 1401228727,
+                "title": "#Severe t'storm watch until midnight EDT for Delaware, S. Jersey, southeast PA. http://t.co/ocyEfPPPKF",
+                "url": "http://twitter.com/weatherchannel/status/471413565136445441",
+                "trackback_date": 1401228727,
+                "trackback_total": 27,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ocyEfPPPKF",
+                        "display_url": "pic.twitter.com/ocyEfPPPKF",
+                        "expanded_url": "http://twitter.com/weatherchannel/status/471413565136445441/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BorMI8DCcAACaP5.png"
+                    }
+                ],
+                "target_birth_date": 1401228727,
+                "content": "#Severe t'storm watch until midnight EDT for Delaware, S. Jersey, southeast PA. http://t.co/ocyEfPPPKF",
+                "mytype": "tweet",
+                "score": 9.416962,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/471413565136445441",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "#Severe t'storm watch until midnight EDT for Delaware, S. Jersey, southeast PA.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/471413565136445441",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 23,
+                "firstpost_date": 1373896856,
+                "title": "Multi-day #Severe outbreak Thursday to Saturday w/damaging wind as primary threat from Great Lakes to New England: http://t.co/B1OgyZzHgK",
+                "url": "http://twitter.com/jimcantore/status/356775391156895747",
+                "trackback_date": 1373896856,
+                "trackback_total": 28,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/B1OgyZzHgK",
+                        "display_url": "spc.noaa.gov/products/exper\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/exper/day4-8/",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/exper/day4-8/"
+                    }
+                ],
+                "target_birth_date": 1373896856,
+                "content": "Multi-day #Severe outbreak Thursday to Saturday w/damaging wind as primary threat from Great Lakes to New England: http://t.co/B1OgyZzHgK",
+                "mytype": "tweet",
+                "score": 9.416439,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/356775391156895747",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Multi-day #Severe outbreak Thursday to Saturday w/damaging wind as primary threat from Great Lakes to New England:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/356775391156895747",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 51,
+                "firstpost_date": 1327288751,
+                "title": "Line of severe storms are crossing over the Mississippi & approaching Memphis, TN. http://t.co/m8ueGRRI #severe #tnwx",
+                "url": "http://twitter.com/twcbreaking/status/161286830631813120",
+                "trackback_date": 1327288751,
+                "trackback_total": 53,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/m8ueGRRI",
+                        "display_url": "yfrog.com/nvpm0qtj",
+                        "expanded_url": "http://yfrog.com/nvpm0qtj",
+                        "topsy_expanded_url": "http://yfrog.com/nvpm0qtj"
+                    }
+                ],
+                "target_birth_date": 1327288751,
+                "content": "Line of severe storms are crossing over the Mississippi & approaching Memphis, TN. http://t.co/m8ueGRRI #severe #tnwx",
+                "mytype": "tweet",
+                "score": 9.415513,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/161286830631813120",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Line of severe storms are crossing over the Mississippi & approaching Memphis, TN. #severe",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/161286830631813120",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 35,
+                "firstpost_date": 1304011717,
+                "title": "Tornado reported 8 miles northwest of Elizabethtown, NC. Warning info and radar: http://wxch.nl/lRTSPW #severe",
+                "url": "http://twitter.com/twcbreaking/status/63655871879712768",
+                "trackback_date": 1304011717,
+                "trackback_total": 44,
+                "url_expansions": [],
+                "target_birth_date": 1304011717,
+                "content": "Tornado reported 8 miles northwest of Elizabethtown, NC. Warning info and radar: http://wxch.nl/lRTSPW #severe",
+                "mytype": "tweet",
+                "score": 9.415297,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63655871879712768",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Tornado reported 8 miles northwest of Elizabethtown, NC. Warning info and radar:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63655871879712768",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 167,
+                "firstpost_date": 1396575641,
+                "title": ".@StLouisBlues notify fans abt #severe weather. RT @BNHarrington: Announcement on PA made. Scoreboard notice as well. http://t.co/vgOMwHr0D5",
+                "url": "http://twitter.com/weatherchannel/status/451897110884278272",
+                "trackback_date": 1396575641,
+                "trackback_total": 190,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vgOMwHr0D5",
+                        "display_url": "pic.twitter.com/vgOMwHr0D5",
+                        "expanded_url": "http://twitter.com/BNHarrington/status/451894679236136961/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BkVz0PrCEAAycef.jpg"
+                    }
+                ],
+                "target_birth_date": 1396575641,
+                "content": ".@StLouisBlues notify fans abt #severe weather. RT @BNHarrington: Announcement on PA made. Scoreboard notice as well. http://t.co/vgOMwHr0D5",
+                "mytype": "tweet",
+                "score": 9.414677,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/451897110884278272",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": ".@StLouisBlues notify fans abt #severe weather.Announcement on PA made. Scoreboard notice as well.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/451897110884278272",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 380,
+        "hidden": 0,
+        "total": 163627,
+        "page": 1
+    }
+}

@@ -1,0 +1,275 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23awesome&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=280",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#awesome",
+            "window": "a",
+            "type": "tweet",
+            "offset": "280"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 68,
+                "firstpost_date": 1345015248,
+                "title": "My catchphase Really RT @maryse0uellet: #Awesome time RT @BradfordRogne: Great shooting with you @maryse0uellet ! http://t.co/AzMkmZx4",
+                "url": "http://twitter.com/mikethemiz/status/235637146378203136",
+                "trackback_date": 1345015248,
+                "trackback_total": 117,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/AzMkmZx4",
+                        "display_url": "pic.twitter.com/AzMkmZx4",
+                        "expanded_url": "http://twitter.com/BradfordRogne/status/235440323051003905/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/A0RzufWCIAAsUAn.jpg"
+                    }
+                ],
+                "target_birth_date": 1345015248,
+                "content": "My catchphase Really RT @maryse0uellet: #Awesome time RT @BradfordRogne: Great shooting with you @maryse0uellet ! http://t.co/AzMkmZx4",
+                "mytype": "tweet",
+                "score": 9.979279,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3622239804/c78d86ca8f051fd5001f3e4f79d3e43d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mikethemiz/status/235637146378203136",
+                "trackback_author_url": "http://twitter.com/mikethemiz",
+                "highlight": "My catchphase Really#Awesome timeGreat shooting with you @maryse0uellet !",
+                "topsy_author_url": "http://topsy.com/twitter/mikethemiz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mikethemiz/status/235637146378203136",
+                "trackback_author_name": "The Miz",
+                "trackback_author_nick": "mikethemiz"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1376005651,
+                "title": "@DJPaulyD was awesome!! #InAWorldLikeThisTour #awesome http://t.co/PIpI5XNdfj",
+                "url": "http://twitter.com/gracenoel27/status/365620316183068673",
+                "trackback_date": 1376005651,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PIpI5XNdfj",
+                        "display_url": "pic.twitter.com/PIpI5XNdfj",
+                        "expanded_url": "http://twitter.com/GraceNoel27/status/365620316183068673/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BRLxvY2CAAEdjiE.jpg"
+                    }
+                ],
+                "target_birth_date": 1376005651,
+                "content": "@DJPaulyD was awesome!! #InAWorldLikeThisTour #awesome http://t.co/PIpI5XNdfj",
+                "mytype": "tweet",
+                "score": 9.977922,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/431117386205249536/4ILd6Rkz_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/GraceNoel27/status/365620316183068673",
+                "trackback_author_url": "http://twitter.com/gracenoel27",
+                "highlight": " was awesome!! #InAWorldLikeThisTour #awesome",
+                "topsy_author_url": "http://topsy.com/twitter/gracenoel27",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gracenoel27/status/365620316183068673",
+                "trackback_author_name": "Grace Dzw",
+                "trackback_author_nick": "gracenoel27"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1362780369,
+                "title": "RT @TheSteelersGuy7: @tiesto in Reno last night!! #killedit #awesome http://t.co/uZ53lUSDfQ",
+                "url": "http://twitter.com/tiesto/status/310149464205701120",
+                "trackback_date": 1362780369,
+                "trackback_total": 25,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/uZ53lUSDfQ",
+                        "expanded_url": "http://twitter.com/TheSteelersGuy7/status/310110081905733635/photo/1",
+                        "display_url": "pic.twitter.com/uZ53lUSDfQ"
+                    }
+                ],
+                "target_birth_date": 1362780369,
+                "content": "RT @TheSteelersGuy7: @tiesto in Reno last night!! #killedit #awesome http://t.co/uZ53lUSDfQ",
+                "mytype": "tweet",
+                "score": 9.976942,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471722670661197824/KAWGxRja_normal.png",
+                "trackback_permalink": "http://twitter.com/tiesto/status/310149464205701120",
+                "trackback_author_url": "http://twitter.com/tiesto",
+                "highlight": " in Reno last night!! #killedit #awesome",
+                "topsy_author_url": "http://topsy.com/twitter/tiesto",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tiesto/status/310149464205701120",
+                "trackback_author_name": "Ti\u00ebsto",
+                "trackback_author_nick": "tiesto"
+            },
+            {
+                "hits": 81,
+                "firstpost_date": 1369277587,
+                "title": "Shopping all day #NotAwesome \ud83d\ude1c RT @maryse0uellet: Enjoying this day w @mikethemiz n showin our moms the hot spots in Hollywood #AWESOME",
+                "url": "http://twitter.com/mikethemiz/status/337400773900115968",
+                "trackback_date": 1369277587,
+                "trackback_total": 133,
+                "url_expansions": [],
+                "target_birth_date": 1369277587,
+                "content": "Shopping all day #NotAwesome \ud83d\ude1c RT @maryse0uellet: Enjoying this day w @mikethemiz n showin our moms the hot spots in Hollywood #AWESOME",
+                "mytype": "tweet",
+                "score": 9.975645,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3622239804/c78d86ca8f051fd5001f3e4f79d3e43d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mikethemiz/status/337400773900115968",
+                "trackback_author_url": "http://twitter.com/mikethemiz",
+                "highlight": "Shopping all day #NotAwesome \ud83d\ude1cEnjoying this day w @mikethemiz n showin our moms the hot spots in Hollywood",
+                "topsy_author_url": "http://topsy.com/twitter/mikethemiz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mikethemiz/status/337400773900115968",
+                "trackback_author_name": "The Miz",
+                "trackback_author_nick": "mikethemiz"
+            },
+            {
+                "hits": 57,
+                "firstpost_date": 1344626407,
+                "title": "Haha nice catch Martin Kaymer!! #awesome  http://t.co/798wsGkL",
+                "url": "http://twitter.com/bubbawatson/status/234006229893132288",
+                "trackback_date": 1344626407,
+                "trackback_total": 76,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/798wsGkL",
+                        "display_url": "twitvid.com/RXFST",
+                        "expanded_url": "http://twitvid.com/RXFST",
+                        "topsy_expanded_url": "http://twitvid.com/RXFST"
+                    }
+                ],
+                "target_birth_date": 1344626407,
+                "content": "Haha nice catch Martin Kaymer!! #awesome  http://t.co/798wsGkL",
+                "mytype": "tweet",
+                "score": 9.975607,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2319279206/35bwnea39ntayq08qjpb_normal.png",
+                "trackback_permalink": "http://twitter.com/bubbawatson/status/234006229893132288",
+                "trackback_author_url": "http://twitter.com/bubbawatson",
+                "highlight": "Haha nice catch Martin Kaymer!! #awesome",
+                "topsy_author_url": "http://topsy.com/twitter/bubbawatson",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bubbawatson/status/234006229893132288",
+                "trackback_author_name": "bubba watson",
+                "trackback_author_nick": "bubbawatson"
+            },
+            {
+                "hits": 334,
+                "firstpost_date": 1400856410,
+                "title": "#TheShield vs #Evolution in a No holds barred Elimination Match.. This is #Awesome #Payback #WWE http://t.co/DLrNFjKcVM",
+                "url": "http://twitter.com/brawlerreal/status/469851955401981952",
+                "trackback_date": 1400856410,
+                "trackback_total": 430,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DLrNFjKcVM",
+                        "display_url": "pic.twitter.com/DLrNFjKcVM",
+                        "expanded_url": "http://twitter.com/brawlerreal/status/469851955401981952/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BoU_3S0CIAAyWNe.jpg"
+                    }
+                ],
+                "target_birth_date": 1400856410,
+                "content": "#TheShield vs #Evolution in a No holds barred Elimination Match.. This is #Awesome #Payback #WWE http://t.co/DLrNFjKcVM",
+                "mytype": "tweet",
+                "score": 9.974465,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2904484554/81eed48a1b8e84f1a92b2871bd3161f3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/brawlerreal/status/469851955401981952",
+                "trackback_author_url": "http://twitter.com/brawlerreal",
+                "highlight": "#TheShield vs #Evolution in a No holds barred Elimination Match.. This is #Awesome #Payback #WWE",
+                "topsy_author_url": "http://topsy.com/twitter/brawlerreal",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/brawlerreal/status/469851955401981952",
+                "trackback_author_name": "Brooklyn Brawler",
+                "trackback_author_nick": "brawlerreal"
+            },
+            {
+                "hits": 47,
+                "firstpost_date": 1342206080,
+                "title": "I just met @SkeetReese1 in airport! Great fisherman!! #awesome",
+                "url": "http://twitter.com/bubbawatson/status/223854640834416640",
+                "trackback_date": 1342206080,
+                "trackback_total": 77,
+                "url_expansions": [],
+                "target_birth_date": 1342206080,
+                "content": "I just met @SkeetReese1 in airport! Great fisherman!! #awesome",
+                "mytype": "tweet",
+                "score": 9.973544,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2319279206/35bwnea39ntayq08qjpb_normal.png",
+                "trackback_permalink": "http://twitter.com/bubbawatson/status/223854640834416640",
+                "trackback_author_url": "http://twitter.com/bubbawatson",
+                "highlight": "I just met @SkeetReese1 in airport! Great fisherman!!",
+                "topsy_author_url": "http://topsy.com/twitter/bubbawatson",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bubbawatson/status/223854640834416640",
+                "trackback_author_name": "bubba watson",
+                "trackback_author_nick": "bubbawatson"
+            },
+            {
+                "hits": 105,
+                "firstpost_date": 1376828357,
+                "title": "Jijiji\ud83d\ude0b\ud83d\ude0dRT @cnurys: @gabyespino singing #ILoveIt  Have you seen this @jencarlosmusic !!! #Awesome!!!  https://t.co/yO6lD8v36S",
+                "url": "http://twitter.com/gabyespino/status/369070997019713536",
+                "trackback_date": 1376828357,
+                "trackback_total": 133,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/yO6lD8v36S",
+                        "display_url": "vine.co/v/hMPV9lmbMFA",
+                        "expanded_url": "https://vine.co/v/hMPV9lmbMFA",
+                        "topsy_expanded_url": "https://vine.co/v/hMPV9lmbMFA"
+                    }
+                ],
+                "target_birth_date": 1376828357,
+                "content": "Jijiji\ud83d\ude0b\ud83d\ude0dRT @cnurys: @gabyespino singing #ILoveIt  Have you seen this @jencarlosmusic !!! #Awesome!!!  https://t.co/yO6lD8v36S",
+                "mytype": "tweet",
+                "score": 9.97304,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000043202566/3ee46fbc2dc051aa263d3e2c218f74e5_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/gabyespino/status/369070997019713536",
+                "trackback_author_url": "http://twitter.com/gabyespino",
+                "highlight": "Jijiji\ud83d\ude0b\ud83d\ude0d@gabyespino singing #ILoveIt Have you seen this @jencarlosmusic !!! #Awesome!!!",
+                "topsy_author_url": "http://topsy.com/twitter/gabyespino",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gabyespino/status/369070997019713536",
+                "trackback_author_name": "gaby espino",
+                "trackback_author_nick": "gabyespino"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1311875692,
+                "title": "Someone, who shall remain nameless, just bbm'd me a pic of one of my best friends' boobs. #awesome",
+                "url": "http://twitter.com/hollymadison/status/96639776467324928",
+                "trackback_date": 1311875692,
+                "trackback_total": 55,
+                "url_expansions": [],
+                "target_birth_date": 1311875692,
+                "content": "Someone, who shall remain nameless, just bbm'd me a pic of one of my best friends' boobs. #awesome",
+                "mytype": "tweet",
+                "score": 9.971811,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/454506019607961600/3IYKZUfg_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/hollymadison/status/96639776467324928",
+                "trackback_author_url": "http://twitter.com/hollymadison",
+                "highlight": "Someone, who shall remain nameless, just bbm'd me a pic of one of my best friends' boobs.",
+                "topsy_author_url": "http://topsy.com/twitter/hollymadison",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hollymadison/status/96639776467324928",
+                "trackback_author_name": "Holly Madison",
+                "trackback_author_nick": "hollymadison"
+            },
+            {
+                "hits": 90,
+                "firstpost_date": 1352777738,
+                "title": "And the new member of #TeamFoley is .... @MIKETHEMIZ with 60%!  #AWESOME!!! #RAW Thank you all for voting in tonight's #RAWActive vote!",
+                "url": "http://twitter.com/wwe/status/268195389339996160",
+                "trackback_date": 1352777738,
+                "trackback_total": 151,
+                "url_expansions": [],
+                "target_birth_date": 1352777738,
+                "content": "And the new member of #TeamFoley is .... @MIKETHEMIZ with 60%!  #AWESOME!!! #RAW Thank you all for voting in tonight's #RAWActive vote!",
+                "mytype": "tweet",
+                "score": 9.971707,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/87901244/wwe_logo-1_normal.jpg",
+                "trackback_permalink": "http://twitter.com/WWE/status/268195389339996160",
+                "trackback_author_url": "http://twitter.com/wwe",
+                "highlight": "And the new member of #TeamFoley is .... @MIKETHEMIZ with 60%! #AWESOME!!! #RAW Thank you all for voting in tonight's #RAWActive vote!",
+                "topsy_author_url": "http://topsy.com/twitter/wwe",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wwe/status/268195389339996160",
+                "trackback_author_name": "WWE",
+                "trackback_author_nick": "wwe"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 280,
+        "hidden": 0,
+        "total": 10887653,
+        "page": 1
+    }
+}

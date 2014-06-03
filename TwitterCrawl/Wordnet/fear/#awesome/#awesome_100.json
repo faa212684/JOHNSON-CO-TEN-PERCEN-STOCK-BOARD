@@ -1,0 +1,283 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23awesome&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=100",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#awesome",
+            "window": "a",
+            "type": "tweet",
+            "offset": "100"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 7,
+                "firstpost_date": 1307677606,
+                "title": "Tomorrow when you get/buy the issue of Entertainment Weekly, you will see full page ad with @getglue stickers. #awesome http://t.co/cEhm0Bu",
+                "url": "http://twitter.com/getglue/status/79031724079718400",
+                "trackback_date": 1307677606,
+                "trackback_total": 23,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cEhm0Bu",
+                        "display_url": "yfrog.com/h38xlaaj",
+                        "expanded_url": "http://yfrog.com/h38xlaaj",
+                        "topsy_expanded_url": "http://yfrog.com/h38xlaaj"
+                    }
+                ],
+                "target_birth_date": 1307677606,
+                "content": "Tomorrow when you get/buy the issue of Entertainment Weekly, you will see full page ad with @getglue stickers. #awesome http://t.co/cEhm0Bu",
+                "mytype": "tweet",
+                "score": 10.307468,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/427147265409445888/HywVBLQl_normal.png",
+                "trackback_permalink": "http://twitter.com/getglue/status/79031724079718400",
+                "trackback_author_url": "http://twitter.com/tvtag",
+                "highlight": "Tomorrow when you get/buy the issue of Entertainment Weekly, you will see full page ad with @getglue stickers. #awesome",
+                "topsy_author_url": "http://topsy.com/twitter/tvtag",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/getglue/status/79031724079718400",
+                "trackback_author_name": "tvtag",
+                "trackback_author_nick": "tvtag"
+            },
+            {
+                "hits": 68,
+                "firstpost_date": 1400196547,
+                "title": "RT @Andy: At the upfronts. Housewives from everywhere behind me!!! #awesome http://t.co/jeDD23LSCQ",
+                "url": "http://twitter.com/neneleakes/status/467084292494217216",
+                "trackback_date": 1400196547,
+                "trackback_total": 120,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jeDD23LSCQ",
+                        "display_url": "pic.twitter.com/jeDD23LSCQ",
+                        "expanded_url": "http://twitter.com/Andy/status/467052147964538881/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BntNc6UCAAAGwNv.jpg"
+                    }
+                ],
+                "target_birth_date": 1400196547,
+                "content": "RT @Andy: At the upfronts. Housewives from everywhere behind me!!! #awesome http://t.co/jeDD23LSCQ",
+                "mytype": "tweet",
+                "score": 10.304906,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000708576297/52aa190c6da839b322c7037c43ec3cfc_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NeNeLeakes/status/467084292494217216",
+                "trackback_author_url": "http://twitter.com/neneleakes",
+                "highlight": "At the upfronts. Housewives from everywhere behind me!!! #awesome",
+                "topsy_author_url": "http://topsy.com/twitter/neneleakes",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/neneleakes/status/467084292494217216",
+                "trackback_author_name": "NeNe Leakes",
+                "trackback_author_nick": "neneleakes"
+            },
+            {
+                "hits": 248,
+                "firstpost_date": 1397505820,
+                "title": "Hope you seen this already @ShyGlizzy https://t.co/7Mb8dL1eNL #Awesome",
+                "url": "http://twitter.com/dmvfollowers/status/455798562769874944",
+                "trackback_date": 1397505820,
+                "trackback_total": 284,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/7Mb8dL1eNL",
+                        "display_url": "vine.co/v/MJdAJOVDe37",
+                        "expanded_url": "https://vine.co/v/MJdAJOVDe37",
+                        "topsy_expanded_url": "https://vine.co/v/MJdAJOVDe37"
+                    }
+                ],
+                "target_birth_date": 1397505820,
+                "content": "Hope you seen this already @ShyGlizzy https://t.co/7Mb8dL1eNL #Awesome",
+                "mytype": "tweet",
+                "score": 10.303372,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/430752729221173248/93yDBfCC_normal.png",
+                "trackback_permalink": "http://twitter.com/DMVFollowers/status/455798562769874944",
+                "trackback_author_url": "http://twitter.com/dmvfollowers",
+                "highlight": "Hope you seen this already @ShyGlizzy",
+                "topsy_author_url": "http://topsy.com/twitter/dmvfollowers",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dmvfollowers/status/455798562769874944",
+                "trackback_author_name": "DC Maryland Virginia",
+                "trackback_author_nick": "dmvfollowers"
+            },
+            {
+                "hits": 252,
+                "firstpost_date": 1306371460,
+                "title": "Having a relationship with someone where you can act however you want, look your worst and still be considered beautiful #Awesome",
+                "url": "http://twitter.com/yosoydarlene/status/73553352138555393",
+                "trackback_date": 1306895925,
+                "trackback_total": 325,
+                "url_expansions": [],
+                "target_birth_date": 1306371460,
+                "content": "RT @YoSoyDarlene: Having a relationship with someone where you can act however you want, look your worst and still be considered beautif ...",
+                "mytype": "tweet",
+                "score": 10.301661,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/378800000452829730/b0e58923c0714d414cb842c48c6c0c7c_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/___/status/75753118436044800",
+                "trackback_author_url": "http://twitter.com/___",
+                "highlight": "Having a relationship with someone where you can act however you want, look your worst and still be considered beautif ",
+                "topsy_author_url": "http://topsy.com/twitter/___",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/yosoydarlene/status/73553352138555393",
+                "trackback_author_name": "___ Rutledge",
+                "trackback_author_nick": "___"
+            },
+            {
+                "hits": 93,
+                "firstpost_date": 1318147330,
+                "title": "Good morning, internets! I actually got some sleep last night. I feel awesomely awesome! Awesome hugs for everyone! #awesome",
+                "url": "http://twitter.com/notch/status/122944933295427585",
+                "trackback_date": 1318147330,
+                "trackback_total": 234,
+                "url_expansions": [],
+                "target_birth_date": 1318147330,
+                "content": "Good morning, internets! I actually got some sleep last night. I feel awesomely awesome! Awesome hugs for everyone! #awesome",
+                "mytype": "tweet",
+                "score": 10.288866,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/425571850505039873/XaCsjAe__normal.png",
+                "trackback_permalink": "http://twitter.com/notch/status/122944933295427585",
+                "trackback_author_url": "http://twitter.com/notch",
+                "highlight": "Good morning, internets! I actually got some sleep last night. I feel awesomely awesome! Awesome hugs for everyone!",
+                "topsy_author_url": "http://topsy.com/twitter/notch",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/notch/status/122944933295427585",
+                "trackback_author_name": "Markus Persson",
+                "trackback_author_nick": "notch"
+            },
+            {
+                "hits": 65,
+                "firstpost_date": 1311482085,
+                "title": "I want to say I'm sorry for anything bad I said about @KingJames this past season. Just watched #MoreThanAGame. #AWESOME. Real Deal!",
+                "url": "http://twitter.com/kodygilbow/status/94988865563148288",
+                "trackback_date": 1311482085,
+                "trackback_total": 103,
+                "url_expansions": [],
+                "target_birth_date": 1311482085,
+                "content": "I want to say I'm sorry for anything bad I said about @KingJames this past season. Just watched #MoreThanAGame. #AWESOME. Real Deal!",
+                "mytype": "tweet",
+                "score": 10.287711,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1672676094/304104_2481264952676_1284141559_2968992_414881227_n_normal.jpg",
+                "trackback_permalink": "http://twitter.com/KodyGilbow/status/94988865563148288",
+                "trackback_author_url": "http://twitter.com/kodygilbow",
+                "highlight": "I want to say I'm sorry for anything bad I said about @KingJames this past season. Just watched #MoreThanAGame. #AWESOME. Real Deal!",
+                "topsy_author_url": "http://topsy.com/twitter/kodygilbow",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kodygilbow/status/94988865563148288",
+                "trackback_author_name": "kody gilbow",
+                "trackback_author_nick": "kodygilbow"
+            },
+            {
+                "hits": 192,
+                "firstpost_date": 1337222809,
+                "title": "Dinner in my backyard by the fire #awesome http://t.co/mQAcTEnD",
+                "url": "http://twitter.com/ashleytisdale/status/202953291271909376",
+                "trackback_date": 1337222809,
+                "trackback_total": 294,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/mQAcTEnD",
+                        "display_url": "instagr.am/p/KtiVRUwaPZ/",
+                        "expanded_url": "http://instagr.am/p/KtiVRUwaPZ/",
+                        "topsy_expanded_url": "http://instagr.am/p/KtiVRUwaPZ/"
+                    }
+                ],
+                "target_birth_date": 1337222809,
+                "content": "Dinner in my backyard by the fire #awesome http://t.co/mQAcTEnD",
+                "mytype": "tweet",
+                "score": 10.281821,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/424614965056512000/szUbiQJ0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ashleytisdale/status/202953291271909376",
+                "trackback_author_url": "http://twitter.com/ashleytisdale",
+                "highlight": "Dinner in my backyard by the fire #awesome",
+                "topsy_author_url": "http://topsy.com/twitter/ashleytisdale",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ashleytisdale/status/202953291271909376",
+                "trackback_author_name": "Ashley Tisdale",
+                "trackback_author_nick": "ashleytisdale"
+            },
+            {
+                "hits": 38,
+                "firstpost_date": 1327694611,
+                "title": "File this under #awesome: vintage photos re-imagined as comic book superheroes! http://t.co/Il0bXrCN",
+                "url": "http://twitter.com/etsy/status/162989129519476736",
+                "trackback_date": 1327694611,
+                "trackback_total": 49,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Il0bXrCN",
+                        "display_url": "etsy.me/xIpE8e",
+                        "expanded_url": "http://etsy.me/xIpE8e",
+                        "topsy_expanded_url": "http://blog.craftzine.com/archive/2012/01/vintage_photographs_transforme.html"
+                    }
+                ],
+                "target_birth_date": 1327694611,
+                "content": "File this under #awesome: vintage photos re-imagined as comic book superheroes! http://t.co/Il0bXrCN",
+                "mytype": "tweet",
+                "score": 10.281328,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463822238643277824/ZzhYyw8X_normal.png",
+                "trackback_permalink": "http://twitter.com/Etsy/status/162989129519476736",
+                "trackback_author_url": "http://twitter.com/etsy",
+                "highlight": "File this under #awesome: vintage photos re-imagined as comic book superheroes!",
+                "topsy_author_url": "http://topsy.com/twitter/etsy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/etsy/status/162989129519476736",
+                "trackback_author_name": "Etsy",
+                "trackback_author_nick": "etsy"
+            },
+            {
+                "hits": 60,
+                "firstpost_date": 1396672383,
+                "title": "Deemed #Awesome RT @mizard0flust: @mikethemiz I got my first tattoo today! What do you think? #Awesome http://t.co/6Ce30xn2MH",
+                "url": "http://twitter.com/mikethemiz/status/452302873167032321",
+                "trackback_date": 1396672383,
+                "trackback_total": 83,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/6Ce30xn2MH",
+                        "display_url": "pic.twitter.com/6Ce30xn2MH",
+                        "expanded_url": "http://twitter.com/mizard0flust/status/452268539182067712/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BkbH1vRIAAA25Ph.jpg"
+                    }
+                ],
+                "target_birth_date": 1396672383,
+                "content": "Deemed #Awesome RT @mizard0flust: @mikethemiz I got my first tattoo today! What do you think? #Awesome http://t.co/6Ce30xn2MH",
+                "mytype": "tweet",
+                "score": 10.279579,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3622239804/c78d86ca8f051fd5001f3e4f79d3e43d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mikethemiz/status/452302873167032321",
+                "trackback_author_url": "http://twitter.com/mikethemiz",
+                "highlight": "Deemed #Awesome@mikethemiz I got my first tattoo today! What do you think? #Awesome",
+                "topsy_author_url": "http://topsy.com/twitter/mikethemiz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mikethemiz/status/452302873167032321",
+                "trackback_author_name": "The Miz",
+                "trackback_author_nick": "mikethemiz"
+            },
+            {
+                "hits": 73,
+                "firstpost_date": 1387204770,
+                "title": "This kid is #Awesome http://t.co/c2eckluzzL",
+                "url": "http://twitter.com/mikethemiz/status/412592827445833728",
+                "trackback_date": 1387204770,
+                "trackback_total": 109,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/c2eckluzzL",
+                        "display_url": "say.ly/RyN7qWm",
+                        "expanded_url": "http://say.ly/RyN7qWm",
+                        "topsy_expanded_url": "http://say.ly/RyN7qWm"
+                    }
+                ],
+                "target_birth_date": 1387204770,
+                "content": "This kid is #Awesome http://t.co/c2eckluzzL",
+                "mytype": "tweet",
+                "score": 10.277202,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3622239804/c78d86ca8f051fd5001f3e4f79d3e43d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mikethemiz/status/412592827445833728",
+                "trackback_author_url": "http://twitter.com/mikethemiz",
+                "highlight": "This kid is #Awesome",
+                "topsy_author_url": "http://topsy.com/twitter/mikethemiz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mikethemiz/status/412592827445833728",
+                "trackback_author_name": "The Miz",
+                "trackback_author_nick": "mikethemiz"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 100,
+        "hidden": 0,
+        "total": 10860469,
+        "page": 1
+    }
+}

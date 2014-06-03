@@ -1,0 +1,280 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23dread&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=180",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#dread",
+            "window": "a",
+            "type": "tweet",
+            "offset": "180"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1388874327,
+                "title": "Test resumes in 35 mins. #dread #ashes",
+                "url": "http://twitter.com/londonhistorian/status/419595456448958464",
+                "trackback_date": 1388874327,
+                "trackback_total": 4,
+                "url_expansions": [],
+                "target_birth_date": 1388874327,
+                "content": "Test resumes in 35 mins. #dread #ashes",
+                "mytype": "tweet",
+                "score": 8.442863,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1641674308/4d065beb-1325-474c-80aa-09a762da9077_normal.gif",
+                "trackback_permalink": "http://twitter.com/LondonHistorian/status/419595456448958464",
+                "trackback_author_url": "http://twitter.com/londonhistorian",
+                "highlight": "Test resumes in 35 mins. #dread",
+                "topsy_author_url": "http://topsy.com/twitter/londonhistorian",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/londonhistorian/status/419595456448958464",
+                "trackback_author_name": "London Historians",
+                "trackback_author_nick": "londonhistorian"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1395339293,
+                "title": "#dread&amp;terrible @iamchronixx coming soon!  Pre-order yours now on #itunes #april1st http://t.co/7sLbHO397n",
+                "url": "http://twitter.com/spexdaboss/status/446711490587152386",
+                "trackback_date": 1395339293,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7sLbHO397n",
+                        "display_url": "instagram.com/p/lxiuzfsJ6F/",
+                        "expanded_url": "http://instagram.com/p/lxiuzfsJ6F/",
+                        "topsy_expanded_url": "http://instagram.com/p/lxiuzfsJ6F/"
+                    }
+                ],
+                "target_birth_date": 1395339293,
+                "content": "#dread&amp;terrible @iamchronixx coming soon!  Pre-order yours now on #itunes #april1st http://t.co/7sLbHO397n",
+                "mytype": "tweet",
+                "score": 8.439202,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/456927628218605568/NRjYs_Gu_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SPEXDABOSS/status/446711490587152386",
+                "trackback_author_url": "http://twitter.com/spexdaboss",
+                "highlight": "#dread&amp;terrible @iamchronixx coming soon! Pre-order yours now on #itunes #april1st",
+                "topsy_author_url": "http://topsy.com/twitter/spexdaboss",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/spexdaboss/status/446711490587152386",
+                "trackback_author_name": "#RIDDIMTRACK",
+                "trackback_author_nick": "spexdaboss"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1311221029,
+                "title": "Cara que reggae bom.#Dread-Mar I",
+                "url": "http://twitter.com/johardsonp/status/93893919598837760",
+                "trackback_date": 1311221029,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1311221029,
+                "content": "Cara que reggae bom.#Dread-Mar I",
+                "mytype": "tweet",
+                "score": 8.436764,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1239812929/OgAAAGNhRBun47AE8p07JgL9eoazj0HbpRD8iWxnylBz-klB1uyYrYpPqNNV5P7yIRH2BWNd40Lf3vB5cqTD_8IoD9wAm1T1UMWb-kICEqRvr_eyQNYZKX12rgqr_normal.jpg",
+                "trackback_permalink": "http://twitter.com/johardsonp/status/93893919598837760",
+                "trackback_author_url": "http://twitter.com/johardsonp",
+                "highlight": "Cara que reggae bom.#Dread-Mar I",
+                "topsy_author_url": "http://topsy.com/twitter/johardsonp",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/johardsonp/status/93893919598837760",
+                "trackback_author_name": "Johardson Penha",
+                "trackback_author_nick": "johardsonp"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1311119619,
+                "title": "Falta  poucos dias para o #Dread Mar I",
+                "url": "http://twitter.com/ingridsalatiel/status/93468576928899072",
+                "trackback_date": 1311119619,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1311119619,
+                "content": "Falta  poucos dias para o #Dread Mar I",
+                "mytype": "tweet",
+                "score": 8.432655,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1586695738/OwAAADB_VV8ryeaAP3S7nQy6HlmI8TRuX_CpZxhgqfat-m32Ihscz8vxykbE8oO4uRXy0ekfCoe2-bT19n8IhN4TTUcAm1T1UK2qY9O2LwvXF6RZg0ncKqRiG3TC_normal.jpg",
+                "trackback_permalink": "http://twitter.com/ingridsalatiel/status/93468576928899072",
+                "trackback_author_url": "http://twitter.com/ingridsalatiel",
+                "highlight": "Falta poucos dias para o #Dread Mar I",
+                "topsy_author_url": "http://topsy.com/twitter/ingridsalatiel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ingridsalatiel/status/93468576928899072",
+                "trackback_author_name": "ingrid salatiel ",
+                "trackback_author_nick": "ingridsalatiel"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1382779691,
+                "title": "The notes for my #dread talk - \"Invisibility in the Post-PRISM Era\" - are online here: http://t.co/JGcDnHLlMI",
+                "url": "http://twitter.com/honorharger/status/394032701709119488",
+                "trackback_date": 1382779691,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/JGcDnHLlMI",
+                        "display_url": "is.gd/postprism",
+                        "expanded_url": "http://is.gd/postprism",
+                        "topsy_expanded_url": "http://honorharger.wordpress.com/2013/10/26/invisibility-in-the-post-prism-age/"
+                    }
+                ],
+                "target_birth_date": 1382779691,
+                "content": "The notes for my #dread talk - \"Invisibility in the Post-PRISM Era\" - are online here: http://t.co/JGcDnHLlMI",
+                "mytype": "tweet",
+                "score": 8.431974,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1767440114/hh_twitter_normal.jpg",
+                "trackback_permalink": "http://twitter.com/honorharger/status/394032701709119488",
+                "trackback_author_url": "http://twitter.com/honorharger",
+                "highlight": "The notes for my #dread talk - \"Invisibility in the Post-PRISM Era\" - are online here:",
+                "topsy_author_url": "http://topsy.com/twitter/honorharger",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/honorharger/status/394032701709119488",
+                "trackback_author_name": "honor harger",
+                "trackback_author_nick": "honorharger"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1343293033,
+                "title": "Skype makes chats and user data more available to police http://t.co/Y1bMmYEu #dread",
+                "url": "http://twitter.com/juhavantzelfde/status/228413654368923648",
+                "trackback_date": 1343293033,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Y1bMmYEu",
+                        "expanded_url": "http://www.washingtonpost.com/business/economy/skype-makes-chats-and-user-data-more-available-to-police/2012/07/25/gJQAobI39W_story.html",
+                        "display_url": "washingtonpost.com/business/econo\u2026"
+                    }
+                ],
+                "target_birth_date": 1343293033,
+                "content": "Skype makes chats and user data more available to police http://t.co/Y1bMmYEu #dread",
+                "mytype": "tweet",
+                "score": 8.431074,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/450338807129587712/PA7URAX2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/juhavantzelfde/status/228413654368923648",
+                "trackback_author_url": "http://twitter.com/juhavantzelfde",
+                "highlight": "Skype makes chats and user data more available to police",
+                "topsy_author_url": "http://topsy.com/twitter/juhavantzelfde",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/juhavantzelfde/status/228413654368923648",
+                "trackback_author_name": "Juha van 't Zelfde",
+                "trackback_author_nick": "juhavantzelfde"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1341723785,
+                "title": "#Dread Full #Dread Full Dread #Dread Full Riddim http://t.co/ZB5eqtYW Dread Full",
+                "url": "http://twitter.com/meilleuresnet/status/221831752023408641",
+                "trackback_date": 1341723785,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ZB5eqtYW",
+                        "display_url": "meilleures.net/produit/dread-\u2026",
+                        "expanded_url": "http://www.meilleures.net/produit/dread-full.html",
+                        "topsy_expanded_url": "http://www.meilleures.net/produit/dread-full.html"
+                    }
+                ],
+                "target_birth_date": 1341723785,
+                "content": "#Dread Full #Dread Full Dread #Dread Full Riddim http://t.co/ZB5eqtYW Dread Full",
+                "mytype": "tweet",
+                "score": 8.429025,
+                "topsy_author_img": "http://a0.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+                "trackback_permalink": "http://twitter.com/meilleuresnet/status/221831752023408641",
+                "trackback_author_url": "http://twitter.com/meilleuresnet",
+                "highlight": "#Dread Full #Dread Full Dread #Dread Full Riddim Dread Full",
+                "topsy_author_url": "http://topsy.com/twitter/meilleuresnet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/meilleuresnet/status/221831752023408641",
+                "trackback_author_name": "Meilleures",
+                "trackback_author_nick": "meilleuresnet"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1269905806,
+                "title": "RT @HakzSemaj: Goody #DEAD ,Swayze #DEAD ,MJ #DEAD Everybody #DEAD &lt;&lt; #DREAD",
+                "url": "http://twitter.com/jayforceamp/status/11276837098",
+                "trackback_date": 1269905806,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1269905806,
+                "content": "RT @HakzSemaj: Goody #DEAD ,Swayze #DEAD ,MJ #DEAD Everybody #DEAD &lt;&lt; #DREAD",
+                "mytype": "tweet",
+                "score": 8.42885,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2310217717/d8r2wfywv4rgwptcab4a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JayForceAMP/status/11276837098",
+                "trackback_author_url": "http://twitter.com/jayforceamp",
+                "highlight": "Goody #DEAD ,Swayze #DEAD ,MJ #DEAD Everybody #DEAD &lt;&lt;",
+                "topsy_author_url": "http://topsy.com/twitter/jayforceamp",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jayforceamp/status/11276837098",
+                "trackback_author_name": "Five Figure Fizz",
+                "trackback_author_nick": "jayforceamp"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1311860717,
+                "title": "Ouvindo #Dread Mar I , o/",
+                "url": "http://twitter.com/fernaandooalves/status/96576965506629632",
+                "trackback_date": 1311860717,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1311860717,
+                "content": "Ouvindo #Dread Mar I , o/",
+                "mytype": "tweet",
+                "score": 8.427775,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1655728116/PAAAALq9JpvlQlfR1yd189DjSWHKikRZAlQjZ7YnRhnr0r5YQk3_76yDeDpNYlZoiYXch16HNaigaBTqUrcTpvKyO4EAm1T1UOCyMf9JIQLPjlvXtQQLzHBhT1aT_normal.jpg",
+                "trackback_permalink": "http://twitter.com/fernaandooAlves/status/96576965506629632",
+                "trackback_author_url": "http://twitter.com/fernaandooalves",
+                "highlight": "Ouvindo #Dread Mar I , o/",
+                "topsy_author_url": "http://topsy.com/twitter/fernaandooalves",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/fernaandooalves/status/96576965506629632",
+                "trackback_author_name": "Fernando Alves",
+                "trackback_author_nick": "fernaandooalves"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1308901131,
+                "title": "RT @WebSelling4U New to #Etsy : http://t.co/PteUlbn, http://t.co/N2I7lJQ, http://t.co/wpG11Vs #dreadlocks #dread... http://bit.ly/liwtvM",
+                "url": "http://twitter.com/theetsyguy/status/84163561181552640",
+                "trackback_date": 1308901131,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PteUlbn",
+                        "display_url": "etsy.com/listing/684204\u2026",
+                        "expanded_url": "http://www.etsy.com/listing/68420412",
+                        "topsy_expanded_url": "http://www.etsy.com/listing/68420412/long-dreadlock-tube-hat-by-missbell-in"
+                    },
+                    {
+                        "url": "http://t.co/N2I7lJQ",
+                        "display_url": "etsy.com/listing/687190\u2026",
+                        "expanded_url": "http://www.etsy.com/listing/68719083",
+                        "topsy_expanded_url": "http://www.etsy.com/listing/68719083"
+                    },
+                    {
+                        "url": "http://t.co/wpG11Vs",
+                        "display_url": "etsy.com/listing/684779\u2026",
+                        "expanded_url": "http://www.etsy.com/listing/68477963",
+                        "topsy_expanded_url": "http://www.etsy.com/listing/68477963/long-dreadlock-tube-hat-by-missbell-in"
+                    }
+                ],
+                "target_birth_date": 1308901131,
+                "content": "RT @WebSelling4U New to #Etsy : http://t.co/PteUlbn, http://t.co/N2I7lJQ, http://t.co/wpG11Vs #dreadlocks #dread... http://bit.ly/liwtvM",
+                "mytype": "tweet",
+                "score": 8.426137,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1235083365/TheEtsyGuy_-_Avatar_normal.jpg",
+                "trackback_permalink": "http://twitter.com/TheEtsyGuy/status/84163561181552640",
+                "trackback_author_url": "http://twitter.com/theetsyguy",
+                "highlight": "RT @WebSelling4U New to #Etsy : #dreadlocks #dread",
+                "topsy_author_url": "http://topsy.com/twitter/theetsyguy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/theetsyguy/status/84163561181552640",
+                "trackback_author_name": "The Etsy Guy",
+                "trackback_author_nick": "theetsyguy"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 180,
+        "hidden": 0,
+        "total": 68231,
+        "page": 1
+    }
+}

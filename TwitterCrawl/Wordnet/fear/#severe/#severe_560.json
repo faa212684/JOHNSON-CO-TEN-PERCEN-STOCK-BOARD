@@ -1,0 +1,288 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=560",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "560"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 29,
+                "firstpost_date": 1396008524,
+                "title": "Two more days of #severe weather are on the table, including a threat for a few #tornadoes. http://t.co/AdNL6SOUU2",
+                "url": "http://twitter.com/weatherchannel/status/449518446951563264",
+                "trackback_date": 1396008524,
+                "trackback_total": 35,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/AdNL6SOUU2",
+                        "display_url": "wxch.nl/14ZP49C",
+                        "expanded_url": "http://wxch.nl/14ZP49C",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page"
+                    }
+                ],
+                "target_birth_date": 1396008524,
+                "content": "Two more days of #severe weather are on the table, including a threat for a few #tornadoes. http://t.co/AdNL6SOUU2",
+                "mytype": "tweet",
+                "score": 9.356251,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/449518446951563264",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "Two more days of #severe weather are on the table, including a threat for a few #tornadoes.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/449518446951563264",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1330795672,
+                "title": "The death toll continues to rise in Kentucky...here are the latest updates: http://t.co/Mu5lcuiH #severe",
+                "url": "http://twitter.com/weatherchannel/status/175995920943562753",
+                "trackback_date": 1330795672,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Mu5lcuiH",
+                        "display_url": "wxch.nl/zXWT48",
+                        "expanded_url": "http://wxch.nl/zXWT48",
+                        "topsy_expanded_url": "http://www.weather.com/outlook/weather-news/news/articles/tornado-outbreak-Kentucky-aftermanth_2012-03-03"
+                    }
+                ],
+                "target_birth_date": 1330795672,
+                "content": "The death toll continues to rise in Kentucky...here are the latest updates: http://t.co/Mu5lcuiH #severe",
+                "mytype": "tweet",
+                "score": 9.35585,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/175995920943562753",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "The death toll continues to rise in Kentucky...here are the latest updates:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/175995920943562753",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 33,
+                "firstpost_date": 1369165123,
+                "title": "Once the MAIN line of storms passes your location, the #severe threat is over. #txwx #severe #dfwwx",
+                "url": "http://twitter.com/txstormchasers/status/336929062851342336",
+                "trackback_date": 1369165123,
+                "trackback_total": 39,
+                "url_expansions": [],
+                "target_birth_date": 1369165123,
+                "content": "Once the MAIN line of storms passes your location, the #severe threat is over. #txwx #severe #dfwwx",
+                "mytype": "tweet",
+                "score": 9.354701,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459925607606792193/By6IUBvs_normal.png",
+                "trackback_permalink": "http://twitter.com/TxStormChasers/status/336929062851342336",
+                "trackback_author_url": "http://twitter.com/txstormchasers",
+                "highlight": "Once the MAIN line of storms passes your location, the #severe threat is over. #txwx #severe",
+                "topsy_author_url": "http://topsy.com/twitter/txstormchasers",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/txstormchasers/status/336929062851342336",
+                "trackback_author_name": "Texas Storm Chasers",
+                "trackback_author_nick": "txstormchasers"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1338436937,
+                "title": "Storms heading into #OKC.  Let's see if they hold together..  #severe http://t.co/duPXrE5J",
+                "url": "http://twitter.com/jimcantore/status/208045711340732416",
+                "trackback_date": 1338436937,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/duPXrE5J",
+                        "display_url": "via.me/-1km2mik",
+                        "expanded_url": "http://via.me/-1km2mik",
+                        "topsy_expanded_url": "http://via.me/-1km2mik"
+                    }
+                ],
+                "target_birth_date": 1338436937,
+                "content": "Storms heading into #OKC.  Let's see if they hold together..  #severe http://t.co/duPXrE5J",
+                "mytype": "tweet",
+                "score": 9.354666,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/208045711340732416",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Storms heading into #OKC. Let's see if they hold together.. #severe",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/208045711340732416",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1335992675,
+                "title": "Its about to get very active over the next 2 hours in these areas: http://t.co/Z6i97JBc #severe #tornado",
+                "url": "http://twitter.com/jimcantore/status/197793731544498176",
+                "trackback_date": 1335992675,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Z6i97JBc",
+                        "display_url": "spc.noaa.gov/products/md/",
+                        "expanded_url": "http://www.spc.noaa.gov/products/md/",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/md/"
+                    }
+                ],
+                "target_birth_date": 1335992675,
+                "content": "Its about to get very active over the next 2 hours in these areas: http://t.co/Z6i97JBc #severe #tornado",
+                "mytype": "tweet",
+                "score": 9.354387,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/197793731544498176",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Its about to get very active over the next 2 hours in these areas: #severe",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/197793731544498176",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1313707092,
+                "title": "DANGEROUS storm heading towards Clearwater, NE  #tornado #severe #newx",
+                "url": "http://twitter.com/jimcantore/status/104321223521079297",
+                "trackback_date": 1313707092,
+                "trackback_total": 9,
+                "url_expansions": [],
+                "target_birth_date": 1313707092,
+                "content": "DANGEROUS storm heading towards Clearwater, NE  #tornado #severe #newx",
+                "mytype": "tweet",
+                "score": 9.35386,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/104321223521079297",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "DANGEROUS storm heading towards Clearwater, NE #tornado #severe",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/104321223521079297",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1347990977,
+                "title": "Concerned about small bow echo developing near Culpeper, VA that will target south suburbs of DC next 90 min. http://t.co/XMiEvUjC #severe",
+                "url": "http://twitter.com/twcbreaking/status/248118258144796673",
+                "trackback_date": 1347990977,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XMiEvUjC",
+                        "display_url": "wxch.nl/QzxIGa",
+                        "expanded_url": "http://wxch.nl/QzxIGa",
+                        "topsy_expanded_url": "http://www.weather.com/weather/map/interactive/USVA0462"
+                    }
+                ],
+                "target_birth_date": 1347990977,
+                "content": "Concerned about small bow echo developing near Culpeper, VA that will target south suburbs of DC next 90 min. http://t.co/XMiEvUjC #severe",
+                "mytype": "tweet",
+                "score": 9.353856,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/248118258144796673",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Concerned about small bow echo developing near Culpeper, VA that will target south suburbs of DC next 90 min.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/248118258144796673",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 35,
+                "firstpost_date": 1327331100,
+                "title": "Wind speeds with storms approaching Auburn, Tuskegee, Opelika, AL range between 60 and 70 mph. #severe #alwx",
+                "url": "http://twitter.com/twcbreaking/status/161464452917633025",
+                "trackback_date": 1327331100,
+                "trackback_total": 41,
+                "url_expansions": [],
+                "target_birth_date": 1327331100,
+                "content": "Wind speeds with storms approaching Auburn, Tuskegee, Opelika, AL range between 60 and 70 mph. #severe #alwx",
+                "mytype": "tweet",
+                "score": 9.353656,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/161464452917633025",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Wind speeds with storms approaching Auburn, Tuskegee, Opelika, AL range between 60 and 70 mph. #severe",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/161464452917633025",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1334846399,
+                "title": "RE: #severe: Looks like mostly a hail and wind day with a shot at a #tornado: http://t.co/C9E1jOlS http://t.co/8x3uMbgb http://t.co/UtWIJWPe",
+                "url": "http://twitter.com/jimcantore/status/192985904774778880",
+                "trackback_date": 1334846399,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/C9E1jOlS",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/day1probotlk_1300_hail.gif",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/day1probotlk_1300_hail.gif"
+                    },
+                    {
+                        "url": "http://t.co/8x3uMbgb",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/day1probotlk_1300_wind.gif",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/day1probotlk_1300_wind.gif"
+                    },
+                    {
+                        "url": "http://t.co/UtWIJWPe",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/day1probotlk_1300_torn.gif",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/day1probotlk_1300_torn.gif"
+                    }
+                ],
+                "target_birth_date": 1334846399,
+                "content": "RE: #severe: Looks like mostly a hail and wind day with a shot at a #tornado: http://t.co/C9E1jOlS http://t.co/8x3uMbgb http://t.co/UtWIJWPe",
+                "mytype": "tweet",
+                "score": 9.3529415,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/192985904774778880",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "RE: #severe: Looks like mostly a hail and wind day with a shot at a #tornado:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/192985904774778880",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1347992597,
+                "title": "Syracuse, NY just gusted to 43 mph as the line of storms came through. #Severe threshold is 58 mph.",
+                "url": "http://twitter.com/twcbreaking/status/248125054938935297",
+                "trackback_date": 1347992597,
+                "trackback_total": 13,
+                "url_expansions": [],
+                "target_birth_date": 1347992597,
+                "content": "Syracuse, NY just gusted to 43 mph as the line of storms came through. #Severe threshold is 58 mph.",
+                "mytype": "tweet",
+                "score": 9.352681,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/248125054938935297",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Syracuse, NY just gusted to 43 mph as the line of storms came through. #Severe threshold is 58 mph.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/248125054938935297",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 560,
+        "hidden": 0,
+        "total": 162735,
+        "page": 1
+    }
+}

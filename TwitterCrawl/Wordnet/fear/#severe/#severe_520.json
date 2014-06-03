@@ -1,0 +1,296 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=520",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "520"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 35,
+                "firstpost_date": 1399920849,
+                "title": "NEW: #Severe t'storm watch til 10pm for much of Lower Mich. incl Detroit, Grand Rapids. More:  http://t.co/aHRNsaOnZT http://t.co/ynOzaw1S5w",
+                "url": "http://twitter.com/weatherchannel/status/465927928056786944",
+                "trackback_date": 1399920849,
+                "trackback_total": 39,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/aHRNsaOnZT",
+                        "display_url": "wxch.nl/1c4yY17",
+                        "expanded_url": "http://wxch.nl/1c4yY17",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page"
+                    },
+                    {
+                        "url": "http://t.co/ynOzaw1S5w",
+                        "display_url": "pic.twitter.com/ynOzaw1S5w",
+                        "expanded_url": "http://twitter.com/weatherchannel/status/465927928056786944/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BndO-1eCYAAa8Ry.png"
+                    }
+                ],
+                "target_birth_date": 1399920849,
+                "content": "NEW: #Severe t'storm watch til 10pm for much of Lower Mich. incl Detroit, Grand Rapids. More:  http://t.co/aHRNsaOnZT http://t.co/ynOzaw1S5w",
+                "mytype": "tweet",
+                "score": 9.365649,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/465927928056786944",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "NEW: #Severe t'storm watch til 10pm for much of Lower Mich. incl Detroit, Grand Rapids. More:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/465927928056786944",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 35,
+                "firstpost_date": 1397426925,
+                "title": "BREAKING: 2 injured when roof blew into an apartment complex in Cameron MO, 50mi NE of Kansas City. #severe http://t.co/DxDztoeRmS",
+                "url": "http://twitter.com/twcbreaking/status/455467654095306752",
+                "trackback_date": 1397426925,
+                "trackback_total": 37,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DxDztoeRmS",
+                        "display_url": "pic.twitter.com/DxDztoeRmS",
+                        "expanded_url": "http://twitter.com/TWCBreaking/status/455467654095306752/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BlIlawEIAAA1Ml-.png"
+                    }
+                ],
+                "target_birth_date": 1397426925,
+                "content": "BREAKING: 2 injured when roof blew into an apartment complex in Cameron MO, 50mi NE of Kansas City. #severe http://t.co/DxDztoeRmS",
+                "mytype": "tweet",
+                "score": 9.365483,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/455467654095306752",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "BREAKING: 2 injured when roof blew into an apartment complex in Cameron MO, 50mi NE of Kansas City. #severe",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/455467654095306752",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 33,
+                "firstpost_date": 1399864409,
+                "title": "10:12p CT: #Severe t'storm warning until 11pm much of Des Moines metro. Winds over 60mph likely within this line. http://t.co/qAEBVUtST7",
+                "url": "http://twitter.com/twcbreaking/status/465691201367052289",
+                "trackback_date": 1399864409,
+                "trackback_total": 41,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/qAEBVUtST7",
+                        "display_url": "pic.twitter.com/qAEBVUtST7",
+                        "expanded_url": "http://twitter.com/TWCBreaking/status/465691201367052289/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BnZ3rhjCUAI8deG.png"
+                    }
+                ],
+                "target_birth_date": 1399864409,
+                "content": "10:12p CT: #Severe t'storm warning until 11pm much of Des Moines metro. Winds over 60mph likely within this line. http://t.co/qAEBVUtST7",
+                "mytype": "tweet",
+                "score": 9.365112,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/465691201367052289",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "10:12p CT: #Severe t'storm warning until 11pm much of Des Moines metro. Winds over 60mph likely within this line.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/465691201367052289",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1392936512,
+                "title": "(1/2) Numerous #severe thunderstorm and #tornado warnings are in effect throughout the Mississippi River Valley. http://t.co/XvAzmWrDGb",
+                "url": "http://twitter.com/twcbreaking/status/436633496556421121",
+                "trackback_date": 1392936512,
+                "trackback_total": 21,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XvAzmWrDGb",
+                        "display_url": "ow.ly/i/4FcND",
+                        "expanded_url": "http://ow.ly/i/4FcND",
+                        "topsy_expanded_url": "http://ow.ly/i/4FcND"
+                    }
+                ],
+                "target_birth_date": 1392936512,
+                "content": "(1/2) Numerous #severe thunderstorm and #tornado warnings are in effect throughout the Mississippi River Valley. http://t.co/XvAzmWrDGb",
+                "mytype": "tweet",
+                "score": 9.365105,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/436633496556421121",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "(1/2) Numerous #severe thunderstorm and #tornado warnings are in effect throughout the Mississippi River Valley.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/436633496556421121",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 36,
+                "firstpost_date": 1359509227,
+                "title": "The expected uptick in #severe wx activity appears to be starting now with 5 active #tornado warnings and many new cells firing up.",
+                "url": "http://twitter.com/twcbreaking/status/296429302516432896",
+                "trackback_date": 1359509227,
+                "trackback_total": 44,
+                "url_expansions": [],
+                "target_birth_date": 1359509227,
+                "content": "The expected uptick in #severe wx activity appears to be starting now with 5 active #tornado warnings and many new cells firing up.",
+                "mytype": "tweet",
+                "score": 9.36488,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/296429302516432896",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "The expected uptick in #severe wx activity appears to be starting now with 5 active #tornado warnings and many new cells firing up.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/296429302516432896",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1377113334,
+                "title": "#Severe t'storm watch until midnight EDT (11pm CDT) for much of UP of Michigan, northern half of Wisconsin. http://t.co/qsKINclhlf",
+                "url": "http://twitter.com/weatherchannel/status/370266279044976640",
+                "trackback_date": 1377113334,
+                "trackback_total": 19,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/qsKINclhlf",
+                        "display_url": "wxch.nl/15ak9Xt",
+                        "expanded_url": "http://wxch.nl/15ak9Xt",
+                        "topsy_expanded_url": "http://www.weather.com/weather/map/interactive/?_rd=n&hootPostID=a787dc30d1129779a6b197759a1a0dc7&lat=46&layers=0039%2C0123&lon=-90&zoom=6"
+                    }
+                ],
+                "target_birth_date": 1377113334,
+                "content": "#Severe t'storm watch until midnight EDT (11pm CDT) for much of UP of Michigan, northern half of Wisconsin. http://t.co/qsKINclhlf",
+                "mytype": "tweet",
+                "score": 9.364447,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/370266279044976640",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "#Severe t'storm watch until midnight EDT (11pm CDT) for much of UP of Michigan, northern half of Wisconsin.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/370266279044976640",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1350485423,
+                "title": "Timeline for #SEVERE and #TORNADO threat via @NWSJacksonMS: http://t.co/ofYRzzEu #MSwx #ARwx #TNwx #LAwx",
+                "url": "http://twitter.com/jimcantore/status/258580722279931904",
+                "trackback_date": 1350485423,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ofYRzzEu",
+                        "display_url": "srh.noaa.gov/images/fxc/jan\u2026",
+                        "expanded_url": "http://www.srh.noaa.gov/images/fxc/jan/graphicast/image_full2.gif",
+                        "topsy_expanded_url": "http://www.srh.noaa.gov/images/fxc/jan/graphicast/image_full2.gif"
+                    }
+                ],
+                "target_birth_date": 1350485423,
+                "content": "Timeline for #SEVERE and #TORNADO threat via @NWSJacksonMS: http://t.co/ofYRzzEu #MSwx #ARwx #TNwx #LAwx",
+                "mytype": "tweet",
+                "score": 9.364075,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/258580722279931904",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Timeline for #SEVERE and #TORNADO threat via @NWSJacksonMS: #MSwx #ARwx #TNwx",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/258580722279931904",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1389469883,
+                "title": "RT @legeros: Trees down and gas leak on Lakeview Drive with Raleigh Fire. High winds during thunderstorm. http://t.co/MegMla9gWe #severe",
+                "url": "http://twitter.com/twcbreaking/status/422093399291068416",
+                "trackback_date": 1389469883,
+                "trackback_total": 20,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/MegMla9gWe",
+                        "display_url": "pic.twitter.com/MegMla9gWe",
+                        "expanded_url": "http://twitter.com/legeros/status/422092084431310848/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BduSg6gIQAAQoP7.jpg"
+                    }
+                ],
+                "target_birth_date": 1389469883,
+                "content": "RT @legeros: Trees down and gas leak on Lakeview Drive with Raleigh Fire. High winds during thunderstorm. http://t.co/MegMla9gWe #severe",
+                "mytype": "tweet",
+                "score": 9.363913,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/422093399291068416",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Trees down and gas leak on Lakeview Drive with Raleigh Fire. High winds during thunderstorm.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/422093399291068416",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 25,
+                "firstpost_date": 1368920046,
+                "title": "Spotters reported multiple funnel clouds with another supercell north of Kinsley, KS.  Radar:  http://t.co/z26mdSgxuE  #severe",
+                "url": "http://twitter.com/twcbreaking/status/335901138723409920",
+                "trackback_date": 1368920046,
+                "trackback_total": 29,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/z26mdSgxuE",
+                        "display_url": "wxch.nl/14CC6eS",
+                        "expanded_url": "http://wxch.nl/14CC6eS",
+                        "topsy_expanded_url": "http://www.weather.com/weather/map/interactive/USKS0304:1?baseMap=h&hootPostID=e98c603cea72fc323743aeed8ac867b7&interactiveMapLayer=radar&zoom=10"
+                    }
+                ],
+                "target_birth_date": 1368920046,
+                "content": "Spotters reported multiple funnel clouds with another supercell north of Kinsley, KS.  Radar:  http://t.co/z26mdSgxuE  #severe",
+                "mytype": "tweet",
+                "score": 9.363753,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/335901138723409920",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Spotters reported multiple funnel clouds with another supercell north of Kinsley, KS. Radar:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/335901138723409920",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 30,
+                "firstpost_date": 1302835592,
+                "title": "Red Cross Confirmed 1 Dead 3 Critical Down by Tushka, OK #Tornado #severe #OKwx",
+                "url": "http://twitter.com/jimcantore/status/58722847262113792",
+                "trackback_date": 1302835592,
+                "trackback_total": 32,
+                "url_expansions": [],
+                "target_birth_date": 1302835592,
+                "content": "Red Cross Confirmed 1 Dead 3 Critical Down by Tushka, OK #Tornado #severe #OKwx",
+                "mytype": "tweet",
+                "score": 9.363635,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/58722847262113792",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Red Cross Confirmed 1 Dead 3 Critical Down by Tushka, OK #Tornado #severe",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/58722847262113792",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 520,
+        "hidden": 0,
+        "total": 162346,
+        "page": 1
+    }
+}

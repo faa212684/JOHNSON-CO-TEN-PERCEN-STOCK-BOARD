@@ -1,0 +1,288 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23awesome&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=420",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#awesome",
+            "window": "a",
+            "type": "tweet",
+            "offset": "420"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 61,
+                "firstpost_date": 1353277288,
+                "title": "#SurvivorSeries #Awesome",
+                "url": "http://twitter.com/maryse0uellet/status/270290653274062848",
+                "trackback_date": 1353277288,
+                "trackback_total": 99,
+                "url_expansions": [],
+                "target_birth_date": 1353277288,
+                "content": "#SurvivorSeries #Awesome",
+                "mytype": "tweet",
+                "score": 9.865464,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461264146403569664/Lk00a-WO_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/maryse0uellet/status/270290653274062848",
+                "trackback_author_url": "http://twitter.com/maryse0uellet",
+                "highlight": "#SurvivorSeries",
+                "topsy_author_url": "http://topsy.com/twitter/maryse0uellet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/maryse0uellet/status/270290653274062848",
+                "trackback_author_name": "MaryseOuelletMizanin",
+                "trackback_author_nick": "maryse0uellet"
+            },
+            {
+                "hits": 31,
+                "firstpost_date": 1398611678,
+                "title": "POUGHKEEPSIE! \u201c@rileygoommee: @IAmJericho @thedukeofmetal @FOZZYROCK is so #awesome Rock on boys http://t.co/Nvil4WFsGs\u201d",
+                "url": "http://twitter.com/iamjericho/status/460436866211536897",
+                "trackback_date": 1398611678,
+                "trackback_total": 45,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Nvil4WFsGs",
+                        "display_url": "pic.twitter.com/Nvil4WFsGs",
+                        "expanded_url": "http://twitter.com/rileygoommee/status/460367964517068800/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BmOON_iCEAAfifX.jpg"
+                    }
+                ],
+                "target_birth_date": 1398611678,
+                "content": "POUGHKEEPSIE! \u201c@rileygoommee: @IAmJericho @thedukeofmetal @FOZZYROCK is so #awesome Rock on boys http://t.co/Nvil4WFsGs\u201d",
+                "mytype": "tweet",
+                "score": 9.86534,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468131021175930880/CD5vE21g_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/IAmJericho/status/460436866211536897",
+                "trackback_author_url": "http://twitter.com/iamjericho",
+                "highlight": "POUGHKEEPSIE! \u201c@rileygoommee: @IAmJericho @thedukeofmetal @FOZZYROCK is so #awesome Rock on boys",
+                "topsy_author_url": "http://topsy.com/twitter/iamjericho",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/iamjericho/status/460436866211536897",
+                "trackback_author_name": "Chris Jericho",
+                "trackback_author_nick": "iamjericho"
+            },
+            {
+                "hits": 34,
+                "firstpost_date": 1393883883,
+                "title": "My boss had this in our offices. #awesome #theblaze http://t.co/XVYrseD0zO",
+                "url": "http://twitter.com/dloesch/status/440607056551501824",
+                "trackback_date": 1393883883,
+                "trackback_total": 48,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XVYrseD0zO",
+                        "display_url": "instagram.com/p/lGKwZqL5EJ/",
+                        "expanded_url": "http://instagram.com/p/lGKwZqL5EJ/",
+                        "topsy_expanded_url": "http://instagram.com/p/lGKwZqL5EJ/"
+                    }
+                ],
+                "target_birth_date": 1393883883,
+                "content": "My boss had this in our offices. #awesome #theblaze http://t.co/XVYrseD0zO",
+                "mytype": "tweet",
+                "score": 9.8651,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458417832242319360/huQq8ab0_normal.png",
+                "trackback_permalink": "http://twitter.com/DLoesch/status/440607056551501824",
+                "trackback_author_url": "http://twitter.com/dloesch",
+                "highlight": "My boss had this in our offices. #awesome #theblaze",
+                "topsy_author_url": "http://topsy.com/twitter/dloesch",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dloesch/status/440607056551501824",
+                "trackback_author_name": "Dana Loesch",
+                "trackback_author_nick": "dloesch"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1365712922,
+                "title": "The new @MikeVick app is crazy!!! #awesome \ud83c\udfc8\ud83c\udfc8\ud83c\udfc8",
+                "url": "http://twitter.com/matt_josephson7/status/322449485026455552",
+                "trackback_date": 1365712922,
+                "trackback_total": 10,
+                "url_expansions": [],
+                "target_birth_date": 1365712922,
+                "content": "The new @MikeVick app is crazy!!! #awesome \ud83c\udfc8\ud83c\udfc8\ud83c\udfc8",
+                "mytype": "tweet",
+                "score": 9.864704,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467097753873813504/kemSBzBr_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Matt_Josephson7/status/322449485026455552",
+                "trackback_author_url": "http://twitter.com/matt_josephson7",
+                "highlight": "The new @MikeVick app is crazy!!! #awesome \ud83c\udfc8\ud83c\udfc8\ud83c\udfc8",
+                "topsy_author_url": "http://topsy.com/twitter/matt_josephson7",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/matt_josephson7/status/322449485026455552",
+                "trackback_author_name": "The 5th Josephsahn",
+                "trackback_author_nick": "matt_josephson7"
+            },
+            {
+                "hits": 58,
+                "firstpost_date": 1345004860,
+                "title": "#Awesome time RT @BradfordRogne: Great shooting with you @maryse0uellet ! http://t.co/dwZ4CjAc",
+                "url": "http://twitter.com/maryse0uellet/status/235593577483362304",
+                "trackback_date": 1345004860,
+                "trackback_total": 94,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/dwZ4CjAc",
+                        "expanded_url": "http://twitter.com/BradfordRogne/status/235440323051003905/photo/1",
+                        "display_url": "pic.twitter.com/dwZ4CjAc"
+                    }
+                ],
+                "target_birth_date": 1345004860,
+                "content": "#Awesome time RT @BradfordRogne: Great shooting with you @maryse0uellet ! http://t.co/dwZ4CjAc",
+                "mytype": "tweet",
+                "score": 9.864597,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461264146403569664/Lk00a-WO_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/maryse0uellet/status/235593577483362304",
+                "trackback_author_url": "http://twitter.com/maryse0uellet",
+                "highlight": "#Awesome timeGreat shooting with you @maryse0uellet !",
+                "topsy_author_url": "http://topsy.com/twitter/maryse0uellet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/maryse0uellet/status/235593577483362304",
+                "trackback_author_name": "MaryseOuelletMizanin",
+                "trackback_author_nick": "maryse0uellet"
+            },
+            {
+                "hits": 54,
+                "firstpost_date": 1359795174,
+                "title": "#crazy #Awesome #memories #montreal RT @xhairflipping: @maryse0uellet and @RealMelina \ud83d\ude0d http://t.co/OL1GxvKj",
+                "url": "http://twitter.com/maryse0uellet/status/297628651091017728",
+                "trackback_date": 1359795174,
+                "trackback_total": 85,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/OL1GxvKj",
+                        "expanded_url": "http://twitter.com/xhairflipping/status/297628324451217409/photo/1",
+                        "display_url": "pic.twitter.com/OL1GxvKj"
+                    }
+                ],
+                "target_birth_date": 1359795174,
+                "content": "#crazy #Awesome #memories #montreal RT @xhairflipping: @maryse0uellet and @RealMelina \ud83d\ude0d http://t.co/OL1GxvKj",
+                "mytype": "tweet",
+                "score": 9.863888,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461264146403569664/Lk00a-WO_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/maryse0uellet/status/297628651091017728",
+                "trackback_author_url": "http://twitter.com/maryse0uellet",
+                "highlight": "#crazy #Awesome #memories #montreal@maryse0uellet and @RealMelina \ud83d\ude0d",
+                "topsy_author_url": "http://topsy.com/twitter/maryse0uellet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/maryse0uellet/status/297628651091017728",
+                "trackback_author_name": "MaryseOuelletMizanin",
+                "trackback_author_nick": "maryse0uellet"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1351387396,
+                "title": "Me &amp; masters champ!! #awesome  http://t.co/RYR1a0ep",
+                "url": "http://twitter.com/bubbawatson/status/262363875104665601",
+                "trackback_date": 1351387396,
+                "trackback_total": 326,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RYR1a0ep",
+                        "display_url": "lockerz.com/s/256750486",
+                        "expanded_url": "http://lockerz.com/s/256750486",
+                        "topsy_expanded_url": "http://pics.lockerz.com/s/256750486"
+                    }
+                ],
+                "target_birth_date": 1351387396,
+                "content": "Me &amp; masters champ!! #awesome  http://t.co/RYR1a0ep",
+                "mytype": "tweet",
+                "score": 9.863698,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2319279206/35bwnea39ntayq08qjpb_normal.png",
+                "trackback_permalink": "http://twitter.com/bubbawatson/status/262363875104665601",
+                "trackback_author_url": "http://twitter.com/bubbawatson",
+                "highlight": "Me &amp; masters champ!! #awesome",
+                "topsy_author_url": "http://topsy.com/twitter/bubbawatson",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bubbawatson/status/262363875104665601",
+                "trackback_author_name": "bubba watson",
+                "trackback_author_nick": "bubbawatson"
+            },
+            {
+                "hits": 32,
+                "firstpost_date": 1369884239,
+                "title": "#Awesome RT @blairherter: Year One: Day Eighty Four - my first day as the Director of Development of a production... http://t.co/vok8FaxJfb",
+                "url": "http://twitter.com/mikethemiz/status/339945254801264640",
+                "trackback_date": 1369884239,
+                "trackback_total": 49,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vok8FaxJfb",
+                        "display_url": "tmblr.co/ZE3sDwm8mi-b",
+                        "expanded_url": "http://tmblr.co/ZE3sDwm8mi-b",
+                        "topsy_expanded_url": "http://www.tumblr.com/ZE3sDwm8mi-b"
+                    }
+                ],
+                "target_birth_date": 1369884239,
+                "content": "#Awesome RT @blairherter: Year One: Day Eighty Four - my first day as the Director of Development of a production... http://t.co/vok8FaxJfb",
+                "mytype": "tweet",
+                "score": 9.863551,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3622239804/c78d86ca8f051fd5001f3e4f79d3e43d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mikethemiz/status/339945254801264640",
+                "trackback_author_url": "http://twitter.com/mikethemiz",
+                "highlight": "#AwesomeYear One: Day Eighty Four - my first day as the Director of Development of a production",
+                "topsy_author_url": "http://topsy.com/twitter/mikethemiz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mikethemiz/status/339945254801264640",
+                "trackback_author_name": "The Miz",
+                "trackback_author_nick": "mikethemiz"
+            },
+            {
+                "hits": 44,
+                "firstpost_date": 1388176099,
+                "title": "RT @tdbtvpro: I just seen @WWE superstar @mikethemiz on @HLNTV. #Awesome #salutetotroops @RobinMeade http://t.co/fFOMGLpr1b",
+                "url": "http://twitter.com/mikethemiz/status/416666876127621120",
+                "trackback_date": 1388176099,
+                "trackback_total": 57,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/fFOMGLpr1b",
+                        "display_url": "pic.twitter.com/fFOMGLpr1b",
+                        "expanded_url": "http://twitter.com/tdbtvpro/status/416226634090676225/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bca76wpIAAA9J-h.jpg"
+                    }
+                ],
+                "target_birth_date": 1388176099,
+                "content": "RT @tdbtvpro: I just seen @WWE superstar @mikethemiz on @HLNTV. #Awesome #salutetotroops @RobinMeade http://t.co/fFOMGLpr1b",
+                "mytype": "tweet",
+                "score": 9.863518,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3622239804/c78d86ca8f051fd5001f3e4f79d3e43d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mikethemiz/status/416666876127621120",
+                "trackback_author_url": "http://twitter.com/mikethemiz",
+                "highlight": "I just seen @WWE superstar @mikethemiz on @HLNTV. #Awesome #salutetotroops @RobinMeade",
+                "topsy_author_url": "http://topsy.com/twitter/mikethemiz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mikethemiz/status/416666876127621120",
+                "trackback_author_name": "The Miz",
+                "trackback_author_nick": "mikethemiz"
+            },
+            {
+                "hits": 37,
+                "firstpost_date": 1382580563,
+                "title": "Halloween nails #awesome http://t.co/7Fk9E3FQxn",
+                "url": "http://twitter.com/maryse0uellet/status/393197498548125696",
+                "trackback_date": 1382580563,
+                "trackback_total": 57,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7Fk9E3FQxn",
+                        "display_url": "instagram.com/p/f1TWiWv65d/",
+                        "expanded_url": "http://instagram.com/p/f1TWiWv65d/",
+                        "topsy_expanded_url": "http://instagram.com/p/f1TWiWv65d/"
+                    }
+                ],
+                "target_birth_date": 1382580563,
+                "content": "Halloween nails #awesome http://t.co/7Fk9E3FQxn",
+                "mytype": "tweet",
+                "score": 9.863419,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461264146403569664/Lk00a-WO_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/maryse0uellet/status/393197498548125696",
+                "trackback_author_url": "http://twitter.com/maryse0uellet",
+                "highlight": "Halloween nails #awesome",
+                "topsy_author_url": "http://topsy.com/twitter/maryse0uellet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/maryse0uellet/status/393197498548125696",
+                "trackback_author_name": "MaryseOuelletMizanin",
+                "trackback_author_nick": "maryse0uellet"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 420,
+        "hidden": 0,
+        "total": 10876269,
+        "page": 1
+    }
+}

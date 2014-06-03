@@ -1,0 +1,289 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=400",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "400"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 22,
+                "firstpost_date": 1343240296,
+                "title": "VERY high probability here !! RT @MikeMasco: A 45% probability of damaging storms tomorrow . Mod risk issued http://t.co/7T1j5jUL #severe",
+                "url": "http://twitter.com/jimcantore/status/228192457630830592",
+                "trackback_date": 1343240296,
+                "trackback_total": 28,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7T1j5jUL",
+                        "expanded_url": "http://twitter.com/MikeMasco/status/228187212553007105/photo/1",
+                        "display_url": "pic.twitter.com/7T1j5jUL"
+                    }
+                ],
+                "target_birth_date": 1343240296,
+                "content": "VERY high probability here !! RT @MikeMasco: A 45% probability of damaging storms tomorrow . Mod risk issued http://t.co/7T1j5jUL #severe",
+                "mytype": "tweet",
+                "score": 9.4090185,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/228192457630830592",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "VERY high probability here !!A 45% probability of damaging storms tomorrow . Mod risk issued",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/228192457630830592",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1303859316,
+                "title": "Softball size #hail in Van Buren, AR.  How big is that and what can that do:  http://wxch.nl/g3uGZG  #severe",
+                "url": "http://twitter.com/twcbreaking/status/63016658331111424",
+                "trackback_date": 1303859316,
+                "trackback_total": 15,
+                "url_expansions": [],
+                "target_birth_date": 1303859316,
+                "content": "Softball size #hail in Van Buren, AR.  How big is that and what can that do:  http://wxch.nl/g3uGZG  #severe",
+                "mytype": "tweet",
+                "score": 9.408922,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63016658331111424",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Softball size #hail in Van Buren, AR. How big is that and what can that do:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63016658331111424",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 53,
+                "firstpost_date": 1352660313,
+                "title": "#Tornado watch for parts of east TX, southwest AR, northwest LA, southeast OK until 7p CT.  #Severe tracker:  http://t.co/3EF35zdy",
+                "url": "http://twitter.com/weatherchannel/status/267702872102293505",
+                "trackback_date": 1352660313,
+                "trackback_total": 61,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3EF35zdy",
+                        "display_url": "wxch.nl/LoLoAW",
+                        "expanded_url": "http://wxch.nl/LoLoAW",
+                        "topsy_expanded_url": "http://www.weather.com/news/weather-severe/severe-weather-tracker"
+                    }
+                ],
+                "target_birth_date": 1352660313,
+                "content": "#Tornado watch for parts of east TX, southwest AR, northwest LA, southeast OK until 7p CT.  #Severe tracker:  http://t.co/3EF35zdy",
+                "mytype": "tweet",
+                "score": 9.408592,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/267702872102293505",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "#Tornado watch for parts of east TX, southwest AR, northwest LA, southeast OK until 7p CT. #Severe tracker:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/267702872102293505",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 28,
+                "firstpost_date": 1384640407,
+                "title": "A #severe weather outbreak is forecast to occur tomorrow (Sunday). Do you have a plan? The time to prepare is NOW. http://t.co/XF58oqyO3k",
+                "url": "http://twitter.com/twcbreaking/status/401837112141819904",
+                "trackback_date": 1384640407,
+                "trackback_total": 31,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XF58oqyO3k",
+                        "display_url": "wxch.nl/1f0Rg6c",
+                        "expanded_url": "http://wxch.nl/1f0Rg6c",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page?hootPostID=50208e89defc3debe93b08ad94bebd87"
+                    }
+                ],
+                "target_birth_date": 1384640407,
+                "content": "A #severe weather outbreak is forecast to occur tomorrow (Sunday). Do you have a plan? The time to prepare is NOW. http://t.co/XF58oqyO3k",
+                "mytype": "tweet",
+                "score": 9.40829,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/401837112141819904",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "A #severe weather outbreak is forecast to occur tomorrow (Sunday). Do you have a plan? The time to prepare is NOW.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/401837112141819904",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1334967664,
+                "title": "NWS Miami on multiple rounds of #SEVERE potential for #Florida Saturday: http://t.co/AdMfyRW9",
+                "url": "http://twitter.com/jimcantore/status/193494527070306306",
+                "trackback_date": 1334967664,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/AdMfyRW9",
+                        "display_url": "srh.noaa.gov/images/fxc/mfl\u2026",
+                        "expanded_url": "http://www.srh.noaa.gov/images/fxc/mfl/graphicast/image_full3.gif",
+                        "topsy_expanded_url": "http://www.srh.noaa.gov/images/fxc/mfl/graphicast/image_full3.gif"
+                    }
+                ],
+                "target_birth_date": 1334967664,
+                "content": "NWS Miami on multiple rounds of #SEVERE potential for #Florida Saturday: http://t.co/AdMfyRW9",
+                "mytype": "tweet",
+                "score": 9.406733,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/193494527070306306",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "NWS Miami on multiple rounds of #SEVERE potential for #Florida Saturday:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/193494527070306306",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1348011873,
+                "title": "#Severe t'storm warning until 8:30p for NYC, its northern suburbs, and western Long Island. Details: http://t.co/1pLCHd0A",
+                "url": "http://twitter.com/twcbreaking/status/248205903986319360",
+                "trackback_date": 1348011873,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1pLCHd0A",
+                        "display_url": "wxch.nl/OiOJ7T",
+                        "expanded_url": "http://wxch.nl/OiOJ7T",
+                        "topsy_expanded_url": "http://www.weather.com/weather/map/interactive/USNY0996"
+                    }
+                ],
+                "target_birth_date": 1348011873,
+                "content": "#Severe t'storm warning until 8:30p for NYC, its northern suburbs, and western Long Island. Details: http://t.co/1pLCHd0A",
+                "mytype": "tweet",
+                "score": 9.406425,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/248205903986319360",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "#Severe t'storm warning until 8:30p for NYC, its northern suburbs, and western Long Island. Details:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/248205903986319360",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1392246854,
+                "title": "#severe RT @akgilbre: Pretty ominous looking clouds in Orange County FL @TWCBreaking http://t.co/iiWe7YuJNG",
+                "url": "http://twitter.com/twcbreaking/status/433740860791197696",
+                "trackback_date": 1392246854,
+                "trackback_total": 26,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/iiWe7YuJNG",
+                        "display_url": "pic.twitter.com/iiWe7YuJNG",
+                        "expanded_url": "http://twitter.com/akgilbre/status/433736245416833024/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BgTw0SkIIAAIfo4.jpg"
+                    }
+                ],
+                "target_birth_date": 1392246854,
+                "content": "#severe RT @akgilbre: Pretty ominous looking clouds in Orange County FL @TWCBreaking http://t.co/iiWe7YuJNG",
+                "mytype": "tweet",
+                "score": 9.40618,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/433740860791197696",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "#severePretty ominous looking clouds in Orange County FL @TWCBreaking",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/433740860791197696",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1336092465,
+                "title": "Flash #Flood WARNING now issued for the #Chicago Metro Area.  Cells training over the city: http://t.co/Q5GsHTDS #ILwx #severe",
+                "url": "http://twitter.com/jimcantore/status/198212284164747264",
+                "trackback_date": 1336092465,
+                "trackback_total": 21,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Q5GsHTDS",
+                        "display_url": "radar.weather.gov/ridge/radar.ph\u2026",
+                        "expanded_url": "http://radar.weather.gov/ridge/radar.php?rid=lot&product=N0R&overlay=11101111&loop=yes",
+                        "topsy_expanded_url": "http://radar.weather.gov/ridge/radar.php?rid=lot&product=N0R&overlay=11101111&loop=yes"
+                    }
+                ],
+                "target_birth_date": 1336092465,
+                "content": "Flash #Flood WARNING now issued for the #Chicago Metro Area.  Cells training over the city: http://t.co/Q5GsHTDS #ILwx #severe",
+                "mytype": "tweet",
+                "score": 9.40566,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/198212284164747264",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Flash #Flood WARNING now issued for the #Chicago Metro Area. Cells training over the city: #ILwx",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/198212284164747264",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1368999889,
+                "title": "RT @mprendergasttx: Edmond, OK tornado a few minutes ago. #okwx #severe http://t.co/8IEgMzWoUm",
+                "url": "http://twitter.com/ounwcm/status/336236024046964737",
+                "trackback_date": 1368999889,
+                "trackback_total": 22,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8IEgMzWoUm",
+                        "display_url": "pic.twitter.com/8IEgMzWoUm",
+                        "expanded_url": "http://twitter.com/MPrendergastTX/status/336234572297666560/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BKqLj-NCAAAgU2o.jpg"
+                    }
+                ],
+                "target_birth_date": 1368999889,
+                "content": "RT @mprendergasttx: Edmond, OK tornado a few minutes ago. #okwx #severe http://t.co/8IEgMzWoUm",
+                "mytype": "tweet",
+                "score": 9.404786,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/150496319/Dsc01422_normal.jpg",
+                "trackback_permalink": "http://twitter.com/ounwcm/status/336236024046964737",
+                "trackback_author_url": "http://twitter.com/ounwcm",
+                "highlight": "Edmond, OK tornado a few minutes ago. #okwx #severe",
+                "topsy_author_url": "http://topsy.com/twitter/ounwcm",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ounwcm/status/336236024046964737",
+                "trackback_author_name": "Rick Smith",
+                "trackback_author_nick": "ounwcm"
+            },
+            {
+                "hits": 38,
+                "firstpost_date": 1359485997,
+                "title": "Unconfirmed reports of funnel cloud just W of Jefferson City, MO a few min ago. #Severe t'storm warning on that cell thru 1:45p CT.",
+                "url": "http://twitter.com/twcbreaking/status/296331868612202496",
+                "trackback_date": 1359485997,
+                "trackback_total": 49,
+                "url_expansions": [],
+                "target_birth_date": 1359485997,
+                "content": "Unconfirmed reports of funnel cloud just W of Jefferson City, MO a few min ago. #Severe t'storm warning on that cell thru 1:45p CT.",
+                "mytype": "tweet",
+                "score": 9.404627,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/296331868612202496",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Unconfirmed reports of funnel cloud just W of Jefferson City, MO a few min ago. #Severe t'storm warning on that cell thru 1:45p CT.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/296331868612202496",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 400,
+        "hidden": 0,
+        "total": 163236,
+        "page": 1
+    }
+}

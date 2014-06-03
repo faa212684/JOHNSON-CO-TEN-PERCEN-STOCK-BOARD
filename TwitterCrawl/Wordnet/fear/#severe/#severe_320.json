@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=320",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "320"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 53,
+                "firstpost_date": 1399853118,
+                "title": "7:03p CT: Winds up to 75mph being reported north side of Lincoln NE. Trees down. #severe http://t.co/6RAxB5y5NP",
+                "url": "http://twitter.com/twcbreaking/status/465643843077959680",
+                "trackback_date": 1399853118,
+                "trackback_total": 63,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/6RAxB5y5NP",
+                        "display_url": "pic.twitter.com/6RAxB5y5NP",
+                        "expanded_url": "http://twitter.com/TWCBreaking/status/465643843077959680/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BnZMm59CQAAJitT.png"
+                    }
+                ],
+                "target_birth_date": 1399853118,
+                "content": "7:03p CT: Winds up to 75mph being reported north side of Lincoln NE. Trees down. #severe http://t.co/6RAxB5y5NP",
+                "mytype": "tweet",
+                "score": 9.441172,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/465643843077959680",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "7:03p CT: Winds up to 75mph being reported north side of Lincoln NE. Trees down. #severe",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/465643843077959680",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1397043077,
+                "title": "Potential for #severe storms, heavy rain will return this weekend: http://t.co/AdNL6SOUU2",
+                "url": "http://twitter.com/weatherchannel/status/453857676762808320",
+                "trackback_date": 1397043077,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/AdNL6SOUU2",
+                        "display_url": "wxch.nl/14ZP49C",
+                        "expanded_url": "http://wxch.nl/14ZP49C",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page"
+                    }
+                ],
+                "target_birth_date": 1397043077,
+                "content": "Potential for #severe storms, heavy rain will return this weekend: http://t.co/AdNL6SOUU2",
+                "mytype": "tweet",
+                "score": 9.44105,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/453857676762808320",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "Potential for #severe storms, heavy rain will return this weekend:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/453857676762808320",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1321929514,
+                "title": "NEW #tornado watch for AR, extreme SE OK till 2:00am CT:  http://t.co/lNHBZnkF #ARwx #OKwx #severe #tornado",
+                "url": "http://twitter.com/jimcantore/status/138808562423046145",
+                "trackback_date": 1321929514,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/lNHBZnkF",
+                        "display_url": "spc.noaa.gov/products/watch/",
+                        "expanded_url": "http://www.spc.noaa.gov/products/watch/",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/watch/"
+                    }
+                ],
+                "target_birth_date": 1321929514,
+                "content": "NEW #tornado watch for AR, extreme SE OK till 2:00am CT:  http://t.co/lNHBZnkF #ARwx #OKwx #severe #tornado",
+                "mytype": "tweet",
+                "score": 9.440523,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/138808562423046145",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "NEW #tornado watch for AR, extreme SE OK till 2:00am CT: #ARwx #OKwx #severe",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/138808562423046145",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 23,
+                "firstpost_date": 1384709338,
+                "title": "#Severe t'storm warning until 12:15pm CST for north side of Chicago and adjacent N/NW suburbs. http://t.co/sLUgMRudeC",
+                "url": "http://twitter.com/twcbreaking/status/402126229715050496",
+                "trackback_date": 1384709338,
+                "trackback_total": 43,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/sLUgMRudeC",
+                        "display_url": "wxch.nl/1aLtqU0",
+                        "expanded_url": "http://wxch.nl/1aLtqU0",
+                        "topsy_expanded_url": "http://www.weather.com/weather/alerts/localalerts/USIL0523?areaid=ILC043&etn=0126&hootPostID=a9a1c6930336a0f76edefdafd14cacc0&office=KLOT&phenomena=SV&significance=W"
+                    }
+                ],
+                "target_birth_date": 1384709338,
+                "content": "#Severe t'storm warning until 12:15pm CST for north side of Chicago and adjacent N/NW suburbs. http://t.co/sLUgMRudeC",
+                "mytype": "tweet",
+                "score": 9.439933,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/402126229715050496",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "#Severe t'storm warning until 12:15pm CST for north side of Chicago and adjacent N/NW suburbs.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/402126229715050496",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1303937286,
+                "title": "Reports of damage, people trapped in homes in Kemper Co., MS #severe",
+                "url": "http://twitter.com/twcbreaking/status/63343686582407168",
+                "trackback_date": 1303937286,
+                "trackback_total": 15,
+                "url_expansions": [],
+                "target_birth_date": 1303937286,
+                "content": "Reports of damage, people trapped in homes in Kemper Co., MS #severe",
+                "mytype": "tweet",
+                "score": 9.439868,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63343686582407168",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Reports of damage, people trapped in homes in Kemper Co., MS",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63343686582407168",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 20,
+                "firstpost_date": 1343385567,
+                "title": "Just posted this on http://t.co/xxz6v3gd. AMAZING. http://t.co/YnlbfGWA via @RichardGottardo #Toronto #CNTower #severe #lightning",
+                "url": "http://twitter.com/irisheagle/status/228801771252879360",
+                "trackback_date": 1343385567,
+                "trackback_total": 19,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/xxz6v3gd",
+                        "display_url": "wxch.nl/weatherplus",
+                        "expanded_url": "http://wxch.nl/weatherplus",
+                        "topsy_expanded_url": "https://plus.google.com/u/0/102191030161937606640/posts"
+                    },
+                    {
+                        "url": "http://t.co/YnlbfGWA",
+                        "display_url": "flickr.com/photos/richard\u2026",
+                        "expanded_url": "http://www.flickr.com/photos/richardgottardo/7649012416/",
+                        "topsy_expanded_url": "http://www.flickr.com/photos/richardgottardo/7649012416/"
+                    }
+                ],
+                "target_birth_date": 1343385567,
+                "content": "Just posted this on http://t.co/xxz6v3gd. AMAZING. http://t.co/YnlbfGWA via @RichardGottardo #Toronto #CNTower #severe #lightning",
+                "mytype": "tweet",
+                "score": 9.439716,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000735620803/f48b4512e7073cad30d0467e2edfa054_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/IrishEagle/status/228801771252879360",
+                "trackback_author_url": "http://twitter.com/irisheagle",
+                "highlight": "Just posted this on AMAZING. via @RichardGottardo #Toronto #CNTower #severe",
+                "topsy_author_url": "http://topsy.com/twitter/irisheagle",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/irisheagle/status/228801771252879360",
+                "trackback_author_name": "Tim Ballisty",
+                "trackback_author_nick": "irisheagle"
+            },
+            {
+                "hits": 69,
+                "firstpost_date": 1304016866,
+                "title": "Death toll continues to rise. Now stands at 267. Alabama accounts for 180 of these. #severe",
+                "url": "http://twitter.com/weatherchannel/status/63677467814150144",
+                "trackback_date": 1304016866,
+                "trackback_total": 76,
+                "url_expansions": [],
+                "target_birth_date": 1304016866,
+                "content": "Death toll continues to rise. Now stands at 267. Alabama accounts for 180 of these. #severe",
+                "mytype": "tweet",
+                "score": 9.439098,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/63677467814150144",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "Death toll continues to rise. Now stands at 267. Alabama accounts for 180 of these.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/63677467814150144",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 36,
+                "firstpost_date": 1330702716,
+                "title": "Cookeville, TN. Please take shelter now. Strong rotation associated with this supercell. http://t.co/GUO3nGBe #severe #tnwx",
+                "url": "http://twitter.com/twcbreaking/status/175606035258671104",
+                "trackback_date": 1330702716,
+                "trackback_total": 36,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/GUO3nGBe",
+                        "display_url": "wxch.nl/AuXyCl",
+                        "expanded_url": "http://wxch.nl/AuXyCl",
+                        "topsy_expanded_url": "http://www.weather.com/weather/alerts/localalerts/USTN0107?areaid=TNC141&etn=0017&office=KOHX&phenomena=TO&significance=W"
+                    }
+                ],
+                "target_birth_date": 1330702716,
+                "content": "Cookeville, TN. Please take shelter now. Strong rotation associated with this supercell. http://t.co/GUO3nGBe #severe #tnwx",
+                "mytype": "tweet",
+                "score": 9.438637,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/175606035258671104",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Cookeville, TN. Please take shelter now. Strong rotation associated with this supercell. #severe",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/175606035258671104",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 46,
+                "firstpost_date": 1303945430,
+                "title": "Large tornado live on The Weather Channel right now. Tornado emergency for Birmingham, AL. You should already be in a storm shelter! #severe",
+                "url": "http://twitter.com/twcbreaking/status/63377845120024576",
+                "trackback_date": 1303945430,
+                "trackback_total": 50,
+                "url_expansions": [],
+                "target_birth_date": 1303945430,
+                "content": "Large tornado live on The Weather Channel right now. Tornado emergency for Birmingham, AL. You should already be in a storm shelter! #severe",
+                "mytype": "tweet",
+                "score": 9.438157,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63377845120024576",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Large tornado live on The Weather Channel right now. Tornado emergency for Birmingham, AL. You should already be in a storm shelter!",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63377845120024576",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 36,
+                "firstpost_date": 1330690792,
+                "title": "We start the day with pea size hail west of Nashville, TN and marble hail in St. Louis, MO,  THIS IS NOT THE MAIN SHOW. #severe #tornado",
+                "url": "http://twitter.com/jimcantore/status/175556025238290432",
+                "trackback_date": 1330690792,
+                "trackback_total": 57,
+                "url_expansions": [],
+                "target_birth_date": 1330690792,
+                "content": "We start the day with pea size hail west of Nashville, TN and marble hail in St. Louis, MO,  THIS IS NOT THE MAIN SHOW. #severe #tornado",
+                "mytype": "tweet",
+                "score": 9.43762,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/175556025238290432",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "We start the day with pea size hail west of Nashville, TN and marble hail in St. Louis, MO, THIS IS NOT THE MAIN SHOW. #severe",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/175556025238290432",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 320,
+        "hidden": 0,
+        "total": 161945,
+        "page": 1
+    }
+}

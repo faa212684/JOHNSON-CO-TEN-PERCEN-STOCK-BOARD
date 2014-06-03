@@ -1,0 +1,290 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23fright&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=140",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#fright",
+            "window": "a",
+            "type": "tweet",
+            "offset": "140"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1342249738,
+                "title": "On @tcm now. http://t.co/BjfFL0jz @GetGlue #Fright",
+                "url": "http://twitter.com/tragedyman/status/224037757545218048",
+                "trackback_date": 1342249738,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/BjfFL0jz",
+                        "display_url": "bit.ly/P5QwhU",
+                        "expanded_url": "http://bit.ly/P5QwhU",
+                        "topsy_expanded_url": "http://bit.ly/P5QwhU"
+                    }
+                ],
+                "target_birth_date": 1342249738,
+                "content": "On @tcm now. http://t.co/BjfFL0jz @GetGlue #Fright",
+                "mytype": "tweet",
+                "score": 8.188638,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1012363845/ivan_normal.jpg",
+                "trackback_permalink": "http://twitter.com/tragedyman/status/224037757545218048",
+                "trackback_author_url": "http://twitter.com/tragedyman",
+                "highlight": "On @tcm now. @GetGlue",
+                "topsy_author_url": "http://topsy.com/twitter/tragedyman",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tragedyman/status/224037757545218048",
+                "trackback_author_name": "Michael Hayes",
+                "trackback_author_nick": "tragedyman"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1317191727,
+                "title": "http://t.co/IvVO1wZa #jack #o #lantern #fright Halloween at the White House",
+                "url": "http://twitter.com/booklib2011/status/118936840018468864",
+                "trackback_date": 1317191727,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/IvVO1wZa",
+                        "display_url": "book-lib.com/halloween-at-t\u2026",
+                        "expanded_url": "http://www.book-lib.com/halloween-at-the-white-house.html",
+                        "topsy_expanded_url": "http://www.book-lib.com/halloween-at-the-white-house.html"
+                    }
+                ],
+                "target_birth_date": 1317191727,
+                "content": "http://t.co/IvVO1wZa #jack #o #lantern #fright Halloween at the White House",
+                "mytype": "tweet",
+                "score": 8.187739,
+                "topsy_author_img": "http://a1.twimg.com/profile_images/1254330555/00204_normal.jpg",
+                "trackback_permalink": "http://twitter.com/booklib2011/status/118936840018468864",
+                "trackback_author_url": "http://twitter.com/booklib2011",
+                "highlight": " #jack #o #lantern #fright Halloween at the White House",
+                "topsy_author_url": "http://topsy.com/twitter/booklib2011",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/booklib2011/status/118936840018468864",
+                "trackback_author_name": "Books For Your Life",
+                "trackback_author_nick": "booklib2011"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1342209813,
+                "title": "I'm watching Fright http://t.co/UAG2zkgT @GetGlue #Fright",
+                "url": "http://twitter.com/catquack/status/223870301698662403",
+                "trackback_date": 1342209813,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/UAG2zkgT",
+                        "display_url": "bit.ly/OkQ9eB",
+                        "expanded_url": "http://bit.ly/OkQ9eB",
+                        "topsy_expanded_url": "http://bit.ly/OkQ9eB"
+                    }
+                ],
+                "target_birth_date": 1342209813,
+                "content": "I'm watching Fright http://t.co/UAG2zkgT @GetGlue #Fright",
+                "mytype": "tweet",
+                "score": 8.185744,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000657864611/470b10dda64892681796e450fc6b144e_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CatQuack/status/223870301698662403",
+                "trackback_author_url": "http://twitter.com/heycatkpop",
+                "highlight": "I'm watching Fright @GetGlue",
+                "topsy_author_url": "http://topsy.com/twitter/heycatkpop",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/catquack/status/223870301698662403",
+                "trackback_author_name": "Cat",
+                "trackback_author_nick": "heycatkpop"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1336535255,
+                "title": "Mention. #fright a la Stephen King #suspense #psych thriller. #WLCAuthor http://t.co/sGBZB8F7",
+                "url": "http://twitter.com/cslakin/status/200069478904639488",
+                "trackback_date": 1336535255,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/sGBZB8F7",
+                        "display_url": "amzn.to/AwddHK",
+                        "expanded_url": "http://amzn.to/AwddHK",
+                        "topsy_expanded_url": "http://www.amazon.com/gp/product/B005FNGCO0"
+                    }
+                ],
+                "target_birth_date": 1336535255,
+                "content": "Mention. #fright a la Stephen King #suspense #psych thriller. #WLCAuthor http://t.co/sGBZB8F7",
+                "mytype": "tweet",
+                "score": 8.185227,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2164693035/Pro_photo_for_book_cover-small_image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/CSLakin/status/200069478904639488",
+                "trackback_author_url": "http://twitter.com/cslakin",
+                "highlight": "Mention. #fright a la Stephen King #suspense #psych thriller. #WLCAuthor",
+                "topsy_author_url": "http://topsy.com/twitter/cslakin",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cslakin/status/200069478904639488",
+                "trackback_author_name": "Susanne Lakin",
+                "trackback_author_nick": "cslakin"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1271995581,
+                "title": "#FRIGHT FEST WHO WIT IT!!!!!!! LMAO",
+                "url": "http://twitter.com/starysmoove/status/12682211720",
+                "trackback_date": 1271995581,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1271995581,
+                "content": "#FRIGHT FEST WHO WIT IT!!!!!!! LMAO",
+                "mytype": "tweet",
+                "score": 8.18328,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464480411188748288/M5DeVGER_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/STARYSMOOVE/status/12682211720",
+                "trackback_author_url": "http://twitter.com/starysmoove",
+                "highlight": "#FRIGHT FEST WHO WIT IT!!!!!!! LMAO",
+                "topsy_author_url": "http://topsy.com/twitter/starysmoove",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/starysmoove/status/12682211720",
+                "trackback_author_name": "\u2605DRKSKNSMOOVE\u2605",
+                "trackback_author_nick": "starysmoove"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1277583398,
+                "title": "#fright ~ by my hair ~ Ive seen a ghost ~",
+                "url": "http://twitter.com/lovenunrg/status/17115219956",
+                "trackback_date": 1277583398,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1277583398,
+                "content": "#fright ~ by my hair ~ Ive seen a ghost ~",
+                "mytype": "tweet",
+                "score": 8.182932,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/431011210809466880/MJ-mBtsp_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/lovenunrg/status/17115219956",
+                "trackback_author_url": "http://twitter.com/lovenuonce",
+                "highlight": "#fright ~ by my hair ~ Ive seen a ghost ~",
+                "topsy_author_url": "http://topsy.com/twitter/lovenuonce",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lovenunrg/status/17115219956",
+                "trackback_author_name": "Camelia",
+                "trackback_author_nick": "lovenuonce"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1334805985,
+                "title": "The fright night 1 Managed Care http://t.co/CdsX8lNX #Care #fright",
+                "url": "http://twitter.com/fixushealth/status/192816394713317378",
+                "trackback_date": 1334805985,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/CdsX8lNX",
+                        "display_url": "fixushealth.com/managed-care/f\u2026",
+                        "expanded_url": "http://fixushealth.com/managed-care/fright-night-1-managed-care/",
+                        "topsy_expanded_url": "http://fixushealth.com/managed-care/fright-night-1-managed-care/"
+                    }
+                ],
+                "target_birth_date": 1334805985,
+                "content": "The fright night 1 Managed Care http://t.co/CdsX8lNX #Care #fright",
+                "mytype": "tweet",
+                "score": 8.175943,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1517677415/images_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/fixUShealth/status/192816394713317378",
+                "trackback_author_url": "http://twitter.com/fixushealth",
+                "highlight": "The fright night 1 Managed Care #Care",
+                "topsy_author_url": "http://topsy.com/twitter/fixushealth",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/fixushealth/status/192816394713317378",
+                "trackback_author_name": "Fix US Health",
+                "trackback_author_nick": "fixushealth"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1390548011,
+                "title": "Happy #Friday #Fright-#alien week! Here's one of my childhood favorites #Critters #80s #horror #filmposter http://t.co/2hpTNqgIxT",
+                "url": "http://twitter.com/tangoineden/status/426615397048012800",
+                "trackback_date": 1390548011,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2hpTNqgIxT",
+                        "display_url": "pic.twitter.com/2hpTNqgIxT",
+                        "expanded_url": "http://twitter.com/tangoineden/status/426615397048012800/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BeukcX0CUAAC1Wh.jpg"
+                    }
+                ],
+                "target_birth_date": 1390548011,
+                "content": "Happy #Friday #Fright-#alien week! Here's one of my childhood favorites #Critters #80s #horror #filmposter http://t.co/2hpTNqgIxT",
+                "mytype": "tweet",
+                "score": 8.174602,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2214094209/me_normal.jpg",
+                "trackback_permalink": "http://twitter.com/tangoineden/status/426615397048012800",
+                "trackback_author_url": "http://twitter.com/tangoineden",
+                "highlight": "Happy #Friday #Fright-#alien week! Here's one of my childhood favorites #Critters #80s #horror #filmposter",
+                "topsy_author_url": "http://topsy.com/twitter/tangoineden",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tangoineden/status/426615397048012800",
+                "trackback_author_name": "Amber, \u30a2\u30f3\u30d0\u30fc",
+                "trackback_author_nick": "tangoineden"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1345978523,
+                "title": "#fright #backstage http://t.co/LZArnvWL Backstage Fright",
+                "url": "http://twitter.com/taidaonet/status/239677416564482048",
+                "trackback_date": 1345978523,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/LZArnvWL",
+                        "display_url": "taidao.net/3748036.html",
+                        "expanded_url": "http://www.taidao.net/3748036.html",
+                        "topsy_expanded_url": "http://www.taidao.net/3748036.html"
+                    }
+                ],
+                "target_birth_date": 1345978523,
+                "content": "#fright #backstage http://t.co/LZArnvWL Backstage Fright",
+                "mytype": "tweet",
+                "score": 8.174202,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1530143896/tai_normal.png",
+                "trackback_permalink": "http://twitter.com/taidaonet/status/239677416564482048",
+                "trackback_author_url": "http://twitter.com/taidaonet",
+                "highlight": "#fright #backstage Backstage Fright",
+                "topsy_author_url": "http://topsy.com/twitter/taidaonet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/taidaonet/status/239677416564482048",
+                "trackback_author_name": "taidao",
+                "trackback_author_nick": "taidaonet"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1356333070,
+                "title": "#fright #dont #radio magic http://t.co/3QlVZgpK Dont be fright;: Radio magic,",
+                "url": "http://twitter.com/freepdb/status/283107534125023232",
+                "trackback_date": 1356333070,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3QlVZgpK",
+                        "display_url": "freepdb.com/e/b0007k27rc.h\u2026",
+                        "expanded_url": "http://www.freepdb.com/e/b0007k27rc.html",
+                        "topsy_expanded_url": "http://www.freepdb.com/e/b0007k27rc.html"
+                    }
+                ],
+                "target_birth_date": 1356333070,
+                "content": "#fright #dont #radio magic http://t.co/3QlVZgpK Dont be fright;: Radio magic,",
+                "mytype": "tweet",
+                "score": 8.174179,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/2007994146/favicon_normal.png",
+                "trackback_permalink": "http://twitter.com/freepdb/status/283107534125023232",
+                "trackback_author_url": "http://twitter.com/freepdb",
+                "highlight": "#fright #dont #radio magic Dont be fright;: Radio magic,",
+                "topsy_author_url": "http://topsy.com/twitter/freepdb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/freepdb/status/283107534125023232",
+                "trackback_author_name": "FreePDB",
+                "trackback_author_nick": "freepdb"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 140,
+        "hidden": 0,
+        "total": 13312,
+        "page": 1
+    }
+}

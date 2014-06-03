@@ -1,0 +1,295 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=170",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "170"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 10,
+                "firstpost_date": 1334878933,
+                "title": "New #SEVERE watch for this area OK/ TX.  Includes OKC: http://t.co/7nlDH5K1 #OKwx #TXwx http://t.co/fZJWm884",
+                "url": "http://twitter.com/jimcantore/status/193122360117837825",
+                "trackback_date": 1334878933,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7nlDH5K1",
+                        "display_url": "radar.weather.gov/ridge/radar.ph\u2026",
+                        "expanded_url": "http://radar.weather.gov/ridge/radar.php?rid=fdr&product=N0R&overlay=11101111&loop=yes",
+                        "topsy_expanded_url": "http://radar.weather.gov/ridge/radar.php?rid=fdr&product=N0R&overlay=11101111&loop=yes"
+                    },
+                    {
+                        "url": "http://t.co/fZJWm884",
+                        "display_url": "spc.noaa.gov/products/watch\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/watch/ww0183.html",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/watch/ww0183.html"
+                    }
+                ],
+                "target_birth_date": 1334878933,
+                "content": "New #SEVERE watch for this area OK/ TX.  Includes OKC: http://t.co/7nlDH5K1 #OKwx #TXwx http://t.co/fZJWm884",
+                "mytype": "tweet",
+                "score": 9.530136,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/193122360117837825",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "New #SEVERE watch for this area OK/ TX. Includes OKC: #OKwx #TXwx",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/193122360117837825",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1330536840,
+                "title": "The details on yet another #severe outbreak looming Friday:  http://t.co/9c7yrV5h  #tornado",
+                "url": "http://twitter.com/twcbreaking/status/174910301202939905",
+                "trackback_date": 1330536840,
+                "trackback_total": 20,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9c7yrV5h",
+                        "display_url": "wxch.nl/AoKfu3",
+                        "expanded_url": "http://wxch.nl/AoKfu3",
+                        "topsy_expanded_url": "http://www.weather.com/outlook/weather-news/news/articles/severe-tornado-outbreak-friday_2012-02-29"
+                    }
+                ],
+                "target_birth_date": 1330536840,
+                "content": "The details on yet another #severe outbreak looming Friday:  http://t.co/9c7yrV5h  #tornado",
+                "mytype": "tweet",
+                "score": 9.529349,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/174910301202939905",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "The details on yet another #severe outbreak looming Friday:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/174910301202939905",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1332080199,
+                "title": "Highest probability for #severe weather on MONDAY http://t.co/df2N9A2C",
+                "url": "http://twitter.com/jimcantore/status/181383620324372481",
+                "trackback_date": 1332080199,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/df2N9A2C",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/day2probotlk_0600_any.gif",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/day2probotlk_0600_any.gif"
+                    }
+                ],
+                "target_birth_date": 1332080199,
+                "content": "Highest probability for #severe weather on MONDAY http://t.co/df2N9A2C",
+                "mytype": "tweet",
+                "score": 9.528814,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/181383620324372481",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Highest probability for #severe weather on MONDAY",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/181383620324372481",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1355076105,
+                "title": "By the way...a threat for some #severe thunderstorms is in play today in the South:  http://t.co/3EF35zdy",
+                "url": "http://twitter.com/weatherchannel/status/277835441045118976",
+                "trackback_date": 1355076105,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3EF35zdy",
+                        "display_url": "wxch.nl/LoLoAW",
+                        "expanded_url": "http://wxch.nl/LoLoAW",
+                        "topsy_expanded_url": "http://www.weather.com/news/weather-severe/severe-weather-tracker"
+                    }
+                ],
+                "target_birth_date": 1355076105,
+                "content": "By the way...a threat for some #severe thunderstorms is in play today in the South:  http://t.co/3EF35zdy",
+                "mytype": "tweet",
+                "score": 9.528623,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/277835441045118976",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "By the way...a threat for some #severe thunderstorms is in play today in the South:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/277835441045118976",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 15,
+                "firstpost_date": 1303942220,
+                "title": "Huntsville, AL take cover now!!! #severe",
+                "url": "http://twitter.com/twcbreaking/status/63364383555862528",
+                "trackback_date": 1303942220,
+                "trackback_total": 16,
+                "url_expansions": [],
+                "target_birth_date": 1303942220,
+                "content": "Huntsville, AL take cover now!!! #severe",
+                "mytype": "tweet",
+                "score": 9.527038,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63364383555862528",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Huntsville, AL take cover now!!!",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63364383555862528",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 116,
+                "firstpost_date": 1397304819,
+                "title": "The threat of #severe thunderstorms is on the increase this weekend in the nation's midsection http://t.co/CPficpkOYN http://t.co/5aJSO5lxpO",
+                "url": "http://twitter.com/weatherchannel/status/454955503471583232",
+                "trackback_date": 1397304819,
+                "trackback_total": 128,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/CPficpkOYN",
+                        "display_url": "wxch.nl/1kG2XD7",
+                        "expanded_url": "http://wxch.nl/1kG2XD7",
+                        "topsy_expanded_url": "http://www.weather.com/news/severe-weather-tracker-page"
+                    },
+                    {
+                        "url": "http://t.co/5aJSO5lxpO",
+                        "display_url": "pic.twitter.com/5aJSO5lxpO",
+                        "expanded_url": "http://twitter.com/weatherchannel/status/454955503471583232/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BlBTnq5IMAAWc20.jpg"
+                    }
+                ],
+                "target_birth_date": 1397304819,
+                "content": "The threat of #severe thunderstorms is on the increase this weekend in the nation's midsection http://t.co/CPficpkOYN http://t.co/5aJSO5lxpO",
+                "mytype": "tweet",
+                "score": 9.526992,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/454955503471583232",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "The threat of #severe thunderstorms is on the increase this weekend in the nation's midsection",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/454955503471583232",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 35,
+                "firstpost_date": 1359395183,
+                "title": "This 45% hashed area is now MODERATE risk from SPC. Tornadoes are possible here:  http://t.co/aaxdL6cW #severe #tornado",
+                "url": "http://twitter.com/jimcantore/status/295950964463120384",
+                "trackback_date": 1359395183,
+                "trackback_total": 42,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/aaxdL6cW",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/day2probotlk_1730_any.gif",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/day2probotlk_1730_any.gif"
+                    }
+                ],
+                "target_birth_date": 1359395183,
+                "content": "This 45% hashed area is now MODERATE risk from SPC. Tornadoes are possible here:  http://t.co/aaxdL6cW #severe #tornado",
+                "mytype": "tweet",
+                "score": 9.526517,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/295950964463120384",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "This 45% hashed area is now MODERATE risk from SPC. Tornadoes are possible here: #severe",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/295950964463120384",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 34,
+                "firstpost_date": 1327274879,
+                "title": "There is also a 60% chance of 1 or more EF2 or stronger tornadoes in the watch area. #severe",
+                "url": "http://twitter.com/twcbreaking/status/161228646273650688",
+                "trackback_date": 1327274879,
+                "trackback_total": 35,
+                "url_expansions": [],
+                "target_birth_date": 1327274879,
+                "content": "There is also a 60% chance of 1 or more EF2 or stronger tornadoes in the watch area. #severe",
+                "mytype": "tweet",
+                "score": 9.522692,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/161228646273650688",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "There is also a 60% chance of 1 or more EF2 or stronger tornadoes in the watch area.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/161228646273650688",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1381408233,
+                "title": "#Severe threat returns to the Plains later today. http://t.co/oGcCrbk1iV",
+                "url": "http://twitter.com/weatherchannel/status/388280387937763328",
+                "trackback_date": 1381408233,
+                "trackback_total": 13,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/oGcCrbk1iV",
+                        "display_url": "wxch.nl/GMXlEH",
+                        "expanded_url": "http://wxch.nl/GMXlEH",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page?hootPostID=c85a0a3808c1675199912d31c0f28d20"
+                    }
+                ],
+                "target_birth_date": 1381408233,
+                "content": "#Severe threat returns to the Plains later today. http://t.co/oGcCrbk1iV",
+                "mytype": "tweet",
+                "score": 9.522275,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/388280387937763328",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "#Severe threat returns to the Plains later today.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/388280387937763328",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1348015232,
+                "title": "9,000 w/o power in the Baltimore/DC area, down from 38,000 at the height of the storm. #severe",
+                "url": "http://twitter.com/twcbreaking/status/248219992460496897",
+                "trackback_date": 1348015232,
+                "trackback_total": 19,
+                "url_expansions": [],
+                "target_birth_date": 1348015232,
+                "content": "9,000 w/o power in the Baltimore/DC area, down from 38,000 at the height of the storm. #severe",
+                "mytype": "tweet",
+                "score": 9.521723,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/248219992460496897",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "9,000 w/o power in the Baltimore/DC area, down from 38,000 at the height of the storm.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/248219992460496897",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 170,
+        "hidden": 0,
+        "total": 164316,
+        "page": 1
+    }
+}

@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=500",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "500"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 32,
+                "firstpost_date": 1396781648,
+                "title": "#Severe thunderstorms, including an enhanced threat of tornadoes, will threaten the South today: http://t.co/AdNL6SOUU2",
+                "url": "http://twitter.com/weatherchannel/status/452761166885191680",
+                "trackback_date": 1396781648,
+                "trackback_total": 36,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/AdNL6SOUU2",
+                        "display_url": "wxch.nl/14ZP49C",
+                        "expanded_url": "http://wxch.nl/14ZP49C",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page"
+                    }
+                ],
+                "target_birth_date": 1396781648,
+                "content": "#Severe thunderstorms, including an enhanced threat of tornadoes, will threaten the South today: http://t.co/AdNL6SOUU2",
+                "mytype": "tweet",
+                "score": 9.371941,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/452761166885191680",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "#Severe thunderstorms, including an enhanced threat of tornadoes, will threaten the South today:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/452761166885191680",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1339447466,
+                "title": "Next #severe watch area: http://t.co/YIsskOSA",
+                "url": "http://twitter.com/jimcantore/status/212284175674388480",
+                "trackback_date": 1339447466,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/YIsskOSA",
+                        "display_url": "spc.noaa.gov/products/md/md\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/md/md1125.html",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/md/md1125.html"
+                    }
+                ],
+                "target_birth_date": 1339447466,
+                "content": "Next #severe watch area: http://t.co/YIsskOSA",
+                "mytype": "tweet",
+                "score": 9.371924,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/212284175674388480",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Next #severe watch area:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/212284175674388480",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1382790682,
+                "title": "#Severe t-storms will return for some during Halloween week. http://t.co/7vFifZyurx",
+                "url": "http://twitter.com/weatherchannel/status/394078800411385856",
+                "trackback_date": 1382790682,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7vFifZyurx",
+                        "display_url": "wxch.nl/18VMkey",
+                        "expanded_url": "http://wxch.nl/18VMkey",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page?hootPostID=4a3ba55e3a84c662ccc71b1239f7a138"
+                    }
+                ],
+                "target_birth_date": 1382790682,
+                "content": "#Severe t-storms will return for some during Halloween week. http://t.co/7vFifZyurx",
+                "mytype": "tweet",
+                "score": 9.371914,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/394078800411385856",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "#Severe t-storms will return for some during Halloween week.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/394078800411385856",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1330096277,
+                "title": "As Virginia/Washington DC deal with #severe weather this afternoon, Northern New England will get CLOBBERED w/a good old fashioned Snowstorm",
+                "url": "http://twitter.com/jimcantore/status/173062445630369794",
+                "trackback_date": 1330096277,
+                "trackback_total": 24,
+                "url_expansions": [],
+                "target_birth_date": 1330096277,
+                "content": "As Virginia/Washington DC deal with #severe weather this afternoon, Northern New England will get CLOBBERED w/a good old fashioned Snowstorm",
+                "mytype": "tweet",
+                "score": 9.37183,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/173062445630369794",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "As Virginia/Washington DC deal with #severe weather this afternoon, Northern New England will get CLOBBERED w/a good old fashioned Snowstorm",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/173062445630369794",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 55,
+                "firstpost_date": 1343333237,
+                "title": "New #severe t'storm watch for #NYC area, #Philly area, much of #Connecticut and New Jersey #NJ until 11pm EDT. Winds to 80 mph possible.",
+                "url": "http://twitter.com/twcbreaking/status/228582283899179008",
+                "trackback_date": 1343333237,
+                "trackback_total": 62,
+                "url_expansions": [],
+                "target_birth_date": 1343333237,
+                "content": "New #severe t'storm watch for #NYC area, #Philly area, much of #Connecticut and New Jersey #NJ until 11pm EDT. Winds to 80 mph possible.",
+                "mytype": "tweet",
+                "score": 9.371692,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/228582283899179008",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "New #severe t'storm watch for #NYC area, #Philly area, much of #Connecticut and New Jersey #NJ until 11pm EDT. Winds to 80 mph possible.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/228582283899179008",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1371129676,
+                "title": "#Severe t-storm warning just issued for #Philly metro:  http://t.co/9Z2GCsRNN6",
+                "url": "http://twitter.com/twcbreaking/status/345168997462970371",
+                "trackback_date": 1371129676,
+                "trackback_total": 23,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9Z2GCsRNN6",
+                        "display_url": "wxch.nl/11JQF0R",
+                        "expanded_url": "http://wxch.nl/11JQF0R",
+                        "topsy_expanded_url": "http://www.weather.com/weather/alerts/localstatealerts/?areaid=PAC101&camefrom=national&etn=0020&hootPostID=cbdecfea343eea99c97851de43d85137&office=KPHI&phenomena=SV&significance=W&wxlayer=radar&zoom=8"
+                    }
+                ],
+                "target_birth_date": 1371129676,
+                "content": "#Severe t-storm warning just issued for #Philly metro:  http://t.co/9Z2GCsRNN6",
+                "mytype": "tweet",
+                "score": 9.371381,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/345168997462970371",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "#Severe t-storm warning just issued for #Philly metro:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/345168997462970371",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 29,
+                "firstpost_date": 1359568957,
+                "title": "As of 1pm EST, 9 #tornado reports, 430 #severe t'storm wind reports and 20 large hail reports from this outbreak.",
+                "url": "http://twitter.com/twcbreaking/status/296679825261871104",
+                "trackback_date": 1359568957,
+                "trackback_total": 33,
+                "url_expansions": [],
+                "target_birth_date": 1359568957,
+                "content": "As of 1pm EST, 9 #tornado reports, 430 #severe t'storm wind reports and 20 large hail reports from this outbreak.",
+                "mytype": "tweet",
+                "score": 9.37109,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/296679825261871104",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "As of 1pm EST, 9 #tornado reports, 430 #severe t'storm wind reports and 20 large hail reports from this outbreak.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/296679825261871104",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 23,
+                "firstpost_date": 1303779948,
+                "title": "Line of storms is now through Little Rock. Radar: http://wxch.nl/i1qGMe Memphis, these storms will target your area later this eve. #severe",
+                "url": "http://twitter.com/twcbreaking/status/62683763150295040",
+                "trackback_date": 1303779948,
+                "trackback_total": 24,
+                "url_expansions": [],
+                "target_birth_date": 1303779948,
+                "content": "Line of storms is now through Little Rock. Radar: http://wxch.nl/i1qGMe Memphis, these storms will target your area later this eve. #severe",
+                "mytype": "tweet",
+                "score": 9.370869,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/62683763150295040",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Line of storms is now through Little Rock. Radar: Memphis, these storms will target your area later this eve.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/62683763150295040",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 73,
+                "firstpost_date": 1398684057,
+                "title": "Unfortunately, more #severe t-storms with #tornadoes are expected again today in parts of the South, Midwest: http://t.co/963KqrNza3",
+                "url": "http://twitter.com/weatherchannel/status/460740446806110208",
+                "trackback_date": 1398684057,
+                "trackback_total": 79,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/963KqrNza3",
+                        "display_url": "wxch.nl/S19EmI",
+                        "expanded_url": "http://wxch.nl/S19EmI",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page?hootPostID=2b1bec436272cdfdef809d574c955047"
+                    }
+                ],
+                "target_birth_date": 1398684057,
+                "content": "Unfortunately, more #severe t-storms with #tornadoes are expected again today in parts of the South, Midwest: http://t.co/963KqrNza3",
+                "mytype": "tweet",
+                "score": 9.370808,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/460740446806110208",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "Unfortunately, more #severe t-storms with #tornadoes are expected again today in parts of the South, Midwest:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/460740446806110208",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 63,
+                "firstpost_date": 1345004701,
+                "title": "Amazing stacked lightning photo by Photographer Justin Traveen of Dallas. #txwx #severe http://t.co/xeWjIIkt",
+                "url": "http://twitter.com/txstormchasers/status/235592908949045250",
+                "trackback_date": 1345004701,
+                "trackback_total": 67,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/xeWjIIkt",
+                        "display_url": "twitpic.com/ajki1q",
+                        "expanded_url": "http://twitpic.com/ajki1q",
+                        "topsy_expanded_url": "http://twitpic.com/ajki1q"
+                    }
+                ],
+                "target_birth_date": 1345004701,
+                "content": "Amazing stacked lightning photo by Photographer Justin Traveen of Dallas. #txwx #severe http://t.co/xeWjIIkt",
+                "mytype": "tweet",
+                "score": 9.370222,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459925607606792193/By6IUBvs_normal.png",
+                "trackback_permalink": "http://twitter.com/TxStormChasers/status/235592908949045250",
+                "trackback_author_url": "http://twitter.com/txstormchasers",
+                "highlight": "Amazing stacked lightning photo by Photographer Justin Traveen of Dallas. #txwx #severe",
+                "topsy_author_url": "http://topsy.com/twitter/txstormchasers",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/txstormchasers/status/235592908949045250",
+                "trackback_author_name": "Texas Storm Chasers",
+                "trackback_author_nick": "txstormchasers"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 500,
+        "hidden": 0,
+        "total": 163202,
+        "page": 1
+    }
+}

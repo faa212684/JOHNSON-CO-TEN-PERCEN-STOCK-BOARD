@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23awesome&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=130",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#awesome",
+            "window": "a",
+            "type": "tweet",
+            "offset": "130"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 99,
+                "firstpost_date": 1398730915,
+                "title": "Hey! See the trailer of my new web tv series The Bubba Watson Show http://t.co/RhOXeqn3vK #showtime #awesome",
+                "url": "http://twitter.com/bubbawatson/status/460936982601158657",
+                "trackback_date": 1398730915,
+                "trackback_total": 151,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RhOXeqn3vK",
+                        "display_url": "goo.gl/PGwrgA",
+                        "expanded_url": "http://goo.gl/PGwrgA",
+                        "topsy_expanded_url": "http://www.bubbawatsongolf.com/bubba-watson-show/"
+                    }
+                ],
+                "target_birth_date": 1398730915,
+                "content": "Hey! See the trailer of my new web tv series The Bubba Watson Show http://t.co/RhOXeqn3vK #showtime #awesome",
+                "mytype": "tweet",
+                "score": 10.231137,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2319279206/35bwnea39ntayq08qjpb_normal.png",
+                "trackback_permalink": "http://twitter.com/bubbawatson/status/460936982601158657",
+                "trackback_author_url": "http://twitter.com/bubbawatson",
+                "highlight": "Hey! See the trailer of my new web tv series The Bubba Watson Show #showtime",
+                "topsy_author_url": "http://topsy.com/twitter/bubbawatson",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bubbawatson/status/460936982601158657",
+                "trackback_author_name": "bubba watson",
+                "trackback_author_nick": "bubbawatson"
+            },
+            {
+                "hits": 55,
+                "firstpost_date": 1348985382,
+                "title": "TI party tho.. These girls laying in the pool.. #awesome #AtlNights",
+                "url": "http://twitter.com/trinarockstarr/status/252289096582569986",
+                "trackback_date": 1348985382,
+                "trackback_total": 83,
+                "url_expansions": [],
+                "target_birth_date": 1348985382,
+                "content": "TI party tho.. These girls laying in the pool.. #awesome #AtlNights",
+                "mytype": "tweet",
+                "score": 10.230089,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/439604652670087169/OrEerWL8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TRINArockstarr/status/252289096582569986",
+                "trackback_author_url": "http://twitter.com/trinarockstarr",
+                "highlight": "TI party tho.. These girls laying in the pool.. #awesome",
+                "topsy_author_url": "http://topsy.com/twitter/trinarockstarr",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/trinarockstarr/status/252289096582569986",
+                "trackback_author_name": "TRINA ",
+                "trackback_author_nick": "trinarockstarr"
+            },
+            {
+                "hits": 39,
+                "firstpost_date": 1334151931,
+                "title": "You must watch this!  http://t.co/tSoUMO1O  #awesome /via  @keen_eddie @lilyofoz   @heykim",
+                "url": "http://twitter.com/alyssa_milano/status/190073094168248320",
+                "trackback_date": 1334151931,
+                "trackback_total": 62,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/tSoUMO1O",
+                        "display_url": "tmblr.co/Zn0nayJT8Dvm",
+                        "expanded_url": "http://tmblr.co/Zn0nayJT8Dvm",
+                        "topsy_expanded_url": "http://thecrossroads.tumblr.com/post/20889788016/"
+                    }
+                ],
+                "target_birth_date": 1334151931,
+                "content": "You must watch this!  http://t.co/tSoUMO1O  #awesome /via  @keen_eddie @lilyofoz   @heykim",
+                "mytype": "tweet",
+                "score": 10.229302,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464278451705245697/x3_L8wH__normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Alyssa_Milano/status/190073094168248320",
+                "trackback_author_url": "http://twitter.com/alyssa_milano",
+                "highlight": "You must watch this! #awesome /via @keen_eddie @lilyofoz @heykim",
+                "topsy_author_url": "http://topsy.com/twitter/alyssa_milano",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/alyssa_milano/status/190073094168248320",
+                "trackback_author_name": "Alyssa Milano",
+                "trackback_author_nick": "alyssa_milano"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1368894107,
+                "title": "@PleasureEllis Morning buddy #awesome",
+                "url": "http://twitter.com/arunpudur/status/335792341606600705",
+                "trackback_date": 1368894107,
+                "trackback_total": 20,
+                "url_expansions": [],
+                "target_birth_date": 1368894107,
+                "content": "@PleasureEllis Morning buddy #awesome",
+                "mytype": "tweet",
+                "score": 10.227421,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/438308137330692096/prcsdwOA_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/arunpudur/status/335792341606600705",
+                "trackback_author_url": "http://twitter.com/arunpudur",
+                "highlight": " Morning buddy",
+                "topsy_author_url": "http://topsy.com/twitter/arunpudur",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/arunpudur/status/335792341606600705",
+                "trackback_author_name": "Arun Pudur",
+                "trackback_author_nick": "arunpudur"
+            },
+            {
+                "hits": 140,
+                "firstpost_date": 1365283684,
+                "title": "Most Must See Couple in History RT @maryse0uellet: me and my baby on our way to #halloffame #wwe #awesome http://t.co/iR8E5HnEto",
+                "url": "http://twitter.com/mikethemiz/status/320649127581073410",
+                "trackback_date": 1365283684,
+                "trackback_total": 222,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/iR8E5HnEto",
+                        "display_url": "instagram.com/p/XxyEaFv6x9/",
+                        "expanded_url": "http://instagram.com/p/XxyEaFv6x9/",
+                        "topsy_expanded_url": "http://instagram.com/p/XxyEaFv6x9/"
+                    }
+                ],
+                "target_birth_date": 1365283684,
+                "content": "Most Must See Couple in History RT @maryse0uellet: me and my baby on our way to #halloffame #wwe #awesome http://t.co/iR8E5HnEto",
+                "mytype": "tweet",
+                "score": 10.223558,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3622239804/c78d86ca8f051fd5001f3e4f79d3e43d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mikethemiz/status/320649127581073410",
+                "trackback_author_url": "http://twitter.com/mikethemiz",
+                "highlight": "Most Must See Couple in Historyme and my baby on our way to #halloffame #wwe #awesome",
+                "topsy_author_url": "http://topsy.com/twitter/mikethemiz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mikethemiz/status/320649127581073410",
+                "trackback_author_name": "The Miz",
+                "trackback_author_nick": "mikethemiz"
+            },
+            {
+                "hits": 121,
+                "firstpost_date": 1373767574,
+                "title": "This is deemed #Awesome RT @MeliMizfit: @mikethemiz vs @RealCurtisAxel #MoneyInTheBank #Awesome :D  http://t.co/BschqbAm14",
+                "url": "http://twitter.com/mikethemiz/status/356233141553348612",
+                "trackback_date": 1373767574,
+                "trackback_total": 193,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/BschqbAm14",
+                        "display_url": "twitpic.com/d2h6rw",
+                        "expanded_url": "http://twitpic.com/d2h6rw",
+                        "topsy_expanded_url": "http://twitpic.com/d2h6rw"
+                    }
+                ],
+                "target_birth_date": 1373767574,
+                "content": "This is deemed #Awesome RT @MeliMizfit: @mikethemiz vs @RealCurtisAxel #MoneyInTheBank #Awesome :D  http://t.co/BschqbAm14",
+                "mytype": "tweet",
+                "score": 10.217032,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3622239804/c78d86ca8f051fd5001f3e4f79d3e43d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mikethemiz/status/356233141553348612",
+                "trackback_author_url": "http://twitter.com/mikethemiz",
+                "highlight": "This is deemed #Awesome@mikethemiz vs @RealCurtisAxel #MoneyInTheBank #Awesome :D",
+                "topsy_author_url": "http://topsy.com/twitter/mikethemiz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mikethemiz/status/356233141553348612",
+                "trackback_author_name": "The Miz",
+                "trackback_author_nick": "mikethemiz"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1291933082,
+                "title": "RT @KevinFrazier: @ochocinco as soon as Obama stops playing MAD CHAD I will get his attention! Damn he playing it to? #awesome",
+                "url": "http://twitter.com/ochocinco/status/12994406676172801",
+                "trackback_date": 1291933082,
+                "trackback_total": 25,
+                "url_expansions": [],
+                "target_birth_date": 1291933082,
+                "content": "RT @KevinFrazier: @ochocinco as soon as Obama stops playing MAD CHAD I will get his attention! Damn he playing it to? #awesome",
+                "mytype": "tweet",
+                "score": 10.215818,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471076208487038976/8CyNse6a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ochocinco/status/12994406676172801",
+                "trackback_author_url": "http://twitter.com/ochocinco",
+                "highlight": " as soon as Obama stops playing MAD CHAD I will get his attention! Damn he playing it to?",
+                "topsy_author_url": "http://topsy.com/twitter/ochocinco",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ochocinco/status/12994406676172801",
+                "trackback_author_name": "Chad Johnson",
+                "trackback_author_nick": "ochocinco"
+            },
+            {
+                "hits": 126,
+                "firstpost_date": 1361307703,
+                "title": "Become a reading #Mizfit and read #Awesome books for @WWE Wrestlemania Reading Challenge. Go to http://t.co/I4kmw59D",
+                "url": "http://twitter.com/mikethemiz/status/303972654468182016",
+                "trackback_date": 1361307703,
+                "trackback_total": 197,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/I4kmw59D",
+                        "display_url": "wwereadingsuperstar.com",
+                        "expanded_url": "http://www.wwereadingsuperstar.com",
+                        "topsy_expanded_url": "http://www.wwereadingsuperstar.com"
+                    }
+                ],
+                "target_birth_date": 1361307703,
+                "content": "Become a reading #Mizfit and read #Awesome books for @WWE Wrestlemania Reading Challenge. Go to http://t.co/I4kmw59D",
+                "mytype": "tweet",
+                "score": 10.214958,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3622239804/c78d86ca8f051fd5001f3e4f79d3e43d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mikethemiz/status/303972654468182016",
+                "trackback_author_url": "http://twitter.com/mikethemiz",
+                "highlight": "Become a reading #Mizfit and read #Awesome books for @WWE Wrestlemania Reading Challenge. Go to",
+                "topsy_author_url": "http://topsy.com/twitter/mikethemiz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mikethemiz/status/303972654468182016",
+                "trackback_author_name": "The Miz",
+                "trackback_author_nick": "mikethemiz"
+            },
+            {
+                "hits": 124,
+                "firstpost_date": 1371226242,
+                "title": "Somebody got my credit card number and is shopping in Israel #awesome",
+                "url": "http://twitter.com/kellyosbourne/status/345574024228777984",
+                "trackback_date": 1371226242,
+                "trackback_total": 332,
+                "url_expansions": [],
+                "target_birth_date": 1371226242,
+                "content": "Somebody got my credit card number and is shopping in Israel #awesome",
+                "mytype": "tweet",
+                "score": 10.214204,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/466469850437529600/l_mLlCcH_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/KellyOsbourne/status/345574024228777984",
+                "trackback_author_url": "http://twitter.com/kellyosbourne",
+                "highlight": "Somebody got my credit card number and is shopping in Israel",
+                "topsy_author_url": "http://topsy.com/twitter/kellyosbourne",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kellyosbourne/status/345574024228777984",
+                "trackback_author_name": "Kelly Osbourne",
+                "trackback_author_nick": "kellyosbourne"
+            },
+            {
+                "hits": 39,
+                "firstpost_date": 1379813883,
+                "title": "Tonight #WWEHidalgo is #Awesome  http://t.co/KrcqbIPqbP",
+                "url": "http://twitter.com/wwe/status/381593200965980160",
+                "trackback_date": 1379813883,
+                "trackback_total": 49,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/KrcqbIPqbP",
+                        "display_url": "tout.com/m/n9h9eo?ref=t\u2026",
+                        "expanded_url": "http://www.tout.com/m/n9h9eo?ref=twh90ncd",
+                        "topsy_expanded_url": "http://www.tout.com/m/n9h9eo?ref=twh90ncd"
+                    }
+                ],
+                "target_birth_date": 1379813883,
+                "content": "Tonight #WWEHidalgo is #Awesome  http://t.co/KrcqbIPqbP",
+                "mytype": "tweet",
+                "score": 10.213957,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/87901244/wwe_logo-1_normal.jpg",
+                "trackback_permalink": "http://twitter.com/WWE/status/381593200965980160",
+                "trackback_author_url": "http://twitter.com/wwe",
+                "highlight": "Tonight #WWEHidalgo is #Awesome",
+                "topsy_author_url": "http://topsy.com/twitter/wwe",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wwe/status/381593200965980160",
+                "trackback_author_name": "WWE",
+                "trackback_author_nick": "wwe"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 130,
+        "hidden": 0,
+        "total": 10860977,
+        "page": 1
+    }
+}

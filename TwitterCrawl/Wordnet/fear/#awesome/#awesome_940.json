@@ -1,0 +1,248 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23awesome&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=940",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#awesome",
+            "window": "a",
+            "type": "tweet",
+            "offset": "940"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 8,
+                "firstpost_date": 1307170240,
+                "title": "Awesome Funny Animals http://su.pr/70a769 #Funny #Animals #Awesome",
+                "url": "http://twitter.com/ihasdiggs/status/76903678447067136",
+                "trackback_date": 1307170240,
+                "trackback_total": 10,
+                "url_expansions": [],
+                "target_birth_date": 1307170240,
+                "content": "Awesome Funny Animals http://su.pr/70a769 #Funny #Animals #Awesome",
+                "mytype": "tweet",
+                "score": 9.561203,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1164609357/06_02_2008_0823650001202289173_leszek_kowalski_normal.jpg",
+                "trackback_permalink": "http://twitter.com/ihasdiggs/status/76903678447067136",
+                "trackback_author_url": "http://twitter.com/ihasdiggs",
+                "highlight": "Awesome Funny Animals #Funny #Animals",
+                "topsy_author_url": "http://topsy.com/twitter/ihasdiggs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ihasdiggs/status/76903678447067136",
+                "trackback_author_name": "ihasdiggs",
+                "trackback_author_nick": "ihasdiggs"
+            },
+            {
+                "hits": 62,
+                "firstpost_date": 1344664379,
+                "title": "Who are these girls!?!?!? http://t.co/feunx4gs @jayessleemusic #jetlag #awesome",
+                "url": "http://twitter.com/seblefebvre/status/234165494297542656",
+                "trackback_date": 1344664379,
+                "trackback_total": 108,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/feunx4gs",
+                        "display_url": "youtube.com/watch?v=y61elH\u2026",
+                        "expanded_url": "http://www.youtube.com/watch?v=y61elHm8ICg&feature=related",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=y61elHm8ICg&feature=related"
+                    }
+                ],
+                "target_birth_date": 1344664379,
+                "content": "Who are these girls!?!?!? http://t.co/feunx4gs @jayessleemusic #jetlag #awesome",
+                "mytype": "tweet",
+                "score": 9.559973,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/425673408798396416/4kfi1X70_normal.png",
+                "trackback_permalink": "http://twitter.com/SebLefebvre/status/234165494297542656",
+                "trackback_author_url": "http://twitter.com/seblefebvre",
+                "highlight": "Who are these girls!?!?!? @jayessleemusic #jetlag",
+                "topsy_author_url": "http://topsy.com/twitter/seblefebvre",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/seblefebvre/status/234165494297542656",
+                "trackback_author_name": "S\u00e9bastien Lefebvre",
+                "trackback_author_nick": "seblefebvre"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1371922600,
+                "title": "I recognize that beach! fun! RT @maryse0uellet: if being lost on an island feels like this ..... then its #awesome http://t.co/fi31j8Arqw",
+                "url": "http://twitter.com/nathanzegura/status/348494762556403712",
+                "trackback_date": 1371922600,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/fi31j8Arqw",
+                        "display_url": "instagram.com/p/a3mvwJP69W/",
+                        "expanded_url": "http://instagram.com/p/a3mvwJP69W/",
+                        "topsy_expanded_url": "http://instagram.com/p/a3mvwJP69W/"
+                    }
+                ],
+                "target_birth_date": 1371922600,
+                "content": "I recognize that beach! fun! RT @maryse0uellet: if being lost on an island feels like this ..... then its #awesome http://t.co/fi31j8Arqw",
+                "mytype": "tweet",
+                "score": 9.559903,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000171343274/eb72e92c4476db051fedcbb4158a0522_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NathanZegura/status/348494762556403712",
+                "trackback_author_url": "http://twitter.com/nathanzegura",
+                "highlight": "I recognize that beach! fun!if being lost on an island feels like this ..... then its #awesome",
+                "topsy_author_url": "http://topsy.com/twitter/nathanzegura",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nathanzegura/status/348494762556403712",
+                "trackback_author_name": "Nathan Zegura",
+                "trackback_author_nick": "nathanzegura"
+            },
+            {
+                "hits": 35,
+                "firstpost_date": 1334968141,
+                "title": "RT @bubbasbash: text  bubbasbash to the number 90210 for your chance to win 2 tickets to #bubbasbash ( ya... we know our number is #awesome)",
+                "url": "http://twitter.com/bubbawatson/status/193496526310477824",
+                "trackback_date": 1334968141,
+                "trackback_total": 62,
+                "url_expansions": [],
+                "target_birth_date": 1334968141,
+                "content": "RT @bubbasbash: text  bubbasbash to the number 90210 for your chance to win 2 tickets to #bubbasbash ( ya... we know our number is #awesome)",
+                "mytype": "tweet",
+                "score": 9.5597925,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2319279206/35bwnea39ntayq08qjpb_normal.png",
+                "trackback_permalink": "http://twitter.com/bubbawatson/status/193496526310477824",
+                "trackback_author_url": "http://twitter.com/bubbawatson",
+                "highlight": "text bubbasbash to the number 90210 for your chance to win 2 tickets to #bubbasbash ( ya... we know our number is #awesome)",
+                "topsy_author_url": "http://topsy.com/twitter/bubbawatson",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bubbawatson/status/193496526310477824",
+                "trackback_author_name": "bubba watson",
+                "trackback_author_nick": "bubbawatson"
+            },
+            {
+                "hits": 33,
+                "firstpost_date": 1283562984,
+                "title": "Chimps Found Deactivating Traps Set By Hunters http://bit.ly/ar9s6w #animals #awesome",
+                "url": "http://twitter.com/jerryjamesstone/status/22936182774",
+                "trackback_date": 1283562984,
+                "trackback_total": 36,
+                "url_expansions": [],
+                "target_birth_date": 1283562984,
+                "content": "Chimps Found Deactivating Traps Set By Hunters http://bit.ly/ar9s6w #animals #awesome",
+                "mytype": "tweet",
+                "score": 9.559782,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/439938604404469760/raLPyqd0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jerryjamesstone/status/22936182774",
+                "trackback_author_url": "http://twitter.com/jerryjamesstone",
+                "highlight": "Chimps Found Deactivating Traps Set By Hunters #animals",
+                "topsy_author_url": "http://topsy.com/twitter/jerryjamesstone",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jerryjamesstone/status/22936182774",
+                "trackback_author_name": "Jerry James Stone",
+                "trackback_author_nick": "jerryjamesstone"
+            },
+            {
+                "hits": 81,
+                "firstpost_date": 1391756777,
+                "title": "Thanks @YoshikiOfficial for graciously accepting the invitation to perform one song for us on the piano. #awesome http://t.co/K3lGT3AHsD",
+                "url": "http://twitter.com/charlieisaacs/status/431685329473372161",
+                "trackback_date": 1391756777,
+                "trackback_total": 98,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/K3lGT3AHsD",
+                        "display_url": "pic.twitter.com/K3lGT3AHsD",
+                        "expanded_url": "http://twitter.com/charlieisaacs/status/431685329473372161/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bf2nhQ4CUAEalJI.jpg"
+                    }
+                ],
+                "target_birth_date": 1391756777,
+                "content": "Thanks @YoshikiOfficial for graciously accepting the invitation to perform one song for us on the piano. #awesome http://t.co/K3lGT3AHsD",
+                "mytype": "tweet",
+                "score": 9.559267,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472593691643633664/vcD0wGVg_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/charlieisaacs/status/431685329473372161",
+                "trackback_author_url": "http://twitter.com/charlieisaacs",
+                "highlight": "Thanks @YoshikiOfficial for graciously accepting the invitation to perform one song for us on the piano. #awesome",
+                "topsy_author_url": "http://topsy.com/twitter/charlieisaacs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/charlieisaacs/status/431685329473372161",
+                "trackback_author_name": "Charlie Isaacs",
+                "trackback_author_nick": "charlieisaacs"
+            },
+            {
+                "hits": 25,
+                "firstpost_date": 1333637345,
+                "title": "But EVERYONE can be an ambassador for reading! Most of you are probably doing it every day, foisting books on people. #awesome",
+                "url": "http://twitter.com/maureenjohnson/status/187914765002223616",
+                "trackback_date": 1333637345,
+                "trackback_total": 41,
+                "url_expansions": [],
+                "target_birth_date": 1333637345,
+                "content": "But EVERYONE can be an ambassador for reading! Most of you are probably doing it every day, foisting books on people. #awesome",
+                "mytype": "tweet",
+                "score": 9.559251,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1765518974/twitme_normal.jpg",
+                "trackback_permalink": "http://twitter.com/maureenjohnson/status/187914765002223616",
+                "trackback_author_url": "http://twitter.com/maureenjohnson",
+                "highlight": "But EVERYONE can be an ambassador for reading! Most of you are probably doing it every day, foisting books on people.",
+                "topsy_author_url": "http://topsy.com/twitter/maureenjohnson",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/maureenjohnson/status/187914765002223616",
+                "trackback_author_name": "Maureen Johnson",
+                "trackback_author_nick": "maureenjohnson"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1333917008,
+                "title": "#Awesome Virtual Photo Walks Allow the Disabled to Explore the World http://t.co/cAj8qgra",
+                "url": "http://twitter.com/tweetsmarter/status/189087754070659073",
+                "trackback_date": 1333917008,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cAj8qgra",
+                        "display_url": "tnw.co/Hk7sLQ",
+                        "expanded_url": "http://tnw.co/Hk7sLQ",
+                        "topsy_expanded_url": "http://thenextweb.com/google/2012/04/08/virtual-photo-walks-on-google-allow-the-sick-and-disabled-to-explore-the-world/"
+                    }
+                ],
+                "target_birth_date": 1333917008,
+                "content": "#Awesome Virtual Photo Walks Allow the Disabled to Explore the World http://t.co/cAj8qgra",
+                "mytype": "tweet",
+                "score": 9.559104,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/450471072895229952/6QCZo16O_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TweetSmarter/status/189087754070659073",
+                "trackback_author_url": "http://twitter.com/tweetsmarter",
+                "highlight": "#Awesome Virtual Photo Walks Allow the Disabled to Explore the World",
+                "topsy_author_url": "http://topsy.com/twitter/tweetsmarter",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tweetsmarter/status/189087754070659073",
+                "trackback_author_name": "TweetSmarter",
+                "trackback_author_nick": "tweetsmarter"
+            },
+            {
+                "hits": 78,
+                "firstpost_date": 1370807449,
+                "title": "Just hanging out with a few of my German friends! #RockAMRing #RockShow #Awesome http://t.co/BzCIfGDAlf",
+                "url": "http://twitter.com/chuckcomeau/status/343817480743047168",
+                "trackback_date": 1370807449,
+                "trackback_total": 147,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/BzCIfGDAlf",
+                        "display_url": "simpleplan.com/photo/just-han\u2026",
+                        "expanded_url": "http://www.simpleplan.com/photo/just-hanging-out-few-my-german-friends-rockamring-rockshow-awesome-352846",
+                        "topsy_expanded_url": "http://www.simpleplan.com/photo/just-hanging-out-few-my-german-friends-rockamring-rockshow-awesome-352846"
+                    }
+                ],
+                "target_birth_date": 1370807449,
+                "content": "Just hanging out with a few of my German friends! #RockAMRing #RockShow #Awesome http://t.co/BzCIfGDAlf",
+                "mytype": "tweet",
+                "score": 9.558909,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1059054881/chuck_twitter_normal.jpg",
+                "trackback_permalink": "http://twitter.com/chuckcomeau/status/343817480743047168",
+                "trackback_author_url": "http://twitter.com/chuckcomeau",
+                "highlight": "Just hanging out with a few of my German friends! #RockAMRing #RockShow #Awesome",
+                "topsy_author_url": "http://topsy.com/twitter/chuckcomeau",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/chuckcomeau/status/343817480743047168",
+                "trackback_author_name": "Chuck Comeau",
+                "trackback_author_nick": "chuckcomeau"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 940,
+        "hidden": 0,
+        "total": 10600817,
+        "page": 1
+    }
+}

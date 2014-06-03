@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=310",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "310"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 40,
+                "firstpost_date": 1327326033,
+                "title": "RT @weatherchannel: Photo of Center Point, AL damage. 360 Panorama http://t.co/1NTwMURl via @xryanrussellx #severe #alwx",
+                "url": "http://twitter.com/twcbreaking/status/161443201180385280",
+                "trackback_date": 1327326033,
+                "trackback_total": 45,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1NTwMURl",
+                        "display_url": "360.io/hBK3PZ",
+                        "expanded_url": "http://360.io/hBK3PZ",
+                        "topsy_expanded_url": "http://360.io/hBK3PZ"
+                    }
+                ],
+                "target_birth_date": 1327326033,
+                "content": "RT @weatherchannel: Photo of Center Point, AL damage. 360 Panorama http://t.co/1NTwMURl via @xryanrussellx #severe #alwx",
+                "mytype": "tweet",
+                "score": 9.449801,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/161443201180385280",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Photo of Center Point, AL damage. 360 Panorama via @xryanrussellx #severe",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/161443201180385280",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 96,
+                "firstpost_date": 1303948741,
+                "title": "RT @Warriordog1011 (via: @danamlewis). Tuscaloosa damage is hard to comprehend. http://www.twitpic.com/4qaxnn #severe",
+                "url": "http://twitter.com/twcbreaking/status/63391730812203008",
+                "trackback_date": 1303948741,
+                "trackback_total": 106,
+                "url_expansions": [],
+                "target_birth_date": 1303948741,
+                "content": "RT @Warriordog1011 (via: @danamlewis). Tuscaloosa damage is hard to comprehend. http://www.twitpic.com/4qaxnn #severe",
+                "mytype": "tweet",
+                "score": 9.449545,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63391730812203008",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "RT @Warriordog1011 (via: @danamlewis). Tuscaloosa damage is hard to comprehend.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63391730812203008",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 24,
+                "firstpost_date": 1400588307,
+                "title": "#Severe threat expands into the Midwest today and tonight, including #Chicago. http://t.co/yY6BIWhfUT",
+                "url": "http://twitter.com/weatherchannel/status/468727449384390656",
+                "trackback_date": 1400588307,
+                "trackback_total": 27,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/yY6BIWhfUT",
+                        "display_url": "wxch.nl/1nbwHc8",
+                        "expanded_url": "http://wxch.nl/1nbwHc8",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page?hootPostID=ed8e5fc57b3c8dcd04432318bfc9a225"
+                    }
+                ],
+                "target_birth_date": 1400588307,
+                "content": "#Severe threat expands into the Midwest today and tonight, including #Chicago. http://t.co/yY6BIWhfUT",
+                "mytype": "tweet",
+                "score": 9.449376,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/468727449384390656",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "#Severe threat expands into the Midwest today and tonight, including #Chicago.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/468727449384390656",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1291765778,
+                "title": "Mississippi, Arkansas and Louisiana will go from #snow Wednesday morning to #severe weather by Saturday.  #mswx #lawx #arwx",
+                "url": "http://twitter.com/jimcantore/status/12292684169351168",
+                "trackback_date": 1291765778,
+                "trackback_total": 19,
+                "url_expansions": [],
+                "target_birth_date": 1291765778,
+                "content": "Mississippi, Arkansas and Louisiana will go from #snow Wednesday morning to #severe weather by Saturday.  #mswx #lawx #arwx",
+                "mytype": "tweet",
+                "score": 9.448052,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/12292684169351168",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Mississippi, Arkansas and Louisiana will go from #snow Wednesday morning to #severe weather by Saturday. #mswx #lawx",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/12292684169351168",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 24,
+                "firstpost_date": 1359505715,
+                "title": "These storms in southeast AR and western MS are well east of the main line of storms... that's cause for concern. #severe",
+                "url": "http://twitter.com/twcbreaking/status/296414569000235009",
+                "trackback_date": 1359505715,
+                "trackback_total": 24,
+                "url_expansions": [],
+                "target_birth_date": 1359505715,
+                "content": "These storms in southeast AR and western MS are well east of the main line of storms... that's cause for concern. #severe",
+                "mytype": "tweet",
+                "score": 9.447936,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/296414569000235009",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "These storms in southeast AR and western MS are well east of the main line of storms... that's cause for concern.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/296414569000235009",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1346967241,
+                "title": "Monitoring areas of IL, KY, TN and AR for WW extension: http://t.co/R5lhDZWn #severe",
+                "url": "http://twitter.com/jimcantore/status/243824400514834432",
+                "trackback_date": 1346967241,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/R5lhDZWn",
+                        "display_url": "spc.noaa.gov/products/md/md\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/md/md1904.html",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/md/md1904.html"
+                    }
+                ],
+                "target_birth_date": 1346967241,
+                "content": "Monitoring areas of IL, KY, TN and AR for WW extension: http://t.co/R5lhDZWn #severe",
+                "mytype": "tweet",
+                "score": 9.447189,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/243824400514834432",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Monitoring areas of IL, KY, TN and AR for WW extension:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/243824400514834432",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1338411605,
+                "title": "NEW #Severe Watch till 11pm CDT for KS/NE: http://t.co/Y9BCZT3x",
+                "url": "http://twitter.com/jimcantore/status/207939461789650944",
+                "trackback_date": 1338411605,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Y9BCZT3x",
+                        "display_url": "spc.noaa.gov/products/watch\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/watch/ww0323.html",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/watch/ww0323.html"
+                    }
+                ],
+                "target_birth_date": 1338411605,
+                "content": "NEW #Severe Watch till 11pm CDT for KS/NE: http://t.co/Y9BCZT3x",
+                "mytype": "tweet",
+                "score": 9.446512,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/207939461789650944",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "NEW #Severe Watch till 11pm CDT for KS/NE:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/207939461789650944",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1364481086,
+                "title": "Saturday #severe #weather probability: http://t.co/7CVLXWUru9",
+                "url": "http://twitter.com/jimcantore/status/317282789009530881",
+                "trackback_date": 1364481086,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7CVLXWUru9",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/day3prob_0730.gif",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/day3prob_0730.gif"
+                    }
+                ],
+                "target_birth_date": 1364481086,
+                "content": "Saturday #severe #weather probability: http://t.co/7CVLXWUru9",
+                "mytype": "tweet",
+                "score": 9.446447,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/317282789009530881",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Saturday #severe #weather probability:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/317282789009530881",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 84,
+                "firstpost_date": 1303973073,
+                "title": "*NEW* video Tuscaloosa, AL http://youtu.be/5ohIVzIZLuQ My heart started to pound at the 4:25 minute mark. via @ucb_sacto #severe",
+                "url": "http://twitter.com/twcbreaking/status/63493786562605056",
+                "trackback_date": 1303973073,
+                "trackback_total": 92,
+                "url_expansions": [],
+                "target_birth_date": 1303973073,
+                "content": "*NEW* video Tuscaloosa, AL http://youtu.be/5ohIVzIZLuQ My heart started to pound at the 4:25 minute mark. via @ucb_sacto #severe",
+                "mytype": "tweet",
+                "score": 9.445816,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63493786562605056",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "*NEW* video Tuscaloosa, AL My heart started to pound at the 4:25 minute mark. via @ucb_sacto",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63493786562605056",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 42,
+                "firstpost_date": 1331775220,
+                "title": "Wowza !!! MT @WeatherTroll UNBELIEVABLE picture of hail core passing over #Gainesville  http://t.co/w4LpHkif #FLwx #Severe",
+                "url": "http://twitter.com/jimcantore/status/180104446586527745",
+                "trackback_date": 1331775220,
+                "trackback_total": 54,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/w4LpHkif",
+                        "display_url": "pic.twitter.com/w4LpHkif",
+                        "expanded_url": "http://twitter.com/WeatherTroll/status/180083283365867521/photo/1",
+                        "topsy_expanded_url": "http://p.twimg.com/An_IysdCMAAa5La.jpg"
+                    }
+                ],
+                "target_birth_date": 1331775220,
+                "content": "Wowza !!! MT @WeatherTroll UNBELIEVABLE picture of hail core passing over #Gainesville  http://t.co/w4LpHkif #FLwx #Severe",
+                "mytype": "tweet",
+                "score": 9.44532,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/180104446586527745",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Wowza !!! MT @WeatherTroll UNBELIEVABLE picture of hail core passing over #Gainesville #FLwx",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/180104446586527745",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 310,
+        "hidden": 0,
+        "total": 163970,
+        "page": 1
+    }
+}

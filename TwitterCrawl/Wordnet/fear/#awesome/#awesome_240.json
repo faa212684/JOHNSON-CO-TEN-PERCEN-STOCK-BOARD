@@ -1,0 +1,274 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23awesome&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=240",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#awesome",
+            "window": "a",
+            "type": "tweet",
+            "offset": "240"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 12,
+                "firstpost_date": 1348182220,
+                "title": "@tommcfly my middle name means Star in Latin. therefore I am Star Girl. #awesome",
+                "url": "http://twitter.com/bethyastra/status/248920390129311746",
+                "trackback_date": 1348182220,
+                "trackback_total": 13,
+                "url_expansions": [],
+                "target_birth_date": 1348182220,
+                "content": "@tommcfly my middle name means Star in Latin. therefore I am Star Girl. #awesome",
+                "mytype": "tweet",
+                "score": 10.033115,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472525560330354688/_2ZvNrGq_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/bethyastra/status/248920390129311746",
+                "trackback_author_url": "http://twitter.com/bethyastra",
+                "highlight": " my middle name means Star in Latin. therefore I am Star Girl.",
+                "topsy_author_url": "http://topsy.com/twitter/bethyastra",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bethyastra/status/248920390129311746",
+                "trackback_author_name": "Beffknee",
+                "trackback_author_nick": "bethyastra"
+            },
+            {
+                "hits": 92,
+                "firstpost_date": 1336832043,
+                "title": "1st trip to @WaffleHouse #awesome  http://t.co/uzHi2P5u",
+                "url": "http://twitter.com/bubbawatson/status/201314298084081664",
+                "trackback_date": 1336832043,
+                "trackback_total": 278,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/uzHi2P5u",
+                        "display_url": "lockerz.com/s/208396453",
+                        "expanded_url": "http://lockerz.com/s/208396453",
+                        "topsy_expanded_url": "http://lockerz.com/s/208396453"
+                    }
+                ],
+                "target_birth_date": 1336832043,
+                "content": "1st trip to @WaffleHouse #awesome  http://t.co/uzHi2P5u",
+                "mytype": "tweet",
+                "score": 10.03269,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2319279206/35bwnea39ntayq08qjpb_normal.png",
+                "trackback_permalink": "http://twitter.com/bubbawatson/status/201314298084081664",
+                "trackback_author_url": "http://twitter.com/bubbawatson",
+                "highlight": "1st trip to @WaffleHouse #awesome",
+                "topsy_author_url": "http://topsy.com/twitter/bubbawatson",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bubbawatson/status/201314298084081664",
+                "trackback_author_name": "bubba watson",
+                "trackback_author_nick": "bubbawatson"
+            },
+            {
+                "hits": 48,
+                "firstpost_date": 1349139154,
+                "title": "This match will either be #AWESOME or #SSSIIICCCKKK .... you decide! @MikeTheMiz @ZackRyder #RAW",
+                "url": "http://twitter.com/wweuniverse/status/252934064066150400",
+                "trackback_date": 1349139154,
+                "trackback_total": 93,
+                "url_expansions": [],
+                "target_birth_date": 1349139154,
+                "content": "This match will either be #AWESOME or #SSSIIICCCKKK .... you decide! @MikeTheMiz @ZackRyder #RAW",
+                "mytype": "tweet",
+                "score": 10.031997,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/61087387/universe_white_logo_normal.jpg",
+                "trackback_permalink": "http://twitter.com/WWEUniverse/status/252934064066150400",
+                "trackback_author_url": "http://twitter.com/wweuniverse",
+                "highlight": "This match will either be #AWESOME or #SSSIIICCCKKK .... you decide! @MikeTheMiz @ZackRyder",
+                "topsy_author_url": "http://topsy.com/twitter/wweuniverse",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wweuniverse/status/252934064066150400",
+                "trackback_author_name": "WWE Universe",
+                "trackback_author_nick": "wweuniverse"
+            },
+            {
+                "hits": 31,
+                "firstpost_date": 1357001454,
+                "title": "I will # that Awesome #Awesome RT @robschamberger: All of my Champions Collection paintings to date: @mikethemiz ! http://t.co/vFxHCRt8",
+                "url": "http://twitter.com/mikethemiz/status/285910939839115264",
+                "trackback_date": 1357001454,
+                "trackback_total": 47,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vFxHCRt8",
+                        "display_url": "robschamberger.com/the-miz/",
+                        "expanded_url": "http://robschamberger.com/the-miz/",
+                        "topsy_expanded_url": "http://robschamberger.com/the-miz/"
+                    }
+                ],
+                "target_birth_date": 1357001454,
+                "content": "I will # that Awesome #Awesome RT @robschamberger: All of my Champions Collection paintings to date: @mikethemiz ! http://t.co/vFxHCRt8",
+                "mytype": "tweet",
+                "score": 10.028483,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3622239804/c78d86ca8f051fd5001f3e4f79d3e43d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mikethemiz/status/285910939839115264",
+                "trackback_author_url": "http://twitter.com/mikethemiz",
+                "highlight": "I will # that Awesome #AwesomeAll of my Champions Collection paintings to date: @mikethemiz !",
+                "topsy_author_url": "http://topsy.com/twitter/mikethemiz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mikethemiz/status/285910939839115264",
+                "trackback_author_name": "The Miz",
+                "trackback_author_nick": "mikethemiz"
+            },
+            {
+                "hits": 56,
+                "firstpost_date": 1372046465,
+                "title": "THANK YOU for your support!! RT @leeeyahferil: listening to @30SECONDSTOMARS new album #LOVELUSTFAITHDREAMS #AWESOME http://t.co/2r6jhD1roD",
+                "url": "http://twitter.com/30secondstomars/status/349014289660645380",
+                "trackback_date": 1372046465,
+                "trackback_total": 82,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2r6jhD1roD",
+                        "expanded_url": "http://twitter.com/leeeyahferil/status/348878206222352388/photo/1",
+                        "display_url": "pic.twitter.com/2r6jhD1roD"
+                    }
+                ],
+                "target_birth_date": 1372046465,
+                "content": "THANK YOU for your support!! RT @leeeyahferil: listening to @30SECONDSTOMARS new album #LOVELUSTFAITHDREAMS #AWESOME http://t.co/2r6jhD1roD",
+                "mytype": "tweet",
+                "score": 10.0284195,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/457238752251760641/m4q-iXKs_normal.png",
+                "trackback_permalink": "http://twitter.com/30SECONDSTOMARS/status/349014289660645380",
+                "trackback_author_url": "http://twitter.com/30secondstomars",
+                "highlight": "THANK YOU for your support!!listening to @30SECONDSTOMARS new album #LOVELUSTFAITHDREAMS #AWESOME",
+                "topsy_author_url": "http://topsy.com/twitter/30secondstomars",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/30secondstomars/status/349014289660645380",
+                "trackback_author_name": "MARS",
+                "trackback_author_nick": "30secondstomars"
+            },
+            {
+                "hits": 44,
+                "firstpost_date": 1337460835,
+                "title": "#AWESOME NIKE FOOTBALL: MY TIME IS NOW (SUBTITLES AVAILABLE): http://t.co/MRJeJpag via @youtube",
+                "url": "http://twitter.com/jaimecamil/status/203951642767392768",
+                "trackback_date": 1337460835,
+                "trackback_total": 54,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/MRJeJpag",
+                        "expanded_url": "http://youtu.be/QMv8g8CO4cQ",
+                        "display_url": "youtu.be/QMv8g8CO4cQ"
+                    }
+                ],
+                "target_birth_date": 1337460835,
+                "content": "#AWESOME NIKE FOOTBALL: MY TIME IS NOW (SUBTITLES AVAILABLE): http://t.co/MRJeJpag via @youtube",
+                "mytype": "tweet",
+                "score": 10.027836,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2181518979/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/jaimecamil/status/203951642767392768",
+                "trackback_author_url": "http://twitter.com/jaimecamil",
+                "highlight": "#AWESOME NIKE FOOTBALL: MY TIME IS NOW (SUBTITLES AVAILABLE): via @youtube",
+                "topsy_author_url": "http://topsy.com/twitter/jaimecamil",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jaimecamil/status/203951642767392768",
+                "trackback_author_name": "Jaime Camil",
+                "trackback_author_nick": "jaimecamil"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1312315428,
+                "title": "This photo pretty much sums up my life right now #awesome http://t.co/TpXNDMA",
+                "url": "http://twitter.com/ijustine/status/98484162918494208",
+                "trackback_date": 1312315428,
+                "trackback_total": 56,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/TpXNDMA",
+                        "display_url": "ijustine.com/life",
+                        "expanded_url": "http://ijustine.com/life",
+                        "topsy_expanded_url": "http://ijustine.com/life"
+                    }
+                ],
+                "target_birth_date": 1312315428,
+                "content": "This photo pretty much sums up my life right now #awesome http://t.co/TpXNDMA",
+                "mytype": "tweet",
+                "score": 10.026219,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468495095994392578/cq1FKOTk_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ijustine/status/98484162918494208",
+                "trackback_author_url": "http://twitter.com/ijustine",
+                "highlight": "This photo pretty much sums up my life right now #awesome",
+                "topsy_author_url": "http://topsy.com/twitter/ijustine",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ijustine/status/98484162918494208",
+                "trackback_author_name": "iJustine",
+                "trackback_author_nick": "ijustine"
+            },
+            {
+                "hits": 208,
+                "firstpost_date": 1310236864,
+                "title": "Guess what!?My tv sister & real life friend @daniellamonet & @drakebell are starring in #AFairlyOddMovie TONIGHT @ 8 PM on Nick!#awesome RT",
+                "url": "http://twitter.com/victoriajustice/status/89766031828074496",
+                "trackback_date": 1310236864,
+                "trackback_total": 303,
+                "url_expansions": [],
+                "target_birth_date": 1310236864,
+                "content": "Guess what!?My tv sister & real life friend @daniellamonet & @drakebell are starring in #AFairlyOddMovie TONIGHT @ 8 PM on Nick!#awesome RT",
+                "mytype": "tweet",
+                "score": 10.02593,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458830642600767488/PDEkOWSf_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/VictoriaJustice/status/89766031828074496",
+                "trackback_author_url": "http://twitter.com/victoriajustice",
+                "highlight": "Guess what!?My tv sister & real life friend @daniellamonet & @drakebell are starring in #AFairlyOddMovie TONIGHT @ 8 PM on Nick!#awesome RT",
+                "topsy_author_url": "http://topsy.com/twitter/victoriajustice",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/victoriajustice/status/89766031828074496",
+                "trackback_author_name": "Victoria Justice",
+                "trackback_author_nick": "victoriajustice"
+            },
+            {
+                "hits": 100,
+                "firstpost_date": 1400095429,
+                "title": "I just relived #TLC on the #WWENETWORK it was #Awesome #WWE http://t.co/bKDxhA59ZB",
+                "url": "http://twitter.com/brawlerreal/status/466660172526784512",
+                "trackback_date": 1400095429,
+                "trackback_total": 139,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/bKDxhA59ZB",
+                        "display_url": "pic.twitter.com/bKDxhA59ZB",
+                        "expanded_url": "http://twitter.com/brawlerreal/status/466660172526784512/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bnno9ELIUAEbW-c.jpg"
+                    }
+                ],
+                "target_birth_date": 1400095429,
+                "content": "I just relived #TLC on the #WWENETWORK it was #Awesome #WWE http://t.co/bKDxhA59ZB",
+                "mytype": "tweet",
+                "score": 10.024934,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2904484554/81eed48a1b8e84f1a92b2871bd3161f3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/brawlerreal/status/466660172526784512",
+                "trackback_author_url": "http://twitter.com/brawlerreal",
+                "highlight": "I just relived #TLC on the #WWENETWORK it was #Awesome #WWE",
+                "topsy_author_url": "http://topsy.com/twitter/brawlerreal",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/brawlerreal/status/466660172526784512",
+                "trackback_author_name": "Brooklyn Brawler",
+                "trackback_author_nick": "brawlerreal"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1287796097,
+                "title": "RT @OGOchoCinco: Excuse people of Atlanta but 100 people have now been added to the list instead of 85, thanks to @CEOtuffLuv, #awesome",
+                "url": "http://twitter.com/cbella_mktg/status/28456978864",
+                "trackback_date": 1287796097,
+                "trackback_total": 10,
+                "url_expansions": [],
+                "target_birth_date": 1287796097,
+                "content": "RT @OGOchoCinco: Excuse people of Atlanta but 100 people have now been added to the list instead of 85, thanks to @CEOtuffLuv, #awesome",
+                "mytype": "tweet",
+                "score": 10.023524,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3309314387/8a443bbb24467ee4d1578cb524501285_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CBella_Mktg/status/28456978864",
+                "trackback_author_url": "http://twitter.com/cbella_cbella",
+                "highlight": "Excuse people of Atlanta but 100 people have now been added to the list instead of 85, thanks to @CEOtuffLuv,",
+                "topsy_author_url": "http://topsy.com/twitter/cbella_cbella",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cbella_mktg/status/28456978864",
+                "trackback_author_name": "Claribel ",
+                "trackback_author_nick": "cbella_cbella"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 240,
+        "hidden": 0,
+        "total": 10882569,
+        "page": 1
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23awesome&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=980",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#awesome",
+            "window": "a",
+            "type": "tweet",
+            "offset": "980"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 155,
+                "firstpost_date": 1341467776,
+                "title": "San Diego let all of its fireworks off at once. Story: http://t.co/053fNcgk Amazing photo: http://t.co/vJ8nPc5I #awesome",
+                "url": "http://twitter.com/felixsalmon/status/220757969309138944",
+                "trackback_date": 1341467776,
+                "trackback_total": 160,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/053fNcgk",
+                        "display_url": "usnews.msnbc.msn.com/_news/2012/07/\u2026",
+                        "expanded_url": "http://usnews.msnbc.msn.com/_news/2012/07/05/12570690-big-bay-boom-indeed-san-diego-fireworks-go-up-all-at-once",
+                        "topsy_expanded_url": "http://usnews.msnbc.msn.com/_news/2012/07/05/12570690-big-bay-boom-indeed-san-diego-fireworks-go-up-all-at-once"
+                    },
+                    {
+                        "url": "http://t.co/vJ8nPc5I",
+                        "display_url": "instagram.com/p/Mr72QcJMrR/",
+                        "expanded_url": "http://instagram.com/p/Mr72QcJMrR/",
+                        "topsy_expanded_url": "http://instagram.com/p/Mr72QcJMrR/"
+                    }
+                ],
+                "target_birth_date": 1341467776,
+                "content": "San Diego let all of its fireworks off at once. Story: http://t.co/053fNcgk Amazing photo: http://t.co/vJ8nPc5I #awesome",
+                "mytype": "tweet",
+                "score": 9.550408,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453561742920929280/Seu5dsPA_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/felixsalmon/status/220757969309138944",
+                "trackback_author_url": "http://twitter.com/felixsalmon",
+                "highlight": "San Diego let all of its fireworks off at once. Story: Amazing photo:",
+                "topsy_author_url": "http://topsy.com/twitter/felixsalmon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/felixsalmon/status/220757969309138944",
+                "trackback_author_name": "Felix Salmon",
+                "trackback_author_nick": "felixsalmon"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1379382796,
+                "title": "@maryse0uellet @mikethemiz is putting up one hell of a fight tonight! #Raw #awesome",
+                "url": "http://twitter.com/amandaraee_x3/status/379785092375511041",
+                "trackback_date": 1379382796,
+                "trackback_total": 16,
+                "url_expansions": [],
+                "target_birth_date": 1379382796,
+                "content": "@maryse0uellet @mikethemiz is putting up one hell of a fight tonight! #Raw #awesome",
+                "mytype": "tweet",
+                "score": 9.550296,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/428741357084344320/lCMMh9oK_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AmandaRaee_x3/status/379785092375511041",
+                "trackback_author_url": "http://twitter.com/amandaraee_x3",
+                "highlight": " @mikethemiz is putting up one hell of a fight tonight! #Raw",
+                "topsy_author_url": "http://topsy.com/twitter/amandaraee_x3",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/amandaraee_x3/status/379785092375511041",
+                "trackback_author_name": "IRefuseToSink\u2693",
+                "trackback_author_nick": "amandaraee_x3"
+            },
+            {
+                "hits": 30,
+                "firstpost_date": 1376591717,
+                "title": "Griddle tiiiime #frenchtoast #frenchpress #chocolatchippancakes #awesome \u263a\ud83d\ude01\ud83d\ude09",
+                "url": "http://twitter.com/maryse0uellet/status/368078456187138050",
+                "trackback_date": 1376591717,
+                "trackback_total": 45,
+                "url_expansions": [],
+                "target_birth_date": 1376591717,
+                "content": "Griddle tiiiime #frenchtoast #frenchpress #chocolatchippancakes #awesome \u263a\ud83d\ude01\ud83d\ude09",
+                "mytype": "tweet",
+                "score": 9.5499735,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461264146403569664/Lk00a-WO_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/maryse0uellet/status/368078456187138050",
+                "trackback_author_url": "http://twitter.com/maryse0uellet",
+                "highlight": "Griddle tiiiime #frenchtoast #frenchpress #chocolatchippancakes #awesome \u263a\ud83d\ude01\ud83d\ude09",
+                "topsy_author_url": "http://topsy.com/twitter/maryse0uellet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/maryse0uellet/status/368078456187138050",
+                "trackback_author_name": "MaryseOuelletMizanin",
+                "trackback_author_nick": "maryse0uellet"
+            },
+            {
+                "hits": 22,
+                "firstpost_date": 1301800756,
+                "title": "UConn vs Butler in the championship game. #awesome",
+                "url": "http://twitter.com/realjaywilliams/status/54382431519772672",
+                "trackback_date": 1301800756,
+                "trackback_total": 37,
+                "url_expansions": [],
+                "target_birth_date": 1301800756,
+                "content": "UConn vs Butler in the championship game. #awesome",
+                "mytype": "tweet",
+                "score": 9.549342,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/456925190509690880/69TPyUuo_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RealJayWilliams/status/54382431519772672",
+                "trackback_author_url": "http://twitter.com/realjaywilliams",
+                "highlight": "UConn vs Butler in the championship game.",
+                "topsy_author_url": "http://topsy.com/twitter/realjaywilliams",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/realjaywilliams/status/54382431519772672",
+                "trackback_author_name": "Jay Williams",
+                "trackback_author_nick": "realjaywilliams"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1362519301,
+                "title": "Artist Alfred Twu says a high speed rail system would supercharge the emerging maker economy #awesome #superfast http://t.co/oJRaZa007w",
+                "url": "http://twitter.com/good/status/309054468278849537",
+                "trackback_date": 1362519301,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/oJRaZa007w",
+                        "display_url": "bit.ly/XooF13",
+                        "expanded_url": "http://bit.ly/XooF13",
+                        "topsy_expanded_url": "http://www.good.is/posts/why-a-high-speed-rail-network-would-supercharge-the-emerging-maker-economy/"
+                    }
+                ],
+                "target_birth_date": 1362519301,
+                "content": "Artist Alfred Twu says a high speed rail system would supercharge the emerging maker economy #awesome #superfast http://t.co/oJRaZa007w",
+                "mytype": "tweet",
+                "score": 9.549002,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3444533212/fd0ee01ab8ff3ee05b8d1b5c5187f840_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/GOOD/status/309054468278849537",
+                "trackback_author_url": "http://twitter.com/good",
+                "highlight": "Artist Alfred Twu says a high speed rail system would supercharge the emerging maker economy #awesome #superfast",
+                "topsy_author_url": "http://topsy.com/twitter/good",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/good/status/309054468278849537",
+                "trackback_author_name": "GOOD ",
+                "trackback_author_nick": "good"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1387581248,
+                "title": "This man built the \"world's largest camera\" in the back of his van, and is traveling across to country. #awesome http://t.co/b7H34GjCPa",
+                "url": "http://twitter.com/complexmag/status/414171893349253120",
+                "trackback_date": 1387581248,
+                "trackback_total": 20,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/b7H34GjCPa",
+                        "display_url": "cmplx.it/J3hO9m",
+                        "expanded_url": "http://cmplx.it/J3hO9m",
+                        "topsy_expanded_url": "http://www.complex.com/r.php?key=8471fb22f15b55c2c108120c884c7b23&src=twitter&url=http%3A%2F%2Fwww.complex.com%2Ftech%2F2013%2F12%2Flargest-camera-in-the-world"
+                    }
+                ],
+                "target_birth_date": 1387581248,
+                "content": "This man built the \"world's largest camera\" in the back of his van, and is traveling across to country. #awesome http://t.co/b7H34GjCPa",
+                "mytype": "tweet",
+                "score": 9.548416,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469516312343879681/uaf93VP8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ComplexMag/status/414171893349253120",
+                "trackback_author_url": "http://twitter.com/complexmag",
+                "highlight": "This man built the \"world's largest camera\" in the back of his van, and is traveling across to country. #awesome",
+                "topsy_author_url": "http://topsy.com/twitter/complexmag",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/complexmag/status/414171893349253120",
+                "trackback_author_name": "Complex ",
+                "trackback_author_nick": "complexmag"
+            },
+            {
+                "hits": 363,
+                "firstpost_date": 1383836804,
+                "title": "Students at Lakeside High voted senior JJ Mazaiwana, who is autistic, homecoming king last week. #Awesome http://t.co/yzS4JML7ux",
+                "url": "http://twitter.com/gafollowers/status/398466553076666368",
+                "trackback_date": 1383836804,
+                "trackback_total": 466,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/yzS4JML7ux",
+                        "display_url": "pic.twitter.com/yzS4JML7ux",
+                        "expanded_url": "http://twitter.com/GAFollowers/status/398466553076666368/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BYejN-6CEAA58WS.jpg"
+                    }
+                ],
+                "target_birth_date": 1383836804,
+                "content": "Students at Lakeside High voted senior JJ Mazaiwana, who is autistic, homecoming king last week. #Awesome http://t.co/yzS4JML7ux",
+                "mytype": "tweet",
+                "score": 9.5479355,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/446021219679088640/lGbDI07i_normal.png",
+                "trackback_permalink": "http://twitter.com/GAFollowers/status/398466553076666368",
+                "trackback_author_url": "http://twitter.com/gafollowers",
+                "highlight": "Students at Lakeside High voted senior JJ Mazaiwana, who is autistic, homecoming king last week. #Awesome",
+                "topsy_author_url": "http://topsy.com/twitter/gafollowers",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gafollowers/status/398466553076666368",
+                "trackback_author_name": "Everything Georgia",
+                "trackback_author_nick": "gafollowers"
+            },
+            {
+                "hits": 23,
+                "firstpost_date": 1379090780,
+                "title": "#Awesome new arrivals just in! Shop them here: http://t.co/PJ7Y8dTp1t http://t.co/NlxCfFi11n",
+                "url": "http://twitter.com/forever21/status/378560287013883904",
+                "trackback_date": 1379090780,
+                "trackback_total": 31,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PJ7Y8dTp1t",
+                        "display_url": "bit.ly/18sb3Go",
+                        "expanded_url": "http://bit.ly/18sb3Go",
+                        "topsy_expanded_url": "http://www.forever21.com/Product/Category.aspx?br=f21&category=whatsnew_all"
+                    },
+                    {
+                        "url": "http://t.co/NlxCfFi11n",
+                        "display_url": "pic.twitter.com/NlxCfFi11n",
+                        "expanded_url": "http://twitter.com/Forever21/status/378560287013883904/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BUDqkz_IAAAWpsi.jpg"
+                    }
+                ],
+                "target_birth_date": 1379090780,
+                "content": "#Awesome new arrivals just in! Shop them here: http://t.co/PJ7Y8dTp1t http://t.co/NlxCfFi11n",
+                "mytype": "tweet",
+                "score": 9.547701,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2902961456/ac2610eeab7912b47aa0599f412c8090_normal.png",
+                "trackback_permalink": "http://twitter.com/Forever21/status/378560287013883904",
+                "trackback_author_url": "http://twitter.com/forever21",
+                "highlight": "#Awesome new arrivals just in! Shop them here:",
+                "topsy_author_url": "http://topsy.com/twitter/forever21",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/forever21/status/378560287013883904",
+                "trackback_author_name": "Forever 21",
+                "trackback_author_nick": "forever21"
+            },
+            {
+                "hits": 58,
+                "firstpost_date": 1352213504,
+                "title": "That feeling of pride after voting... #awesome",
+                "url": "http://twitter.com/rebeccalobo/status/265828819401859072",
+                "trackback_date": 1352213504,
+                "trackback_total": 65,
+                "url_expansions": [],
+                "target_birth_date": 1352213504,
+                "content": "That feeling of pride after voting... #awesome",
+                "mytype": "tweet",
+                "score": 9.54755,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/88904206/loboicon3_normal.png",
+                "trackback_permalink": "http://twitter.com/RebeccaLobo/status/265828819401859072",
+                "trackback_author_url": "http://twitter.com/rebeccalobo",
+                "highlight": "That feeling of pride after voting",
+                "topsy_author_url": "http://topsy.com/twitter/rebeccalobo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rebeccalobo/status/265828819401859072",
+                "trackback_author_name": "Rebecca Lobo",
+                "trackback_author_nick": "rebeccalobo"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1306445500,
+                "title": "\"Turn it up Tiesto .... This ... should be played at high volumes ... preferably in a residential area.\" - @tiesto Club Life intro. #Awesome",
+                "url": "http://twitter.com/jedwardbecker/status/73863900579373056",
+                "trackback_date": 1306445500,
+                "trackback_total": 16,
+                "url_expansions": [],
+                "target_birth_date": 1306445500,
+                "content": "\"Turn it up Tiesto .... This ... should be played at high volumes ... preferably in a residential area.\" - @tiesto Club Life intro. #Awesome",
+                "mytype": "tweet",
+                "score": 9.547169,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2287374925/50d99dmvpzcdfwkqcve6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JEdwardBecker/status/73863900579373056",
+                "trackback_author_url": "http://twitter.com/jedwardbecker",
+                "highlight": "\"Turn it up Tiesto .... This ... should be played at high volumes ... preferably in a residential area.\" - @tiesto Club Life intro.",
+                "topsy_author_url": "http://topsy.com/twitter/jedwardbecker",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jedwardbecker/status/73863900579373056",
+                "trackback_author_name": "Jason Becker",
+                "trackback_author_nick": "jedwardbecker"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 980,
+        "hidden": 0,
+        "total": 10612139,
+        "page": 1
+    }
+}

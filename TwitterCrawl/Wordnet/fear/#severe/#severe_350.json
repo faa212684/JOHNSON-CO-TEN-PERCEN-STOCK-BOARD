@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=350",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "350"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 9,
+                "firstpost_date": 1371821779,
+                "title": "#Chicago may be in line for a #severe watch, but I'm also be worried about localized flooding in IA as line stalls: http://t.co/vzcXnsZebx",
+                "url": "http://twitter.com/jimcantore/status/348071887861059586",
+                "trackback_date": 1371821779,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vzcXnsZebx",
+                        "display_url": "spc.noaa.gov/products/md/md\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/md/md1150.html",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/md/md1150.html"
+                    }
+                ],
+                "target_birth_date": 1371821779,
+                "content": "#Chicago may be in line for a #severe watch, but I'm also be worried about localized flooding in IA as line stalls: http://t.co/vzcXnsZebx",
+                "mytype": "tweet",
+                "score": 9.42636,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/348071887861059586",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "#Chicago may be in line for a #severe watch, but I'm also be worried about localized flooding in IA as line stalls:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/348071887861059586",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 27,
+                "firstpost_date": 1365170621,
+                "title": "Days 4-8 #Severe outlook from SPC.  Biggest story over the next 5 days in #weather: http://t.co/NtYObkMNjb Tuesday COULD be big #tornado day",
+                "url": "http://twitter.com/jimcantore/status/320174910100086784",
+                "trackback_date": 1365170621,
+                "trackback_total": 34,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/NtYObkMNjb",
+                        "display_url": "spc.noaa.gov/products/exper\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/exper/day4-8/",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/exper/day4-8/"
+                    }
+                ],
+                "target_birth_date": 1365170621,
+                "content": "Days 4-8 #Severe outlook from SPC.  Biggest story over the next 5 days in #weather: http://t.co/NtYObkMNjb Tuesday COULD be big #tornado day",
+                "mytype": "tweet",
+                "score": 9.425611,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/320174910100086784",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Days 4-8 #Severe outlook from SPC. Biggest story over the next 5 days in #weather: Tuesday COULD be big #tornado day",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/320174910100086784",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1327319463,
+                "title": "RT @wtvmweather: Here's a photo of #damage from Center Point, AL. http://t.co/bmgk32kw   #severe",
+                "url": "http://twitter.com/twcbreaking/status/161415647002234880",
+                "trackback_date": 1327319463,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/bmgk32kw",
+                        "display_url": "goo.gl/8zUdl",
+                        "expanded_url": "http://goo.gl/8zUdl",
+                        "topsy_expanded_url": "http://www.facebook.com/photo.php?id=228595447155564&l=9c2d4a3dd8&pid=1652195"
+                    }
+                ],
+                "target_birth_date": 1327319463,
+                "content": "RT @wtvmweather: Here's a photo of #damage from Center Point, AL. http://t.co/bmgk32kw   #severe",
+                "mytype": "tweet",
+                "score": 9.424473,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/161415647002234880",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Here's a photo of #damage from Center Point, AL.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/161415647002234880",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 24,
+                "firstpost_date": 1371071510,
+                "title": "More than 77 million people at risk of #severe storms tonight. http://t.co/AkT96j54mm",
+                "url": "http://twitter.com/twcchriswarren/status/344925029961723904",
+                "trackback_date": 1371071510,
+                "trackback_total": 29,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/AkT96j54mm",
+                        "display_url": "pic.twitter.com/AkT96j54mm",
+                        "expanded_url": "http://twitter.com/TWCChrisWarren/status/344925029961723904/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BMlrfL1CcAA0y43.gif"
+                    }
+                ],
+                "target_birth_date": 1371071510,
+                "content": "More than 77 million people at risk of #severe storms tonight. http://t.co/AkT96j54mm",
+                "mytype": "tweet",
+                "score": 9.424435,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1310308520/profile_pic_normal.JPG",
+                "trackback_permalink": "http://twitter.com/TWCChrisWarren/status/344925029961723904",
+                "trackback_author_url": "http://twitter.com/twcchriswarren",
+                "highlight": "More than 77 million people at risk of #severe storms tonight.",
+                "topsy_author_url": "http://topsy.com/twitter/twcchriswarren",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcchriswarren/status/344925029961723904",
+                "trackback_author_name": "Chris Warren",
+                "trackback_author_nick": "twcchriswarren"
+            },
+            {
+                "hits": 22,
+                "firstpost_date": 1348623322,
+                "title": "Watching storms with Damaging Wind potential coming into Evansville, IN, St. Louis's southeast suburbs and Oklahoma City, OK #severe",
+                "url": "http://twitter.com/jimcantore/status/250770507056685057",
+                "trackback_date": 1348623322,
+                "trackback_total": 23,
+                "url_expansions": [],
+                "target_birth_date": 1348623322,
+                "content": "Watching storms with Damaging Wind potential coming into Evansville, IN, St. Louis's southeast suburbs and Oklahoma City, OK #severe",
+                "mytype": "tweet",
+                "score": 9.424038,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/250770507056685057",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Watching storms with Damaging Wind potential coming into Evansville, IN, St. Louis's southeast suburbs and Oklahoma City, OK",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/250770507056685057",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1303865748,
+                "title": "Funnel cloud sighted from UT-Tyler campus looking toward the east.  #severe",
+                "url": "http://twitter.com/twcbreaking/status/63043636127993857",
+                "trackback_date": 1303865748,
+                "trackback_total": 17,
+                "url_expansions": [],
+                "target_birth_date": 1303865748,
+                "content": "Funnel cloud sighted from UT-Tyler campus looking toward the east.  #severe",
+                "mytype": "tweet",
+                "score": 9.423924,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63043636127993857",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Funnel cloud sighted from UT-Tyler campus looking toward the east.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63043636127993857",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 36,
+                "firstpost_date": 1303267157,
+                "title": "Very Strong chances for #SEVERE WEATHER tonight:  Columbus, Cincinnati, Evansville, Louisville, Paducah, and Memphis.  Stay safe !!",
+                "url": "http://twitter.com/jimcantore/status/60532963280044032",
+                "trackback_date": 1303267157,
+                "trackback_total": 50,
+                "url_expansions": [],
+                "target_birth_date": 1303267157,
+                "content": "Very Strong chances for #SEVERE WEATHER tonight:  Columbus, Cincinnati, Evansville, Louisville, Paducah, and Memphis.  Stay safe !!",
+                "mytype": "tweet",
+                "score": 9.423794,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/60532963280044032",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Very Strong chances for #SEVERE WEATHER tonight: Columbus, Cincinnati, Evansville, Louisville, Paducah, and Memphis. Stay safe !!",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/60532963280044032",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1384432317,
+                "title": "On the heels of this week's cold snap, #severe weather is looming this weekend. http://t.co/brweFaENtl",
+                "url": "http://twitter.com/weatherchannel/status/400964317107220480",
+                "trackback_date": 1384432317,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/brweFaENtl",
+                        "display_url": "wxch.nl/19mFhHX",
+                        "expanded_url": "http://wxch.nl/19mFhHX",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page?hootPostID=33c5577beaf2f1552c3bed87fc1be3c7"
+                    }
+                ],
+                "target_birth_date": 1384432317,
+                "content": "On the heels of this week's cold snap, #severe weather is looming this weekend. http://t.co/brweFaENtl",
+                "mytype": "tweet",
+                "score": 9.423759,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/400964317107220480",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "On the heels of this week's cold snap, #severe weather is looming this weekend.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/400964317107220480",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 27,
+                "firstpost_date": 1303904854,
+                "title": "New tornado watch issued for N. GA until 12pm EDT. Includes Atlanta, Rome. #severe",
+                "url": "http://twitter.com/twcbreaking/status/63207656441122816",
+                "trackback_date": 1303904854,
+                "trackback_total": 28,
+                "url_expansions": [],
+                "target_birth_date": 1303904854,
+                "content": "New tornado watch issued for N. GA until 12pm EDT. Includes Atlanta, Rome. #severe",
+                "mytype": "tweet",
+                "score": 9.423622,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63207656441122816",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "New tornado watch issued for N. GA until 12pm EDT. Includes Atlanta, Rome.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63207656441122816",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1334429338,
+                "title": "Watch the thunderstorms ignite over Kansas on this visible satellite imagery. http://t.co/iuyGSjmB #severe",
+                "url": "http://twitter.com/twcbreaking/status/191236621738311683",
+                "trackback_date": 1334429338,
+                "trackback_total": 13,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/iuyGSjmB",
+                        "display_url": "bit.ly/IG4upA",
+                        "expanded_url": "http://bit.ly/IG4upA",
+                        "topsy_expanded_url": "http://climate.cod.edu/flanis/1km.php?loop=1&numimages=12&region=Kansas&type=vis"
+                    }
+                ],
+                "target_birth_date": 1334429338,
+                "content": "Watch the thunderstorms ignite over Kansas on this visible satellite imagery. http://t.co/iuyGSjmB #severe",
+                "mytype": "tweet",
+                "score": 9.423019,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/191236621738311683",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Watch the thunderstorms ignite over Kansas on this visible satellite imagery.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/191236621738311683",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 350,
+        "hidden": 0,
+        "total": 163223,
+        "page": 1
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=830",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "830"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 23,
+                "firstpost_date": 1303953423,
+                "title": "#Tornado reported west of Taylorsville, GA moving east.  Alert & map:  http://wxch.nl/k4IFPB  #severe",
+                "url": "http://twitter.com/twcbreaking/status/63411371454365696",
+                "trackback_date": 1303953423,
+                "trackback_total": 28,
+                "url_expansions": [],
+                "target_birth_date": 1303953423,
+                "content": "#Tornado reported west of Taylorsville, GA moving east.  Alert & map:  http://wxch.nl/k4IFPB  #severe",
+                "mytype": "tweet",
+                "score": 9.284882,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63411371454365696",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "#Tornado reported west of Taylorsville, GA moving east. Alert & map:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63411371454365696",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1395790522,
+                "title": "GREAT primer from the NWS RT @NWSIWX: Not sure what to report during #severe weather? Here's what we're looking for: http://t.co/rrPmuqryuq",
+                "url": "http://twitter.com/twcbreaking/status/448604080760684546",
+                "trackback_date": 1395790522,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/rrPmuqryuq",
+                        "display_url": "pic.twitter.com/rrPmuqryuq",
+                        "expanded_url": "http://twitter.com/NWSIWX/status/448602682790400000/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BjnBwzkCcAAdwYH.png"
+                    }
+                ],
+                "target_birth_date": 1395790522,
+                "content": "GREAT primer from the NWS RT @NWSIWX: Not sure what to report during #severe weather? Here's what we're looking for: http://t.co/rrPmuqryuq",
+                "mytype": "tweet",
+                "score": 9.284863,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/448604080760684546",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "GREAT primer from the NWSNot sure what to report during #severe weather? Here's what we're looking for:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/448604080760684546",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 55,
+                "firstpost_date": 1401214564,
+                "title": "Just in: #Severe t-storm watch for parts of NY, PA, MD, WV, VA, DC until 9p. http://t.co/nogbPfN1qt",
+                "url": "http://twitter.com/weatherchannel/status/471354163301867521",
+                "trackback_date": 1401214564,
+                "trackback_total": 62,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/nogbPfN1qt",
+                        "display_url": "pic.twitter.com/nogbPfN1qt",
+                        "expanded_url": "http://twitter.com/weatherchannel/status/471354163301867521/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BoqWHTCCQAElZfd.png"
+                    }
+                ],
+                "target_birth_date": 1401214564,
+                "content": "Just in: #Severe t-storm watch for parts of NY, PA, MD, WV, VA, DC until 9p. http://t.co/nogbPfN1qt",
+                "mytype": "tweet",
+                "score": 9.28484,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/471354163301867521",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "Just in: #Severe t-storm watch for parts of NY, PA, MD, WV, VA, DC until 9p.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/471354163301867521",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 31,
+                "firstpost_date": 1308596562,
+                "title": "Large #tornado now reported crossing US 283 in Graham Co, KS south of Edmond and north of Hill City.  Alert:  http://wxch.nl/lFnH57  #severe",
+                "url": "http://twitter.com/twcbreaking/status/82886108534423552",
+                "trackback_date": 1308596562,
+                "trackback_total": 32,
+                "url_expansions": [],
+                "target_birth_date": 1308596562,
+                "content": "Large #tornado now reported crossing US 283 in Graham Co, KS south of Edmond and north of Hill City.  Alert:  http://wxch.nl/lFnH57  #severe",
+                "mytype": "tweet",
+                "score": 9.284015,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/82886108534423552",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Large #tornado now reported crossing US 283 in Graham Co, KS south of Edmond and north of Hill City. Alert:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/82886108534423552",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 15,
+                "firstpost_date": 1324551210,
+                "title": "#Tornado watch for parts of MS, LA, including New Orleans until 1pm CST: http://t.co/RQ067JLZ |  #Severe threat today:  http://t.co/XduiDXNr",
+                "url": "http://twitter.com/weatherchannel/status/149804750420983808",
+                "trackback_date": 1324551210,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RQ067JLZ",
+                        "display_url": "ow.ly/87v83",
+                        "expanded_url": "http://ow.ly/87v83",
+                        "topsy_expanded_url": "http://www.weather.com/newscenter/alerts/region/severeWxAlertsSEUS.html"
+                    },
+                    {
+                        "url": "http://t.co/XduiDXNr",
+                        "display_url": "ow.ly/87vcA",
+                        "expanded_url": "http://ow.ly/87vcA",
+                        "topsy_expanded_url": "http://www.weather.com/maps/activity/golf/usthunderstormfcst_large.html"
+                    }
+                ],
+                "target_birth_date": 1324551210,
+                "content": "#Tornado watch for parts of MS, LA, including New Orleans until 1pm CST: http://t.co/RQ067JLZ |  #Severe threat today:  http://t.co/XduiDXNr",
+                "mytype": "tweet",
+                "score": 9.283681,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/149804750420983808",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "#Tornado watch for parts of MS, LA, including New Orleans until 1pm CST: | #Severe threat today:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/149804750420983808",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1303871872,
+                "title": "Law enforcement reports a #tornado near Helena, AR (Second wave for that area already!).  Alert/radar:  http://wxch.nl/fXL2PJ  #severe",
+                "url": "http://twitter.com/twcbreaking/status/63069320976146432",
+                "trackback_date": 1303871872,
+                "trackback_total": 18,
+                "url_expansions": [],
+                "target_birth_date": 1303871872,
+                "content": "Law enforcement reports a #tornado near Helena, AR (Second wave for that area already!).  Alert/radar:  http://wxch.nl/fXL2PJ  #severe",
+                "mytype": "tweet",
+                "score": 9.283678,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63069320976146432",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Law enforcement reports a #tornado near Helena, AR (Second wave for that area already!). Alert/radar:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63069320976146432",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1353853694,
+                "title": "A few showers and thunderstorms tomorrow but not a widespread #Severe event: http://t.co/RXi9MFlx",
+                "url": "http://twitter.com/jimcantore/status/272708277685583873",
+                "trackback_date": 1353853694,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RXi9MFlx",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/day2otlk.html",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/day2otlk.html"
+                    }
+                ],
+                "target_birth_date": 1353853694,
+                "content": "A few showers and thunderstorms tomorrow but not a widespread #Severe event: http://t.co/RXi9MFlx",
+                "mytype": "tweet",
+                "score": 9.283436,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/272708277685583873",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "A few showers and thunderstorms tomorrow but not a widespread #Severe event:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/272708277685583873",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1350214049,
+                "title": "Today's #severe threat shifts east.  Find out who's in the damaging wind, hail and even small #tornado threat:  http://t.co/3EF35zdy",
+                "url": "http://twitter.com/weatherchannel/status/257442499646341120",
+                "trackback_date": 1350214049,
+                "trackback_total": 15,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3EF35zdy",
+                        "display_url": "wxch.nl/LoLoAW",
+                        "expanded_url": "http://wxch.nl/LoLoAW",
+                        "topsy_expanded_url": "http://www.weather.com/news/weather-severe/severe-weather-tracker"
+                    }
+                ],
+                "target_birth_date": 1350214049,
+                "content": "Today's #severe threat shifts east.  Find out who's in the damaging wind, hail and even small #tornado threat:  http://t.co/3EF35zdy",
+                "mytype": "tweet",
+                "score": 9.283362,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/257442499646341120",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "Today's #severe threat shifts east. Find out who's in the damaging wind, hail and even small #tornado threat:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/257442499646341120",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1326212504,
+                "title": "NWS Birmingham Graphicast for #Severe WX potential: http://t.co/GjIwEEKp",
+                "url": "http://twitter.com/jimcantore/status/156772720980406273",
+                "trackback_date": 1326212504,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/GjIwEEKp",
+                        "display_url": "srh.noaa.gov/graphicast.php\u2026",
+                        "expanded_url": "http://www.srh.noaa.gov/graphicast.php?site=bmx&gc=3",
+                        "topsy_expanded_url": "http://www.srh.noaa.gov/graphicast.php?site=bmx&gc=3"
+                    }
+                ],
+                "target_birth_date": 1326212504,
+                "content": "NWS Birmingham Graphicast for #Severe WX potential: http://t.co/GjIwEEKp",
+                "mytype": "tweet",
+                "score": 9.283164,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/156772720980406273",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "NWS Birmingham Graphicast for #Severe WX potential:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/156772720980406273",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1301506944,
+                "title": "GFS model continues to favor a MAJOR #SEVERE Weather Outbreak Monday/Tuesday across plains and into the southeast  #tornado",
+                "url": "http://twitter.com/jimcantore/status/53150091778859008",
+                "trackback_date": 1301506944,
+                "trackback_total": 17,
+                "url_expansions": [],
+                "target_birth_date": 1301506944,
+                "content": "GFS model continues to favor a MAJOR #SEVERE Weather Outbreak Monday/Tuesday across plains and into the southeast  #tornado",
+                "mytype": "tweet",
+                "score": 9.283081,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/53150091778859008",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "GFS model continues to favor a MAJOR #SEVERE Weather Outbreak Monday/Tuesday across plains and into the southeast",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/53150091778859008",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 830,
+        "hidden": 0,
+        "total": 163362,
+        "page": 1
+    }
+}

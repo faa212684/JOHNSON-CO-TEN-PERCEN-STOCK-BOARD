@@ -1,0 +1,295 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=190",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "190"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 27,
+                "firstpost_date": 1327295871,
+                "title": "#Nashville about 3 hours away regarding #Severe.  Could be sooner if renegade storms develop: http://t.co/yTcXJmdK #TNwx",
+                "url": "http://twitter.com/jimcantore/status/161316691601661952",
+                "trackback_date": 1327295871,
+                "trackback_total": 41,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/yTcXJmdK",
+                        "display_url": "radar.weather.gov/ridge/radar.ph\u2026",
+                        "expanded_url": "http://radar.weather.gov/ridge/radar.php?rid=ohx&product=N0R&overlay=11101111&loop=yes",
+                        "topsy_expanded_url": "http://radar.weather.gov/ridge/radar.php?rid=ohx&product=N0R&overlay=11101111&loop=yes"
+                    }
+                ],
+                "target_birth_date": 1327295871,
+                "content": "#Nashville about 3 hours away regarding #Severe.  Could be sooner if renegade storms develop: http://t.co/yTcXJmdK #TNwx",
+                "mytype": "tweet",
+                "score": 9.510641,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/161316691601661952",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "#Nashville about 3 hours away regarding #Severe. Could be sooner if renegade storms develop:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/161316691601661952",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 52,
+                "firstpost_date": 1397358201,
+                "title": "#Severe thunderstorm watches in effect through early AM Sunday. Have a plan, be prepared.  http://t.co/AdNL6SOUU2 http://t.co/UieRkIlqs1",
+                "url": "http://twitter.com/weatherchannel/status/455179406450098176",
+                "trackback_date": 1397358201,
+                "trackback_total": 56,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/AdNL6SOUU2",
+                        "display_url": "wxch.nl/14ZP49C",
+                        "expanded_url": "http://wxch.nl/14ZP49C",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page"
+                    },
+                    {
+                        "url": "http://t.co/UieRkIlqs1",
+                        "display_url": "pic.twitter.com/UieRkIlqs1",
+                        "expanded_url": "http://twitter.com/weatherchannel/status/455179406450098176/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BlEfQibIUAA6I4c.png"
+                    }
+                ],
+                "target_birth_date": 1397358201,
+                "content": "#Severe thunderstorm watches in effect through early AM Sunday. Have a plan, be prepared.  http://t.co/AdNL6SOUU2 http://t.co/UieRkIlqs1",
+                "mytype": "tweet",
+                "score": 9.510638,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/455179406450098176",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "#Severe thunderstorm watches in effect through early AM Sunday. Have a plan, be prepared.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/455179406450098176",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1374246023,
+                "title": "Wrong place, right time for some #severe #weather http://t.co/ruQ2K7YPDH",
+                "url": "http://twitter.com/weatherchannel/status/358239903156420608",
+                "trackback_date": 1374246023,
+                "trackback_total": 21,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ruQ2K7YPDH",
+                        "display_url": "instagram.com/p/b8zC49Ad-s/",
+                        "expanded_url": "http://instagram.com/p/b8zC49Ad-s/",
+                        "topsy_expanded_url": "http://instagram.com/p/b8zC49Ad-s/"
+                    }
+                ],
+                "target_birth_date": 1374246023,
+                "content": "Wrong place, right time for some #severe #weather http://t.co/ruQ2K7YPDH",
+                "mytype": "tweet",
+                "score": 9.5102625,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/358239903156420608",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "Wrong place, right time for some #severe #weather",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/358239903156420608",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1381173688,
+                "title": "Just in: #Severe t'storm warning until 3:45pm for #NYC and many of its suburbs: http://t.co/MeQS4uc5Jt",
+                "url": "http://twitter.com/weatherchannel/status/387296636499922944",
+                "trackback_date": 1381173688,
+                "trackback_total": 24,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/MeQS4uc5Jt",
+                        "display_url": "wxch.nl/GHTwAp",
+                        "expanded_url": "http://wxch.nl/GHTwAp",
+                        "topsy_expanded_url": "http://www.weather.com/weather/alerts/localalerts/USNY0996?areaid=NYC061&etn=0048&hootPostID=bc881ff8c92d5ea2367b9aaa9bd825c1&office=KOKX&phenomena=SV&significance=W"
+                    }
+                ],
+                "target_birth_date": 1381173688,
+                "content": "Just in: #Severe t'storm warning until 3:45pm for #NYC and many of its suburbs: http://t.co/MeQS4uc5Jt",
+                "mytype": "tweet",
+                "score": 9.509969,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/387296636499922944",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "Just in: #Severe t'storm warning until 3:45pm for #NYC and many of its suburbs:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/387296636499922944",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1327292326,
+                "title": "#Severe Timing for #Alabama: http://t.co/W0oy1mT6 via NWS BHM",
+                "url": "http://twitter.com/jimcantore/status/161301826048770050",
+                "trackback_date": 1327292326,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/W0oy1mT6",
+                        "display_url": "srh.noaa.gov/graphicast.php\u2026",
+                        "expanded_url": "http://www.srh.noaa.gov/graphicast.php?site=BMX&gc=3",
+                        "topsy_expanded_url": "http://www.srh.noaa.gov/graphicast.php?site=BMX&gc=3"
+                    }
+                ],
+                "target_birth_date": 1327292326,
+                "content": "#Severe Timing for #Alabama: http://t.co/W0oy1mT6 via NWS BHM",
+                "mytype": "tweet",
+                "score": 9.509657,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/161301826048770050",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "#Severe Timing for #Alabama: via NWS BHM",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/161301826048770050",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1349875660,
+                "title": "#severe weather ramps up Friday and Saturday.  Looks to impact outdoor sporting venues: http://t.co/Vw08O0SS",
+                "url": "http://twitter.com/jimcantore/status/256023192773226497",
+                "trackback_date": 1349875660,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Vw08O0SS",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/"
+                    }
+                ],
+                "target_birth_date": 1349875660,
+                "content": "#severe weather ramps up Friday and Saturday.  Looks to impact outdoor sporting venues: http://t.co/Vw08O0SS",
+                "mytype": "tweet",
+                "score": 9.509163,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/256023192773226497",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "#severe weather ramps up Friday and Saturday. Looks to impact outdoor sporting venues:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/256023192773226497",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 42,
+                "firstpost_date": 1308601219,
+                "title": "Three, yes, THREE tornadoes spotted 6 miles south of Stamford, NE, per law enforcement.  Alert/radar:  http://wxch.nl/jJxNxA  #severe",
+                "url": "http://twitter.com/twcbreaking/status/82905638975451136",
+                "trackback_date": 1308601219,
+                "trackback_total": 45,
+                "url_expansions": [],
+                "target_birth_date": 1308601219,
+                "content": "Three, yes, THREE tornadoes spotted 6 miles south of Stamford, NE, per law enforcement.  Alert/radar:  http://wxch.nl/jJxNxA  #severe",
+                "mytype": "tweet",
+                "score": 9.509133,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/82905638975451136",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Three, yes, THREE tornadoes spotted 6 miles south of Stamford, NE, per law enforcement. Alert/radar:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/82905638975451136",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1333132008,
+                "title": "Ohio to Illinois area of interest for #severe: http://t.co/YvZHayO2  http://t.co/6a4R2DFs",
+                "url": "http://twitter.com/jimcantore/status/185795226537967616",
+                "trackback_date": 1333132008,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/YvZHayO2",
+                        "display_url": "spc.noaa.gov/products/md/md\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/md/md0389.html",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/md/md0389.html"
+                    },
+                    {
+                        "url": "http://t.co/6a4R2DFs",
+                        "display_url": "aviationweather.gov/adds/satellite\u2026",
+                        "expanded_url": "http://aviationweather.gov/adds/satellite/displaysat?region=EVV&isingle=mult_big&itype=vis",
+                        "topsy_expanded_url": "http://aviationweather.gov/adds/satellite/displaysat?region=EVV&isingle=mult_big&itype=vis"
+                    }
+                ],
+                "target_birth_date": 1333132008,
+                "content": "Ohio to Illinois area of interest for #severe: http://t.co/YvZHayO2  http://t.co/6a4R2DFs",
+                "mytype": "tweet",
+                "score": 9.507986,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/185795226537967616",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Ohio to Illinois area of interest for #severe:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/185795226537967616",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1359570844,
+                "title": "#Severe thunderstorm warning includes us at @weatherchannel headquarters near Atlanta.",
+                "url": "http://twitter.com/twcbreaking/status/296687742669172737",
+                "trackback_date": 1359570844,
+                "trackback_total": 24,
+                "url_expansions": [],
+                "target_birth_date": 1359570844,
+                "content": "#Severe thunderstorm warning includes us at @weatherchannel headquarters near Atlanta.",
+                "mytype": "tweet",
+                "score": 9.507269,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/296687742669172737",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "#Severe thunderstorm warning includes us at @weatherchannel headquarters near Atlanta.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/296687742669172737",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1338425666,
+                "title": "Wichita, KS #severe warning is for 80mph winds !! #KSwx",
+                "url": "http://twitter.com/jimcantore/status/207998435981393921",
+                "trackback_date": 1338425666,
+                "trackback_total": 13,
+                "url_expansions": [],
+                "target_birth_date": 1338425666,
+                "content": "Wichita, KS #severe warning is for 80mph winds !! #KSwx",
+                "mytype": "tweet",
+                "score": 9.506874,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/207998435981393921",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Wichita, KS #severe warning is for 80mph winds !!",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/207998435981393921",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 190,
+        "hidden": 0,
+        "total": 163342,
+        "page": 1
+    }
+}

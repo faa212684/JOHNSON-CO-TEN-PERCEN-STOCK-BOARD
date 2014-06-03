@@ -1,0 +1,283 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23fea&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=30",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#fea",
+            "window": "a",
+            "type": "tweet",
+            "offset": "30"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 31,
+                "firstpost_date": 1387224801,
+                "title": "Vi\u00f1eta de @jmanuelpuebla #fea http://t.co/imNv6G6rCY",
+                "url": "http://twitter.com/juezalaya/status/412676841963397120",
+                "trackback_date": 1387224801,
+                "trackback_total": 37,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/imNv6G6rCY",
+                        "display_url": "pic.twitter.com/imNv6G6rCY",
+                        "expanded_url": "http://twitter.com/JuezAlaya/status/412676841963397120/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BbofZrzCIAAe7DD.jpg"
+                    }
+                ],
+                "target_birth_date": 1387224801,
+                "content": "Vi\u00f1eta de @jmanuelpuebla #fea http://t.co/imNv6G6rCY",
+                "mytype": "tweet",
+                "score": 8.937399,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2169944036/juez-alaya-cortada--644x362_normal.jpg",
+                "trackback_permalink": "http://twitter.com/JuezAlaya/status/412676841963397120",
+                "trackback_author_url": "http://twitter.com/juezalaya",
+                "highlight": "Vi\u00f1eta de @jmanuelpuebla #fea",
+                "topsy_author_url": "http://topsy.com/twitter/juezalaya",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/juezalaya/status/412676841963397120",
+                "trackback_author_name": "Mercedes Alaya",
+                "trackback_author_nick": "juezalaya"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1400529631,
+                "title": "There's still time to stop the Unfair Elections Act! So, let's stop it from happening. http://t.co/pXgptfiQEp #cdnpoli #FEA",
+                "url": "http://twitter.com/rabbleca/status/468481346927865857",
+                "trackback_date": 1400529631,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/pXgptfiQEp",
+                        "display_url": "buff.ly/1j2rNG5",
+                        "expanded_url": "http://buff.ly/1j2rNG5",
+                        "topsy_expanded_url": "http://rabble.ca/blogs/bloggers/council-canadians/2014/05/theres-still-time-to-stop-unfair-elections-act"
+                    }
+                ],
+                "target_birth_date": 1400529631,
+                "content": "There's still time to stop the Unfair Elections Act! So, let's stop it from happening. http://t.co/pXgptfiQEp #cdnpoli #FEA",
+                "mytype": "tweet",
+                "score": 8.933331,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2284913841/gnhyd2wxl8hgj9zywp4s_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rabbleca/status/468481346927865857",
+                "trackback_author_url": "http://twitter.com/rabbleca",
+                "highlight": "There's still time to stop the Unfair Elections Act! So, let's stop it from happening. #cdnpoli",
+                "topsy_author_url": "http://topsy.com/twitter/rabbleca",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rabbleca/status/468481346927865857",
+                "trackback_author_name": "rabbleca",
+                "trackback_author_nick": "rabbleca"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1391751002,
+                "title": "No soy perfecta ni muy hermosa pero muy culera no estoy o si???!\ud83d\ude16 #mepongoapensar #loca #fea #bonita\u2026 http://t.co/VGbRhRUjiJ",
+                "url": "http://twitter.com/thailyvilla/status/431661105279426560",
+                "trackback_date": 1391751002,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/VGbRhRUjiJ",
+                        "display_url": "instagram.com/p/kGmm8qkEbZ/",
+                        "expanded_url": "http://instagram.com/p/kGmm8qkEbZ/",
+                        "topsy_expanded_url": "http://instagram.com/p/kGmm8qkEbZ/"
+                    }
+                ],
+                "target_birth_date": 1391751002,
+                "content": "No soy perfecta ni muy hermosa pero muy culera no estoy o si???!\ud83d\ude16 #mepongoapensar #loca #fea #bonita\u2026 http://t.co/VGbRhRUjiJ",
+                "mytype": "tweet",
+                "score": 8.929521,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472518561693724673/hcVdeUMy_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/thailyVilla/status/431661105279426560",
+                "trackback_author_url": "http://twitter.com/thailyvilla",
+                "highlight": "No soy perfecta ni muy hermosa pero muy culera no estoy o si???!\ud83d\ude16 #mepongoapensar #loca #fea #bonita\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/thailyvilla",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/thailyvilla/status/431661105279426560",
+                "trackback_author_name": "thaily Villalobos\u2665",
+                "trackback_author_nick": "thailyvilla"
+            },
+            {
+                "hits": 23,
+                "firstpost_date": 1398694966,
+                "title": "Here's a hilarious example of how terrible Conservatives are at trolling Twitter #cdnpol #FEA http://t.co/QOFUBLuxj1",
+                "url": "http://twitter.com/stephenlautens/status/460786203227205634",
+                "trackback_date": 1398694966,
+                "trackback_total": 28,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/QOFUBLuxj1",
+                        "display_url": "pic.twitter.com/QOFUBLuxj1",
+                        "expanded_url": "http://twitter.com/stephenlautens/status/460786203227205634/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BmUKnElCMAAgvLy.jpg"
+                    }
+                ],
+                "target_birth_date": 1398694966,
+                "content": "Here's a hilarious example of how terrible Conservatives are at trolling Twitter #cdnpol #FEA http://t.co/QOFUBLuxj1",
+                "mytype": "tweet",
+                "score": 8.91522,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000678895259/5c44b5046658777e24df52e41bdc6f18_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/stephenlautens/status/460786203227205634",
+                "trackback_author_url": "http://twitter.com/stephenlautens",
+                "highlight": "Here's a hilarious example of how terrible Conservatives are at trolling Twitter #cdnpol #FEA",
+                "topsy_author_url": "http://topsy.com/twitter/stephenlautens",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/stephenlautens/status/460786203227205634",
+                "trackback_author_name": "Stephen Lautens",
+                "trackback_author_nick": "stephenlautens"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1319922243,
+                "title": "Time to rock. Go bucks. #buckeyenation #FEA",
+                "url": "http://twitter.com/zboren44/status/130389455105302528",
+                "trackback_date": 1319922243,
+                "trackback_total": 9,
+                "url_expansions": [],
+                "target_birth_date": 1319922243,
+                "content": "Time to rock. Go bucks. #buckeyenation #FEA",
+                "mytype": "tweet",
+                "score": 8.912906,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000790754476/d764b4c0ce2b1793ee107e9a6b42ba13_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ZBoren44/status/130389455105302528",
+                "trackback_author_url": "http://twitter.com/zboren44",
+                "highlight": "Time to rock. Go bucks. #buckeyenation",
+                "topsy_author_url": "http://topsy.com/twitter/zboren44",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/zboren44/status/130389455105302528",
+                "trackback_author_name": "Zach Boren",
+                "trackback_author_nick": "zboren44"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1341606026,
+                "title": "bonito todo me parece bonito... menos tu #fea",
+                "url": "http://twitter.com/lolaenbarcelona/status/221337833699426305",
+                "trackback_date": 1341606026,
+                "trackback_total": 11,
+                "url_expansions": [],
+                "target_birth_date": 1341606026,
+                "content": "bonito todo me parece bonito... menos tu #fea",
+                "mytype": "tweet",
+                "score": 8.89304,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000329989396/f79c88d1b39d55515bdc1945b3407b1e_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/lolaenbarcelona/status/221337833699426305",
+                "trackback_author_url": "http://twitter.com/lolaenbarcelona",
+                "highlight": "bonito todo me parece bonito... menos tu",
+                "topsy_author_url": "http://topsy.com/twitter/lolaenbarcelona",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lolaenbarcelona/status/221337833699426305",
+                "trackback_author_name": "Lola",
+                "trackback_author_nick": "lolaenbarcelona"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1398859885,
+                "title": "MPs went through the election bill clause-by-clause late into the night - and @Kady was there http://t.co/oEDc8w9P6A #cdnpoli #c23 #fea",
+                "url": "http://twitter.com/cbcpolitics/status/461477922444832768",
+                "trackback_date": 1398859885,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/oEDc8w9P6A",
+                        "display_url": "cbc.ca/1.2625510",
+                        "expanded_url": "http://www.cbc.ca/1.2625510",
+                        "topsy_expanded_url": "http://www.cbc.ca/news/politics/live-blog-election-bill-goes-to-clause-by-clause-review-1.2625510"
+                    }
+                ],
+                "target_birth_date": 1398859885,
+                "content": "MPs went through the election bill clause-by-clause late into the night - and @Kady was there http://t.co/oEDc8w9P6A #cdnpoli #c23 #fea",
+                "mytype": "tweet",
+                "score": 8.887149,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468747307194667011/uB1Np-SA_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CBCPolitics/status/461477922444832768",
+                "trackback_author_url": "http://twitter.com/cbcpolitics",
+                "highlight": "MPs went through the election bill clause-by-clause late into the night - and @Kady was there #cdnpoli #c23",
+                "topsy_author_url": "http://topsy.com/twitter/cbcpolitics",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cbcpolitics/status/461477922444832768",
+                "trackback_author_name": "CBC Politics",
+                "trackback_author_nick": "cbcpolitics"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1398452263,
+                "title": "Tomorrow is a Day of Action against the 'Fair' Elections Act. So, @MKeelanBishop created this handy infographic. http://t.co/t65xkncRjV #FEA",
+                "url": "http://twitter.com/rabbleca/status/459768232627699712",
+                "trackback_date": 1398452263,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/t65xkncRjV",
+                        "display_url": "buff.ly/1k2m6ds",
+                        "expanded_url": "http://buff.ly/1k2m6ds",
+                        "topsy_expanded_url": "http://rabble.ca/news/2014/04/infographic-how-to-fight-fair-elections-act"
+                    }
+                ],
+                "target_birth_date": 1398452263,
+                "content": "Tomorrow is a Day of Action against the 'Fair' Elections Act. So, @MKeelanBishop created this handy infographic. http://t.co/t65xkncRjV #FEA",
+                "mytype": "tweet",
+                "score": 8.886169,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2284913841/gnhyd2wxl8hgj9zywp4s_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rabbleca/status/459768232627699712",
+                "trackback_author_url": "http://twitter.com/rabbleca",
+                "highlight": "Tomorrow is a Day of Action against the 'Fair' Elections Act. So, @MKeelanBishop created this handy infographic.",
+                "topsy_author_url": "http://topsy.com/twitter/rabbleca",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rabbleca/status/459768232627699712",
+                "trackback_author_name": "rabbleca",
+                "trackback_author_nick": "rabbleca"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1347564651,
+                "title": "\u201c@SEMARNAT_mx: Clic en http://t.co/KZY25hoN y ve im\u00e1genes de aves, nueva #galeriafotoSemarnat\u201d// Incluida la famosa Chachalaca #fea",
+                "url": "http://twitter.com/lopezdoriga/status/246330117113143297",
+                "trackback_date": 1347564651,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/KZY25hoN",
+                        "display_url": "bit.ly/Q67D12",
+                        "expanded_url": "http://bit.ly/Q67D12",
+                        "topsy_expanded_url": "http://www.semarnat.gob.mx/galeria/documents/seccion/especies/aves/aves.html"
+                    }
+                ],
+                "target_birth_date": 1347564651,
+                "content": "\u201c@SEMARNAT_mx: Clic en http://t.co/KZY25hoN y ve im\u00e1genes de aves, nueva #galeriafotoSemarnat\u201d// Incluida la famosa Chachalaca #fea",
+                "mytype": "tweet",
+                "score": 8.886063,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000178322238/1188176d33bc95f157814275a60c53b7_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/lopezdoriga/status/246330117113143297",
+                "trackback_author_url": "http://twitter.com/lopezdoriga",
+                "highlight": "\u201c@SEMARNAT_mx: Clic en y ve im\u00e1genes de aves, nueva #galeriafotoSemarnat\u201d// Incluida la famosa Chachalaca",
+                "topsy_author_url": "http://topsy.com/twitter/lopezdoriga",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lopezdoriga/status/246330117113143297",
+                "trackback_author_name": "Joaqu\u00edn L\u00f3pez-D\u00f3riga",
+                "trackback_author_nick": "lopezdoriga"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1356137081,
+                "title": "cuando le reclame a mi novio por ti me dijo, mi amor yo tengo buen gusto. #fea",
+                "url": "http://twitter.com/lolaenbarcelona/status/282285497848561665",
+                "trackback_date": 1356137081,
+                "trackback_total": 11,
+                "url_expansions": [],
+                "target_birth_date": 1356137081,
+                "content": "cuando le reclame a mi novio por ti me dijo, mi amor yo tengo buen gusto. #fea",
+                "mytype": "tweet",
+                "score": 8.883755,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000329989396/f79c88d1b39d55515bdc1945b3407b1e_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/lolaenbarcelona/status/282285497848561665",
+                "trackback_author_url": "http://twitter.com/lolaenbarcelona",
+                "highlight": "cuando le reclame a mi novio por ti me dijo, mi amor yo tengo buen gusto.",
+                "topsy_author_url": "http://topsy.com/twitter/lolaenbarcelona",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lolaenbarcelona/status/282285497848561665",
+                "trackback_author_name": "Lola",
+                "trackback_author_nick": "lolaenbarcelona"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 30,
+        "hidden": 0,
+        "total": 192541,
+        "page": 1
+    }
+}

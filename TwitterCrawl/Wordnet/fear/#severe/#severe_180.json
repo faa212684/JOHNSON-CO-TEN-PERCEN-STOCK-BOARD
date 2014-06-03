@@ -1,0 +1,296 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=180",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "180"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 19,
+                "firstpost_date": 1349053975,
+                "title": "#Atlanta and Birmingham included in tomorrows #severe weather potential with a chance at an isolated #tornado or 2: http://t.co/RXi9MFlx",
+                "url": "http://twitter.com/jimcantore/status/252576796397162497",
+                "trackback_date": 1349053975,
+                "trackback_total": 21,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RXi9MFlx",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/day2otlk.html",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/day2otlk.html"
+                    }
+                ],
+                "target_birth_date": 1349053975,
+                "content": "#Atlanta and Birmingham included in tomorrows #severe weather potential with a chance at an isolated #tornado or 2: http://t.co/RXi9MFlx",
+                "mytype": "tweet",
+                "score": 9.519529,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/252576796397162497",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "#Atlanta and Birmingham included in tomorrows #severe weather potential with a chance at an isolated #tornado or 2:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/252576796397162497",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 51,
+                "firstpost_date": 1330719662,
+                "title": "Funnel cloud sighted on southwest side of Owensboro, KY.  Alert/radar:  http://t.co/IqTCzCp6  #severe",
+                "url": "http://twitter.com/twcbreaking/status/175677112160747520",
+                "trackback_date": 1330719662,
+                "trackback_total": 53,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/IqTCzCp6",
+                        "display_url": "wxch.nl/ABTsQK",
+                        "expanded_url": "http://wxch.nl/ABTsQK",
+                        "topsy_expanded_url": "http://www.weather.com/weather/alerts/localalerts/USKY1212?areaid=KYC059&etn=0048&office=KPAH&phenomena=TO&significance=W"
+                    }
+                ],
+                "target_birth_date": 1330719662,
+                "content": "Funnel cloud sighted on southwest side of Owensboro, KY.  Alert/radar:  http://t.co/IqTCzCp6  #severe",
+                "mytype": "tweet",
+                "score": 9.519489,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/175677112160747520",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Funnel cloud sighted on southwest side of Owensboro, KY. Alert/radar:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/175677112160747520",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 39,
+                "firstpost_date": 1369108623,
+                "title": "#Severe weather updates continue through the night. Be sure to follow @TWCBreaking and watch the livestream at http://t.co/I6dx4kItLj",
+                "url": "http://twitter.com/weatherchannel/status/336692085128310784",
+                "trackback_date": 1369108623,
+                "trackback_total": 42,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/I6dx4kItLj",
+                        "display_url": "wxch.nl/11TwGiU",
+                        "expanded_url": "http://wxch.nl/11TwGiU",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/live-coverage-may-severe-outbreak-20130517?hootPostID=ba5c0da5c04c6909db295846a7badde9"
+                    }
+                ],
+                "target_birth_date": 1369108623,
+                "content": "#Severe weather updates continue through the night. Be sure to follow @TWCBreaking and watch the livestream at http://t.co/I6dx4kItLj",
+                "mytype": "tweet",
+                "score": 9.519364,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/336692085128310784",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "#Severe weather updates continue through the night. Be sure to follow @TWCBreaking and watch the livestream at",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/336692085128310784",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 37,
+                "firstpost_date": 1384610584,
+                "title": "Probabilities on the increase for Sunday #Severe event featuring damaging winds and a few tornadoes in hatched area: http://t.co/nQeVb2VHiA",
+                "url": "http://twitter.com/jimcantore/status/401712023517405184",
+                "trackback_date": 1384610584,
+                "trackback_total": 48,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/nQeVb2VHiA",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/day2probotlk_0700_any.gif",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/day2probotlk_0700_any.gif"
+                    }
+                ],
+                "target_birth_date": 1384610584,
+                "content": "Probabilities on the increase for Sunday #Severe event featuring damaging winds and a few tornadoes in hatched area: http://t.co/nQeVb2VHiA",
+                "mytype": "tweet",
+                "score": 9.519042,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/401712023517405184",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Probabilities on the increase for Sunday #Severe event featuring damaging winds and a few tornadoes in hatched area:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/401712023517405184",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1353966195,
+                "title": "Area in blue being monitored for a #Severe watch: http://t.co/nF2B1JB9 #TXWx #LAwx",
+                "url": "http://twitter.com/jimcantore/status/273180139834187776",
+                "trackback_date": 1353966195,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/nF2B1JB9",
+                        "display_url": "spc.noaa.gov/products/md/md\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/md/md2123.html",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/md/md2123.html"
+                    }
+                ],
+                "target_birth_date": 1353966195,
+                "content": "Area in blue being monitored for a #Severe watch: http://t.co/nF2B1JB9 #TXWx #LAwx",
+                "mytype": "tweet",
+                "score": 9.518359,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/273180139834187776",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Area in blue being monitored for a #Severe watch: #TXWx",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/273180139834187776",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 39,
+                "firstpost_date": 1330704165,
+                "title": "Back to back tornadoes. Still monitoring two active tornadoes just north of Huntsville, AL. http://t.co/SbMhVYBy #severe",
+                "url": "http://twitter.com/twcbreaking/status/175612114856181760",
+                "trackback_date": 1330704165,
+                "trackback_total": 42,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/SbMhVYBy",
+                        "display_url": "wxch.nl/y0mFCF",
+                        "expanded_url": "http://wxch.nl/y0mFCF",
+                        "topsy_expanded_url": "http://www.weather.com/weather/alerts/localalerts/USAL0400?areaid=ALC089&etn=0008&office=KHUN&phenomena=TO&significance=W"
+                    }
+                ],
+                "target_birth_date": 1330704165,
+                "content": "Back to back tornadoes. Still monitoring two active tornadoes just north of Huntsville, AL. http://t.co/SbMhVYBy #severe",
+                "mytype": "tweet",
+                "score": 9.517613,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/175612114856181760",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Back to back tornadoes. Still monitoring two active tornadoes just north of Huntsville, AL.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/175612114856181760",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 32,
+                "firstpost_date": 1368741624,
+                "title": "A #severe weather outbreak is possible this weekend.  http://t.co/hD59vExv0q",
+                "url": "http://twitter.com/weatherchannel/status/335152780748681216",
+                "trackback_date": 1368741624,
+                "trackback_total": 33,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/hD59vExv0q",
+                        "display_url": "wxch.nl/1052Otu",
+                        "expanded_url": "http://wxch.nl/1052Otu",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page?hootPostID=4b9742f507ce70ff97567bfe500e09bb"
+                    }
+                ],
+                "target_birth_date": 1368741624,
+                "content": "A #severe weather outbreak is possible this weekend.  http://t.co/hD59vExv0q",
+                "mytype": "tweet",
+                "score": 9.516284,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/335152780748681216",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "A #severe weather outbreak is possible this weekend.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/335152780748681216",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1358466226,
+                "title": "Line of enhanced wind and rain coming up through central North Carolina. Some #severe gusts possible. #NCwx http://t.co/FhVHbBuU",
+                "url": "http://twitter.com/jimcantore/status/292054634825125888",
+                "trackback_date": 1358466226,
+                "trackback_total": 17,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/FhVHbBuU",
+                        "expanded_url": "http://twitter.com/JimCantore/status/292054634825125888/photo/1",
+                        "display_url": "pic.twitter.com/FhVHbBuU"
+                    }
+                ],
+                "target_birth_date": 1358466226,
+                "content": "Line of enhanced wind and rain coming up through central North Carolina. Some #severe gusts possible. #NCwx http://t.co/FhVHbBuU",
+                "mytype": "tweet",
+                "score": 9.516186,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/292054634825125888",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Line of enhanced wind and rain coming up through central North Carolina. Some #severe gusts possible. #NCwx",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/292054634825125888",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 83,
+                "firstpost_date": 1303962252,
+                "title": "President Obama has declared an emergency in Alabama after Wednesday's tornado outbreak. #severe",
+                "url": "http://twitter.com/weatherchannel/status/63448400305209344",
+                "trackback_date": 1303962252,
+                "trackback_total": 94,
+                "url_expansions": [],
+                "target_birth_date": 1303962252,
+                "content": "President Obama has declared an emergency in Alabama after Wednesday's tornado outbreak. #severe",
+                "mytype": "tweet",
+                "score": 9.51288,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/63448400305209344",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "President Obama has declared an emergency in Alabama after Wednesday's tornado outbreak.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/63448400305209344",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 32,
+                "firstpost_date": 1330696199,
+                "title": "@drgregforbes goes to TORCON 9 for 1st time ever in MARCH: http://t.co/ABhZgzWu #tornado #severe",
+                "url": "http://twitter.com/jimcantore/status/175578702481072129",
+                "trackback_date": 1330696199,
+                "trackback_total": 34,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ABhZgzWu",
+                        "display_url": "weather.com/outlook/weathe\u2026",
+                        "expanded_url": "http://www.weather.com/outlook/weather-news/news/articles/daily-torcon-forecast_2011-07-11",
+                        "topsy_expanded_url": "http://www.weather.com/outlook/weather-news/news/articles/daily-torcon-forecast_2011-07-11"
+                    }
+                ],
+                "target_birth_date": 1330696199,
+                "content": "@drgregforbes goes to TORCON 9 for 1st time ever in MARCH: http://t.co/ABhZgzWu #tornado #severe",
+                "mytype": "tweet",
+                "score": 9.511766,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/175578702481072129",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": " goes to TORCON 9 for 1st time ever in MARCH: #tornado",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/175578702481072129",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 180,
+        "hidden": 0,
+        "total": 162081,
+        "page": 1
+    }
+}

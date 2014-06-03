@@ -1,0 +1,296 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=300",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "300"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 8,
+                "firstpost_date": 1374188114,
+                "title": "Flash Flood and #Severe Thunderstorm Warning for Manchester, NH: http://t.co/EMv6VxN94E #NHwx",
+                "url": "http://twitter.com/jimcantore/status/357997014346240000",
+                "trackback_date": 1374188114,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/EMv6VxN94E",
+                        "display_url": "radar.weather.gov/radar.php?prod\u2026",
+                        "expanded_url": "http://radar.weather.gov/radar.php?product=N0R&rid=BOX&loop=yes",
+                        "topsy_expanded_url": "http://radar.weather.gov/radar.php?loop=yes&product=N0R&rid=BOX"
+                    }
+                ],
+                "target_birth_date": 1374188114,
+                "content": "Flash Flood and #Severe Thunderstorm Warning for Manchester, NH: http://t.co/EMv6VxN94E #NHwx",
+                "mytype": "tweet",
+                "score": 9.452705,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/357997014346240000",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Flash Flood and #Severe Thunderstorm Warning for Manchester, NH:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/357997014346240000",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 15,
+                "firstpost_date": 1330732920,
+                "title": "Funnel cloud reported near Geneva, AL moving east.  Alert/radar:  http://t.co/caeWw9zL   #severe",
+                "url": "http://twitter.com/twcbreaking/status/175732722357121024",
+                "trackback_date": 1330732920,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/caeWw9zL",
+                        "display_url": "wxch.nl/y8cevQ",
+                        "expanded_url": "http://wxch.nl/y8cevQ",
+                        "topsy_expanded_url": "http://www.weather.com/weather/alerts/localalerts/USAL0231?areaid=ALC061&etn=0013&office=KTAE&phenomena=TO&significance=W"
+                    }
+                ],
+                "target_birth_date": 1330732920,
+                "content": "Funnel cloud reported near Geneva, AL moving east.  Alert/radar:  http://t.co/caeWw9zL   #severe",
+                "mytype": "tweet",
+                "score": 9.452415,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/175732722357121024",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Funnel cloud reported near Geneva, AL moving east. Alert/radar:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/175732722357121024",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 25,
+                "firstpost_date": 1351543564,
+                "title": "#Severe conditions at Rockaway, waves slamming into the bay wall #sandy http://t.co/FKXdKe5g",
+                "url": "http://twitter.com/nygovcuomo/status/263018888600625152",
+                "trackback_date": 1351543564,
+                "trackback_total": 28,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/FKXdKe5g",
+                        "display_url": "instagr.am/p/RYU4dmJHVQ/",
+                        "expanded_url": "http://instagr.am/p/RYU4dmJHVQ/",
+                        "topsy_expanded_url": "http://instagr.am/p/RYU4dmJHVQ/"
+                    }
+                ],
+                "target_birth_date": 1351543564,
+                "content": "#Severe conditions at Rockaway, waves slamming into the bay wall #sandy http://t.co/FKXdKe5g",
+                "mytype": "tweet",
+                "score": 9.452077,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1202639137/CuomoHeadshotFlickr_normal.jpg",
+                "trackback_permalink": "http://twitter.com/NYGovCuomo/status/263018888600625152",
+                "trackback_author_url": "http://twitter.com/nygovcuomo",
+                "highlight": "#Severe conditions at Rockaway, waves slamming into the bay wall #sandy",
+                "topsy_author_url": "http://topsy.com/twitter/nygovcuomo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nygovcuomo/status/263018888600625152",
+                "trackback_author_name": "Andrew Cuomo",
+                "trackback_author_nick": "nygovcuomo"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1394659220,
+                "title": "Outline of the #severe t'storm watch until 10pm. Zoomable version: http://t.co/tQqPfwWBob http://t.co/YpOcJDF0p3",
+                "url": "http://twitter.com/weatherchannel/status/443859058160713728",
+                "trackback_date": 1394659220,
+                "trackback_total": 22,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/tQqPfwWBob",
+                        "display_url": "weather.com/weather/map/in\u2026",
+                        "expanded_url": "http://www.weather.com/weather/map/interactive/?lat=37&lon=-79&zoom=7&layers=0039,0123&_rd=n",
+                        "topsy_expanded_url": "http://www.weather.com/weather/map/interactive/?lon=-79&zoom=7&layers=0039,0123&lat=37&_rd=n"
+                    },
+                    {
+                        "url": "http://t.co/YpOcJDF0p3",
+                        "display_url": "pic.twitter.com/YpOcJDF0p3",
+                        "expanded_url": "http://twitter.com/weatherchannel/status/443859058160713728/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BijndhPCQAAJ7cS.png"
+                    }
+                ],
+                "target_birth_date": 1394659220,
+                "content": "Outline of the #severe t'storm watch until 10pm. Zoomable version: http://t.co/tQqPfwWBob http://t.co/YpOcJDF0p3",
+                "mytype": "tweet",
+                "score": 9.451796,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/443859058160713728",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "Outline of the #severe t'storm watch until 10pm. Zoomable version:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/443859058160713728",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1401373494,
+                "title": "#Severe outbreak possible this weekend. http://t.co/TmraPyOymY",
+                "url": "http://twitter.com/weatherchannel/status/472020762829025280",
+                "trackback_date": 1401373494,
+                "trackback_total": 15,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/TmraPyOymY",
+                        "display_url": "wxch.nl/ShoVz6",
+                        "expanded_url": "http://wxch.nl/ShoVz6",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page?hootPostID=f40ee4f352a98486b32fc55cc31cc191"
+                    }
+                ],
+                "target_birth_date": 1401373494,
+                "content": "#Severe outbreak possible this weekend. http://t.co/TmraPyOymY",
+                "mytype": "tweet",
+                "score": 9.450978,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/472020762829025280",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "#Severe outbreak possible this weekend.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/472020762829025280",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1392916948,
+                "title": "For more frequent updates on today's #severe outbreak, follow @TWCBreaking or our live blog: http://t.co/osPBQSp1e6",
+                "url": "http://twitter.com/weatherchannel/status/436551438488338434",
+                "trackback_date": 1392916948,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/osPBQSp1e6",
+                        "display_url": "wxch.nl/1mepa8h",
+                        "expanded_url": "http://wxch.nl/1mepa8h",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-outbreak-february-20-live-updates-20140220"
+                    }
+                ],
+                "target_birth_date": 1392916948,
+                "content": "For more frequent updates on today's #severe outbreak, follow @TWCBreaking or our live blog: http://t.co/osPBQSp1e6",
+                "mytype": "tweet",
+                "score": 9.450809,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/436551438488338434",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "For more frequent updates on today's #severe outbreak, follow @TWCBreaking or our live blog:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/436551438488338434",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 50,
+                "firstpost_date": 1303942827,
+                "title": "Reports that Tuscaloosa #tornado may be 1 mile wide.  TAKE COVER NOW!  Latest radar:  http://wxch.nl/mie4C2  #severe",
+                "url": "http://twitter.com/twcbreaking/status/63366928575639552",
+                "trackback_date": 1303942827,
+                "trackback_total": 60,
+                "url_expansions": [],
+                "target_birth_date": 1303942827,
+                "content": "Reports that Tuscaloosa #tornado may be 1 mile wide.  TAKE COVER NOW!  Latest radar:  http://wxch.nl/mie4C2  #severe",
+                "mytype": "tweet",
+                "score": 9.450214,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63366928575639552",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Reports that Tuscaloosa #tornado may be 1 mile wide. TAKE COVER NOW! Latest radar:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63366928575639552",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1361466809,
+                "title": "Supercells are rotating thunderstorms.  East Texas being monitored: http://t.co/qE6WgNaNNk  #Severe #TXwx",
+                "url": "http://twitter.com/jimcantore/status/304639997070438401",
+                "trackback_date": 1361466809,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/qE6WgNaNNk",
+                        "display_url": "spc.noaa.gov/products/md/md\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/md/md0188.html",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/md/md0188.html"
+                    }
+                ],
+                "target_birth_date": 1361466809,
+                "content": "Supercells are rotating thunderstorms.  East Texas being monitored: http://t.co/qE6WgNaNNk  #Severe #TXwx",
+                "mytype": "tweet",
+                "score": 9.4502,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/304639997070438401",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Supercells are rotating thunderstorms. East Texas being monitored: #Severe",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/304639997070438401",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 40,
+                "firstpost_date": 1327326033,
+                "title": "RT @weatherchannel: Photo of Center Point, AL damage. 360 Panorama http://t.co/1NTwMURl via @xryanrussellx #severe #alwx",
+                "url": "http://twitter.com/twcbreaking/status/161443201180385280",
+                "trackback_date": 1327326033,
+                "trackback_total": 45,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1NTwMURl",
+                        "display_url": "360.io/hBK3PZ",
+                        "expanded_url": "http://360.io/hBK3PZ",
+                        "topsy_expanded_url": "http://360.io/hBK3PZ"
+                    }
+                ],
+                "target_birth_date": 1327326033,
+                "content": "RT @weatherchannel: Photo of Center Point, AL damage. 360 Panorama http://t.co/1NTwMURl via @xryanrussellx #severe #alwx",
+                "mytype": "tweet",
+                "score": 9.449801,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/161443201180385280",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Photo of Center Point, AL damage. 360 Panorama via @xryanrussellx #severe",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/161443201180385280",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 96,
+                "firstpost_date": 1303948741,
+                "title": "RT @Warriordog1011 (via: @danamlewis). Tuscaloosa damage is hard to comprehend. http://www.twitpic.com/4qaxnn #severe",
+                "url": "http://twitter.com/twcbreaking/status/63391730812203008",
+                "trackback_date": 1303948741,
+                "trackback_total": 106,
+                "url_expansions": [],
+                "target_birth_date": 1303948741,
+                "content": "RT @Warriordog1011 (via: @danamlewis). Tuscaloosa damage is hard to comprehend. http://www.twitpic.com/4qaxnn #severe",
+                "mytype": "tweet",
+                "score": 9.449545,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63391730812203008",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "RT @Warriordog1011 (via: @danamlewis). Tuscaloosa damage is hard to comprehend.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63391730812203008",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 300,
+        "hidden": 0,
+        "total": 163404,
+        "page": 1
+    }
+}

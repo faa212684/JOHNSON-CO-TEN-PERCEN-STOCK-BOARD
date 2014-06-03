@@ -1,0 +1,281 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=620",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "620"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 12,
+                "firstpost_date": 1303936187,
+                "title": "Large tornado on ground near Hackleburg, AL.  Warning info, radar: http://wxch.nl/j2l9yj #severe",
+                "url": "http://twitter.com/twcbreaking/status/63339078820700160",
+                "trackback_date": 1303936187,
+                "trackback_total": 12,
+                "url_expansions": [],
+                "target_birth_date": 1303936187,
+                "content": "Large tornado on ground near Hackleburg, AL.  Warning info, radar: http://wxch.nl/j2l9yj #severe",
+                "mytype": "tweet",
+                "score": 9.335343,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63339078820700160",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Large tornado on ground near Hackleburg, AL. Warning info, radar:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63339078820700160",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 32,
+                "firstpost_date": 1368838694,
+                "title": "#Tornado near Eliasville a few moments ago from our own David Drummond. #txwx #severe http://t.co/5EYtqyqePI",
+                "url": "http://twitter.com/txstormchasers/status/335559923737976832",
+                "trackback_date": 1368838694,
+                "trackback_total": 36,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/5EYtqyqePI",
+                        "display_url": "twitpic.com/crapz8",
+                        "expanded_url": "http://twitpic.com/crapz8",
+                        "topsy_expanded_url": "http://twitpic.com/crapz8"
+                    }
+                ],
+                "target_birth_date": 1368838694,
+                "content": "#Tornado near Eliasville a few moments ago from our own David Drummond. #txwx #severe http://t.co/5EYtqyqePI",
+                "mytype": "tweet",
+                "score": 9.3351965,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459925607606792193/By6IUBvs_normal.png",
+                "trackback_permalink": "http://twitter.com/TxStormChasers/status/335559923737976832",
+                "trackback_author_url": "http://twitter.com/txstormchasers",
+                "highlight": "#Tornado near Eliasville a few moments ago from our own David Drummond. #txwx #severe",
+                "topsy_author_url": "http://topsy.com/twitter/txstormchasers",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/txstormchasers/status/335559923737976832",
+                "trackback_author_name": "Texas Storm Chasers",
+                "trackback_author_nick": "txstormchasers"
+            },
+            {
+                "hits": 40,
+                "firstpost_date": 1360594741,
+                "title": "#snow highlights Springfield #tornado path RT @keithrivet Hey Jim have you seen this? http://t.co/ygaF8gzF #severe via @spilillo",
+                "url": "http://twitter.com/jimcantore/status/300982279197564928",
+                "trackback_date": 1360594741,
+                "trackback_total": 47,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ygaF8gzF",
+                        "expanded_url": "http://twitter.com/keithrivet/status/300974738568777728/photo/1",
+                        "display_url": "pic.twitter.com/ygaF8gzF"
+                    }
+                ],
+                "target_birth_date": 1360594741,
+                "content": "#snow highlights Springfield #tornado path RT @keithrivet Hey Jim have you seen this? http://t.co/ygaF8gzF #severe via @spilillo",
+                "mytype": "tweet",
+                "score": 9.335086,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/300982279197564928",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "#snow highlights Springfield #tornado path RT @keithrivet Hey Jim have you seen this? #severe via @spilillo",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/300982279197564928",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1342656632,
+                "title": "Apex of 70mph BOW to move from Juneau to Jefferson, WI: http://t.co/dcbpDQaH #Severe #WIwx",
+                "url": "http://twitter.com/jimcantore/status/225744393343213568",
+                "trackback_date": 1342656632,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/dcbpDQaH",
+                        "display_url": "radar.weather.gov/ridge/radar.ph\u2026",
+                        "expanded_url": "http://radar.weather.gov/ridge/radar.php?rid=mkx&product=N0R&overlay=11101111&loop=no",
+                        "topsy_expanded_url": "http://radar.weather.gov/ridge/radar.php?rid=mkx&product=N0R&overlay=11101111&loop=no"
+                    }
+                ],
+                "target_birth_date": 1342656632,
+                "content": "Apex of 70mph BOW to move from Juneau to Jefferson, WI: http://t.co/dcbpDQaH #Severe #WIwx",
+                "mytype": "tweet",
+                "score": 9.33439,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/225744393343213568",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Apex of 70mph BOW to move from Juneau to Jefferson, WI: #Severe",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/225744393343213568",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1401310553,
+                "title": "New: #Severe t'storm watch until 10pm MDT for parts of Montana and Wyoming.  http://t.co/GttRhBXbl9 http://t.co/Ljforsn4vy",
+                "url": "http://twitter.com/weatherchannel/status/471756771938562048",
+                "trackback_date": 1401310553,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/GttRhBXbl9",
+                        "display_url": "wxch.nl/1koqjLI",
+                        "expanded_url": "http://wxch.nl/1koqjLI",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page?hootPostID=f97a85b263e77ce08be6c34a2024302f"
+                    },
+                    {
+                        "url": "http://t.co/Ljforsn4vy",
+                        "display_url": "pic.twitter.com/Ljforsn4vy",
+                        "expanded_url": "http://twitter.com/weatherchannel/status/471756771938562048/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BowESMnIAAASZFp.png"
+                    }
+                ],
+                "target_birth_date": 1401310553,
+                "content": "New: #Severe t'storm watch until 10pm MDT for parts of Montana and Wyoming.  http://t.co/GttRhBXbl9 http://t.co/Ljforsn4vy",
+                "mytype": "tweet",
+                "score": 9.333904,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/471756771938562048",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "New: #Severe t'storm watch until 10pm MDT for parts of Montana and Wyoming.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/471756771938562048",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1392926204,
+                "title": "#Severe t-storm watch until 7pm CT includes St. Louis and Springfield, IL. http://t.co/C8HxFHI2i5",
+                "url": "http://twitter.com/twcbreaking/status/436590263684046850",
+                "trackback_date": 1392926204,
+                "trackback_total": 19,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/C8HxFHI2i5",
+                        "display_url": "ow.ly/i/4F6xL",
+                        "expanded_url": "http://ow.ly/i/4F6xL",
+                        "topsy_expanded_url": "http://ow.ly/i/4F6xL"
+                    }
+                ],
+                "target_birth_date": 1392926204,
+                "content": "#Severe t-storm watch until 7pm CT includes St. Louis and Springfield, IL. http://t.co/C8HxFHI2i5",
+                "mytype": "tweet",
+                "score": 9.333449,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/436590263684046850",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "#Severe t-storm watch until 7pm CT includes St. Louis and Springfield, IL.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/436590263684046850",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1303852091,
+                "title": "Funnel cloud spotted over Ennis, TX by local police dept. #severe",
+                "url": "http://twitter.com/twcbreaking/status/62986354878988288",
+                "trackback_date": 1303852091,
+                "trackback_total": 13,
+                "url_expansions": [],
+                "target_birth_date": 1303852091,
+                "content": "Funnel cloud spotted over Ennis, TX by local police dept. #severe",
+                "mytype": "tweet",
+                "score": 9.333384,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/62986354878988288",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Funnel cloud spotted over Ennis, TX by local police dept.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/62986354878988288",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 45,
+                "firstpost_date": 1369104942,
+                "title": "At 9:47pm CDT, the airport in St. Charles, MO reported a gust to 69 mph as #severe storms march into the St Louis metro. #MOwx",
+                "url": "http://twitter.com/twcbreaking/status/336676648034385920",
+                "trackback_date": 1369104942,
+                "trackback_total": 56,
+                "url_expansions": [],
+                "target_birth_date": 1369104942,
+                "content": "At 9:47pm CDT, the airport in St. Charles, MO reported a gust to 69 mph as #severe storms march into the St Louis metro. #MOwx",
+                "mytype": "tweet",
+                "score": 9.333102,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/336676648034385920",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "At 9:47pm CDT, the airport in St. Charles, MO reported a gust to 69 mph as #severe storms march into the St Louis metro.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/336676648034385920",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1389456571,
+                "title": "New #severe t-storm watch issued until 6 pm ET for SW Ga., far SE Ala. and a part of N Fla. Map: http://t.co/MJgaqrV0UF",
+                "url": "http://twitter.com/twcbreaking/status/422037565848715264",
+                "trackback_date": 1389456571,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/MJgaqrV0UF",
+                        "display_url": "ow.ly/sugh3",
+                        "expanded_url": "http://ow.ly/sugh3",
+                        "topsy_expanded_url": "http://www.weather.com/newscenter/alerts/region/severeWxAlertsSEUS.html?hootPostID=c1dee0e7e8455ac092325e53f2303c9f"
+                    }
+                ],
+                "target_birth_date": 1389456571,
+                "content": "New #severe t-storm watch issued until 6 pm ET for SW Ga., far SE Ala. and a part of N Fla. Map: http://t.co/MJgaqrV0UF",
+                "mytype": "tweet",
+                "score": 9.333094,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/422037565848715264",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "New #severe t-storm watch issued until 6 pm ET for SW Ga., far SE Ala. and a part of N Fla. Map:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/422037565848715264",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 20,
+                "firstpost_date": 1303864807,
+                "title": "NWS has issued 8 #tornado warnings today for Navarro County, TX.  #severe",
+                "url": "http://twitter.com/twcbreaking/status/63039685966045184",
+                "trackback_date": 1303864807,
+                "trackback_total": 19,
+                "url_expansions": [],
+                "target_birth_date": 1303864807,
+                "content": "NWS has issued 8 #tornado warnings today for Navarro County, TX.  #severe",
+                "mytype": "tweet",
+                "score": 9.3321,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63039685966045184",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "NWS has issued 8 #tornado warnings today for Navarro County, TX.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63039685966045184",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 620,
+        "hidden": 0,
+        "total": 162983,
+        "page": 1
+    }
+}

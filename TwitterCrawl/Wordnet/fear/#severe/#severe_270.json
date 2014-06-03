@@ -1,0 +1,296 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=270",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "270"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 13,
+                "firstpost_date": 1374372462,
+                "title": "#Severe thunderstorm warning for #Philadelphia until 11:00 pm ET.  http://t.co/Fppqda3vju",
+                "url": "http://twitter.com/weatherchannel/status/358770228093648897",
+                "trackback_date": 1374372462,
+                "trackback_total": 23,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Fppqda3vju",
+                        "display_url": "ow.ly/na7uK",
+                        "expanded_url": "http://ow.ly/na7uK",
+                        "topsy_expanded_url": "http://www.weather.com/weather/alerts/localalerts/USPA1276?areaid=PAC101&etn=0077&hootPostID=a6b0e0f96ffdc88674a44a6bf3e6d8d0&office=KPHI&phenomena=SV&significance=W"
+                    }
+                ],
+                "target_birth_date": 1374372462,
+                "content": "#Severe thunderstorm warning for #Philadelphia until 11:00 pm ET.  http://t.co/Fppqda3vju",
+                "mytype": "tweet",
+                "score": 9.4729,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/358770228093648897",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "#Severe thunderstorm warning for #Philadelphia until 11:00 pm ET.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/358770228093648897",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 15,
+                "firstpost_date": 1303944294,
+                "title": "Damage to 20 homes in Walker County, GA, one completely destroyed.  #severe",
+                "url": "http://twitter.com/twcbreaking/status/63373080310976513",
+                "trackback_date": 1303944294,
+                "trackback_total": 16,
+                "url_expansions": [],
+                "target_birth_date": 1303944294,
+                "content": "Damage to 20 homes in Walker County, GA, one completely destroyed.  #severe",
+                "mytype": "tweet",
+                "score": 9.472134,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/63373080310976513",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Damage to 20 homes in Walker County, GA, one completely destroyed.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/63373080310976513",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1338389492,
+                "title": "As we transition into our cool break in the east expect 3 very active day of #severe weather! http://t.co/Vw08O0SS",
+                "url": "http://twitter.com/jimcantore/status/207846713107554305",
+                "trackback_date": 1338389492,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Vw08O0SS",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/"
+                    }
+                ],
+                "target_birth_date": 1338389492,
+                "content": "As we transition into our cool break in the east expect 3 very active day of #severe weather! http://t.co/Vw08O0SS",
+                "mytype": "tweet",
+                "score": 9.471306,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/207846713107554305",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "As we transition into our cool break in the east expect 3 very active day of #severe weather!",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/207846713107554305",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 45,
+                "firstpost_date": 1356281555,
+                "title": "Major #severe weather threat, including #tornadoes, looms for #Christmas in the South.  http://t.co/3EF35zdy",
+                "url": "http://twitter.com/weatherchannel/status/282891464596389888",
+                "trackback_date": 1356281555,
+                "trackback_total": 52,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3EF35zdy",
+                        "display_url": "wxch.nl/LoLoAW",
+                        "expanded_url": "http://wxch.nl/LoLoAW",
+                        "topsy_expanded_url": "http://www.weather.com/news/weather-severe/severe-weather-tracker"
+                    }
+                ],
+                "target_birth_date": 1356281555,
+                "content": "Major #severe weather threat, including #tornadoes, looms for #Christmas in the South.  http://t.co/3EF35zdy",
+                "mytype": "tweet",
+                "score": 9.47084,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/282891464596389888",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "Major #severe weather threat, including #tornadoes, looms for #Christmas in the South.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/282891464596389888",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1330739872,
+                "title": "Fire/rescue reports damage to structures west of Dallas, GA.  #severe",
+                "url": "http://twitter.com/twcbreaking/status/175761882483924992",
+                "trackback_date": 1330739872,
+                "trackback_total": 14,
+                "url_expansions": [],
+                "target_birth_date": 1330739872,
+                "content": "Fire/rescue reports damage to structures west of Dallas, GA.  #severe",
+                "mytype": "tweet",
+                "score": 9.470016,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/175761882483924992",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Fire/rescue reports damage to structures west of Dallas, GA.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/175761882483924992",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1353939227,
+                "title": "It's been awhile.  #Severe weather threat today in parts of the South:  http://t.co/h2NU2ePA",
+                "url": "http://twitter.com/weatherchannel/status/273067028334665728",
+                "trackback_date": 1353939227,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/h2NU2ePA",
+                        "display_url": "wxch.nl/IpVWTm",
+                        "expanded_url": "http://wxch.nl/IpVWTm",
+                        "topsy_expanded_url": "http://www.weather.com/news/severe-weather-tracker"
+                    }
+                ],
+                "target_birth_date": 1353939227,
+                "content": "It's been awhile.  #Severe weather threat today in parts of the South:  http://t.co/h2NU2ePA",
+                "mytype": "tweet",
+                "score": 9.469494,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/273067028334665728",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "It's been awhile. #Severe weather threat today in parts of the South:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/273067028334665728",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1399464119,
+                "title": "Our break from #severe weather is coming to an end. See if you're in the threat the next three days. http://t.co/E89RIj52EV",
+                "url": "http://twitter.com/weatherchannel/status/464012265448947714",
+                "trackback_date": 1399464119,
+                "trackback_total": 19,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/E89RIj52EV",
+                        "display_url": "wxch.nl/1kLgZ1o",
+                        "expanded_url": "http://wxch.nl/1kLgZ1o",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page?hootPostID=e4c03e794d2b74345268a57e26b07c5d"
+                    }
+                ],
+                "target_birth_date": 1399464119,
+                "content": "Our break from #severe weather is coming to an end. See if you're in the threat the next three days. http://t.co/E89RIj52EV",
+                "mytype": "tweet",
+                "score": 9.469371,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/464012265448947714",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "Our break from #severe weather is coming to an end. See if you're in the threat the next three days.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/464012265448947714",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1363527779,
+                "title": "Monday #Severe still on tap even though SPC probabilities aren't that high: http://t.co/w3d2T1LiZQ",
+                "url": "http://twitter.com/jimcantore/status/313284331797889025",
+                "trackback_date": 1363527779,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/w3d2T1LiZQ",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/day2probotlk_0600_any.gif",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/day2probotlk_0600_any.gif"
+                    }
+                ],
+                "target_birth_date": 1363527779,
+                "content": "Monday #Severe still on tap even though SPC probabilities aren't that high: http://t.co/w3d2T1LiZQ",
+                "mytype": "tweet",
+                "score": 9.46808,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/313284331797889025",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Monday #Severe still on tap even though SPC probabilities aren't that high:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/313284331797889025",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 42,
+                "firstpost_date": 1313496300,
+                "title": "The Indiana State Fair tragedy was no weather \"fluke\":   http://t.co/cwF8iJx  #severe  #inwx",
+                "url": "http://twitter.com/weatherchannel/status/103437098987683840",
+                "trackback_date": 1313496300,
+                "trackback_total": 42,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cwF8iJx",
+                        "display_url": "wxch.nl/ngLewI",
+                        "expanded_url": "http://wxch.nl/ngLewI",
+                        "topsy_expanded_url": "http://www.weather.com/outlook/weather-news/news/articles/indianapolis-tragedy-not-a-fluke_2011-08-15"
+                    }
+                ],
+                "target_birth_date": 1313496300,
+                "content": "The Indiana State Fair tragedy was no weather \"fluke\":   http://t.co/cwF8iJx  #severe  #inwx",
+                "mytype": "tweet",
+                "score": 9.466907,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/103437098987683840",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "The Indiana State Fair tragedy was no weather \"fluke\": #severe",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/103437098987683840",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 50,
+                "firstpost_date": 1398252465,
+                "title": "#Severe weather threat will ramp up in the Plains today and this weekend. Latest forecast: http://t.co/6Goi05aCl0 http://t.co/x0Otf6kg9n",
+                "url": "http://twitter.com/weatherchannel/status/458930218695413760",
+                "trackback_date": 1398252465,
+                "trackback_total": 54,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/6Goi05aCl0",
+                        "display_url": "wxch.nl/1mDcmLE",
+                        "expanded_url": "http://wxch.nl/1mDcmLE",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page?hootPostID=14eaeaf9a65082eae6536bf28125cda6"
+                    },
+                    {
+                        "url": "http://t.co/x0Otf6kg9n",
+                        "display_url": "pic.twitter.com/x0Otf6kg9n",
+                        "expanded_url": "http://twitter.com/weatherchannel/status/458930218695413760/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bl5ymiuIYAA7asp.jpg"
+                    }
+                ],
+                "target_birth_date": 1398252465,
+                "content": "#Severe weather threat will ramp up in the Plains today and this weekend. Latest forecast: http://t.co/6Goi05aCl0 http://t.co/x0Otf6kg9n",
+                "mytype": "tweet",
+                "score": 9.466669,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/458930218695413760",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "#Severe weather threat will ramp up in the Plains today and this weekend. Latest forecast:",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/458930218695413760",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 270,
+        "hidden": 0,
+        "total": 163932,
+        "page": 1
+    }
+}

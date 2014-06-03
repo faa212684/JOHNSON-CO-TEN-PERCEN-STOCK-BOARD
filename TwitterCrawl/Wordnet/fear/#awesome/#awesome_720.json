@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23awesome&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=720",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#awesome",
+            "window": "a",
+            "type": "tweet",
+            "offset": "720"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 12,
+                "firstpost_date": 1327423685,
+                "title": "This #1 Social Entertainment app is #awesome! I love it, and you'll love it too! Today Only: FREE! =&gt; http://t.co/D8CTURkK - spon",
+                "url": "http://twitter.com/ihatequotes/status/161852785766318082",
+                "trackback_date": 1327423685,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/D8CTURkK",
+                        "display_url": "mylikes.com/l/1t6Am",
+                        "expanded_url": "http://mylikes.com/l/1t6Am",
+                        "topsy_expanded_url": "http://mylikes.com/l/1t6Am"
+                    }
+                ],
+                "target_birth_date": 1327423685,
+                "content": "This #1 Social Entertainment app is #awesome! I love it, and you'll love it too! Today Only: FREE! =&gt; http://t.co/D8CTURkK - spon",
+                "mytype": "tweet",
+                "score": 9.694044,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2412791337/lkyqkzotm9t66ehyiiam_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ihatequotes/status/161852785766318082",
+                "trackback_author_url": "http://twitter.com/ihatequotes",
+                "highlight": "This #1 Social Entertainment app is #awesome! I love it, and you'll love it too! Today Only: FREE! =&gt; - spon",
+                "topsy_author_url": "http://topsy.com/twitter/ihatequotes",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ihatequotes/status/161852785766318082",
+                "trackback_author_name": "ihatequotes\u2122",
+                "trackback_author_nick": "ihatequotes"
+            },
+            {
+                "hits": 406,
+                "firstpost_date": 1389055913,
+                "title": "The Charlie Brown version of Zeppelin #Awesome http://t.co/8TuVXykUdf",
+                "url": "http://twitter.com/ledzeppelin_/status/420357084841246720",
+                "trackback_date": 1389055913,
+                "trackback_total": 477,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8TuVXykUdf",
+                        "display_url": "pic.twitter.com/8TuVXykUdf",
+                        "expanded_url": "http://twitter.com/LedZeppelin_/status/420357084841246720/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BdVoipkIQAAixri.jpg"
+                    }
+                ],
+                "target_birth_date": 1389055913,
+                "content": "The Charlie Brown version of Zeppelin #Awesome http://t.co/8TuVXykUdf",
+                "mytype": "tweet",
+                "score": 9.693693,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2396314541/ay546c007awa0bj9szzv_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LedZeppelin_/status/420357084841246720",
+                "trackback_author_url": "http://twitter.com/ledzeppelin_",
+                "highlight": "The Charlie Brown version of Zeppelin #Awesome",
+                "topsy_author_url": "http://topsy.com/twitter/ledzeppelin_",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ledzeppelin_/status/420357084841246720",
+                "trackback_author_name": "Led Zeppelin",
+                "trackback_author_nick": "ledzeppelin_"
+            },
+            {
+                "hits": 23,
+                "firstpost_date": 1302418996,
+                "title": "playing the acoustic guitar my parents bought me in high school. Feels/sounds exactly the same #awesome. I'm just playing it differently.",
+                "url": "http://twitter.com/johnlloydtaylor/status/56975516770648064",
+                "trackback_date": 1302418996,
+                "trackback_total": 40,
+                "url_expansions": [],
+                "target_birth_date": 1302418996,
+                "content": "playing the acoustic guitar my parents bought me in high school. Feels/sounds exactly the same #awesome. I'm just playing it differently.",
+                "mytype": "tweet",
+                "score": 9.693196,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1805301980/403281_285927668137396_100001604950917_817816_729629582_n_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JohnLloydTaylor/status/56975516770648064",
+                "trackback_author_url": "http://twitter.com/johnlloydtaylor",
+                "highlight": "playing the acoustic guitar my parents bought me in high school. Feels/sounds exactly the same #awesome. I'm just playing it differently.",
+                "topsy_author_url": "http://topsy.com/twitter/johnlloydtaylor",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/johnlloydtaylor/status/56975516770648064",
+                "trackback_author_name": "John Taylor",
+                "trackback_author_nick": "johnlloydtaylor"
+            },
+            {
+                "hits": 37,
+                "firstpost_date": 1388887358,
+                "title": "Yes! #awesome RT @Pilbord: Getting in the zone for #SithBusters @SophiaBush @donttrythis @JamieNoTweet @MythBusters http://t.co/EXdsVjGLff",
+                "url": "http://twitter.com/sophiabush/status/419650114370547712",
+                "trackback_date": 1388887358,
+                "trackback_total": 47,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/EXdsVjGLff",
+                        "display_url": "pic.twitter.com/EXdsVjGLff",
+                        "expanded_url": "http://twitter.com/Pilbord/status/419646198954610689/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BdLh_pCIEAAHlIt.jpg"
+                    }
+                ],
+                "target_birth_date": 1388887358,
+                "content": "Yes! #awesome RT @Pilbord: Getting in the zone for #SithBusters @SophiaBush @donttrythis @JamieNoTweet @MythBusters http://t.co/EXdsVjGLff",
+                "mytype": "tweet",
+                "score": 9.692819,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/443790246824513536/qHiwSLkm_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SophiaBush/status/419650114370547712",
+                "trackback_author_url": "http://twitter.com/sophiabush",
+                "highlight": "Yes! #awesomeGetting in the zone for #SithBusters @SophiaBush @donttrythis @JamieNoTweet @MythBusters",
+                "topsy_author_url": "http://topsy.com/twitter/sophiabush",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sophiabush/status/419650114370547712",
+                "trackback_author_name": "Sophia Bush",
+                "trackback_author_nick": "sophiabush"
+            },
+            {
+                "hits": 40,
+                "firstpost_date": 1379317223,
+                "title": "Thank you to everybody that came out to see me at Montreal Comicon this weekend! Most insane comicon EVER #awesome #montreal",
+                "url": "http://twitter.com/maryse0uellet/status/379510060222668800",
+                "trackback_date": 1379317223,
+                "trackback_total": 57,
+                "url_expansions": [],
+                "target_birth_date": 1379317223,
+                "content": "Thank you to everybody that came out to see me at Montreal Comicon this weekend! Most insane comicon EVER #awesome #montreal",
+                "mytype": "tweet",
+                "score": 9.692735,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461264146403569664/Lk00a-WO_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/maryse0uellet/status/379510060222668800",
+                "trackback_author_url": "http://twitter.com/maryse0uellet",
+                "highlight": "Thank you to everybody that came out to see me at Montreal Comicon this weekend! Most insane comicon EVER #awesome",
+                "topsy_author_url": "http://topsy.com/twitter/maryse0uellet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/maryse0uellet/status/379510060222668800",
+                "trackback_author_name": "MaryseOuelletMizanin",
+                "trackback_author_nick": "maryse0uellet"
+            },
+            {
+                "hits": 329,
+                "firstpost_date": 1386113560,
+                "title": "@bearpawshoes is #giving away #awesome #gifts for #Christmas. #RETWEEET #Follow #share to #win #pawpairings. WE &lt;3 U! http://t.co/MRikG9V35o",
+                "url": "http://twitter.com/bearpawshoes/status/408015962617565184",
+                "trackback_date": 1386113560,
+                "trackback_total": 403,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/MRikG9V35o",
+                        "display_url": "pic.twitter.com/MRikG9V35o",
+                        "expanded_url": "http://twitter.com/bearpawshoes/status/408015962617565184/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BamQWzNCUAAFwk_.jpg"
+                    }
+                ],
+                "target_birth_date": 1386113560,
+                "content": "@bearpawshoes is #giving away #awesome #gifts for #Christmas. #RETWEEET #Follow #share to #win #pawpairings. WE &lt;3 U! http://t.co/MRikG9V35o",
+                "mytype": "tweet",
+                "score": 9.69239,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452266281735954432/y2vcQpnQ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/bearpawshoes/status/408015962617565184",
+                "trackback_author_url": "http://twitter.com/bearpawshoes",
+                "highlight": " is #giving away #awesome #gifts for #Christmas. #RETWEEET #Follow #share to #win #pawpairings. WE &lt;3 U!",
+                "topsy_author_url": "http://topsy.com/twitter/bearpawshoes",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bearpawshoes/status/408015962617565184",
+                "trackback_author_name": "BEARPAW",
+                "trackback_author_nick": "bearpawshoes"
+            },
+            {
+                "hits": 25,
+                "firstpost_date": 1334995201,
+                "title": "Baby Hadouken! http://t.co/708nW32E #awesome #parenting",
+                "url": "http://twitter.com/g4tv/status/193610022192816128",
+                "trackback_date": 1334995201,
+                "trackback_total": 25,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/708nW32E",
+                        "display_url": "g4.tv/HYENkj",
+                        "expanded_url": "http://g4.tv/HYENkj",
+                        "topsy_expanded_url": "http://www.g4tv.com/attackoftheshow/blog/post/723043/baby-vs-street-fighter/"
+                    }
+                ],
+                "target_birth_date": 1334995201,
+                "content": "Baby Hadouken! http://t.co/708nW32E #awesome #parenting",
+                "mytype": "tweet",
+                "score": 9.692231,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3728584262/282a8d097b1d1191f193a6c29c1edcd1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/g4tv/status/193610022192816128",
+                "trackback_author_url": "http://twitter.com/esqtv",
+                "highlight": "Baby Hadouken! #awesome",
+                "topsy_author_url": "http://topsy.com/twitter/esqtv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/g4tv/status/193610022192816128",
+                "trackback_author_name": "Esquire Network",
+                "trackback_author_nick": "esqtv"
+            },
+            {
+                "hits": 15,
+                "firstpost_date": 1324314721,
+                "title": "#Infographic Of The Day: A Map Using Only Famous Streets From Songs http://t.co/vRaog2fL via @FastCoDesign #awesome",
+                "url": "http://twitter.com/fastcompany/status/148812845285519361",
+                "trackback_date": 1324314721,
+                "trackback_total": 15,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vRaog2fL",
+                        "display_url": "bit.ly/rIOF0D",
+                        "expanded_url": "http://bit.ly/rIOF0D",
+                        "topsy_expanded_url": "http://www.fastcodesign.com/1665669/infographic-of-the-day-a-map-using-only-famous-streets-from-songs"
+                    }
+                ],
+                "target_birth_date": 1324314721,
+                "content": "#Infographic Of The Day: A Map Using Only Famous Streets From Songs http://t.co/vRaog2fL via @FastCoDesign #awesome",
+                "mytype": "tweet",
+                "score": 9.691987,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/435840321952288770/IaWfR33b_normal.png",
+                "trackback_permalink": "http://twitter.com/FastCompany/status/148812845285519361",
+                "trackback_author_url": "http://twitter.com/fastcompany",
+                "highlight": "#Infographic Of The Day: A Map Using Only Famous Streets From Songs via @FastCoDesign",
+                "topsy_author_url": "http://topsy.com/twitter/fastcompany",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/fastcompany/status/148812845285519361",
+                "trackback_author_name": "Fast Company",
+                "trackback_author_nick": "fastcompany"
+            },
+            {
+                "hits": 21,
+                "firstpost_date": 1366676241,
+                "title": "@TomCruise #Oblivion #Awesome#EffectiveTeam",
+                "url": "http://twitter.com/cherylldraga/status/326489937945972736",
+                "trackback_date": 1366676241,
+                "trackback_total": 24,
+                "url_expansions": [],
+                "target_birth_date": 1366676241,
+                "content": "@TomCruise #Oblivion #Awesome#EffectiveTeam",
+                "mytype": "tweet",
+                "score": 9.69141,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/424668724113993728/8PXP88ZP_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/cherylldraga/status/326489937945972736",
+                "trackback_author_url": "http://twitter.com/cherylldraga",
+                "highlight": " #Oblivion #Awesome",
+                "topsy_author_url": "http://topsy.com/twitter/cherylldraga",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cherylldraga/status/326489937945972736",
+                "trackback_author_name": "CHERYLL",
+                "trackback_author_nick": "cherylldraga"
+            },
+            {
+                "hits": 42,
+                "firstpost_date": 1308865503,
+                "title": "RT @matthiasrascher: 10 Most Colorful Towns on Earth. http://bit.ly/cETgpP #travel #tourism #lp #awesome",
+                "url": "http://twitter.com/lonelyplanet/status/84014128523513857",
+                "trackback_date": 1308865503,
+                "trackback_total": 47,
+                "url_expansions": [],
+                "target_birth_date": 1308865503,
+                "content": "RT @matthiasrascher: 10 Most Colorful Towns on Earth. http://bit.ly/cETgpP #travel #tourism #lp #awesome",
+                "mytype": "tweet",
+                "score": 9.691197,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3623975823/701a6ec1ac1c53f98c386889214d6310_normal.png",
+                "trackback_permalink": "http://twitter.com/lonelyplanet/status/84014128523513857",
+                "trackback_author_url": "http://twitter.com/lonelyplanet",
+                "highlight": "10 Most Colorful Towns on Earth. #travel #tourism #lp",
+                "topsy_author_url": "http://topsy.com/twitter/lonelyplanet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lonelyplanet/status/84014128523513857",
+                "trackback_author_name": "Lonely Planet",
+                "trackback_author_nick": "lonelyplanet"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 720,
+        "hidden": 0,
+        "total": 10662366,
+        "page": 1
+    }
+}

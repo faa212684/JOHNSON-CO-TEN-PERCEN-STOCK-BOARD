@@ -1,0 +1,290 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=60",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "60"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 21,
+                "firstpost_date": 1341085323,
+                "title": "Any #severe storms around DC today have a significant chance of damaging wind: http://t.co/zFrD6SCt",
+                "url": "http://twitter.com/jimcantore/status/219153846772047872",
+                "trackback_date": 1341085323,
+                "trackback_total": 28,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/zFrD6SCt",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/day1probotlk_1630_wind.gif",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/day1probotlk_1630_wind.gif"
+                    }
+                ],
+                "target_birth_date": 1341085323,
+                "content": "Any #severe storms around DC today have a significant chance of damaging wind: http://t.co/zFrD6SCt",
+                "mytype": "tweet",
+                "score": 9.719456,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/219153846772047872",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Any #severe storms around DC today have a significant chance of damaging wind:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/219153846772047872",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1353972495,
+                "title": "40% chance at #Severe watch including Houston metro area: http://t.co/s3zGmE9y #TXwx",
+                "url": "http://twitter.com/jimcantore/status/273206562309414913",
+                "trackback_date": 1353972495,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/s3zGmE9y",
+                        "display_url": "spc.noaa.gov/products/md/md\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/md/md2124.html",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/md/md2124.html"
+                    }
+                ],
+                "target_birth_date": 1353972495,
+                "content": "40% chance at #Severe watch including Houston metro area: http://t.co/s3zGmE9y #TXwx",
+                "mytype": "tweet",
+                "score": 9.715204,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/273206562309414913",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "40% chance at #Severe watch including Houston metro area:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/273206562309414913",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1327293169,
+                "title": "Mississippi #severe potential throughout the night:  http://t.co/Z9VeyIav #MSwx",
+                "url": "http://twitter.com/jimcantore/status/161305362111279104",
+                "trackback_date": 1327293169,
+                "trackback_total": 26,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Z9VeyIav",
+                        "display_url": "srh.noaa.gov/images/fxc/jan\u2026",
+                        "expanded_url": "http://www.srh.noaa.gov/images/fxc/jan/graphicast/image_full1.gif",
+                        "topsy_expanded_url": "http://www.srh.noaa.gov/images/fxc/jan/graphicast/image_full1.gif"
+                    }
+                ],
+                "target_birth_date": 1327293169,
+                "content": "Mississippi #severe potential throughout the night:  http://t.co/Z9VeyIav #MSwx",
+                "mytype": "tweet",
+                "score": 9.711888,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/161305362111279104",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Mississippi #severe potential throughout the night:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/161305362111279104",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 21,
+                "firstpost_date": 1334192550,
+                "title": "Amazing Hail/Mud flow video from storm in Potter county: http://t.co/ubqTPw2F #severe",
+                "url": "http://twitter.com/jimcantore/status/190243460710801408",
+                "trackback_date": 1334192550,
+                "trackback_total": 24,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ubqTPw2F",
+                        "display_url": "youtube.com/watch?v=Nr8Avd\u2026",
+                        "expanded_url": "http://www.youtube.com/watch?v=Nr8AvdkKHO0",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=Nr8AvdkKHO0"
+                    }
+                ],
+                "target_birth_date": 1334192550,
+                "content": "Amazing Hail/Mud flow video from storm in Potter county: http://t.co/ubqTPw2F #severe",
+                "mytype": "tweet",
+                "score": 9.710613,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/190243460710801408",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Amazing Hail/Mud flow video from storm in Potter county:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/190243460710801408",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1327205622,
+                "title": "Sunday #Severe probability: http://t.co/aaxiiGm6",
+                "url": "http://twitter.com/jimcantore/status/160938163517403136",
+                "trackback_date": 1327205622,
+                "trackback_total": 19,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/aaxiiGm6",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/day2probotlk_1730_any.gif",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/day2probotlk_1730_any.gif"
+                    }
+                ],
+                "target_birth_date": 1327205622,
+                "content": "Sunday #Severe probability: http://t.co/aaxiiGm6",
+                "mytype": "tweet",
+                "score": 9.70673,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/160938163517403136",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Sunday #Severe probability:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/160938163517403136",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1347104785,
+                "title": "Wind damage will be primary threat from #severe storms today in the northeast: http://t.co/Y55HMhw0",
+                "url": "http://twitter.com/jimcantore/status/244401298634592256",
+                "trackback_date": 1347104785,
+                "trackback_total": 21,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Y55HMhw0",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/day1probotlk_1200_wind.gif",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/day1probotlk_1200_wind.gif"
+                    }
+                ],
+                "target_birth_date": 1347104785,
+                "content": "Wind damage will be primary threat from #severe storms today in the northeast: http://t.co/Y55HMhw0",
+                "mytype": "tweet",
+                "score": 9.704076,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/244401298634592256",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Wind damage will be primary threat from #severe storms today in the northeast:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/244401298634592256",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1373458103,
+                "title": "Today's #severe threat will include multiple lines of intense rain and wind even into New England:  http://t.co/tlUXzl5mIw",
+                "url": "http://twitter.com/jimcantore/status/354935126465056768",
+                "trackback_date": 1373458103,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/tlUXzl5mIw",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/day1otlk_1200.gif",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/day1otlk_1200.gif"
+                    }
+                ],
+                "target_birth_date": 1373458103,
+                "content": "Today's #severe threat will include multiple lines of intense rain and wind even into New England:  http://t.co/tlUXzl5mIw",
+                "mytype": "tweet",
+                "score": 9.702027,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/354935126465056768",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Today's #severe threat will include multiple lines of intense rain and wind even into New England:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/354935126465056768",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1321497357,
+                "title": "Wilmington, NC and Charleston, SC still have #severe risk this evening albeit low.  Severe threat to exit most coasts within an hour #severe",
+                "url": "http://twitter.com/jimcantore/status/136995963368771585",
+                "trackback_date": 1321497357,
+                "trackback_total": 22,
+                "url_expansions": [],
+                "target_birth_date": 1321497357,
+                "content": "Wilmington, NC and Charleston, SC still have #severe risk this evening albeit low.  Severe threat to exit most coasts within an hour #severe",
+                "mytype": "tweet",
+                "score": 9.700848,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/136995963368771585",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Wilmington, NC and Charleston, SC still have #severe risk this evening albeit low. Severe threat to exit most coasts within an hour",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/136995963368771585",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 28,
+                "firstpost_date": 1306954489,
+                "title": "In the meantime 95% of New England is in either a #tornado or #severe watch http://www.spc.noaa.gov/products/watch/",
+                "url": "http://twitter.com/jimcantore/status/75998754364338178",
+                "trackback_date": 1306954489,
+                "trackback_total": 32,
+                "url_expansions": [],
+                "target_birth_date": 1306954489,
+                "content": "In the meantime 95% of New England is in either a #tornado or #severe watch http://www.spc.noaa.gov/products/watch/",
+                "mytype": "tweet",
+                "score": 9.697182,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/75998754364338178",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "In the meantime 95% of New England is in either a #tornado or #severe watch",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/75998754364338178",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 26,
+                "firstpost_date": 1327280074,
+                "title": "SPC very confident in outbreak coming together: http://t.co/6aUJYLKI  So are we! #tornado #severe",
+                "url": "http://twitter.com/jimcantore/status/161250437541003265",
+                "trackback_date": 1327280074,
+                "trackback_total": 28,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/6aUJYLKI",
+                        "display_url": "spc.noaa.gov/products/md/md\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/md/md0048.html",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/md/md0048.html"
+                    }
+                ],
+                "target_birth_date": 1327280074,
+                "content": "SPC very confident in outbreak coming together: http://t.co/6aUJYLKI  So are we! #tornado #severe",
+                "mytype": "tweet",
+                "score": 9.695835,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/161250437541003265",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "SPC very confident in outbreak coming together: So are we! #tornado",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/161250437541003265",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 60,
+        "hidden": 0,
+        "total": 165064,
+        "page": 1
+    }
+}

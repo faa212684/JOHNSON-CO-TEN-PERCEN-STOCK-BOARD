@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=50",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "50"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 19,
+                "firstpost_date": 1373285967,
+                "title": "#Severe thunderstorms will sweep from the Midwest to the Northeast this week.  http://t.co/8Am2NHP2Nx",
+                "url": "http://twitter.com/weatherchannel/status/354213138188611584",
+                "trackback_date": 1373285967,
+                "trackback_total": 20,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8Am2NHP2Nx",
+                        "display_url": "wxch.nl/15qGiAo",
+                        "expanded_url": "http://wxch.nl/15qGiAo",
+                        "topsy_expanded_url": "http://www.weather.com/news/tornado-central/severe-weather-tracker-page?hootPostID=9aa56262f333334429e56e2c7450b3f5"
+                    }
+                ],
+                "target_birth_date": 1373285967,
+                "content": "#Severe thunderstorms will sweep from the Midwest to the Northeast this week.  http://t.co/8Am2NHP2Nx",
+                "mytype": "tweet",
+                "score": 9.747291,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731167376/a3484fa0e96983028e3f55f535fe0bb8_normal.png",
+                "trackback_permalink": "http://twitter.com/weatherchannel/status/354213138188611584",
+                "trackback_author_url": "http://twitter.com/weatherchannel",
+                "highlight": "#Severe thunderstorms will sweep from the Midwest to the Northeast this week.",
+                "topsy_author_url": "http://topsy.com/twitter/weatherchannel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/weatherchannel/status/354213138188611584",
+                "trackback_author_name": "The Weather Channel",
+                "trackback_author_nick": "weatherchannel"
+            },
+            {
+                "hits": 45,
+                "firstpost_date": 1348014367,
+                "title": "11,000 without power in the #NYC area.  #severe",
+                "url": "http://twitter.com/twcbreaking/status/248216362353303552",
+                "trackback_date": 1348014367,
+                "trackback_total": 57,
+                "url_expansions": [],
+                "target_birth_date": 1348014367,
+                "content": "11,000 without power in the #NYC area.  #severe",
+                "mytype": "tweet",
+                "score": 9.746098,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/248216362353303552",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "11,000 without power in the #NYC area.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/248216362353303552",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 27,
+                "firstpost_date": 1308061974,
+                "title": "#hitgroundrunning. off to Hollywood for a fitting, then blocking/ rehearsal for Jessie before this afternoon's network run-through! #severe",
+                "url": "http://twitter.com/thedebbyryan/status/80643883847000065",
+                "trackback_date": 1308061974,
+                "trackback_total": 62,
+                "url_expansions": [],
+                "target_birth_date": 1308061974,
+                "content": "#hitgroundrunning. off to Hollywood for a fitting, then blocking/ rehearsal for Jessie before this afternoon's network run-through! #severe",
+                "mytype": "tweet",
+                "score": 9.743122,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472836594529873920/xyQOcwrx_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TheDebbyRyan/status/80643883847000065",
+                "trackback_author_url": "http://twitter.com/debbyryan",
+                "highlight": "#hitgroundrunning. off to Hollywood for a fitting, then blocking/ rehearsal for Jessie before this afternoon's network run-through!",
+                "topsy_author_url": "http://topsy.com/twitter/debbyryan",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/thedebbyryan/status/80643883847000065",
+                "trackback_author_name": "Debby Ryan",
+                "trackback_author_nick": "debbyryan"
+            },
+            {
+                "hits": 26,
+                "firstpost_date": 1369085014,
+                "title": "RT @TWCBreaking: At 4:12pm, Oklahoma City's main airport (Will Rogers) reported damaging 2\"-diameter hail from a new cell. #severe",
+                "url": "http://twitter.com/todayshow/status/336593063239643137",
+                "trackback_date": 1369085014,
+                "trackback_total": 28,
+                "url_expansions": [],
+                "target_birth_date": 1369085014,
+                "content": "RT @TWCBreaking: At 4:12pm, Oklahoma City's main airport (Will Rogers) reported damaging 2\"-diameter hail from a new cell. #severe",
+                "mytype": "tweet",
+                "score": 9.73919,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460736622716125185/rJjHNx5t_normal.png",
+                "trackback_permalink": "http://twitter.com/todayshow/status/336593063239643137",
+                "trackback_author_url": "http://twitter.com/todayshow",
+                "highlight": "At 4:12pm, Oklahoma City's main airport (Will Rogers) reported damaging 2\"-diameter hail from a new cell.",
+                "topsy_author_url": "http://topsy.com/twitter/todayshow",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/todayshow/status/336593063239643137",
+                "trackback_author_name": "TODAY ",
+                "trackback_author_nick": "todayshow"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1327278859,
+                "title": "Alabama timeline for #severe overnight and morning: http://t.co/xDb78cYj #ALwx",
+                "url": "http://twitter.com/jimcantore/status/161245339448389632",
+                "trackback_date": 1327278859,
+                "trackback_total": 23,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/xDb78cYj",
+                        "display_url": "srh.noaa.gov/graphicast.php\u2026",
+                        "expanded_url": "http://www.srh.noaa.gov/graphicast.php?site=BMX&gc=1",
+                        "topsy_expanded_url": "http://www.srh.noaa.gov/graphicast.php?site=BMX&gc=1"
+                    }
+                ],
+                "target_birth_date": 1327278859,
+                "content": "Alabama timeline for #severe overnight and morning: http://t.co/xDb78cYj #ALwx",
+                "mytype": "tweet",
+                "score": 9.732732,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/161245339448389632",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Alabama timeline for #severe overnight and morning:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/161245339448389632",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 108,
+                "firstpost_date": 1396559192,
+                "title": "Denton, TX hail. #severe http://t.co/2eZUn7v4vl http://t.co/8XHteoGE6v http://t.co/o5htl4sLCe\nhttp://t.co/aaBwNr37mU http://t.co/tNoTr7Wfdk",
+                "url": "http://twitter.com/irisheagle/status/451828116822835200",
+                "trackback_date": 1396559192,
+                "trackback_total": 127,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2eZUn7v4vl",
+                        "display_url": "pic.twitter.com/2eZUn7v4vl",
+                        "expanded_url": "http://twitter.com/AnnaAndrewsa007/status/451827673900142592/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BkU23zXCEAAvKAU.jpg"
+                    }
+                ],
+                "target_birth_date": 1396559192,
+                "content": "Denton, TX hail. #severe http://t.co/2eZUn7v4vl http://t.co/8XHteoGE6v http://t.co/o5htl4sLCe\nhttp://t.co/aaBwNr37mU http://t.co/tNoTr7Wfdk",
+                "mytype": "tweet",
+                "score": 9.731541,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000735620803/f48b4512e7073cad30d0467e2edfa054_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/IrishEagle/status/451828116822835200",
+                "trackback_author_url": "http://twitter.com/irisheagle",
+                "highlight": "Denton, TX hail. #severe",
+                "topsy_author_url": "http://topsy.com/twitter/irisheagle",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/irisheagle/status/451828116822835200",
+                "trackback_author_name": "Tim Ballisty",
+                "trackback_author_nick": "irisheagle"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1348320835,
+                "title": "Wind is the main threat to the scattered #severe risk today in the northeast: http://t.co/8x3qeB71",
+                "url": "http://twitter.com/jimcantore/status/249501784308060160",
+                "trackback_date": 1348320835,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8x3qeB71",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/day1probotlk_1300_wind.gif",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/day1probotlk_1300_wind.gif"
+                    }
+                ],
+                "target_birth_date": 1348320835,
+                "content": "Wind is the main threat to the scattered #severe risk today in the northeast: http://t.co/8x3qeB71",
+                "mytype": "tweet",
+                "score": 9.722785,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/249501784308060160",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Wind is the main threat to the scattered #severe risk today in the northeast:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/249501784308060160",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1299686613,
+                "title": "Check out our video on how to stay safe during severe weather http://youtu.be/ixRgS5MVYWw #redcross #mswx #severe",
+                "url": "http://twitter.com/redcrossmiss/status/45515071442518016",
+                "trackback_date": 1299686937,
+                "trackback_total": 21,
+                "url_expansions": [],
+                "target_birth_date": 1299686613,
+                "content": "RT @RedCrossMiss: Check out our video on how to stay safe during severe weather http://youtu.be/ixRgS5MVYWw #redcross #mswx #severe",
+                "mytype": "tweet",
+                "score": 9.722688,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/445539103749066752/tVBwZC9E_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RedCross/status/45516430900346880",
+                "trackback_author_url": "http://twitter.com/redcross",
+                "highlight": "Check out our video on how to stay safe during severe weather #redcross #mswx",
+                "topsy_author_url": "http://topsy.com/twitter/redcross",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/redcrossmiss/status/45515071442518016",
+                "trackback_author_name": "American Red Cross",
+                "trackback_author_nick": "redcross"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1352472917,
+                "title": "Weekend #severe potential http://t.co/RXi9MFlx\nhttp://t.co/aggAxGEG",
+                "url": "http://twitter.com/jimcantore/status/266916878960705536",
+                "trackback_date": 1352472917,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RXi9MFlx",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/day2otlk.html",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/day2otlk.html"
+                    },
+                    {
+                        "url": "http://t.co/aggAxGEG",
+                        "display_url": "spc.noaa.gov/products/outlo\u2026",
+                        "expanded_url": "http://www.spc.noaa.gov/products/outlook/day3otlk.html",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/outlook/day3otlk.html"
+                    }
+                ],
+                "target_birth_date": 1352472917,
+                "content": "Weekend #severe potential http://t.co/RXi9MFlx\nhttp://t.co/aggAxGEG",
+                "mytype": "tweet",
+                "score": 9.721507,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/266916878960705536",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Weekend #severe potential",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/266916878960705536",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1341166075,
+                "title": "ALL NEW #Severe watches within the last hour: http://t.co/lNHxrNjL",
+                "url": "http://twitter.com/jimcantore/status/219492543891640323",
+                "trackback_date": 1341166075,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/lNHxrNjL",
+                        "display_url": "spc.noaa.gov/products/watch/",
+                        "expanded_url": "http://www.spc.noaa.gov/products/watch/",
+                        "topsy_expanded_url": "http://www.spc.noaa.gov/products/watch/"
+                    }
+                ],
+                "target_birth_date": 1341166075,
+                "content": "ALL NEW #Severe watches within the last hour: http://t.co/lNHxrNjL",
+                "mytype": "tweet",
+                "score": 9.720768,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/219492543891640323",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "ALL NEW #Severe watches within the last hour:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/219492543891640323",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 50,
+        "hidden": 0,
+        "total": 166636,
+        "page": 1
+    }
+}

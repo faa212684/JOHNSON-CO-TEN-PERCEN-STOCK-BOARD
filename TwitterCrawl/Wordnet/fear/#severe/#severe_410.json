@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23severe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=410",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#severe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "410"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 25,
+                "firstpost_date": 1367261494,
+                "title": "#Tornado near Bayside, TX around 1 PM. Credit: Thomas Shaw #txwx #severe http://t.co/Pzpp02pXFm",
+                "url": "http://twitter.com/txstormchasers/status/328944664528945152",
+                "trackback_date": 1367261494,
+                "trackback_total": 27,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Pzpp02pXFm",
+                        "display_url": "twitpic.com/cmxpk9",
+                        "expanded_url": "http://twitpic.com/cmxpk9",
+                        "topsy_expanded_url": "http://twitpic.com/cmxpk9"
+                    }
+                ],
+                "target_birth_date": 1367261494,
+                "content": "#Tornado near Bayside, TX around 1 PM. Credit: Thomas Shaw #txwx #severe http://t.co/Pzpp02pXFm",
+                "mytype": "tweet",
+                "score": 9.407725,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459925607606792193/By6IUBvs_normal.png",
+                "trackback_permalink": "http://twitter.com/TxStormChasers/status/328944664528945152",
+                "trackback_author_url": "http://twitter.com/txstormchasers",
+                "highlight": "#Tornado near Bayside, TX around 1 PM. Credit: Thomas Shaw #txwx #severe",
+                "topsy_author_url": "http://topsy.com/twitter/txstormchasers",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/txstormchasers/status/328944664528945152",
+                "trackback_author_name": "Texas Storm Chasers",
+                "trackback_author_nick": "txstormchasers"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1334967664,
+                "title": "NWS Miami on multiple rounds of #SEVERE potential for #Florida Saturday: http://t.co/AdMfyRW9",
+                "url": "http://twitter.com/jimcantore/status/193494527070306306",
+                "trackback_date": 1334967664,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/AdMfyRW9",
+                        "display_url": "srh.noaa.gov/images/fxc/mfl\u2026",
+                        "expanded_url": "http://www.srh.noaa.gov/images/fxc/mfl/graphicast/image_full3.gif",
+                        "topsy_expanded_url": "http://www.srh.noaa.gov/images/fxc/mfl/graphicast/image_full3.gif"
+                    }
+                ],
+                "target_birth_date": 1334967664,
+                "content": "NWS Miami on multiple rounds of #SEVERE potential for #Florida Saturday: http://t.co/AdMfyRW9",
+                "mytype": "tweet",
+                "score": 9.406733,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/193494527070306306",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "NWS Miami on multiple rounds of #SEVERE potential for #Florida Saturday:",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/193494527070306306",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1348011873,
+                "title": "#Severe t'storm warning until 8:30p for NYC, its northern suburbs, and western Long Island. Details: http://t.co/1pLCHd0A",
+                "url": "http://twitter.com/twcbreaking/status/248205903986319360",
+                "trackback_date": 1348011873,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1pLCHd0A",
+                        "display_url": "wxch.nl/OiOJ7T",
+                        "expanded_url": "http://wxch.nl/OiOJ7T",
+                        "topsy_expanded_url": "http://www.weather.com/weather/map/interactive/USNY0996"
+                    }
+                ],
+                "target_birth_date": 1348011873,
+                "content": "#Severe t'storm warning until 8:30p for NYC, its northern suburbs, and western Long Island. Details: http://t.co/1pLCHd0A",
+                "mytype": "tweet",
+                "score": 9.406425,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/248205903986319360",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "#Severe t'storm warning until 8:30p for NYC, its northern suburbs, and western Long Island. Details:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/248205903986319360",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1392246854,
+                "title": "#severe RT @akgilbre: Pretty ominous looking clouds in Orange County FL @TWCBreaking http://t.co/iiWe7YuJNG",
+                "url": "http://twitter.com/twcbreaking/status/433740860791197696",
+                "trackback_date": 1392246854,
+                "trackback_total": 26,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/iiWe7YuJNG",
+                        "display_url": "pic.twitter.com/iiWe7YuJNG",
+                        "expanded_url": "http://twitter.com/akgilbre/status/433736245416833024/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BgTw0SkIIAAIfo4.jpg"
+                    }
+                ],
+                "target_birth_date": 1392246854,
+                "content": "#severe RT @akgilbre: Pretty ominous looking clouds in Orange County FL @TWCBreaking http://t.co/iiWe7YuJNG",
+                "mytype": "tweet",
+                "score": 9.40618,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/433740860791197696",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "#severePretty ominous looking clouds in Orange County FL @TWCBreaking",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/433740860791197696",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1336092465,
+                "title": "Flash #Flood WARNING now issued for the #Chicago Metro Area.  Cells training over the city: http://t.co/Q5GsHTDS #ILwx #severe",
+                "url": "http://twitter.com/jimcantore/status/198212284164747264",
+                "trackback_date": 1336092465,
+                "trackback_total": 21,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Q5GsHTDS",
+                        "display_url": "radar.weather.gov/ridge/radar.ph\u2026",
+                        "expanded_url": "http://radar.weather.gov/ridge/radar.php?rid=lot&product=N0R&overlay=11101111&loop=yes",
+                        "topsy_expanded_url": "http://radar.weather.gov/ridge/radar.php?rid=lot&product=N0R&overlay=11101111&loop=yes"
+                    }
+                ],
+                "target_birth_date": 1336092465,
+                "content": "Flash #Flood WARNING now issued for the #Chicago Metro Area.  Cells training over the city: http://t.co/Q5GsHTDS #ILwx #severe",
+                "mytype": "tweet",
+                "score": 9.40566,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/198212284164747264",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "Flash #Flood WARNING now issued for the #Chicago Metro Area. Cells training over the city: #ILwx",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/198212284164747264",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1368999889,
+                "title": "RT @mprendergasttx: Edmond, OK tornado a few minutes ago. #okwx #severe http://t.co/8IEgMzWoUm",
+                "url": "http://twitter.com/ounwcm/status/336236024046964737",
+                "trackback_date": 1368999889,
+                "trackback_total": 22,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8IEgMzWoUm",
+                        "display_url": "pic.twitter.com/8IEgMzWoUm",
+                        "expanded_url": "http://twitter.com/MPrendergastTX/status/336234572297666560/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BKqLj-NCAAAgU2o.jpg"
+                    }
+                ],
+                "target_birth_date": 1368999889,
+                "content": "RT @mprendergasttx: Edmond, OK tornado a few minutes ago. #okwx #severe http://t.co/8IEgMzWoUm",
+                "mytype": "tweet",
+                "score": 9.404786,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/150496319/Dsc01422_normal.jpg",
+                "trackback_permalink": "http://twitter.com/ounwcm/status/336236024046964737",
+                "trackback_author_url": "http://twitter.com/ounwcm",
+                "highlight": "Edmond, OK tornado a few minutes ago. #okwx #severe",
+                "topsy_author_url": "http://topsy.com/twitter/ounwcm",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ounwcm/status/336236024046964737",
+                "trackback_author_name": "Rick Smith",
+                "trackback_author_nick": "ounwcm"
+            },
+            {
+                "hits": 38,
+                "firstpost_date": 1359485997,
+                "title": "Unconfirmed reports of funnel cloud just W of Jefferson City, MO a few min ago. #Severe t'storm warning on that cell thru 1:45p CT.",
+                "url": "http://twitter.com/twcbreaking/status/296331868612202496",
+                "trackback_date": 1359485997,
+                "trackback_total": 49,
+                "url_expansions": [],
+                "target_birth_date": 1359485997,
+                "content": "Unconfirmed reports of funnel cloud just W of Jefferson City, MO a few min ago. #Severe t'storm warning on that cell thru 1:45p CT.",
+                "mytype": "tweet",
+                "score": 9.404627,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/296331868612202496",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Unconfirmed reports of funnel cloud just W of Jefferson City, MO a few min ago. #Severe t'storm warning on that cell thru 1:45p CT.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/296331868612202496",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1354135908,
+                "title": "According to the European #severe weather database, Italy has had 9 tornadoes during October and November 2012 per @DrGregForbes #Tornado",
+                "url": "http://twitter.com/jimcantore/status/273891968264859651",
+                "trackback_date": 1354135908,
+                "trackback_total": 18,
+                "url_expansions": [],
+                "target_birth_date": 1354135908,
+                "content": "According to the European #severe weather database, Italy has had 9 tornadoes during October and November 2012 per @DrGregForbes #Tornado",
+                "mytype": "tweet",
+                "score": 9.404467,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071924335/436bf5a3896ebdfb6e98f880091c6ae3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JimCantore/status/273891968264859651",
+                "trackback_author_url": "http://twitter.com/jimcantore",
+                "highlight": "According to the European #severe weather database, Italy has had 9 tornadoes during October and November 2012 per @DrGregForbes",
+                "topsy_author_url": "http://topsy.com/twitter/jimcantore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimcantore/status/273891968264859651",
+                "trackback_author_name": "Jim Cantore",
+                "trackback_author_nick": "jimcantore"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1308609968,
+                "title": "Confirmed tornado near Henderson, NE or 10 miles west of York, NE.  Warning info, radar: http://wxch.nl/lES9qW #severe",
+                "url": "http://twitter.com/twcbreaking/status/82942334148427776",
+                "trackback_date": 1308609968,
+                "trackback_total": 17,
+                "url_expansions": [],
+                "target_birth_date": 1308609968,
+                "content": "Confirmed tornado near Henderson, NE or 10 miles west of York, NE.  Warning info, radar: http://wxch.nl/lES9qW #severe",
+                "mytype": "tweet",
+                "score": 9.403037,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/82942334148427776",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Confirmed tornado near Henderson, NE or 10 miles west of York, NE. Warning info, radar:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/82942334148427776",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1359500701,
+                "title": "38 #severe weather reports thru 5pm CST: #tornado 1, severe wind 20, large hail 17.",
+                "url": "http://twitter.com/twcbreaking/status/296393541100396545",
+                "trackback_date": 1359500701,
+                "trackback_total": 19,
+                "url_expansions": [],
+                "target_birth_date": 1359500701,
+                "content": "38 #severe weather reports thru 5pm CST: #tornado 1, severe wind 20, large hail 17.",
+                "mytype": "tweet",
+                "score": 9.4026985,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/296393541100396545",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "38 #severe weather reports thru 5pm CST: #tornado 1, severe wind 20, large hail 17.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/296393541100396545",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 410,
+        "hidden": 0,
+        "total": 163032,
+        "page": 1
+    }
+}
