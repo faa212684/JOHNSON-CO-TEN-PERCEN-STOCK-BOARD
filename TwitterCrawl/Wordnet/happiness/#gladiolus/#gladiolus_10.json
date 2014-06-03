@@ -1,0 +1,300 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23gladiolus&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=10",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#gladiolus",
+            "window": "a",
+            "type": "tweet",
+            "offset": "10"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1376398372,
+                "title": "Now on http://t.co/9jRVpMAPEL: #Gladiolus #FlowerArrangement from the #Garden http://t.co/NP2tfkXlRe",
+                "url": "http://twitter.com/abcddesigns/status/367267511735037953",
+                "trackback_date": 1376398372,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9jRVpMAPEL",
+                        "display_url": "ABCDdesign.com",
+                        "expanded_url": "http://ABCDdesign.com",
+                        "topsy_expanded_url": "http://www.abcddesign.com/"
+                    },
+                    {
+                        "url": "http://t.co/NP2tfkXlRe",
+                        "display_url": "abcddesign.com/archives/2013/\u2026",
+                        "expanded_url": "http://www.abcddesign.com/archives/2013/08/13/in-bloom-gladiolus-flower-arrangement/",
+                        "topsy_expanded_url": "http://www.abcddesign.com/archives/2013/08/13/in-bloom-gladiolus-flower-arrangement/"
+                    }
+                ],
+                "target_birth_date": 1376398372,
+                "content": "Now on http://t.co/9jRVpMAPEL: #Gladiolus #FlowerArrangement from the #Garden http://t.co/NP2tfkXlRe",
+                "mytype": "tweet",
+                "score": 8.503833,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473231002358124544/2DYhjDr6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/abcddesigns/status/367267511735037953",
+                "trackback_author_url": "http://twitter.com/abcddesigns",
+                "highlight": "Now on #Gladiolus #FlowerArrangement from the #Garden",
+                "topsy_author_url": "http://topsy.com/twitter/abcddesigns",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/abcddesigns/status/367267511735037953",
+                "trackback_author_name": "Amy Beth Cupp Dragoo",
+                "trackback_author_nick": "abcddesigns"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1284396503,
+                "title": "#Gladiolus http://dld.bz/rQxA #flower #photography",
+                "url": "http://twitter.com/matronb/status/24398414072",
+                "trackback_date": 1284396503,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1284396503,
+                "content": "#Gladiolus http://dld.bz/rQxA #flower #photography",
+                "mytype": "tweet",
+                "score": 8.498018,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1168019560/4450777546_c4c5f4ea6f_o_normal.jpg",
+                "trackback_permalink": "http://twitter.com/MatronB/status/24398414072",
+                "trackback_author_url": "http://twitter.com/bevphotos",
+                "highlight": "#Gladiolus #flower",
+                "topsy_author_url": "http://topsy.com/twitter/bevphotos",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/matronb/status/24398414072",
+                "trackback_author_name": "Bev",
+                "trackback_author_nick": "bevphotos"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1367919667,
+                "title": "#Gladiolus and an authentic #Warhol (gladiolus mean sincerity and strength) @doldernews @ The Dolder\u2026 http://t.co/RMiwO18QsN",
+                "url": "http://twitter.com/luxetiffany/status/331705242313957376",
+                "trackback_date": 1367919667,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RMiwO18QsN",
+                        "expanded_url": "http://shrd.by/8Nhqrr",
+                        "display_url": "shrd.by/8Nhqrr"
+                    }
+                ],
+                "target_birth_date": 1367919667,
+                "content": "#Gladiolus and an authentic #Warhol (gladiolus mean sincerity and strength) @doldernews @ The Dolder\u2026 http://t.co/RMiwO18QsN",
+                "mytype": "tweet",
+                "score": 8.496549,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3320438024/5657f56f94dcad7c6e82bb7e49b7732c_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LuxeTiffany/status/331705242313957376",
+                "trackback_author_url": "http://twitter.com/luxetiffany",
+                "highlight": "#Gladiolus and an authentic #Warhol (gladiolus mean sincerity and strength) @doldernews @ The Dolder\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/luxetiffany",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/luxetiffany/status/331705242313957376",
+                "trackback_author_name": "Luxe Tiffany",
+                "trackback_author_nick": "luxetiffany"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1395368765,
+                "title": "Glads emerging from a winters rest. Welcome spring!!! #spring #gladiolus #instalike #instagarden http://t.co/kTINn9Eqyb",
+                "url": "http://twitter.com/redneckrosarian/status/446835102967140353",
+                "trackback_date": 1395368765,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kTINn9Eqyb",
+                        "display_url": "instagram.com/p/lya8aMi8z9/",
+                        "expanded_url": "http://instagram.com/p/lya8aMi8z9/",
+                        "topsy_expanded_url": "http://instagram.com/p/lya8aMi8z9/"
+                    }
+                ],
+                "target_birth_date": 1395368765,
+                "content": "Glads emerging from a winters rest. Welcome spring!!! #spring #gladiolus #instalike #instagarden http://t.co/kTINn9Eqyb",
+                "mytype": "tweet",
+                "score": 8.488069,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1926662757/9545359-large-1_normal.jpg",
+                "trackback_permalink": "http://twitter.com/RedneckRosarian/status/446835102967140353",
+                "trackback_author_url": "http://twitter.com/redneckrosarian",
+                "highlight": "Glads emerging from a winters rest. Welcome spring!!! #spring #gladiolus #instalike #instagarden",
+                "topsy_author_url": "http://topsy.com/twitter/redneckrosarian",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/redneckrosarian/status/446835102967140353",
+                "trackback_author_name": "Chris VanCleave",
+                "trackback_author_nick": "redneckrosarian"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1391189099,
+                "title": "I am not a lover of #gladiolus, but my client loved them for cost-effective benefits. Are you a gladiolus lover? http://t.co/CHyFUULFIZ",
+                "url": "http://twitter.com/prestonrbailey/status/429304313844740096",
+                "trackback_date": 1391189099,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/CHyFUULFIZ",
+                        "display_url": "pic.twitter.com/CHyFUULFIZ",
+                        "expanded_url": "http://twitter.com/prestonrbailey/status/429304313844740096/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BfUx_7iCMAEtIEp.jpg"
+                    }
+                ],
+                "target_birth_date": 1391189099,
+                "content": "I am not a lover of #gladiolus, but my client loved them for cost-effective benefits. Are you a gladiolus lover? http://t.co/CHyFUULFIZ",
+                "mytype": "tweet",
+                "score": 8.485509,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/426068018385264640/8kygMQ11_normal.png",
+                "trackback_permalink": "http://twitter.com/prestonrbailey/status/429304313844740096",
+                "trackback_author_url": "http://twitter.com/prestonrbailey",
+                "highlight": "I am not a lover of #gladiolus, but my client loved them for cost-effective benefits. Are you a gladiolus lover?",
+                "topsy_author_url": "http://topsy.com/twitter/prestonrbailey",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/prestonrbailey/status/429304313844740096",
+                "trackback_author_name": "Preston Bailey",
+                "trackback_author_nick": "prestonrbailey"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1372944504,
+                "title": "#gladiolus http://t.co/s7PTTVuRFp",
+                "url": "http://twitter.com/jane4oh5/status/352780938368921603",
+                "trackback_date": 1372944504,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/s7PTTVuRFp",
+                        "display_url": "instagram.com/p/bWICVimsFW/",
+                        "expanded_url": "http://instagram.com/p/bWICVimsFW/",
+                        "topsy_expanded_url": "http://instagram.com/p/bWICVimsFW/"
+                    }
+                ],
+                "target_birth_date": 1372944504,
+                "content": "#gladiolus http://t.co/s7PTTVuRFp",
+                "mytype": "tweet",
+                "score": 8.313473,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471422037261844480/0SQ1O0Gw_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jane4oh5/status/352780938368921603",
+                "trackback_author_url": "http://twitter.com/kerrymyers_",
+                "highlight": "#gladiolus",
+                "topsy_author_url": "http://topsy.com/twitter/kerrymyers_",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jane4oh5/status/352780938368921603",
+                "trackback_author_name": "Kerry",
+                "trackback_author_nick": "kerrymyers_"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1372947058,
+                "title": "#gladiolus http://t.co/APtOzggpdc",
+                "url": "http://twitter.com/jane4oh5/status/352791650302562304",
+                "trackback_date": 1372947058,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/APtOzggpdc",
+                        "display_url": "instagram.com/p/bWIKTXmsFc/",
+                        "expanded_url": "http://instagram.com/p/bWIKTXmsFc/",
+                        "topsy_expanded_url": "http://instagram.com/p/bWIKTXmsFc/"
+                    }
+                ],
+                "target_birth_date": 1372947058,
+                "content": "#gladiolus http://t.co/APtOzggpdc",
+                "mytype": "tweet",
+                "score": 8.304941,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471422037261844480/0SQ1O0Gw_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jane4oh5/status/352791650302562304",
+                "trackback_author_url": "http://twitter.com/kerrymyers_",
+                "highlight": "#gladiolus",
+                "topsy_author_url": "http://topsy.com/twitter/kerrymyers_",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jane4oh5/status/352791650302562304",
+                "trackback_author_name": "Kerry",
+                "trackback_author_nick": "kerrymyers_"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1378568226,
+                "title": "Mixed #gladiolus from the #garden in the #library. #flowers #flowerarrangement #falliscoming http://t.co/Pk6tbTJX0W",
+                "url": "http://twitter.com/abcddesigns/status/376368537411268608",
+                "trackback_date": 1378568226,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Pk6tbTJX0W",
+                        "display_url": "instagram.com/p/d9uWq4kEmC/",
+                        "expanded_url": "http://instagram.com/p/d9uWq4kEmC/",
+                        "topsy_expanded_url": "http://instagram.com/p/d9uWq4kEmC/"
+                    }
+                ],
+                "target_birth_date": 1378568226,
+                "content": "Mixed #gladiolus from the #garden in the #library. #flowers #flowerarrangement #falliscoming http://t.co/Pk6tbTJX0W",
+                "mytype": "tweet",
+                "score": 8.299437,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473231002358124544/2DYhjDr6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/abcddesigns/status/376368537411268608",
+                "trackback_author_url": "http://twitter.com/abcddesigns",
+                "highlight": "Mixed #gladiolus from the #garden in the #library. #flowers #flowerarrangement #falliscoming",
+                "topsy_author_url": "http://topsy.com/twitter/abcddesigns",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/abcddesigns/status/376368537411268608",
+                "trackback_author_name": "Amy Beth Cupp Dragoo",
+                "trackback_author_nick": "abcddesigns"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1369757274,
+                "title": "An old bulb come back to life my Pink #Gladiolus http://t.co/j2jwBvVhuP",
+                "url": "http://twitter.com/risa7777/status/339412725019058177",
+                "trackback_date": 1369757274,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/j2jwBvVhuP",
+                        "expanded_url": "http://twitter.com/Risa7777/status/339412725019058177/photo/1",
+                        "display_url": "pic.twitter.com/j2jwBvVhuP"
+                    }
+                ],
+                "target_birth_date": 1369757274,
+                "content": "An old bulb come back to life my Pink #Gladiolus http://t.co/j2jwBvVhuP",
+                "mytype": "tweet",
+                "score": 8.260422,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467335760270462977/FQd11DzX_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Risa7777/status/339412725019058177",
+                "trackback_author_url": "http://twitter.com/risa7777",
+                "highlight": "An old bulb come back to life my Pink #Gladiolus",
+                "topsy_author_url": "http://topsy.com/twitter/risa7777",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/risa7777/status/339412725019058177",
+                "trackback_author_name": "Risa Jean",
+                "trackback_author_nick": "risa7777"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1367919665,
+                "title": "#Gladiolus and an authentic #Warhol (gladiolus mean sincerity and strength) @doldernews @ The Dolder\u2026 http://t.co/3yO1JNmgjn",
+                "url": "http://twitter.com/luxetiffany/status/331705234562895873",
+                "trackback_date": 1367919665,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3yO1JNmgjn",
+                        "expanded_url": "http://instagram.com/p/ZAXhS6Edft/",
+                        "display_url": "instagram.com/p/ZAXhS6Edft/"
+                    }
+                ],
+                "target_birth_date": 1367919665,
+                "content": "#Gladiolus and an authentic #Warhol (gladiolus mean sincerity and strength) @doldernews @ The Dolder\u2026 http://t.co/3yO1JNmgjn",
+                "mytype": "tweet",
+                "score": 8.251676,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3320438024/5657f56f94dcad7c6e82bb7e49b7732c_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LuxeTiffany/status/331705234562895873",
+                "trackback_author_url": "http://twitter.com/luxetiffany",
+                "highlight": "#Gladiolus and an authentic #Warhol (gladiolus mean sincerity and strength) @doldernews @ The Dolder\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/luxetiffany",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/luxetiffany/status/331705234562895873",
+                "trackback_author_name": "Luxe Tiffany",
+                "trackback_author_nick": "luxetiffany"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 10,
+        "hidden": 0,
+        "total": 1766,
+        "page": 1
+    }
+}

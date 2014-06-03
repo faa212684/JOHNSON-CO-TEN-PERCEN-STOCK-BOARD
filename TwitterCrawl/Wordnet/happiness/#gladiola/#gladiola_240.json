@@ -1,0 +1,290 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23gladiola&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=240",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#gladiola",
+            "window": "a",
+            "type": "tweet",
+            "offset": "240"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1321940906,
+                "title": "#Gladiola on #Fire! http://t.co/6NAZUrcJ #Photo #Photography",
+                "url": "http://twitter.com/photobloglinks/status/138856341119827968",
+                "trackback_date": 1321940906,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/6NAZUrcJ",
+                        "display_url": "t.co/6NAZUrcJ",
+                        "expanded_url": "http://t.co/6NAZUrcJ",
+                        "topsy_expanded_url": "http://goo.gl/N7eqs"
+                    }
+                ],
+                "target_birth_date": 1321940906,
+                "content": "#Gladiola on #Fire! http://t.co/6NAZUrcJ #Photo #Photography",
+                "mytype": "tweet",
+                "score": 4.9536653,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1601940754/DSC01030a_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Photobloglinks/status/138856341119827968",
+                "trackback_author_url": "http://twitter.com/photobloglinks",
+                "highlight": "#Gladiola on #Fire! #Photo",
+                "topsy_author_url": "http://topsy.com/twitter/photobloglinks",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/photobloglinks/status/138856341119827968",
+                "trackback_author_name": "Kev",
+                "trackback_author_nick": "photobloglinks"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1316249224,
+                "title": "#Gladiola on #Fire! | RedGage http://t.co/D6vk50cN",
+                "url": "http://twitter.com/butterflygurl22/status/114983699090644993",
+                "trackback_date": 1316249224,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/D6vk50cN",
+                        "display_url": "redgage.com/photos/playtim\u2026",
+                        "expanded_url": "http://www.redgage.com/photos/playtime/gladiola-on-fire.html",
+                        "topsy_expanded_url": "http://www.redgage.com/photos/playtime/gladiola-on-fire.html"
+                    }
+                ],
+                "target_birth_date": 1316249224,
+                "content": "#Gladiola on #Fire! | RedGage http://t.co/D6vk50cN",
+                "mytype": "tweet",
+                "score": 4.9536653,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1377439525/1_baby_bunnie_Re_normal.jpg",
+                "trackback_permalink": "http://twitter.com/butterflygurl22/status/114983699090644993",
+                "trackback_author_url": "http://twitter.com/butterflygurl22",
+                "highlight": "#Gladiola on #Fire! | RedGage",
+                "topsy_author_url": "http://topsy.com/twitter/butterflygurl22",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/butterflygurl22/status/114983699090644993",
+                "trackback_author_name": "Blythe",
+                "trackback_author_nick": "butterflygurl22"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1326662864,
+                "title": "#Gladiola on #Fire! http://t.co/kgSdYMTf #Photo #Photography",
+                "url": "http://twitter.com/ku7781nivek/status/158661667876638720",
+                "trackback_date": 1326662864,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kgSdYMTf",
+                        "display_url": "goo.gl/N7eqs",
+                        "expanded_url": "http://goo.gl/N7eqs",
+                        "topsy_expanded_url": "http://www.redgage.com/photos/playtime/gladiola-on-fire.html"
+                    }
+                ],
+                "target_birth_date": 1326662864,
+                "content": "#Gladiola on #Fire! http://t.co/kgSdYMTf #Photo #Photography",
+                "mytype": "tweet",
+                "score": 4.9536257,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1359132083/DSC00155_normal.JPG",
+                "trackback_permalink": "http://twitter.com/ku7781nivek/status/158661667876638720",
+                "trackback_author_url": "http://twitter.com/ku7781nivek",
+                "highlight": "#Gladiola on #Fire! #Photo",
+                "topsy_author_url": "http://topsy.com/twitter/ku7781nivek",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ku7781nivek/status/158661667876638720",
+                "trackback_author_name": "kev",
+                "trackback_author_nick": "ku7781nivek"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1326132284,
+                "title": "#Gladiola on #Fire! http://t.co/rSSlYtrx #Photo #Photography",
+                "url": "http://twitter.com/smiler_smile/status/156436256853737472",
+                "trackback_date": 1326132284,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/rSSlYtrx",
+                        "display_url": "goo.gl/N7eqs",
+                        "expanded_url": "http://goo.gl/N7eqs",
+                        "topsy_expanded_url": "http://www.redgage.com/photos/playtime/gladiola-on-fire.html"
+                    }
+                ],
+                "target_birth_date": 1326132284,
+                "content": "#Gladiola on #Fire! http://t.co/rSSlYtrx #Photo #Photography",
+                "mytype": "tweet",
+                "score": 4.9536257,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1542395699/DSCF0452b_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Smiler_smile/status/156436256853737472",
+                "trackback_author_url": "http://twitter.com/smiler_smile",
+                "highlight": "#Gladiola on #Fire! #Photo",
+                "topsy_author_url": "http://topsy.com/twitter/smiler_smile",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/smiler_smile/status/156436256853737472",
+                "trackback_author_name": "Smiler",
+                "trackback_author_nick": "smiler_smile"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1326030345,
+                "title": "#Gladiola on #Fire! http://t.co/6NAZUrcJ #Photo #Photography",
+                "url": "http://twitter.com/photobloglinks/status/156008692700033024",
+                "trackback_date": 1326030345,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/6NAZUrcJ",
+                        "display_url": "goo.gl/N7eqs",
+                        "expanded_url": "http://goo.gl/N7eqs",
+                        "topsy_expanded_url": "http://www.redgage.com/photos/playtime/gladiola-on-fire.html"
+                    }
+                ],
+                "target_birth_date": 1326030345,
+                "content": "#Gladiola on #Fire! http://t.co/6NAZUrcJ #Photo #Photography",
+                "mytype": "tweet",
+                "score": 4.9536257,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1601940754/DSC01030a_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Photobloglinks/status/156008692700033024",
+                "trackback_author_url": "http://twitter.com/photobloglinks",
+                "highlight": "#Gladiola on #Fire! #Photo",
+                "topsy_author_url": "http://topsy.com/twitter/photobloglinks",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/photobloglinks/status/156008692700033024",
+                "trackback_author_name": "Kev",
+                "trackback_author_nick": "photobloglinks"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1323213907,
+                "title": "#Gladiola on #Fire! http://t.co/6NAZUrcJ #Photo #Photography",
+                "url": "http://twitter.com/photobloglinks/status/144195695044337665",
+                "trackback_date": 1323213907,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/6NAZUrcJ",
+                        "display_url": "goo.gl/N7eqs",
+                        "expanded_url": "http://goo.gl/N7eqs",
+                        "topsy_expanded_url": "http://www.redgage.com/photos/playtime/gladiola-on-fire.html"
+                    }
+                ],
+                "target_birth_date": 1323213907,
+                "content": "#Gladiola on #Fire! http://t.co/6NAZUrcJ #Photo #Photography",
+                "mytype": "tweet",
+                "score": 4.9536257,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1601940754/DSC01030a_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Photobloglinks/status/144195695044337665",
+                "trackback_author_url": "http://twitter.com/photobloglinks",
+                "highlight": "#Gladiola on #Fire! #Photo",
+                "topsy_author_url": "http://topsy.com/twitter/photobloglinks",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/photobloglinks/status/144195695044337665",
+                "trackback_author_name": "Kev",
+                "trackback_author_nick": "photobloglinks"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1374004749,
+                "title": "#gladiola #summertime http://t.co/6LRPtRKRR2",
+                "url": "http://twitter.com/attyjoyful/status/357227928662192128",
+                "trackback_date": 1374004749,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/6LRPtRKRR2",
+                        "display_url": "instagram.com/p/b1uFGTHmFZ/",
+                        "expanded_url": "http://instagram.com/p/b1uFGTHmFZ/",
+                        "topsy_expanded_url": "http://instagram.com/p/b1uFGTHmFZ/"
+                    }
+                ],
+                "target_birth_date": 1374004749,
+                "content": "#gladiola #summertime http://t.co/6LRPtRKRR2",
+                "mytype": "tweet",
+                "score": 4.953414,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459117403884883969/ItIw2bbX_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/attyjoyful/status/357227928662192128",
+                "trackback_author_url": "http://twitter.com/attyjoyful",
+                "highlight": "#gladiola #summertime",
+                "topsy_author_url": "http://topsy.com/twitter/attyjoyful",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/attyjoyful/status/357227928662192128",
+                "trackback_author_name": "Joyful Joy",
+                "trackback_author_nick": "attyjoyful"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1374021372,
+                "title": "#Gladiola #lakeflowersnj http://t.co/y8EAnQfZSt",
+                "url": "http://twitter.com/lakeflowersnj/status/357297649289936896",
+                "trackback_date": 1374021372,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/y8EAnQfZSt",
+                        "display_url": "instagram.com/p/b2N7EUASB4/",
+                        "expanded_url": "http://instagram.com/p/b2N7EUASB4/",
+                        "topsy_expanded_url": "http://instagram.com/p/b2N7EUASB4/"
+                    }
+                ],
+                "target_birth_date": 1374021372,
+                "content": "#Gladiola #lakeflowersnj http://t.co/y8EAnQfZSt",
+                "mytype": "tweet",
+                "score": 4.953401,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3293816138/7549b19b6297bb84cf4d3a1bfa98051d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LakeFlowersNJ/status/357297649289936896",
+                "trackback_author_url": "http://twitter.com/lakeflowersnj",
+                "highlight": "#Gladiola #lakeflowersnj",
+                "topsy_author_url": "http://topsy.com/twitter/lakeflowersnj",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lakeflowersnj/status/357297649289936896",
+                "trackback_author_name": "Lake Flowers",
+                "trackback_author_nick": "lakeflowersnj"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1399856755,
+                "title": "On the way.\n\n#gladiola goes to lychee",
+                "url": "http://twitter.com/02kateramos/status/465659099942633473",
+                "trackback_date": 1399856755,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1399856755,
+                "content": "On the way.\n\n#gladiola goes to lychee",
+                "mytype": "tweet",
+                "score": 4.9528065,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463981980309139456/qn5oOsu5_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/02Kateramos/status/465659099942633473",
+                "trackback_author_url": "http://twitter.com/02kateramos",
+                "highlight": "On the way. #gladiola goes to lychee",
+                "topsy_author_url": "http://topsy.com/twitter/02kateramos",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/02kateramos/status/465659099942633473",
+                "trackback_author_name": "kate andrea ramos",
+                "trackback_author_nick": "02kateramos"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1344817768,
+                "title": "Ma\u00f1ana entrevista a @gflorimonte en Clar\u00edn Espect\u00e1culos! #Gladiola",
+                "url": "http://twitter.com/diegofieramosca/status/234808854389612544",
+                "trackback_date": 1344819224,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1344817768,
+                "content": "RT @DiegoFieramosca: Ma\u00f1ana entrevista a @gflorimonte en Clar\u00edn Espect\u00e1culos! #Gladiola",
+                "mytype": "tweet",
+                "score": 4.9523897,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1168220389/LOGOMSN01_normal.jpg",
+                "trackback_permalink": "http://twitter.com/ADRIANAGROBO/status/234814963699564547",
+                "trackback_author_url": "http://twitter.com/adrianagrobo",
+                "highlight": "Ma\u00f1ana entrevista a @gflorimonte en Clar\u00edn Espect\u00e1culos!",
+                "topsy_author_url": "http://topsy.com/twitter/adrianagrobo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/diegofieramosca/status/234808854389612544",
+                "trackback_author_name": "ADRIANA GROBO",
+                "trackback_author_nick": "adrianagrobo"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 240,
+        "hidden": 0,
+        "total": 871,
+        "page": 1
+    }
+}

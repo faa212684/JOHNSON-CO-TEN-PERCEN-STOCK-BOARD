@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=620",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "620"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 45,
+                "firstpost_date": 1389884615,
+                "title": ".@Pharrell's #Happy Receives Oscar Nomination For \"Best Original Song\" http://t.co/suiAjzJk71 RT!",
+                "url": "http://twitter.com/hotnewhiphop/status/423832914330390528",
+                "trackback_date": 1389884615,
+                "trackback_total": 58,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/suiAjzJk71",
+                        "display_url": "hnhh.co/anfu",
+                        "expanded_url": "http://hnhh.co/anfu",
+                        "topsy_expanded_url": "http://www.hotnewhiphop.com/pharrell-s-happy-receives-oscar-nomination-for-best-original-song-news.8938.html"
+                    }
+                ],
+                "target_birth_date": 1389884615,
+                "content": ".@Pharrell's #Happy Receives Oscar Nomination For \"Best Original Song\" http://t.co/suiAjzJk71 RT!",
+                "mytype": "tweet",
+                "score": 9.522924,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/430808312016142336/cdj_vpgH_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/HotNewHipHop/status/423832914330390528",
+                "trackback_author_url": "http://twitter.com/hotnewhiphop",
+                "highlight": ".@Pharrell's #Happy Receives Oscar Nomination For \"Best Original Song\" RT!",
+                "topsy_author_url": "http://topsy.com/twitter/hotnewhiphop",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hotnewhiphop/status/423832914330390528",
+                "trackback_author_name": "HotNewHipHop",
+                "trackback_author_nick": "hotnewhiphop"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1387721238,
+                "title": "\ud83c\udf80\ud83d\udc95#happy#sweet http://t.co/91x3RMlO4f",
+                "url": "http://twitter.com/mariko_dayo/status/414759050484932608",
+                "trackback_date": 1387721238,
+                "trackback_total": 248,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/91x3RMlO4f",
+                        "display_url": "instagram.com/p/iOgcZrtdld/",
+                        "expanded_url": "http://instagram.com/p/iOgcZrtdld/",
+                        "topsy_expanded_url": "http://instagram.com/p/iOgcZrtdld/"
+                    }
+                ],
+                "target_birth_date": 1387721238,
+                "content": "\ud83c\udf80\ud83d\udc95#happy#sweet http://t.co/91x3RMlO4f",
+                "mytype": "tweet",
+                "score": 9.520339,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000178017259/935e4c73305e24c2fbb1468f6fe8e45f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mariko_dayo/status/414759050484932608",
+                "trackback_author_url": "http://twitter.com/mariko_dayo",
+                "highlight": "\ud83c\udf80\ud83d\udc95#happy#sweet",
+                "topsy_author_url": "http://topsy.com/twitter/mariko_dayo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mariko_dayo/status/414759050484932608",
+                "trackback_author_name": "\u7be0\u7530\u9ebb\u91cc\u5b50",
+                "trackback_author_nick": "mariko_dayo"
+            },
+            {
+                "hits": 101,
+                "firstpost_date": 1371674490,
+                "title": "The key to life is to be #happy with or without money.  #Money only magnifies who you really are.",
+                "url": "http://twitter.com/therealkiyosaki/status/347454111714779136",
+                "trackback_date": 1371674490,
+                "trackback_total": 392,
+                "url_expansions": [],
+                "target_birth_date": 1371674490,
+                "content": "The key to life is to be #happy with or without money.  #Money only magnifies who you really are.",
+                "mytype": "tweet",
+                "score": 9.519897,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472421066007015424/MHUJj15g_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/theRealKiyosaki/status/347454111714779136",
+                "trackback_author_url": "http://twitter.com/therealkiyosaki",
+                "highlight": "The key to life is to be #happy with or without money. #Money only magnifies who you really are.",
+                "topsy_author_url": "http://topsy.com/twitter/therealkiyosaki",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/therealkiyosaki/status/347454111714779136",
+                "trackback_author_name": "Robert T. Kiyosaki",
+                "trackback_author_nick": "therealkiyosaki"
+            },
+            {
+                "hits": 64,
+                "firstpost_date": 1400660870,
+                "title": "Not so \u2018#Happy\u2019: Iranians arrested over YouTube hit http://t.co/RDtO1KKesf #Iran #Pharrell http://t.co/zuao9DezQD",
+                "url": "http://twitter.com/alarabiya_eng/status/469031803240476673",
+                "trackback_date": 1400660870,
+                "trackback_total": 72,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RDtO1KKesf",
+                        "display_url": "ara.tv/8vr3s",
+                        "expanded_url": "http://ara.tv/8vr3s",
+                        "topsy_expanded_url": "http://english.alarabiya.net/en/variety/2014/05/21/Six-Iranians-arrested-for-posting-Happy-on-YouTube-.html"
+                    },
+                    {
+                        "url": "http://t.co/zuao9DezQD",
+                        "display_url": "pic.twitter.com/zuao9DezQD",
+                        "expanded_url": "http://twitter.com/AlArabiya_Eng/status/469031803240476673/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BoJV8DqIIAAID0J.jpg"
+                    }
+                ],
+                "target_birth_date": 1400660870,
+                "content": "Not so \u2018#Happy\u2019: Iranians arrested over YouTube hit http://t.co/RDtO1KKesf #Iran #Pharrell http://t.co/zuao9DezQD",
+                "mytype": "tweet",
+                "score": 9.519241,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000739298555/ff3bfdc18d554836c26776987001ef9a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AlArabiya_Eng/status/469031803240476673",
+                "trackback_author_url": "http://twitter.com/alarabiya_eng",
+                "highlight": "Not so \u2018#Happy\u2019: Iranians arrested over YouTube hit #Iran #Pharrell",
+                "topsy_author_url": "http://topsy.com/twitter/alarabiya_eng",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/alarabiya_eng/status/469031803240476673",
+                "trackback_author_name": "Al Arabiya English",
+                "trackback_author_nick": "alarabiya_eng"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1390491608,
+                "title": "Why? Did I win an NTA? &gt; RT @lisaAmakeup I actually wanna cry!!! Don't know what to do with myself. #proud #delirious #emotional #happy x",
+                "url": "http://twitter.com/piersmorgan/status/426378824637366272",
+                "trackback_date": 1390491608,
+                "trackback_total": 12,
+                "url_expansions": [],
+                "target_birth_date": 1390491608,
+                "content": "Why? Did I win an NTA? &gt; RT @lisaAmakeup I actually wanna cry!!! Don't know what to do with myself. #proud #delirious #emotional #happy x",
+                "mytype": "tweet",
+                "score": 9.518967,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1170122820/Piers_profile_twitter_normal.jpg",
+                "trackback_permalink": "http://twitter.com/piersmorgan/status/426378824637366272",
+                "trackback_author_url": "http://twitter.com/piersmorgan",
+                "highlight": "Why? Did I win an NTA? &gt; RT @lisaAmakeup I actually wanna cry!!! Don't know what to do with myself. #proud #delirious #emotional #happy x",
+                "topsy_author_url": "http://topsy.com/twitter/piersmorgan",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/piersmorgan/status/426378824637366272",
+                "trackback_author_name": "Piers Morgan",
+                "trackback_author_nick": "piersmorgan"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1390881935,
+                "title": "+Yo RT @lizzycancino: #happy http://t.co/3O9PECMajE",
+                "url": "http://twitter.com/silvnavarro/status/428015977251360768",
+                "trackback_date": 1390881935,
+                "trackback_total": 99,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3O9PECMajE",
+                        "display_url": "instagram.com/p/jsrIy1uzHp/",
+                        "expanded_url": "http://instagram.com/p/jsrIy1uzHp/",
+                        "topsy_expanded_url": "http://instagram.com/p/jsrIy1uzHp/"
+                    }
+                ],
+                "target_birth_date": 1390881935,
+                "content": "+Yo RT @lizzycancino: #happy http://t.co/3O9PECMajE",
+                "mytype": "tweet",
+                "score": 9.518719,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1799206113/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/silvnavarro/status/428015977251360768",
+                "trackback_author_url": "http://twitter.com/silvnavarro",
+                "highlight": "+Yo#happy",
+                "topsy_author_url": "http://topsy.com/twitter/silvnavarro",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/silvnavarro/status/428015977251360768",
+                "trackback_author_name": "Silvia Navarro",
+                "trackback_author_nick": "silvnavarro"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1308281737,
+                "title": "#happy#happy #happy#happy#happy#happy#happy #happy#happy#happy",
+                "url": "http://twitter.com/4us_alhashem/status/81565634621739008",
+                "trackback_date": 1308281737,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1308281737,
+                "content": "#happy#happy #happy#happy#happy#happy#happy #happy#happy#happy",
+                "mytype": "tweet",
+                "score": 9.518585,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1428817630/Deema_EE_9C_9Bg_normal.jpg",
+                "trackback_permalink": "http://twitter.com/4us_AlHashem/status/81565634621739008",
+                "trackback_author_url": "http://twitter.com/4us_alhashem",
+                "highlight": "#happy#happy #happy#happy#happy#happy#happy #happy#happy",
+                "topsy_author_url": "http://topsy.com/twitter/4us_alhashem",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/4us_alhashem/status/81565634621739008",
+                "trackback_author_name": "\u0644\u0646\u0627 \u0633\u0639\u0648\u062f \u0627\u0644\u0647\u0627\u0634\u0645 ",
+                "trackback_author_nick": "4us_alhashem"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1312126642,
+                "title": "Single doesnt always mean #lonely and Relationship doesnt always mean #happy",
+                "url": "http://twitter.com/iampopgates/status/97692336934490112",
+                "trackback_date": 1312126642,
+                "trackback_total": 22,
+                "url_expansions": [],
+                "target_birth_date": 1312126642,
+                "content": "Single doesnt always mean #lonely and Relationship doesnt always mean #happy",
+                "mytype": "tweet",
+                "score": 9.51656,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1443818029/131073501824828_123_normal.gif",
+                "trackback_permalink": "http://twitter.com/IAMPOPGATES/status/97692336934490112",
+                "trackback_author_url": "http://twitter.com/iampopgates",
+                "highlight": "Single doesnt always mean #lonely and Relationship doesnt always mean",
+                "topsy_author_url": "http://topsy.com/twitter/iampopgates",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/iampopgates/status/97692336934490112",
+                "trackback_author_name": "POPGATES\u2122",
+                "trackback_author_nick": "iampopgates"
+            },
+            {
+                "hits": 57,
+                "firstpost_date": 1374508081,
+                "title": "Can you make it through this video without crying tears of joy? http://t.co/t98Cru2XAi #Rescued #Happy #Bears",
+                "url": "http://twitter.com/peta/status/359339054917103617",
+                "trackback_date": 1374508081,
+                "trackback_total": 69,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/t98Cru2XAi",
+                        "display_url": "youtu.be/NZLJZhxT0SY",
+                        "expanded_url": "http://youtu.be/NZLJZhxT0SY",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=NZLJZhxT0SY"
+                    }
+                ],
+                "target_birth_date": 1374508081,
+                "content": "Can you make it through this video without crying tears of joy? http://t.co/t98Cru2XAi #Rescued #Happy #Bears",
+                "mytype": "tweet",
+                "score": 9.516509,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462016017795780608/FdR6ESq7_normal.png",
+                "trackback_permalink": "http://twitter.com/peta/status/359339054917103617",
+                "trackback_author_url": "http://twitter.com/peta",
+                "highlight": "Can you make it through this video without crying tears of joy? #Rescued #Happy",
+                "topsy_author_url": "http://topsy.com/twitter/peta",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/peta/status/359339054917103617",
+                "trackback_author_name": "PETA",
+                "trackback_author_nick": "peta"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1397148641,
+                "title": "Does being #happy make you #healthy? http://t.co/0uBW5E2vS6 via @Good",
+                "url": "http://twitter.com/relev8/status/454300446107377664",
+                "trackback_date": 1397148641,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/0uBW5E2vS6",
+                        "display_url": "ow.ly/vvHH1",
+                        "expanded_url": "http://ow.ly/vvHH1",
+                        "topsy_expanded_url": "http://magazine.good.is/articles/does-being-happy-make-you-healthy"
+                    }
+                ],
+                "target_birth_date": 1397148641,
+                "content": "Does being #happy make you #healthy? http://t.co/0uBW5E2vS6 via @Good",
+                "mytype": "tweet",
+                "score": 9.516373,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1397266601/Relev8_Logo_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Relev8/status/454300446107377664",
+                "trackback_author_url": "http://twitter.com/relev8",
+                "highlight": "Does being #happy make you #healthy? via @Good",
+                "topsy_author_url": "http://topsy.com/twitter/relev8",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/relev8/status/454300446107377664",
+                "trackback_author_name": "Relevation",
+                "trackback_author_nick": "relev8"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 620,
+        "hidden": 0,
+        "total": 12901057,
+        "page": 1
+    }
+}

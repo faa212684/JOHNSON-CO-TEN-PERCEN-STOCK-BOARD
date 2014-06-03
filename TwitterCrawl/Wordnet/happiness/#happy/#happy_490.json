@@ -1,0 +1,275 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=490",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "490"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 82,
+                "firstpost_date": 1358910543,
+                "title": "Las cosas buenas toman su tiempo! #laaargodia #happy",
+                "url": "http://twitter.com/chiqui_delgado/status/293918237161320448",
+                "trackback_date": 1358910543,
+                "trackback_total": 108,
+                "url_expansions": [],
+                "target_birth_date": 1358910543,
+                "content": "Las cosas buenas toman su tiempo! #laaargodia #happy",
+                "mytype": "tweet",
+                "score": 9.624668,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000148376850/2285c6bfd4fa552de3749bf6290566e8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/chiqui_delgado/status/293918237161320448",
+                "trackback_author_url": "http://twitter.com/chiqui_delgado",
+                "highlight": "Las cosas buenas toman su tiempo! #laaargodia",
+                "topsy_author_url": "http://topsy.com/twitter/chiqui_delgado",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/chiqui_delgado/status/293918237161320448",
+                "trackback_author_name": "Chiquinquira Delgado",
+                "trackback_author_nick": "chiqui_delgado"
+            },
+            {
+                "hits": 25,
+                "firstpost_date": 1322154634,
+                "title": "#Happy Thanksgiving. Remember that old song: \"If you can't be with the ones you love, love the ones you're with.\" My neighbors are here w/me",
+                "url": "http://twitter.com/donnabrazile/status/139752784143728640",
+                "trackback_date": 1322154634,
+                "trackback_total": 42,
+                "url_expansions": [],
+                "target_birth_date": 1322154634,
+                "content": "#Happy Thanksgiving. Remember that old song: \"If you can't be with the ones you love, love the ones you're with.\" My neighbors are here w/me",
+                "mytype": "tweet",
+                "score": 9.624625,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/445770822121431041/wRt6EdTF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/donnabrazile/status/139752784143728640",
+                "trackback_author_url": "http://twitter.com/donnabrazile",
+                "highlight": "#Happy Thanksgiving. Remember that old song: \"If you can't be with the ones you love, love the ones you're with.\" My neighbors are here w/me",
+                "topsy_author_url": "http://topsy.com/twitter/donnabrazile",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/donnabrazile/status/139752784143728640",
+                "trackback_author_name": "Donna Brazile",
+                "trackback_author_nick": "donnabrazile"
+            },
+            {
+                "hits": 233,
+                "firstpost_date": 1399582839,
+                "title": "... A smile is the best make-up a girl can wear. #happy \ud83d\udc8b http://t.co/qRlSNUSeQl",
+                "url": "http://twitter.com/michkeegan/status/464510212431683584",
+                "trackback_date": 1399582839,
+                "trackback_total": 2090,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/qRlSNUSeQl",
+                        "display_url": "pic.twitter.com/qRlSNUSeQl",
+                        "expanded_url": "http://twitter.com/michkeegan/status/464510212431683584/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BnJFk0YCMAEn6mO.jpg"
+                    }
+                ],
+                "target_birth_date": 1399582839,
+                "content": "... A smile is the best make-up a girl can wear. #happy \ud83d\udc8b http://t.co/qRlSNUSeQl",
+                "mytype": "tweet",
+                "score": 9.622258,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452397903399903232/3y6Rl0x0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/michkeegan/status/464510212431683584",
+                "trackback_author_url": "http://twitter.com/michkeegan",
+                "highlight": "... A smile is the best make-up a girl can wear. #happy \ud83d\udc8b",
+                "topsy_author_url": "http://topsy.com/twitter/michkeegan",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/michkeegan/status/464510212431683584",
+                "trackback_author_name": "michelle keegan",
+                "trackback_author_nick": "michkeegan"
+            },
+            {
+                "hits": 22,
+                "firstpost_date": 1393830925,
+                "title": "Ain't no dance party like an #Oscars dance party! Get #happy with this compilation: http://t.co/35srZ87Z10",
+                "url": "http://twitter.com/mtvnews/status/440384936043114496",
+                "trackback_date": 1393830925,
+                "trackback_total": 23,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/35srZ87Z10",
+                        "display_url": "on.mtv.com/1eJU3Qe",
+                        "expanded_url": "http://on.mtv.com/1eJU3Qe",
+                        "topsy_expanded_url": "http://www.mtv.com/videos/movies/1007821/pharrell-throws-an-oscars-dance-party.jhtml"
+                    }
+                ],
+                "target_birth_date": 1393830925,
+                "content": "Ain't no dance party like an #Oscars dance party! Get #happy with this compilation: http://t.co/35srZ87Z10",
+                "mytype": "tweet",
+                "score": 9.622241,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000562469736/cfb04b3c7ea7794712ca42f3175003e6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MTVNews/status/440384936043114496",
+                "trackback_author_url": "http://twitter.com/mtvnews",
+                "highlight": "Ain't no dance party like an #Oscars dance party! Get #happy with this compilation:",
+                "topsy_author_url": "http://topsy.com/twitter/mtvnews",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mtvnews/status/440384936043114496",
+                "trackback_author_name": "MTV News",
+                "trackback_author_nick": "mtvnews"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1401395084,
+                "title": "The light keeps shining \u2728 #Blessed #Thankful #Happy \ud83d\ude4f http://t.co/2C69baWd4M",
+                "url": "http://twitter.com/evelynlozada/status/472111318376648704",
+                "trackback_date": 1401395084,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2C69baWd4M",
+                        "display_url": "instagram.com/p/omBPEHkFrw/",
+                        "expanded_url": "http://instagram.com/p/omBPEHkFrw/",
+                        "topsy_expanded_url": "http://instagram.com/p/omBPEHkFrw/"
+                    }
+                ],
+                "target_birth_date": 1401395084,
+                "content": "The light keeps shining \u2728 #Blessed #Thankful #Happy \ud83d\ude4f http://t.co/2C69baWd4M",
+                "mytype": "tweet",
+                "score": 9.622002,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469669477840199680/2ByYe_5O_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/EvelynLozada/status/472111318376648704",
+                "trackback_author_url": "http://twitter.com/evelynlozada",
+                "highlight": "The light keeps shining \u2728 #Blessed #Thankful #Happy \ud83d\ude4f",
+                "topsy_author_url": "http://topsy.com/twitter/evelynlozada",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/evelynlozada/status/472111318376648704",
+                "trackback_author_name": "Evelyn Lozada",
+                "trackback_author_nick": "evelynlozada"
+            },
+            {
+                "hits": 33,
+                "firstpost_date": 1392338331,
+                "title": "Que tardis\u00edma tan ajetreada!!!! #LoveIt #Happy",
+                "url": "http://twitter.com/anabrendac/status/434124544480002048",
+                "trackback_date": 1392338331,
+                "trackback_total": 43,
+                "url_expansions": [],
+                "target_birth_date": 1392338331,
+                "content": "Que tardis\u00edma tan ajetreada!!!! #LoveIt #Happy",
+                "mytype": "tweet",
+                "score": 9.621522,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467004250581921792/tOB4yQ4v_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/anabrendac/status/434124544480002048",
+                "trackback_author_url": "http://twitter.com/anabrendac",
+                "highlight": "Que tardis\u00edma tan ajetreada!!!! #LoveIt",
+                "topsy_author_url": "http://topsy.com/twitter/anabrendac",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/anabrendac/status/434124544480002048",
+                "trackback_author_name": "Ana Brenda",
+                "trackback_author_nick": "anabrendac"
+            },
+            {
+                "hits": 35,
+                "firstpost_date": 1400594543,
+                "title": "Looking forward to being with my friends on @TheChew later today. The delicious treats made me dance for joy! #Happy http://t.co/MwhfTZzoZY",
+                "url": "http://twitter.com/robinroberts/status/468753605076324352",
+                "trackback_date": 1400594543,
+                "trackback_total": 48,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/MwhfTZzoZY",
+                        "display_url": "pic.twitter.com/MwhfTZzoZY",
+                        "expanded_url": "http://twitter.com/RobinRoberts/status/468753605076324352/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BoFY63JCQAAR9GZ.jpg"
+                    }
+                ],
+                "target_birth_date": 1400594543,
+                "content": "Looking forward to being with my friends on @TheChew later today. The delicious treats made me dance for joy! #Happy http://t.co/MwhfTZzoZY",
+                "mytype": "tweet",
+                "score": 9.616901,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/456076015261863936/lJuO4EoP_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RobinRoberts/status/468753605076324352",
+                "trackback_author_url": "http://twitter.com/robinroberts",
+                "highlight": "Looking forward to being with my friends on @TheChew later today. The delicious treats made me dance for joy! #Happy",
+                "topsy_author_url": "http://topsy.com/twitter/robinroberts",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/robinroberts/status/468753605076324352",
+                "trackback_author_name": "Robin Roberts",
+                "trackback_author_nick": "robinroberts"
+            },
+            {
+                "hits": 23,
+                "firstpost_date": 1374372175,
+                "title": "Tonight's show is incredible. We got to giveaway four tickets, and a meet and greet package. Everyone who won is so grateful :). #happy",
+                "url": "http://twitter.com/justincrew/status/358769024806555648",
+                "trackback_date": 1374372175,
+                "trackback_total": 33,
+                "url_expansions": [],
+                "target_birth_date": 1374372175,
+                "content": "Tonight's show is incredible. We got to giveaway four tickets, and a meet and greet package. Everyone who won is so grateful :). #happy",
+                "mytype": "tweet",
+                "score": 9.616325,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461197817227517952/GvcceCSD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JustinCrew/status/358769024806555648",
+                "trackback_author_url": "http://twitter.com/justincrew",
+                "highlight": "Tonight's show is incredible. We got to giveaway four tickets, and a meet and greet package. Everyone who won is so grateful :).",
+                "topsy_author_url": "http://topsy.com/twitter/justincrew",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/justincrew/status/358769024806555648",
+                "trackback_author_name": "Justin Bieber Crew",
+                "trackback_author_nick": "justincrew"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1401684847,
+                "title": "Being random lol #LA #Happy #Laughs #Joy #WhyNot http://t.co/N5sScB7e0b",
+                "url": "http://twitter.com/angelasimmons/status/473326674688221184",
+                "trackback_date": 1401684847,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/N5sScB7e0b",
+                        "display_url": "instagram.com/p/oup6knzUfQ/",
+                        "expanded_url": "http://instagram.com/p/oup6knzUfQ/",
+                        "topsy_expanded_url": "http://instagram.com/p/oup6knzUfQ/"
+                    }
+                ],
+                "target_birth_date": 1401684847,
+                "content": "Being random lol #LA #Happy #Laughs #Joy #WhyNot http://t.co/N5sScB7e0b",
+                "mytype": "tweet",
+                "score": 9.616011,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2850560036/28b38c9f339856dc2c3b3267b12f211b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AngelaSimmons/status/473326674688221184",
+                "trackback_author_url": "http://twitter.com/angelasimmons",
+                "highlight": "Being random lol #LA #Happy #Laughs #Joy #WhyNot",
+                "topsy_author_url": "http://topsy.com/twitter/angelasimmons",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/angelasimmons/status/473326674688221184",
+                "trackback_author_name": "Angela Renee Simmons",
+                "trackback_author_nick": "angelasimmons"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1329249275,
+                "title": "RT  if you're getting your pet a Valentine's Day treat!  #Happy Valentine's Day http://t.co/f0bQiuej",
+                "url": "http://twitter.com/cesarmillan/status/169509857781755904",
+                "trackback_date": 1329249275,
+                "trackback_total": 162,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/f0bQiuej",
+                        "expanded_url": "http://twitter.com/cesarmillan/status/169509857781755904/photo/1",
+                        "display_url": "pic.twitter.com/f0bQiuej"
+                    }
+                ],
+                "target_birth_date": 1329249275,
+                "content": "RT  if you're getting your pet a Valentine's Day treat!  #Happy Valentine's Day http://t.co/f0bQiuej",
+                "mytype": "tweet",
+                "score": 9.615474,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453983510366126080/FUcyhJn2_normal.png",
+                "trackback_permalink": "http://twitter.com/cesarmillan/status/169509857781755904",
+                "trackback_author_url": "http://twitter.com/cesarmillan",
+                "highlight": "RT if you're getting your pet a Valentine's Day treat! #Happy Valentine's Day",
+                "topsy_author_url": "http://topsy.com/twitter/cesarmillan",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cesarmillan/status/169509857781755904",
+                "trackback_author_name": "Cesar Millan",
+                "trackback_author_nick": "cesarmillan"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 490,
+        "hidden": 0,
+        "total": 12822348,
+        "page": 1
+    }
+}

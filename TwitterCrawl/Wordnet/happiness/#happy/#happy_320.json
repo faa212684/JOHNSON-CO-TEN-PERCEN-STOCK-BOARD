@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=320",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "320"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 5,
+                "firstpost_date": 1385415615,
+                "title": "It is peaceful.\ud83d\udc25\ud83c\udf34#happy http://t.co/ZwEFllROFV",
+                "url": "http://twitter.com/mariko_dayo/status/405088567690805248",
+                "trackback_date": 1385415615,
+                "trackback_total": 300,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ZwEFllROFV",
+                        "display_url": "instagram.com/p/hJyvVcNdjM/",
+                        "expanded_url": "http://instagram.com/p/hJyvVcNdjM/",
+                        "topsy_expanded_url": "http://instagram.com/p/hJyvVcNdjM/"
+                    }
+                ],
+                "target_birth_date": 1385415615,
+                "content": "It is peaceful.\ud83d\udc25\ud83c\udf34#happy http://t.co/ZwEFllROFV",
+                "mytype": "tweet",
+                "score": 9.794816,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000178017259/935e4c73305e24c2fbb1468f6fe8e45f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mariko_dayo/status/405088567690805248",
+                "trackback_author_url": "http://twitter.com/mariko_dayo",
+                "highlight": "It is peaceful.\ud83d\udc25\ud83c\udf34#happy",
+                "topsy_author_url": "http://topsy.com/twitter/mariko_dayo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mariko_dayo/status/405088567690805248",
+                "trackback_author_name": "\u7be0\u7530\u9ebb\u91cc\u5b50",
+                "trackback_author_nick": "mariko_dayo"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1390843066,
+                "title": "Can't wait! RT @WolfgangSantner: Bringing @KimKardashian to the #world #famous #Opera #Ball in #Vienna\ud83d\ude00 #Happy #Ballroom #Dancing",
+                "url": "http://twitter.com/kimkardashian/status/427852949583167488",
+                "trackback_date": 1390843066,
+                "trackback_total": 222,
+                "url_expansions": [],
+                "target_birth_date": 1390843066,
+                "content": "Can't wait! RT @WolfgangSantner: Bringing @KimKardashian to the #world #famous #Opera #Ball in #Vienna\ud83d\ude00 #Happy #Ballroom #Dancing",
+                "mytype": "tweet",
+                "score": 9.793413,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2344348679/d7fhjj1t1mms16iq0m1p_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/KimKardashian/status/427852949583167488",
+                "trackback_author_url": "http://twitter.com/kimkardashian",
+                "highlight": "Can't wait!Bringing @KimKardashian to the #world #famous #Opera #Ball in #Vienna\ud83d\ude00 #Happy #Ballroom",
+                "topsy_author_url": "http://topsy.com/twitter/kimkardashian",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kimkardashian/status/427852949583167488",
+                "trackback_author_name": "Kim Kardashian West",
+                "trackback_author_nick": "kimkardashian"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1385061547,
+                "title": "\ud83c\udf52\ud83c\udf47\ud83c\udf49\ud83c\udf4e\ud83c\udf51\ud83c\udf49\ud83c\udf4f#happy http://t.co/rggo9uLDg8",
+                "url": "http://twitter.com/mariko_dayo/status/403603497285079040",
+                "trackback_date": 1385061547,
+                "trackback_total": 375,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/rggo9uLDg8",
+                        "display_url": "instagram.com/p/g_Pek2tdj0/",
+                        "expanded_url": "http://instagram.com/p/g_Pek2tdj0/",
+                        "topsy_expanded_url": "http://instagram.com/p/g_Pek2tdj0/"
+                    }
+                ],
+                "target_birth_date": 1385061547,
+                "content": "\ud83c\udf52\ud83c\udf47\ud83c\udf49\ud83c\udf4e\ud83c\udf51\ud83c\udf49\ud83c\udf4f#happy http://t.co/rggo9uLDg8",
+                "mytype": "tweet",
+                "score": 9.792866,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000178017259/935e4c73305e24c2fbb1468f6fe8e45f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mariko_dayo/status/403603497285079040",
+                "trackback_author_url": "http://twitter.com/mariko_dayo",
+                "highlight": "\ud83c\udf52\ud83c\udf47\ud83c\udf49\ud83c\udf4e\ud83c\udf51\ud83c\udf49\ud83c\udf4f#happy",
+                "topsy_author_url": "http://topsy.com/twitter/mariko_dayo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mariko_dayo/status/403603497285079040",
+                "trackback_author_name": "\u7be0\u7530\u9ebb\u91cc\u5b50",
+                "trackback_author_nick": "mariko_dayo"
+            },
+            {
+                "hits": 1268,
+                "firstpost_date": 1390318607,
+                "title": "Back to the hotel time to get some sleep!!! Thaaaanks for all the messages!!!! #happy #ReallyHappy http://t.co/tzrNL1J8Xn",
+                "url": "http://twitter.com/stanwawrinka/status/425653208451534848",
+                "trackback_date": 1390318607,
+                "trackback_total": 1861,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/tzrNL1J8Xn",
+                        "display_url": "pic.twitter.com/tzrNL1J8Xn",
+                        "expanded_url": "http://twitter.com/stanwawrinka/status/425653208451534848/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Beg5VnqCYAABifS.jpg"
+                    }
+                ],
+                "target_birth_date": 1390318607,
+                "content": "Back to the hotel time to get some sleep!!! Thaaaanks for all the messages!!!! #happy #ReallyHappy http://t.co/tzrNL1J8Xn",
+                "mytype": "tweet",
+                "score": 9.7921,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/465749801192390657/6x5ioEl-_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/stanwawrinka/status/425653208451534848",
+                "trackback_author_url": "http://twitter.com/stanwawrinka",
+                "highlight": "Back to the hotel time to get some sleep!!! Thaaaanks for all the messages!!!! #happy #ReallyHappy",
+                "topsy_author_url": "http://topsy.com/twitter/stanwawrinka",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/stanwawrinka/status/425653208451534848",
+                "trackback_author_name": "Stanislas Wawrinka",
+                "trackback_author_nick": "stanwawrinka"
+            },
+            {
+                "hits": 78,
+                "firstpost_date": 1358798942,
+                "title": "Hugs and kisses to you tw'eeps. #justbecause #monday #happy",
+                "url": "http://twitter.com/katewalsh/status/293450151501119488",
+                "trackback_date": 1358798942,
+                "trackback_total": 163,
+                "url_expansions": [],
+                "target_birth_date": 1358798942,
+                "content": "Hugs and kisses to you tw'eeps. #justbecause #monday #happy",
+                "mytype": "tweet",
+                "score": 9.7920885,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3443612607/d5bc18aa7a8b156d7ca56e2c2f570557_normal.png",
+                "trackback_permalink": "http://twitter.com/katewalsh/status/293450151501119488",
+                "trackback_author_url": "http://twitter.com/katewalsh",
+                "highlight": "Hugs and kisses to you tw'eeps. #justbecause #monday",
+                "topsy_author_url": "http://topsy.com/twitter/katewalsh",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/katewalsh/status/293450151501119488",
+                "trackback_author_name": "Kate Walsh",
+                "trackback_author_nick": "katewalsh"
+            },
+            {
+                "hits": 31,
+                "firstpost_date": 1310787707,
+                "title": "Lost 6lbs in two days. :D #happy",
+                "url": "http://twitter.com/therealryanhiga/status/92076433958113280",
+                "trackback_date": 1310787707,
+                "trackback_total": 255,
+                "url_expansions": [],
+                "target_birth_date": 1310787707,
+                "content": "Lost 6lbs in two days. :D #happy",
+                "mytype": "tweet",
+                "score": 9.791173,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3504457330/1e7cdb0d3182d503e682216040ec32ce_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TheRealRyanHiga/status/92076433958113280",
+                "trackback_author_url": "http://twitter.com/therealryanhiga",
+                "highlight": "Lost 6lbs in two days. :D",
+                "topsy_author_url": "http://topsy.com/twitter/therealryanhiga",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/therealryanhiga/status/92076433958113280",
+                "trackback_author_name": "Ryan Higa",
+                "trackback_author_nick": "therealryanhiga"
+            },
+            {
+                "hits": 71,
+                "firstpost_date": 1353969165,
+                "title": "Ya entiendo, la felicidad funciona como una anestesia ante los acontecimientos desafortunados. Nada me hace mal, en este momento! #happy",
+                "url": "http://twitter.com/rogergzz/status/273192596162084864",
+                "trackback_date": 1353969165,
+                "trackback_total": 92,
+                "url_expansions": [],
+                "target_birth_date": 1353969165,
+                "content": "Ya entiendo, la felicidad funciona como una anestesia ante los acontecimientos desafortunados. Nada me hace mal, en este momento! #happy",
+                "mytype": "tweet",
+                "score": 9.790398,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469007885905981442/e5tiLHvZ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rogergzz/status/273192596162084864",
+                "trackback_author_url": "http://twitter.com/rogergzz",
+                "highlight": "Ya entiendo, la felicidad funciona como una anestesia ante los acontecimientos desafortunados. Nada me hace mal, en este momento!",
+                "topsy_author_url": "http://topsy.com/twitter/rogergzz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rogergzz/status/273192596162084864",
+                "trackback_author_name": "Roger Gonzalez",
+                "trackback_author_nick": "rogergzz"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1375045652,
+                "title": "Esto es lo que hace que valga la pena mi trabajo !!! La sonrisa de los ni\u00f1os #happy http://t.co/jSmizY3j0E",
+                "url": "http://twitter.com/marianaecheve/status/361593790416449536",
+                "trackback_date": 1375045652,
+                "trackback_total": 29,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jSmizY3j0E",
+                        "display_url": "pic.twitter.com/jSmizY3j0E",
+                        "expanded_url": "http://twitter.com/marianaecheve/status/361593790416449536/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BQSjovdCcAAFBDn.jpg"
+                    }
+                ],
+                "target_birth_date": 1375045652,
+                "content": "Esto es lo que hace que valga la pena mi trabajo !!! La sonrisa de los ni\u00f1os #happy http://t.co/jSmizY3j0E",
+                "mytype": "tweet",
+                "score": 9.788098,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464643919578685440/HT-och-l_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/marianaecheve/status/361593790416449536",
+                "trackback_author_url": "http://twitter.com/marianaecheve",
+                "highlight": "Esto es lo que hace que valga la pena mi trabajo !!! La sonrisa de los ni\u00f1os #happy",
+                "topsy_author_url": "http://topsy.com/twitter/marianaecheve",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/marianaecheve/status/361593790416449536",
+                "trackback_author_name": "mariana echeverria o",
+                "trackback_author_nick": "marianaecheve"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1385109927,
+                "title": "#happy \ud83d\udc8b\ud83d\udc8b\ud83d\udc8b http://t.co/JbWnIJBeWL",
+                "url": "http://twitter.com/mariko_dayo/status/403806419390324736",
+                "trackback_date": 1385109927,
+                "trackback_total": 238,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/JbWnIJBeWL",
+                        "display_url": "instagram.com/p/hArv98tdol/",
+                        "expanded_url": "http://instagram.com/p/hArv98tdol/",
+                        "topsy_expanded_url": "http://instagram.com/p/hArv98tdol/"
+                    }
+                ],
+                "target_birth_date": 1385109927,
+                "content": "#happy \ud83d\udc8b\ud83d\udc8b\ud83d\udc8b http://t.co/JbWnIJBeWL",
+                "mytype": "tweet",
+                "score": 9.785903,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000178017259/935e4c73305e24c2fbb1468f6fe8e45f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mariko_dayo/status/403806419390324736",
+                "trackback_author_url": "http://twitter.com/mariko_dayo",
+                "highlight": "#happy \ud83d\udc8b\ud83d\udc8b\ud83d\udc8b",
+                "topsy_author_url": "http://topsy.com/twitter/mariko_dayo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mariko_dayo/status/403806419390324736",
+                "trackback_author_name": "\u7be0\u7530\u9ebb\u91cc\u5b50",
+                "trackback_author_nick": "mariko_dayo"
+            },
+            {
+                "hits": 138,
+                "firstpost_date": 1359505225,
+                "title": "#nofilter #work #happy #shortsdexuxa jajaja #sesiondefotos http://t.co/mijdObv6",
+                "url": "http://twitter.com/eizamusica/status/296412515578036224",
+                "trackback_date": 1359505225,
+                "trackback_total": 225,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/mijdObv6",
+                        "display_url": "instagr.am/p/VFmqoNvdfw/",
+                        "expanded_url": "http://instagr.am/p/VFmqoNvdfw/",
+                        "topsy_expanded_url": "http://instagr.am/p/VFmqoNvdfw/"
+                    }
+                ],
+                "target_birth_date": 1359505225,
+                "content": "#nofilter #work #happy #shortsdexuxa jajaja #sesiondefotos http://t.co/mijdObv6",
+                "mytype": "tweet",
+                "score": 9.785597,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461229059293593600/C2yT3h92_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/eizamusica/status/296412515578036224",
+                "trackback_author_url": "http://twitter.com/eizamusica",
+                "highlight": "#nofilter #work #happy #shortsdexuxa jajaja #sesiondefotos",
+                "topsy_author_url": "http://topsy.com/twitter/eizamusica",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/eizamusica/status/296412515578036224",
+                "trackback_author_name": "Eiza Gonzalez Reyna",
+                "trackback_author_nick": "eizamusica"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 320,
+        "hidden": 0,
+        "total": 13002846,
+        "page": 1
+    }
+}

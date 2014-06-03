@@ -1,0 +1,310 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23gladiolus&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=380",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#gladiolus",
+            "window": "a",
+            "type": "tweet",
+            "offset": "380"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1373692032,
+                "title": "Minky Bear (from see.me) #original #acrylic #painting #canvas #art #gladiolus #etsy #minkyandbear http://t.co/qogKd4BoHZ",
+                "url": "http://twitter.com/minkyandbear/status/355916297713893376",
+                "trackback_date": 1373692032,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/qogKd4BoHZ",
+                        "display_url": "pic.twitter.com/qogKd4BoHZ",
+                        "expanded_url": "http://twitter.com/MinkyandBear/status/355916297713893376/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BPB3_K-CQAA1fc-.jpg"
+                    }
+                ],
+                "target_birth_date": 1373692032,
+                "content": "Minky Bear (from see.me) #original #acrylic #painting #canvas #art #gladiolus #etsy #minkyandbear http://t.co/qogKd4BoHZ",
+                "mytype": "tweet",
+                "score": 4.923292,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000695335058/800573b9d776849f248c9d2008a018d9_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MinkyandBear/status/355916297713893376",
+                "trackback_author_url": "http://twitter.com/minkyandbear",
+                "highlight": "Minky Bear (from see.me) #original #acrylic #painting #canvas #art #gladiolus #etsy #minkyandbear",
+                "topsy_author_url": "http://topsy.com/twitter/minkyandbear",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/minkyandbear/status/355916297713893376",
+                "trackback_author_name": "McGovern",
+                "trackback_author_nick": "minkyandbear"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1361740045,
+                "title": "Photo : Pink gladiolus http://t.co/E2oKmg2C0i #redgage #pink #gladiolus",
+                "url": "http://twitter.com/cleroy61/status/305786029267365888",
+                "trackback_date": 1361740045,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/E2oKmg2C0i",
+                        "display_url": "redgage.com/c-tfjjjh",
+                        "expanded_url": "http://www.redgage.com/c-tfjjjh",
+                        "topsy_expanded_url": "http://www.redgage.com/photos/cleroy61/pink-gladiolus.html"
+                    }
+                ],
+                "target_birth_date": 1361740045,
+                "content": "Photo : Pink gladiolus http://t.co/E2oKmg2C0i #redgage #pink #gladiolus",
+                "mytype": "tweet",
+                "score": 4.923011,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2208917937/exemple-de-cadre-en-450x230-format-marque-de-fabrique-verticale-2_normal.png",
+                "trackback_permalink": "http://twitter.com/cleroy61/status/305786029267365888",
+                "trackback_author_url": "http://twitter.com/cleroy61",
+                "highlight": "Photo : Pink gladiolus #redgage #pink",
+                "topsy_author_url": "http://topsy.com/twitter/cleroy61",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cleroy61/status/305786029267365888",
+                "trackback_author_name": "Christophe Leroy",
+                "trackback_author_nick": "cleroy61"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1342546684,
+                "title": "#gladiolus  http://t.co/n6cnlh6e",
+                "url": "http://twitter.com/coliex0xlove/status/225283241404407808",
+                "trackback_date": 1342546684,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/n6cnlh6e",
+                        "display_url": "instagr.am/p/NMMzPeBuya/",
+                        "expanded_url": "http://instagr.am/p/NMMzPeBuya/",
+                        "topsy_expanded_url": "http://instagr.am/p/NMMzPeBuya/"
+                    }
+                ],
+                "target_birth_date": 1342546684,
+                "content": "#gladiolus  http://t.co/n6cnlh6e",
+                "mytype": "tweet",
+                "score": 4.9212575,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1519963027/1314672140079_normal.jpg",
+                "trackback_permalink": "http://twitter.com/coliex0xlove/status/225283241404407808",
+                "trackback_author_url": "http://twitter.com/coliex0xlove",
+                "highlight": "#gladiolus",
+                "topsy_author_url": "http://topsy.com/twitter/coliex0xlove",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/coliex0xlove/status/225283241404407808",
+                "trackback_author_name": "Nicole Fluet",
+                "trackback_author_nick": "coliex0xlove"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1338996648,
+                "title": "Some beautiful #Gladiolus #flowers  http://t.co/tuNIzCon",
+                "url": "http://twitter.com/slinkmuh/status/210393310915854336",
+                "trackback_date": 1338996648,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/tuNIzCon",
+                        "display_url": "instagr.am/p/LiZnaYKzrd/",
+                        "expanded_url": "http://instagr.am/p/LiZnaYKzrd/",
+                        "topsy_expanded_url": "http://instagr.am/p/LiZnaYKzrd/"
+                    }
+                ],
+                "target_birth_date": 1338996648,
+                "content": "Some beautiful #Gladiolus #flowers  http://t.co/tuNIzCon",
+                "mytype": "tweet",
+                "score": 4.9212403,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/445243760319139840/0IHiunKB_normal.png",
+                "trackback_permalink": "http://twitter.com/SlinkMuh/status/210393310915854336",
+                "trackback_author_url": "http://twitter.com/slinkmuh",
+                "highlight": "Some beautiful #Gladiolus #flowers",
+                "topsy_author_url": "http://topsy.com/twitter/slinkmuh",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/slinkmuh/status/210393310915854336",
+                "trackback_author_name": "M.N.I.M.N.",
+                "trackback_author_nick": "slinkmuh"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1339815684,
+                "title": "Purple#gladiolus #flower  http://t.co/OUmfzy9B http://t.co/WS1Ee69N",
+                "url": "http://twitter.com/stinaaah/status/213828593497808897",
+                "trackback_date": 1339815684,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/OUmfzy9B",
+                        "display_url": "instagr.am/p/L6z1zyJivd/",
+                        "expanded_url": "http://instagr.am/p/L6z1zyJivd/",
+                        "topsy_expanded_url": "http://instagr.am/p/L6z1zyJivd/"
+                    },
+                    {
+                        "url": "http://t.co/WS1Ee69N",
+                        "display_url": "fb.me/1PCPMNMnC",
+                        "expanded_url": "http://fb.me/1PCPMNMnC",
+                        "topsy_expanded_url": "http://fb.me/1PCPMNMnC"
+                    }
+                ],
+                "target_birth_date": 1339815684,
+                "content": "Purple#gladiolus #flower  http://t.co/OUmfzy9B http://t.co/WS1Ee69N",
+                "mytype": "tweet",
+                "score": 4.9211655,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460280562616262658/IWfa_LKa_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Stinaaah/status/213828593497808897",
+                "trackback_author_url": "http://twitter.com/stinaaah",
+                "highlight": "Purple#gladiolus #flower",
+                "topsy_author_url": "http://topsy.com/twitter/stinaaah",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/stinaaah/status/213828593497808897",
+                "trackback_author_name": "Stina \u262e",
+                "trackback_author_nick": "stinaaah"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1341778151,
+                "title": "Indulge in what brings you happiness. #gladiolus #flowers  http://t.co/8hL6TuHp",
+                "url": "http://twitter.com/ciaobelladc/status/222059777881161728",
+                "trackback_date": 1341778151,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8hL6TuHp",
+                        "display_url": "lockerz.com/s/223399773",
+                        "expanded_url": "http://lockerz.com/s/223399773",
+                        "topsy_expanded_url": "http://lockerz.com/s/223399773"
+                    }
+                ],
+                "target_birth_date": 1341778151,
+                "content": "Indulge in what brings you happiness. #gladiolus #flowers  http://t.co/8hL6TuHp",
+                "mytype": "tweet",
+                "score": 4.921064,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1695484837/CiaoBellaDC_normal.jpg",
+                "trackback_permalink": "http://twitter.com/CiaoBellaDC/status/222059777881161728",
+                "trackback_author_url": "http://twitter.com/ciaobelladc",
+                "highlight": "Indulge in what brings you happiness. #gladiolus #flowers",
+                "topsy_author_url": "http://topsy.com/twitter/ciaobelladc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ciaobelladc/status/222059777881161728",
+                "trackback_author_name": "Kim Williams",
+                "trackback_author_nick": "ciaobelladc"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1341697142,
+                "title": "\u30b0\u30e9\u30b8\u30aa\u30e9\u30b9 http://t.co/9Rr94AbY #Gladiolus",
+                "url": "http://twitter.com/bbaketunomizu/status/221720002884153345",
+                "trackback_date": 1341697142,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9Rr94AbY",
+                        "display_url": "carinsurancer.biz/q/1044/",
+                        "expanded_url": "http://carinsurancer.biz/q/1044/",
+                        "topsy_expanded_url": "http://carinsurancer.biz/q/1044/"
+                    }
+                ],
+                "target_birth_date": 1341697142,
+                "content": "\u30b0\u30e9\u30b8\u30aa\u30e9\u30b9 http://t.co/9Rr94AbY #Gladiolus",
+                "mytype": "tweet",
+                "score": 4.921064,
+                "topsy_author_img": "http://a0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+                "trackback_permalink": "http://twitter.com/bbaketunomizu/status/221720002884153345",
+                "trackback_author_url": "http://twitter.com/bbaketunomizu",
+                "highlight": "\u30b0\u30e9\u30b8\u30aa\u30e9\u30b9",
+                "topsy_author_url": "http://topsy.com/twitter/bbaketunomizu",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bbaketunomizu/status/221720002884153345",
+                "trackback_author_name": "bbaketunomizu",
+                "trackback_author_nick": "bbaketunomizu"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1341661063,
+                "title": "\u30b0\u30e9\u30b8\u30aa\u30e9\u30b9 http://t.co/vCw8gkvW #Gladiolus",
+                "url": "http://twitter.com/kabvnoki/status/221568676535603200",
+                "trackback_date": 1341661063,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vCw8gkvW",
+                        "display_url": "carinsurancer.biz/q/1044/",
+                        "expanded_url": "http://carinsurancer.biz/q/1044/",
+                        "topsy_expanded_url": "http://carinsurancer.biz/q/1044/"
+                    }
+                ],
+                "target_birth_date": 1341661063,
+                "content": "\u30b0\u30e9\u30b8\u30aa\u30e9\u30b9 http://t.co/vCw8gkvW #Gladiolus",
+                "mytype": "tweet",
+                "score": 4.921064,
+                "topsy_author_img": "http://a0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+                "trackback_permalink": "http://twitter.com/kabvnoki/status/221568676535603200",
+                "trackback_author_url": "http://twitter.com/kabvnoki",
+                "highlight": "\u30b0\u30e9\u30b8\u30aa\u30e9\u30b9",
+                "topsy_author_url": "http://topsy.com/twitter/kabvnoki",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kabvnoki/status/221568676535603200",
+                "trackback_author_name": "kabvnoki",
+                "trackback_author_nick": "kabvnoki"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1339468716,
+                "title": "Gorgeous #gladiolus in bloom http://t.co/jRs4mis9",
+                "url": "http://twitter.com/saphirefluterby/status/212373304831508484",
+                "trackback_date": 1339468716,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jRs4mis9",
+                        "display_url": "instagr.am/p/Lwd9VKQ_VY/",
+                        "expanded_url": "http://instagr.am/p/Lwd9VKQ_VY/",
+                        "topsy_expanded_url": "http://instagr.am/p/Lwd9VKQ_VY/"
+                    }
+                ],
+                "target_birth_date": 1339468716,
+                "content": "Gorgeous #gladiolus in bloom http://t.co/jRs4mis9",
+                "mytype": "tweet",
+                "score": 4.921064,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000070018048/5e1b15562dccd440bbdee138ee2587ba_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/saphirefluterby/status/212373304831508484",
+                "trackback_author_url": "http://twitter.com/naomikandrews",
+                "highlight": "Gorgeous #gladiolus in bloom",
+                "topsy_author_url": "http://topsy.com/twitter/naomikandrews",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/saphirefluterby/status/212373304831508484",
+                "trackback_author_name": "Naomi K Andrews",
+                "trackback_author_nick": "naomikandrews"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1378428173,
+                "title": "#gladiolus @ The Lake House http://t.co/SYhQlzYmsF",
+                "url": "http://twitter.com/brosejennings/status/375781112254980096",
+                "trackback_date": 1378428173,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/SYhQlzYmsF",
+                        "display_url": "instagram.com/p/d5jRPNqn50/",
+                        "expanded_url": "http://instagram.com/p/d5jRPNqn50/",
+                        "topsy_expanded_url": "http://instagram.com/p/d5jRPNqn50/"
+                    }
+                ],
+                "target_birth_date": 1378428173,
+                "content": "#gladiolus @ The Lake House http://t.co/SYhQlzYmsF",
+                "mytype": "tweet",
+                "score": 4.920837,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1334777310/strausbourg_normal.jpg",
+                "trackback_permalink": "http://twitter.com/brosejennings/status/375781112254980096",
+                "trackback_author_url": "http://twitter.com/brosejennings",
+                "highlight": "#gladiolus @ The Lake House",
+                "topsy_author_url": "http://topsy.com/twitter/brosejennings",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/brosejennings/status/375781112254980096",
+                "trackback_author_name": "Brittany R Jennings",
+                "trackback_author_nick": "brosejennings"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 380,
+        "hidden": 0,
+        "total": 1761,
+        "page": 1
+    }
+}

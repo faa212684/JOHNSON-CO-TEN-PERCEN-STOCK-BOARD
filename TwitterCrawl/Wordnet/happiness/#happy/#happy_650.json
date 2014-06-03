@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=650",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "650"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 18,
+                "firstpost_date": 1392847981,
+                "title": "Go on Pharrell!!!! \ud83d\ude04 #happy",
+                "url": "http://twitter.com/michkeegan/status/436262171354628096",
+                "trackback_date": 1392847981,
+                "trackback_total": 668,
+                "url_expansions": [],
+                "target_birth_date": 1392847981,
+                "content": "Go on Pharrell!!!! \ud83d\ude04 #happy",
+                "mytype": "tweet",
+                "score": 9.500025,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452397903399903232/3y6Rl0x0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/michkeegan/status/436262171354628096",
+                "trackback_author_url": "http://twitter.com/michkeegan",
+                "highlight": "Go on Pharrell!!!! \ud83d\ude04",
+                "topsy_author_url": "http://topsy.com/twitter/michkeegan",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/michkeegan/status/436262171354628096",
+                "trackback_author_name": "michelle keegan",
+                "trackback_author_nick": "michkeegan"
+            },
+            {
+                "hits": 48,
+                "firstpost_date": 1324440607,
+                "title": "#HAPPY HOLIDAY'S TO ALL OF YOU!!!",
+                "url": "http://twitter.com/latoyajackson/status/149340849183014912",
+                "trackback_date": 1324440607,
+                "trackback_total": 137,
+                "url_expansions": [],
+                "target_birth_date": 1324440607,
+                "content": "#HAPPY HOLIDAY'S TO ALL OF YOU!!!",
+                "mytype": "tweet",
+                "score": 9.499372,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3456257290/c982f8b0af43489942bb93691ce18fb0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/latoyajackson/status/149340849183014912",
+                "trackback_author_url": "http://twitter.com/latoyajackson",
+                "highlight": "#HAPPY HOLIDAY'S TO ALL OF YOU!!!",
+                "topsy_author_url": "http://topsy.com/twitter/latoyajackson",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/latoyajackson/status/149340849183014912",
+                "trackback_author_name": "La Toya Jackson",
+                "trackback_author_nick": "latoyajackson"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1272680851,
+                "title": "The thing about gay boys, is that they make me oh so #happy #hi5 #fb",
+                "url": "http://twitter.com/rt/status/13164779824",
+                "trackback_date": 1272680851,
+                "trackback_total": 4,
+                "url_expansions": [],
+                "target_birth_date": 1272680851,
+                "content": "The thing about gay boys, is that they make me oh so #happy #hi5 #fb",
+                "mytype": "tweet",
+                "score": 9.49903,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/18528072/sf_rubyskye_03042006_004.3_normal.jpg",
+                "trackback_permalink": "http://twitter.com/RT/status/13164779824",
+                "trackback_author_url": "http://twitter.com/rt",
+                "highlight": "The thing about gay boys, is that they make me oh so #happy #hi5",
+                "topsy_author_url": "http://topsy.com/twitter/rt",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rt/status/13164779824",
+                "trackback_author_name": "RT",
+                "trackback_author_nick": "rt"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1353871033,
+                "title": "#tripuntablanca #happy http://t.co/oa5OlG1J",
+                "url": "http://twitter.com/flacaguerrerog/status/272781001397248001",
+                "trackback_date": 1353871033,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/oa5OlG1J",
+                        "display_url": "instagr.am/p/SdsRkxp9gc/",
+                        "expanded_url": "http://instagr.am/p/SdsRkxp9gc/",
+                        "topsy_expanded_url": "http://instagram.com/p/SdsRkxp9gc/"
+                    }
+                ],
+                "target_birth_date": 1353871033,
+                "content": "#tripuntablanca #happy http://t.co/oa5OlG1J",
+                "mytype": "tweet",
+                "score": 9.495382,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471145488821911552/B_y-N21Q_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/flacaguerrerog/status/272781001397248001",
+                "trackback_author_url": "http://twitter.com/flacaguerrerog",
+                "highlight": "#tripuntablanca #happy",
+                "topsy_author_url": "http://topsy.com/twitter/flacaguerrerog",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/flacaguerrerog/status/272781001397248001",
+                "trackback_author_name": "mariateresaguerrero",
+                "trackback_author_nick": "flacaguerrerog"
+            },
+            {
+                "hits": 56,
+                "firstpost_date": 1393811556,
+                "title": "Skateboard P time!  The @Pharrellhat returns! @Pharrell #Happy #Oscars http://t.co/XG5R3qQzWR",
+                "url": "http://twitter.com/vevo/status/440303696790843393",
+                "trackback_date": 1393811556,
+                "trackback_total": 72,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XG5R3qQzWR",
+                        "display_url": "vevo.ly/5D0RaK",
+                        "expanded_url": "http://vevo.ly/5D0RaK",
+                        "topsy_expanded_url": "http://www.vevo.com/watch/USSM21302490?country=US&shortlink=5D0RaK&syndicationid=bb8a16ab-1279-4f17-969b-1dba5eb60eda"
+                    }
+                ],
+                "target_birth_date": 1393811556,
+                "content": "Skateboard P time!  The @Pharrellhat returns! @Pharrell #Happy #Oscars http://t.co/XG5R3qQzWR",
+                "mytype": "tweet",
+                "score": 9.495163,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461496140253233153/l5q6Qn8q_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/VEVO/status/440303696790843393",
+                "trackback_author_url": "http://twitter.com/vevo",
+                "highlight": "Skateboard P time! The @Pharrellhat returns! @Pharrell #Happy #Oscars",
+                "topsy_author_url": "http://topsy.com/twitter/vevo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/vevo/status/440303696790843393",
+                "trackback_author_name": "Vevo",
+                "trackback_author_nick": "vevo"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1382716186,
+                "title": "#Play #Work #Happy \ud83c\udfb6\ud83d\udd1d\u270c\ufe0f http://t.co/ItfgpTCnjD",
+                "url": "http://twitter.com/ambrosioelieser/status/393766341603524608",
+                "trackback_date": 1382716186,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ItfgpTCnjD",
+                        "display_url": "instagram.com/p/f5V-92Nmg-/",
+                        "expanded_url": "http://instagram.com/p/f5V-92Nmg-/",
+                        "topsy_expanded_url": "http://instagram.com/p/f5V-92Nmg-/"
+                    }
+                ],
+                "target_birth_date": 1382716186,
+                "content": "#Play #Work #Happy \ud83c\udfb6\ud83d\udd1d\u270c\ufe0f http://t.co/ItfgpTCnjD",
+                "mytype": "tweet",
+                "score": 9.494881,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000792583594/373e8a949c81d82f30c7f73945232347_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ambrosioelieser/status/393766341603524608",
+                "trackback_author_url": "http://twitter.com/ambrosioelieser",
+                "highlight": "#Play #Work #Happy \ud83c\udfb6\ud83d\udd1d\u270c\ufe0f",
+                "topsy_author_url": "http://topsy.com/twitter/ambrosioelieser",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ambrosioelieser/status/393766341603524608",
+                "trackback_author_name": "Eli\u00e9ser Ambr\u00f3sio",
+                "trackback_author_nick": "ambrosioelieser"
+            },
+            {
+                "hits": 54,
+                "firstpost_date": 1382448023,
+                "title": "Escrit\u00f3rio do dia!!! #paradise #love #happy #peace #vacation http://t.co/aoJIHeAdoU",
+                "url": "http://twitter.com/ticipinheiro/status/392641584489304064",
+                "trackback_date": 1382448023,
+                "trackback_total": 70,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/aoJIHeAdoU",
+                        "display_url": "instagram.com/p/fxWPRlGM5r/",
+                        "expanded_url": "http://instagram.com/p/fxWPRlGM5r/",
+                        "topsy_expanded_url": "http://instagram.com/p/fxWPRlGM5r/"
+                    }
+                ],
+                "target_birth_date": 1382448023,
+                "content": "Escrit\u00f3rio do dia!!! #paradise #love #happy #peace #vacation http://t.co/aoJIHeAdoU",
+                "mytype": "tweet",
+                "score": 9.49477,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/447259219285524480/b_4hMQEy_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TiciPinheiro/status/392641584489304064",
+                "trackback_author_url": "http://twitter.com/ticipinheiro",
+                "highlight": "Escrit\u00f3rio do dia!!! #paradise #love #happy #peace #vacation",
+                "topsy_author_url": "http://topsy.com/twitter/ticipinheiro",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ticipinheiro/status/392641584489304064",
+                "trackback_author_name": "Ticiane Pinheiro ",
+                "trackback_author_nick": "ticipinheiro"
+            },
+            {
+                "hits": 69,
+                "firstpost_date": 1393627947,
+                "title": "Loving a rainy LA day. #rain #happy http://t.co/UKFxopW8ui",
+                "url": "http://twitter.com/angelalessandra/status/439533583707828224",
+                "trackback_date": 1393627947,
+                "trackback_total": 92,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/UKFxopW8ui",
+                        "display_url": "pic.twitter.com/UKFxopW8ui",
+                        "expanded_url": "http://twitter.com/AngelAlessandra/status/439533583707828224/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BhmJdyoCEAAniEV.jpg"
+                    }
+                ],
+                "target_birth_date": 1393627947,
+                "content": "Loving a rainy LA day. #rain #happy http://t.co/UKFxopW8ui",
+                "mytype": "tweet",
+                "score": 9.494138,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/439549598869110784/oCLHzOm6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AngelAlessandra/status/439533583707828224",
+                "trackback_author_url": "http://twitter.com/angelalessandra",
+                "highlight": "Loving a rainy LA day. #rain #happy",
+                "topsy_author_url": "http://topsy.com/twitter/angelalessandra",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/angelalessandra/status/439533583707828224",
+                "trackback_author_name": "Alessandra Ambrosio",
+                "trackback_author_nick": "angelalessandra"
+            },
+            {
+                "hits": 169,
+                "firstpost_date": 1388621378,
+                "title": "Having a blast with the fam!  :)  Hope you are having a fun day too!  #Happy http://t.co/FowdhOgDf5",
+                "url": "http://twitter.com/mattybraps/status/418534511643607041",
+                "trackback_date": 1388621378,
+                "trackback_total": 260,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/FowdhOgDf5",
+                        "display_url": "pic.twitter.com/FowdhOgDf5",
+                        "expanded_url": "http://twitter.com/MattyBRaps/status/418534511643607041/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bc7u67OCIAAJ2qS.jpg"
+                    }
+                ],
+                "target_birth_date": 1388621378,
+                "content": "Having a blast with the fam!  :)  Hope you are having a fun day too!  #Happy http://t.co/FowdhOgDf5",
+                "mytype": "tweet",
+                "score": 9.493457,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/470926320981917696/3yWjvxeA_normal.png",
+                "trackback_permalink": "http://twitter.com/MattyBRaps/status/418534511643607041",
+                "trackback_author_url": "http://twitter.com/mattybraps",
+                "highlight": "Having a blast with the fam! :) Hope you are having a fun day too! #Happy",
+                "topsy_author_url": "http://topsy.com/twitter/mattybraps",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mattybraps/status/418534511643607041",
+                "trackback_author_name": "MattyBRaps",
+                "trackback_author_nick": "mattybraps"
+            },
+            {
+                "hits": 602,
+                "firstpost_date": 1341760283,
+                "title": "Great weekend with a good podium! In wet and dry we were with the best, this is important..good news! #Happy http://t.co/ABEahhVT",
+                "url": "http://twitter.com/alo_oficial/status/221984832178237440",
+                "trackback_date": 1341760283,
+                "trackback_total": 979,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ABEahhVT",
+                        "expanded_url": "http://twitter.com/alo_oficial/status/221984832178237440/photo/1",
+                        "display_url": "pic.twitter.com/ABEahhVT"
+                    }
+                ],
+                "target_birth_date": 1341760283,
+                "content": "Great weekend with a good podium! In wet and dry we were with the best, this is important..good news! #Happy http://t.co/ABEahhVT",
+                "mytype": "tweet",
+                "score": 9.492903,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2281610718/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/alo_oficial/status/221984832178237440",
+                "trackback_author_url": "http://twitter.com/alo_oficial",
+                "highlight": "Great weekend with a good podium! In wet and dry we were with the best, this is important..good news! #Happy",
+                "topsy_author_url": "http://topsy.com/twitter/alo_oficial",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/alo_oficial/status/221984832178237440",
+                "trackback_author_name": "Fernando Alonso",
+                "trackback_author_nick": "alo_oficial"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 650,
+        "hidden": 0,
+        "total": 12751650,
+        "page": 1
+    }
+}

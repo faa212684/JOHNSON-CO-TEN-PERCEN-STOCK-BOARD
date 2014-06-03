@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=470",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "470"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 46,
+                "firstpost_date": 1385905794,
+                "title": "FT ~ #Tottenham #Spurs 2 - 2 @ManUtd #MUFC \nRetweet if you are #Happy!\nFavorite if you are #Sad!",
+                "url": "http://twitter.com/vickyvette/status/407144526025748480",
+                "trackback_date": 1385905794,
+                "trackback_total": 51,
+                "url_expansions": [],
+                "target_birth_date": 1385905794,
+                "content": "FT ~ #Tottenham #Spurs 2 - 2 @ManUtd #MUFC \nRetweet if you are #Happy!\nFavorite if you are #Sad!",
+                "mytype": "tweet",
+                "score": 9.646373,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000688379431/8e2a1848c9917e4104af04463a9a6b0e_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/vickyvette/status/407144526025748480",
+                "trackback_author_url": "http://twitter.com/vickyvette",
+                "highlight": "FT ~ #Tottenham #Spurs 2 - 2 @ManUtd #MUFC Retweet if you are #Happy! Favorite if you are #Sad!",
+                "topsy_author_url": "http://topsy.com/twitter/vickyvette",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/vickyvette/status/407144526025748480",
+                "trackback_author_name": "Vicky Vette",
+                "trackback_author_nick": "vickyvette"
+            },
+            {
+                "hits": 30,
+                "firstpost_date": 1396638017,
+                "title": "TGIF. Get you goin' for the weekend with a lil #Happy playlist: http://t.co/h0aQSCgrSx http://t.co/raE6IgwvV0",
+                "url": "http://twitter.com/iamqueenlatifah/status/452158733355732992",
+                "trackback_date": 1396638017,
+                "trackback_total": 41,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/h0aQSCgrSx",
+                        "display_url": "bit.ly/qlplaylist",
+                        "expanded_url": "http://bit.ly/qlplaylist",
+                        "topsy_expanded_url": "http://queenlatifah.com/music/playlists/qlshow-playlist/"
+                    },
+                    {
+                        "url": "http://t.co/raE6IgwvV0",
+                        "display_url": "pic.twitter.com/raE6IgwvV0",
+                        "expanded_url": "http://twitter.com/IAMQUEENLATIFAH/status/452158733355732992/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BkZj-N8CQAA82-o.jpg"
+                    }
+                ],
+                "target_birth_date": 1396638017,
+                "content": "TGIF. Get you goin' for the weekend with a lil #Happy playlist: http://t.co/h0aQSCgrSx http://t.co/raE6IgwvV0",
+                "mytype": "tweet",
+                "score": 9.645692,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/456871669085114369/i9uqbJa9_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/IAMQUEENLATIFAH/status/452158733355732992",
+                "trackback_author_url": "http://twitter.com/iamqueenlatifah",
+                "highlight": "TGIF. Get you goin' for the weekend with a lil #Happy playlist:",
+                "topsy_author_url": "http://topsy.com/twitter/iamqueenlatifah",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/iamqueenlatifah/status/452158733355732992",
+                "trackback_author_name": "Queen Latifah",
+                "trackback_author_nick": "iamqueenlatifah"
+            },
+            {
+                "hits": 40,
+                "firstpost_date": 1393137256,
+                "title": "How Jesse is and how I aspire to be. #happy http://t.co/1SHHFMrZYP",
+                "url": "http://twitter.com/ericstonestreet/status/437475478740688896",
+                "trackback_date": 1393137256,
+                "trackback_total": 55,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1SHHFMrZYP",
+                        "display_url": "instagram.com/p/kv6rf7utfW/",
+                        "expanded_url": "http://instagram.com/p/kv6rf7utfW/",
+                        "topsy_expanded_url": "http://instagram.com/p/kv6rf7utfW/"
+                    }
+                ],
+                "target_birth_date": 1393137256,
+                "content": "How Jesse is and how I aspire to be. #happy http://t.co/1SHHFMrZYP",
+                "mytype": "tweet",
+                "score": 9.644677,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000626926058/aa196b61745a1bd09d5e27c394f608fb_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ericstonestreet/status/437475478740688896",
+                "trackback_author_url": "http://twitter.com/ericstonestreet",
+                "highlight": "How Jesse is and how I aspire to be. #happy",
+                "topsy_author_url": "http://topsy.com/twitter/ericstonestreet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ericstonestreet/status/437475478740688896",
+                "trackback_author_name": "Eric Stonestreet",
+                "trackback_author_nick": "ericstonestreet"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1389282645,
+                "title": "#TBT had to go to my brother and one of the best advice givers! #Happy Bday love @ochocinco and enjoy! http://t.co/LhN3kLqJmt",
+                "url": "http://twitter.com/inkrediblekam/status/421308069084012545",
+                "trackback_date": 1389282645,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/LhN3kLqJmt",
+                        "display_url": "pic.twitter.com/LhN3kLqJmt",
+                        "expanded_url": "http://twitter.com/InKredibleKam/status/421308069084012545/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BdjJdNnCYAAWXmD.jpg"
+                    }
+                ],
+                "target_birth_date": 1389282645,
+                "content": "#TBT had to go to my brother and one of the best advice givers! #Happy Bday love @ochocinco and enjoy! http://t.co/LhN3kLqJmt",
+                "mytype": "tweet",
+                "score": 9.642196,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463013162149634048/ZrmB4VKk_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/InKredibleKam/status/421308069084012545",
+                "trackback_author_url": "http://twitter.com/inkrediblekam",
+                "highlight": "#TBT had to go to my brother and one of the best advice givers! #Happy Bday love @ochocinco and enjoy!",
+                "topsy_author_url": "http://topsy.com/twitter/inkrediblekam",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/inkrediblekam/status/421308069084012545",
+                "trackback_author_name": "InKredible Kam",
+                "trackback_author_nick": "inkrediblekam"
+            },
+            {
+                "hits": 234,
+                "firstpost_date": 1396757333,
+                "title": "You're listening to #Happy from @Pharrell. http://t.co/nZhY8BnP8s",
+                "url": "http://twitter.com/nbcsnl/status/452659179765760002",
+                "trackback_date": 1396757333,
+                "trackback_total": 311,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/nZhY8BnP8s",
+                        "display_url": "pic.twitter.com/nZhY8BnP8s",
+                        "expanded_url": "http://twitter.com/nbcsnl/status/452659179765760002/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BkgrIC6CAAAk6qp.png"
+                    }
+                ],
+                "target_birth_date": 1396757333,
+                "content": "You're listening to #Happy from @Pharrell. http://t.co/nZhY8BnP8s",
+                "mytype": "tweet",
+                "score": 9.640824,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464044371352899584/VmBooUaI_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/nbcsnl/status/452659179765760002",
+                "trackback_author_url": "http://twitter.com/nbcsnl",
+                "highlight": "You're listening to #Happy from @Pharrell.",
+                "topsy_author_url": "http://topsy.com/twitter/nbcsnl",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbcsnl/status/452659179765760002",
+                "trackback_author_name": "Saturday Night Live",
+                "trackback_author_nick": "nbcsnl"
+            },
+            {
+                "hits": 192,
+                "firstpost_date": 1335875886,
+                "title": "A world where every #child has the opportunity to live a #healthy and #happy life: #ThatsWhatIWant. RT if you agree",
+                "url": "http://twitter.com/savethechildren/status/197303883754774528",
+                "trackback_date": 1335875886,
+                "trackback_total": 220,
+                "url_expansions": [],
+                "target_birth_date": 1335875886,
+                "content": "A world where every #child has the opportunity to live a #healthy and #happy life: #ThatsWhatIWant. RT if you agree",
+                "mytype": "tweet",
+                "score": 9.639863,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469503371452248064/hv_pvUBe_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SavetheChildren/status/197303883754774528",
+                "trackback_author_url": "http://twitter.com/savethechildren",
+                "highlight": "A world where every #child has the opportunity to live a #healthy and #happy life: #ThatsWhatIWant. RT if you agree",
+                "topsy_author_url": "http://topsy.com/twitter/savethechildren",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/savethechildren/status/197303883754774528",
+                "trackback_author_name": "Save the Children",
+                "trackback_author_nick": "savethechildren"
+            },
+            {
+                "hits": 21,
+                "firstpost_date": 1303824301,
+                "title": "Happiness at Walt Disney World is... #disneymagic  #happy",
+                "url": "http://twitter.com/waltdisneyworld/status/62869792176091136",
+                "trackback_date": 1303824301,
+                "trackback_total": 54,
+                "url_expansions": [],
+                "target_birth_date": 1303824301,
+                "content": "Happiness at Walt Disney World is... #disneymagic  #happy",
+                "mytype": "tweet",
+                "score": 9.639212,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458706754855923712/p8YBLvZJ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/WaltDisneyWorld/status/62869792176091136",
+                "trackback_author_url": "http://twitter.com/waltdisneyworld",
+                "highlight": "Happiness at Walt Disney World is... #disneymagic",
+                "topsy_author_url": "http://topsy.com/twitter/waltdisneyworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/waltdisneyworld/status/62869792176091136",
+                "trackback_author_name": "Walt Disney World",
+                "trackback_author_nick": "waltdisneyworld"
+            },
+            {
+                "hits": 83,
+                "firstpost_date": 1393811557,
+                "title": "Que freg\u00f3n ganarte un oscar como m\u00fasico! #Happy me pone de buenas siempre! Gran canci\u00f3n. Gran m\u00fasico @Pharrell que se lo gane!!!!",
+                "url": "http://twitter.com/patycantu/status/440303699621986304",
+                "trackback_date": 1393811557,
+                "trackback_total": 107,
+                "url_expansions": [],
+                "target_birth_date": 1393811557,
+                "content": "Que freg\u00f3n ganarte un oscar como m\u00fasico! #Happy me pone de buenas siempre! Gran canci\u00f3n. Gran m\u00fasico @Pharrell que se lo gane!!!!",
+                "mytype": "tweet",
+                "score": 9.638696,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/442802361933651969/cPKDY1dF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PatyCantu/status/440303699621986304",
+                "trackback_author_url": "http://twitter.com/patycantu",
+                "highlight": "Que freg\u00f3n ganarte un oscar como m\u00fasico! #Happy me pone de buenas siempre! Gran canci\u00f3n. Gran m\u00fasico @Pharrell que se lo gane!!!!",
+                "topsy_author_url": "http://topsy.com/twitter/patycantu",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/patycantu/status/440303699621986304",
+                "trackback_author_name": "Patricia G Cantu",
+                "trackback_author_nick": "patycantu"
+            },
+            {
+                "hits": 66,
+                "firstpost_date": 1395713493,
+                "title": "#happy #DownSyndromeAwareness http://t.co/WIhBu3CXCP",
+                "url": "http://twitter.com/johnfugelsang/status/448281000028950528",
+                "trackback_date": 1395713493,
+                "trackback_total": 80,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WIhBu3CXCP",
+                        "display_url": "pic.twitter.com/WIhBu3CXCP",
+                        "expanded_url": "http://twitter.com/JohnFugelsang/status/448281000028950528/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BjidMbwIYAECLOE.jpg"
+                    }
+                ],
+                "target_birth_date": 1395713493,
+                "content": "#happy #DownSyndromeAwareness http://t.co/WIhBu3CXCP",
+                "mytype": "tweet",
+                "score": 9.637893,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/465149055199227904/S_IWIjDQ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JohnFugelsang/status/448281000028950528",
+                "trackback_author_url": "http://twitter.com/johnfugelsang",
+                "highlight": "#happy #DownSyndromeAwareness",
+                "topsy_author_url": "http://topsy.com/twitter/johnfugelsang",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/johnfugelsang/status/448281000028950528",
+                "trackback_author_name": "John Fugelsang",
+                "trackback_author_nick": "johnfugelsang"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1384021050,
+                "title": "It's the little things that make me #happy @CocaCola http://t.co/ykEsxOhNPk",
+                "url": "http://twitter.com/kirk_official/status/399239339995324416",
+                "trackback_date": 1384021050,
+                "trackback_total": 31,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ykEsxOhNPk",
+                        "display_url": "pic.twitter.com/ykEsxOhNPk",
+                        "expanded_url": "http://twitter.com/kirk_official/status/399239339995324416/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BYpiEHNIMAA8C9k.jpg"
+                    }
+                ],
+                "target_birth_date": 1384021050,
+                "content": "It's the little things that make me #happy @CocaCola http://t.co/ykEsxOhNPk",
+                "mytype": "tweet",
+                "score": 9.636638,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467044732414480385/d9G5XGAP_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/kirk_official/status/399239339995324416",
+                "trackback_author_url": "http://twitter.com/kirk_official",
+                "highlight": "It's the little things that make me #happy @CocaCola",
+                "topsy_author_url": "http://topsy.com/twitter/kirk_official",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kirk_official/status/399239339995324416",
+                "trackback_author_name": "Kirk Norcross",
+                "trackback_author_nick": "kirk_official"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 470,
+        "hidden": 0,
+        "total": 12918994,
+        "page": 1
+    }
+}

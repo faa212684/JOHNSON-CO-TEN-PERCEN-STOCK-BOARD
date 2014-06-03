@@ -1,0 +1,288 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=700",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "700"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 15,
+                "firstpost_date": 1309737612,
+                "title": "\"A sound #mind in a sound #body is a short but full description of a #happy state in this world.\" - John Locke",
+                "url": "http://twitter.com/mercola/status/87672019503685633",
+                "trackback_date": 1309737612,
+                "trackback_total": 15,
+                "url_expansions": [],
+                "target_birth_date": 1309737612,
+                "content": "\"A sound #mind in a sound #body is a short but full description of a #happy state in this world.\" - John Locke",
+                "mytype": "tweet",
+                "score": 9.461308,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/432787194739044352/bWQAXdOf_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mercola/status/87672019503685633",
+                "trackback_author_url": "http://twitter.com/mercola",
+                "highlight": "\"A sound #mind in a sound #body is a short but full description of a #happy state in this world.\" - John Locke",
+                "topsy_author_url": "http://topsy.com/twitter/mercola",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mercola/status/87672019503685633",
+                "trackback_author_name": "Dr. Mercola",
+                "trackback_author_nick": "mercola"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1376459513,
+                "title": "#Martes13 #at #Nobu with my friend @susydiab #Happy #Night #LA http://t.co/i1VbDu4apc",
+                "url": "http://twitter.com/zairana/status/367523954329931776",
+                "trackback_date": 1376459513,
+                "trackback_total": 30,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/i1VbDu4apc",
+                        "display_url": "instagram.com/p/c-3M5HL5xa/",
+                        "expanded_url": "http://instagram.com/p/c-3M5HL5xa/",
+                        "topsy_expanded_url": "http://instagram.com/p/c-3M5HL5xa/"
+                    }
+                ],
+                "target_birth_date": 1376459513,
+                "content": "#Martes13 #at #Nobu with my friend @susydiab #Happy #Night #LA http://t.co/i1VbDu4apc",
+                "mytype": "tweet",
+                "score": 9.459999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3694695486/864c7082770471df2e13e102697bd544_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/zairana/status/367523954329931776",
+                "trackback_author_url": "http://twitter.com/zairana",
+                "highlight": "#Martes13 #at #Nobu with my friend @susydiab #Happy #Night #LA",
+                "topsy_author_url": "http://topsy.com/twitter/zairana",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/zairana/status/367523954329931776",
+                "trackback_author_name": "Zaira nara",
+                "trackback_author_nick": "zairana"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1370214317,
+                "title": "#HouseMusic #Party #Happy http://t.co/M0FdFPYiaa",
+                "url": "http://twitter.com/ambrosioelieser/status/341329704122462210",
+                "trackback_date": 1370214317,
+                "trackback_total": 21,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/M0FdFPYiaa",
+                        "display_url": "instagram.com/p/aEwmLHNmhi/",
+                        "expanded_url": "http://instagram.com/p/aEwmLHNmhi/",
+                        "topsy_expanded_url": "http://instagram.com/p/aEwmLHNmhi/"
+                    }
+                ],
+                "target_birth_date": 1370214317,
+                "content": "#HouseMusic #Party #Happy http://t.co/M0FdFPYiaa",
+                "mytype": "tweet",
+                "score": 9.459207,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000792583594/373e8a949c81d82f30c7f73945232347_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ambrosioelieser/status/341329704122462210",
+                "trackback_author_url": "http://twitter.com/ambrosioelieser",
+                "highlight": "#HouseMusic #Party #Happy",
+                "topsy_author_url": "http://topsy.com/twitter/ambrosioelieser",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ambrosioelieser/status/341329704122462210",
+                "trackback_author_name": "Eli\u00e9ser Ambr\u00f3sio",
+                "trackback_author_nick": "ambrosioelieser"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1395603316,
+                "title": "5 of the BEST #Happy parody videos\u2026 @Pharrell would be proud! http://t.co/9OyO7ughTr",
+                "url": "http://twitter.com/capitalofficial/status/447818881521160192",
+                "trackback_date": 1395603316,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9OyO7ughTr",
+                        "display_url": "bit.ly/1gdIdib",
+                        "expanded_url": "http://bit.ly/1gdIdib",
+                        "topsy_expanded_url": "http://www.capitalfm.com/artists/pharrell-williams/news/happy-video-best-parodies/"
+                    }
+                ],
+                "target_birth_date": 1395603316,
+                "content": "5 of the BEST #Happy parody videos\u2026 @Pharrell would be proud! http://t.co/9OyO7ughTr",
+                "mytype": "tweet",
+                "score": 9.459113,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458929598156132352/dtJdSHhZ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CapitalOfficial/status/447818881521160192",
+                "trackback_author_url": "http://twitter.com/capitalofficial",
+                "highlight": "5 of the BEST #Happy parody videos\u2026 @Pharrell would be proud!",
+                "topsy_author_url": "http://topsy.com/twitter/capitalofficial",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/capitalofficial/status/447818881521160192",
+                "trackback_author_name": "Capital FM",
+                "trackback_author_nick": "capitalofficial"
+            },
+            {
+                "hits": 25,
+                "firstpost_date": 1322164055,
+                "title": "\u250a\u250a\u250a\u250a\u250a\u250a\u250a\u250a\u250a\u256d\u2501\u2501\u256e\u250a\u250a \u250a\u2571\u2594\u2594\u2572\u250a\u250a\u250a\u250a\u2503\u256d\u2585\u2595\u2582\u2582 \u2571\u2571\u2594\u2594\u2595\u250a\u250a\u250a\u250a\u2503\u2570\u256f\u2503\u2503\u2571 \u2571\u2572\u2572\u2572\u2595\u250a\u250a\u250a\u250a\u2503\u2508\u256d\u252b\u2503\u250a \u2572\u2572\u2572\u2572\u2595\u250a\u250a\u250a\u250a\u2503\u2508\u2503\u2570\u256f\u250a \u2572\u2572\u2572\u2571\u2571\u2594\u2594\u2594\u2572\u2503\u2508\u2503\u250a\u250a\u250a \u2572\u2572\u2571\u2571\u256d\u2501\u2501\u2501\u256e\u2508\u2508\u2503\u250a\u250a\u250a #Happy #Thanksgiving",
+                "url": "http://twitter.com/82joseph/status/139792298941747200",
+                "trackback_date": 1322164055,
+                "trackback_total": 25,
+                "url_expansions": [],
+                "target_birth_date": 1322164055,
+                "content": "\u250a\u250a\u250a\u250a\u250a\u250a\u250a\u250a\u250a\u256d\u2501\u2501\u256e\u250a\u250a \u250a\u2571\u2594\u2594\u2572\u250a\u250a\u250a\u250a\u2503\u256d\u2585\u2595\u2582\u2582 \u2571\u2571\u2594\u2594\u2595\u250a\u250a\u250a\u250a\u2503\u2570\u256f\u2503\u2503\u2571 \u2571\u2572\u2572\u2572\u2595\u250a\u250a\u250a\u250a\u2503\u2508\u256d\u252b\u2503\u250a \u2572\u2572\u2572\u2572\u2595\u250a\u250a\u250a\u250a\u2503\u2508\u2503\u2570\u256f\u250a \u2572\u2572\u2572\u2571\u2571\u2594\u2594\u2594\u2572\u2503\u2508\u2503\u250a\u250a\u250a \u2572\u2572\u2571\u2571\u256d\u2501\u2501\u2501\u256e\u2508\u2508\u2503\u250a\u250a\u250a #Happy #Thanksgiving",
+                "mytype": "tweet",
+                "score": 9.458053,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/470770319331168256/NiVclxwL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/82JOSEPH/status/139792298941747200",
+                "trackback_author_url": "http://twitter.com/82joseph",
+                "highlight": "\u250a\u250a\u250a\u250a\u250a\u250a\u250a\u250a\u250a\u256d\u2501\u2501\u256e\u250a\u250a \u250a\u2571\u2594\u2594\u2572\u250a\u250a\u250a\u250a\u2503\u256d\u2585\u2595\u2582\u2582 \u2571\u2571\u2594\u2594\u2595\u250a\u250a\u250a\u250a\u2503\u2570\u256f\u2503\u2503\u2571 \u2571\u2572\u2572\u2572\u2595\u250a\u250a\u250a\u250a\u2503\u2508\u256d\u252b\u2503\u250a \u2572\u2572\u2572\u2572\u2595\u250a\u250a\u250a\u250a\u2503\u2508\u2503\u2570\u256f\u250a \u2572\u2572\u2572\u2571\u2571\u2594\u2594\u2594\u2572\u2503\u2508\u2503\u250a\u250a\u250a \u2572\u2572\u2571\u2571\u256d\u2501\u2501\u2501\u256e\u2508\u2508\u2503\u250a\u250a\u250a #Happy",
+                "topsy_author_url": "http://topsy.com/twitter/82joseph",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/82joseph/status/139792298941747200",
+                "trackback_author_name": "Joseph",
+                "trackback_author_nick": "82joseph"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1325393671,
+                "title": "Wow. Watching #CNNNYE with @andersoncooper and Kathy G. They are keeping it live. #Happy New Year!",
+                "url": "http://twitter.com/donnabrazile/status/153338286960680960",
+                "trackback_date": 1325393671,
+                "trackback_total": 23,
+                "url_expansions": [],
+                "target_birth_date": 1325393671,
+                "content": "Wow. Watching #CNNNYE with @andersoncooper and Kathy G. They are keeping it live. #Happy New Year!",
+                "mytype": "tweet",
+                "score": 9.457453,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/445770822121431041/wRt6EdTF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/donnabrazile/status/153338286960680960",
+                "trackback_author_url": "http://twitter.com/donnabrazile",
+                "highlight": "Wow. Watching #CNNNYE with @andersoncooper and Kathy G. They are keeping it live. #Happy New Year!",
+                "topsy_author_url": "http://topsy.com/twitter/donnabrazile",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/donnabrazile/status/153338286960680960",
+                "trackback_author_name": "Donna Brazile",
+                "trackback_author_nick": "donnabrazile"
+            },
+            {
+                "hits": 68,
+                "firstpost_date": 1400622571,
+                "title": "Six Iranians arrested for posting \u2018Happy\u2019 on #YouTube  http://t.co/33yx7sTcLE  #Iran #Happy http://t.co/xLXbfrZltO",
+                "url": "http://twitter.com/alarabiya_eng/status/468871166552444928",
+                "trackback_date": 1400622571,
+                "trackback_total": 83,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/33yx7sTcLE",
+                        "display_url": "ara.tv/8vr3s",
+                        "expanded_url": "http://ara.tv/8vr3s",
+                        "topsy_expanded_url": "http://english.alarabiya.net/en/variety/2014/05/21/Six-Iranians-arrested-for-posting-Happy-on-YouTube-.html"
+                    },
+                    {
+                        "url": "http://t.co/xLXbfrZltO",
+                        "display_url": "pic.twitter.com/xLXbfrZltO",
+                        "expanded_url": "http://twitter.com/AlArabiya_Eng/status/468871166552444928/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BoHD1whIYAEx3DB.jpg"
+                    }
+                ],
+                "target_birth_date": 1400622571,
+                "content": "Six Iranians arrested for posting \u2018Happy\u2019 on #YouTube  http://t.co/33yx7sTcLE  #Iran #Happy http://t.co/xLXbfrZltO",
+                "mytype": "tweet",
+                "score": 9.457061,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000739298555/ff3bfdc18d554836c26776987001ef9a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AlArabiya_Eng/status/468871166552444928",
+                "trackback_author_url": "http://twitter.com/alarabiya_eng",
+                "highlight": "Six Iranians arrested for posting \u2018Happy\u2019 on #YouTube #Iran #Happy",
+                "topsy_author_url": "http://topsy.com/twitter/alarabiya_eng",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/alarabiya_eng/status/468871166552444928",
+                "trackback_author_name": "Al Arabiya English",
+                "trackback_author_nick": "alarabiya_eng"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1375058512,
+                "title": "Seriously just died laughing. .. #hilarious #happy #sunday http://t.co/7yvS0DqYM7",
+                "url": "http://twitter.com/joshuajstrick/status/361647728004042752",
+                "trackback_date": 1375058512,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7yvS0DqYM7",
+                        "display_url": "instagram.com/p/cVIJgNBo76/",
+                        "expanded_url": "http://instagram.com/p/cVIJgNBo76/",
+                        "topsy_expanded_url": "http://instagram.com/p/cVIJgNBo76/"
+                    }
+                ],
+                "target_birth_date": 1375058512,
+                "content": "Seriously just died laughing. .. #hilarious #happy #sunday http://t.co/7yvS0DqYM7",
+                "mytype": "tweet",
+                "score": 9.456618,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1598392307/n470x_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Joshuajstrick/status/361647728004042752",
+                "trackback_author_url": "http://twitter.com/joshuajstrick",
+                "highlight": "Seriously just died laughing. .. #hilarious #happy #sunday",
+                "topsy_author_url": "http://topsy.com/twitter/joshuajstrick",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/joshuajstrick/status/361647728004042752",
+                "trackback_author_name": "Josh strickland",
+                "trackback_author_nick": "joshuajstrick"
+            },
+            {
+                "hits": 46,
+                "firstpost_date": 1393432896,
+                "title": "Looks like @Pharrell is set to return to no.1 with #Happy this weekend! http://t.co/da4NPhO5Jq http://t.co/mpfA5HgXzg",
+                "url": "http://twitter.com/mtvuk/status/438715481118097408",
+                "trackback_date": 1393432896,
+                "trackback_total": 55,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/da4NPhO5Jq",
+                        "display_url": "mtvne.ws/symghy",
+                        "expanded_url": "http://mtvne.ws/symghy",
+                        "topsy_expanded_url": "http://www.mtv.co.uk/pharrell-williams/news/pharrell-set-to-return-to-no1-with-happy-this-weekend"
+                    },
+                    {
+                        "url": "http://t.co/mpfA5HgXzg",
+                        "display_url": "pic.twitter.com/mpfA5HgXzg",
+                        "expanded_url": "http://twitter.com/MTVUK/status/438715481118097408/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BhahZ9oCQAAQ6g0.jpg"
+                    }
+                ],
+                "target_birth_date": 1393432896,
+                "content": "Looks like @Pharrell is set to return to no.1 with #Happy this weekend! http://t.co/da4NPhO5Jq http://t.co/mpfA5HgXzg",
+                "mytype": "tweet",
+                "score": 9.456489,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/455988075705815040/hkP39v1z_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MTVUK/status/438715481118097408",
+                "trackback_author_url": "http://twitter.com/mtvuk",
+                "highlight": "Looks like @Pharrell is set to return to no.1 with #Happy this weekend!",
+                "topsy_author_url": "http://topsy.com/twitter/mtvuk",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mtvuk/status/438715481118097408",
+                "trackback_author_name": "MTV UK",
+                "trackback_author_nick": "mtvuk"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1390066605,
+                "title": "It took me 3 years of hard work to get verified! #happy",
+                "url": "http://twitter.com/kayne_r/status/424596233010028545",
+                "trackback_date": 1390066605,
+                "trackback_total": 17,
+                "url_expansions": [],
+                "target_birth_date": 1390066605,
+                "content": "It took me 3 years of hard work to get verified! #happy",
+                "mytype": "tweet",
+                "score": 9.45628,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469590537910374400/M1btn0YX_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/kayne_r/status/424596233010028545",
+                "trackback_author_url": "http://twitter.com/kayne_r",
+                "highlight": "It took me 3 years of hard work to get verified!",
+                "topsy_author_url": "http://topsy.com/twitter/kayne_r",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kayne_r/status/424596233010028545",
+                "trackback_author_name": "Kayne ",
+                "trackback_author_nick": "kayne_r"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 700,
+        "hidden": 0,
+        "total": 12711387,
+        "page": 1
+    }
+}

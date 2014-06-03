@@ -1,0 +1,45 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23gladiola&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=870",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#gladiola",
+            "window": "a",
+            "type": "tweet",
+            "offset": "870"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1311631802,
+                "title": "RT @FondlingDeath: Is looking for a: #Holly #Amelia #Hallow #Jesus #Lafayette #Octavia #Marnie\n#MrCataliades #Gladiola #Diantha #Claude  ...",
+                "url": "http://twitter.com/ms_ravenscroft/status/95616824841998336",
+                "trackback_date": 1311631802,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1311631802,
+                "content": "RT @FondlingDeath: Is looking for a: #Holly #Amelia #Hallow #Jesus #Lafayette #Octavia #Marnie\n#MrCataliades #Gladiola #Diantha #Claude  ...",
+                "mytype": "tweet",
+                "score": 3.5126407,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/2443123884/u7rw8jyzpzyxjodsufhs_normal.gif",
+                "trackback_permalink": "http://twitter.com/Ms_Ravenscroft/status/95616824841998336",
+                "trackback_author_url": "http://twitter.com/ms_ravenscroft",
+                "highlight": "Is looking for a: #Holly #Amelia #Hallow #Jesus #Lafayette #Octavia #Marnie #MrCataliades #Gladiola #Diantha #Claude ",
+                "topsy_author_url": "http://topsy.com/twitter/ms_ravenscroft",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ms_ravenscroft/status/95616824841998336",
+                "trackback_author_name": "Pam Ravenscroft",
+                "trackback_author_nick": "ms_ravenscroft"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 870,
+        "hidden": 0,
+        "total": 871,
+        "page": 1
+    }
+}

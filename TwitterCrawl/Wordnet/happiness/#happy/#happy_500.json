@@ -1,0 +1,248 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=500",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "500"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 66,
+                "firstpost_date": 1312083225,
+                "title": "Do what makes you #happy ... Life is too short &lt;3",
+                "url": "http://twitter.com/phoebedykstra/status/97510231122264064",
+                "trackback_date": 1312083225,
+                "trackback_total": 94,
+                "url_expansions": [],
+                "target_birth_date": 1312083225,
+                "content": "Do what makes you #happy ... Life is too short &lt;3",
+                "mytype": "tweet",
+                "score": 9.60496,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/470793359477706752/Yglfou7q_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/phoebedykstra/status/97510231122264064",
+                "trackback_author_url": "http://twitter.com/phoebedykstra",
+                "highlight": "Do what makes you #happy ... Life is too short &lt;3",
+                "topsy_author_url": "http://topsy.com/twitter/phoebedykstra",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/phoebedykstra/status/97510231122264064",
+                "trackback_author_name": "Phoebe Dykstra",
+                "trackback_author_nick": "phoebedykstra"
+            },
+            {
+                "hits": 179,
+                "firstpost_date": 1296399052,
+                "title": "#TWITTERART #Happy #Sunday\n\u2571\u2571\u2571\u2513\u2513\u256d\u256e\u2533\u256e\u2533\u256e\u256e\u256d\u2571\u2571\u2571\n\u2571\u2571\u2571\u2523\u252b\u2523\u252b\u2523\u256f\u2523\u256f\u2570\u252b\u2571\u2571\u2571\n\u2571\u2571\u2571\u251b\u251b\u251b\u251b\u253b\u2571\u253b\u2571\u2570\u256f\u2571\u2571\u2571\n\u2571\u256d\u256e\u2513\u2513\u2533\u256e\u2513\u2533\u256e\u256d\u256e\u256e\u256d\u2571\u2571\n\u2571\u2570\u256e\u2503\u2503\u2503\u2503\u2503\u2503\u2503\u2523\u252b\u2570\u252b\u2571\u2571\n\u2571\u2570\u256f\u2570\u256f\u253b\u2570\u251b\u253b\u256f\u251b\u251b\u2570\u256f\u2571\u2571",
+                "url": "http://twitter.com/tw1tt3rart/status/31726040548114432",
+                "trackback_date": 1296399052,
+                "trackback_total": 184,
+                "url_expansions": [],
+                "target_birth_date": 1296399052,
+                "content": "#TWITTERART #Happy #Sunday\n\u2571\u2571\u2571\u2513\u2513\u256d\u256e\u2533\u256e\u2533\u256e\u256e\u256d\u2571\u2571\u2571\n\u2571\u2571\u2571\u2523\u252b\u2523\u252b\u2523\u256f\u2523\u256f\u2570\u252b\u2571\u2571\u2571\n\u2571\u2571\u2571\u251b\u251b\u251b\u251b\u253b\u2571\u253b\u2571\u2570\u256f\u2571\u2571\u2571\n\u2571\u256d\u256e\u2513\u2513\u2533\u256e\u2513\u2533\u256e\u256d\u256e\u256e\u256d\u2571\u2571\n\u2571\u2570\u256e\u2503\u2503\u2503\u2503\u2503\u2503\u2503\u2523\u252b\u2570\u252b\u2571\u2571\n\u2571\u2570\u256f\u2570\u256f\u253b\u2570\u251b\u253b\u256f\u251b\u251b\u2570\u256f\u2571\u2571",
+                "mytype": "tweet",
+                "score": 9.604805,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000088772345/9deb12300adb788ac2cac863c12f0113_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/tw1tt3rart/status/31726040548114432",
+                "trackback_author_url": "http://twitter.com/tw1tt3rart",
+                "highlight": "#TWITTERART #Happy #Sunday \u2571\u2571\u2571\u2513\u2513\u256d\u256e\u2533\u256e\u2533\u256e\u256e\u256d\u2571\u2571\u2571 \u2571\u2571\u2571\u2523\u252b\u2523\u252b\u2523\u256f\u2523\u256f\u2570\u252b\u2571\u2571\u2571 \u2571\u2571\u2571\u251b\u251b\u251b\u251b\u253b\u2571\u253b\u2571\u2570\u256f\u2571\u2571\u2571 \u2571\u256d\u256e\u2513\u2513\u2533\u256e\u2513\u2533\u256e\u256d\u256e\u256e\u256d\u2571\u2571 \u2571\u2570\u256e\u2503\u2503\u2503\u2503\u2503\u2503\u2503\u2523\u252b\u2570\u252b\u2571\u2571 \u2571\u2570\u256f\u2570\u256f\u253b\u2570\u251b\u253b\u256f\u251b\u251b\u2570\u256f\u2571\u2571",
+                "topsy_author_url": "http://topsy.com/twitter/tw1tt3rart",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tw1tt3rart/status/31726040548114432",
+                "trackback_author_name": "@tw1tt3rart",
+                "trackback_author_nick": "tw1tt3rart"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1385143267,
+                "title": ".@Pharrell's creative genius strikes again! We introduce to you the WORLD'S FIRST EVER 24HR MUSIC VIDEO --&gt;  http://t.co/ishiEtwqmf #Happy",
+                "url": "http://twitter.com/bet/status/403946259750215680",
+                "trackback_date": 1385143267,
+                "trackback_total": 66,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ishiEtwqmf",
+                        "display_url": "bet.us/I4OvT8",
+                        "expanded_url": "http://bet.us/I4OvT8",
+                        "topsy_expanded_url": "http://www.bet.com/news/music/2013/11/22/pharrell-williams-releases-24-hour-music-video.html?cid=socialMusicCeleb_20131122_14826744"
+                    }
+                ],
+                "target_birth_date": 1385143267,
+                "content": ".@Pharrell's creative genius strikes again! We introduce to you the WORLD'S FIRST EVER 24HR MUSIC VIDEO --&gt;  http://t.co/ishiEtwqmf #Happy",
+                "mytype": "tweet",
+                "score": 9.604712,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461504800597610499/Wk_gjblm_normal.png",
+                "trackback_permalink": "http://twitter.com/BET/status/403946259750215680",
+                "trackback_author_url": "http://twitter.com/bet",
+                "highlight": ".@Pharrell's creative genius strikes again! We introduce to you the WORLD'S FIRST EVER 24HR MUSIC VIDEO --&gt;",
+                "topsy_author_url": "http://topsy.com/twitter/bet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bet/status/403946259750215680",
+                "trackback_author_name": "BET",
+                "trackback_author_nick": "bet"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1388048261,
+                "title": "Nice! @AmerTouristerPh \u2764 \u201c@imBeaIlagan: Gift!! @annecurtissmith @AmerTouristerPh #happy #Christmas http://t.co/9ZaUfWRIws\u201d",
+                "url": "http://twitter.com/annecurtissmith/status/416130684151799810",
+                "trackback_date": 1388048261,
+                "trackback_total": 40,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9ZaUfWRIws",
+                        "display_url": "pic.twitter.com/9ZaUfWRIws",
+                        "expanded_url": "http://twitter.com/imBeaIlagan/status/416130115701972992/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BcZkIptCQAALa31.jpg"
+                    }
+                ],
+                "target_birth_date": 1388048261,
+                "content": "Nice! @AmerTouristerPh \u2764 \u201c@imBeaIlagan: Gift!! @annecurtissmith @AmerTouristerPh #happy #Christmas http://t.co/9ZaUfWRIws\u201d",
+                "mytype": "tweet",
+                "score": 9.603458,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459234378703319041/G-sZ82pi_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/annecurtissmith/status/416130684151799810",
+                "trackback_author_url": "http://twitter.com/annecurtissmith",
+                "highlight": "Nice! @AmerTouristerPh \u2764 \u201c@imBeaIlagan: Gift!! @annecurtissmith @AmerTouristerPh #happy #Christmas",
+                "topsy_author_url": "http://topsy.com/twitter/annecurtissmith",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/annecurtissmith/status/416130684151799810",
+                "trackback_author_name": "Anne Curtis-Smith",
+                "trackback_author_nick": "annecurtissmith"
+            },
+            {
+                "hits": 46,
+                "firstpost_date": 1395355612,
+                "title": "Esta canci\u00f3n es ya un himno para sonre\u00edr. D\u00eda de la alegr\u00eda a celebrarlo con @Pharrell #Happy... http://t.co/f2DZLPDMWB",
+                "url": "http://twitter.com/calacnn/status/446779936204812288",
+                "trackback_date": 1395355612,
+                "trackback_total": 58,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/f2DZLPDMWB",
+                        "display_url": "fb.me/2akmirMVn",
+                        "expanded_url": "http://fb.me/2akmirMVn",
+                        "topsy_expanded_url": "https://www.youtube.com/watch?v=y6Sxv-sUYtM"
+                    }
+                ],
+                "target_birth_date": 1395355612,
+                "content": "Esta canci\u00f3n es ya un himno para sonre\u00edr. D\u00eda de la alegr\u00eda a celebrarlo con @Pharrell #Happy... http://t.co/f2DZLPDMWB",
+                "mytype": "tweet",
+                "score": 9.602841,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468770933025406976/w5YLEgfX_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CALACNN/status/446779936204812288",
+                "trackback_author_url": "http://twitter.com/calacnn",
+                "highlight": "Esta canci\u00f3n es ya un himno para sonre\u00edr. D\u00eda de la alegr\u00eda a celebrarlo con @Pharrell #Happy",
+                "topsy_author_url": "http://topsy.com/twitter/calacnn",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/calacnn/status/446779936204812288",
+                "trackback_author_name": "Ismael Cala",
+                "trackback_author_nick": "calacnn"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1388810128,
+                "title": "At the hotel  strait happy #happy #love #boy http://t.co/iYBw0a3Bd9",
+                "url": "http://twitter.com/mitchelmusso/status/419326186062630912",
+                "trackback_date": 1388810128,
+                "trackback_total": 76,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/iYBw0a3Bd9",
+                        "display_url": "instagram.com/p/iu9SAYD9bd/",
+                        "expanded_url": "http://instagram.com/p/iu9SAYD9bd/",
+                        "topsy_expanded_url": "http://instagram.com/p/iu9SAYD9bd/"
+                    }
+                ],
+                "target_birth_date": 1388810128,
+                "content": "At the hotel  strait happy #happy #love #boy http://t.co/iYBw0a3Bd9",
+                "mytype": "tweet",
+                "score": 9.600476,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000504127416/f0c57ccbccfe93183c897b8490e0f152_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mitchelmusso/status/419326186062630912",
+                "trackback_author_url": "http://twitter.com/mitchelmusso",
+                "highlight": "At the hotel strait happy #happy #love #boy",
+                "topsy_author_url": "http://topsy.com/twitter/mitchelmusso",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mitchelmusso/status/419326186062630912",
+                "trackback_author_name": "Mitchel Musso",
+                "trackback_author_nick": "mitchelmusso"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1401453864,
+                "title": "Buen d\u00eda Gente bella ... Como est\u00e1n ustedes.. Yo alistandome pa correr como todas las ma\u00f1anas! \ud83c\udfc3\ud83c\udfc3 martes estoy x Ecuador unos d\u00edas #Happy",
+                "url": "http://twitter.com/flacaguerrerog/status/472357858701750272",
+                "trackback_date": 1401453864,
+                "trackback_total": 49,
+                "url_expansions": [],
+                "target_birth_date": 1401453864,
+                "content": "Buen d\u00eda Gente bella ... Como est\u00e1n ustedes.. Yo alistandome pa correr como todas las ma\u00f1anas! \ud83c\udfc3\ud83c\udfc3 martes estoy x Ecuador unos d\u00edas #Happy",
+                "mytype": "tweet",
+                "score": 9.599741,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471145488821911552/B_y-N21Q_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/flacaguerrerog/status/472357858701750272",
+                "trackback_author_url": "http://twitter.com/flacaguerrerog",
+                "highlight": "Buen d\u00eda Gente bella ... Como est\u00e1n ustedes.. Yo alistandome pa correr como todas las ma\u00f1anas! \ud83c\udfc3\ud83c\udfc3 martes estoy x Ecuador unos d\u00edas",
+                "topsy_author_url": "http://topsy.com/twitter/flacaguerrerog",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/flacaguerrerog/status/472357858701750272",
+                "trackback_author_name": "mariateresaguerrero",
+                "trackback_author_nick": "flacaguerrerog"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1323881107,
+                "title": "Find out what makes Lonely Planet staff #happy about their travels http://t.co/XS3VkNQj What is your happiest travel memory? #lp #happy",
+                "url": "http://twitter.com/lonelyplanet/status/146994134899625985",
+                "trackback_date": 1323881107,
+                "trackback_total": 33,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XS3VkNQj",
+                        "display_url": "ow.ly/7Z22m",
+                        "expanded_url": "http://ow.ly/7Z22m",
+                        "topsy_expanded_url": "http://www.lonelyplanet.com/blog/2011/12/14/smile-lonely-planets-guide-to-happy-travelling/?affil=twit"
+                    }
+                ],
+                "target_birth_date": 1323881107,
+                "content": "Find out what makes Lonely Planet staff #happy about their travels http://t.co/XS3VkNQj What is your happiest travel memory? #lp #happy",
+                "mytype": "tweet",
+                "score": 9.59863,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3623975823/701a6ec1ac1c53f98c386889214d6310_normal.png",
+                "trackback_permalink": "http://twitter.com/lonelyplanet/status/146994134899625985",
+                "trackback_author_url": "http://twitter.com/lonelyplanet",
+                "highlight": "Find out what makes Lonely Planet staff #happy about their travels What is your happiest travel memory? #lp",
+                "topsy_author_url": "http://topsy.com/twitter/lonelyplanet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lonelyplanet/status/146994134899625985",
+                "trackback_author_name": "Lonely Planet",
+                "trackback_author_nick": "lonelyplanet"
+            },
+            {
+                "hits": 93,
+                "firstpost_date": 1341415203,
+                "title": "Happy 4th of July! #summersun #fireworks #holidays = #happy",
+                "url": "http://twitter.com/forever21/status/220537464736063488",
+                "trackback_date": 1341415203,
+                "trackback_total": 114,
+                "url_expansions": [],
+                "target_birth_date": 1341415203,
+                "content": "Happy 4th of July! #summersun #fireworks #holidays = #happy",
+                "mytype": "tweet",
+                "score": 9.5969925,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2902961456/ac2610eeab7912b47aa0599f412c8090_normal.png",
+                "trackback_permalink": "http://twitter.com/Forever21/status/220537464736063488",
+                "trackback_author_url": "http://twitter.com/forever21",
+                "highlight": "Happy 4th of July! #summersun #fireworks #holidays =",
+                "topsy_author_url": "http://topsy.com/twitter/forever21",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/forever21/status/220537464736063488",
+                "trackback_author_name": "Forever 21",
+                "trackback_author_nick": "forever21"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 500,
+        "hidden": 0,
+        "total": 12715118,
+        "page": 1
+    }
+}

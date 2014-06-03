@@ -1,0 +1,287 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=710",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "710"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 68,
+                "firstpost_date": 1400622571,
+                "title": "Six Iranians arrested for posting \u2018Happy\u2019 on #YouTube  http://t.co/33yx7sTcLE  #Iran #Happy http://t.co/xLXbfrZltO",
+                "url": "http://twitter.com/alarabiya_eng/status/468871166552444928",
+                "trackback_date": 1400622571,
+                "trackback_total": 83,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/33yx7sTcLE",
+                        "display_url": "ara.tv/8vr3s",
+                        "expanded_url": "http://ara.tv/8vr3s",
+                        "topsy_expanded_url": "http://english.alarabiya.net/en/variety/2014/05/21/Six-Iranians-arrested-for-posting-Happy-on-YouTube-.html"
+                    },
+                    {
+                        "url": "http://t.co/xLXbfrZltO",
+                        "display_url": "pic.twitter.com/xLXbfrZltO",
+                        "expanded_url": "http://twitter.com/AlArabiya_Eng/status/468871166552444928/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BoHD1whIYAEx3DB.jpg"
+                    }
+                ],
+                "target_birth_date": 1400622571,
+                "content": "Six Iranians arrested for posting \u2018Happy\u2019 on #YouTube  http://t.co/33yx7sTcLE  #Iran #Happy http://t.co/xLXbfrZltO",
+                "mytype": "tweet",
+                "score": 9.457061,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000739298555/ff3bfdc18d554836c26776987001ef9a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AlArabiya_Eng/status/468871166552444928",
+                "trackback_author_url": "http://twitter.com/alarabiya_eng",
+                "highlight": "Six Iranians arrested for posting \u2018Happy\u2019 on #YouTube #Iran #Happy",
+                "topsy_author_url": "http://topsy.com/twitter/alarabiya_eng",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/alarabiya_eng/status/468871166552444928",
+                "trackback_author_name": "Al Arabiya English",
+                "trackback_author_nick": "alarabiya_eng"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1375058512,
+                "title": "Seriously just died laughing. .. #hilarious #happy #sunday http://t.co/7yvS0DqYM7",
+                "url": "http://twitter.com/joshuajstrick/status/361647728004042752",
+                "trackback_date": 1375058512,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7yvS0DqYM7",
+                        "display_url": "instagram.com/p/cVIJgNBo76/",
+                        "expanded_url": "http://instagram.com/p/cVIJgNBo76/",
+                        "topsy_expanded_url": "http://instagram.com/p/cVIJgNBo76/"
+                    }
+                ],
+                "target_birth_date": 1375058512,
+                "content": "Seriously just died laughing. .. #hilarious #happy #sunday http://t.co/7yvS0DqYM7",
+                "mytype": "tweet",
+                "score": 9.456618,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1598392307/n470x_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Joshuajstrick/status/361647728004042752",
+                "trackback_author_url": "http://twitter.com/joshuajstrick",
+                "highlight": "Seriously just died laughing. .. #hilarious #happy #sunday",
+                "topsy_author_url": "http://topsy.com/twitter/joshuajstrick",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/joshuajstrick/status/361647728004042752",
+                "trackback_author_name": "Josh strickland",
+                "trackback_author_nick": "joshuajstrick"
+            },
+            {
+                "hits": 46,
+                "firstpost_date": 1393432896,
+                "title": "Looks like @Pharrell is set to return to no.1 with #Happy this weekend! http://t.co/da4NPhO5Jq http://t.co/mpfA5HgXzg",
+                "url": "http://twitter.com/mtvuk/status/438715481118097408",
+                "trackback_date": 1393432896,
+                "trackback_total": 55,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/da4NPhO5Jq",
+                        "display_url": "mtvne.ws/symghy",
+                        "expanded_url": "http://mtvne.ws/symghy",
+                        "topsy_expanded_url": "http://www.mtv.co.uk/pharrell-williams/news/pharrell-set-to-return-to-no1-with-happy-this-weekend"
+                    },
+                    {
+                        "url": "http://t.co/mpfA5HgXzg",
+                        "display_url": "pic.twitter.com/mpfA5HgXzg",
+                        "expanded_url": "http://twitter.com/MTVUK/status/438715481118097408/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BhahZ9oCQAAQ6g0.jpg"
+                    }
+                ],
+                "target_birth_date": 1393432896,
+                "content": "Looks like @Pharrell is set to return to no.1 with #Happy this weekend! http://t.co/da4NPhO5Jq http://t.co/mpfA5HgXzg",
+                "mytype": "tweet",
+                "score": 9.456489,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/455988075705815040/hkP39v1z_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MTVUK/status/438715481118097408",
+                "trackback_author_url": "http://twitter.com/mtvuk",
+                "highlight": "Looks like @Pharrell is set to return to no.1 with #Happy this weekend!",
+                "topsy_author_url": "http://topsy.com/twitter/mtvuk",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mtvuk/status/438715481118097408",
+                "trackback_author_name": "MTV UK",
+                "trackback_author_nick": "mtvuk"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1390066605,
+                "title": "It took me 3 years of hard work to get verified! #happy",
+                "url": "http://twitter.com/kayne_r/status/424596233010028545",
+                "trackback_date": 1390066605,
+                "trackback_total": 17,
+                "url_expansions": [],
+                "target_birth_date": 1390066605,
+                "content": "It took me 3 years of hard work to get verified! #happy",
+                "mytype": "tweet",
+                "score": 9.45628,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469590537910374400/M1btn0YX_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/kayne_r/status/424596233010028545",
+                "trackback_author_url": "http://twitter.com/kayne_r",
+                "highlight": "It took me 3 years of hard work to get verified!",
+                "topsy_author_url": "http://topsy.com/twitter/kayne_r",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kayne_r/status/424596233010028545",
+                "trackback_author_name": "Kayne ",
+                "trackback_author_nick": "kayne_r"
+            },
+            {
+                "hits": 45,
+                "firstpost_date": 1382233668,
+                "title": "Time to go ... #party #happy #saturdaynight dressaya http://t.co/7hnCGBNhTI",
+                "url": "http://twitter.com/ticipinheiro/status/391742516112158720",
+                "trackback_date": 1382233668,
+                "trackback_total": 61,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7hnCGBNhTI",
+                        "display_url": "instagram.com/p/fq86TvmM3x/",
+                        "expanded_url": "http://instagram.com/p/fq86TvmM3x/",
+                        "topsy_expanded_url": "http://instagram.com/p/fq86TvmM3x/"
+                    }
+                ],
+                "target_birth_date": 1382233668,
+                "content": "Time to go ... #party #happy #saturdaynight dressaya http://t.co/7hnCGBNhTI",
+                "mytype": "tweet",
+                "score": 9.4560585,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/447259219285524480/b_4hMQEy_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TiciPinheiro/status/391742516112158720",
+                "trackback_author_url": "http://twitter.com/ticipinheiro",
+                "highlight": "Time to go ... #party #happy #saturdaynight dressaya",
+                "topsy_author_url": "http://topsy.com/twitter/ticipinheiro",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ticipinheiro/status/391742516112158720",
+                "trackback_author_name": "Ticiane Pinheiro ",
+                "trackback_author_nick": "ticipinheiro"
+            },
+            {
+                "hits": 15,
+                "firstpost_date": 1393811464,
+                "title": "Let's get it P! #Happy #Oscars",
+                "url": "http://twitter.com/bossip/status/440303309350383616",
+                "trackback_date": 1393811464,
+                "trackback_total": 15,
+                "url_expansions": [],
+                "target_birth_date": 1393811464,
+                "content": "Let's get it P! #Happy #Oscars",
+                "mytype": "tweet",
+                "score": 9.455491,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/596859902/bossip_square_normal.png",
+                "trackback_permalink": "http://twitter.com/Bossip/status/440303309350383616",
+                "trackback_author_url": "http://twitter.com/bossip",
+                "highlight": "Let's get it P! #Happy",
+                "topsy_author_url": "http://topsy.com/twitter/bossip",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bossip/status/440303309350383616",
+                "trackback_author_name": "Bossip",
+                "trackback_author_nick": "bossip"
+            },
+            {
+                "hits": 23,
+                "firstpost_date": 1353513596,
+                "title": "http://t.co/ITJkVSGE  Seriously, y'all.  THAT HAPPENED.  #happy thanksgiving",
+                "url": "http://twitter.com/thebloggess/status/271281802625294336",
+                "trackback_date": 1353513596,
+                "trackback_total": 39,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ITJkVSGE",
+                        "expanded_url": "http://thebloggess.com/2012/11/shes-so-mine-its-kind-of-painful-for-both-of-us/",
+                        "display_url": "thebloggess.com/2012/11/shes-s\u2026"
+                    }
+                ],
+                "target_birth_date": 1353513596,
+                "content": "http://t.co/ITJkVSGE  Seriously, y'all.  THAT HAPPENED.  #happy thanksgiving",
+                "mytype": "tweet",
+                "score": 9.454109,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1459362861/cheesecake_copy2_normal.jpg",
+                "trackback_permalink": "http://twitter.com/TheBloggess/status/271281802625294336",
+                "trackback_author_url": "http://twitter.com/thebloggess",
+                "highlight": " Seriously, y'all. THAT HAPPENED. #happy thanksgiving",
+                "topsy_author_url": "http://topsy.com/twitter/thebloggess",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/thebloggess/status/271281802625294336",
+                "trackback_author_name": "TheBloggess",
+                "trackback_author_nick": "thebloggess"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1395694563,
+                "title": "Sometimes it's just important to stop and be grateful. #blessed #happy #grateful http://t.co/zwiyC0W0JW",
+                "url": "http://twitter.com/gretchenrossi/status/448201599102754816",
+                "trackback_date": 1395694563,
+                "trackback_total": 22,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/zwiyC0W0JW",
+                        "display_url": "fb.me/2UDLwHEeI",
+                        "expanded_url": "http://fb.me/2UDLwHEeI",
+                        "topsy_expanded_url": "https://www.facebook.com/photo.php?fbid=10152135546092839"
+                    }
+                ],
+                "target_birth_date": 1395694563,
+                "content": "Sometimes it's just important to stop and be grateful. #blessed #happy #grateful http://t.co/zwiyC0W0JW",
+                "mytype": "tweet",
+                "score": 9.453657,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/438076806390747136/hug3AbMs_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/GretchenRossi/status/448201599102754816",
+                "trackback_author_url": "http://twitter.com/gretchenrossi",
+                "highlight": "Sometimes it's just important to stop and be grateful. #blessed #happy #grateful",
+                "topsy_author_url": "http://topsy.com/twitter/gretchenrossi",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gretchenrossi/status/448201599102754816",
+                "trackback_author_name": "Gretchen Rossi",
+                "trackback_author_nick": "gretchenrossi"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1271964870,
+                "title": "amanha ja \u00e9 sexta *-* #happy",
+                "url": "http://twitter.com/brenoholanda/status/12656920729",
+                "trackback_date": 1271964870,
+                "trackback_total": 16,
+                "url_expansions": [],
+                "target_birth_date": 1271964870,
+                "content": "amanha ja \u00e9 sexta *-* #happy",
+                "mytype": "tweet",
+                "score": 9.453455,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3474208646/1c3981bd721105f23bcd5fab7fba04cf_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BrenoHolanda/status/12656920729",
+                "trackback_author_url": "http://twitter.com/brenoholanda",
+                "highlight": "amanha ja \u00e9 sexta *-*",
+                "topsy_author_url": "http://topsy.com/twitter/brenoholanda",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/brenoholanda/status/12656920729",
+                "trackback_author_name": "Breno Holanda",
+                "trackback_author_nick": "brenoholanda"
+            },
+            {
+                "hits": 54,
+                "firstpost_date": 1393986177,
+                "title": "Thanks for all the love on the new cover!! It makes me feel....#HAPPY",
+                "url": "http://twitter.com/samueltsui/status/441036111834390529",
+                "trackback_date": 1393986177,
+                "trackback_total": 94,
+                "url_expansions": [],
+                "target_birth_date": 1393986177,
+                "content": "Thanks for all the love on the new cover!! It makes me feel....#HAPPY",
+                "mytype": "tweet",
+                "score": 9.452388,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/465302349762658304/HHO4dAO7_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SamuelTsui/status/441036111834390529",
+                "trackback_author_url": "http://twitter.com/samueltsui",
+                "highlight": "Thanks for all the love on the new cover!! It makes me feel.",
+                "topsy_author_url": "http://topsy.com/twitter/samueltsui",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/samueltsui/status/441036111834390529",
+                "trackback_author_name": "Sam Tsui",
+                "trackback_author_nick": "samueltsui"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 710,
+        "hidden": 0,
+        "total": 12741406,
+        "page": 1
+    }
+}

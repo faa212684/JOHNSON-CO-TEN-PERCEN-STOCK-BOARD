@@ -1,0 +1,275 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23happy&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=810",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#happy",
+            "window": "a",
+            "type": "tweet",
+            "offset": "810"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 15,
+                "firstpost_date": 1368684768,
+                "title": "Goodnight! Thanks for all the love on my new video! Going to bed with a smile and a belly full of sushi. #happy http://t.co/nuldoSt6Aw",
+                "url": "http://twitter.com/missglamorazzi/status/334914310507728897",
+                "trackback_date": 1368684768,
+                "trackback_total": 29,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/nuldoSt6Aw",
+                        "display_url": "youtube.com/watch?v=b9tNoy\u2026",
+                        "expanded_url": "http://www.youtube.com/watch?v=b9tNoy5DpMQ",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=b9tNoy5DpMQ"
+                    }
+                ],
+                "target_birth_date": 1368684768,
+                "content": "Goodnight! Thanks for all the love on my new video! Going to bed with a smile and a belly full of sushi. #happy http://t.co/nuldoSt6Aw",
+                "mytype": "tweet",
+                "score": 9.394389,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468970492914053122/DNgX8Odz_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/missglamorazzi/status/334914310507728897",
+                "trackback_author_url": "http://twitter.com/missglamorazzi",
+                "highlight": "Goodnight! Thanks for all the love on my new video! Going to bed with a smile and a belly full of sushi. #happy",
+                "topsy_author_url": "http://topsy.com/twitter/missglamorazzi",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/missglamorazzi/status/334914310507728897",
+                "trackback_author_name": "Ingrid Nilsen",
+                "trackback_author_nick": "missglamorazzi"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1349152901,
+                "title": "What's your top 5 RT @BuffaloPeaux: #happy #thankful #blessed \n1. Love \n2. @SFGiants \n3. The world\n4. Hope\n5. Mustaches",
+                "url": "http://twitter.com/sfgiants/status/252991723368763392",
+                "trackback_date": 1349152901,
+                "trackback_total": 18,
+                "url_expansions": [],
+                "target_birth_date": 1349152901,
+                "content": "What's your top 5 RT @BuffaloPeaux: #happy #thankful #blessed \n1. Love \n2. @SFGiants \n3. The world\n4. Hope\n5. Mustaches",
+                "mytype": "tweet",
+                "score": 9.394364,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467182879621935104/mLSeX4vN_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SFGiants/status/252991723368763392",
+                "trackback_author_url": "http://twitter.com/sfgiants",
+                "highlight": "What's your top 5#happy #thankful #blessed 1. Love 2. @SFGiants 3. The world 4. Hope 5. Mustaches",
+                "topsy_author_url": "http://topsy.com/twitter/sfgiants",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sfgiants/status/252991723368763392",
+                "trackback_author_name": "San Francisco Giants",
+                "trackback_author_nick": "sfgiants"
+            },
+            {
+                "hits": 38,
+                "firstpost_date": 1394905075,
+                "title": "Pure #Happy at @TheColorRun in #SanFrancisco! We love these @peta superstars. http://t.co/YuCdQDZqVj",
+                "url": "http://twitter.com/petapack/status/444890246186930176",
+                "trackback_date": 1394905075,
+                "trackback_total": 44,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/YuCdQDZqVj",
+                        "display_url": "pic.twitter.com/YuCdQDZqVj",
+                        "expanded_url": "http://twitter.com/PetaPack/status/444890246186930176/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BiyRUlcCYAITG6P.jpg"
+                    }
+                ],
+                "target_birth_date": 1394905075,
+                "content": "Pure #Happy at @TheColorRun in #SanFrancisco! We love these @peta superstars. http://t.co/YuCdQDZqVj",
+                "mytype": "tweet",
+                "score": 9.394033,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/456836335102214144/6nlcaK_e_normal.png",
+                "trackback_permalink": "http://twitter.com/PetaPack/status/444890246186930176",
+                "trackback_author_url": "http://twitter.com/petapack",
+                "highlight": "Pure #Happy at @TheColorRun in #SanFrancisco! We love these @peta superstars.",
+                "topsy_author_url": "http://topsy.com/twitter/petapack",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/petapack/status/444890246186930176",
+                "trackback_author_name": "PETA Pack",
+                "trackback_author_nick": "petapack"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1349661830,
+                "title": "30 Dr. Seuss Quotes That Can Change Your Life http://t.co/oVsMsVhq  ll RT @zite @gracenote #happy",
+                "url": "http://twitter.com/anntran_/status/255126325319307264",
+                "trackback_date": 1349661830,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/oVsMsVhq",
+                        "expanded_url": "http://zite.to/VNvKGx",
+                        "display_url": "zite.to/VNvKGx"
+                    }
+                ],
+                "target_birth_date": 1349661830,
+                "content": "30 Dr. Seuss Quotes That Can Change Your Life http://t.co/oVsMsVhq  ll RT @zite @gracenote #happy",
+                "mytype": "tweet",
+                "score": 9.394006,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/425465009376722944/W5z0R2ci_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AnnTran_/status/255126325319307264",
+                "trackback_author_url": "http://twitter.com/anntran_",
+                "highlight": "30 Dr. Seuss Quotes That Can Change Your Life ll RT @zite @gracenote",
+                "topsy_author_url": "http://topsy.com/twitter/anntran_",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/anntran_/status/255126325319307264",
+                "trackback_author_name": "Ann Tran",
+                "trackback_author_nick": "anntran_"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1322182739,
+                "title": "#Happy Thanksgiving to all of our American fans!!",
+                "url": "http://twitter.com/downwithwebster/status/139870662041935872",
+                "trackback_date": 1322182739,
+                "trackback_total": 18,
+                "url_expansions": [],
+                "target_birth_date": 1322182739,
+                "content": "#Happy Thanksgiving to all of our American fans!!",
+                "mytype": "tweet",
+                "score": 9.392632,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/428181769003610112/wxcpebVt_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DOWNWITHWEBSTER/status/139870662041935872",
+                "trackback_author_url": "http://twitter.com/downwithwebster",
+                "highlight": "#Happy Thanksgiving to all of our American fans!!",
+                "topsy_author_url": "http://topsy.com/twitter/downwithwebster",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/downwithwebster/status/139870662041935872",
+                "trackback_author_name": "Down With Webster",
+                "trackback_author_nick": "downwithwebster"
+            },
+            {
+                "hits": 32,
+                "firstpost_date": 1317768906,
+                "title": "Gracias por todas su vibrassssssss ajuaaa buen martessukoo ! Y a los 100 ,twitcam y a ver si por ahi se kuela alguna convivenciaaaa :)#happy",
+                "url": "http://twitter.com/marianaecheve/status/121357705070919680",
+                "trackback_date": 1317768906,
+                "trackback_total": 81,
+                "url_expansions": [],
+                "target_birth_date": 1317768906,
+                "content": "Gracias por todas su vibrassssssss ajuaaa buen martessukoo ! Y a los 100 ,twitcam y a ver si por ahi se kuela alguna convivenciaaaa :)#happy",
+                "mytype": "tweet",
+                "score": 9.391767,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464643919578685440/HT-och-l_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/marianaecheve/status/121357705070919680",
+                "trackback_author_url": "http://twitter.com/marianaecheve",
+                "highlight": "Gracias por todas su vibrassssssss ajuaaa buen martessukoo ! Y a los 100 ,twitcam y a ver si por ahi se kuela alguna convivenciaaaa :)",
+                "topsy_author_url": "http://topsy.com/twitter/marianaecheve",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/marianaecheve/status/121357705070919680",
+                "trackback_author_name": "mariana echeverria o",
+                "trackback_author_nick": "marianaecheve"
+            },
+            {
+                "hits": 30,
+                "firstpost_date": 1395775878,
+                "title": "THE WAIT IS OVER! The biggest #Happy video has landed.\nWatch &amp; share the love! @ScoopEmpire @disalata #Egypt \nhttp://t.co/zNhy7eR92D",
+                "url": "http://twitter.com/laracscandar/status/448542658873798657",
+                "trackback_date": 1395775878,
+                "trackback_total": 52,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/zNhy7eR92D",
+                        "display_url": "scoopempire.com/kashmagy-happy\u2026",
+                        "expanded_url": "http://scoopempire.com/kashmagy-happy-egypt/",
+                        "topsy_expanded_url": "http://scoopempire.com/kashmagy-happy-egypt/"
+                    }
+                ],
+                "target_birth_date": 1395775878,
+                "content": "THE WAIT IS OVER! The biggest #Happy video has landed.\nWatch &amp; share the love! @ScoopEmpire @disalata #Egypt \nhttp://t.co/zNhy7eR92D",
+                "mytype": "tweet",
+                "score": 9.391624,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/456871025578225664/pRsGgebu_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LaraCScandar/status/448542658873798657",
+                "trackback_author_url": "http://twitter.com/laracscandar",
+                "highlight": "THE WAIT IS OVER! The biggest #Happy video has landed. Watch &amp; share the love! @ScoopEmpire @disalata #Egypt",
+                "topsy_author_url": "http://topsy.com/twitter/laracscandar",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/laracscandar/status/448542658873798657",
+                "trackback_author_name": "Lara Scandar",
+                "trackback_author_nick": "laracscandar"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1395866277,
+                "title": "#Happy songs made #Sad courtesy of @gregorybrothers #MajorToMinor https://t.co/1cIkF2RS9y",
+                "url": "http://twitter.com/hitrecordjoe/status/448921821463601152",
+                "trackback_date": 1395866277,
+                "trackback_total": 146,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/1cIkF2RS9y",
+                        "display_url": "youtube.com/watch?v=VbQO6Q\u2026",
+                        "expanded_url": "https://www.youtube.com/watch?v=VbQO6QMm6EY&list=UUNYrK4tc5i1-eL8TXesH2pg",
+                        "topsy_expanded_url": "https://www.youtube.com/watch?v=VbQO6QMm6EY&list=UUNYrK4tc5i1-eL8TXesH2pg"
+                    }
+                ],
+                "target_birth_date": 1395866277,
+                "content": "#Happy songs made #Sad courtesy of @gregorybrothers #MajorToMinor https://t.co/1cIkF2RS9y",
+                "mytype": "tweet",
+                "score": 9.390282,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2649571860/910e545d7537be6148b7923aa86d2144_normal.png",
+                "trackback_permalink": "http://twitter.com/hitRECordJoe/status/448921821463601152",
+                "trackback_author_url": "http://twitter.com/hitrecordjoe",
+                "highlight": "#Happy songs made #Sad courtesy of @gregorybrothers #MajorToMinor",
+                "topsy_author_url": "http://topsy.com/twitter/hitrecordjoe",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hitrecordjoe/status/448921821463601152",
+                "trackback_author_name": "Joseph Gordon-Levitt",
+                "trackback_author_nick": "hitrecordjoe"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1356995170,
+                "title": "HAPPY NEW YEAR! #happy #new #year #newyearseve #welcome #2013 \u2728\ud83d\ude0d\ud83d\ude01\u2764 http://t.co/83WCLleH",
+                "url": "http://twitter.com/teamofbieber/status/285884583734562817",
+                "trackback_date": 1356995170,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/83WCLleH",
+                        "display_url": "instagr.am/p/T6zC4ekhzF/",
+                        "expanded_url": "http://instagr.am/p/T6zC4ekhzF/",
+                        "topsy_expanded_url": "http://instagram.com/p/T6zC4ekhzF/"
+                    }
+                ],
+                "target_birth_date": 1356995170,
+                "content": "HAPPY NEW YEAR! #happy #new #year #newyearseve #welcome #2013 \u2728\ud83d\ude0d\ud83d\ude01\u2764 http://t.co/83WCLleH",
+                "mytype": "tweet",
+                "score": 9.3888645,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471650854219808768/bkD9cVu4_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TeamOfBieber/status/285884583734562817",
+                "trackback_author_url": "http://twitter.com/teamofbieber",
+                "highlight": "HAPPY NEW YEAR! #happy #new #year #newyearseve #welcome #2013 \u2728\ud83d\ude0d\ud83d\ude01\u2764",
+                "topsy_author_url": "http://topsy.com/twitter/teamofbieber",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/teamofbieber/status/285884583734562817",
+                "trackback_author_name": "",
+                "trackback_author_nick": "teamofbieber"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1345946565,
+                "title": "Getting Ready!!!!!! #Happy",
+                "url": "http://twitter.com/valeriabaroni/status/239543372308680704",
+                "trackback_date": 1345946565,
+                "trackback_total": 19,
+                "url_expansions": [],
+                "target_birth_date": 1345946565,
+                "content": "Getting Ready!!!!!! #Happy",
+                "mytype": "tweet",
+                "score": 9.388453,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463084409562750976/mcgvl2EV_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/valeriabaroni/status/239543372308680704",
+                "trackback_author_url": "http://twitter.com/valeriabaroni",
+                "highlight": "Getting Ready!!!!!!",
+                "topsy_author_url": "http://topsy.com/twitter/valeriabaroni",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/valeriabaroni/status/239543372308680704",
+                "trackback_author_name": "Valeria Baroni",
+                "trackback_author_nick": "valeriabaroni"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 810,
+        "hidden": 0,
+        "total": 12731798,
+        "page": 1
+    }
+}

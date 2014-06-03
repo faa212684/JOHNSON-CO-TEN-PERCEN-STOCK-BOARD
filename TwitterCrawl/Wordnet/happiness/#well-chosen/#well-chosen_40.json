@@ -1,0 +1,72 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23well-chosen&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=40",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#well-chosen",
+            "window": "a",
+            "type": "tweet",
+            "offset": "40"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1361399554,
+                "title": "RT @mstmorris: GetHealth Chosen As International Finalist at Hackovate - GetHealth Blog: http://t.co/O2jNxc1C #well done @liamhq!",
+                "url": "http://twitter.com/healthcareminds/status/304357905560383488",
+                "trackback_date": 1361399554,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/O2jNxc1C",
+                        "expanded_url": "http://blog.gethealthapp.com/post/43523578791/gethealth-chosen-as-international-finalist-at-hackovate#.USUnU_8kCAp.twitter",
+                        "display_url": "blog.gethealthapp.com/post/435235787\u2026"
+                    }
+                ],
+                "target_birth_date": 1361399554,
+                "content": "RT @mstmorris: GetHealth Chosen As International Finalist at Hackovate - GetHealth Blog: http://t.co/O2jNxc1C #well done @liamhq!",
+                "mytype": "tweet",
+                "score": -0.21395701,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2244523205/snapshot_of_logo_normal.png",
+                "trackback_permalink": "http://twitter.com/HealthCareMinds/status/304357905560383488",
+                "trackback_author_url": "http://twitter.com/healthcareminds",
+                "highlight": "GetHealth Chosen As International Finalist at Hackovate - GetHealth Blog: #well done @liamhq!",
+                "topsy_author_url": "http://topsy.com/twitter/healthcareminds",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/healthcareminds/status/304357905560383488",
+                "trackback_author_name": "HealthCareMinds",
+                "trackback_author_nick": "healthcareminds"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1393196209,
+                "title": "@meredithgregge well you've already chosen to misunderstand my women comments,but what offensive comments did i make about the team? #well ?",
+                "url": "http://twitter.com/yankee_alpha/status/437722744650608640",
+                "trackback_date": 1393196209,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1393196209,
+                "content": "@meredithgregge well you've already chosen to misunderstand my women comments,but what offensive comments did i make about the team? #well ?",
+                "mytype": "tweet",
+                "score": -0.3473356,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2069434353/07042012_003_normal.jpg",
+                "trackback_permalink": "http://twitter.com/yankee_alpha/status/437722744650608640",
+                "trackback_author_url": "http://twitter.com/yankee_alpha",
+                "highlight": " well you've already chosen to misunderstand my women comments,but what offensive comments did i make about the team? #well ?",
+                "topsy_author_url": "http://topsy.com/twitter/yankee_alpha",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/yankee_alpha/status/437722744650608640",
+                "trackback_author_name": "Kev, Tipp",
+                "trackback_author_nick": "yankee_alpha"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 40,
+        "hidden": 0,
+        "total": 42,
+        "page": 1
+    }
+}
