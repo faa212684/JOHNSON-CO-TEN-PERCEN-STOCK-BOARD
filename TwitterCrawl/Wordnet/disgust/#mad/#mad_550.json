@@ -1,0 +1,283 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23mad&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=550",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#mad",
+            "window": "a",
+            "type": "tweet",
+            "offset": "550"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 41,
+                "firstpost_date": 1339355113,
+                "title": "#MAD Figo: \"Portugal necesita darle m\u00e1s oportunidades a Cristiano\" http://t.co/ZtFSJpI3",
+                "url": "http://twitter.com/ligabbva/status/211896820849315843",
+                "trackback_date": 1339355113,
+                "trackback_total": 54,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ZtFSJpI3",
+                        "display_url": "ow.ly/btUz2",
+                        "expanded_url": "http://ow.ly/btUz2",
+                        "topsy_expanded_url": "http://ow.ly/btUz2"
+                    }
+                ],
+                "target_birth_date": 1339355113,
+                "content": "#MAD Figo: \"Portugal necesita darle m\u00e1s oportunidades a Cristiano\" http://t.co/ZtFSJpI3",
+                "mytype": "tweet",
+                "score": 9.480778,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/211896820849315843",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Figo: \"Portugal necesita darle m\u00e1s oportunidades a Cristiano\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/211896820849315843",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 31,
+                "firstpost_date": 1304447106,
+                "title": "#MAD McManaman: \"En Inglaterra todo el mundo quiere a Cristiano y Mourinho\" http://ow.ly/4LSjD",
+                "url": "http://twitter.com/ligabbva/status/65482026689626112",
+                "trackback_date": 1304447106,
+                "trackback_total": 39,
+                "url_expansions": [],
+                "target_birth_date": 1304447106,
+                "content": "#MAD McManaman: \"En Inglaterra todo el mundo quiere a Cristiano y Mourinho\" http://ow.ly/4LSjD",
+                "mytype": "tweet",
+                "score": 9.480726,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/ligabbva/status/65482026689626112",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD McManaman: \"En Inglaterra todo el mundo quiere a Cristiano y Mourinho\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/65482026689626112",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 42,
+                "firstpost_date": 1334243104,
+                "title": "#MAD V\u00eddeo. Cristiano arrasa en el Calder\u00f3n http://t.co/h39UIfl1",
+                "url": "http://twitter.com/ligabbva/status/190455501174214657",
+                "trackback_date": 1334243104,
+                "trackback_total": 48,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/h39UIfl1",
+                        "display_url": "ow.ly/aeqoH",
+                        "expanded_url": "http://ow.ly/aeqoH",
+                        "topsy_expanded_url": "http://www.ligabbva.com/watch?feature=plcp&index=1&list=UUb1JlyEU7j_NrSZjShW_apw&v=JfV13FT4rYE"
+                    }
+                ],
+                "target_birth_date": 1334243104,
+                "content": "#MAD V\u00eddeo. Cristiano arrasa en el Calder\u00f3n http://t.co/h39UIfl1",
+                "mytype": "tweet",
+                "score": 9.480541,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/190455501174214657",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Cristiano arrasa en el Calder\u00f3n",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/190455501174214657",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 37,
+                "firstpost_date": 1304001710,
+                "title": "#MAD RT @realmadrid Unanimidad en la prensa mundial: la roja a Pepe fue injusta http://bit.ly/jBJosb",
+                "url": "http://twitter.com/ligabbva/status/63613901585125377",
+                "trackback_date": 1304001710,
+                "trackback_total": 48,
+                "url_expansions": [],
+                "target_birth_date": 1304001710,
+                "content": "#MAD RT @realmadrid Unanimidad en la prensa mundial: la roja a Pepe fue injusta http://bit.ly/jBJosb",
+                "mytype": "tweet",
+                "score": 9.480473,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/ligabbva/status/63613901585125377",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD RT @realmadrid Unanimidad en la prensa mundial: la roja a Pepe fue injusta",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/63613901585125377",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 38,
+                "firstpost_date": 1362066684,
+                "title": "#LigaBBVA #MAD Casillas avanza en su recuperaci\u00f3n y ya toca bal\u00f3n http://t.co/vf58dG5WjP",
+                "url": "http://twitter.com/ligabbva/status/307156053651505153",
+                "trackback_date": 1362066684,
+                "trackback_total": 47,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vf58dG5WjP",
+                        "display_url": "ow.ly/i8rnO",
+                        "expanded_url": "http://ow.ly/i8rnO",
+                        "topsy_expanded_url": "http://www.ligabbva.com/3209_real-madrid/1949507_casillas-avanza-en-su-recuperacion-y-ya-toca-balon.html"
+                    }
+                ],
+                "target_birth_date": 1362066684,
+                "content": "#LigaBBVA #MAD Casillas avanza en su recuperaci\u00f3n y ya toca bal\u00f3n http://t.co/vf58dG5WjP",
+                "mytype": "tweet",
+                "score": 9.480344,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/307156053651505153",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#LigaBBVA #MAD Casillas avanza en su recuperaci\u00f3n y ya toca bal\u00f3n",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/307156053651505153",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 46,
+                "firstpost_date": 1346749503,
+                "title": "#MAD Cruyff: \"El Real Madrid est\u00e1 perdiendo el respeto ganado\"\n http://t.co/ZNqpNNwi",
+                "url": "http://twitter.com/ligabbva/status/242911137920843776",
+                "trackback_date": 1346749503,
+                "trackback_total": 57,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ZNqpNNwi",
+                        "display_url": "ow.ly/drkB3",
+                        "expanded_url": "http://ow.ly/drkB3",
+                        "topsy_expanded_url": "http://ow.ly/drkB3"
+                    }
+                ],
+                "target_birth_date": 1346749503,
+                "content": "#MAD Cruyff: \"El Real Madrid est\u00e1 perdiendo el respeto ganado\"\n http://t.co/ZNqpNNwi",
+                "mytype": "tweet",
+                "score": 9.4803295,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/242911137920843776",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Cruyff: \"El Real Madrid est\u00e1 perdiendo el respeto ganado\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/242911137920843776",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 42,
+                "firstpost_date": 1336070017,
+                "title": "#MAD RT @aarbeloa17 Iker con la diosa Cibeles http://t.co/ZCynPUAs",
+                "url": "http://twitter.com/ligabbva/status/198118127878410242",
+                "trackback_date": 1336070017,
+                "trackback_total": 51,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ZCynPUAs",
+                        "display_url": "say.ly/BVf3e08",
+                        "expanded_url": "http://say.ly/BVf3e08",
+                        "topsy_expanded_url": "http://www.whosay.com/alvaroarbeloa/photos/167210"
+                    }
+                ],
+                "target_birth_date": 1336070017,
+                "content": "#MAD RT @aarbeloa17 Iker con la diosa Cibeles http://t.co/ZCynPUAs",
+                "mytype": "tweet",
+                "score": 9.480231,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/198118127878410242",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD RT @aarbeloa17 Iker con la diosa Cibeles",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/198118127878410242",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 26,
+                "firstpost_date": 1303240809,
+                "title": "#MAD Casillas: \"Llega el momento de levantar muchas copas\" http://ow.ly/4DC5Y",
+                "url": "http://twitter.com/ligabbva/status/60422449216499713",
+                "trackback_date": 1303240809,
+                "trackback_total": 34,
+                "url_expansions": [],
+                "target_birth_date": 1303240809,
+                "content": "#MAD Casillas: \"Llega el momento de levantar muchas copas\" http://ow.ly/4DC5Y",
+                "mytype": "tweet",
+                "score": 9.480227,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/ligabbva/status/60422449216499713",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Casillas: \"Llega el momento de levantar muchas copas\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/60422449216499713",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 28,
+                "firstpost_date": 1331064303,
+                "title": "#MAD V\u00eddeo. Cristiano Ronaldo, un goleador de r\u00e9cord http://t.co/4KR8pmTZ",
+                "url": "http://twitter.com/ligabbva/status/177122642879459329",
+                "trackback_date": 1331064303,
+                "trackback_total": 32,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4KR8pmTZ",
+                        "display_url": "ow.ly/9ubD9",
+                        "expanded_url": "http://ow.ly/9ubD9",
+                        "topsy_expanded_url": "http://www.ligabbva.com/watch?context=C35e474cADOEgsToPDskKBXX1O2Mt5V0FevuUnuOBa&v=HXIMACVrnmo"
+                    }
+                ],
+                "target_birth_date": 1331064303,
+                "content": "#MAD V\u00eddeo. Cristiano Ronaldo, un goleador de r\u00e9cord http://t.co/4KR8pmTZ",
+                "mytype": "tweet",
+                "score": 9.48014,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/177122642879459329",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Cristiano Ronaldo, un goleador de r\u00e9cord",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/177122642879459329",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 51,
+                "firstpost_date": 1336503909,
+                "title": "#MAD V\u00eddeo. Jos\u00e9 Callej\u00f3n, el fichaje m\u00e1s rentable del Real Madrid http://t.co/HLiOjjAL",
+                "url": "http://twitter.com/ligabbva/status/199938005606203393",
+                "trackback_date": 1336503909,
+                "trackback_total": 55,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/HLiOjjAL",
+                        "display_url": "ow.ly/aMiGU",
+                        "expanded_url": "http://ow.ly/aMiGU",
+                        "topsy_expanded_url": "http://www.ligabbva.com/watch?feature=plcp&index=5&list=UUb1JlyEU7j_NrSZjShW_apw&v=WyJI9xNeL0g"
+                    }
+                ],
+                "target_birth_date": 1336503909,
+                "content": "#MAD V\u00eddeo. Jos\u00e9 Callej\u00f3n, el fichaje m\u00e1s rentable del Real Madrid http://t.co/HLiOjjAL",
+                "mytype": "tweet",
+                "score": 9.480091,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/199938005606203393",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Jos\u00e9 Callej\u00f3n, el fichaje m\u00e1s rentable del Real Madrid",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/199938005606203393",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 550,
+        "hidden": 0,
+        "total": 1900248,
+        "page": 1
+    }
+}

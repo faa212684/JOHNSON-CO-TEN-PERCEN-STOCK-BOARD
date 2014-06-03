@@ -1,0 +1,290 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23disturbed&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=400",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#disturbed",
+            "window": "a",
+            "type": "tweet",
+            "offset": "400"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1342087955,
+                "title": "@hmackk Tell Me What You Think... #Disturbed http://t.co/WImTOSQv",
+                "url": "http://twitter.com/popdollarz/status/223359189110628352",
+                "trackback_date": 1342087955,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WImTOSQv",
+                        "display_url": "youtu.be/0W75O-D7z9s",
+                        "expanded_url": "http://youtu.be/0W75O-D7z9s",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=0W75O-D7z9s"
+                    }
+                ],
+                "target_birth_date": 1342087955,
+                "content": "@hmackk Tell Me What You Think... #Disturbed http://t.co/WImTOSQv",
+                "mytype": "tweet",
+                "score": 8.317554,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469960334770733056/eBNawsAL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PopDollarz/status/223359189110628352",
+                "trackback_author_url": "http://twitter.com/popdollarz",
+                "highlight": " Tell Me What You Think... #Disturbed",
+                "topsy_author_url": "http://topsy.com/twitter/popdollarz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/popdollarz/status/223359189110628352",
+                "trackback_author_name": "Pop Dollarz",
+                "trackback_author_nick": "popdollarz"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1310487933,
+                "title": "\"Acredite, quando voc\u00ea mente.\" Believe - #Disturbed",
+                "url": "http://twitter.com/trechos_metal/status/90819090054258688",
+                "trackback_date": 1310487933,
+                "trackback_total": 7,
+                "url_expansions": [],
+                "target_birth_date": 1310487933,
+                "content": "\"Acredite, quando voc\u00ea mente.\" Believe - #Disturbed",
+                "mytype": "tweet",
+                "score": 8.316959,
+                "topsy_author_img": "http://a2.twimg.com/profile_images/1529876148/00o_normal.jpg",
+                "trackback_permalink": "http://twitter.com/trechos_metal/status/90819090054258688",
+                "trackback_author_url": "http://twitter.com/trechos_metal",
+                "highlight": "\"Acredite, quando voc\u00ea mente.\" Believe -",
+                "topsy_author_url": "http://topsy.com/twitter/trechos_metal",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/trechos_metal/status/90819090054258688",
+                "trackback_author_name": "Heavy and New Metal ",
+                "trackback_author_nick": "trechos_metal"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1342090140,
+                "title": "@mikemoneyrogers Tell Me What You Think... #Disturbed http://t.co/WImTOSQv",
+                "url": "http://twitter.com/popdollarz/status/223368356173066240",
+                "trackback_date": 1342090140,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WImTOSQv",
+                        "display_url": "youtu.be/0W75O-D7z9s",
+                        "expanded_url": "http://youtu.be/0W75O-D7z9s",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=0W75O-D7z9s"
+                    }
+                ],
+                "target_birth_date": 1342090140,
+                "content": "@mikemoneyrogers Tell Me What You Think... #Disturbed http://t.co/WImTOSQv",
+                "mytype": "tweet",
+                "score": 8.316793,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469960334770733056/eBNawsAL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PopDollarz/status/223368356173066240",
+                "trackback_author_url": "http://twitter.com/popdollarz",
+                "highlight": " Tell Me What You Think... #Disturbed",
+                "topsy_author_url": "http://topsy.com/twitter/popdollarz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/popdollarz/status/223368356173066240",
+                "trackback_author_name": "Pop Dollarz",
+                "trackback_author_nick": "popdollarz"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1342090000,
+                "title": "@LucaKolozsvari Tell Me What You Think... #Disturbed http://t.co/WImTOSQv",
+                "url": "http://twitter.com/popdollarz/status/223367769696116736",
+                "trackback_date": 1342090000,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WImTOSQv",
+                        "display_url": "youtu.be/0W75O-D7z9s",
+                        "expanded_url": "http://youtu.be/0W75O-D7z9s",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=0W75O-D7z9s"
+                    }
+                ],
+                "target_birth_date": 1342090000,
+                "content": "@LucaKolozsvari Tell Me What You Think... #Disturbed http://t.co/WImTOSQv",
+                "mytype": "tweet",
+                "score": 8.316793,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469960334770733056/eBNawsAL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PopDollarz/status/223367769696116736",
+                "trackback_author_url": "http://twitter.com/popdollarz",
+                "highlight": " Tell Me What You Think... #Disturbed",
+                "topsy_author_url": "http://topsy.com/twitter/popdollarz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/popdollarz/status/223367769696116736",
+                "trackback_author_name": "Pop Dollarz",
+                "trackback_author_nick": "popdollarz"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1342088931,
+                "title": "@jhulses1 Tell Me What You Think... #Disturbed http://t.co/WImTOSQv",
+                "url": "http://twitter.com/popdollarz/status/223363285045612544",
+                "trackback_date": 1342088931,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WImTOSQv",
+                        "display_url": "youtu.be/0W75O-D7z9s",
+                        "expanded_url": "http://youtu.be/0W75O-D7z9s",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=0W75O-D7z9s"
+                    }
+                ],
+                "target_birth_date": 1342088931,
+                "content": "@jhulses1 Tell Me What You Think... #Disturbed http://t.co/WImTOSQv",
+                "mytype": "tweet",
+                "score": 8.316793,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469960334770733056/eBNawsAL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PopDollarz/status/223363285045612544",
+                "trackback_author_url": "http://twitter.com/popdollarz",
+                "highlight": " Tell Me What You Think... #Disturbed",
+                "topsy_author_url": "http://topsy.com/twitter/popdollarz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/popdollarz/status/223363285045612544",
+                "trackback_author_name": "Pop Dollarz",
+                "trackback_author_nick": "popdollarz"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1341865823,
+                "title": "RT @MiaRachellexD: #disturbed.",
+                "url": "http://twitter.com/popdollarz/status/222427503233482752",
+                "trackback_date": 1341865823,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1341865823,
+                "content": "RT @MiaRachellexD: #disturbed.",
+                "mytype": "tweet",
+                "score": 8.316793,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469960334770733056/eBNawsAL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PopDollarz/status/222427503233482752",
+                "trackback_author_url": "http://twitter.com/popdollarz",
+                "highlight": "#disturbed.",
+                "topsy_author_url": "http://topsy.com/twitter/popdollarz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/popdollarz/status/222427503233482752",
+                "trackback_author_name": "Pop Dollarz",
+                "trackback_author_nick": "popdollarz"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1342090153,
+                "title": "@JustinDemii Tell Me What You Think... #Disturbed http://t.co/WImTOSQv",
+                "url": "http://twitter.com/popdollarz/status/223368407582638082",
+                "trackback_date": 1342090153,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WImTOSQv",
+                        "display_url": "youtu.be/0W75O-D7z9s",
+                        "expanded_url": "http://youtu.be/0W75O-D7z9s",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=0W75O-D7z9s"
+                    }
+                ],
+                "target_birth_date": 1342090153,
+                "content": "@JustinDemii Tell Me What You Think... #Disturbed http://t.co/WImTOSQv",
+                "mytype": "tweet",
+                "score": 8.316722,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469960334770733056/eBNawsAL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PopDollarz/status/223368407582638082",
+                "trackback_author_url": "http://twitter.com/popdollarz",
+                "highlight": " Tell Me What You Think... #Disturbed",
+                "topsy_author_url": "http://topsy.com/twitter/popdollarz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/popdollarz/status/223368407582638082",
+                "trackback_author_name": "Pop Dollarz",
+                "trackback_author_nick": "popdollarz"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1342089748,
+                "title": "@Sierra12495 Tell Me What You Think... #Disturbed http://t.co/WImTOSQv",
+                "url": "http://twitter.com/popdollarz/status/223366710240096256",
+                "trackback_date": 1342089748,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WImTOSQv",
+                        "display_url": "youtu.be/0W75O-D7z9s",
+                        "expanded_url": "http://youtu.be/0W75O-D7z9s",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=0W75O-D7z9s"
+                    }
+                ],
+                "target_birth_date": 1342089748,
+                "content": "@Sierra12495 Tell Me What You Think... #Disturbed http://t.co/WImTOSQv",
+                "mytype": "tweet",
+                "score": 8.316722,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469960334770733056/eBNawsAL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PopDollarz/status/223366710240096256",
+                "trackback_author_url": "http://twitter.com/popdollarz",
+                "highlight": " Tell Me What You Think... #Disturbed",
+                "topsy_author_url": "http://topsy.com/twitter/popdollarz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/popdollarz/status/223366710240096256",
+                "trackback_author_name": "Pop Dollarz",
+                "trackback_author_nick": "popdollarz"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1342089464,
+                "title": "@I_LoveMyhater Tell Me What You Think... #Disturbed http://t.co/WImTOSQv",
+                "url": "http://twitter.com/popdollarz/status/223365518311165952",
+                "trackback_date": 1342089464,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WImTOSQv",
+                        "display_url": "youtu.be/0W75O-D7z9s",
+                        "expanded_url": "http://youtu.be/0W75O-D7z9s",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=0W75O-D7z9s"
+                    }
+                ],
+                "target_birth_date": 1342089464,
+                "content": "@I_LoveMyhater Tell Me What You Think... #Disturbed http://t.co/WImTOSQv",
+                "mytype": "tweet",
+                "score": 8.316722,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469960334770733056/eBNawsAL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PopDollarz/status/223365518311165952",
+                "trackback_author_url": "http://twitter.com/popdollarz",
+                "highlight": " Tell Me What You Think... #Disturbed",
+                "topsy_author_url": "http://topsy.com/twitter/popdollarz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/popdollarz/status/223365518311165952",
+                "trackback_author_name": "Pop Dollarz",
+                "trackback_author_nick": "popdollarz"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1341881982,
+                "title": "#Disturbed http://t.co/WImTOSQv",
+                "url": "http://twitter.com/popdollarz/status/222495277293125633",
+                "trackback_date": 1341881982,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WImTOSQv",
+                        "display_url": "youtu.be/0W75O-D7z9s",
+                        "expanded_url": "http://youtu.be/0W75O-D7z9s",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=0W75O-D7z9s"
+                    }
+                ],
+                "target_birth_date": 1341881982,
+                "content": "#Disturbed http://t.co/WImTOSQv",
+                "mytype": "tweet",
+                "score": 8.316722,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469960334770733056/eBNawsAL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PopDollarz/status/222495277293125633",
+                "trackback_author_url": "http://twitter.com/popdollarz",
+                "highlight": "#Disturbed",
+                "topsy_author_url": "http://topsy.com/twitter/popdollarz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/popdollarz/status/222495277293125633",
+                "trackback_author_name": "Pop Dollarz",
+                "trackback_author_nick": "popdollarz"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 400,
+        "hidden": 0,
+        "total": 146258,
+        "page": 1
+    }
+}

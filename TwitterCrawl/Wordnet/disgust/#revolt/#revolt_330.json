@@ -1,0 +1,283 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23revolt&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=330",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#revolt",
+            "window": "a",
+            "type": "tweet",
+            "offset": "330"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 8,
+                "firstpost_date": 1386555604,
+                "title": "#REVOLT Video: @_Cyrcle. Never Die, Bring Art To Life In Miami - http://t.co/SStyIDY0Bu",
+                "url": "http://twitter.com/revolttv/status/409870029694722048",
+                "trackback_date": 1386555604,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/SStyIDY0Bu",
+                        "display_url": "bit.ly/1gfEC3O",
+                        "expanded_url": "http://bit.ly/1gfEC3O",
+                        "topsy_expanded_url": "http://revolt.tv/video/Cyrcle-Never-Die-Bring-Art-To-Life-In-Miami/52A12EC7-E1F6-4734-BCF5-53F2CA69D249"
+                    }
+                ],
+                "target_birth_date": 1386555604,
+                "content": "#REVOLT Video: @_Cyrcle. Never Die, Bring Art To Life In Miami - http://t.co/SStyIDY0Bu",
+                "mytype": "tweet",
+                "score": 10.268243,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469538072871190528/DrdCikol_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RevoltTV/status/409870029694722048",
+                "trackback_author_url": "http://twitter.com/revolttv",
+                "highlight": "#REVOLT Video: @_Cyrcle. Never Die, Bring Art To Life In Miami -",
+                "topsy_author_url": "http://topsy.com/twitter/revolttv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/revolttv/status/409870029694722048",
+                "trackback_author_name": "REVOLT TV",
+                "trackback_author_nick": "revolttv"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1389394180,
+                "title": "#REVOLT News: King Krule Drops Rap Project As One Fourth Of Sub Luna City - http://t.co/KwiiW1kzgg",
+                "url": "http://twitter.com/revolttv/status/421775880831397888",
+                "trackback_date": 1389394180,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/KwiiW1kzgg",
+                        "display_url": "bit.ly/1aocfgh",
+                        "expanded_url": "http://bit.ly/1aocfgh",
+                        "topsy_expanded_url": "http://revolt.tv/news/king-krule-drops-rap-project-as-one-fourth-of-sub-luna-city/B769E0DE-E464-464D-9DC1-E6B5FAC1B069"
+                    }
+                ],
+                "target_birth_date": 1389394180,
+                "content": "#REVOLT News: King Krule Drops Rap Project As One Fourth Of Sub Luna City - http://t.co/KwiiW1kzgg",
+                "mytype": "tweet",
+                "score": 10.265309,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469538072871190528/DrdCikol_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RevoltTV/status/421775880831397888",
+                "trackback_author_url": "http://twitter.com/revolttv",
+                "highlight": "#REVOLT News: King Krule Drops Rap Project As One Fourth Of Sub Luna City -",
+                "topsy_author_url": "http://topsy.com/twitter/revolttv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/revolttv/status/421775880831397888",
+                "trackback_author_name": "REVOLT TV",
+                "trackback_author_nick": "revolttv"
+            },
+            {
+                "hits": 23,
+                "firstpost_date": 1380615348,
+                "title": "#REVOLT Music Video Pick: A video through the eyes of a #JesusPiece\n\n@Wale - Golden Salvation - http://t.co/4DyGWRxa2a",
+                "url": "http://twitter.com/revolttv/status/384954789169479680",
+                "trackback_date": 1380615348,
+                "trackback_total": 25,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4DyGWRxa2a",
+                        "display_url": "bit.ly/18Ho4MB",
+                        "expanded_url": "http://bit.ly/18Ho4MB",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=bXtqduJHyIA"
+                    }
+                ],
+                "target_birth_date": 1380615348,
+                "content": "#REVOLT Music Video Pick: A video through the eyes of a #JesusPiece\n\n@Wale - Golden Salvation - http://t.co/4DyGWRxa2a",
+                "mytype": "tweet",
+                "score": 10.263119,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469538072871190528/DrdCikol_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RevoltTV/status/384954789169479680",
+                "trackback_author_url": "http://twitter.com/revolttv",
+                "highlight": "#REVOLT Music Video Pick: A video through the eyes of a #JesusPiece @Wale - Golden Salvation -",
+                "topsy_author_url": "http://topsy.com/twitter/revolttv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/revolttv/status/384954789169479680",
+                "trackback_author_name": "REVOLT TV",
+                "trackback_author_nick": "revolttv"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1382359744,
+                "title": "The launch of @iamdiddy 's new network #Revolt I declare this to be #DiddyRevolt Day.... http://t.co/Vrc2vDWd1C",
+                "url": "http://twitter.com/tyrese/status/392271318298927104",
+                "trackback_date": 1382359744,
+                "trackback_total": 13,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Vrc2vDWd1C",
+                        "display_url": "instagram.com/p/fuuNKyIZmE/",
+                        "expanded_url": "http://instagram.com/p/fuuNKyIZmE/",
+                        "topsy_expanded_url": "http://instagram.com/p/fuuNKyIZmE/"
+                    }
+                ],
+                "target_birth_date": 1382359744,
+                "content": "The launch of @iamdiddy 's new network #Revolt I declare this to be #DiddyRevolt Day.... http://t.co/Vrc2vDWd1C",
+                "mytype": "tweet",
+                "score": 10.260183,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/423510046551449600/bCEgtcF6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Tyrese/status/392271318298927104",
+                "trackback_author_url": "http://twitter.com/tyrese",
+                "highlight": "The launch of @iamdiddy 's new network #Revolt I declare this to be #DiddyRevolt Day.",
+                "topsy_author_url": "http://topsy.com/twitter/tyrese",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tyrese/status/392271318298927104",
+                "trackback_author_name": "Vision Implementer  ",
+                "trackback_author_nick": "tyrese"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1371437375,
+                "title": "#REVOLT News - @KillerMikeGTO On Father's Day: 'Being a Dad is the Most Rewarding Thing I've Ever Done' - http://t.co/Oa6gTtbMcN",
+                "url": "http://twitter.com/revolttv/status/346459578885603328",
+                "trackback_date": 1371437375,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Oa6gTtbMcN",
+                        "display_url": "bit.ly/19HNUlq",
+                        "expanded_url": "http://bit.ly/19HNUlq",
+                        "topsy_expanded_url": "http://news.revolt.tv/post/53163709198/killer-mike-on-fathers-day-being-a-dad-is-the-most"
+                    }
+                ],
+                "target_birth_date": 1371437375,
+                "content": "#REVOLT News - @KillerMikeGTO On Father's Day: 'Being a Dad is the Most Rewarding Thing I've Ever Done' - http://t.co/Oa6gTtbMcN",
+                "mytype": "tweet",
+                "score": 10.251383,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469538072871190528/DrdCikol_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RevoltTV/status/346459578885603328",
+                "trackback_author_url": "http://twitter.com/revolttv",
+                "highlight": "#REVOLT News - @KillerMikeGTO On Father's Day: 'Being a Dad is the Most Rewarding Thing I've Ever Done' -",
+                "topsy_author_url": "http://topsy.com/twitter/revolttv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/revolttv/status/346459578885603328",
+                "trackback_author_name": "REVOLT TV",
+                "trackback_author_nick": "revolttv"
+            },
+            {
+                "hits": 38,
+                "firstpost_date": 1372746742,
+                "title": "#REVOLT caught up with @2Chainz &amp; he gave us the exclusive on creative style for his new video 'Feds Watching' - http://t.co/hQOZVyMlbO",
+                "url": "http://twitter.com/revolttv/status/351951461783060480",
+                "trackback_date": 1372746742,
+                "trackback_total": 40,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/hQOZVyMlbO",
+                        "display_url": "bit.ly/11WdSgY",
+                        "expanded_url": "http://bit.ly/11WdSgY",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=Z2FG5wpnweQ"
+                    }
+                ],
+                "target_birth_date": 1372746742,
+                "content": "#REVOLT caught up with @2Chainz &amp; he gave us the exclusive on creative style for his new video 'Feds Watching' - http://t.co/hQOZVyMlbO",
+                "mytype": "tweet",
+                "score": 10.250635,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469538072871190528/DrdCikol_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RevoltTV/status/351951461783060480",
+                "trackback_author_url": "http://twitter.com/revolttv",
+                "highlight": "#REVOLT caught up with @2Chainz &amp; he gave us the exclusive on creative style for his new video 'Feds Watching' -",
+                "topsy_author_url": "http://topsy.com/twitter/revolttv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/revolttv/status/351951461783060480",
+                "trackback_author_name": "REVOLT TV",
+                "trackback_author_nick": "revolttv"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1389123490,
+                "title": "#REVOLT News: Brooklyn DIY Venue @285Kent Closing, Farewell Shows Scheduled - http://t.co/qrz7nPiaqI",
+                "url": "http://twitter.com/revolttv/status/420640524429983745",
+                "trackback_date": 1389123490,
+                "trackback_total": 20,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/qrz7nPiaqI",
+                        "display_url": "bit.ly/1ie4qLV",
+                        "expanded_url": "http://bit.ly/1ie4qLV",
+                        "topsy_expanded_url": "http://revolt.tv/news/brooklyn-diy-venue-285-kent-closing-farewell-shows-scheduled/B5AB25C7-5ED7-46B7-9E0F-597EDF7328D5"
+                    }
+                ],
+                "target_birth_date": 1389123490,
+                "content": "#REVOLT News: Brooklyn DIY Venue @285Kent Closing, Farewell Shows Scheduled - http://t.co/qrz7nPiaqI",
+                "mytype": "tweet",
+                "score": 10.249043,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469538072871190528/DrdCikol_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RevoltTV/status/420640524429983745",
+                "trackback_author_url": "http://twitter.com/revolttv",
+                "highlight": "#REVOLT News: Brooklyn DIY Venue @285Kent Closing, Farewell Shows Scheduled -",
+                "topsy_author_url": "http://topsy.com/twitter/revolttv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/revolttv/status/420640524429983745",
+                "trackback_author_name": "REVOLT TV",
+                "trackback_author_nick": "revolttv"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1331145671,
+                "title": "\u201c@CLUBDIDDY @iamdiddy to announce revolt with comcast !!!! History being made in DC yall!!!! #revolt the revolution will be televised!\u201d",
+                "url": "http://twitter.com/dfcsupporter/status/177463923522535424",
+                "trackback_date": 1331146122,
+                "trackback_total": 23,
+                "url_expansions": [],
+                "target_birth_date": 1331145671,
+                "content": "RT @DFCsupporter: \u201c@CLUBDIDDY @iamdiddy to announce revolt with comcast !!!! History being made in DC yall!!!! #revolt the revolution wi ...",
+                "mytype": "tweet",
+                "score": 10.234909,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000627081375/217ed352be4e5ac7c6d32c07fde3989e_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/iamdiddy/status/177465815560499200",
+                "trackback_author_url": "http://twitter.com/iamdiddy",
+                "highlight": "\u201c@CLUBDIDDY @iamdiddy to announce revolt with comcast !!!! History being made in DC yall!!!! #revolt the revolution wi ",
+                "topsy_author_url": "http://topsy.com/twitter/iamdiddy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dfcsupporter/status/177463923522535424",
+                "trackback_author_name": "Diddy",
+                "trackback_author_nick": "iamdiddy"
+            },
+            {
+                "hits": 20,
+                "firstpost_date": 1369776604,
+                "title": "TELL US: Is @MeekMill's latest song #LEVELS a certified street anthem or just the new most talked about trend? \n\nWhat do you think? #REVOLT",
+                "url": "http://twitter.com/revolttv/status/339493801322225665",
+                "trackback_date": 1369776604,
+                "trackback_total": 38,
+                "url_expansions": [],
+                "target_birth_date": 1369776604,
+                "content": "TELL US: Is @MeekMill's latest song #LEVELS a certified street anthem or just the new most talked about trend? \n\nWhat do you think? #REVOLT",
+                "mytype": "tweet",
+                "score": 10.234748,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469538072871190528/DrdCikol_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RevoltTV/status/339493801322225665",
+                "trackback_author_url": "http://twitter.com/revolttv",
+                "highlight": "TELL US: Is @MeekMill's latest song #LEVELS a certified street anthem or just the new most talked about trend? What do you think?",
+                "topsy_author_url": "http://topsy.com/twitter/revolttv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/revolttv/status/339493801322225665",
+                "trackback_author_name": "REVOLT TV",
+                "trackback_author_nick": "revolttv"
+            },
+            {
+                "hits": 38,
+                "firstpost_date": 1382373497,
+                "title": "#Revolt tonight! Let's goooooooooooo! :)",
+                "url": "http://twitter.com/unclerush/status/392328998950162432",
+                "trackback_date": 1382373497,
+                "trackback_total": 58,
+                "url_expansions": [],
+                "target_birth_date": 1382373497,
+                "content": "#Revolt tonight! Let's goooooooooooo! :)",
+                "mytype": "tweet",
+                "score": 10.234374,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000683162823/39579dc80eb23ad0fa87a2152d4eb392_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/UncleRUSH/status/392328998950162432",
+                "trackback_author_url": "http://twitter.com/unclerush",
+                "highlight": "#Revolt tonight! Let's goooooooooooo! :)",
+                "topsy_author_url": "http://topsy.com/twitter/unclerush",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/unclerush/status/392328998950162432",
+                "trackback_author_name": "Russell Simmons",
+                "trackback_author_nick": "unclerush"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 330,
+        "hidden": 0,
+        "total": 215976,
+        "page": 1
+    }
+}

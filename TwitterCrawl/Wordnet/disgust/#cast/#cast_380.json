@@ -1,0 +1,281 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23cast&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=380",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#cast",
+            "window": "a",
+            "type": "tweet",
+            "offset": "380"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 7,
+                "firstpost_date": 1363825615,
+                "title": "The new two followers hey...that's great...but we said 126 ...not 2... So go go go #teamfollowback  #borhapUKtour  #cast lol",
+                "url": "http://twitter.com/borhapuktour/status/314533546528227328",
+                "trackback_date": 1363847926,
+                "trackback_total": 7,
+                "url_expansions": [],
+                "target_birth_date": 1363825615,
+                "content": "RT @BoRhapUKtour: The new two followers hey...that's great...but we said 126 ...not 2... So go go go #teamfollowback  #borhapUKtour  #ca ...",
+                "mytype": "tweet",
+                "score": 8.346944,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3077543969/f93ca6fa8af1e91f944f310018634805_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Giwwy/status/314627122293510145",
+                "trackback_author_url": "http://twitter.com/giwwy",
+                "highlight": "The new two followers hey...that's great...but we said 126 ...not 2... So go go go #teamfollowback #borhapUKtour #ca ",
+                "topsy_author_url": "http://topsy.com/twitter/giwwy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/borhapuktour/status/314533546528227328",
+                "trackback_author_name": "\u2665 Gill \u2665",
+                "trackback_author_nick": "giwwy"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1393973330,
+                "title": "The #cast and #crew of @DaddyTheMovie take time to honor #SlatesForSarah\u2026 http://t.co/2rH3NZEq56",
+                "url": "http://twitter.com/daddythemovie/status/440982228483338241",
+                "trackback_date": 1393973330,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2rH3NZEq56",
+                        "display_url": "instagram.com/p/lI1XS6txeT/",
+                        "expanded_url": "http://instagram.com/p/lI1XS6txeT/",
+                        "topsy_expanded_url": "http://instagram.com/p/lI1XS6txeT/"
+                    }
+                ],
+                "target_birth_date": 1393973330,
+                "content": "The #cast and #crew of @DaddyTheMovie take time to honor #SlatesForSarah\u2026 http://t.co/2rH3NZEq56",
+                "mytype": "tweet",
+                "score": 8.346434,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000608193284/8af160f1bc02b23aaa9ce7e02d93d36e_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DaddyTheMovie/status/440982228483338241",
+                "trackback_author_url": "http://twitter.com/daddythemovie",
+                "highlight": "The #cast and #crew of @DaddyTheMovie take time to honor #SlatesForSarah\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/daddythemovie",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/daddythemovie/status/440982228483338241",
+                "trackback_author_name": "Daddy: the movie",
+                "trackback_author_nick": "daddythemovie"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1384121469,
+                "title": "Saiba porque @AndreasKisser n\u00e3o ser\u00e1 o produtor do novo \u00e1lbum dos Tit\u00e3s... #Entrevista com @sergiobritto_51 no #Cast http://t.co/PtgvHum9pB",
+                "url": "http://twitter.com/rockanos80/status/399660524700721152",
+                "trackback_date": 1384121469,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PtgvHum9pB",
+                        "display_url": "ln.is/com.br/6duB",
+                        "expanded_url": "http://ln.is/com.br/6duB",
+                        "topsy_expanded_url": "http://linkis.com/com.br/6duB"
+                    }
+                ],
+                "target_birth_date": 1384121469,
+                "content": "Saiba porque @AndreasKisser n\u00e3o ser\u00e1 o produtor do novo \u00e1lbum dos Tit\u00e3s... #Entrevista com @sergiobritto_51 no #Cast http://t.co/PtgvHum9pB",
+                "mytype": "tweet",
+                "score": 8.346405,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468894600740872192/886f4wBx_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RockAnos80/status/399660524700721152",
+                "trackback_author_url": "http://twitter.com/rockbrasilnews",
+                "highlight": "Saiba porque @AndreasKisser n\u00e3o ser\u00e1 o produtor do novo \u00e1lbum dos Tit\u00e3s... #Entrevista com @sergiobritto_51 no #Cast",
+                "topsy_author_url": "http://topsy.com/twitter/rockbrasilnews",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rockanos80/status/399660524700721152",
+                "trackback_author_name": "ROCK BRASIL NEWS",
+                "trackback_author_nick": "rockbrasilnews"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1342365129,
+                "title": "OMG! A new #TVDCast Pic from the Comic Con \ud83d\ude1c\nI can't discribe how much I love this #Cast \ud83d\ude0d\u2764\n#TVD #ComicCon #SDCC http://t.co/hPt847dE",
+                "url": "http://twitter.com/celinchenf/status/224521740372545538",
+                "trackback_date": 1342365129,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/hPt847dE",
+                        "expanded_url": "http://twitter.com/celinchenF/status/224521740372545538/photo/1",
+                        "display_url": "pic.twitter.com/hPt847dE"
+                    }
+                ],
+                "target_birth_date": 1342365129,
+                "content": "OMG! A new #TVDCast Pic from the Comic Con \ud83d\ude1c\nI can't discribe how much I love this #Cast \ud83d\ude0d\u2764\n#TVD #ComicCon #SDCC http://t.co/hPt847dE",
+                "mytype": "tweet",
+                "score": 8.346177,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/439912365862453248/hedMCgV5_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/celinchenF/status/224521740372545538",
+                "trackback_author_url": "http://twitter.com/celinchenf",
+                "highlight": "OMG! A new #TVDCast Pic from the Comic Con \ud83d\ude1c I can't discribe how much I love this #Cast \ud83d\ude0d\u2764 #TVD #ComicCon #SDCC",
+                "topsy_author_url": "http://topsy.com/twitter/celinchenf",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/celinchenf/status/224521740372545538",
+                "trackback_author_name": "Celina \u2764",
+                "trackback_author_nick": "celinchenf"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1310523320,
+                "title": "Checking out the New Product Showcase at #cast http://twitpic.com/5pbgqg",
+                "url": "http://twitter.com/wfn/status/90967517098553344",
+                "trackback_date": 1310523320,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1310523320,
+                "content": "Checking out the New Product Showcase at #cast http://twitpic.com/5pbgqg",
+                "mytype": "tweet",
+                "score": 8.345914,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/423863354197688321/36fliQ_d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/WFN/status/90967517098553344",
+                "trackback_author_url": "http://twitter.com/wfn",
+                "highlight": "Checking out the New Product Showcase at #cast",
+                "topsy_author_url": "http://topsy.com/twitter/wfn",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wfn/status/90967517098553344",
+                "trackback_author_name": "WorldFishingNetwork",
+                "trackback_author_nick": "wfn"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1364020794,
+                "title": "FYI: You have not been casted in a project, you have been cast. You're welcome. #actors #acting #cast",
+                "url": "http://twitter.com/cmcanoy/status/315352185384865792",
+                "trackback_date": 1364020794,
+                "trackback_total": 8,
+                "url_expansions": [],
+                "target_birth_date": 1364020794,
+                "content": "FYI: You have not been casted in a project, you have been cast. You're welcome. #actors #acting #cast",
+                "mytype": "tweet",
+                "score": 8.34591,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000856285562/087c4d47814ecbdfcbec8cabd8d4bab3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/cmcanoy/status/315352185384865792",
+                "trackback_author_url": "http://twitter.com/cmcanoy",
+                "highlight": "FYI: You have not been casted in a project, you have been cast. You're welcome. #actors #acting",
+                "topsy_author_url": "http://topsy.com/twitter/cmcanoy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cmcanoy/status/315352185384865792",
+                "trackback_author_name": "Charlene McAnoy",
+                "trackback_author_nick": "cmcanoy"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1323900960,
+                "title": "Visit http://t.co/NdS1YD2l to use @BackStageCast and #cast your project today! http://t.co/brl2O8NL",
+                "url": "http://twitter.com/backstagecast/status/147077405327097856",
+                "trackback_date": 1323900960,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/NdS1YD2l",
+                        "display_url": "backstage.com/findtalent",
+                        "expanded_url": "http://www.backstage.com/findtalent",
+                        "topsy_expanded_url": "http://www.backstage.com/bso/casting/findtalent.jsp"
+                    },
+                    {
+                        "url": "http://t.co/brl2O8NL",
+                        "display_url": "twitpic.com/7tbzlp",
+                        "expanded_url": "http://twitpic.com/7tbzlp",
+                        "topsy_expanded_url": "http://twitpic.com/7tbzlp"
+                    }
+                ],
+                "target_birth_date": 1323900960,
+                "content": "Visit http://t.co/NdS1YD2l to use @BackStageCast and #cast your project today! http://t.co/brl2O8NL",
+                "mytype": "tweet",
+                "score": 8.345849,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2648641571/ba7942b37178650879b9527ad5555da0_normal.png",
+                "trackback_permalink": "http://twitter.com/BackStageCast/status/147077405327097856",
+                "trackback_author_url": "http://twitter.com/backstage",
+                "highlight": "Visit to use @BackStageCast and #cast your project today!",
+                "topsy_author_url": "http://topsy.com/twitter/backstage",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/backstagecast/status/147077405327097856",
+                "trackback_author_name": "Backstage",
+                "trackback_author_nick": "backstage"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1355838105,
+                "title": "#lovehate #CAST #lovehatedrama        @laurencekinlan @CharlieBMurphy @bigsuzz @aweecity \n@roxynl @evemack @MissKeelyD\nThe rest are FAKE!",
+                "url": "http://twitter.com/laurencekinlan/status/281031497941659649",
+                "trackback_date": 1355838105,
+                "trackback_total": 28,
+                "url_expansions": [],
+                "target_birth_date": 1355838105,
+                "content": "#lovehate #CAST #lovehatedrama        @laurencekinlan @CharlieBMurphy @bigsuzz @aweecity \n@roxynl @evemack @MissKeelyD\nThe rest are FAKE!",
+                "mytype": "tweet",
+                "score": 8.345683,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2880906391/5adef1e99da39f689ed4c818c998261f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/laurencekinlan/status/281031497941659649",
+                "trackback_author_url": "http://twitter.com/laurencekinlan",
+                "highlight": "#lovehate #CAST #lovehatedrama @laurencekinlan @CharlieBMurphy @bigsuzz @aweecity @roxynl @evemack @MissKeelyD The rest are FAKE!",
+                "topsy_author_url": "http://topsy.com/twitter/laurencekinlan",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/laurencekinlan/status/281031497941659649",
+                "trackback_author_name": "Laurence Kinlan",
+                "trackback_author_nick": "laurencekinlan"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1373562838,
+                "title": "Are you ready? Follow us. #bwng #season2 #webseries #brothers #youtube #cast #summer #tv #july #august http://t.co/jNUM5LZdzo",
+                "url": "http://twitter.com/thebwng/status/355374420283494402",
+                "trackback_date": 1373562838,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jNUM5LZdzo",
+                        "display_url": "instagram.com/p/boiPSQqlER/",
+                        "expanded_url": "http://instagram.com/p/boiPSQqlER/",
+                        "topsy_expanded_url": "http://instagram.com/p/boiPSQqlER/"
+                    }
+                ],
+                "target_birth_date": 1373562838,
+                "content": "Are you ready? Follow us. #bwng #season2 #webseries #brothers #youtube #cast #summer #tv #july #august http://t.co/jNUM5LZdzo",
+                "mytype": "tweet",
+                "score": 8.344462,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000176881240/850edc8c0b35b73d84bb21d62e0e9682_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TheBWNG/status/355374420283494402",
+                "trackback_author_url": "http://twitter.com/thebwng",
+                "highlight": "Are you ready? Follow us. #bwng #season2 #webseries #brothers #youtube #cast #summer #tv #july #august",
+                "topsy_author_url": "http://topsy.com/twitter/thebwng",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/thebwng/status/355374420283494402",
+                "trackback_author_name": "Bros With No Game",
+                "trackback_author_nick": "thebwng"
+            },
+            {
+                "hits": 27,
+                "firstpost_date": 1397460877,
+                "title": "\u308b\u306a\u3057\u30fc\u8ffd\u52a0\u516c\u6f14\u306f\u3069\u3053\u306b\u306a\u308b\u306e\u304b*\\(^o^)/*\u3082\u3063\u3068\u5730\u65b9\u5897\u3084\u3057\u3066\u304f\u308c\u305f\u3089\u5b09\u3057\u3044\u306a\u3042\u2606 #CAST SGZ\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc http://t.co/taqHy8vxk8",
+                "url": "http://twitter.com/miyu_sfmyeden/status/455610059309871104",
+                "trackback_date": 1397471955,
+                "trackback_total": 31,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/taqHy8vxk8",
+                        "display_url": "pic.twitter.com/taqHy8vxk8",
+                        "expanded_url": "http://twitter.com/miyu_sfmyeden/status/455610059309871104/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BlKm71VCMAIhQIY.jpg"
+                    }
+                ],
+                "target_birth_date": 1397460877,
+                "content": "RT @miyu_sfmyeden: \u308b\u306a\u3057\u30fc\u8ffd\u52a0\u516c\u6f14\u306f\u3069\u3053\u306b\u306a\u308b\u306e\u304b*\\(^o^)/*\u3082\u3063\u3068\u5730\u65b9\u5897\u3084\u3057\u3066\u304f\u308c\u305f\u3089\u5b09\u3057\u3044\u306a\u3042\u2606 #CAST SGZ\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc http://t.co/taqHy8vxk8",
+                "mytype": "tweet",
+                "score": 8.343807,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3337218985/d2795ea48548b0e0d21a77e288b42413_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/wish_xxx/status/455656523482427392",
+                "trackback_author_url": "http://twitter.com/wish_xxx",
+                "highlight": "\u308b\u306a\u3057\u30fc\u8ffd\u52a0\u516c\u6f14\u306f\u3069\u3053\u306b\u306a\u308b\u306e\u304b*\\(^o^)/*\u3082\u3063\u3068\u5730\u65b9\u5897\u3084\u3057\u3066\u304f\u308c\u305f\u3089\u5b09\u3057\u3044\u306a\u3042\u2606 #CAST SGZ\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc",
+                "topsy_author_url": "http://topsy.com/twitter/wish_xxx",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/miyu_sfmyeden/status/455610059309871104",
+                "trackback_author_name": "\u308a\u3093\uff20LS25thAnniversary",
+                "trackback_author_nick": "wish_xxx"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 380,
+        "hidden": 0,
+        "total": 122666,
+        "page": 1
+    }
+}

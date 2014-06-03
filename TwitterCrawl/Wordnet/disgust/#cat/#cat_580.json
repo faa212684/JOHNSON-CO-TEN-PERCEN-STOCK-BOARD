@@ -1,0 +1,304 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23cat&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=580",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#cat",
+            "window": "a",
+            "type": "tweet",
+            "offset": "580"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 7,
+                "firstpost_date": 1391356793,
+                "title": "Alguien despert\u00f3 carente #cat #wero http://t.co/NOTJhofnLC",
+                "url": "http://twitter.com/amandarosars/status/430007675423039488",
+                "trackback_date": 1391356793,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/NOTJhofnLC",
+                        "display_url": "instagram.com/p/j62tydoMqI/",
+                        "expanded_url": "http://instagram.com/p/j62tydoMqI/",
+                        "topsy_expanded_url": "http://instagram.com/p/j62tydoMqI/"
+                    }
+                ],
+                "target_birth_date": 1391356793,
+                "content": "Alguien despert\u00f3 carente #cat #wero http://t.co/NOTJhofnLC",
+                "mytype": "tweet",
+                "score": 9.141976,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/449780724120305664/zjDZee8G_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Amandarosars/status/430007675423039488",
+                "trackback_author_url": "http://twitter.com/amandarosars",
+                "highlight": "Alguien despert\u00f3 carente #cat #wero",
+                "topsy_author_url": "http://topsy.com/twitter/amandarosars",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/amandarosars/status/430007675423039488",
+                "trackback_author_name": "Amanda Rosa",
+                "trackback_author_nick": "amandarosars"
+            },
+            {
+                "hits": 70,
+                "firstpost_date": 1386392605,
+                "title": "\u3075\u3093!\u3044\u3089\u306a\u3044\u3082\u3093![\u58c1]\u0434\u30fb)\uff81\uff97\uff6f http://t.co/u1KqXy70My #cat",
+                "url": "http://twitter.com/neco_pic/status/409186361791352832",
+                "trackback_date": 1386392605,
+                "trackback_total": 91,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/u1KqXy70My",
+                        "display_url": "twitpic.com/a93aqj",
+                        "expanded_url": "http://twitpic.com/a93aqj",
+                        "topsy_expanded_url": "http://twitpic.com/a93aqj"
+                    }
+                ],
+                "target_birth_date": 1386392605,
+                "content": "\u3075\u3093!\u3044\u3089\u306a\u3044\u3082\u3093![\u58c1]\u0434\u30fb)\uff81\uff97\uff6f http://t.co/u1KqXy70My #cat",
+                "mytype": "tweet",
+                "score": 9.141919,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000381123578/aaa557c7eb7216b93186c2127c320e89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/neco_pic/status/409186361791352832",
+                "trackback_author_url": "http://twitter.com/neco_pic",
+                "highlight": "\u3075\u3093!\u3044\u3089\u306a\u3044\u3082\u3093![\u58c1]\u0434\u30fb)\uff81\uff97\uff6f",
+                "topsy_author_url": "http://topsy.com/twitter/neco_pic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/neco_pic/status/409186361791352832",
+                "trackback_author_name": "\u306d\u3053\u753b\u50cfbot",
+                "trackback_author_nick": "neco_pic"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1375564580,
+                "title": "Gato ba\u00f1andose #loop #cat https://t.co/cBsmoCHDSH",
+                "url": "http://twitter.com/sandycoben/status/363770333649575936",
+                "trackback_date": 1375564580,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/cBsmoCHDSH",
+                        "display_url": "vine.co/v/hbWzLxnKWw1",
+                        "expanded_url": "https://vine.co/v/hbWzLxnKWw1",
+                        "topsy_expanded_url": "https://vine.co/v/hbWzLxnKWw1"
+                    }
+                ],
+                "target_birth_date": 1375564580,
+                "content": "Gato ba\u00f1andose #loop #cat https://t.co/cBsmoCHDSH",
+                "mytype": "tweet",
+                "score": 9.141793,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463927040224149504/FxTguEsc_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SandyCoben/status/363770333649575936",
+                "trackback_author_url": "http://twitter.com/sandycoben",
+                "highlight": "Gato ba\u00f1andose #loop #cat",
+                "topsy_author_url": "http://topsy.com/twitter/sandycoben",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sandycoben/status/363770333649575936",
+                "trackback_author_name": "SandyCoben",
+                "trackback_author_nick": "sandycoben"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1387385220,
+                "title": "\u305b\u3044\u307b\u30fc\u3045 #cat #\u30b5\u30d0\u7f8e http://t.co/T9CZ0Nt677",
+                "url": "http://twitter.com/miusakamoto/status/413349691838185472",
+                "trackback_date": 1387385220,
+                "trackback_total": 15,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/T9CZ0Nt677",
+                        "display_url": "instagram.com/p/iEfisEEG9S/",
+                        "expanded_url": "http://instagram.com/p/iEfisEEG9S/",
+                        "topsy_expanded_url": "http://instagram.com/p/iEfisEEG9S/"
+                    }
+                ],
+                "target_birth_date": 1387385220,
+                "content": "\u305b\u3044\u307b\u30fc\u3045 #cat #\u30b5\u30d0\u7f8e http://t.co/T9CZ0Nt677",
+                "mytype": "tweet",
+                "score": 9.141614,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1645322449/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/miusakamoto/status/413349691838185472",
+                "trackback_author_url": "http://twitter.com/miusakamoto",
+                "highlight": "\u305b\u3044\u307b\u30fc\u3045 #cat #\u30b5\u30d0\u7f8e",
+                "topsy_author_url": "http://topsy.com/twitter/miusakamoto",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/miusakamoto/status/413349691838185472",
+                "trackback_author_name": "\u30cd\u30b3\u5438\u3044\u3000\u5742\u672c\u7f8e\u96e8",
+                "trackback_author_nick": "miusakamoto"
+            },
+            {
+                "hits": 115,
+                "firstpost_date": 1361175097,
+                "title": "\u9854\u304c\u6d17\u3048\u306a\u3044\u2026\u2026 http://t.co/Ny83TBCE #cat",
+                "url": "http://twitter.com/neco_pic/status/303416465011404800",
+                "trackback_date": 1361175097,
+                "trackback_total": 169,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Ny83TBCE",
+                        "display_url": "yfrog.com/61nf4zj",
+                        "expanded_url": "http://yfrog.com/61nf4zj",
+                        "topsy_expanded_url": "http://twitter.yfrog.com/61nf4zj"
+                    }
+                ],
+                "target_birth_date": 1361175097,
+                "content": "\u9854\u304c\u6d17\u3048\u306a\u3044\u2026\u2026 http://t.co/Ny83TBCE #cat",
+                "mytype": "tweet",
+                "score": 9.141388,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000381123578/aaa557c7eb7216b93186c2127c320e89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/neco_pic/status/303416465011404800",
+                "trackback_author_url": "http://twitter.com/neco_pic",
+                "highlight": "\u9854\u304c\u6d17\u3048\u306a\u3044\u2026\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/neco_pic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/neco_pic/status/303416465011404800",
+                "trackback_author_name": "\u306d\u3053\u753b\u50cfbot",
+                "trackback_author_nick": "neco_pic"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1330093616,
+                "title": "shima shima #cat #\u30b5\u30d0\u7f8e  http://t.co/TaebvamC",
+                "url": "http://twitter.com/miusakamoto/status/173051288135802880",
+                "trackback_date": 1330093616,
+                "trackback_total": 21,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/TaebvamC",
+                        "display_url": "instagr.am/p/HZEbPBEG6V/",
+                        "expanded_url": "http://instagr.am/p/HZEbPBEG6V/",
+                        "topsy_expanded_url": "http://instagr.am/p/HZEbPBEG6V/"
+                    }
+                ],
+                "target_birth_date": 1330093616,
+                "content": "shima shima #cat #\u30b5\u30d0\u7f8e  http://t.co/TaebvamC",
+                "mytype": "tweet",
+                "score": 9.141161,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1645322449/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/miusakamoto/status/173051288135802880",
+                "trackback_author_url": "http://twitter.com/miusakamoto",
+                "highlight": "shima shima #cat #\u30b5\u30d0\u7f8e",
+                "topsy_author_url": "http://topsy.com/twitter/miusakamoto",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/miusakamoto/status/173051288135802880",
+                "trackback_author_name": "\u30cd\u30b3\u5438\u3044\u3000\u5742\u672c\u7f8e\u96e8",
+                "trackback_author_nick": "miusakamoto"
+            },
+            {
+                "hits": 23,
+                "firstpost_date": 1385036972,
+                "title": "\u5ac1\u304c\u30bb\u30af\u30b7\u30fc\u3067\u56f0\u308b\n#cat #\u30b5\u30d0\u7f8e http://t.co/93HgjXx4Ho",
+                "url": "http://twitter.com/miusakamoto/status/403500425670049792",
+                "trackback_date": 1385036972,
+                "trackback_total": 29,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/93HgjXx4Ho",
+                        "display_url": "instagram.com/p/g-ghB9kGzC/",
+                        "expanded_url": "http://instagram.com/p/g-ghB9kGzC/",
+                        "topsy_expanded_url": "http://instagram.com/p/g-ghB9kGzC/"
+                    }
+                ],
+                "target_birth_date": 1385036972,
+                "content": "\u5ac1\u304c\u30bb\u30af\u30b7\u30fc\u3067\u56f0\u308b\n#cat #\u30b5\u30d0\u7f8e http://t.co/93HgjXx4Ho",
+                "mytype": "tweet",
+                "score": 9.140529,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1645322449/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/miusakamoto/status/403500425670049792",
+                "trackback_author_url": "http://twitter.com/miusakamoto",
+                "highlight": "\u5ac1\u304c\u30bb\u30af\u30b7\u30fc\u3067\u56f0\u308b #cat #\u30b5\u30d0\u7f8e",
+                "topsy_author_url": "http://topsy.com/twitter/miusakamoto",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/miusakamoto/status/403500425670049792",
+                "trackback_author_name": "\u30cd\u30b3\u5438\u3044\u3000\u5742\u672c\u7f8e\u96e8",
+                "trackback_author_nick": "miusakamoto"
+            },
+            {
+                "hits": 208,
+                "firstpost_date": 1394981870,
+                "title": "\u3053\u306e\u732b\u4f55\u304c\u3057\u305f\u3044\u3093\u3060\u3088  #cat http://t.co/OitNn1Wai6",
+                "url": "http://twitter.com/nekogazoukawaii/status/445212350455349249",
+                "trackback_date": 1394981870,
+                "trackback_total": 279,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/OitNn1Wai6",
+                        "display_url": "pic.twitter.com/OitNn1Wai6",
+                        "expanded_url": "http://twitter.com/nekogazoukawaii/status/445212350455349249/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bi22RhfCYAEmD-9.jpg"
+                    }
+                ],
+                "target_birth_date": 1394981870,
+                "content": "\u3053\u306e\u732b\u4f55\u304c\u3057\u305f\u3044\u3093\u3060\u3088  #cat http://t.co/OitNn1Wai6",
+                "mytype": "tweet",
+                "score": 9.140401,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/433546398571565056/vONt9ttl_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/nekogazoukawaii/status/445212350455349249",
+                "trackback_author_url": "http://twitter.com/lovecat_cute",
+                "highlight": "\u3053\u306e\u732b\u4f55\u304c\u3057\u305f\u3044\u3093\u3060\u3088 #cat",
+                "topsy_author_url": "http://topsy.com/twitter/lovecat_cute",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nekogazoukawaii/status/445212350455349249",
+                "trackback_author_name": "\u53ef\u611b\u3059\u304e\u308b\u2661\u30e2\u30d5\u30e2\u30d5\u732b\u753b\u50cf",
+                "trackback_author_nick": "lovecat_cute"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1345425605,
+                "title": "Lembra do Pink &amp; C\u00e9rebro? A Isabela parece o C\u00e9rebro!!! Kkkkk #brain #cat #PINKandBRAIN http://t.co/BT6YdmiL",
+                "url": "http://twitter.com/pregadorluo/status/237358308141461505",
+                "trackback_date": 1345425605,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/BT6YdmiL",
+                        "display_url": "instagr.am/p/Oh_qvHiP0J/",
+                        "expanded_url": "http://instagr.am/p/Oh_qvHiP0J/",
+                        "topsy_expanded_url": "http://instagr.am/p/Oh_qvHiP0J/"
+                    }
+                ],
+                "target_birth_date": 1345425605,
+                "content": "Lembra do Pink &amp; C\u00e9rebro? A Isabela parece o C\u00e9rebro!!! Kkkkk #brain #cat #PINKandBRAIN http://t.co/BT6YdmiL",
+                "mytype": "tweet",
+                "score": 9.140095,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/413487255597383681/nd1zoyjm_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PREGADORLUO/status/237358308141461505",
+                "trackback_author_url": "http://twitter.com/pregadorluo",
+                "highlight": "Lembra do Pink &amp; C\u00e9rebro? A Isabela parece o C\u00e9rebro!!! Kkkkk #brain #cat #PINKandBRAIN",
+                "topsy_author_url": "http://topsy.com/twitter/pregadorluo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/pregadorluo/status/237358308141461505",
+                "trackback_author_name": "Pregador Luo-APC16",
+                "trackback_author_nick": "pregadorluo"
+            },
+            {
+                "hits": 22,
+                "firstpost_date": 1377353337,
+                "title": "\u4ed5\u4e8b\u3057\u305f\u3044\u3093\u3060\u304c\u3002\n#cat #\u30b5\u30d0\u7f8e http://t.co/296auwe3OM",
+                "url": "http://twitter.com/miusakamoto/status/371272923015032832",
+                "trackback_date": 1377353337,
+                "trackback_total": 31,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/296auwe3OM",
+                        "display_url": "instagram.com/p/dZhLxdEG_N/",
+                        "expanded_url": "http://instagram.com/p/dZhLxdEG_N/",
+                        "topsy_expanded_url": "http://instagram.com/p/dZhLxdEG_N/"
+                    }
+                ],
+                "target_birth_date": 1377353337,
+                "content": "\u4ed5\u4e8b\u3057\u305f\u3044\u3093\u3060\u304c\u3002\n#cat #\u30b5\u30d0\u7f8e http://t.co/296auwe3OM",
+                "mytype": "tweet",
+                "score": 9.139901,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1645322449/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/miusakamoto/status/371272923015032832",
+                "trackback_author_url": "http://twitter.com/miusakamoto",
+                "highlight": "\u4ed5\u4e8b\u3057\u305f\u3044\u3093\u3060\u304c\u3002 #cat #\u30b5\u30d0\u7f8e",
+                "topsy_author_url": "http://topsy.com/twitter/miusakamoto",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/miusakamoto/status/371272923015032832",
+                "trackback_author_name": "\u30cd\u30b3\u5438\u3044\u3000\u5742\u672c\u7f8e\u96e8",
+                "trackback_author_nick": "miusakamoto"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 580,
+        "hidden": 0,
+        "total": 8454895,
+        "page": 1
+    }
+}

@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23revolt&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=170",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#revolt",
+            "window": "a",
+            "type": "tweet",
+            "offset": "170"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 30,
+                "firstpost_date": 1369267286,
+                "title": "Workin #revolt @aquahydrate @ciroc @seanjohn #badboy #excusemyfrench NOT PLAYIN! Let's work http://t.co/4fCvz2Wjpj",
+                "url": "http://twitter.com/iamdiddy/status/337357567556734976",
+                "trackback_date": 1369267286,
+                "trackback_total": 64,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4fCvz2Wjpj",
+                        "display_url": "instagram.com/p/Zoh-tZpl1B/",
+                        "expanded_url": "http://instagram.com/p/Zoh-tZpl1B/",
+                        "topsy_expanded_url": "http://instagram.com/p/Zoh-tZpl1B/"
+                    }
+                ],
+                "target_birth_date": 1369267286,
+                "content": "Workin #revolt @aquahydrate @ciroc @seanjohn #badboy #excusemyfrench NOT PLAYIN! Let's work http://t.co/4fCvz2Wjpj",
+                "mytype": "tweet",
+                "score": 10.626446,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000627081375/217ed352be4e5ac7c6d32c07fde3989e_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/iamdiddy/status/337357567556734976",
+                "trackback_author_url": "http://twitter.com/iamdiddy",
+                "highlight": "Workin #revolt @aquahydrate @ciroc @seanjohn #badboy #excusemyfrench NOT PLAYIN! Let's work",
+                "topsy_author_url": "http://topsy.com/twitter/iamdiddy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/iamdiddy/status/337357567556734976",
+                "trackback_author_name": "Diddy",
+                "trackback_author_nick": "iamdiddy"
+            },
+            {
+                "hits": 42,
+                "firstpost_date": 1377482334,
+                "title": "#REVOLT Video: Behind The Scenes: @MileyCyrus Is Still Twerking - http://t.co/vQGvcwNQRq",
+                "url": "http://twitter.com/revolttv/status/371813975849435136",
+                "trackback_date": 1377482334,
+                "trackback_total": 58,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vQGvcwNQRq",
+                        "display_url": "bit.ly/1dGXpC1",
+                        "expanded_url": "http://bit.ly/1dGXpC1",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=5UVD8WTxOFU"
+                    }
+                ],
+                "target_birth_date": 1377482334,
+                "content": "#REVOLT Video: Behind The Scenes: @MileyCyrus Is Still Twerking - http://t.co/vQGvcwNQRq",
+                "mytype": "tweet",
+                "score": 10.62083,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469538072871190528/DrdCikol_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RevoltTV/status/371813975849435136",
+                "trackback_author_url": "http://twitter.com/revolttv",
+                "highlight": "#REVOLT Video: Behind The Scenes: @MileyCyrus Is Still Twerking -",
+                "topsy_author_url": "http://topsy.com/twitter/revolttv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/revolttv/status/371813975849435136",
+                "trackback_author_name": "REVOLT TV",
+                "trackback_author_nick": "revolttv"
+            },
+            {
+                "hits": 74,
+                "firstpost_date": 1382727032,
+                "title": "You were incredible. But I definitely won RT @iamdiddy\nCatch Ellen today to learn about #REVOLT &amp; see your picks from the #BestDanceEver!",
+                "url": "http://twitter.com/theellenshow/status/393811833473073152",
+                "trackback_date": 1382727032,
+                "trackback_total": 137,
+                "url_expansions": [],
+                "target_birth_date": 1382727032,
+                "content": "You were incredible. But I definitely won RT @iamdiddy\nCatch Ellen today to learn about #REVOLT &amp; see your picks from the #BestDanceEver!",
+                "mytype": "tweet",
+                "score": 10.619385,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464848898305949697/aBzDtrGt_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TheEllenShow/status/393811833473073152",
+                "trackback_author_url": "http://twitter.com/theellenshow",
+                "highlight": "You were incredible. But I definitely won RT @iamdiddy Catch Ellen today to learn about #REVOLT &amp; see your picks from the #BestDanceEver!",
+                "topsy_author_url": "http://topsy.com/twitter/theellenshow",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/theellenshow/status/393811833473073152",
+                "trackback_author_name": "Ellen DeGeneres",
+                "trackback_author_nick": "theellenshow"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1389896647,
+                "title": "#REVOLT Video: @Pharrell: I Just Wanna Jam - http://t.co/0pNWujg2cH",
+                "url": "http://twitter.com/revolttv/status/423883377360793600",
+                "trackback_date": 1389896647,
+                "trackback_total": 27,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/0pNWujg2cH",
+                        "display_url": "bit.ly/1m96aGd",
+                        "expanded_url": "http://bit.ly/1m96aGd",
+                        "topsy_expanded_url": "http://revolt.tv/video/pharrell-i-just-wanna-jam/BC210462-D44B-496E-8163-849CFA364D8C"
+                    }
+                ],
+                "target_birth_date": 1389896647,
+                "content": "#REVOLT Video: @Pharrell: I Just Wanna Jam - http://t.co/0pNWujg2cH",
+                "mytype": "tweet",
+                "score": 10.618708,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469538072871190528/DrdCikol_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RevoltTV/status/423883377360793600",
+                "trackback_author_url": "http://twitter.com/revolttv",
+                "highlight": "#REVOLT Video: @Pharrell: I Just Wanna Jam -",
+                "topsy_author_url": "http://topsy.com/twitter/revolttv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/revolttv/status/423883377360793600",
+                "trackback_author_name": "REVOLT TV",
+                "trackback_author_nick": "revolttv"
+            },
+            {
+                "hits": 25,
+                "firstpost_date": 1382471873,
+                "title": "#REVOLT  @frenchmontana @rickyrozay iamdiddy #cirocboyz #ciroc\u2026 http://t.co/TaM1durnGV",
+                "url": "http://twitter.com/rickyrozay/status/392741621332463617",
+                "trackback_date": 1382471873,
+                "trackback_total": 29,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/TaM1durnGV",
+                        "display_url": "instagram.com/p/fxxPDGixGL/",
+                        "expanded_url": "http://instagram.com/p/fxxPDGixGL/",
+                        "topsy_expanded_url": "http://instagram.com/p/fxxPDGixGL/"
+                    }
+                ],
+                "target_birth_date": 1382471873,
+                "content": "#REVOLT  @frenchmontana @rickyrozay iamdiddy #cirocboyz #ciroc\u2026 http://t.co/TaM1durnGV",
+                "mytype": "tweet",
+                "score": 10.618502,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467294080725417984/67UQ75sL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rickyrozay/status/392741621332463617",
+                "trackback_author_url": "http://twitter.com/rickyrozay",
+                "highlight": "#REVOLT @frenchmontana @rickyrozay iamdiddy #cirocboyz #ciroc\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/rickyrozay",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rickyrozay/status/392741621332463617",
+                "trackback_author_name": "Mastermind",
+                "trackback_author_nick": "rickyrozay"
+            },
+            {
+                "hits": 15,
+                "firstpost_date": 1330146790,
+                "title": "@RevRunWisdom I love you your my hero! :) #revolt",
+                "url": "http://twitter.com/iamdiddy/status/173274314412539908",
+                "trackback_date": 1330146790,
+                "trackback_total": 31,
+                "url_expansions": [],
+                "target_birth_date": 1330146790,
+                "content": "@RevRunWisdom I love you your my hero! :) #revolt",
+                "mytype": "tweet",
+                "score": 10.617937,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000627081375/217ed352be4e5ac7c6d32c07fde3989e_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/iamdiddy/status/173274314412539908",
+                "trackback_author_url": "http://twitter.com/iamdiddy",
+                "highlight": " I love you your my hero! :)",
+                "topsy_author_url": "http://topsy.com/twitter/iamdiddy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/iamdiddy/status/173274314412539908",
+                "trackback_author_name": "Diddy",
+                "trackback_author_nick": "iamdiddy"
+            },
+            {
+                "hits": 79,
+                "firstpost_date": 1382362426,
+                "title": "revolttv #REVOLT WE GO LIVE ON #COMCAST AND twc TONIGHT AT 8P EST! If you don't have either of those\u2026 http://t.co/qm6A5LBdSA",
+                "url": "http://twitter.com/iamdiddy/status/392282566642122752",
+                "trackback_date": 1382362426,
+                "trackback_total": 107,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/qm6A5LBdSA",
+                        "display_url": "instagram.com/p/fuytM3plwl/",
+                        "expanded_url": "http://instagram.com/p/fuytM3plwl/",
+                        "topsy_expanded_url": "http://instagram.com/p/fuytM3plwl/"
+                    }
+                ],
+                "target_birth_date": 1382362426,
+                "content": "revolttv #REVOLT WE GO LIVE ON #COMCAST AND twc TONIGHT AT 8P EST! If you don't have either of those\u2026 http://t.co/qm6A5LBdSA",
+                "mytype": "tweet",
+                "score": 10.617204,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000627081375/217ed352be4e5ac7c6d32c07fde3989e_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/iamdiddy/status/392282566642122752",
+                "trackback_author_url": "http://twitter.com/iamdiddy",
+                "highlight": "revolttv #REVOLT WE GO LIVE ON #COMCAST AND twc TONIGHT AT 8P EST! If you don't have either of those\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/iamdiddy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/iamdiddy/status/392282566642122752",
+                "trackback_author_name": "Diddy",
+                "trackback_author_nick": "iamdiddy"
+            },
+            {
+                "hits": 146,
+                "firstpost_date": 1330030447,
+                "title": "Nominated for an Oscar AND announced my cable channel- all in 1 week! God really IS the GREATEST! If u believe-you can do ANYTHING! #REVOLT",
+                "url": "http://twitter.com/iamdiddy/status/172786337345318913",
+                "trackback_date": 1330030447,
+                "trackback_total": 241,
+                "url_expansions": [],
+                "target_birth_date": 1330030447,
+                "content": "Nominated for an Oscar AND announced my cable channel- all in 1 week! God really IS the GREATEST! If u believe-you can do ANYTHING! #REVOLT",
+                "mytype": "tweet",
+                "score": 10.6164465,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000627081375/217ed352be4e5ac7c6d32c07fde3989e_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/iamdiddy/status/172786337345318913",
+                "trackback_author_url": "http://twitter.com/iamdiddy",
+                "highlight": "Nominated for an Oscar AND announced my cable channel- all in 1 week! God really IS the GREATEST! If u believe-you can do ANYTHING!",
+                "topsy_author_url": "http://topsy.com/twitter/iamdiddy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/iamdiddy/status/172786337345318913",
+                "trackback_author_name": "Diddy",
+                "trackback_author_nick": "iamdiddy"
+            },
+            {
+                "hits": 61,
+                "firstpost_date": 1376495451,
+                "title": "#REVOLT News: @JayElectronica  Speaks On \u2018Control\u2019 Verse -http://t.co/HD8H0NM5ny",
+                "url": "http://twitter.com/revolttv/status/367674688517861376",
+                "trackback_date": 1376495451,
+                "trackback_total": 74,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/HD8H0NM5ny",
+                        "display_url": "bit.ly/14LiEyL",
+                        "expanded_url": "http://bit.ly/14LiEyL",
+                        "topsy_expanded_url": "http://news.revolt.tv/jay-electronica-speaks-on-control-verse/"
+                    }
+                ],
+                "target_birth_date": 1376495451,
+                "content": "#REVOLT News: @JayElectronica  Speaks On \u2018Control\u2019 Verse -http://t.co/HD8H0NM5ny",
+                "mytype": "tweet",
+                "score": 10.609287,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469538072871190528/DrdCikol_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RevoltTV/status/367674688517861376",
+                "trackback_author_url": "http://twitter.com/revolttv",
+                "highlight": "#REVOLT News: @JayElectronica Speaks On \u2018Control\u2019 Verse -",
+                "topsy_author_url": "http://topsy.com/twitter/revolttv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/revolttv/status/367674688517861376",
+                "trackback_author_name": "REVOLT TV",
+                "trackback_author_nick": "revolttv"
+            },
+            {
+                "hits": 59,
+                "firstpost_date": 1373054725,
+                "title": "MAGNA CARTA HOLY GRAIL Listening Session NOW! Grab your album and lets get into it. #REVOLT",
+                "url": "http://twitter.com/revolttv/status/353243237097537536",
+                "trackback_date": 1373054725,
+                "trackback_total": 71,
+                "url_expansions": [],
+                "target_birth_date": 1373054725,
+                "content": "MAGNA CARTA HOLY GRAIL Listening Session NOW! Grab your album and lets get into it. #REVOLT",
+                "mytype": "tweet",
+                "score": 10.605745,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469538072871190528/DrdCikol_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RevoltTV/status/353243237097537536",
+                "trackback_author_url": "http://twitter.com/revolttv",
+                "highlight": "MAGNA CARTA HOLY GRAIL Listening Session NOW! Grab your album and lets get into it.",
+                "topsy_author_url": "http://topsy.com/twitter/revolttv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/revolttv/status/353243237097537536",
+                "trackback_author_name": "REVOLT TV",
+                "trackback_author_nick": "revolttv"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 170,
+        "hidden": 0,
+        "total": 215338,
+        "page": 1
+    }
+}

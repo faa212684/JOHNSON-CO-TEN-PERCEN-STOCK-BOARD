@@ -1,0 +1,294 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23cat&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=10",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#cat",
+            "window": "a",
+            "type": "tweet",
+            "offset": "10"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 389,
+                "firstpost_date": 1365352833,
+                "title": "International #cat beauty contest held in Romania: http://t.co/CVaavWK0Mw &amp; http://t.co/YhZIpjnwTX",
+                "url": "http://twitter.com/bbcworld/status/320939160066224129",
+                "trackback_date": 1365352833,
+                "trackback_total": 580,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/CVaavWK0Mw",
+                        "display_url": "bbc.in/10tqXfu",
+                        "expanded_url": "http://bbc.in/10tqXfu",
+                        "topsy_expanded_url": "http://www.bbc.co.uk/newsround/22056839"
+                    },
+                    {
+                        "url": "http://t.co/YhZIpjnwTX",
+                        "expanded_url": "http://twitter.com/BBCWorld/status/320939160066224129/photo/1",
+                        "display_url": "pic.twitter.com/YhZIpjnwTX"
+                    }
+                ],
+                "target_birth_date": 1365352833,
+                "content": "International #cat beauty contest held in Romania: http://t.co/CVaavWK0Mw &amp; http://t.co/YhZIpjnwTX",
+                "mytype": "tweet",
+                "score": 10.110422,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460756830503706624/x2R8lADg_normal.png",
+                "trackback_permalink": "http://twitter.com/BBCWorld/status/320939160066224129",
+                "trackback_author_url": "http://twitter.com/bbcworld",
+                "highlight": "International #cat beauty contest held in Romania: &amp;",
+                "topsy_author_url": "http://topsy.com/twitter/bbcworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bbcworld/status/320939160066224129",
+                "trackback_author_name": "BBC News (World)",
+                "trackback_author_nick": "bbcworld"
+            },
+            {
+                "hits": 102,
+                "firstpost_date": 1377512172,
+                "title": "Some cute video. Look at this #cat burglar, the little feline is caught breaking into a drawer. http://t.co/sM8AM0NEDB #Monday",
+                "url": "http://twitter.com/newday/status/371939124325793792",
+                "trackback_date": 1377512172,
+                "trackback_total": 131,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/sM8AM0NEDB",
+                        "display_url": "youtube.com/watch?v=gVsI3J\u2026",
+                        "expanded_url": "http://www.youtube.com/watch?v=gVsI3Jz4d8c",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=gVsI3Jz4d8c"
+                    }
+                ],
+                "target_birth_date": 1377512172,
+                "content": "Some cute video. Look at this #cat burglar, the little feline is caught breaking into a drawer. http://t.co/sM8AM0NEDB #Monday",
+                "mytype": "tweet",
+                "score": 10.089481,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000474841611/69884c913793ac59c41ef7b8f272dd46_normal.png",
+                "trackback_permalink": "http://twitter.com/NewDay/status/371939124325793792",
+                "trackback_author_url": "http://twitter.com/newday",
+                "highlight": "Some cute video. Look at this #cat burglar, the little feline is caught breaking into a drawer.",
+                "topsy_author_url": "http://topsy.com/twitter/newday",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/newday/status/371939124325793792",
+                "trackback_author_name": "New Day",
+                "trackback_author_nick": "newday"
+            },
+            {
+                "hits": 83,
+                "firstpost_date": 1395239325,
+                "title": "Whatchoo you lookin' at? -Mogwai #exoticshorthair #catlove #petlove #cat http://t.co/dab8Ck4lRS",
+                "url": "http://twitter.com/annecurtissmith/status/446292192722960384",
+                "trackback_date": 1395239325,
+                "trackback_total": 112,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/dab8Ck4lRS",
+                        "display_url": "instagram.com/p/lukDn8Coqb/",
+                        "expanded_url": "http://instagram.com/p/lukDn8Coqb/",
+                        "topsy_expanded_url": "http://instagram.com/p/lukDn8Coqb/"
+                    }
+                ],
+                "target_birth_date": 1395239325,
+                "content": "Whatchoo you lookin' at? -Mogwai #exoticshorthair #catlove #petlove #cat http://t.co/dab8Ck4lRS",
+                "mytype": "tweet",
+                "score": 10.019893,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459234378703319041/G-sZ82pi_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/annecurtissmith/status/446292192722960384",
+                "trackback_author_url": "http://twitter.com/annecurtissmith",
+                "highlight": "Whatchoo you lookin' at? -Mogwai #exoticshorthair #catlove #petlove #cat",
+                "topsy_author_url": "http://topsy.com/twitter/annecurtissmith",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/annecurtissmith/status/446292192722960384",
+                "trackback_author_name": "Anne Curtis-Smith",
+                "trackback_author_nick": "annecurtissmith"
+            },
+            {
+                "hits": 39,
+                "firstpost_date": 1401593162,
+                "title": "#selfie #cat http://t.co/e0xYJorBss",
+                "url": "http://twitter.com/angeldebritook/status/472942118965874688",
+                "trackback_date": 1401593162,
+                "trackback_total": 131,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/e0xYJorBss",
+                        "display_url": "pic.twitter.com/e0xYJorBss",
+                        "expanded_url": "http://twitter.com/AngeldebritoOk/status/472942118965874688/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BpA6WXbIAAEiXOC.jpg"
+                    }
+                ],
+                "target_birth_date": 1401593162,
+                "content": "#selfie #cat http://t.co/e0xYJorBss",
+                "mytype": "tweet",
+                "score": 10.017274,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/470278870256844801/Npa_RuMN_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AngeldebritoOk/status/472942118965874688",
+                "trackback_author_url": "http://twitter.com/angeldebritook",
+                "highlight": "#selfie #cat",
+                "topsy_author_url": "http://topsy.com/twitter/angeldebritook",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/angeldebritook/status/472942118965874688",
+                "trackback_author_name": "Angel",
+                "trackback_author_nick": "angeldebritook"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1274484411,
+                "title": "Figurino de Bernardo (@Fiuk ) est\u00e1 entre os mais pedidos no #CAT. Saiba mais: http://migre.me/Ha1d",
+                "url": "http://twitter.com/rede_globo/status/14459031464",
+                "trackback_date": 1274484411,
+                "trackback_total": 19,
+                "url_expansions": [],
+                "target_birth_date": 1274484411,
+                "content": "Figurino de Bernardo (@Fiuk ) est\u00e1 entre os mais pedidos no #CAT. Saiba mais: http://migre.me/Ha1d",
+                "mytype": "tweet",
+                "score": 10.007017,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452975864670482432/1WDRp3jg_normal.png",
+                "trackback_permalink": "http://twitter.com/rede_globo/status/14459031464",
+                "trackback_author_url": "http://twitter.com/rede_globo",
+                "highlight": "Figurino de Bernardo (@Fiuk ) est\u00e1 entre os mais pedidos no #CAT. Saiba mais:",
+                "topsy_author_url": "http://topsy.com/twitter/rede_globo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rede_globo/status/14459031464",
+                "trackback_author_name": "Globo",
+                "trackback_author_nick": "rede_globo"
+            },
+            {
+                "hits": 101,
+                "firstpost_date": 1320979540,
+                "title": "@ISF_KY Hunt for man swinging #cat by its tail outside Ramsgate pub http://t.co/ZS1apsjF #cruelty Do U know this man? Contact #RSPCA Plz RT",
+                "url": "http://twitter.com/nanook396/status/134824082528157696",
+                "trackback_date": 1320990520,
+                "trackback_total": 132,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ZS1apsjF",
+                        "expanded_url": "http://t.co/ZS1apsjF",
+                        "display_url": "t.co/ZS1apsjF"
+                    }
+                ],
+                "target_birth_date": 1320979540,
+                "content": "RT @Nanook396: @ISF_KY Hunt for man swinging #cat by its tail outside Ramsgate pub http://t.co/ZS1apsjF #cruelty Do U know this man? Con ...",
+                "mytype": "tweet",
+                "score": 9.971844,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000598779913/343e53f9674410d786cab7c8fd8c4688_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/iansomerhalder/status/134870134199304192",
+                "trackback_author_url": "http://twitter.com/iansomerhalder",
+                "highlight": " Hunt for man swinging #cat by its tail outside Ramsgate pub #cruelty Do U know this man? Con ",
+                "topsy_author_url": "http://topsy.com/twitter/iansomerhalder",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nanook396/status/134824082528157696",
+                "trackback_author_name": "ian somerhalder",
+                "trackback_author_nick": "iansomerhalder"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1399598063,
+                "title": "Gato mia #cat #cute #meow #funny #humor https://t.co/fW1gSMugtP",
+                "url": "http://twitter.com/oscarfilho/status/464574065727275009",
+                "trackback_date": 1399598063,
+                "trackback_total": 28,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/fW1gSMugtP",
+                        "display_url": "vine.co/v/M6lbMzeAZYQ",
+                        "expanded_url": "https://vine.co/v/M6lbMzeAZYQ",
+                        "topsy_expanded_url": "https://vine.co/v/M6lbMzeAZYQ"
+                    }
+                ],
+                "target_birth_date": 1399598063,
+                "content": "Gato mia #cat #cute #meow #funny #humor https://t.co/fW1gSMugtP",
+                "mytype": "tweet",
+                "score": 9.945555,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/456511334771724289/kuLmX-wG_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OscarFilho/status/464574065727275009",
+                "trackback_author_url": "http://twitter.com/oscarfilho",
+                "highlight": "Gato mia #cat #cute #meow #funny #humor",
+                "topsy_author_url": "http://topsy.com/twitter/oscarfilho",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/oscarfilho/status/464574065727275009",
+                "trackback_author_name": "Oscar Filho",
+                "trackback_author_nick": "oscarfilho"
+            },
+            {
+                "hits": 59,
+                "firstpost_date": 1350239304,
+                "title": "In Pictures: Lonely hearts in #Japan pay for #cat friendship during hour-long sessions in #coffee shops http://t.co/CFE2meyr",
+                "url": "http://twitter.com/ajenglish/status/257548428052140032",
+                "trackback_date": 1350239304,
+                "trackback_total": 61,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/CFE2meyr",
+                        "display_url": "aje.me/Rull1z",
+                        "expanded_url": "http://aje.me/Rull1z",
+                        "topsy_expanded_url": "http://www.aljazeera.com/indepth/inpictures/2012/10/2012101492136121271.html"
+                    }
+                ],
+                "target_birth_date": 1350239304,
+                "content": "In Pictures: Lonely hearts in #Japan pay for #cat friendship during hour-long sessions in #coffee shops http://t.co/CFE2meyr",
+                "mytype": "tweet",
+                "score": 9.9352255,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/448478192022474752/yOHtpEoL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AJEnglish/status/257548428052140032",
+                "trackback_author_url": "http://twitter.com/ajenglish",
+                "highlight": "In Pictures: Lonely hearts in #Japan pay for #cat friendship during hour-long sessions in #coffee shops",
+                "topsy_author_url": "http://topsy.com/twitter/ajenglish",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ajenglish/status/257548428052140032",
+                "trackback_author_name": "Al Jazeera English",
+                "trackback_author_nick": "ajenglish"
+            },
+            {
+                "hits": 104,
+                "firstpost_date": 1360949651,
+                "title": "Imagine if cats just took over everything and ruled the human race n shit #cat",
+                "url": "http://twitter.com/georgecraigono/status/302470879500189696",
+                "trackback_date": 1360949651,
+                "trackback_total": 158,
+                "url_expansions": [],
+                "target_birth_date": 1360949651,
+                "content": "Imagine if cats just took over everything and ruled the human race n shit #cat",
+                "mytype": "tweet",
+                "score": 9.925984,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464541027316293633/EbamRNWk_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Georgecraigono/status/302470879500189696",
+                "trackback_author_url": "http://twitter.com/georgecraigono",
+                "highlight": "Imagine if cats just took over everything and ruled the human race n shit",
+                "topsy_author_url": "http://topsy.com/twitter/georgecraigono",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/georgecraigono/status/302470879500189696",
+                "trackback_author_name": "George Craig",
+                "trackback_author_nick": "georgecraigono"
+            },
+            {
+                "hits": 503,
+                "firstpost_date": 1333189555,
+                "title": "\u304a\u304b\u3048\u308a\u306a\u3055\u30fc\u3044\u3000#cat #neko #\u732b http://t.co/vZSzoGS2 .",
+                "url": "http://twitter.com/fuji1223/status/186036596926201857",
+                "trackback_date": 1333189555,
+                "trackback_total": 692,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vZSzoGS2",
+                        "display_url": "twitpic.com/7jw4pv",
+                        "expanded_url": "http://twitpic.com/7jw4pv",
+                        "topsy_expanded_url": "http://twitpic.com/7jw4pv"
+                    }
+                ],
+                "target_birth_date": 1333189555,
+                "content": "\u304a\u304b\u3048\u308a\u306a\u3055\u30fc\u3044\u3000#cat #neko #\u732b http://t.co/vZSzoGS2 .",
+                "mytype": "tweet",
+                "score": 9.913638,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3098804002/a407c26c33f19c578c1193b25666bbeb_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/fuji1223/status/186036596926201857",
+                "trackback_author_url": "http://twitter.com/fuji1223",
+                "highlight": "\u304a\u304b\u3048\u308a\u306a\u3055\u30fc\u3044\u3000#cat #neko #\u732b .",
+                "topsy_author_url": "http://topsy.com/twitter/fuji1223",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/fuji1223/status/186036596926201857",
+                "trackback_author_name": "\u3075\u3058\u30fc",
+                "trackback_author_nick": "fuji1223"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 10,
+        "hidden": 0,
+        "total": 8671611,
+        "page": 1
+    }
+}

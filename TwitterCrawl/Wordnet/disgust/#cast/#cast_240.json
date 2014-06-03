@@ -1,0 +1,281 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23cast&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=240",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#cast",
+            "window": "a",
+            "type": "tweet",
+            "offset": "240"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 4,
+                "firstpost_date": 1331135317,
+                "title": "Estoy d\u00e1ndole vueltas a \"JGJ\", una versi\u00f3n de Castle a la espa\u00f1ola, con @JuanGomezJurado y Carmen Machi en el papel de Beckett... :D #cast?",
+                "url": "http://twitter.com/borjasaavedra/status/177420497989021697",
+                "trackback_date": 1331135317,
+                "trackback_total": 6,
+                "url_expansions": [],
+                "target_birth_date": 1331135317,
+                "content": "Estoy d\u00e1ndole vueltas a \"JGJ\", una versi\u00f3n de Castle a la espa\u00f1ola, con @JuanGomezJurado y Carmen Machi en el papel de Beckett... :D #cast?",
+                "mytype": "tweet",
+                "score": 8.509073,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419619718329556992/FG1PH-Kp_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/borjasaavedra/status/177420497989021697",
+                "trackback_author_url": "http://twitter.com/borjasaavedra",
+                "highlight": "Estoy d\u00e1ndole vueltas a \"JGJ\", una versi\u00f3n de Castle a la espa\u00f1ola, con @JuanGomezJurado y Carmen Machi en el papel de Beckett... :D #cast?",
+                "topsy_author_url": "http://topsy.com/twitter/borjasaavedra",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/borjasaavedra/status/177420497989021697",
+                "trackback_author_name": "Borja Saavedra",
+                "trackback_author_nick": "borjasaavedra"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1361889766,
+                "title": "Ecco #cast http://t.co/zr8PKNm32e",
+                "url": "http://twitter.com/osmin_le/status/306414003712831489",
+                "trackback_date": 1361889766,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/zr8PKNm32e",
+                        "expanded_url": "http://twitter.com/Osmin_LE/status/306414003712831489/photo/1",
+                        "display_url": "pic.twitter.com/zr8PKNm32e"
+                    }
+                ],
+                "target_birth_date": 1361889766,
+                "content": "Ecco #cast http://t.co/zr8PKNm32e",
+                "mytype": "tweet",
+                "score": 8.505751,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/465192690330898432/ROboJgVC_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Osmin_LE/status/306414003712831489",
+                "trackback_author_url": "http://twitter.com/osmin_le",
+                "highlight": "Ecco #cast",
+                "topsy_author_url": "http://topsy.com/twitter/osmin_le",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/osmin_le/status/306414003712831489",
+                "trackback_author_name": "Os",
+                "trackback_author_nick": "osmin_le"
+            },
+            {
+                "hits": 25,
+                "firstpost_date": 1368408470,
+                "title": "Yo muero #mazerunner #cast Dylan y Kaya en una foto asdfghjkl (via: @itsmazerunner) --&gt; http://t.co/JFcNStWooC",
+                "url": "http://twitter.com/mazerunnerlatin/status/333755432659210241",
+                "trackback_date": 1368408470,
+                "trackback_total": 31,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/JFcNStWooC",
+                        "display_url": "pic.twitter.com/JFcNStWooC",
+                        "expanded_url": "http://twitter.com/MazeRunnerLatin/status/333755432659210241/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BKG8zDYCUAATNIe.jpg"
+                    }
+                ],
+                "target_birth_date": 1368408470,
+                "content": "Yo muero #mazerunner #cast Dylan y Kaya en una foto asdfghjkl (via: @itsmazerunner) --&gt; http://t.co/JFcNStWooC",
+                "mytype": "tweet",
+                "score": 8.5042095,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2637788775/88b6e0a0f2b15bc2545a2d2756bd4a2e_normal.png",
+                "trackback_permalink": "http://twitter.com/MazeRunnerLatin/status/333755432659210241",
+                "trackback_author_url": "http://twitter.com/mazerunnerlatin",
+                "highlight": "Yo muero #mazerunner #cast Dylan y Kaya en una foto asdfghjkl (via: @itsmazerunner) --&gt;",
+                "topsy_author_url": "http://topsy.com/twitter/mazerunnerlatin",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mazerunnerlatin/status/333755432659210241",
+                "trackback_author_name": "Maze Runner",
+                "trackback_author_nick": "mazerunnerlatin"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1377983824,
+                "title": "All of these #InstaVideo's of the new #cast of @DancingABC are making me #CrAzY!!!! I wanna knooooowwww!!!!!",
+                "url": "http://twitter.com/egjones1088/status/373917378716766208",
+                "trackback_date": 1377983824,
+                "trackback_total": 10,
+                "url_expansions": [],
+                "target_birth_date": 1377983824,
+                "content": "All of these #InstaVideo's of the new #cast of @DancingABC are making me #CrAzY!!!! I wanna knooooowwww!!!!!",
+                "mytype": "tweet",
+                "score": 8.501426,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473279786018938880/pWWoMkOy_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/egjones1088/status/373917378716766208",
+                "trackback_author_url": "http://twitter.com/egjones1088",
+                "highlight": "All of these #InstaVideo's of the new #cast of @DancingABC are making me #CrAzY!!!! I wanna knooooowwww!!!!!",
+                "topsy_author_url": "http://topsy.com/twitter/egjones1088",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/egjones1088/status/373917378716766208",
+                "trackback_author_name": "Eliza Jones",
+                "trackback_author_nick": "egjones1088"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1382122390,
+                "title": "Thank you so much Hilarie Burton .\u2764#OTH #CAST #PARIS #Hilarieburton http://t.co/iup9FUxQdd",
+                "url": "http://twitter.com/april_29th/status/391275779356917760",
+                "trackback_date": 1382160784,
+                "trackback_total": 31,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/iup9FUxQdd",
+                        "display_url": "pic.twitter.com/iup9FUxQdd",
+                        "expanded_url": "http://twitter.com/april_29th/status/391275779356917760/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BW4XP4DIMAAA5jF.jpg"
+                    }
+                ],
+                "target_birth_date": 1382122390,
+                "content": "RT @april_29th: Thank you so much Hilarie Burton .\u2764#OTH #CAST #PARIS #Hilarieburton http://t.co/iup9FUxQdd",
+                "mytype": "tweet",
+                "score": 8.499132,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/412771827799556096/tts1n4JZ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NancyyRosee/status/391436816068669440",
+                "trackback_author_url": "http://twitter.com/nancyyrosee",
+                "highlight": "Thank you so much Hilarie Burton .\u2764#OTH #CAST #PARIS #Hilarieburton",
+                "topsy_author_url": "http://topsy.com/twitter/nancyyrosee",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/april_29th/status/391275779356917760",
+                "trackback_author_name": "Nancy Rose",
+                "trackback_author_nick": "nancyyrosee"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1377280156,
+                "title": "http://t.co/Ckosr2ccsq has been updated with our #cast list! Check it out! #vancouver #webseries",
+                "url": "http://twitter.com/kitstvcanada/status/370965981868212224",
+                "trackback_date": 1377280156,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Ckosr2ccsq",
+                        "display_url": "kitstv.ca",
+                        "expanded_url": "http://www.kitstv.ca",
+                        "topsy_expanded_url": "http://www.kitstv.ca/"
+                    }
+                ],
+                "target_birth_date": 1377280156,
+                "content": "http://t.co/Ckosr2ccsq has been updated with our #cast list! Check it out! #vancouver #webseries",
+                "mytype": "tweet",
+                "score": 8.498407,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3688516608/bf8e218b5ab1598ca44749bece9a187a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/KitsTVCanada/status/370965981868212224",
+                "trackback_author_url": "http://twitter.com/kitstvcanada",
+                "highlight": " has been updated with our #cast list! Check it out! #vancouver",
+                "topsy_author_url": "http://topsy.com/twitter/kitstvcanada",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kitstvcanada/status/370965981868212224",
+                "trackback_author_name": "KitsTV",
+                "trackback_author_nick": "kitstvcanada"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1399434493,
+                "title": "Watch our amazing #actors #ensemble #cast at @noho7 Reserve tickets today http://t.co/swJluSISWK #supportindiefilm RT http://t.co/wkgBcjdQf5",
+                "url": "http://twitter.com/tentacle8/status/463888004684075008",
+                "trackback_date": 1399434493,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/swJluSISWK",
+                        "display_url": "tugg.com/events/9079",
+                        "expanded_url": "http://www.tugg.com/events/9079",
+                        "topsy_expanded_url": "http://www.tugg.com/events/9079"
+                    },
+                    {
+                        "url": "http://t.co/wkgBcjdQf5",
+                        "display_url": "pic.twitter.com/wkgBcjdQf5",
+                        "expanded_url": "http://twitter.com/Tentacle8/status/463888004684075008/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BnAPrDUCUAEqHOK.jpg"
+                    }
+                ],
+                "target_birth_date": 1399434493,
+                "content": "Watch our amazing #actors #ensemble #cast at @noho7 Reserve tickets today http://t.co/swJluSISWK #supportindiefilm RT http://t.co/wkgBcjdQf5",
+                "mytype": "tweet",
+                "score": 8.496936,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2537513860/zn0hhf8f02im0a876bt0_normal.png",
+                "trackback_permalink": "http://twitter.com/Tentacle8/status/463888004684075008",
+                "trackback_author_url": "http://twitter.com/tentacle8",
+                "highlight": "Watch our amazing #actors #ensemble #cast at @noho7 Reserve tickets today #supportindiefilm RT",
+                "topsy_author_url": "http://topsy.com/twitter/tentacle8",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tentacle8/status/463888004684075008",
+                "trackback_author_name": "Tentacle 8",
+                "trackback_author_nick": "tentacle8"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1393643710,
+                "title": "I #HitTheFloor hard today #Paramount - but I was supported by an amazing #creator #cast &amp; #crew #thanks R.I.P #SarahJones",
+                "url": "http://twitter.com/rickafox/status/439599697997463554",
+                "trackback_date": 1393643710,
+                "trackback_total": 3,
+                "url_expansions": [],
+                "target_birth_date": 1393643710,
+                "content": "I #HitTheFloor hard today #Paramount - but I was supported by an amazing #creator #cast &amp; #crew #thanks R.I.P #SarahJones",
+                "mytype": "tweet",
+                "score": 8.495492,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1211716044/rick-fox_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Rickafox/status/439599697997463554",
+                "trackback_author_url": "http://twitter.com/rickafox",
+                "highlight": "I #HitTheFloor hard today #Paramount - but I was supported by an amazing #creator #cast &amp; #crew #thanks R.I.P",
+                "topsy_author_url": "http://topsy.com/twitter/rickafox",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rickafox/status/439599697997463554",
+                "trackback_author_name": "Rick Fox",
+                "trackback_author_nick": "rickafox"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1376416922,
+                "title": "#CMTDOGANDBETH \n#cast &amp; #crew \n#Unbeatable #unshakeable \n#unsinkable  #loyal #devoted \n#hawaiibased http://t.co/sn8KLYHKcv",
+                "url": "http://twitter.com/officialdognews/status/367345314468212736",
+                "trackback_date": 1376416922,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/sn8KLYHKcv",
+                        "display_url": "pic.twitter.com/sn8KLYHKcv",
+                        "expanded_url": "http://twitter.com/MrsdogC/status/355345263344377857/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BO5womKCYAAWlLU.jpg"
+                    }
+                ],
+                "target_birth_date": 1376416922,
+                "content": "#CMTDOGANDBETH \n#cast &amp; #crew \n#Unbeatable #unshakeable \n#unsinkable  #loyal #devoted \n#hawaiibased http://t.co/sn8KLYHKcv",
+                "mytype": "tweet",
+                "score": 8.491665,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462531363799724032/zPmHbyxD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OfficialDOGNews/status/367345314468212736",
+                "trackback_author_url": "http://twitter.com/officialdognews",
+                "highlight": "#CMTDOGANDBETH #cast &amp; #crew #Unbeatable #unshakeable #unsinkable #loyal #devoted #hawaiibased",
+                "topsy_author_url": "http://topsy.com/twitter/officialdognews",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/officialdognews/status/367345314468212736",
+                "trackback_author_name": "Official DOG News ",
+                "trackback_author_nick": "officialdognews"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1374849986,
+                "title": "**EXTRAS CALL OUT** We're looking for extras on SUNDAY 28th 1pm in SALFORD. Interested? Please RT #cast #extras #film #tv #media",
+                "url": "http://twitter.com/staffroomseries/status/360773108531077122",
+                "trackback_date": 1374849986,
+                "trackback_total": 20,
+                "url_expansions": [],
+                "target_birth_date": 1374849986,
+                "content": "**EXTRAS CALL OUT** We're looking for extras on SUNDAY 28th 1pm in SALFORD. Interested? Please RT #cast #extras #film #tv #media",
+                "mytype": "tweet",
+                "score": 8.489781,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3652148395/eb06865e7e0d01b0ec8927631ebf57f2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/StaffRoomSeries/status/360773108531077122",
+                "trackback_author_url": "http://twitter.com/staffroomseries",
+                "highlight": "**EXTRAS CALL OUT** We're looking for extras on SUNDAY 28th 1pm in SALFORD. Interested? Please RT #cast #extras #film #tv",
+                "topsy_author_url": "http://topsy.com/twitter/staffroomseries",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/staffroomseries/status/360773108531077122",
+                "trackback_author_name": "Staff Room Sitcom",
+                "trackback_author_nick": "staffroomseries"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 240,
+        "hidden": 0,
+        "total": 123336,
+        "page": 1
+    }
+}

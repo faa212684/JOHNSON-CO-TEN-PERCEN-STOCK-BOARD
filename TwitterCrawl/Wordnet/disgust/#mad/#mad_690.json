@@ -1,0 +1,290 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23mad&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=690",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#mad",
+            "window": "a",
+            "type": "tweet",
+            "offset": "690"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 48,
+                "firstpost_date": 1334702715,
+                "title": "#MAD M\u00fcller: \"Marcelo s\u00f3lo quiso pegarme y creo que lo logr\u00f3\" http://t.co/RopmccMI",
+                "url": "http://twitter.com/ligabbva/status/192383249643876352",
+                "trackback_date": 1334702715,
+                "trackback_total": 60,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RopmccMI",
+                        "display_url": "ow.ly/alCfK",
+                        "expanded_url": "http://ow.ly/alCfK",
+                        "topsy_expanded_url": "http://www.as.com/futbol/articulo/muller-marcelo-solo-quiso-pegarme/20120417dasdasftb_52/Tes"
+                    }
+                ],
+                "target_birth_date": 1334702715,
+                "content": "#MAD M\u00fcller: \"Marcelo s\u00f3lo quiso pegarme y creo que lo logr\u00f3\" http://t.co/RopmccMI",
+                "mytype": "tweet",
+                "score": 9.46712,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/192383249643876352",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD M\u00fcller: \"Marcelo s\u00f3lo quiso pegarme y creo que lo logr\u00f3\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/192383249643876352",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 41,
+                "firstpost_date": 1313442303,
+                "title": "#MAD Ramos: \"Da coraje que Alves manche el f\u00fatbol con su espect\u00e1culo.\"  http://ow.ly/63t7n",
+                "url": "http://twitter.com/ligabbva/status/103210617623674880",
+                "trackback_date": 1313442303,
+                "trackback_total": 64,
+                "url_expansions": [],
+                "target_birth_date": 1313442303,
+                "content": "#MAD Ramos: \"Da coraje que Alves manche el f\u00fatbol con su espect\u00e1culo.\"  http://ow.ly/63t7n",
+                "mytype": "tweet",
+                "score": 9.467113,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/103210617623674880",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Ramos: \"Da coraje que Alves manche el f\u00fatbol con su espect\u00e1culo.\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/103210617623674880",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 31,
+                "firstpost_date": 1340042710,
+                "title": "#MAD V\u00eddeo. Los aficionados al f\u00fatbol se rinden a Cristiano http://t.co/DZWMSNK1",
+                "url": "http://twitter.com/ligabbva/status/214780811797463040",
+                "trackback_date": 1340042710,
+                "trackback_total": 43,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DZWMSNK1",
+                        "display_url": "ow.ly/bEj6h",
+                        "expanded_url": "http://ow.ly/bEj6h",
+                        "topsy_expanded_url": "http://ow.ly/bEj6h"
+                    }
+                ],
+                "target_birth_date": 1340042710,
+                "content": "#MAD V\u00eddeo. Los aficionados al f\u00fatbol se rinden a Cristiano http://t.co/DZWMSNK1",
+                "mytype": "tweet",
+                "score": 9.467096,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/214780811797463040",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Los aficionados al f\u00fatbol se rinden a Cristiano",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/214780811797463040",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 42,
+                "firstpost_date": 1337632508,
+                "title": "#MAD Iker Casillas: \u201cEstoy en mi mejor momento\u201d http://t.co/UEJ8d3XL",
+                "url": "http://twitter.com/ligabbva/status/204671690419085312",
+                "trackback_date": 1337632508,
+                "trackback_total": 49,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/UEJ8d3XL",
+                        "display_url": "ow.ly/b2oSJ",
+                        "expanded_url": "http://ow.ly/b2oSJ",
+                        "topsy_expanded_url": "http://www.sportyou.es/blog/futbol/2012/05/21/iker-casillas-estoy-en-mi-mejor-momento-413314.html"
+                    }
+                ],
+                "target_birth_date": 1337632508,
+                "content": "#MAD Iker Casillas: \u201cEstoy en mi mejor momento\u201d http://t.co/UEJ8d3XL",
+                "mytype": "tweet",
+                "score": 9.466816,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/204671690419085312",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Iker Casillas: \u201cEstoy en mi mejor momento\u201d",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/204671690419085312",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 33,
+                "firstpost_date": 1345432802,
+                "title": "#MAD V\u00eddeo. Cristiano Ronaldo: \"Ahora hay que levantarse\" http://t.co/PF40ZJz7",
+                "url": "http://twitter.com/ligabbva/status/237388496279568384",
+                "trackback_date": 1345432802,
+                "trackback_total": 38,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PF40ZJz7",
+                        "display_url": "ow.ly/d50WB",
+                        "expanded_url": "http://ow.ly/d50WB",
+                        "topsy_expanded_url": "http://ow.ly/d50WB"
+                    }
+                ],
+                "target_birth_date": 1345432802,
+                "content": "#MAD V\u00eddeo. Cristiano Ronaldo: \"Ahora hay que levantarse\" http://t.co/PF40ZJz7",
+                "mytype": "tweet",
+                "score": 9.466744,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/237388496279568384",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Cristiano Ronaldo: \"Ahora hay que levantarse\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/237388496279568384",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 33,
+                "firstpost_date": 1338892502,
+                "title": "#MAD Cristiano: \u201cEs el mejor momento de mi vida\u201d http://t.co/XEnUsm9A",
+                "url": "http://twitter.com/ligabbva/status/209956491136999424",
+                "trackback_date": 1338892502,
+                "trackback_total": 41,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XEnUsm9A",
+                        "display_url": "ow.ly/bmJdt",
+                        "expanded_url": "http://ow.ly/bmJdt",
+                        "topsy_expanded_url": "http://ow.ly/bmJdt"
+                    }
+                ],
+                "target_birth_date": 1338892502,
+                "content": "#MAD Cristiano: \u201cEs el mejor momento de mi vida\u201d http://t.co/XEnUsm9A",
+                "mytype": "tweet",
+                "score": 9.466693,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/209956491136999424",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Cristiano: \u201cEs el mejor momento de mi vida\u201d",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/209956491136999424",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 45,
+                "firstpost_date": 1322601305,
+                "title": "#MAD Eto'o: \"Mourinho es capaz de convertir a un jugador mediocre en una estrella\" http://t.co/bo2WEZK1",
+                "url": "http://twitter.com/ligabbva/status/141626257174568960",
+                "trackback_date": 1322601305,
+                "trackback_total": 53,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/bo2WEZK1",
+                        "display_url": "ow.ly/7J1F6",
+                        "expanded_url": "http://ow.ly/7J1F6",
+                        "topsy_expanded_url": "http://www.marca.com/2011/11/29/futbol/futbol_internacional/1322565565.html"
+                    }
+                ],
+                "target_birth_date": 1322601305,
+                "content": "#MAD Eto'o: \"Mourinho es capaz de convertir a un jugador mediocre en una estrella\" http://t.co/bo2WEZK1",
+                "mytype": "tweet",
+                "score": 9.466565,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/141626257174568960",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Eto'o: \"Mourinho es capaz de convertir a un jugador mediocre en una estrella\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/141626257174568960",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 166,
+                "firstpost_date": 1360751408,
+                "title": "#LigaBBVA #MAD Ronaldo entregar\u00e1 hoy un tal\u00f3n de 100.000 euros a la Cruz Roja Internacional http://t.co/9Y2u8NSH",
+                "url": "http://twitter.com/ligabbva/status/301639384367759362",
+                "trackback_date": 1360751408,
+                "trackback_total": 184,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9Y2u8NSH",
+                        "display_url": "ow.ly/hFGcv",
+                        "expanded_url": "http://ow.ly/hFGcv",
+                        "topsy_expanded_url": "http://www.ligabbva.com/615_liga-de-campeones/1928241_ronaldo-entregara-hoy-un-talon-de-100-000-euros-a-la-cruz-roja-internacional.html"
+                    }
+                ],
+                "target_birth_date": 1360751408,
+                "content": "#LigaBBVA #MAD Ronaldo entregar\u00e1 hoy un tal\u00f3n de 100.000 euros a la Cruz Roja Internacional http://t.co/9Y2u8NSH",
+                "mytype": "tweet",
+                "score": 9.46655,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/301639384367759362",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#LigaBBVA #MAD Ronaldo entregar\u00e1 hoy un tal\u00f3n de 100.000 euros a la Cruz Roja Internacional",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/301639384367759362",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1296081635,
+                "title": "#MAD Cristiano: \"Que sigan con eso de pintarse la cara\" http://ow.ly/3KTjc",
+                "url": "http://twitter.com/ligabbva/status/30394699130867712",
+                "trackback_date": 1296081635,
+                "trackback_total": 18,
+                "url_expansions": [],
+                "target_birth_date": 1296081635,
+                "content": "#MAD Cristiano: \"Que sigan con eso de pintarse la cara\" http://ow.ly/3KTjc",
+                "mytype": "tweet",
+                "score": 9.46654,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/ligabbva/status/30394699130867712",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Cristiano: \"Que sigan con eso de pintarse la cara\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/30394699130867712",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 39,
+                "firstpost_date": 1349653803,
+                "title": "#MAD V\u00eddeo. Ramos: \"Nuestro trabajo fue superior al del Barcelona\" http://t.co/srWBVIKx",
+                "url": "http://twitter.com/ligabbva/status/255092658819723264",
+                "trackback_date": 1349653803,
+                "trackback_total": 53,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/srWBVIKx",
+                        "display_url": "ow.ly/ehRMT",
+                        "expanded_url": "http://ow.ly/ehRMT",
+                        "topsy_expanded_url": "http://www.ligabbva.com/watch?feature=plcp&v=Svqm4pQgQHc"
+                    }
+                ],
+                "target_birth_date": 1349653803,
+                "content": "#MAD V\u00eddeo. Ramos: \"Nuestro trabajo fue superior al del Barcelona\" http://t.co/srWBVIKx",
+                "mytype": "tweet",
+                "score": 9.466532,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/255092658819723264",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Ramos: \"Nuestro trabajo fue superior al del Barcelona\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/255092658819723264",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 690,
+        "hidden": 0,
+        "total": 1922601,
+        "page": 1
+    }
+}

@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23insurrection&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=800",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#insurrection",
+            "window": "a",
+            "type": "tweet",
+            "offset": "800"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1307881142,
+                "title": "Bellingham Herald: #Syria army enters northwestern town http://t.co/dBT5Ypa #Assad #Revolution #Repression #Insurrection #Mideast",
+                "url": "http://twitter.com/epaulnet/status/79885418748846080",
+                "trackback_date": 1307881142,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/dBT5Ypa",
+                        "display_url": "bellinghamherald.com/2011/06/11/205\u2026",
+                        "expanded_url": "http://www.bellinghamherald.com/2011/06/11/2055302/hostile-syrian-border-region-challenges.html",
+                        "topsy_expanded_url": "http://www.bellinghamherald.com/2011/06/11/2055302/hostile-syrian-border-region-challenges.html"
+                    }
+                ],
+                "target_birth_date": 1307881142,
+                "content": "Bellingham Herald: #Syria army enters northwestern town http://t.co/dBT5Ypa #Assad #Revolution #Repression #Insurrection #Mideast",
+                "mytype": "tweet",
+                "score": 8.023083,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/447104788400857088/O5rmkEEt_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/epaulnet/status/79885418748846080",
+                "trackback_author_url": "http://twitter.com/epaulnet",
+                "highlight": "Bellingham Herald: #Syria army enters northwestern town #Assad #Revolution #Repression #Insurrection",
+                "topsy_author_url": "http://topsy.com/twitter/epaulnet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/epaulnet/status/79885418748846080",
+                "trackback_author_name": "Paul Erickson",
+                "trackback_author_nick": "epaulnet"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1332167869,
+                "title": "\"M\u00e9lenchon \u00e0 l\u2019assaut de la #Bastille\" &gt; http://t.co/so73kBvc via @Politis_fr #Insurrection #placeaupeuple",
+                "url": "http://twitter.com/melenchon2012/status/181751332091330562",
+                "trackback_date": 1332167869,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/so73kBvc",
+                        "display_url": "bit.ly/xq4Asi",
+                        "expanded_url": "http://bit.ly/xq4Asi",
+                        "topsy_expanded_url": "http://www.politis.fr/Melenchon-a-l-assaut-de-la,17587.html"
+                    }
+                ],
+                "target_birth_date": 1332167869,
+                "content": "\"M\u00e9lenchon \u00e0 l\u2019assaut de la #Bastille\" &gt; http://t.co/so73kBvc via @Politis_fr #Insurrection #placeaupeuple",
+                "mytype": "tweet",
+                "score": 8.022745,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459040628731432960/bekjj4Z2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/melenchon2012/status/181751332091330562",
+                "trackback_author_url": "http://twitter.com/jlmelenchon",
+                "highlight": "\"M\u00e9lenchon \u00e0 l\u2019assaut de la #Bastille\" &gt; via @Politis_fr #Insurrection",
+                "topsy_author_url": "http://topsy.com/twitter/jlmelenchon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/melenchon2012/status/181751332091330562",
+                "trackback_author_name": "Jean-Luc M\u00e9lenchon",
+                "trackback_author_nick": "jlmelenchon"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1346351403,
+                "title": "#insurrection #preston fight http://t.co/O7JRpohd Preston Fight, or the insurrection of 1715",
+                "url": "http://twitter.com/freepdb/status/241241388883259392",
+                "trackback_date": 1346351403,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/O7JRpohd",
+                        "display_url": "freepdb.com/e/b000e1fd7u.h\u2026",
+                        "expanded_url": "http://www.freepdb.com/e/b000e1fd7u.html",
+                        "topsy_expanded_url": "http://www.freepdb.com/e/b000e1fd7u.html"
+                    }
+                ],
+                "target_birth_date": 1346351403,
+                "content": "#insurrection #preston fight http://t.co/O7JRpohd Preston Fight, or the insurrection of 1715",
+                "mytype": "tweet",
+                "score": 8.022704,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/2007994146/favicon_normal.png",
+                "trackback_permalink": "http://twitter.com/freepdb/status/241241388883259392",
+                "trackback_author_url": "http://twitter.com/freepdb",
+                "highlight": "#insurrection #preston fight Preston Fight, or the insurrection of 1715",
+                "topsy_author_url": "http://topsy.com/twitter/freepdb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/freepdb/status/241241388883259392",
+                "trackback_author_name": "FreePDB",
+                "trackback_author_nick": "freepdb"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1294592539,
+                "title": "RT @Anon13502: Absolute must-see must-read of #insurgency / #insurrection growing in #USA http://bit.ly/eLvhMP @BarackObama #giffords",
+                "url": "http://twitter.com/exiledsurfer/status/24148975472869376",
+                "trackback_date": 1294592539,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1294592539,
+                "content": "RT @Anon13502: Absolute must-see must-read of #insurgency / #insurrection growing in #USA http://bit.ly/eLvhMP @BarackObama #giffords",
+                "mytype": "tweet",
+                "score": 8.022364,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/436934871139614720/-As1L9Ip_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/exiledsurfer/status/24148975472869376",
+                "trackback_author_url": "http://twitter.com/exiledsurfer",
+                "highlight": "Absolute must-see must-read of #insurgency / #insurrection growing in #USA @BarackObama",
+                "topsy_author_url": "http://topsy.com/twitter/exiledsurfer",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/exiledsurfer/status/24148975472869376",
+                "trackback_author_name": "exiledsurfer",
+                "trackback_author_nick": "exiledsurfer"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1311482487,
+                "title": "I'm so excited to see the response for the new @MolotovSolution song. Over 7400 plays in under 48 hours. This album is a beast #insurrection",
+                "url": "http://twitter.com/j_blkheart/status/94990554378682369",
+                "trackback_date": 1311482487,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1311482487,
+                "content": "I'm so excited to see the response for the new @MolotovSolution song. Over 7400 plays in under 48 hours. This album is a beast #insurrection",
+                "mytype": "tweet",
+                "score": 8.02185,
+                "topsy_author_img": "http://a2.twimg.com/profile_images/1623285364/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/J_Blkheart/status/94990554378682369",
+                "trackback_author_url": "http://twitter.com/j_blkheart",
+                "highlight": "I'm so excited to see the response for the new @MolotovSolution song. Over 7400 plays in under 48 hours. This album is a beast",
+                "topsy_author_url": "http://topsy.com/twitter/j_blkheart",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/j_blkheart/status/94990554378682369",
+                "trackback_author_name": "Jason Mageau",
+                "trackback_author_nick": "j_blkheart"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1317330231,
+                "title": "Macleans.ca: #Violence in #Syria spreads as #army splits http://t.co/TcYAILAi #Assad #Insurrection #SyriaBleeds",
+                "url": "http://twitter.com/epaulnet/status/119517769292201984",
+                "trackback_date": 1317330231,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/TcYAILAi",
+                        "display_url": "www2.macleans.ca/2011/09/28/vio\u2026",
+                        "expanded_url": "http://www2.macleans.ca/2011/09/28/violence-in-syria-spreads-as-army-splits/",
+                        "topsy_expanded_url": "http://www2.macleans.ca/2011/09/28/violence-in-syria-spreads-as-army-splits/"
+                    }
+                ],
+                "target_birth_date": 1317330231,
+                "content": "Macleans.ca: #Violence in #Syria spreads as #army splits http://t.co/TcYAILAi #Assad #Insurrection #SyriaBleeds",
+                "mytype": "tweet",
+                "score": 8.021294,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/447104788400857088/O5rmkEEt_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/epaulnet/status/119517769292201984",
+                "trackback_author_url": "http://twitter.com/epaulnet",
+                "highlight": "Macleans.ca: #Violence in #Syria spreads as #army splits #Assad #Insurrection",
+                "topsy_author_url": "http://topsy.com/twitter/epaulnet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/epaulnet/status/119517769292201984",
+                "trackback_author_name": "Paul Erickson",
+                "trackback_author_nick": "epaulnet"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1313181139,
+                "title": "Link TV: Syrians hold \"We won't kneel except to God\" Friday rally http://t.co/CGB4HBT #Syria #Assad #Repression #MassMurder #Insurrection",
+                "url": "http://twitter.com/epaulnet/status/102115218439684096",
+                "trackback_date": 1313181139,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/CGB4HBT",
+                        "display_url": "linktv.org/scripts/episod\u2026",
+                        "expanded_url": "http://www.linktv.org/scripts/episode_transcript.php?episode=mosaic20110811",
+                        "topsy_expanded_url": "http://www.linktv.org/scripts/episode_transcript.php?episode=mosaic20110811"
+                    }
+                ],
+                "target_birth_date": 1313181139,
+                "content": "Link TV: Syrians hold \"We won't kneel except to God\" Friday rally http://t.co/CGB4HBT #Syria #Assad #Repression #MassMurder #Insurrection",
+                "mytype": "tweet",
+                "score": 8.021053,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/447104788400857088/O5rmkEEt_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/epaulnet/status/102115218439684096",
+                "trackback_author_url": "http://twitter.com/epaulnet",
+                "highlight": "Link TV: Syrians hold \"We won't kneel except to God\" Friday rally #Syria #Assad #Repression #MassMurder",
+                "topsy_author_url": "http://topsy.com/twitter/epaulnet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/epaulnet/status/102115218439684096",
+                "trackback_author_name": "Paul Erickson",
+                "trackback_author_nick": "epaulnet"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1333135248,
+                "title": "Did Galloway incite people to an uprising, is that a crime #insurrection",
+                "url": "http://twitter.com/fascistcow/status/185808817563500544",
+                "trackback_date": 1333135248,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1333135248,
+                "content": "Did Galloway incite people to an uprising, is that a crime #insurrection",
+                "mytype": "tweet",
+                "score": 8.020684,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3540539284/703b25a9361744f734cd9b9aef6dfd6b_normal.png",
+                "trackback_permalink": "http://twitter.com/fascistCOW/status/185808817563500544",
+                "trackback_author_url": "http://twitter.com/fascistcow",
+                "highlight": "Did Galloway incite people to an uprising, is that a crime",
+                "topsy_author_url": "http://topsy.com/twitter/fascistcow",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/fascistcow/status/185808817563500544",
+                "trackback_author_name": "\u30c3",
+                "trackback_author_nick": "fascistcow"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1320639233,
+                "title": "Arutz Sheva: #ArabLeague Warns 'Catastrophe' Imminent in #Syria http://t.co/4BXFr9z9 #Assad #Insurrection #CivilWar?\n\nBit slow, aren't you?",
+                "url": "http://twitter.com/epaulnet/status/133396730224984064",
+                "trackback_date": 1320639233,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4BXFr9z9",
+                        "display_url": "israelnationalnews.com/News/News.aspx\u2026",
+                        "expanded_url": "http://www.israelnationalnews.com/News/News.aspx/149449",
+                        "topsy_expanded_url": "http://www.israelnationalnews.com/News/News.aspx/149449"
+                    }
+                ],
+                "target_birth_date": 1320639233,
+                "content": "Arutz Sheva: #ArabLeague Warns 'Catastrophe' Imminent in #Syria http://t.co/4BXFr9z9 #Assad #Insurrection #CivilWar?\n\nBit slow, aren't you?",
+                "mytype": "tweet",
+                "score": 8.020274,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/447104788400857088/O5rmkEEt_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/epaulnet/status/133396730224984064",
+                "trackback_author_url": "http://twitter.com/epaulnet",
+                "highlight": "Arutz Sheva: #ArabLeague Warns 'Catastrophe' Imminent in #Syria #Assad #Insurrection #CivilWar? Bit slow, aren't you?",
+                "topsy_author_url": "http://topsy.com/twitter/epaulnet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/epaulnet/status/133396730224984064",
+                "trackback_author_name": "Paul Erickson",
+                "trackback_author_nick": "epaulnet"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1370481005,
+                "title": "Yup, I'm so #teamdata. #insurrection",
+                "url": "http://twitter.com/hannahnpbowman/status/342448272239128576",
+                "trackback_date": 1370481005,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1370481005,
+                "content": "Yup, I'm so #teamdata. #insurrection",
+                "mytype": "tweet",
+                "score": 8.020128,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000411000892/e5388aa50d77ab4ecd2bad89c934560c_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/hannahnpbowman/status/342448272239128576",
+                "trackback_author_url": "http://twitter.com/hannahnpbowman",
+                "highlight": "Yup, I'm so #teamdata.",
+                "topsy_author_url": "http://topsy.com/twitter/hannahnpbowman",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hannahnpbowman/status/342448272239128576",
+                "trackback_author_name": "Hannah Bowman",
+                "trackback_author_nick": "hannahnpbowman"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 800,
+        "hidden": 0,
+        "total": 19407,
+        "page": 1
+    }
+}

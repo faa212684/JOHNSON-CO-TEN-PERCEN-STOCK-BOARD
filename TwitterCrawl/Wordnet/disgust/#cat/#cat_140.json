@@ -1,0 +1,294 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23cat&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=140",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#cat",
+            "window": "a",
+            "type": "tweet",
+            "offset": "140"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 34,
+                "firstpost_date": 1376601300,
+                "title": "A special welcome to the world's newest mammal...hello little olinguito! http://t.co/D5Vltsi2ps #cat #teddybear",
+                "url": "http://twitter.com/jianghomeshi/status/368118651104153600",
+                "trackback_date": 1376601300,
+                "trackback_total": 45,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/D5Vltsi2ps",
+                        "display_url": "blogs.scientificamerican.com/running-ponies\u2026",
+                        "expanded_url": "http://blogs.scientificamerican.com/running-ponies/2013/08/15/the-olinguito-a-new-species-that-looks-house-cat-crossed-with-a-teddy-bear/",
+                        "topsy_expanded_url": "http://blogs.scientificamerican.com/running-ponies/2013/08/15/the-olinguito-a-new-species-that-looks-house-cat-crossed-with-a-teddy-bear/"
+                    }
+                ],
+                "target_birth_date": 1376601300,
+                "content": "A special welcome to the world's newest mammal...hello little olinguito! http://t.co/D5Vltsi2ps #cat #teddybear",
+                "mytype": "tweet",
+                "score": 9.414339,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1672062050/Picture_1_normal.png",
+                "trackback_permalink": "http://twitter.com/jianghomeshi/status/368118651104153600",
+                "trackback_author_url": "http://twitter.com/jianghomeshi",
+                "highlight": "A special welcome to the world's newest mammal...hello little olinguito! #cat",
+                "topsy_author_url": "http://topsy.com/twitter/jianghomeshi",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jianghomeshi/status/368118651104153600",
+                "trackback_author_name": "jian ghomeshi",
+                "trackback_author_nick": "jianghomeshi"
+            },
+            {
+                "hits": 31,
+                "firstpost_date": 1373583646,
+                "title": "Please help find a forever home for Maureen! http://t.co/dcBQkj72S1 #adopt #nyc #cat",
+                "url": "http://twitter.com/aspca/status/355461693490470912",
+                "trackback_date": 1373583646,
+                "trackback_total": 35,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/dcBQkj72S1",
+                        "expanded_url": "http://ow.ly/mSG7n",
+                        "display_url": "ow.ly/mSG7n"
+                    }
+                ],
+                "target_birth_date": 1373583646,
+                "content": "Please help find a forever home for Maureen! http://t.co/dcBQkj72S1 #adopt #nyc #cat",
+                "mytype": "tweet",
+                "score": 9.413065,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1479082848/speech-bubble-2color-180x180_normal.png",
+                "trackback_permalink": "http://twitter.com/ASPCA/status/355461693490470912",
+                "trackback_author_url": "http://twitter.com/aspca",
+                "highlight": "Please help find a forever home for Maureen! #adopt #nyc",
+                "topsy_author_url": "http://topsy.com/twitter/aspca",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/aspca/status/355461693490470912",
+                "trackback_author_name": "ASPCA",
+                "trackback_author_nick": "aspca"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1285504119,
+                "title": "SIGAM o col\u00edrio de hoje @Feemello , ele parece o Eduardo Surita e \u00e9 muito #cat , leva um babador, vou indicar 10 que seguirem ele agora.",
+                "url": "http://twitter.com/yescolirios/status/25585661772",
+                "trackback_date": 1285504119,
+                "trackback_total": 23,
+                "url_expansions": [],
+                "target_birth_date": 1285504119,
+                "content": "SIGAM o col\u00edrio de hoje @Feemello , ele parece o Eduardo Surita e \u00e9 muito #cat , leva um babador, vou indicar 10 que seguirem ele agora.",
+                "mytype": "tweet",
+                "score": 9.411483,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1750271071/8_normal.jpg",
+                "trackback_permalink": "http://twitter.com/YesColirios/status/25585661772",
+                "trackback_author_url": "http://twitter.com/yescolirios",
+                "highlight": "SIGAM o col\u00edrio de hoje @Feemello , ele parece o Eduardo Surita e \u00e9 muito #cat , leva um babador, vou indicar 10 que seguirem ele agora.",
+                "topsy_author_url": "http://topsy.com/twitter/yescolirios",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/yescolirios/status/25585661772",
+                "trackback_author_name": "Yes  Col\u00edrios",
+                "trackback_author_nick": "yescolirios"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1286400024,
+                "title": "EMPAREDADOS: @GuihLucas X @ViineGranado  Vote vote no mais delicia ou gatinho haha, voc\u00eas decide! Me mande o twitter daquele mais #Cat",
+                "url": "http://twitter.com/yescolirios/status/26585936833",
+                "trackback_date": 1286400024,
+                "trackback_total": 23,
+                "url_expansions": [],
+                "target_birth_date": 1286400024,
+                "content": "EMPAREDADOS: @GuihLucas X @ViineGranado  Vote vote no mais delicia ou gatinho haha, voc\u00eas decide! Me mande o twitter daquele mais #Cat",
+                "mytype": "tweet",
+                "score": 9.408632,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1750271071/8_normal.jpg",
+                "trackback_permalink": "http://twitter.com/YesColirios/status/26585936833",
+                "trackback_author_url": "http://twitter.com/yescolirios",
+                "highlight": "EMPAREDADOS: @GuihLucas X @ViineGranado Vote vote no mais delicia ou gatinho haha, voc\u00eas decide! Me mande o twitter daquele mais",
+                "topsy_author_url": "http://topsy.com/twitter/yescolirios",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/yescolirios/status/26585936833",
+                "trackback_author_name": "Yes  Col\u00edrios",
+                "trackback_author_nick": "yescolirios"
+            },
+            {
+                "hits": 25,
+                "firstpost_date": 1364156941,
+                "title": "Let's end this week with a set of #cat images shot with Nokia phones: http://t.co/8tO7d5h8Y8 #PureView @PureViewClub http://t.co/6QfLe9alrp",
+                "url": "http://twitter.com/nokia/status/315923226427535362",
+                "trackback_date": 1364156941,
+                "trackback_total": 41,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8tO7d5h8Y8",
+                        "display_url": "nokia.ly/16GjxJg",
+                        "expanded_url": "http://nokia.ly/16GjxJg",
+                        "topsy_expanded_url": "http://pureviewclub.com/2013/12512"
+                    },
+                    {
+                        "url": "http://t.co/6QfLe9alrp",
+                        "expanded_url": "http://twitter.com/nokia/status/315923226427535362/photo/1",
+                        "display_url": "pic.twitter.com/6QfLe9alrp"
+                    }
+                ],
+                "target_birth_date": 1364156941,
+                "content": "Let's end this week with a set of #cat images shot with Nokia phones: http://t.co/8tO7d5h8Y8 #PureView @PureViewClub http://t.co/6QfLe9alrp",
+                "mytype": "tweet",
+                "score": 9.406689,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/448775066189172736/A09uf8P6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/nokia/status/315923226427535362",
+                "trackback_author_url": "http://twitter.com/nokia",
+                "highlight": "Let's end this week with a set of #cat images shot with Nokia phones: #PureView @PureViewClub",
+                "topsy_author_url": "http://topsy.com/twitter/nokia",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nokia/status/315923226427535362",
+                "trackback_author_name": "Nokia",
+                "trackback_author_nick": "nokia"
+            },
+            {
+                "hits": 31,
+                "firstpost_date": 1399346214,
+                "title": "I might be hallucinating but I might have seen a #cat, wearing a #sombrero, shooting #tequila\u2026 http://t.co/31pJlZ0OQE",
+                "url": "http://twitter.com/sexcigarsbooze/status/463517736321028096",
+                "trackback_date": 1399346214,
+                "trackback_total": 38,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/31pJlZ0OQE",
+                        "display_url": "pic.twitter.com/31pJlZ0OQE",
+                        "expanded_url": "http://twitter.com/SexCigarsBooze/status/463517736321028096/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bm6-7OTCEAEhJsB.jpg"
+                    }
+                ],
+                "target_birth_date": 1399346214,
+                "content": "I might be hallucinating but I might have seen a #cat, wearing a #sombrero, shooting #tequila\u2026 http://t.co/31pJlZ0OQE",
+                "mytype": "tweet",
+                "score": 9.405071,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1013633354/Twitter_Avatar3_normal.png",
+                "trackback_permalink": "http://twitter.com/SexCigarsBooze/status/463517736321028096",
+                "trackback_author_url": "http://twitter.com/sexcigarsbooze",
+                "highlight": "I might be hallucinating but I might have seen a #cat, wearing a #sombrero, shooting #tequila\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/sexcigarsbooze",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sexcigarsbooze/status/463517736321028096",
+                "trackback_author_name": "David Voth",
+                "trackback_author_nick": "sexcigarsbooze"
+            },
+            {
+                "hits": 27,
+                "firstpost_date": 1375110079,
+                "title": "Please help us find a forever home for Lena! http://t.co/u3e3q7HIAU #Adopt #Cat",
+                "url": "http://twitter.com/aspca/status/361864018220154881",
+                "trackback_date": 1375110079,
+                "trackback_total": 28,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/u3e3q7HIAU",
+                        "display_url": "ow.ly/nqaFD",
+                        "expanded_url": "http://ow.ly/nqaFD",
+                        "topsy_expanded_url": "http://www.aspca.org/nyc/adoptable-cats/lena-a17951102?initialms=so_twi_adoptable-cats-lena-20130729&ms=so_twi_adoptable-cats-lena-20130729"
+                    }
+                ],
+                "target_birth_date": 1375110079,
+                "content": "Please help us find a forever home for Lena! http://t.co/u3e3q7HIAU #Adopt #Cat",
+                "mytype": "tweet",
+                "score": 9.401053,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1479082848/speech-bubble-2color-180x180_normal.png",
+                "trackback_permalink": "http://twitter.com/ASPCA/status/361864018220154881",
+                "trackback_author_url": "http://twitter.com/aspca",
+                "highlight": "Please help us find a forever home for Lena! #Adopt",
+                "topsy_author_url": "http://topsy.com/twitter/aspca",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/aspca/status/361864018220154881",
+                "trackback_author_name": "ASPCA",
+                "trackback_author_nick": "aspca"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1353756597,
+                "title": "Rolou na #CAT: esmalte nude de Manoela \u00e9 o campe\u00e3o da semana. Quer ver os mais pedidos? Clique aqui: http://t.co/V4zstwWg",
+                "url": "http://twitter.com/rede_globo/status/272301024381919232",
+                "trackback_date": 1353756597,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/V4zstwWg",
+                        "display_url": "glo.bo/10rrsae",
+                        "expanded_url": "http://glo.bo/10rrsae",
+                        "topsy_expanded_url": "http://glo.bo/10rrsae"
+                    }
+                ],
+                "target_birth_date": 1353756597,
+                "content": "Rolou na #CAT: esmalte nude de Manoela \u00e9 o campe\u00e3o da semana. Quer ver os mais pedidos? Clique aqui: http://t.co/V4zstwWg",
+                "mytype": "tweet",
+                "score": 9.395897,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452975864670482432/1WDRp3jg_normal.png",
+                "trackback_permalink": "http://twitter.com/rede_globo/status/272301024381919232",
+                "trackback_author_url": "http://twitter.com/rede_globo",
+                "highlight": "Rolou na #CAT: esmalte nude de Manoela \u00e9 o campe\u00e3o da semana. Quer ver os mais pedidos? Clique aqui:",
+                "topsy_author_url": "http://topsy.com/twitter/rede_globo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rede_globo/status/272301024381919232",
+                "trackback_author_name": "Globo",
+                "trackback_author_nick": "rede_globo"
+            },
+            {
+                "hits": 177,
+                "firstpost_date": 1375094498,
+                "title": "\u672c\u7269\u306e\u62db\u304d\u732b\u3060wwww http://t.co/YHw41Zgfv5 #cat",
+                "url": "http://twitter.com/neco_pic/status/361798664487833600",
+                "trackback_date": 1375094498,
+                "trackback_total": 223,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/YHw41Zgfv5",
+                        "display_url": "twitpic.com/am0glv",
+                        "expanded_url": "http://twitpic.com/am0glv",
+                        "topsy_expanded_url": "http://twitpic.com/am0glv"
+                    }
+                ],
+                "target_birth_date": 1375094498,
+                "content": "\u672c\u7269\u306e\u62db\u304d\u732b\u3060wwww http://t.co/YHw41Zgfv5 #cat",
+                "mytype": "tweet",
+                "score": 9.393108,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000381123578/aaa557c7eb7216b93186c2127c320e89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/neco_pic/status/361798664487833600",
+                "trackback_author_url": "http://twitter.com/neco_pic",
+                "highlight": "\u672c\u7269\u306e\u62db\u304d\u732b\u3060wwww",
+                "topsy_author_url": "http://topsy.com/twitter/neco_pic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/neco_pic/status/361798664487833600",
+                "trackback_author_name": "\u306d\u3053\u753b\u50cfbot",
+                "trackback_author_nick": "neco_pic"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1343607879,
+                "title": "Chique RT @rede_globo: Rolou na #CAT: Empreguetes dominam a lista dos mais pedidos da semana. Confira! http://t.co/vDmTrOmv",
+                "url": "http://twitter.com/hugogloss/status/229734211995725824",
+                "trackback_date": 1343607879,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vDmTrOmv",
+                        "display_url": "glo.bo/Qn5SkN",
+                        "expanded_url": "http://glo.bo/Qn5SkN",
+                        "topsy_expanded_url": "http://glo.bo/Qn5SkN"
+                    }
+                ],
+                "target_birth_date": 1343607879,
+                "content": "Chique RT @rede_globo: Rolou na #CAT: Empreguetes dominam a lista dos mais pedidos da semana. Confira! http://t.co/vDmTrOmv",
+                "mytype": "tweet",
+                "score": 9.389467,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2591035594/HugoGloss_normal.jpg",
+                "trackback_permalink": "http://twitter.com/HugoGloss/status/229734211995725824",
+                "trackback_author_url": "http://twitter.com/hugogloss",
+                "highlight": "ChiqueRolou na #CAT: Empreguetes dominam a lista dos mais pedidos da semana. Confira!",
+                "topsy_author_url": "http://topsy.com/twitter/hugogloss",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hugogloss/status/229734211995725824",
+                "trackback_author_name": "Hugo Gloss",
+                "trackback_author_nick": "hugogloss"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 140,
+        "hidden": 0,
+        "total": 8638212,
+        "page": 1
+    }
+}

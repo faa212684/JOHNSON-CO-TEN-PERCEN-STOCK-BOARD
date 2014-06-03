@@ -1,0 +1,281 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23cast&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=60",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#cast",
+            "window": "a",
+            "type": "tweet",
+            "offset": "60"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 6,
+                "firstpost_date": 1401117741,
+                "title": "\u00a1Queda poco tiempo! Queremos que seas parte de nuestro centro para formar nuevos talentos. S\u00e9 parte de #CAST. http://t.co/ftIV2GEnct",
+                "url": "http://twitter.com/telefecom/status/470948059917348864",
+                "trackback_date": 1401117741,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ftIV2GEnct",
+                        "display_url": "telefe.com/cast/cast",
+                        "expanded_url": "http://telefe.com/cast/cast",
+                        "topsy_expanded_url": "http://telefe.com/cast/cast"
+                    }
+                ],
+                "target_birth_date": 1401117741,
+                "content": "\u00a1Queda poco tiempo! Queremos que seas parte de nuestro centro para formar nuevos talentos. S\u00e9 parte de #CAST. http://t.co/ftIV2GEnct",
+                "mytype": "tweet",
+                "score": 9.134868,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458699223534272512/4fliluaH_normal.png",
+                "trackback_permalink": "http://twitter.com/telefecom/status/470948059917348864",
+                "trackback_author_url": "http://twitter.com/telefecom",
+                "highlight": "\u00a1Queda poco tiempo! Queremos que seas parte de nuestro centro para formar nuevos talentos. S\u00e9 parte de #CAST.",
+                "topsy_author_url": "http://topsy.com/twitter/telefecom",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/telefecom/status/470948059917348864",
+                "trackback_author_name": "Telefe",
+                "trackback_author_nick": "telefecom"
+            },
+            {
+                "hits": 164,
+                "firstpost_date": 1353568487,
+                "title": "Working on the script of my next feature #film ...The ideal #cast will be @stonenobrien and @hitRECordJoe http://t.co/EJ9CJtGh",
+                "url": "http://twitter.com/sabinemondestin/status/271512027946708992",
+                "trackback_date": 1353568487,
+                "trackback_total": 209,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/EJ9CJtGh",
+                        "expanded_url": "http://twitter.com/SabineMondestin/status/271512027946708992/photo/1",
+                        "display_url": "pic.twitter.com/EJ9CJtGh"
+                    }
+                ],
+                "target_birth_date": 1353568487,
+                "content": "Working on the script of my next feature #film ...The ideal #cast will be @stonenobrien and @hitRECordJoe http://t.co/EJ9CJtGh",
+                "mytype": "tweet",
+                "score": 9.125394,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3280605321/b8416d878b51a4b35ce09b524ec69ace_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SabineMondestin/status/271512027946708992",
+                "trackback_author_url": "http://twitter.com/sabinemondestin",
+                "highlight": "Working on the script of my next feature #film ...The ideal #cast will be @stonenobrien and @hitRECordJoe",
+                "topsy_author_url": "http://topsy.com/twitter/sabinemondestin",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sabinemondestin/status/271512027946708992",
+                "trackback_author_name": "Sabine Mondestin",
+                "trackback_author_nick": "sabinemondestin"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1397129407,
+                "title": "#cast #meetandgreet #preproduction #HOAYS #tbt #hashtag http://t.co/DEQZyrgF09",
+                "url": "http://twitter.com/genevievennaji1/status/454219770947059713",
+                "trackback_date": 1397129407,
+                "trackback_total": 17,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DEQZyrgF09",
+                        "display_url": "fb.me/6wevHkow1",
+                        "expanded_url": "http://fb.me/6wevHkow1",
+                        "topsy_expanded_url": "https://www.facebook.com/photo.php?fbid=549101235208339"
+                    }
+                ],
+                "target_birth_date": 1397129407,
+                "content": "#cast #meetandgreet #preproduction #HOAYS #tbt #hashtag http://t.co/DEQZyrgF09",
+                "mytype": "tweet",
+                "score": 9.120666,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/445308942563151872/MrFGZ4Ni_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/GenevieveNnaji1/status/454219770947059713",
+                "trackback_author_url": "http://twitter.com/genevievennaji1",
+                "highlight": "#cast #meetandgreet #preproduction #HOAYS #tbt #hashtag",
+                "topsy_author_url": "http://topsy.com/twitter/genevievennaji1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/genevievennaji1/status/454219770947059713",
+                "trackback_author_name": "Genevieve Nnaji MFR",
+                "trackback_author_nick": "genevievennaji1"
+            },
+            {
+                "hits": 74,
+                "firstpost_date": 1397712622,
+                "title": "A little hint!!! #DenisTenAndFriends #Show #Cast http://t.co/XQ1aOGd29O",
+                "url": "http://twitter.com/tenis_den/status/456665955578290176",
+                "trackback_date": 1397712622,
+                "trackback_total": 97,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XQ1aOGd29O",
+                        "display_url": "instagram.com/p/m4Rf2mO4yk/",
+                        "expanded_url": "http://instagram.com/p/m4Rf2mO4yk/",
+                        "topsy_expanded_url": "http://instagram.com/p/m4Rf2mO4yk/"
+                    }
+                ],
+                "target_birth_date": 1397712622,
+                "content": "A little hint!!! #DenisTenAndFriends #Show #Cast http://t.co/XQ1aOGd29O",
+                "mytype": "tweet",
+                "score": 9.118446,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/435324165630226432/MFgtQeWM_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Tenis_Den/status/456665955578290176",
+                "trackback_author_url": "http://twitter.com/tenis_den",
+                "highlight": "A little hint!!! #DenisTenAndFriends #Show #Cast",
+                "topsy_author_url": "http://topsy.com/twitter/tenis_den",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tenis_den/status/456665955578290176",
+                "trackback_author_name": "Denis Ten",
+                "trackback_author_nick": "tenis_den"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1339034763,
+                "title": "The most talked about games at the #konami #e3 booth. #PES2013 #MGR #zoneoftheenders #Cast  @ Konami E3 2012 http://t.co/0nLKhU1s",
+                "url": "http://twitter.com/konami/status/210553173155381250",
+                "trackback_date": 1339034763,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/0nLKhU1s",
+                        "display_url": "instagr.am/p/LjiXCAr3tC/",
+                        "expanded_url": "http://instagr.am/p/LjiXCAr3tC/",
+                        "topsy_expanded_url": "http://instagr.am/p/LjiXCAr3tC/"
+                    }
+                ],
+                "target_birth_date": 1339034763,
+                "content": "The most talked about games at the #konami #e3 booth. #PES2013 #MGR #zoneoftheenders #Cast  @ Konami E3 2012 http://t.co/0nLKhU1s",
+                "mytype": "tweet",
+                "score": 9.118264,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3190248843/9d85cb3312179987e6f25febd52e5fa2_normal.png",
+                "trackback_permalink": "http://twitter.com/Konami/status/210553173155381250",
+                "trackback_author_url": "http://twitter.com/konami",
+                "highlight": "The most talked about games at the #konami #e3 booth. #PES2013 #MGR #zoneoftheenders #Cast @ Konami E3 2012",
+                "topsy_author_url": "http://topsy.com/twitter/konami",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/konami/status/210553173155381250",
+                "trackback_author_name": "Konami",
+                "trackback_author_nick": "konami"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1388967390,
+                "title": "Guess who? So cute! \u2764\ufe0f #baby #gossipgirl #ggquotes #cast http://t.co/NaClAAdCPV",
+                "url": "http://twitter.com/gg_quotes/status/419985792413732864",
+                "trackback_date": 1388967390,
+                "trackback_total": 31,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/NaClAAdCPV",
+                        "display_url": "instagram.com/p/izpOqANGKX/",
+                        "expanded_url": "http://instagram.com/p/izpOqANGKX/",
+                        "topsy_expanded_url": "http://instagram.com/p/izpOqANGKX/"
+                    }
+                ],
+                "target_birth_date": 1388967390,
+                "content": "Guess who? So cute! \u2764\ufe0f #baby #gossipgirl #ggquotes #cast http://t.co/NaClAAdCPV",
+                "mytype": "tweet",
+                "score": 9.104528,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1772070432/gossip_girl_title_card_normal.jpg",
+                "trackback_permalink": "http://twitter.com/GG_quotes/status/419985792413732864",
+                "trackback_author_url": "http://twitter.com/gg_quotes",
+                "highlight": "Guess who? So cute! \u2764\ufe0f #baby #gossipgirl #ggquotes #cast",
+                "topsy_author_url": "http://topsy.com/twitter/gg_quotes",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gg_quotes/status/419985792413732864",
+                "trackback_author_name": "Gossip Girl",
+                "trackback_author_nick": "gg_quotes"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1307052714,
+                "title": "Worry is a cloud that never produces rain. #cast your worries on him.",
+                "url": "http://twitter.com/100prayingwomen/status/76410740336107522",
+                "trackback_date": 1307052714,
+                "trackback_total": 6,
+                "url_expansions": [],
+                "target_birth_date": 1307052714,
+                "content": "Worry is a cloud that never produces rain. #cast your worries on him.",
+                "mytype": "tweet",
+                "score": 9.10419,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/902172980/prayer_warriors_needed_normal.jpg",
+                "trackback_permalink": "http://twitter.com/100prayingwomen/status/76410740336107522",
+                "trackback_author_url": "http://twitter.com/100prayingwomen",
+                "highlight": "Worry is a cloud that never produces rain. #cast your worries on him.",
+                "topsy_author_url": "http://topsy.com/twitter/100prayingwomen",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/100prayingwomen/status/76410740336107522",
+                "trackback_author_name": "100Prayingwomen",
+                "trackback_author_nick": "100prayingwomen"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1398001109,
+                "title": "BIG #ShoutOut of my sincere gratitude 4ALL who took the time 2SUPPORT the #cast of #ADayLateAndADollarShort #LifetimeMovie @lifetimetv",
+                "url": "http://twitter.com/tichinaarnold/status/457875954082144256",
+                "trackback_date": 1398001109,
+                "trackback_total": 12,
+                "url_expansions": [],
+                "target_birth_date": 1398001109,
+                "content": "BIG #ShoutOut of my sincere gratitude 4ALL who took the time 2SUPPORT the #cast of #ADayLateAndADollarShort #LifetimeMovie @lifetimetv",
+                "mytype": "tweet",
+                "score": 9.091203,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/433951132809830400/64ZtF5vr_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TichinaArnold/status/457875954082144256",
+                "trackback_author_url": "http://twitter.com/tichinaarnold",
+                "highlight": "BIG #ShoutOut of my sincere gratitude 4ALL who took the time 2SUPPORT the #cast of #ADayLateAndADollarShort #LifetimeMovie @lifetimetv",
+                "topsy_author_url": "http://topsy.com/twitter/tichinaarnold",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tichinaarnold/status/457875954082144256",
+                "trackback_author_name": "Tichina Arnold",
+                "trackback_author_nick": "tichinaarnold"
+            },
+            {
+                "hits": 42,
+                "firstpost_date": 1362636867,
+                "title": "Good, Cut, Got It, Check the Gate! That's a wrap folks! Shout out to #showrunners#CBS #CW #cast&amp;crew. Thank you 4 the 5 year run!  Mean it.",
+                "url": "http://twitter.com/michaelstegerjr/status/309547574430412800",
+                "trackback_date": 1362636867,
+                "trackback_total": 65,
+                "url_expansions": [],
+                "target_birth_date": 1362636867,
+                "content": "Good, Cut, Got It, Check the Gate! That's a wrap folks! Shout out to #showrunners#CBS #CW #cast&amp;crew. Thank you 4 the 5 year run!  Mean it.",
+                "mytype": "tweet",
+                "score": 9.088447,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3358700732/53d42cb8e58cea1fcb5c9b13595c1e0d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MichaelStegerJr/status/309547574430412800",
+                "trackback_author_url": "http://twitter.com/michaelstegerjr",
+                "highlight": "Good, Cut, Got It, Check the Gate! That's a wrap folks! Shout out to #showrunners#CBS #CW #cast&amp;crew. Thank you 4 the 5 year run! Mean it.",
+                "topsy_author_url": "http://topsy.com/twitter/michaelstegerjr",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/michaelstegerjr/status/309547574430412800",
+                "trackback_author_name": "Michael Steger",
+                "trackback_author_nick": "michaelstegerjr"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1352391208,
+                "title": "#Photo @SachaLParkinson @lmloveless  @Georgiahenshaw1 @lewisrainer @DarcyIsa @JoshBolt \"One Day Like This\" #cast http://t.co/iJtltCTV",
+                "url": "http://twitter.com/siophie_spain/status/266574165937643520",
+                "trackback_date": 1352392912,
+                "trackback_total": 13,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/iJtltCTV",
+                        "expanded_url": "http://twitter.com/Siophie_Spain/status/266574165937643520/photo/1",
+                        "display_url": "pic.twitter.com/iJtltCTV"
+                    }
+                ],
+                "target_birth_date": 1352391208,
+                "content": "RT @Siophie_Spain: #Photo @SachaLParkinson @lmloveless  @Georgiahenshaw1 @lewisrainer @DarcyIsa @JoshBolt \"One Day Like This\" #cast http ...",
+                "mytype": "tweet",
+                "score": 9.062385,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464458734203588608/QTMJD4Tl_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SachaLParkinson/status/266581314889723904",
+                "trackback_author_url": "http://twitter.com/sachalparkinson",
+                "highlight": "#Photo @SachaLParkinson @lmloveless @Georgiahenshaw1 @lewisrainer @DarcyIsa @JoshBolt \"One Day Like This\" #cast http ",
+                "topsy_author_url": "http://topsy.com/twitter/sachalparkinson",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/siophie_spain/status/266574165937643520",
+                "trackback_author_name": "Sacha L Parkinson ",
+                "trackback_author_nick": "sachalparkinson"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 60,
+        "hidden": 0,
+        "total": 126151,
+        "page": 1
+    }
+}

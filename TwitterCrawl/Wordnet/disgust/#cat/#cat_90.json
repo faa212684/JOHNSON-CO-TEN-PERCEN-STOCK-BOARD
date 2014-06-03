@@ -1,0 +1,290 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23cat&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=90",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#cat",
+            "window": "a",
+            "type": "tweet",
+            "offset": "90"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 6,
+                "firstpost_date": 1341594053,
+                "title": "Rolou na #CAT: Melissa, de #AmorEternoAmor, \u00e9 o destaque da semana! Confira neste link http://t.co/jSjoLZRF",
+                "url": "http://twitter.com/rede_globo/status/221287615796740096",
+                "trackback_date": 1341594053,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jSjoLZRF",
+                        "display_url": "glo.bo/RsCkPD",
+                        "expanded_url": "http://glo.bo/RsCkPD",
+                        "topsy_expanded_url": "http://glo.bo/RsCkPD"
+                    }
+                ],
+                "target_birth_date": 1341594053,
+                "content": "Rolou na #CAT: Melissa, de #AmorEternoAmor, \u00e9 o destaque da semana! Confira neste link http://t.co/jSjoLZRF",
+                "mytype": "tweet",
+                "score": 9.538469,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452975864670482432/1WDRp3jg_normal.png",
+                "trackback_permalink": "http://twitter.com/rede_globo/status/221287615796740096",
+                "trackback_author_url": "http://twitter.com/rede_globo",
+                "highlight": "Rolou na #CAT: Melissa, de #AmorEternoAmor, \u00e9 o destaque da semana! Confira neste link",
+                "topsy_author_url": "http://topsy.com/twitter/rede_globo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rede_globo/status/221287615796740096",
+                "trackback_author_name": "Globo",
+                "trackback_author_nick": "rede_globo"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1266418863,
+                "title": "RT @jifuku 22\u5e742\u670822\u65e5\u306b #nekonomi \u3067\u30cd\u30b3\u98f2\u307f\u3084\u308a\u307e\u3059\u3002\u732b\u597d\u304d\u306e\u732b\u597d\u304d\u306b\u3088\u308b\u732b\u597d\u304d\u306e\u70ba\u306e\u30c4\u30a4\u30ce\u30df\u3067\u3059\u300222\u664222\u5206\u306b\u53eb\u3076\u9cf4\u304d\u58f0\u52df\u96c6\u4e2d\u3067\u3059\u30cb\u30e3\u30fc\uff01 #neko_mof #cat #catJP #neko",
+                "url": "http://twitter.com/twinavi/status/9236952340",
+                "trackback_date": 1266418863,
+                "trackback_total": 16,
+                "url_expansions": [],
+                "target_birth_date": 1266418863,
+                "content": "RT @jifuku 22\u5e742\u670822\u65e5\u306b #nekonomi \u3067\u30cd\u30b3\u98f2\u307f\u3084\u308a\u307e\u3059\u3002\u732b\u597d\u304d\u306e\u732b\u597d\u304d\u306b\u3088\u308b\u732b\u597d\u304d\u306e\u70ba\u306e\u30c4\u30a4\u30ce\u30df\u3067\u3059\u300222\u664222\u5206\u306b\u53eb\u3076\u9cf4\u304d\u58f0\u52df\u96c6\u4e2d\u3067\u3059\u30cb\u30e3\u30fc\uff01 #neko_mof #cat #catJP #neko",
+                "mytype": "tweet",
+                "score": 9.534191,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/455592149111672832/jYPtMZLU_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/twinavi/status/9236952340",
+                "trackback_author_url": "http://twitter.com/twinavi",
+                "highlight": "RT @jifuku 22\u5e742\u670822\u65e5\u306b #nekonomi \u3067\u30cd\u30b3\u98f2\u307f\u3084\u308a\u307e\u3059\u3002\u732b\u597d\u304d\u306e\u732b\u597d\u304d\u306b\u3088\u308b\u732b\u597d\u304d\u306e\u70ba\u306e\u30c4\u30a4\u30ce\u30df\u3067\u3059\u300222\u664222\u5206\u306b\u53eb\u3076\u9cf4\u304d\u58f0\u52df\u96c6\u4e2d\u3067\u3059\u30cb\u30e3\u30fc\uff01 #neko_mof #cat #catJP",
+                "topsy_author_url": "http://topsy.com/twitter/twinavi",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twinavi/status/9236952340",
+                "trackback_author_name": "\u30c4\u30a4\u30ca\u30d3",
+                "trackback_author_nick": "twinavi"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1362411002,
+                "title": "#SemanaDaMulher: Xuxa, F\u00e1tima Bernardes e Ana Furtado d\u00e3o dicas de beleza para telespectadoras da #CAT! Veja: http://t.co/jr6xovbtVB",
+                "url": "http://twitter.com/rede_globo/status/308600227894546433",
+                "trackback_date": 1362411002,
+                "trackback_total": 15,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jr6xovbtVB",
+                        "display_url": "glo.bo/ZhmKJs",
+                        "expanded_url": "http://glo.bo/ZhmKJs",
+                        "topsy_expanded_url": "http://redeglobo.globo.com/novidades/noticia/2013/03/semana-da-mulher-em-video-xuxa-da-dicas-de-como-cuidar-da-pele-e-beleza.html"
+                    }
+                ],
+                "target_birth_date": 1362411002,
+                "content": "#SemanaDaMulher: Xuxa, F\u00e1tima Bernardes e Ana Furtado d\u00e3o dicas de beleza para telespectadoras da #CAT! Veja: http://t.co/jr6xovbtVB",
+                "mytype": "tweet",
+                "score": 9.531219,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452975864670482432/1WDRp3jg_normal.png",
+                "trackback_permalink": "http://twitter.com/rede_globo/status/308600227894546433",
+                "trackback_author_url": "http://twitter.com/rede_globo",
+                "highlight": "#SemanaDaMulher: Xuxa, F\u00e1tima Bernardes e Ana Furtado d\u00e3o dicas de beleza para telespectadoras da #CAT! Veja:",
+                "topsy_author_url": "http://topsy.com/twitter/rede_globo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rede_globo/status/308600227894546433",
+                "trackback_author_name": "Globo",
+                "trackback_author_nick": "rede_globo"
+            },
+            {
+                "hits": 47,
+                "firstpost_date": 1374103143,
+                "title": "#cat #twins!! http://t.co/1sYSYXpxh1",
+                "url": "http://twitter.com/teganandsara/status/357640622968025088",
+                "trackback_date": 1374103143,
+                "trackback_total": 71,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1sYSYXpxh1",
+                        "display_url": "instagram.com/p/b4p8LbGFds/",
+                        "expanded_url": "http://instagram.com/p/b4p8LbGFds/",
+                        "topsy_expanded_url": "http://instagram.com/p/b4p8LbGFds/"
+                    }
+                ],
+                "target_birth_date": 1374103143,
+                "content": "#cat #twins!! http://t.co/1sYSYXpxh1",
+                "mytype": "tweet",
+                "score": 9.528686,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/438339281535262721/2qnVydfF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/teganandsara/status/357640622968025088",
+                "trackback_author_url": "http://twitter.com/teganandsara",
+                "highlight": "#cat #twins!!",
+                "topsy_author_url": "http://topsy.com/twitter/teganandsara",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/teganandsara/status/357640622968025088",
+                "trackback_author_name": "Tegan and Sara",
+                "trackback_author_nick": "teganandsara"
+            },
+            {
+                "hits": 25,
+                "firstpost_date": 1319673399,
+                "title": "Airline finds missing Jack the Cat at JFK Airport http://t.co/O3HhaBe8 #lp #travel #cat",
+                "url": "http://twitter.com/lonelyplanet/status/129345726844125184",
+                "trackback_date": 1319673399,
+                "trackback_total": 26,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/O3HhaBe8",
+                        "display_url": "ow.ly/7aa4y",
+                        "expanded_url": "http://ow.ly/7aa4y",
+                        "topsy_expanded_url": "http://www.latimes.com/travel/deals/la-trb-jack-cat-american-airlines-20111025,0,4413987.story"
+                    }
+                ],
+                "target_birth_date": 1319673399,
+                "content": "Airline finds missing Jack the Cat at JFK Airport http://t.co/O3HhaBe8 #lp #travel #cat",
+                "mytype": "tweet",
+                "score": 9.525679,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3623975823/701a6ec1ac1c53f98c386889214d6310_normal.png",
+                "trackback_permalink": "http://twitter.com/lonelyplanet/status/129345726844125184",
+                "trackback_author_url": "http://twitter.com/lonelyplanet",
+                "highlight": "Airline finds missing Jack the Cat at JFK Airport #lp #travel",
+                "topsy_author_url": "http://topsy.com/twitter/lonelyplanet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lonelyplanet/status/129345726844125184",
+                "trackback_author_name": "Lonely Planet",
+                "trackback_author_nick": "lonelyplanet"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1370123254,
+                "title": "I made Netty a #fort! #persian #cat #cute #kitten #home #love #animals http://t.co/u2bmHAagUP",
+                "url": "http://twitter.com/breeolson/status/340947757709787136",
+                "trackback_date": 1370123254,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/u2bmHAagUP",
+                        "display_url": "instagram.com/p/aCC2d5nrbm/",
+                        "expanded_url": "http://instagram.com/p/aCC2d5nrbm/",
+                        "topsy_expanded_url": "http://instagram.com/p/aCC2d5nrbm/"
+                    }
+                ],
+                "target_birth_date": 1370123254,
+                "content": "I made Netty a #fort! #persian #cat #cute #kitten #home #love #animals http://t.co/u2bmHAagUP",
+                "mytype": "tweet",
+                "score": 9.519422,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000130389073/2730cf9a92ddea2bebb248058957db7a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BreeOlson/status/340947757709787136",
+                "trackback_author_url": "http://twitter.com/breeolson",
+                "highlight": "I made Netty a #fort! #persian #cat #cute #kitten #home #love #animals",
+                "topsy_author_url": "http://topsy.com/twitter/breeolson",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/breeolson/status/340947757709787136",
+                "trackback_author_name": "Bree Olson",
+                "trackback_author_nick": "breeolson"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1294524185,
+                "title": "EM 3* Lugar ficou Outro FOFO o @DiHeartBeats Muito #Cat ele em ^_^ --n COMENTEM ~&gt; http://twitpic.com/3hknoh",
+                "url": "http://twitter.com/oficialcolirios/status/23862279296524288",
+                "trackback_date": 1294524185,
+                "trackback_total": 3,
+                "url_expansions": [],
+                "target_birth_date": 1294524185,
+                "content": "EM 3* Lugar ficou Outro FOFO o @DiHeartBeats Muito #Cat ele em ^_^ --n COMENTEM ~&gt; http://twitpic.com/3hknoh",
+                "mytype": "tweet",
+                "score": 9.511608,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458052672206028800/1YX0U7GW_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OficialColirios/status/23862279296524288",
+                "trackback_author_url": "http://twitter.com/thalesluzreal",
+                "highlight": "EM 3* Lugar ficou Outro FOFO o @DiHeartBeats Muito #Cat ele em ^_^ --n COMENTEM ~&gt;",
+                "topsy_author_url": "http://topsy.com/twitter/thalesluzreal",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/oficialcolirios/status/23862279296524288",
+                "trackback_author_name": "Thales Luz",
+                "trackback_author_nick": "thalesluzreal"
+            },
+            {
+                "hits": 31,
+                "firstpost_date": 1331649744,
+                "title": "NYAN NYAN NYAN &gt;:3!!!! http://t.co/t3Dr5qB3 #cat",
+                "url": "http://twitter.com/nyannyancat/status/179578159212142592",
+                "trackback_date": 1331649744,
+                "trackback_total": 41,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/t3Dr5qB3",
+                        "display_url": "i.imgur.com/WNKlp.gif",
+                        "expanded_url": "http://i.imgur.com/WNKlp.gif",
+                        "topsy_expanded_url": "http://i.imgur.com/WNKlp.gif"
+                    }
+                ],
+                "target_birth_date": 1331649744,
+                "content": "NYAN NYAN NYAN &gt;:3!!!! http://t.co/t3Dr5qB3 #cat",
+                "mytype": "tweet",
+                "score": 9.506565,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2370446440/6e2jwf7ztbr5t1yjq4c5_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/nyannyancat/status/179578159212142592",
+                "trackback_author_url": "http://twitter.com/nyannyancat",
+                "highlight": "NYAN NYAN NYAN &gt;:3!!!!",
+                "topsy_author_url": "http://topsy.com/twitter/nyannyancat",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nyannyancat/status/179578159212142592",
+                "trackback_author_name": "NYAN CAT",
+                "trackback_author_nick": "nyannyancat"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1400192709,
+                "title": "RT @peoplepets: Have you seen this video of a #cat giving its owner a hug? If not, you'll be glad you clicked: http://t.co/hbE1W0fv4j",
+                "url": "http://twitter.com/peoplemag/status/467068192092078080",
+                "trackback_date": 1400192709,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/hbE1W0fv4j",
+                        "display_url": "peoplem.ag/wQI6u",
+                        "expanded_url": "http://peoplem.ag/wQI6u",
+                        "topsy_expanded_url": "http://www.peoplepets.com/people/pets/article/0,,20816637,00.html"
+                    }
+                ],
+                "target_birth_date": 1400192709,
+                "content": "RT @peoplepets: Have you seen this video of a #cat giving its owner a hug? If not, you'll be glad you clicked: http://t.co/hbE1W0fv4j",
+                "mytype": "tweet",
+                "score": 9.505274,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000012691090/24b3c2ec438f9fbfc6188b5f3486ded4_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/peoplemag/status/467068192092078080",
+                "trackback_author_url": "http://twitter.com/peoplemag",
+                "highlight": "Have you seen this video of a #cat giving its owner a hug? If not, you'll be glad you clicked:",
+                "topsy_author_url": "http://topsy.com/twitter/peoplemag",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/peoplemag/status/467068192092078080",
+                "trackback_author_name": "People magazine",
+                "trackback_author_nick": "peoplemag"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1378598080,
+                "title": "Biggest WTF Cat Moment EVER #cat #kitty #wtf #funny #crazycat  https://t.co/eXxGSci0jW",
+                "url": "http://twitter.com/nikkibenz/status/376493752862638080",
+                "trackback_date": 1378598080,
+                "trackback_total": 20,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/eXxGSci0jW",
+                        "display_url": "vine.co/v/hMFO6mJep1Q",
+                        "expanded_url": "https://vine.co/v/hMFO6mJep1Q",
+                        "topsy_expanded_url": "https://vine.co/v/hMFO6mJep1Q"
+                    }
+                ],
+                "target_birth_date": 1378598080,
+                "content": "Biggest WTF Cat Moment EVER #cat #kitty #wtf #funny #crazycat  https://t.co/eXxGSci0jW",
+                "mytype": "tweet",
+                "score": 9.498963,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/466278089555599360/nnsWDR3x_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NikkiBenz/status/376493752862638080",
+                "trackback_author_url": "http://twitter.com/nikkibenz",
+                "highlight": "Biggest WTF Cat Moment EVER #cat #kitty #wtf #funny #crazycat",
+                "topsy_author_url": "http://topsy.com/twitter/nikkibenz",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nikkibenz/status/376493752862638080",
+                "trackback_author_name": "Nikki Benz",
+                "trackback_author_nick": "nikkibenz"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 90,
+        "hidden": 0,
+        "total": 8665530,
+        "page": 1
+    }
+}

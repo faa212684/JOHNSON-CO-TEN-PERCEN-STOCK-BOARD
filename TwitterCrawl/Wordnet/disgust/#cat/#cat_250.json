@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23cat&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=250",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#cat",
+            "window": "a",
+            "type": "tweet",
+            "offset": "250"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 15,
+                "firstpost_date": 1290639566,
+                "title": "That is one cute #cat rocking a wild tie RT @mittense: melting http://is.gd/hIUHJ",
+                "url": "http://twitter.com/christinacoffin/status/7569006529609728",
+                "trackback_date": 1290639566,
+                "trackback_total": 15,
+                "url_expansions": [],
+                "target_birth_date": 1290639566,
+                "content": "That is one cute #cat rocking a wild tie RT @mittense: melting http://is.gd/hIUHJ",
+                "mytype": "tweet",
+                "score": 9.272957,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1761378528/Photo_on_2010-05-23_at_13.16__2_normal.png",
+                "trackback_permalink": "http://twitter.com/ChristinaCoffin/status/7569006529609728",
+                "trackback_author_url": "http://twitter.com/christinacoffin",
+                "highlight": "That is one cute #cat rocking a wild tiemelting",
+                "topsy_author_url": "http://topsy.com/twitter/christinacoffin",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/christinacoffin/status/7569006529609728",
+                "trackback_author_name": "Christina Ann Coffin",
+                "trackback_author_nick": "christinacoffin"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1355168842,
+                "title": "RT if you agree:\u00a0\u00a0http://t.co/Cc6bTpfI\u00a0\u00a0Via @Someecards #cat #lol",
+                "url": "http://twitter.com/homedepot/status/278224409301512192",
+                "trackback_date": 1355168842,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Cc6bTpfI",
+                        "display_url": "twitpic.com/bkuswn",
+                        "expanded_url": "http://twitpic.com/bkuswn",
+                        "topsy_expanded_url": "http://twitpic.com/bkuswn"
+                    }
+                ],
+                "target_birth_date": 1355168842,
+                "content": "RT if you agree:\u00a0\u00a0http://t.co/Cc6bTpfI\u00a0\u00a0Via @Someecards #cat #lol",
+                "mytype": "tweet",
+                "score": 9.272607,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473456229155487744/9wiDuR1P_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/HomeDepot/status/278224409301512192",
+                "trackback_author_url": "http://twitter.com/homedepot",
+                "highlight": "RT if you agree: Via @Someecards #cat",
+                "topsy_author_url": "http://topsy.com/twitter/homedepot",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/homedepot/status/278224409301512192",
+                "trackback_author_name": "The Home Depot",
+                "trackback_author_nick": "homedepot"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1300158313,
+                "title": "Quero um super gato ! meninas, quem \u00e9 o mais #Cat? Vamos ca\u00e7ar um? RAWRRRRR",
+                "url": "http://twitter.com/yescolirios/status/47493527290122242",
+                "trackback_date": 1300158313,
+                "trackback_total": 18,
+                "url_expansions": [],
+                "target_birth_date": 1300158313,
+                "content": "Quero um super gato ! meninas, quem \u00e9 o mais #Cat? Vamos ca\u00e7ar um? RAWRRRRR",
+                "mytype": "tweet",
+                "score": 9.2722225,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1750271071/8_normal.jpg",
+                "trackback_permalink": "http://twitter.com/YesColirios/status/47493527290122242",
+                "trackback_author_url": "http://twitter.com/yescolirios",
+                "highlight": "Quero um super gato ! meninas, quem \u00e9 o mais #Cat? Vamos ca\u00e7ar um? RAWRRRRR",
+                "topsy_author_url": "http://topsy.com/twitter/yescolirios",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/yescolirios/status/47493527290122242",
+                "trackback_author_name": "Yes  Col\u00edrios",
+                "trackback_author_nick": "yescolirios"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1400191538,
+                "title": "Adorable cat wants to experience a whole new world. #DisneyCats #AwholeNewWorld #Cute #Cat  https://t.co/CO51Fe5U3T",
+                "url": "http://twitter.com/rtthebest/status/467063280524341248",
+                "trackback_date": 1400191538,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/CO51Fe5U3T",
+                        "display_url": "vine.co/v/MXAKJznZ9rq",
+                        "expanded_url": "https://vine.co/v/MXAKJznZ9rq",
+                        "topsy_expanded_url": "https://vine.co/v/MXAKJznZ9rq"
+                    }
+                ],
+                "target_birth_date": 1400191538,
+                "content": "Adorable cat wants to experience a whole new world. #DisneyCats #AwholeNewWorld #Cute #Cat  https://t.co/CO51Fe5U3T",
+                "mytype": "tweet",
+                "score": 9.2709675,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/610080886/images3_normal.jpg",
+                "trackback_permalink": "http://twitter.com/RTtheBEST/status/467063280524341248",
+                "trackback_author_url": "http://twitter.com/rtthebest",
+                "highlight": "Adorable cat wants to experience a whole new world. #DisneyCats #AwholeNewWorld #Cute #Cat",
+                "topsy_author_url": "http://topsy.com/twitter/rtthebest",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rtthebest/status/467063280524341248",
+                "trackback_author_name": "RTtheBEST",
+                "trackback_author_nick": "rtthebest"
+            },
+            {
+                "hits": 276,
+                "firstpost_date": 1366771269,
+                "title": "\u304e\u3085\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u3063 http://t.co/v6jl5ZvrZT #cat",
+                "url": "http://twitter.com/neco_pic/status/326888514484584448",
+                "trackback_date": 1366771269,
+                "trackback_total": 408,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/v6jl5ZvrZT",
+                        "display_url": "twitpic.com/adzrd9",
+                        "expanded_url": "http://twitpic.com/adzrd9",
+                        "topsy_expanded_url": "http://twitpic.com/adzrd9"
+                    }
+                ],
+                "target_birth_date": 1366771269,
+                "content": "\u304e\u3085\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u3063 http://t.co/v6jl5ZvrZT #cat",
+                "mytype": "tweet",
+                "score": 9.269291,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000381123578/aaa557c7eb7216b93186c2127c320e89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/neco_pic/status/326888514484584448",
+                "trackback_author_url": "http://twitter.com/neco_pic",
+                "highlight": "\u304e\u3085\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u3063",
+                "topsy_author_url": "http://topsy.com/twitter/neco_pic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/neco_pic/status/326888514484584448",
+                "trackback_author_name": "\u306d\u3053\u753b\u50cfbot",
+                "trackback_author_nick": "neco_pic"
+            },
+            {
+                "hits": 85,
+                "firstpost_date": 1367138473,
+                "title": "\u3048\uff1f\u3053\u308c\u3060\u3051\uff1f\u3042\u308a\u3048\u306a\u3044\u3093\u3060\u3051\u3069 http://t.co/Bju3FSu61R #cat",
+                "url": "http://twitter.com/neco_pic/status/328428680219074560",
+                "trackback_date": 1367138473,
+                "trackback_total": 120,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Bju3FSu61R",
+                        "display_url": "twitpic.com/aa0wvt",
+                        "expanded_url": "http://twitpic.com/aa0wvt",
+                        "topsy_expanded_url": "http://twitpic.com/aa0wvt"
+                    }
+                ],
+                "target_birth_date": 1367138473,
+                "content": "\u3048\uff1f\u3053\u308c\u3060\u3051\uff1f\u3042\u308a\u3048\u306a\u3044\u3093\u3060\u3051\u3069 http://t.co/Bju3FSu61R #cat",
+                "mytype": "tweet",
+                "score": 9.26865,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000381123578/aaa557c7eb7216b93186c2127c320e89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/neco_pic/status/328428680219074560",
+                "trackback_author_url": "http://twitter.com/neco_pic",
+                "highlight": "\u3048\uff1f\u3053\u308c\u3060\u3051\uff1f\u3042\u308a\u3048\u306a\u3044\u3093\u3060\u3051\u3069",
+                "topsy_author_url": "http://topsy.com/twitter/neco_pic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/neco_pic/status/328428680219074560",
+                "trackback_author_name": "\u306d\u3053\u753b\u50cfbot",
+                "trackback_author_nick": "neco_pic"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1353773457,
+                "title": "Good morning, Shorty ! #demon #cat http://t.co/udoWCliG",
+                "url": "http://twitter.com/prguitarman/status/272371731342192641",
+                "trackback_date": 1353773457,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/udoWCliG",
+                        "expanded_url": "http://twitter.com/PRguitarman/status/272371731342192641/photo/1",
+                        "display_url": "pic.twitter.com/udoWCliG"
+                    }
+                ],
+                "target_birth_date": 1353773457,
+                "content": "Good morning, Shorty ! #demon #cat http://t.co/udoWCliG",
+                "mytype": "tweet",
+                "score": 9.268332,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1765454003/strobedd1j1FATEST75_normal.gif",
+                "trackback_permalink": "http://twitter.com/PRguitarman/status/272371731342192641",
+                "trackback_author_url": "http://twitter.com/prguitarman",
+                "highlight": "Good morning, Shorty ! #demon #cat",
+                "topsy_author_url": "http://topsy.com/twitter/prguitarman",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/prguitarman/status/272371731342192641",
+                "trackback_author_name": "\u2606Chris\u2606",
+                "trackback_author_nick": "prguitarman"
+            },
+            {
+                "hits": 38,
+                "firstpost_date": 1307127265,
+                "title": "June is adopt a shelter #cat month! Find out how you can bring home a furry feline via the #ASPCA http://ow.ly/59Hh5",
+                "url": "http://twitter.com/aspca/status/76723430258511872",
+                "trackback_date": 1307127265,
+                "trackback_total": 43,
+                "url_expansions": [],
+                "target_birth_date": 1307127265,
+                "content": "June is adopt a shelter #cat month! Find out how you can bring home a furry feline via the #ASPCA http://ow.ly/59Hh5",
+                "mytype": "tweet",
+                "score": 9.267363,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1479082848/speech-bubble-2color-180x180_normal.png",
+                "trackback_permalink": "http://twitter.com/aspca/status/76723430258511872",
+                "trackback_author_url": "http://twitter.com/aspca",
+                "highlight": "June is adopt a shelter #cat month! Find out how you can bring home a furry feline via the #ASPCA",
+                "topsy_author_url": "http://topsy.com/twitter/aspca",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/aspca/status/76723430258511872",
+                "trackback_author_name": "ASPCA",
+                "trackback_author_nick": "aspca"
+            },
+            {
+                "hits": 47,
+                "firstpost_date": 1394559657,
+                "title": "Selfie w the internet's most radical popular lovable #cat @IAMLILBUB!! http://t.co/rI2LzUsde1",
+                "url": "http://twitter.com/chasejarvis/status/443441460877471745",
+                "trackback_date": 1394559657,
+                "trackback_total": 69,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/rI2LzUsde1",
+                        "display_url": "pic.twitter.com/rI2LzUsde1",
+                        "expanded_url": "http://twitter.com/chasejarvis/status/443441460877471745/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BidrqLfIEAA_kTN.jpg"
+                    }
+                ],
+                "target_birth_date": 1394559657,
+                "content": "Selfie w the internet's most radical popular lovable #cat @IAMLILBUB!! http://t.co/rI2LzUsde1",
+                "mytype": "tweet",
+                "score": 9.266785,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/655010300/13936_176406050977_58624920977_2940303_3081408_n_normal.jpg",
+                "trackback_permalink": "http://twitter.com/chasejarvis/status/443441460877471745",
+                "trackback_author_url": "http://twitter.com/chasejarvis",
+                "highlight": "Selfie w the internet's most radical popular lovable #cat @IAMLILBUB!!",
+                "topsy_author_url": "http://topsy.com/twitter/chasejarvis",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/chasejarvis/status/443441460877471745",
+                "trackback_author_name": "Chase Jarvis",
+                "trackback_author_nick": "chasejarvis"
+            },
+            {
+                "hits": 29,
+                "firstpost_date": 1326391979,
+                "title": "in my arms\u2026 #\u30b5\u30d0\u7f8e #cat http://t.co/cLY99En4",
+                "url": "http://twitter.com/miusakamoto/status/157525493984411648",
+                "trackback_date": 1326391979,
+                "trackback_total": 29,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cLY99En4",
+                        "display_url": "instagr.am/p/gg9Eu/",
+                        "expanded_url": "http://instagr.am/p/gg9Eu/",
+                        "topsy_expanded_url": "http://instagr.am/p/gg9Eu/"
+                    }
+                ],
+                "target_birth_date": 1326391979,
+                "content": "in my arms\u2026 #\u30b5\u30d0\u7f8e #cat http://t.co/cLY99En4",
+                "mytype": "tweet",
+                "score": 9.266087,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1645322449/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/miusakamoto/status/157525493984411648",
+                "trackback_author_url": "http://twitter.com/miusakamoto",
+                "highlight": "in my arms\u2026 #\u30b5\u30d0\u7f8e #cat",
+                "topsy_author_url": "http://topsy.com/twitter/miusakamoto",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/miusakamoto/status/157525493984411648",
+                "trackback_author_name": "\u30cd\u30b3\u5438\u3044\u3000\u5742\u672c\u7f8e\u96e8",
+                "trackback_author_nick": "miusakamoto"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 250,
+        "hidden": 0,
+        "total": 8629754,
+        "page": 1
+    }
+}

@@ -1,0 +1,289 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23cat&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=210",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#cat",
+            "window": "a",
+            "type": "tweet",
+            "offset": "210"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 9,
+                "firstpost_date": 1334896717,
+                "title": "#Meowing back at a #cat to show it who's #boss...",
+                "url": "http://twitter.com/82joseph/status/193196953604063233",
+                "trackback_date": 1334896717,
+                "trackback_total": 14,
+                "url_expansions": [],
+                "target_birth_date": 1334896717,
+                "content": "#Meowing back at a #cat to show it who's #boss...",
+                "mytype": "tweet",
+                "score": 9.310113,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/470770319331168256/NiVclxwL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/82JOSEPH/status/193196953604063233",
+                "trackback_author_url": "http://twitter.com/82joseph",
+                "highlight": "#Meowing back at a #cat to show it who's #boss",
+                "topsy_author_url": "http://topsy.com/twitter/82joseph",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/82joseph/status/193196953604063233",
+                "trackback_author_name": "Joseph",
+                "trackback_author_nick": "82joseph"
+            },
+            {
+                "hits": 358,
+                "firstpost_date": 1364006491,
+                "title": "PC\u30e2\u30cb\u30bf\u306e\u88cf\u304b\u3089\u306a\u306b\u3084\u3089\u304b\u308f\u3044\u3044\u3082\u306e\u304c\u98db\u3073\u51fa\u3057\u3066\u90aa\u9b54\u3092\u3059\u308b\u306e\u3067\u3059\u3002 http://t.co/fSTB6P97qY #cat",
+                "url": "http://twitter.com/neco_pic/status/315292194166685696",
+                "trackback_date": 1364006491,
+                "trackback_total": 491,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/fSTB6P97qY",
+                        "expanded_url": "http://twitter.com/funeko_/status/273045594455564289/photo/1",
+                        "display_url": "pic.twitter.com/fSTB6P97qY"
+                    }
+                ],
+                "target_birth_date": 1364006491,
+                "content": "PC\u30e2\u30cb\u30bf\u306e\u88cf\u304b\u3089\u306a\u306b\u3084\u3089\u304b\u308f\u3044\u3044\u3082\u306e\u304c\u98db\u3073\u51fa\u3057\u3066\u90aa\u9b54\u3092\u3059\u308b\u306e\u3067\u3059\u3002 http://t.co/fSTB6P97qY #cat",
+                "mytype": "tweet",
+                "score": 9.3091,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000381123578/aaa557c7eb7216b93186c2127c320e89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/neco_pic/status/315292194166685696",
+                "trackback_author_url": "http://twitter.com/neco_pic",
+                "highlight": "PC\u30e2\u30cb\u30bf\u306e\u88cf\u304b\u3089\u306a\u306b\u3084\u3089\u304b\u308f\u3044\u3044\u3082\u306e\u304c\u98db\u3073\u51fa\u3057\u3066\u90aa\u9b54\u3092\u3059\u308b\u306e\u3067\u3059\u3002",
+                "topsy_author_url": "http://topsy.com/twitter/neco_pic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/neco_pic/status/315292194166685696",
+                "trackback_author_name": "\u306d\u3053\u753b\u50cfbot",
+                "trackback_author_nick": "neco_pic"
+            },
+            {
+                "hits": 69,
+                "firstpost_date": 1389568567,
+                "title": "My kitty #cat has her own pony (kind of) http://t.co/rUEq6s0zaT",
+                "url": "http://twitter.com/marshacollier/status/422507310515507201",
+                "trackback_date": 1389568567,
+                "trackback_total": 101,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/rUEq6s0zaT",
+                        "display_url": "pic.twitter.com/rUEq6s0zaT",
+                        "expanded_url": "http://twitter.com/MarshaCollier/status/422507310515507201/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bd0MKQVIEAA3myW.jpg"
+                    }
+                ],
+                "target_birth_date": 1389568567,
+                "content": "My kitty #cat has her own pony (kind of) http://t.co/rUEq6s0zaT",
+                "mytype": "tweet",
+                "score": 9.3077,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000408075166/eb9c7a8b91a8c8ebba2903de3652004a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MarshaCollier/status/422507310515507201",
+                "trackback_author_url": "http://twitter.com/marshacollier",
+                "highlight": "My kitty #cat has her own pony (kind of)",
+                "topsy_author_url": "http://topsy.com/twitter/marshacollier",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/marshacollier/status/422507310515507201",
+                "trackback_author_name": "Marsha Collier",
+                "trackback_author_nick": "marshacollier"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1388957803,
+                "title": "She loves the water lol #cat #water #lol #winnie https://t.co/NPbAWY8qZ2",
+                "url": "http://twitter.com/ladysov/status/419945583261278208",
+                "trackback_date": 1388957803,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/NPbAWY8qZ2",
+                        "display_url": "vine.co/v/hYdnWB9uYu0",
+                        "expanded_url": "https://vine.co/v/hYdnWB9uYu0",
+                        "topsy_expanded_url": "https://vine.co/v/hYdnWB9uYu0"
+                    }
+                ],
+                "target_birth_date": 1388957803,
+                "content": "She loves the water lol #cat #water #lol #winnie https://t.co/NPbAWY8qZ2",
+                "mytype": "tweet",
+                "score": 9.306961,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/434776834543452160/JBW1x6Rq_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ladysov/status/419945583261278208",
+                "trackback_author_url": "http://twitter.com/ladysov",
+                "highlight": "She loves the water lol #cat #water #lol #winnie",
+                "topsy_author_url": "http://topsy.com/twitter/ladysov",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ladysov/status/419945583261278208",
+                "trackback_author_name": "Lady Sovereign",
+                "trackback_author_nick": "ladysov"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1374900916,
+                "title": "If you're a #jewelry lover and a #cat lover, you should prolly get this ring: http://t.co/qvjuLWDS4k",
+                "url": "http://twitter.com/stylewatchmag/status/360986725364932609",
+                "trackback_date": 1374900916,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/qvjuLWDS4k",
+                        "display_url": "ow.ly/nmQiR",
+                        "expanded_url": "http://ow.ly/nmQiR",
+                        "topsy_expanded_url": "http://yourturn.people.com/202386759/318371827?fb_ref=m318371827"
+                    }
+                ],
+                "target_birth_date": 1374900916,
+                "content": "If you're a #jewelry lover and a #cat lover, you should prolly get this ring: http://t.co/qvjuLWDS4k",
+                "mytype": "tweet",
+                "score": 9.305809,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464764103316082688/r62i6H4w_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/StyleWatchMag/status/360986725364932609",
+                "trackback_author_url": "http://twitter.com/stylewatchmag",
+                "highlight": "If you're a #jewelry lover and a #cat lover, you should prolly get this ring:",
+                "topsy_author_url": "http://topsy.com/twitter/stylewatchmag",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/stylewatchmag/status/360986725364932609",
+                "trackback_author_name": "People StyleWatch ",
+                "trackback_author_nick": "stylewatchmag"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1283269889,
+                "title": "Acess\u00f3rios em alta em @passioneoficial: saiba onde encontrar os itens das personagens mais pedidos na #CAT! http://migre.me/1brs3",
+                "url": "http://twitter.com/rede_globo/status/22627832929",
+                "trackback_date": 1283269889,
+                "trackback_total": 10,
+                "url_expansions": [],
+                "target_birth_date": 1283269889,
+                "content": "Acess\u00f3rios em alta em @passioneoficial: saiba onde encontrar os itens das personagens mais pedidos na #CAT! http://migre.me/1brs3",
+                "mytype": "tweet",
+                "score": 9.305509,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452975864670482432/1WDRp3jg_normal.png",
+                "trackback_permalink": "http://twitter.com/rede_globo/status/22627832929",
+                "trackback_author_url": "http://twitter.com/rede_globo",
+                "highlight": "Acess\u00f3rios em alta em @passioneoficial: saiba onde encontrar os itens das personagens mais pedidos na #CAT!",
+                "topsy_author_url": "http://topsy.com/twitter/rede_globo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rede_globo/status/22627832929",
+                "trackback_author_name": "Globo",
+                "trackback_author_nick": "rede_globo"
+            },
+            {
+                "hits": 607,
+                "firstpost_date": 1332931016,
+                "title": "\u6050\u6016\u6620\u50cf\u3000\u7b2c\uff12\u4f4d\u3000#cat #neko #\u732b http://t.co/PrHEnTx5 .",
+                "url": "http://twitter.com/fuji1223/status/184952202694098944",
+                "trackback_date": 1332931016,
+                "trackback_total": 842,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PrHEnTx5",
+                        "display_url": "twitpic.com/92d0g0",
+                        "expanded_url": "http://twitpic.com/92d0g0",
+                        "topsy_expanded_url": "http://twitpic.com/92d0g0"
+                    }
+                ],
+                "target_birth_date": 1332931016,
+                "content": "\u6050\u6016\u6620\u50cf\u3000\u7b2c\uff12\u4f4d\u3000#cat #neko #\u732b http://t.co/PrHEnTx5 .",
+                "mytype": "tweet",
+                "score": 9.3045225,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3098804002/a407c26c33f19c578c1193b25666bbeb_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/fuji1223/status/184952202694098944",
+                "trackback_author_url": "http://twitter.com/fuji1223",
+                "highlight": "\u6050\u6016\u6620\u50cf\u3000\u7b2c\uff12\u4f4d\u3000#cat #neko #\u732b .",
+                "topsy_author_url": "http://topsy.com/twitter/fuji1223",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/fuji1223/status/184952202694098944",
+                "trackback_author_name": "\u3075\u3058\u30fc",
+                "trackback_author_nick": "fuji1223"
+            },
+            {
+                "hits": 84,
+                "firstpost_date": 1376952099,
+                "title": "\u9aa8\u629c\u304d\u306b\u3055\u308c\u305f\u30cd\u30b3 http://t.co/1On3zIoXnx #cat",
+                "url": "http://twitter.com/neco_pic/status/369590007247273984",
+                "trackback_date": 1376952099,
+                "trackback_total": 113,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1On3zIoXnx",
+                        "display_url": "twitpic.com/ancyi3",
+                        "expanded_url": "http://twitpic.com/ancyi3",
+                        "topsy_expanded_url": "http://twitpic.com/ancyi3"
+                    }
+                ],
+                "target_birth_date": 1376952099,
+                "content": "\u9aa8\u629c\u304d\u306b\u3055\u308c\u305f\u30cd\u30b3 http://t.co/1On3zIoXnx #cat",
+                "mytype": "tweet",
+                "score": 9.303673,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000381123578/aaa557c7eb7216b93186c2127c320e89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/neco_pic/status/369590007247273984",
+                "trackback_author_url": "http://twitter.com/neco_pic",
+                "highlight": "\u9aa8\u629c\u304d\u306b\u3055\u308c\u305f\u30cd\u30b3",
+                "topsy_author_url": "http://topsy.com/twitter/neco_pic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/neco_pic/status/369590007247273984",
+                "trackback_author_name": "\u306d\u3053\u753b\u50cfbot",
+                "trackback_author_nick": "neco_pic"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1337976006,
+                "title": "Rolou na #CAT: os looks das mulheres de Cadinho fazem muito sucesso entre as telespectdoras. Veja! http://t.co/ULKk5Img",
+                "url": "http://twitter.com/rede_globo/status/206112427073482752",
+                "trackback_date": 1337976006,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ULKk5Img",
+                        "display_url": "glo.bo/K5S9u0",
+                        "expanded_url": "http://glo.bo/K5S9u0",
+                        "topsy_expanded_url": "http://redeglobo.globo.com/novidades/noticia/2012/05/rolou-na-cat-os-looks-das-mulheres-de-cadinho-que-sao-so-sucesso.html"
+                    }
+                ],
+                "target_birth_date": 1337976006,
+                "content": "Rolou na #CAT: os looks das mulheres de Cadinho fazem muito sucesso entre as telespectdoras. Veja! http://t.co/ULKk5Img",
+                "mytype": "tweet",
+                "score": 9.303482,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452975864670482432/1WDRp3jg_normal.png",
+                "trackback_permalink": "http://twitter.com/rede_globo/status/206112427073482752",
+                "trackback_author_url": "http://twitter.com/rede_globo",
+                "highlight": "Rolou na #CAT: os looks das mulheres de Cadinho fazem muito sucesso entre as telespectdoras. Veja!",
+                "topsy_author_url": "http://topsy.com/twitter/rede_globo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rede_globo/status/206112427073482752",
+                "trackback_author_name": "Globo",
+                "trackback_author_nick": "rede_globo"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1361230644,
+                "title": "@catsofinstagram must like #cheshire #cat #blink182 http://t.co/l4KB61o7",
+                "url": "http://twitter.com/blink182/status/303649448544833536",
+                "trackback_date": 1361230644,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/l4KB61o7",
+                        "display_url": "instagr.am/p/V5BlvQPXPr/",
+                        "expanded_url": "http://instagr.am/p/V5BlvQPXPr/",
+                        "topsy_expanded_url": "http://instagram.com/p/V5BlvQPXPr/"
+                    }
+                ],
+                "target_birth_date": 1361230644,
+                "content": "@catsofinstagram must like #cheshire #cat #blink182 http://t.co/l4KB61o7",
+                "mytype": "tweet",
+                "score": 9.302833,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000671236760/4042e7cffaacd415f68f2fff4c1972ef_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/blink182/status/303649448544833536",
+                "trackback_author_url": "http://twitter.com/blink182",
+                "highlight": " must like #cheshire #cat #blink182",
+                "topsy_author_url": "http://topsy.com/twitter/blink182",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/blink182/status/303649448544833536",
+                "trackback_author_name": "blink182",
+                "trackback_author_nick": "blink182"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 210,
+        "hidden": 0,
+        "total": 8653074,
+        "page": 1
+    }
+}

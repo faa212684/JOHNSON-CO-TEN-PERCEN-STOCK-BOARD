@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23chuck&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=470",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#chuck",
+            "window": "a",
+            "type": "tweet",
+            "offset": "470"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 13,
+                "firstpost_date": 1397781391,
+                "title": "Hey @joeldavidmoore, remember this epic episode?  #chuck #iwantmynerdhq #throwbackthursday http://t.co/x6wBIOCg2F",
+                "url": "http://twitter.com/thenerdmachine/status/456954392013729792",
+                "trackback_date": 1397781391,
+                "trackback_total": 19,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/x6wBIOCg2F",
+                        "display_url": "instagram.com/p/m6Uqb6oakp/",
+                        "expanded_url": "http://instagram.com/p/m6Uqb6oakp/",
+                        "topsy_expanded_url": "http://instagram.com/p/m6Uqb6oakp/"
+                    }
+                ],
+                "target_birth_date": 1397781391,
+                "content": "Hey @joeldavidmoore, remember this epic episode?  #chuck #iwantmynerdhq #throwbackthursday http://t.co/x6wBIOCg2F",
+                "mytype": "tweet",
+                "score": 9.336005,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462011709150879744/vEHQIT-X_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/thenerdmachine/status/456954392013729792",
+                "trackback_author_url": "http://twitter.com/thenerdmachine",
+                "highlight": "Hey @joeldavidmoore, remember this epic episode? #chuck #iwantmynerdhq #throwbackthursday",
+                "topsy_author_url": "http://topsy.com/twitter/thenerdmachine",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/thenerdmachine/status/456954392013729792",
+                "trackback_author_name": "The Nerd Machine",
+                "trackback_author_nick": "thenerdmachine"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1363282288,
+                "title": "Zachary Levi wants a #Chuck movie following the success of the Veronica Mars Kickstarter campaign: http://t.co/kfdntCF7k7",
+                "url": "http://twitter.com/digitalspy/status/312254664223649792",
+                "trackback_date": 1363282288,
+                "trackback_total": 13,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kfdntCF7k7",
+                        "display_url": "dspy.me/10M5uNZ",
+                        "expanded_url": "http://dspy.me/10M5uNZ",
+                        "topsy_expanded_url": "http://www.digitalspy.co.uk/ustv/news/a465565/zachary-levi-wants-chuck-movie-following-veronica-mars-kickstarter.html"
+                    }
+                ],
+                "target_birth_date": 1363282288,
+                "content": "Zachary Levi wants a #Chuck movie following the success of the Veronica Mars Kickstarter campaign: http://t.co/kfdntCF7k7",
+                "mytype": "tweet",
+                "score": 9.335583,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/444415871872561153/sqIE2a2j_normal.png",
+                "trackback_permalink": "http://twitter.com/digitalspy/status/312254664223649792",
+                "trackback_author_url": "http://twitter.com/digitalspy",
+                "highlight": "Zachary Levi wants a #Chuck movie following the success of the Veronica Mars Kickstarter campaign:",
+                "topsy_author_url": "http://topsy.com/twitter/digitalspy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/digitalspy/status/312254664223649792",
+                "trackback_author_name": "Digital Spy",
+                "trackback_author_nick": "digitalspy"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1291239531,
+                "title": "RT @TheLiveFeed: #Chuck is the most pirated TV show http://bit.ly/fCRaCw",
+                "url": "http://twitter.com/televisionary/status/10085441650823168",
+                "trackback_date": 1291239531,
+                "trackback_total": 20,
+                "url_expansions": [],
+                "target_birth_date": 1291239531,
+                "content": "RT @TheLiveFeed: #Chuck is the most pirated TV show http://bit.ly/fCRaCw",
+                "mytype": "tweet",
+                "score": 9.335182,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464949685593972736/FvJEZ8hS_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/televisionary/status/10085441650823168",
+                "trackback_author_url": "http://twitter.com/televisionary",
+                "highlight": "#Chuck is the most pirated TV show",
+                "topsy_author_url": "http://topsy.com/twitter/televisionary",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/televisionary/status/10085441650823168",
+                "trackback_author_name": "Jace Lacob",
+                "trackback_author_nick": "televisionary"
+            },
+            {
+                "hits": 31,
+                "firstpost_date": 1319669804,
+                "title": "For fans of @nbcchuck, we present #Chuck vs. awesomeness: 24 of the show's greatest moments http://t.co/7X4k2LKe",
+                "url": "http://twitter.com/zap2it/status/129330650774904834",
+                "trackback_date": 1319669804,
+                "trackback_total": 33,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7X4k2LKe",
+                        "display_url": "bit.ly/w04QqN",
+                        "expanded_url": "http://bit.ly/w04QqN",
+                        "topsy_expanded_url": "http://www.zap2it.com/news/pictures/zap-chuck-most-awesome-moments-pictures,0,4267354.photogallery"
+                    }
+                ],
+                "target_birth_date": 1319669804,
+                "content": "For fans of @nbcchuck, we present #Chuck vs. awesomeness: 24 of the show's greatest moments http://t.co/7X4k2LKe",
+                "mytype": "tweet",
+                "score": 9.334235,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/451683665685131264/Szpk77Qe_normal.png",
+                "trackback_permalink": "http://twitter.com/Zap2it/status/129330650774904834",
+                "trackback_author_url": "http://twitter.com/zap2it",
+                "highlight": "For fans of @nbcchuck, we present #Chuck vs. awesomeness: 24 of the show's greatest moments",
+                "topsy_author_url": "http://topsy.com/twitter/zap2it",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/zap2it/status/129330650774904834",
+                "trackback_author_name": "Zap2it",
+                "trackback_author_nick": "zap2it"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1314993872,
+                "title": "There seem to be a lot of vocal #Chuck and #Supernatural fans out there today! Your wait is almost over.",
+                "url": "http://twitter.com/warnerbrosent/status/109718369959280640",
+                "trackback_date": 1314993872,
+                "trackback_total": 10,
+                "url_expansions": [],
+                "target_birth_date": 1314993872,
+                "content": "There seem to be a lot of vocal #Chuck and #Supernatural fans out there today! Your wait is almost over.",
+                "mytype": "tweet",
+                "score": 9.333843,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2900029848/9f18050d0286a2477a9103650b803775_normal.png",
+                "trackback_permalink": "http://twitter.com/WarnerBrosEnt/status/109718369959280640",
+                "trackback_author_url": "http://twitter.com/warnerbrosent",
+                "highlight": "There seem to be a lot of vocal #Chuck and #Supernatural fans out there today! Your wait is almost over.",
+                "topsy_author_url": "http://topsy.com/twitter/warnerbrosent",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/warnerbrosent/status/109718369959280640",
+                "trackback_author_name": "Warner Bros.",
+                "trackback_author_nick": "warnerbrosent"
+            },
+            {
+                "hits": 33,
+                "firstpost_date": 1295881805,
+                "title": "Start off your #Chuck day with @TVLineNews exclusive interview with the lovely @Y_Strahovski: http://bit.ly/fjGZh8",
+                "url": "http://twitter.com/nbcchuck/status/29556549718384641",
+                "trackback_date": 1295881805,
+                "trackback_total": 35,
+                "url_expansions": [],
+                "target_birth_date": 1295881805,
+                "content": "Start off your #Chuck day with @TVLineNews exclusive interview with the lovely @Y_Strahovski: http://bit.ly/fjGZh8",
+                "mytype": "tweet",
+                "score": 9.333794,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1525627764/chuck_73x73_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nbcchuck/status/29556549718384641",
+                "trackback_author_url": "http://twitter.com/nbcchuck",
+                "highlight": "Start off your #Chuck day with @TVLineNews exclusive interview with the lovely @Y_Strahovski:",
+                "topsy_author_url": "http://topsy.com/twitter/nbcchuck",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbcchuck/status/29556549718384641",
+                "trackback_author_name": "CHUCK",
+                "trackback_author_nick": "nbcchuck"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1327011053,
+                "title": "The Awesomes spend some quality time with Morgan on tomorrow\u2019s #Chuck: http://t.co/YPNa1zk0 /via @hitfix",
+                "url": "http://twitter.com/nbcchuck/status/160122081193893888",
+                "trackback_date": 1327011053,
+                "trackback_total": 19,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/YPNa1zk0",
+                        "display_url": "bit.ly/At5qur",
+                        "expanded_url": "http://bit.ly/At5qur",
+                        "topsy_expanded_url": "http://www.hitfix.com/blogs/whats-alan-watching/posts/hitfix-first-look-on-chuck-morgan-helps-sarah-catch-a-bullet-train"
+                    }
+                ],
+                "target_birth_date": 1327011053,
+                "content": "The Awesomes spend some quality time with Morgan on tomorrow\u2019s #Chuck: http://t.co/YPNa1zk0 /via @hitfix",
+                "mytype": "tweet",
+                "score": 9.332973,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1525627764/chuck_73x73_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nbcchuck/status/160122081193893888",
+                "trackback_author_url": "http://twitter.com/nbcchuck",
+                "highlight": "The Awesomes spend some quality time with Morgan on tomorrow\u2019s #Chuck: /via @hitfix",
+                "topsy_author_url": "http://topsy.com/twitter/nbcchuck",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbcchuck/status/160122081193893888",
+                "trackback_author_name": "CHUCK",
+                "trackback_author_nick": "nbcchuck"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1319144437,
+                "title": "So who\u2019s dressing up as #Chuck for Halloween?",
+                "url": "http://twitter.com/nbcchuck/status/127127102867783681",
+                "trackback_date": 1319144437,
+                "trackback_total": 43,
+                "url_expansions": [],
+                "target_birth_date": 1319144437,
+                "content": "So who\u2019s dressing up as #Chuck for Halloween?",
+                "mytype": "tweet",
+                "score": 9.332634,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1525627764/chuck_73x73_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nbcchuck/status/127127102867783681",
+                "trackback_author_url": "http://twitter.com/nbcchuck",
+                "highlight": "So who\u2019s dressing up as #Chuck for Halloween?",
+                "topsy_author_url": "http://topsy.com/twitter/nbcchuck",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbcchuck/status/127127102867783681",
+                "trackback_author_name": "CHUCK",
+                "trackback_author_nick": "nbcchuck"
+            },
+            {
+                "hits": 23,
+                "firstpost_date": 1379952680,
+                "title": "#Tangled #CHUCK \ud83d\udc53Brilliance \ud83d\udc4d http://t.co/GBc042GpQt",
+                "url": "http://twitter.com/wendilynnmakeup/status/382175357912113152",
+                "trackback_date": 1379952680,
+                "trackback_total": 28,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/GBc042GpQt",
+                        "display_url": "pic.twitter.com/GBc042GpQt",
+                        "expanded_url": "http://twitter.com/wendilynnmakeup/status/382175357912113152/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BU3Cdo6CYAApU3H.jpg"
+                    }
+                ],
+                "target_birth_date": 1379952680,
+                "content": "#Tangled #CHUCK \ud83d\udc53Brilliance \ud83d\udc4d http://t.co/GBc042GpQt",
+                "mytype": "tweet",
+                "score": 9.331981,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463847466274529280/LPsd8Fwj_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/wendilynnmakeup/status/382175357912113152",
+                "trackback_author_url": "http://twitter.com/wendilynnmakeup",
+                "highlight": "#Tangled #CHUCK \ud83d\udc53Brilliance \ud83d\udc4d",
+                "topsy_author_url": "http://topsy.com/twitter/wendilynnmakeup",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wendilynnmakeup/status/382175357912113152",
+                "trackback_author_name": "wendilynnmakeup",
+                "trackback_author_nick": "wendilynnmakeup"
+            },
+            {
+                "hits": 30,
+                "firstpost_date": 1322688407,
+                "title": "#Chuck\u2019s very own @ZacharyLevi will be hosting @Spike_TV\u2019s Video Game Awards: http://t.co/fECNR41a",
+                "url": "http://twitter.com/nbcchuck/status/141991587755458561",
+                "trackback_date": 1322688407,
+                "trackback_total": 37,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/fECNR41a",
+                        "display_url": "bit.ly/u3BJfM",
+                        "expanded_url": "http://bit.ly/u3BJfM",
+                        "topsy_expanded_url": "http://www.hollywoodreporter.com/live-feed/chuck-zachary-levi-host-video-game-awards-267575"
+                    }
+                ],
+                "target_birth_date": 1322688407,
+                "content": "#Chuck\u2019s very own @ZacharyLevi will be hosting @Spike_TV\u2019s Video Game Awards: http://t.co/fECNR41a",
+                "mytype": "tweet",
+                "score": 9.33198,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1525627764/chuck_73x73_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nbcchuck/status/141991587755458561",
+                "trackback_author_url": "http://twitter.com/nbcchuck",
+                "highlight": "#Chuck\u2019s very own @ZacharyLevi will be hosting @Spike_TV\u2019s Video Game Awards:",
+                "topsy_author_url": "http://topsy.com/twitter/nbcchuck",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbcchuck/status/141991587755458561",
+                "trackback_author_name": "CHUCK",
+                "trackback_author_nick": "nbcchuck"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 470,
+        "hidden": 0,
+        "total": 1196519,
+        "page": 1
+    }
+}

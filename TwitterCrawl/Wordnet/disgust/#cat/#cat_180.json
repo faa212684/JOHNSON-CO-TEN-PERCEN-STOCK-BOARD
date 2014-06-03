@@ -1,0 +1,327 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23cat&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=180",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#cat",
+            "window": "a",
+            "type": "tweet",
+            "offset": "180"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 47,
+                "firstpost_date": 1357609266,
+                "title": "Flying #cat in action! Feline #photo by nekojimakeibu at Kumamoto, Japan http://t.co/C1JLcpM5",
+                "url": "http://twitter.com/flickr/status/288460288460738560",
+                "trackback_date": 1357609266,
+                "trackback_total": 56,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/C1JLcpM5",
+                        "display_url": "flickr.com/photos/nekojim\u2026",
+                        "expanded_url": "http://www.flickr.com/photos/nekojimakeibu/8321103079/",
+                        "topsy_expanded_url": "http://www.flickr.com/photos/nekojimakeibu/8321103079/"
+                    }
+                ],
+                "target_birth_date": 1357609266,
+                "content": "Flying #cat in action! Feline #photo by nekojimakeibu at Kumamoto, Japan http://t.co/C1JLcpM5",
+                "mytype": "tweet",
+                "score": 9.360585,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461955562125537280/Y4wgvYpP_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Flickr/status/288460288460738560",
+                "trackback_author_url": "http://twitter.com/flickr",
+                "highlight": "Flying #cat in action! Feline #photo by nekojimakeibu at Kumamoto, Japan",
+                "topsy_author_url": "http://topsy.com/twitter/flickr",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/flickr/status/288460288460738560",
+                "trackback_author_name": "Flickr",
+                "trackback_author_nick": "flickr"
+            },
+            {
+                "hits": 36,
+                "firstpost_date": 1398788190,
+                "title": "This is huge! All #cat and #dog lovers might now be able to travel on @Amtrak with their pets: http://t.co/LzvV9r7VSE http://t.co/N9HiOROhfF",
+                "url": "http://twitter.com/animalleague/status/461177213656641536",
+                "trackback_date": 1398788190,
+                "trackback_total": 45,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/LzvV9r7VSE",
+                        "display_url": "huffingtonpost.com/2014/04/28/amt\u2026",
+                        "expanded_url": "http://www.huffingtonpost.com/2014/04/28/amtrak-pets-trains_n_5226740.html",
+                        "topsy_expanded_url": "http://www.huffingtonpost.com/2014/04/28/amtrak-pets-trains_n_5226740.html"
+                    },
+                    {
+                        "url": "http://t.co/N9HiOROhfF",
+                        "display_url": "pic.twitter.com/N9HiOROhfF",
+                        "expanded_url": "http://twitter.com/AnimalLeague/status/461177213656641536/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BmZuO38CMAAdfXm.jpg"
+                    }
+                ],
+                "target_birth_date": 1398788190,
+                "content": "This is huge! All #cat and #dog lovers might now be able to travel on @Amtrak with their pets: http://t.co/LzvV9r7VSE http://t.co/N9HiOROhfF",
+                "mytype": "tweet",
+                "score": 9.356378,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1694998364/animalleaguetwitternew_normal.jpg",
+                "trackback_permalink": "http://twitter.com/AnimalLeague/status/461177213656641536",
+                "trackback_author_url": "http://twitter.com/animalleague",
+                "highlight": "This is huge! All #cat and #dog lovers might now be able to travel on @Amtrak with their pets:",
+                "topsy_author_url": "http://topsy.com/twitter/animalleague",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/animalleague/status/461177213656641536",
+                "trackback_author_name": "AnimalLeague",
+                "trackback_author_nick": "animalleague"
+            },
+            {
+                "hits": 352,
+                "firstpost_date": 1362241821,
+                "title": "epic cat! http://t.co/B7jSLZUeoT via http://t.co/2M1W8tB2gp #cat #searchlr #tumblr",
+                "url": "http://twitter.com/curioseoty/status/307890629361414144",
+                "trackback_date": 1362242300,
+                "trackback_total": 447,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/B7jSLZUeoT",
+                        "display_url": "pinterest.com/pin/2350316742\u2026",
+                        "expanded_url": "http://pinterest.com/pin/235031674275888925/",
+                        "topsy_expanded_url": "http://pinterest.com/pin/235031674275888925/"
+                    },
+                    {
+                        "url": "http://t.co/2M1W8tB2gp",
+                        "display_url": "searchlr.net",
+                        "expanded_url": "http://searchlr.net",
+                        "topsy_expanded_url": "http://searchlr.net/"
+                    }
+                ],
+                "target_birth_date": 1362241821,
+                "content": "RT @CurioSEOty: epic cat! http://t.co/B7jSLZUeoT via http://t.co/2M1W8tB2gp #cat #searchlr #tumblr",
+                "mytype": "tweet",
+                "score": 9.356225,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1170017104/twitterAvatarWithHat_normal.png",
+                "trackback_permalink": "http://twitter.com/favstar_pop/status/307892638399467520",
+                "trackback_author_url": "http://twitter.com/favstar_pop",
+                "highlight": "epic cat! via #cat #searchlr",
+                "topsy_author_url": "http://topsy.com/twitter/favstar_pop",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/curioseoty/status/307890629361414144",
+                "trackback_author_name": "Favstar Pop",
+                "trackback_author_nick": "favstar_pop"
+            },
+            {
+                "hits": 26,
+                "firstpost_date": 1334931300,
+                "title": "Convicted #cat hoarder is allowed to keep cats & acquire even MORE! #Speakup for animals & RT: http://t.co/dyu536uF",
+                "url": "http://twitter.com/peta/status/193342005328351234",
+                "trackback_date": 1334931300,
+                "trackback_total": 30,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/dyu536uF",
+                        "display_url": "bit.ly/HVWugD",
+                        "expanded_url": "http://bit.ly/HVWugD",
+                        "topsy_expanded_url": "https://secure.peta.org/site/Advocacy?cmd=display&id=3583&page=UserAction"
+                    }
+                ],
+                "target_birth_date": 1334931300,
+                "content": "Convicted #cat hoarder is allowed to keep cats & acquire even MORE! #Speakup for animals & RT: http://t.co/dyu536uF",
+                "mytype": "tweet",
+                "score": 9.350307,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462016017795780608/FdR6ESq7_normal.png",
+                "trackback_permalink": "http://twitter.com/peta/status/193342005328351234",
+                "trackback_author_url": "http://twitter.com/peta",
+                "highlight": "Convicted #cat hoarder is allowed to keep cats & acquire even MORE! #Speakup for animals & RT:",
+                "topsy_author_url": "http://topsy.com/twitter/peta",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/peta/status/193342005328351234",
+                "trackback_author_name": "PETA",
+                "trackback_author_nick": "peta"
+            },
+            {
+                "hits": 179,
+                "firstpost_date": 1391134006,
+                "title": "#cat #\u52d5\u7269\u306f\u3042\u306a\u305f\u306e\u3054\u306f\u3093\u3058\u3083\u306a\u3044 http://t.co/QXejCmib9E",
+                "url": "http://twitter.com/teru3_m/status/429073238950297600",
+                "trackback_date": 1391134006,
+                "trackback_total": 227,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/QXejCmib9E",
+                        "display_url": "pic.twitter.com/QXejCmib9E",
+                        "expanded_url": "http://twitter.com/TERU3_M/status/429073238950297600/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BfRf1maCQAAynlL.jpg"
+                    }
+                ],
+                "target_birth_date": 1391134006,
+                "content": "#cat #\u52d5\u7269\u306f\u3042\u306a\u305f\u306e\u3054\u306f\u3093\u3058\u3083\u306a\u3044 http://t.co/QXejCmib9E",
+                "mytype": "tweet",
+                "score": 9.347513,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/422972642107195392/3agEF2Nt_normal.png",
+                "trackback_permalink": "http://twitter.com/TERU3_M/status/429073238950297600",
+                "trackback_author_url": "http://twitter.com/teru3_m",
+                "highlight": "#cat #\u52d5\u7269\u306f\u3042\u306a\u305f\u306e\u3054\u306f\u3093\u3058\u3083\u306a\u3044",
+                "topsy_author_url": "http://topsy.com/twitter/teru3_m",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/teru3_m/status/429073238950297600",
+                "trackback_author_name": "TERU3",
+                "trackback_author_nick": "teru3_m"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1352243085,
+                "title": "RT if you love your pets! Get $10 off pet food at http://t.co/9fyvCwIE: http://t.co/DRM5gn4N #Dog #Cat http://t.co/VwCtnd58",
+                "url": "http://twitter.com/dealsplus/status/265952891091701761",
+                "trackback_date": 1352243085,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9fyvCwIE",
+                        "display_url": "Wag.com",
+                        "expanded_url": "http://Wag.com",
+                        "topsy_expanded_url": "http://www.wag.com/"
+                    },
+                    {
+                        "url": "http://t.co/DRM5gn4N",
+                        "display_url": "dealspl.us/coupons/wag_co\u2026",
+                        "expanded_url": "http://dealspl.us/coupons/wag_com/555141",
+                        "topsy_expanded_url": "http://dealspl.us/coupons/wag_com/555141"
+                    },
+                    {
+                        "url": "http://t.co/VwCtnd58",
+                        "expanded_url": "http://twitter.com/dealsplus/status/265952891091701761/photo/1",
+                        "display_url": "pic.twitter.com/VwCtnd58"
+                    }
+                ],
+                "target_birth_date": 1352243085,
+                "content": "RT if you love your pets! Get $10 off pet food at http://t.co/9fyvCwIE: http://t.co/DRM5gn4N #Dog #Cat http://t.co/VwCtnd58",
+                "mytype": "tweet",
+                "score": 9.347434,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3729516058/5779fcd95733539936488b76ac9f94a6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/dealsplus/status/265952891091701761",
+                "trackback_author_url": "http://twitter.com/dealsplus",
+                "highlight": "RT if you love your pets! Get $10 off pet food at #Dog #Cat",
+                "topsy_author_url": "http://topsy.com/twitter/dealsplus",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dealsplus/status/265952891091701761",
+                "trackback_author_name": "Dealsplus",
+                "trackback_author_nick": "dealsplus"
+            },
+            {
+                "hits": 71,
+                "firstpost_date": 1386883210,
+                "title": "Whatever... #cat #funny http://t.co/LNtJpSM3oE",
+                "url": "http://twitter.com/powerofcats/status/411244107697512448",
+                "trackback_date": 1386883210,
+                "trackback_total": 84,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/LNtJpSM3oE",
+                        "display_url": "pic.twitter.com/LNtJpSM3oE",
+                        "expanded_url": "http://twitter.com/powerofcats/status/411244107697512448/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BbUIVecIIAABvPg.jpg"
+                    }
+                ],
+                "target_birth_date": 1386883210,
+                "content": "Whatever... #cat #funny http://t.co/LNtJpSM3oE",
+                "mytype": "tweet",
+                "score": 9.345757,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2653414581/d6b014b644e8f4d5f41c063659157632_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/powerofcats/status/411244107697512448",
+                "trackback_author_url": "http://twitter.com/powerofcats",
+                "highlight": "Whatever... #cat #funny",
+                "topsy_author_url": "http://topsy.com/twitter/powerofcats",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/powerofcats/status/411244107697512448",
+                "trackback_author_name": "Cats rule the World!",
+                "trackback_author_nick": "powerofcats"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1334269543,
+                "title": "#Cat and the coffee  http://t.co/kuGXXTm8",
+                "url": "http://twitter.com/amandarosars/status/190566392058228736",
+                "trackback_date": 1334269543,
+                "trackback_total": 24,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kuGXXTm8",
+                        "display_url": "instagr.am/p/JVhO-QIMpM/",
+                        "expanded_url": "http://instagr.am/p/JVhO-QIMpM/",
+                        "topsy_expanded_url": "http://instagr.am/p/JVhO-QIMpM/"
+                    }
+                ],
+                "target_birth_date": 1334269543,
+                "content": "#Cat and the coffee  http://t.co/kuGXXTm8",
+                "mytype": "tweet",
+                "score": 9.343267,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/449780724120305664/zjDZee8G_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Amandarosars/status/190566392058228736",
+                "trackback_author_url": "http://twitter.com/amandarosars",
+                "highlight": "#Cat and the coffee",
+                "topsy_author_url": "http://topsy.com/twitter/amandarosars",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/amandarosars/status/190566392058228736",
+                "trackback_author_name": "Amanda Rosa",
+                "trackback_author_nick": "amandarosars"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1356366656,
+                "title": "Tem d\u00favidas sobre a programa\u00e7\u00e3o? Ou quer saber sobre os figurinos das novelas? Entre em contato com a #CAT: http://t.co/khjr6yls",
+                "url": "http://twitter.com/rede_globo/status/283248403155136513",
+                "trackback_date": 1356366656,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/khjr6yls",
+                        "display_url": "bit.ly/mzWpkF",
+                        "expanded_url": "http://bit.ly/mzWpkF",
+                        "topsy_expanded_url": "http://falecomaredeglobo.globo.com/"
+                    }
+                ],
+                "target_birth_date": 1356366656,
+                "content": "Tem d\u00favidas sobre a programa\u00e7\u00e3o? Ou quer saber sobre os figurinos das novelas? Entre em contato com a #CAT: http://t.co/khjr6yls",
+                "mytype": "tweet",
+                "score": 9.342845,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452975864670482432/1WDRp3jg_normal.png",
+                "trackback_permalink": "http://twitter.com/rede_globo/status/283248403155136513",
+                "trackback_author_url": "http://twitter.com/rede_globo",
+                "highlight": "Tem d\u00favidas sobre a programa\u00e7\u00e3o? Ou quer saber sobre os figurinos das novelas? Entre em contato com a #CAT:",
+                "topsy_author_url": "http://topsy.com/twitter/rede_globo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rede_globo/status/283248403155136513",
+                "trackback_author_name": "Globo",
+                "trackback_author_nick": "rede_globo"
+            },
+            {
+                "hits": 158,
+                "firstpost_date": 1379922098,
+                "title": "\u672c\u7269\u306e\u62db\u304d\u732b\u3060wwww http://t.co/YHw41Zgfv5 #cat",
+                "url": "http://twitter.com/neco_pic/status/382047086742482945",
+                "trackback_date": 1379922098,
+                "trackback_total": 199,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/YHw41Zgfv5",
+                        "display_url": "twitpic.com/am0glv",
+                        "expanded_url": "http://twitpic.com/am0glv",
+                        "topsy_expanded_url": "http://twitpic.com/am0glv"
+                    }
+                ],
+                "target_birth_date": 1379922098,
+                "content": "\u672c\u7269\u306e\u62db\u304d\u732b\u3060wwww http://t.co/YHw41Zgfv5 #cat",
+                "mytype": "tweet",
+                "score": 9.338016,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000381123578/aaa557c7eb7216b93186c2127c320e89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/neco_pic/status/382047086742482945",
+                "trackback_author_url": "http://twitter.com/neco_pic",
+                "highlight": "\u672c\u7269\u306e\u62db\u304d\u732b\u3060wwww",
+                "topsy_author_url": "http://topsy.com/twitter/neco_pic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/neco_pic/status/382047086742482945",
+                "trackback_author_name": "\u306d\u3053\u753b\u50cfbot",
+                "trackback_author_nick": "neco_pic"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 180,
+        "hidden": 0,
+        "total": 8654666,
+        "page": 1
+    }
+}

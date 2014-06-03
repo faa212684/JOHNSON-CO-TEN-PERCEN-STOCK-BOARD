@@ -1,0 +1,288 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23insurrection&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=60",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#insurrection",
+            "window": "a",
+            "type": "tweet",
+            "offset": "60"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 4,
+                "firstpost_date": 1315328202,
+                "title": "#insurrection",
+                "url": "http://twitter.com/molotovsolution/status/111120650730614784",
+                "trackback_date": 1315328202,
+                "trackback_total": 3,
+                "url_expansions": [],
+                "target_birth_date": 1315328202,
+                "content": "#insurrection",
+                "mytype": "tweet",
+                "score": 8.832842,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3351431522/4701a3818516b4d1bfd91319412e9905_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MolotovSolution/status/111120650730614784",
+                "trackback_author_url": "http://twitter.com/molotovsolution",
+                "highlight": "#insurrection",
+                "topsy_author_url": "http://topsy.com/twitter/molotovsolution",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/molotovsolution/status/111120650730614784",
+                "trackback_author_name": "Molotov Solution",
+                "trackback_author_nick": "molotovsolution"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1332076878,
+                "title": "#M\u00e9lenchon est arriv\u00e9 ; Laurent, Buffet, Autain, Billard \u00e0 ses cot\u00e9s #insurrection #Bastille http://t.co/U2D9vLU5",
+                "url": "http://twitter.com/bastienhugues/status/181369688666808320",
+                "trackback_date": 1332076878,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/U2D9vLU5",
+                        "expanded_url": "http://twitter.com/bastienhugues/status/181369688666808320/photo/1",
+                        "display_url": "pic.twitter.com/U2D9vLU5"
+                    }
+                ],
+                "target_birth_date": 1332076878,
+                "content": "#M\u00e9lenchon est arriv\u00e9 ; Laurent, Buffet, Autain, Billard \u00e0 ses cot\u00e9s #insurrection #Bastille http://t.co/U2D9vLU5",
+                "mytype": "tweet",
+                "score": 8.826945,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2823969838/a890304bccf2a72df5ae938cb897ce7b_normal.png",
+                "trackback_permalink": "http://twitter.com/bastienhugues/status/181369688666808320",
+                "trackback_author_url": "http://twitter.com/bastienhugues",
+                "highlight": "#M\u00e9lenchon est arriv\u00e9 ; Laurent, Buffet, Autain, Billard \u00e0 ses cot\u00e9s #insurrection #Bastille",
+                "topsy_author_url": "http://topsy.com/twitter/bastienhugues",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bastienhugues/status/181369688666808320",
+                "trackback_author_name": "Bastien Hugues",
+                "trackback_author_nick": "bastienhugues"
+            },
+            {
+                "hits": 70,
+                "firstpost_date": 1332955156,
+                "title": "RT pour expliquer \u00e0 @NicolasSarkozy comment fonctionnent les paradis fiscaux (vid\u00e9o) &gt; http://t.co/DOVqtYVA #Insurrection #placeaupeuple",
+                "url": "http://twitter.com/melenchon2012/status/185053454299967489",
+                "trackback_date": 1332955156,
+                "trackback_total": 76,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DOVqtYVA",
+                        "display_url": "dai.ly/GXjs5T",
+                        "expanded_url": "http://dai.ly/GXjs5T",
+                        "topsy_expanded_url": "http://www.dailymotion.com/video/xpqyiw_les-paradis-fiscaux-tranquille-les-riches_news"
+                    }
+                ],
+                "target_birth_date": 1332955156,
+                "content": "RT pour expliquer \u00e0 @NicolasSarkozy comment fonctionnent les paradis fiscaux (vid\u00e9o) &gt; http://t.co/DOVqtYVA #Insurrection #placeaupeuple",
+                "mytype": "tweet",
+                "score": 8.825185,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459040628731432960/bekjj4Z2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/melenchon2012/status/185053454299967489",
+                "trackback_author_url": "http://twitter.com/jlmelenchon",
+                "highlight": "RT pour expliquer \u00e0 @NicolasSarkozy comment fonctionnent les paradis fiscaux (vid\u00e9o) &gt; #Insurrection",
+                "topsy_author_url": "http://topsy.com/twitter/jlmelenchon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/melenchon2012/status/185053454299967489",
+                "trackback_author_name": "Jean-Luc M\u00e9lenchon",
+                "trackback_author_nick": "jlmelenchon"
+            },
+            {
+                "hits": 44,
+                "firstpost_date": 1332072162,
+                "title": "H-1 avant le d\u00e9part de la grande marche ;-) #Bastille #Insurrection http://t.co/Fqu91Hf6",
+                "url": "http://twitter.com/melenchon2012/status/181349907846799360",
+                "trackback_date": 1332072162,
+                "trackback_total": 51,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Fqu91Hf6",
+                        "expanded_url": "http://twitter.com/melenchon2012/status/181349907846799360/photo/1",
+                        "display_url": "pic.twitter.com/Fqu91Hf6"
+                    }
+                ],
+                "target_birth_date": 1332072162,
+                "content": "H-1 avant le d\u00e9part de la grande marche ;-) #Bastille #Insurrection http://t.co/Fqu91Hf6",
+                "mytype": "tweet",
+                "score": 8.823823,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459040628731432960/bekjj4Z2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/melenchon2012/status/181349907846799360",
+                "trackback_author_url": "http://twitter.com/jlmelenchon",
+                "highlight": "H-1 avant le d\u00e9part de la grande marche ;-) #Bastille #Insurrection",
+                "topsy_author_url": "http://topsy.com/twitter/jlmelenchon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/melenchon2012/status/181349907846799360",
+                "trackback_author_name": "Jean-Luc M\u00e9lenchon",
+                "trackback_author_nick": "jlmelenchon"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1332086368,
+                "title": "\"Nous voici de retour, peuple des r\u00e9volutions !\" http://t.co/5EIb56VK #insurrection #Bastille",
+                "url": "http://twitter.com/melenchon2012/status/181409495392591872",
+                "trackback_date": 1332086368,
+                "trackback_total": 19,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/5EIb56VK",
+                        "display_url": "dai.ly/xAsRaQ",
+                        "expanded_url": "http://dai.ly/xAsRaQ",
+                        "topsy_expanded_url": "http://www.dailymotion.com/video/xphk8g_direct-reprenons-la-bastille_news"
+                    }
+                ],
+                "target_birth_date": 1332086368,
+                "content": "\"Nous voici de retour, peuple des r\u00e9volutions !\" http://t.co/5EIb56VK #insurrection #Bastille",
+                "mytype": "tweet",
+                "score": 8.81851,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459040628731432960/bekjj4Z2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/melenchon2012/status/181409495392591872",
+                "trackback_author_url": "http://twitter.com/jlmelenchon",
+                "highlight": "\"Nous voici de retour, peuple des r\u00e9volutions !\" #insurrection",
+                "topsy_author_url": "http://topsy.com/twitter/jlmelenchon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/melenchon2012/status/181409495392591872",
+                "trackback_author_name": "Jean-Luc M\u00e9lenchon",
+                "trackback_author_nick": "jlmelenchon"
+            },
+            {
+                "hits": 39,
+                "firstpost_date": 1332069015,
+                "title": "Toujours pas de pluie. La m\u00e9t\u00e9o est avec nous ! Venez nombreux les amis ! #Bastille #Insurrection",
+                "url": "http://twitter.com/melenchon2012/status/181336710347632640",
+                "trackback_date": 1332069015,
+                "trackback_total": 48,
+                "url_expansions": [],
+                "target_birth_date": 1332069015,
+                "content": "Toujours pas de pluie. La m\u00e9t\u00e9o est avec nous ! Venez nombreux les amis ! #Bastille #Insurrection",
+                "mytype": "tweet",
+                "score": 8.816735,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459040628731432960/bekjj4Z2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/melenchon2012/status/181336710347632640",
+                "trackback_author_url": "http://twitter.com/jlmelenchon",
+                "highlight": "Toujours pas de pluie. La m\u00e9t\u00e9o est avec nous ! Venez nombreux les amis ! #Bastille",
+                "topsy_author_url": "http://topsy.com/twitter/jlmelenchon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/melenchon2012/status/181336710347632640",
+                "trackback_author_name": "Jean-Luc M\u00e9lenchon",
+                "trackback_author_nick": "jlmelenchon"
+            },
+            {
+                "hits": 72,
+                "firstpost_date": 1333203814,
+                "title": "RT si tu fais partie de la jeunesse qui r\u00e9siste plut\u00f4t que de celle qui se d\u00e9siste &gt; #NSjeunes / #Insurrection (http://t.co/WUo5VRmc)",
+                "url": "http://twitter.com/melenchon2012/status/186096403787952128",
+                "trackback_date": 1333203814,
+                "trackback_total": 82,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WUo5VRmc",
+                        "display_url": "bit.ly/H4UwNk",
+                        "expanded_url": "http://bit.ly/H4UwNk",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=hnaQD8a4a5E"
+                    }
+                ],
+                "target_birth_date": 1333203814,
+                "content": "RT si tu fais partie de la jeunesse qui r\u00e9siste plut\u00f4t que de celle qui se d\u00e9siste &gt; #NSjeunes / #Insurrection (http://t.co/WUo5VRmc)",
+                "mytype": "tweet",
+                "score": 8.809855,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459040628731432960/bekjj4Z2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/melenchon2012/status/186096403787952128",
+                "trackback_author_url": "http://twitter.com/jlmelenchon",
+                "highlight": "RT si tu fais partie de la jeunesse qui r\u00e9siste plut\u00f4t que de celle qui se d\u00e9siste &gt; #NSjeunes / #Insurrection (",
+                "topsy_author_url": "http://topsy.com/twitter/jlmelenchon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/melenchon2012/status/186096403787952128",
+                "trackback_author_name": "Jean-Luc M\u00e9lenchon",
+                "trackback_author_nick": "jlmelenchon"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1333044448,
+                "title": "\"M\u00e9lenchon agace le PS\" &gt; http://t.co/qsQUx8tj via @itele #Insurrection #placeaupeuple",
+                "url": "http://twitter.com/melenchon2012/status/185427973023866880",
+                "trackback_date": 1333044448,
+                "trackback_total": 27,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/qsQUx8tj",
+                        "display_url": "bit.ly/GVXX5k",
+                        "expanded_url": "http://bit.ly/GVXX5k",
+                        "topsy_expanded_url": "http://www.itele.fr/video/melenchon-agace-le-ps?theme=politique"
+                    }
+                ],
+                "target_birth_date": 1333044448,
+                "content": "\"M\u00e9lenchon agace le PS\" &gt; http://t.co/qsQUx8tj via @itele #Insurrection #placeaupeuple",
+                "mytype": "tweet",
+                "score": 8.805264,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459040628731432960/bekjj4Z2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/melenchon2012/status/185427973023866880",
+                "trackback_author_url": "http://twitter.com/jlmelenchon",
+                "highlight": "\"M\u00e9lenchon agace le PS\" &gt; via @itele #Insurrection",
+                "topsy_author_url": "http://topsy.com/twitter/jlmelenchon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/melenchon2012/status/185427973023866880",
+                "trackback_author_name": "Jean-Luc M\u00e9lenchon",
+                "trackback_author_nick": "jlmelenchon"
+            },
+            {
+                "hits": 27,
+                "firstpost_date": 1332086478,
+                "title": "\"Le temps des cerises revient citoyens !\" http://t.co/5EIb56VK #Bastille #Insurrection",
+                "url": "http://twitter.com/melenchon2012/status/181409956065574912",
+                "trackback_date": 1332086478,
+                "trackback_total": 30,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/5EIb56VK",
+                        "display_url": "dai.ly/xAsRaQ",
+                        "expanded_url": "http://dai.ly/xAsRaQ",
+                        "topsy_expanded_url": "http://www.dailymotion.com/video/xphk8g_direct-reprenons-la-bastille_news"
+                    }
+                ],
+                "target_birth_date": 1332086478,
+                "content": "\"Le temps des cerises revient citoyens !\" http://t.co/5EIb56VK #Bastille #Insurrection",
+                "mytype": "tweet",
+                "score": 8.803427,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459040628731432960/bekjj4Z2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/melenchon2012/status/181409956065574912",
+                "trackback_author_url": "http://twitter.com/jlmelenchon",
+                "highlight": "\"Le temps des cerises revient citoyens !\" #Bastille",
+                "topsy_author_url": "http://topsy.com/twitter/jlmelenchon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/melenchon2012/status/181409956065574912",
+                "trackback_author_name": "Jean-Luc M\u00e9lenchon",
+                "trackback_author_nick": "jlmelenchon"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1332074712,
+                "title": "Power to the people http://t.co/68P65n7w  #insurrection #bastille",
+                "url": "http://twitter.com/missundermoon/status/181360607231090688",
+                "trackback_date": 1332074712,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/68P65n7w",
+                        "display_url": "yfrog.com/mo941kfj",
+                        "expanded_url": "http://yfrog.com/mo941kfj",
+                        "topsy_expanded_url": "http://yfrog.com/mo941kfj"
+                    }
+                ],
+                "target_birth_date": 1332074712,
+                "content": "Power to the people http://t.co/68P65n7w  #insurrection #bastille",
+                "mytype": "tweet",
+                "score": 8.8033905,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2978142826/ff850477f73b6fd515f14ad8661d8900_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MissUnderMoon/status/181360607231090688",
+                "trackback_author_url": "http://twitter.com/missundermoon",
+                "highlight": "Power to the people #insurrection",
+                "topsy_author_url": "http://topsy.com/twitter/missundermoon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/missundermoon/status/181360607231090688",
+                "trackback_author_name": "Anne Stoessel",
+                "trackback_author_nick": "missundermoon"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 60,
+        "hidden": 0,
+        "total": 19597,
+        "page": 1
+    }
+}

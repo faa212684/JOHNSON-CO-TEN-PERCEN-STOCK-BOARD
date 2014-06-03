@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23insurrection&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=470",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#insurrection",
+            "window": "a",
+            "type": "tweet",
+            "offset": "470"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 5,
+                "firstpost_date": 1332160620,
+                "title": "La web s\u00e9rie relate notre prise de la #Bastille (1\u00e8re partie). Magnifique! http://t.co/dswxsQVi  #insurrection",
+                "url": "http://twitter.com/raquelgarridopg/status/181720929175478272",
+                "trackback_date": 1332160620,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/dswxsQVi",
+                        "display_url": "placeaupeuple2012.fr/ep-18-en-march\u2026",
+                        "expanded_url": "http://www.placeaupeuple2012.fr/ep-18-en-marche-pris-la-bastille-partie-1/",
+                        "topsy_expanded_url": "http://www.placeaupeuple2012.fr/ep-18-en-marche-pris-la-bastille-partie-1/"
+                    }
+                ],
+                "target_birth_date": 1332160620,
+                "content": "La web s\u00e9rie relate notre prise de la #Bastille (1\u00e8re partie). Magnifique! http://t.co/dswxsQVi  #insurrection",
+                "mytype": "tweet",
+                "score": 8.211255,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/432283396815863809/Clz__Ke-_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RaquelGarridoPG/status/181720929175478272",
+                "trackback_author_url": "http://twitter.com/raquelgarridopg",
+                "highlight": "La web s\u00e9rie relate notre prise de la #Bastille (1\u00e8re partie). Magnifique!",
+                "topsy_author_url": "http://topsy.com/twitter/raquelgarridopg",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/raquelgarridopg/status/181720929175478272",
+                "trackback_author_name": "Raquel Garrido",
+                "trackback_author_nick": "raquelgarridopg"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1319491948,
+                "title": "Go grab the new @MolotovSolution on iTunes today. New album #insurrection in stores tomorrow! Don't be a fag! #Loyal",
+                "url": "http://twitter.com/larrygfys/status/128584666352582656",
+                "trackback_date": 1319491948,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1319491948,
+                "content": "Go grab the new @MolotovSolution on iTunes today. New album #insurrection in stores tomorrow! Don't be a fag! #Loyal",
+                "mytype": "tweet",
+                "score": 8.209975,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/447099367724294145/wRsOLHV3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/larrygfys/status/128584666352582656",
+                "trackback_author_url": "http://twitter.com/larrygfys",
+                "highlight": "Go grab the new @MolotovSolution on iTunes today. New album #insurrection in stores tomorrow! Don't be a fag!",
+                "topsy_author_url": "http://topsy.com/twitter/larrygfys",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/larrygfys/status/128584666352582656",
+                "trackback_author_name": "Larry Reynolds",
+                "trackback_author_nick": "larrygfys"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1332083875,
+                "title": "RT \u201c@melenchon2012: Le peuple de retour chez lui ! #Bastille #Insurrection !!! http://t.co/uAEulEsI\u201d",
+                "url": "http://twitter.com/simonulrich51/status/181399036836843522",
+                "trackback_date": 1332083875,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/uAEulEsI",
+                        "display_url": "pic.twitter.com/uAEulEsI",
+                        "expanded_url": "http://twitter.com/melenchon2012/status/181398615753895936/photo/1",
+                        "topsy_expanded_url": "http://p.twimg.com/AoR1FHcCMAABtsl.jpg"
+                    }
+                ],
+                "target_birth_date": 1332083875,
+                "content": "RT \u201c@melenchon2012: Le peuple de retour chez lui ! #Bastille #Insurrection !!! http://t.co/uAEulEsI\u201d",
+                "mytype": "tweet",
+                "score": 8.209901,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2126237742/P1000697_normal.jpg",
+                "trackback_permalink": "http://twitter.com/simonulrich51/status/181399036836843522",
+                "trackback_author_url": "http://twitter.com/simonulrich51",
+                "highlight": "RT \u201c@melenchon2012: Le peuple de retour chez lui ! #Bastille #Insurrection !!!",
+                "topsy_author_url": "http://topsy.com/twitter/simonulrich51",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/simonulrich51/status/181399036836843522",
+                "trackback_author_name": "S.U",
+                "trackback_author_nick": "simonulrich51"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1307761159,
+                "title": "Washington Post: #Libya #rebels stage #insurrection in #Zlitan http://t.co/UN3HdNq #War",
+                "url": "http://twitter.com/epaulnet/status/79382173899161602",
+                "trackback_date": 1307761159,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/UN3HdNq",
+                        "display_url": "washingtonpost.com/world/middle-e\u2026",
+                        "expanded_url": "http://www.washingtonpost.com/world/middle-east/libyan-rebels-stage-insurrection-in-zlitan/2011/06/10/AGpi44OH_story.html#NATO",
+                        "topsy_expanded_url": "http://www.washingtonpost.com/world/middle-east/libyan-rebels-stage-insurrection-in-zlitan/2011/06/10/AGpi44OH_story.html#NATO"
+                    }
+                ],
+                "target_birth_date": 1307761159,
+                "content": "Washington Post: #Libya #rebels stage #insurrection in #Zlitan http://t.co/UN3HdNq #War",
+                "mytype": "tweet",
+                "score": 8.208682,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/447104788400857088/O5rmkEEt_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/epaulnet/status/79382173899161602",
+                "trackback_author_url": "http://twitter.com/epaulnet",
+                "highlight": "Washington Post: #Libya #rebels stage #insurrection in #Zlitan",
+                "topsy_author_url": "http://topsy.com/twitter/epaulnet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/epaulnet/status/79382173899161602",
+                "trackback_author_name": "Paul Erickson",
+                "trackback_author_nick": "epaulnet"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1303822694,
+                "title": "http://www.pulist.net/the-star-trek-encyclopedia-1303822687.html #star #trek #insurrection #star The Star Trek Encyclopedia",
+                "url": "http://twitter.com/puwisdom/status/62863052642598912",
+                "trackback_date": 1303822694,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1303822694,
+                "content": "http://www.pulist.net/the-star-trek-encyclopedia-1303822687.html #star #trek #insurrection #star The Star Trek Encyclopedia",
+                "mytype": "tweet",
+                "score": 8.208502,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1206587301/pb_normal_normal.gif",
+                "trackback_permalink": "http://twitter.com/puwisdom/status/62863052642598912",
+                "trackback_author_url": "http://twitter.com/puwisdom",
+                "highlight": " #star #trek #insurrection #star The Star Trek Encyclopedia",
+                "topsy_author_url": "http://topsy.com/twitter/puwisdom",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/puwisdom/status/62863052642598912",
+                "trackback_author_name": "James chain",
+                "trackback_author_nick": "puwisdom"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1332543024,
+                "title": "Jean-Luc M\u00e9lenchon peut-il se qualifier pour le second tour? (sondage en ligne)  http://t.co/s9DIimPi #Insurrection OUI 79%  4560 votants",
+                "url": "http://twitter.com/linsurge_/status/183324846581747712",
+                "trackback_date": 1332543024,
+                "trackback_total": 20,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/s9DIimPi",
+                        "display_url": "bit.ly/GMhGWr",
+                        "expanded_url": "http://bit.ly/GMhGWr",
+                        "topsy_expanded_url": "http://www.rmctalk.fr/fr/dossiers-en-images/230/08101/melenchon-passe-devant-le-pen.html"
+                    }
+                ],
+                "target_birth_date": 1332543024,
+                "content": "Jean-Luc M\u00e9lenchon peut-il se qualifier pour le second tour? (sondage en ligne)  http://t.co/s9DIimPi #Insurrection OUI 79%  4560 votants",
+                "mytype": "tweet",
+                "score": 8.208049,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000206859822/92d880434ccc85b755eed88b957dc1d0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/linsurge_/status/183324846581747712",
+                "trackback_author_url": "http://twitter.com/linsurge_",
+                "highlight": "Jean-Luc M\u00e9lenchon peut-il se qualifier pour le second tour? (sondage en ligne) #Insurrection OUI 79% 4560 votants",
+                "topsy_author_url": "http://topsy.com/twitter/linsurge_",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/linsurge_/status/183324846581747712",
+                "trackback_author_name": "L'insurg\u00e9",
+                "trackback_author_nick": "linsurge_"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1313412307,
+                "title": "NOW LEBANON: #Khamenei won't support #Assad to the end http://t.co/3ei3myh #Iran #Syria #Repression #MassMurder #Insurrection #SyriaBleeds",
+                "url": "http://twitter.com/epaulnet/status/103084804135845888",
+                "trackback_date": 1313412307,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3ei3myh",
+                        "display_url": "nowlebanon.com/NewsArticleDet\u2026",
+                        "expanded_url": "http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=300954&MID=0&PID=0",
+                        "topsy_expanded_url": "http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=300954&MID=0&PID=0"
+                    }
+                ],
+                "target_birth_date": 1313412307,
+                "content": "NOW LEBANON: #Khamenei won't support #Assad to the end http://t.co/3ei3myh #Iran #Syria #Repression #MassMurder #Insurrection #SyriaBleeds",
+                "mytype": "tweet",
+                "score": 8.208045,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/447104788400857088/O5rmkEEt_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/epaulnet/status/103084804135845888",
+                "trackback_author_url": "http://twitter.com/epaulnet",
+                "highlight": "NOW LEBANON: #Khamenei won't support #Assad to the end #Iran #Syria #Repression #MassMurder #Insurrection",
+                "topsy_author_url": "http://topsy.com/twitter/epaulnet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/epaulnet/status/103084804135845888",
+                "trackback_author_name": "Paul Erickson",
+                "trackback_author_nick": "epaulnet"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1321545963,
+                "title": "it's happening #patriots. have ur cabinets stocked, ur water &gas tanks full, ur guns loaded & ur Bibles close by. #tcot #tlot #insurrection",
+                "url": "http://twitter.com/jessicachasmar/status/137199830714945536",
+                "trackback_date": 1321545963,
+                "trackback_total": 6,
+                "url_expansions": [],
+                "target_birth_date": 1321545963,
+                "content": "it's happening #patriots. have ur cabinets stocked, ur water &gas tanks full, ur guns loaded & ur Bibles close by. #tcot #tlot #insurrection",
+                "mytype": "tweet",
+                "score": 8.207552,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000776589062/b1231023e726dba82e013dbc442d5db3_normal.png",
+                "trackback_permalink": "http://twitter.com/JessicaChasmar/status/137199830714945536",
+                "trackback_author_url": "http://twitter.com/jessicachasmar",
+                "highlight": "it's happening #patriots. have ur cabinets stocked, ur water &gas tanks full, ur guns loaded & ur Bibles close by. #tcot #tlot",
+                "topsy_author_url": "http://topsy.com/twitter/jessicachasmar",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jessicachasmar/status/137199830714945536",
+                "trackback_author_name": "Jessica Chasmar",
+                "trackback_author_nick": "jessicachasmar"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1332084220,
+                "title": "C'est la LUTTE FINALE http://t.co/NF3X8lL0 #insurrection #bastille",
+                "url": "http://twitter.com/missundermoon/status/181400485025161216",
+                "trackback_date": 1332084220,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/NF3X8lL0",
+                        "display_url": "yfrog.com/h3ecpagj",
+                        "expanded_url": "http://yfrog.com/h3ecpagj",
+                        "topsy_expanded_url": "http://yfrog.com/h3ecpagj"
+                    }
+                ],
+                "target_birth_date": 1332084220,
+                "content": "C'est la LUTTE FINALE http://t.co/NF3X8lL0 #insurrection #bastille",
+                "mytype": "tweet",
+                "score": 8.205216,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2978142826/ff850477f73b6fd515f14ad8661d8900_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MissUnderMoon/status/181400485025161216",
+                "trackback_author_url": "http://twitter.com/missundermoon",
+                "highlight": "C'est la LUTTE FINALE #insurrection",
+                "topsy_author_url": "http://topsy.com/twitter/missundermoon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/missundermoon/status/181400485025161216",
+                "trackback_author_name": "Anne Stoessel",
+                "trackback_author_nick": "missundermoon"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1322571051,
+                "title": "\u201c@mchronic: #BestAlbumOf2011.  HANDS DOWN! @MolotovSolution #insurrection, you outdid yourselves guys!!\u201d\n\nThank you! We always try!",
+                "url": "http://twitter.com/molotovsolution/status/141499362009300992",
+                "trackback_date": 1322571051,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1322571051,
+                "content": "\u201c@mchronic: #BestAlbumOf2011.  HANDS DOWN! @MolotovSolution #insurrection, you outdid yourselves guys!!\u201d\n\nThank you! We always try!",
+                "mytype": "tweet",
+                "score": 8.20461,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3351431522/4701a3818516b4d1bfd91319412e9905_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MolotovSolution/status/141499362009300992",
+                "trackback_author_url": "http://twitter.com/molotovsolution",
+                "highlight": "\u201c@mchronic: #BestAlbumOf2011. HANDS DOWN! @MolotovSolution #insurrection, you outdid yourselves guys!!\u201d Thank you! We always try!",
+                "topsy_author_url": "http://topsy.com/twitter/molotovsolution",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/molotovsolution/status/141499362009300992",
+                "trackback_author_name": "Molotov Solution",
+                "trackback_author_nick": "molotovsolution"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 470,
+        "hidden": 0,
+        "total": 19497,
+        "page": 1
+    }
+}

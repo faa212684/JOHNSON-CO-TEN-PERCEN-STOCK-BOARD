@@ -1,0 +1,280 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23purge&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=150",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#purge",
+            "window": "a",
+            "type": "tweet",
+            "offset": "150"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1376317305,
+                "title": "Rick #Scott Is Back With a New #Scheme To #Purge the #Vote In Florida http://t.co/my38LKGAH2",
+                "url": "http://twitter.com/wcgirl1/status/366927490150694912",
+                "trackback_date": 1376317305,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/my38LKGAH2",
+                        "display_url": "politicususa.com/2013/08/11/ric\u2026",
+                        "expanded_url": "http://www.politicususa.com/2013/08/11/rick-scotts-purge-vote-encore.html",
+                        "topsy_expanded_url": "http://www.politicususa.com/2013/08/11/rick-scotts-purge-vote-encore.html"
+                    }
+                ],
+                "target_birth_date": 1376317305,
+                "content": "Rick #Scott Is Back With a New #Scheme To #Purge the #Vote In Florida http://t.co/my38LKGAH2",
+                "mytype": "tweet",
+                "score": 8.561483,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1332324671/LMJ_pic_normal.jpg",
+                "trackback_permalink": "http://twitter.com/wcgirl1/status/366927490150694912",
+                "trackback_author_url": "http://twitter.com/wcgirl1",
+                "highlight": "Rick #Scott Is Back With a New #Scheme To #Purge the #Vote In Florida",
+                "topsy_author_url": "http://topsy.com/twitter/wcgirl1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wcgirl1/status/366927490150694912",
+                "trackback_author_name": "L G J",
+                "trackback_author_nick": "wcgirl1"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1398360802,
+                "title": "If you liked @_olivver's #purge, play his game (of thrones) and get it to 6k views bc a free DL is coming #nowyouknow http://t.co/Af3mA3fnCo",
+                "url": "http://twitter.com/mostlyjunkfood/status/459384619620913154",
+                "trackback_date": 1398360802,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Af3mA3fnCo",
+                        "display_url": "youtu.be/0iOaHbkIWoM",
+                        "expanded_url": "http://youtu.be/0iOaHbkIWoM",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=0iOaHbkIWoM&feature=youtu.be"
+                    }
+                ],
+                "target_birth_date": 1398360802,
+                "content": "If you liked @_olivver's #purge, play his game (of thrones) and get it to 6k views bc a free DL is coming #nowyouknow http://t.co/Af3mA3fnCo",
+                "mytype": "tweet",
+                "score": 8.561294,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1353890540/mjf_logo_gvb_style_normal.png",
+                "trackback_permalink": "http://twitter.com/mostlyjunkfood/status/459384619620913154",
+                "trackback_author_url": "http://twitter.com/mostlyjunkfood",
+                "highlight": "If you liked @_olivver's #purge, play his game (of thrones) and get it to 6k views bc a free DL is coming #nowyouknow",
+                "topsy_author_url": "http://topsy.com/twitter/mostlyjunkfood",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mostlyjunkfood/status/459384619620913154",
+                "trackback_author_name": "mostlyjunkfood",
+                "trackback_author_nick": "mostlyjunkfood"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1355349757,
+                "title": "Conservatives in House ranks showing growing disapproval of Boehner re: #Purge... http://t.co/GBSuIsuJ",
+                "url": "http://twitter.com/mboyle1/status/278983221394415618",
+                "trackback_date": 1355349757,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/GBSuIsuJ",
+                        "display_url": "bit.ly/VX8Uii",
+                        "expanded_url": "http://bit.ly/VX8Uii",
+                        "topsy_expanded_url": "http://www.breitbart.com/Big-Government/2012/12/12/Conservative-disapproval-of-Boehner-purge-grows-in-House-ranks"
+                    }
+                ],
+                "target_birth_date": 1355349757,
+                "content": "Conservatives in House ranks showing growing disapproval of Boehner re: #Purge... http://t.co/GBSuIsuJ",
+                "mytype": "tweet",
+                "score": 8.559735,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000383285173/b4932ecffac290933a0e1f0c7cf49f3b_normal.png",
+                "trackback_permalink": "http://twitter.com/mboyle1/status/278983221394415618",
+                "trackback_author_url": "http://twitter.com/mboyle1",
+                "highlight": "Conservatives in House ranks showing growing disapproval of Boehner re: #Purge",
+                "topsy_author_url": "http://topsy.com/twitter/mboyle1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mboyle1/status/278983221394415618",
+                "trackback_author_name": "Matthew Boyle",
+                "trackback_author_nick": "mboyle1"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1394213090,
+                "title": "The Act of Killing http://t.co/O3YbkTVFRk #Indonesia #vdo #genocide #purge #humanrights",
+                "url": "http://twitter.com/bedlamfury/status/441987854713896960",
+                "trackback_date": 1394213090,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/O3YbkTVFRk",
+                        "display_url": "shar.es/RWJd3",
+                        "expanded_url": "http://shar.es/RWJd3",
+                        "topsy_expanded_url": "http://akrockefeller.com/media/the-act-of-killing/"
+                    }
+                ],
+                "target_birth_date": 1394213090,
+                "content": "The Act of Killing http://t.co/O3YbkTVFRk #Indonesia #vdo #genocide #purge #humanrights",
+                "mytype": "tweet",
+                "score": 8.559257,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000376100975/c525175969adf803a260ee838561b340_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/bedlamfury/status/441987854713896960",
+                "trackback_author_url": "http://twitter.com/bedlamfury",
+                "highlight": "The Act of Killing #Indonesia #vdo #genocide #purge",
+                "topsy_author_url": "http://topsy.com/twitter/bedlamfury",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bedlamfury/status/441987854713896960",
+                "trackback_author_name": "Zashnain Zainal",
+                "trackback_author_nick": "bedlamfury"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1281132831,
+                "title": "Buffalo Exchange in the Willy B. ain't ready to see me tomorrow. #purge",
+                "url": "http://twitter.com/russbengtson/status/20502510316",
+                "trackback_date": 1281132831,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1281132831,
+                "content": "Buffalo Exchange in the Willy B. ain't ready to see me tomorrow. #purge",
+                "mytype": "tweet",
+                "score": 8.556929,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3311332114/806ecce57de01fabf05d5f9ebaf406a7_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/russbengtson/status/20502510316",
+                "trackback_author_url": "http://twitter.com/russbengtson",
+                "highlight": "Buffalo Exchange in the Willy B. ain't ready to see me tomorrow.",
+                "topsy_author_url": "http://topsy.com/twitter/russbengtson",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/russbengtson/status/20502510316",
+                "trackback_author_name": "Russ Bengtson",
+                "trackback_author_nick": "russbengtson"
+            },
+            {
+                "hits": 54,
+                "firstpost_date": 1398367207,
+                "title": "Watch my new video &amp; hear my new song #Purge right here:\n\nhttps://t.co/rPYYeFPneY\n\nHelp me get to 6K so I can post the audio for free DL! &lt;3",
+                "url": "http://twitter.com/_olivver/status/459411482027913216",
+                "trackback_date": 1398367207,
+                "trackback_total": 73,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/rPYYeFPneY",
+                        "display_url": "youtube.com/watch?v=0iOaHb\u2026",
+                        "expanded_url": "https://www.youtube.com/watch?v=0iOaHbkIWoM",
+                        "topsy_expanded_url": "https://www.youtube.com/watch?v=0iOaHbkIWoM"
+                    }
+                ],
+                "target_birth_date": 1398367207,
+                "content": "Watch my new video &amp; hear my new song #Purge right here:\n\nhttps://t.co/rPYYeFPneY\n\nHelp me get to 6K so I can post the audio for free DL! &lt;3",
+                "mytype": "tweet",
+                "score": 8.553896,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458863729375858688/EVZwj0zF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/_olivver/status/459411482027913216",
+                "trackback_author_url": "http://twitter.com/_olivver",
+                "highlight": "Watch my new video &amp; hear my new song #Purge right here: Help me get to 6K so I can post the audio for free DL! &lt;3",
+                "topsy_author_url": "http://topsy.com/twitter/_olivver",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/_olivver/status/459411482027913216",
+                "trackback_author_name": "\u00d8V",
+                "trackback_author_nick": "_olivver"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1386545233,
+                "title": "Kim Jong Un led emergency party meeting Sunday; Jang fired from all posts, expelled from party #nkorea #purge",
+                "url": "http://twitter.com/newsjean/status/409826530731098112",
+                "trackback_date": 1386545233,
+                "trackback_total": 10,
+                "url_expansions": [],
+                "target_birth_date": 1386545233,
+                "content": "Kim Jong Un led emergency party meeting Sunday; Jang fired from all posts, expelled from party #nkorea #purge",
+                "mytype": "tweet",
+                "score": 8.55076,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000518006964/bf3817c0d9faec0bdbff4df596230ab4_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/newsjean/status/409826530731098112",
+                "trackback_author_url": "http://twitter.com/newsjean",
+                "highlight": "Kim Jong Un led emergency party meeting Sunday; Jang fired from all posts, expelled from party #nkorea",
+                "topsy_author_url": "http://topsy.com/twitter/newsjean",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/newsjean/status/409826530731098112",
+                "trackback_author_name": "Jean H. Lee",
+                "trackback_author_nick": "newsjean"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1360213863,
+                "title": "RT \u200f@aLLaBoUtbRiTaNy Senior Obama administration official now openly citing Karl Marx    http://t.co/dVF4RmLe \u2026 http://t.co/60WfabJW #Purge",
+                "url": "http://twitter.com/umie76/status/299384758515929088",
+                "trackback_date": 1360213863,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/dVF4RmLe",
+                        "expanded_url": "http://ncrenegade.com/editorial/senior-obama-administration-official-now-openly-citing-karl-marx/",
+                        "display_url": "ncrenegade.com/editorial/seni\u2026"
+                    },
+                    {
+                        "url": "http://t.co/60WfabJW",
+                        "expanded_url": "http://twitter.com/aLLaBoUtbRiTaNy/status/299375501217255424/photo/1",
+                        "display_url": "pic.twitter.com/60WfabJW"
+                    }
+                ],
+                "target_birth_date": 1360213863,
+                "content": "RT \u200f@aLLaBoUtbRiTaNy Senior Obama administration official now openly citing Karl Marx    http://t.co/dVF4RmLe \u2026 http://t.co/60WfabJW #Purge",
+                "mytype": "tweet",
+                "score": 8.547053,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3072286949/2c9cfeac86a538a2ffbdb32c135ac4a7_normal.png",
+                "trackback_permalink": "http://twitter.com/umie76/status/299384758515929088",
+                "trackback_author_url": "http://twitter.com/umie76",
+                "highlight": "RT \u200f@aLLaBoUtbRiTaNy Senior Obama administration official now openly citing Karl Marx \u2026",
+                "topsy_author_url": "http://topsy.com/twitter/umie76",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/umie76/status/299384758515929088",
+                "trackback_author_name": "Rick",
+                "trackback_author_nick": "umie76"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1312853088,
+                "title": "@imsupacool #PURGE!! #PURGE!! #PURGE!! http://yfrog.com/h41h8nqj",
+                "url": "http://twitter.com/iambhen/status/100739272839135232",
+                "trackback_date": 1312853088,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1312853088,
+                "content": "@imsupacool #PURGE!! #PURGE!! #PURGE!! http://yfrog.com/h41h8nqj",
+                "mytype": "tweet",
+                "score": 8.541282,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462626686983352320/AyE5S88b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/iAmBhEn/status/100739272839135232",
+                "trackback_author_url": "http://twitter.com/iambhen",
+                "highlight": " #PURGE!! #PURGE!! #PURGE!!",
+                "topsy_author_url": "http://topsy.com/twitter/iambhen",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/iambhen/status/100739272839135232",
+                "trackback_author_name": "H E N \u2122 ",
+                "trackback_author_nick": "iambhen"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1389255394,
+                "title": "Why would you keep someone if you know that you won't speak to them at any point of your life? #Purge #Senifix",
+                "url": "http://twitter.com/sherylhosulynn/status/421193768637693952",
+                "trackback_date": 1389255394,
+                "trackback_total": 4,
+                "url_expansions": [],
+                "target_birth_date": 1389255394,
+                "content": "Why would you keep someone if you know that you won't speak to them at any point of your life? #Purge #Senifix",
+                "mytype": "tweet",
+                "score": 8.53664,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468538701748781057/bR0YlVpp_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/sherylhosulynn/status/421193768637693952",
+                "trackback_author_url": "http://twitter.com/sherylhosulynn",
+                "highlight": "Why would you keep someone if you know that you won't speak to them at any point of your life? #Purge",
+                "topsy_author_url": "http://topsy.com/twitter/sherylhosulynn",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sherylhosulynn/status/421193768637693952",
+                "trackback_author_name": "Sheryl Ho Su Lynn",
+                "trackback_author_nick": "sherylhosulynn"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 150,
+        "hidden": 0,
+        "total": 58086,
+        "page": 1
+    }
+}

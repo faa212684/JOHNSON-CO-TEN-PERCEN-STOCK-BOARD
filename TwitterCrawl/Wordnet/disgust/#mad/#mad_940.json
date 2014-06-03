@@ -1,0 +1,283 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23mad&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=940",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#mad",
+            "window": "a",
+            "type": "tweet",
+            "offset": "940"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 27,
+                "firstpost_date": 1337281506,
+                "title": "#MAD V\u00eddeo. El Real Madrid ya est\u00e1 de vacaciones http://t.co/5Ux1zfD0",
+                "url": "http://twitter.com/ligabbva/status/203199481427140608",
+                "trackback_date": 1337281506,
+                "trackback_total": 32,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/5Ux1zfD0",
+                        "display_url": "ow.ly/aYorX",
+                        "expanded_url": "http://ow.ly/aYorX",
+                        "topsy_expanded_url": "http://www.ligabbva.com/watch?feature=plcp&index=1&list=UUb1JlyEU7j_NrSZjShW_apw&v=zEqCaDuog9Y"
+                    }
+                ],
+                "target_birth_date": 1337281506,
+                "content": "#MAD V\u00eddeo. El Real Madrid ya est\u00e1 de vacaciones http://t.co/5Ux1zfD0",
+                "mytype": "tweet",
+                "score": 9.4487095,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/203199481427140608",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. El Real Madrid ya est\u00e1 de vacaciones",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/203199481427140608",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 31,
+                "firstpost_date": 1337290506,
+                "title": "#MAD V\u00eddeo. Cristiano, capit\u00e1n del Real Madrid en Kuwait http://t.co/swnwbAsn",
+                "url": "http://twitter.com/ligabbva/status/203237231387873281",
+                "trackback_date": 1337290506,
+                "trackback_total": 34,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/swnwbAsn",
+                        "display_url": "ow.ly/aYE2V",
+                        "expanded_url": "http://ow.ly/aYE2V",
+                        "topsy_expanded_url": "http://www.ligabbva.com/watch?feature=plcp&index=2&list=UUb1JlyEU7j_NrSZjShW_apw&v=622aboshsEU"
+                    }
+                ],
+                "target_birth_date": 1337290506,
+                "content": "#MAD V\u00eddeo. Cristiano, capit\u00e1n del Real Madrid en Kuwait http://t.co/swnwbAsn",
+                "mytype": "tweet",
+                "score": 9.44863,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/203237231387873281",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Cristiano, capit\u00e1n del Real Madrid en Kuwait",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/203237231387873281",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 20,
+                "firstpost_date": 1314468904,
+                "title": "#MAD V\u00eddeo. Mourinho: \"Estoy muy contento de tener un jugador como Kak\u00e1\".  http://ow.ly/6eodj",
+                "url": "http://twitter.com/ligabbva/status/107516493805268992",
+                "trackback_date": 1314468904,
+                "trackback_total": 23,
+                "url_expansions": [],
+                "target_birth_date": 1314468904,
+                "content": "#MAD V\u00eddeo. Mourinho: \"Estoy muy contento de tener un jugador como Kak\u00e1\".  http://ow.ly/6eodj",
+                "mytype": "tweet",
+                "score": 9.448595,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/107516493805268992",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Mourinho: \"Estoy muy contento de tener un jugador como Kak\u00e1\".",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/107516493805268992",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 26,
+                "firstpost_date": 1328265304,
+                "title": "#MAD Higua\u00edn: \"No me ir\u00e9 del Madrid sin ganar la Champions\" http://t.co/j6itbmHg",
+                "url": "http://twitter.com/ligabbva/status/165382788562960384",
+                "trackback_date": 1328265304,
+                "trackback_total": 34,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/j6itbmHg",
+                        "display_url": "ow.ly/8QJUk",
+                        "expanded_url": "http://ow.ly/8QJUk",
+                        "topsy_expanded_url": "http://www.marca.com/2012/02/03/futbol/equipos/real_madrid/1328259681.html"
+                    }
+                ],
+                "target_birth_date": 1328265304,
+                "content": "#MAD Higua\u00edn: \"No me ir\u00e9 del Madrid sin ganar la Champions\" http://t.co/j6itbmHg",
+                "mytype": "tweet",
+                "score": 9.448551,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/165382788562960384",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Higua\u00edn: \"No me ir\u00e9 del Madrid sin ganar la Champions\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/165382788562960384",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 26,
+                "firstpost_date": 1335965713,
+                "title": "#MAD Ballack: \"Con Mourinho sientes que protege al grupo\" http://t.co/WIe2Mmj1",
+                "url": "http://twitter.com/ligabbva/status/197680644879425537",
+                "trackback_date": 1335965713,
+                "trackback_total": 30,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WIe2Mmj1",
+                        "display_url": "ow.ly/aEb96",
+                        "expanded_url": "http://ow.ly/aEb96",
+                        "topsy_expanded_url": "http://www.as.com/futbol/articulo/ballack-mourinho-sientes-protege-grupo/20120502dasdasftb_11/Tes"
+                    }
+                ],
+                "target_birth_date": 1335965713,
+                "content": "#MAD Ballack: \"Con Mourinho sientes que protege al grupo\" http://t.co/WIe2Mmj1",
+                "mytype": "tweet",
+                "score": 9.448523,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/197680644879425537",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Ballack: \"Con Mourinho sientes que protege al grupo\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/197680644879425537",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 26,
+                "firstpost_date": 1333382714,
+                "title": "#MAD V\u00eddeo. Kak\u00e1 y Xabi Alonso, un duelo al volante http://t.co/8tf0QDGv",
+                "url": "http://twitter.com/ligabbva/status/186846763171323904",
+                "trackback_date": 1333382714,
+                "trackback_total": 29,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8tf0QDGv",
+                        "display_url": "ow.ly/a1leW",
+                        "expanded_url": "http://ow.ly/a1leW",
+                        "topsy_expanded_url": "http://www.ligabbva.com/watch?context=C4c94b07ADvjVQa1PpcFM15wsfwI3l28QgmX7C83QEuvhuRqvE3TM%3D&v=oyCbc4y0jao"
+                    }
+                ],
+                "target_birth_date": 1333382714,
+                "content": "#MAD V\u00eddeo. Kak\u00e1 y Xabi Alonso, un duelo al volante http://t.co/8tf0QDGv",
+                "mytype": "tweet",
+                "score": 9.448495,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/186846763171323904",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Kak\u00e1 y Xabi Alonso, un duelo al volante",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/186846763171323904",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 38,
+                "firstpost_date": 1350405420,
+                "title": "#MAD V\u00eddeo. Cristiano Ronaldo supera los 50 millones de fans en Facebook http://t.co/A4wvwn0l",
+                "url": "http://twitter.com/ligabbva/status/258245169021870080",
+                "trackback_date": 1350405420,
+                "trackback_total": 42,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/A4wvwn0l",
+                        "display_url": "ow.ly/evIrw",
+                        "expanded_url": "http://ow.ly/evIrw",
+                        "topsy_expanded_url": "http://www.ligabbva.com/watch?feature=plcp&v=nkhkWLSrGUc"
+                    }
+                ],
+                "target_birth_date": 1350405420,
+                "content": "#MAD V\u00eddeo. Cristiano Ronaldo supera los 50 millones de fans en Facebook http://t.co/A4wvwn0l",
+                "mytype": "tweet",
+                "score": 9.448322,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/258245169021870080",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Cristiano Ronaldo supera los 50 millones de fans en Facebook",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/258245169021870080",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 21,
+                "firstpost_date": 1330279502,
+                "title": "#MAD Casillas: \"Hoy hemos sufrido una barbaridad\" http://t.co/PIimohPK",
+                "url": "http://twitter.com/ligabbva/status/173830947815440384",
+                "trackback_date": 1330279502,
+                "trackback_total": 24,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PIimohPK",
+                        "display_url": "ow.ly/9itKR",
+                        "expanded_url": "http://ow.ly/9itKR",
+                        "topsy_expanded_url": "http://www.as.com/futbol/articulo/casillas-hoy-hemos-sufrido-barbaridad/20120226dasdasftb_30/Tes"
+                    }
+                ],
+                "target_birth_date": 1330279502,
+                "content": "#MAD Casillas: \"Hoy hemos sufrido una barbaridad\" http://t.co/PIimohPK",
+                "mytype": "tweet",
+                "score": 9.44812,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/173830947815440384",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Casillas: \"Hoy hemos sufrido una barbaridad\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/173830947815440384",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1309271102,
+                "title": "#MAD Guti (en La Gaceta): \"Messi est\u00e1 por encima de Cristiano\" http://bit.ly/lsDeDW",
+                "url": "http://twitter.com/ligabbva/status/85715333918371842",
+                "trackback_date": 1309271102,
+                "trackback_total": 21,
+                "url_expansions": [],
+                "target_birth_date": 1309271102,
+                "content": "#MAD Guti (en La Gaceta): \"Messi est\u00e1 por encima de Cristiano\" http://bit.ly/lsDeDW",
+                "mytype": "tweet",
+                "score": 9.44811,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/ligabbva/status/85715333918371842",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Guti (en La Gaceta): \"Messi est\u00e1 por encima de Cristiano\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/85715333918371842",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1365986262,
+                "title": "RT @tanyah122587: @lilduval @cthagod thank you! U couldn't of said it better. The love u showed him and our little town was amazing!! #Mad\u2764",
+                "url": "http://twitter.com/cthagod/status/323595953443594240",
+                "trackback_date": 1365986262,
+                "trackback_total": 9,
+                "url_expansions": [],
+                "target_birth_date": 1365986262,
+                "content": "RT @tanyah122587: @lilduval @cthagod thank you! U couldn't of said it better. The love u showed him and our little town was amazing!! #Mad\u2764",
+                "mytype": "tweet",
+                "score": 9.44809,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462175608852598784/mcKoM-8m_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/cthagod/status/323595953443594240",
+                "trackback_author_url": "http://twitter.com/cthagod",
+                "highlight": " @cthagod thank you! U couldn't of said it better. The love u showed him and our little town was amazing!! #Mad\u2764",
+                "topsy_author_url": "http://topsy.com/twitter/cthagod",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cthagod/status/323595953443594240",
+                "trackback_author_name": "Charlamagne Tha God",
+                "trackback_author_nick": "cthagod"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 940,
+        "hidden": 0,
+        "total": 1921949,
+        "page": 1
+    }
+}

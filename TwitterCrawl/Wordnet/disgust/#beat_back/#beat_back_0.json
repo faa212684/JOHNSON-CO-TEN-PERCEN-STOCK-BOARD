@@ -1,0 +1,86 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23beat_back&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#beat_back",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1270395335,
+                "title": "Honey these folks #BEAT_Back from Head to Toe honey! RT @Passions_Own: These saints kno they EASTER #BEAT",
+                "url": "",
+                "trackback_date": 1270395335,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1270395335,
+                "content": "Honey these folks #BEAT_Back from Head to Toe honey! RT @Passions_Own: These saints kno they EASTER #BEAT",
+                "mytype": "tweet",
+                "score": 4.7384396,
+                "topsy_author_img": "",
+                "trackback_permalink": "",
+                "trackback_author_url": "http://twitter.com/",
+                "highlight": "Honey these folks #BEAT_Back from Head to Toe honey!These saints kno they EASTER",
+                "topsy_author_url": "http://topsy.com/twitter/",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=",
+                "trackback_author_name": "",
+                "trackback_author_nick": ""
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1269823629,
+                "title": "Oh I LOVE my BIG BROTHERS....@passions_own @carta4carta they gives me my #LiFE.....oh dey #BEAT_BaCK",
+                "url": "",
+                "trackback_date": 1269823629,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1269823629,
+                "content": "Oh I LOVE my BIG BROTHERS....@passions_own @carta4carta they gives me my #LiFE.....oh dey #BEAT_BaCK",
+                "mytype": "tweet",
+                "score": 4.7384095,
+                "topsy_author_img": "",
+                "trackback_permalink": "",
+                "trackback_author_url": "http://twitter.com/",
+                "highlight": "Oh I LOVE my BIG BROTHERS....@passions_own @carta4carta they gives me my #LiFE.....oh dey",
+                "topsy_author_url": "http://topsy.com/twitter/",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=",
+                "trackback_author_name": "",
+                "trackback_author_nick": ""
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1269823702,
+                "title": "Rt @PoLo1980: Oh I LOVE my BIG BROTHERS....@passions_own @carta4carta they gives me my #LiFE.....oh dey #BEAT_BaCK",
+                "url": "http://twitter.com/passions_own/status/11221862316",
+                "trackback_date": 1269823702,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1269823702,
+                "content": "Rt @PoLo1980: Oh I LOVE my BIG BROTHERS....@passions_own @carta4carta they gives me my #LiFE.....oh dey #BEAT_BaCK",
+                "mytype": "tweet",
+                "score": 4.641422,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/3575681850/9ad066e6d294d96397f13790680dbd3b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Passions_Own/status/11221862316",
+                "trackback_author_url": "http://twitter.com/passions_own",
+                "highlight": "Rt @PoLo1980: Oh I LOVE my BIG BROTHERS....@passions_own @carta4carta they gives me my #LiFE.....oh dey",
+                "topsy_author_url": "http://topsy.com/twitter/passions_own",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/passions_own/status/11221862316",
+                "trackback_author_name": "Misunderstood",
+                "trackback_author_nick": "passions_own"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 3,
+        "page": 1
+    }
+}

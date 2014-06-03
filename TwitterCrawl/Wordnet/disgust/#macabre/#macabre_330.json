@@ -1,0 +1,290 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23macabre&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=330",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#macabre",
+            "window": "a",
+            "type": "tweet",
+            "offset": "330"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1349194909,
+                "title": "#ReasonsWeCantBeTogether I'm beside myself and you're hugging the wrong me. #macabre #Vancouver #Toronto #Halifax #SanFran #NYC",
+                "url": "http://twitter.com/bookmark_terry/status/253167918198706176",
+                "trackback_date": 1349194909,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1349194909,
+                "content": "#ReasonsWeCantBeTogether I'm beside myself and you're hugging the wrong me. #macabre #Vancouver #Toronto #Halifax #SanFran #NYC",
+                "mytype": "tweet",
+                "score": 8.1495,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2483943132/igc5h40mm3odp26ds1t3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Bookmark_Terry/status/253167918198706176",
+                "trackback_author_url": "http://twitter.com/bookmark_terry",
+                "highlight": "#ReasonsWeCantBeTogether I'm beside myself and you're hugging the wrong me. #macabre #Vancouver #Toronto #Halifax #SanFran",
+                "topsy_author_url": "http://topsy.com/twitter/bookmark_terry",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bookmark_terry/status/253167918198706176",
+                "trackback_author_name": "Terry Gibson, Author",
+                "trackback_author_nick": "bookmark_terry"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1378267912,
+                "title": "http://t.co/ZedvsJZf1o Regrets by Christinne Blacker #art #photography #photomanipulation #horror #macabre #artist #artprint",
+                "url": "http://twitter.com/christinblacker/status/375108930973614080",
+                "trackback_date": 1378267912,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ZedvsJZf1o",
+                        "display_url": "christinneblacker.deviantart.com/art/Regrets-38\u2026",
+                        "expanded_url": "http://christinneblacker.deviantart.com/art/Regrets-380174764",
+                        "topsy_expanded_url": "http://christinneblacker.deviantart.com/art/Regrets-380174764"
+                    }
+                ],
+                "target_birth_date": 1378267912,
+                "content": "http://t.co/ZedvsJZf1o Regrets by Christinne Blacker #art #photography #photomanipulation #horror #macabre #artist #artprint",
+                "mytype": "tweet",
+                "score": 8.148693,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000100100178/97f32c1ab74975c74e6c70a934677f8f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ChristinBlacker/status/375108930973614080",
+                "trackback_author_url": "http://twitter.com/christinblacker",
+                "highlight": " Regrets by Christinne Blacker #art #photography #photomanipulation #horror #macabre #artist",
+                "topsy_author_url": "http://topsy.com/twitter/christinblacker",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/christinblacker/status/375108930973614080",
+                "trackback_author_name": "Christinne Blacker",
+                "trackback_author_nick": "christinblacker"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1322849796,
+                "title": "Graveyard Girl T Shirt #Horror #Macabre #Gothic http://t.co/pnqiGYAk via @Etsy",
+                "url": "http://twitter.com/hausofbizarre/status/142668501566504960",
+                "trackback_date": 1322849796,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/pnqiGYAk",
+                        "display_url": "etsy.me/pZrLCq",
+                        "expanded_url": "http://etsy.me/pZrLCq",
+                        "topsy_expanded_url": "http://www.etsy.com/listing/82372296/graveyard-girl-t-shirt-horror-macabre"
+                    }
+                ],
+                "target_birth_date": 1322849796,
+                "content": "Graveyard Girl T Shirt #Horror #Macabre #Gothic http://t.co/pnqiGYAk via @Etsy",
+                "mytype": "tweet",
+                "score": 8.148584,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3285179247/9be6dca761ce3ef6189842cb9237355d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/HausOfBizarre/status/142668501566504960",
+                "trackback_author_url": "http://twitter.com/hausofbizarre",
+                "highlight": "Graveyard Girl T Shirt #Horror #Macabre #Gothic via @Etsy",
+                "topsy_author_url": "http://topsy.com/twitter/hausofbizarre",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hausofbizarre/status/142668501566504960",
+                "trackback_author_name": "HausOfBizarre",
+                "trackback_author_nick": "hausofbizarre"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1322619259,
+                "title": "Graveyard Girl T Shirt #Horror #Macabre #Gothic http://t.co/pnqiGYAk via @Etsy",
+                "url": "http://twitter.com/hausofbizarre/status/141701560613863424",
+                "trackback_date": 1322619259,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/pnqiGYAk",
+                        "display_url": "etsy.me/pZrLCq",
+                        "expanded_url": "http://etsy.me/pZrLCq",
+                        "topsy_expanded_url": "http://www.etsy.com/listing/82372296/graveyard-girl-t-shirt-horror-macabre"
+                    }
+                ],
+                "target_birth_date": 1322619259,
+                "content": "Graveyard Girl T Shirt #Horror #Macabre #Gothic http://t.co/pnqiGYAk via @Etsy",
+                "mytype": "tweet",
+                "score": 8.148573,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3285179247/9be6dca761ce3ef6189842cb9237355d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/HausOfBizarre/status/141701560613863424",
+                "trackback_author_url": "http://twitter.com/hausofbizarre",
+                "highlight": "Graveyard Girl T Shirt #Horror #Macabre #Gothic via @Etsy",
+                "topsy_author_url": "http://topsy.com/twitter/hausofbizarre",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hausofbizarre/status/141701560613863424",
+                "trackback_author_name": "HausOfBizarre",
+                "trackback_author_nick": "hausofbizarre"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1396264744,
+                "title": "Carrie by 2014 BlackCocktail #Horror #Macabre http://t.co/RtbenL9pOt",
+                "url": "http://twitter.com/dailydeviations/status/450593114642591744",
+                "trackback_date": 1396264744,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RtbenL9pOt",
+                        "display_url": "dlvr.it/5H4SNz",
+                        "expanded_url": "http://dlvr.it/5H4SNz",
+                        "topsy_expanded_url": "http://blackcocktail.deviantart.com/art/Carrie-339832909"
+                    }
+                ],
+                "target_birth_date": 1396264744,
+                "content": "Carrie by 2014 BlackCocktail #Horror #Macabre http://t.co/RtbenL9pOt",
+                "mytype": "tweet",
+                "score": 8.147941,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2849284680/a17bd5dc73be7d37e601cef29166cee9_normal.png",
+                "trackback_permalink": "http://twitter.com/DailyDeviations/status/450593114642591744",
+                "trackback_author_url": "http://twitter.com/dailydeviations",
+                "highlight": "Carrie by 2014 BlackCocktail #Horror #Macabre",
+                "topsy_author_url": "http://topsy.com/twitter/dailydeviations",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dailydeviations/status/450593114642591744",
+                "trackback_author_name": "Daily Deviations",
+                "trackback_author_nick": "dailydeviations"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1304553152,
+                "title": "#Kindle: http://www.ebook4kindle.com/23/danse-macabre.html Danse Macabre #Danse #Macabre",
+                "url": "http://twitter.com/menkanjing/status/65926814295523328",
+                "trackback_date": 1304553152,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1304553152,
+                "content": "#Kindle: http://www.ebook4kindle.com/23/danse-macabre.html Danse Macabre #Danse #Macabre",
+                "mytype": "tweet",
+                "score": 8.145704,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1218609273/20100903_103132_normal.jpg",
+                "trackback_permalink": "http://twitter.com/menkanjing/status/65926814295523328",
+                "trackback_author_url": "http://twitter.com/menkanjing",
+                "highlight": "#Kindle: Danse Macabre #Danse",
+                "topsy_author_url": "http://topsy.com/twitter/menkanjing",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/menkanjing/status/65926814295523328",
+                "trackback_author_name": "Kindle Ebook Reviews",
+                "trackback_author_nick": "menkanjing"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1390437100,
+                "title": "Fear Of The Dark by 2014 Fanhir (@Fanhir) #Macabre #Horror http://t.co/w0gtJTv0l6",
+                "url": "http://twitter.com/dailydeviations/status/426150204442546176",
+                "trackback_date": 1390437100,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/w0gtJTv0l6",
+                        "display_url": "dlvr.it/4m2WbX",
+                        "expanded_url": "http://dlvr.it/4m2WbX",
+                        "topsy_expanded_url": "http://fanhir.deviantart.com/art/Fear-Of-The-Dark-410453701"
+                    }
+                ],
+                "target_birth_date": 1390437100,
+                "content": "Fear Of The Dark by 2014 Fanhir (@Fanhir) #Macabre #Horror http://t.co/w0gtJTv0l6",
+                "mytype": "tweet",
+                "score": 8.145489,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2849284680/a17bd5dc73be7d37e601cef29166cee9_normal.png",
+                "trackback_permalink": "http://twitter.com/DailyDeviations/status/426150204442546176",
+                "trackback_author_url": "http://twitter.com/dailydeviations",
+                "highlight": "Fear Of The Dark by 2014 Fanhir (@Fanhir) #Macabre #Horror",
+                "topsy_author_url": "http://topsy.com/twitter/dailydeviations",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dailydeviations/status/426150204442546176",
+                "trackback_author_name": "Daily Deviations",
+                "trackback_author_nick": "dailydeviations"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1361729204,
+                "title": "Tell Your Story With The Raven http://t.co/EV5ycJw2pI #etsy #handmade #jewelry #TEAMSELLIT #Bizhype #mothersday #macabre #history #Like2",
+                "url": "http://twitter.com/pink80sgirl/status/305740558482149376",
+                "trackback_date": 1361729204,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/EV5ycJw2pI",
+                        "display_url": "goo.gl/5HMJu",
+                        "expanded_url": "http://goo.gl/5HMJu",
+                        "topsy_expanded_url": "http://www.etsy.com/listing/120414089/vintage-the-raven-necklace-victorian"
+                    }
+                ],
+                "target_birth_date": 1361729204,
+                "content": "Tell Your Story With The Raven http://t.co/EV5ycJw2pI #etsy #handmade #jewelry #TEAMSELLIT #Bizhype #mothersday #macabre #history #Like2",
+                "mytype": "tweet",
+                "score": 8.145095,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071416365/5797a7146320dcae0c1573414ba0fd0b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/pink80sgirl/status/305740558482149376",
+                "trackback_author_url": "http://twitter.com/pink80sgirl",
+                "highlight": "Tell Your Story With The Raven #etsy #handmade #jewelry #TEAMSELLIT #Bizhype #mothersday #macabre #history",
+                "topsy_author_url": "http://topsy.com/twitter/pink80sgirl",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/pink80sgirl/status/305740558482149376",
+                "trackback_author_name": "Vanessa",
+                "trackback_author_nick": "pink80sgirl"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1315406827,
+                "title": "Beautifully Distressed #Gothic #Macabre Black Picture Frame by HausOfBizarre http://t.co/6tCaOuF via @Etsy Please Rt",
+                "url": "http://twitter.com/hausofbizarre/status/111450426867589120",
+                "trackback_date": 1315406827,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/6tCaOuF",
+                        "display_url": "etsy.me/pX4EeJ",
+                        "expanded_url": "http://etsy.me/pX4EeJ",
+                        "topsy_expanded_url": "http://www.etsy.com/listing/81210948/distressed-gothic-macabre-black-4x6-hand"
+                    }
+                ],
+                "target_birth_date": 1315406827,
+                "content": "Beautifully Distressed #Gothic #Macabre Black Picture Frame by HausOfBizarre http://t.co/6tCaOuF via @Etsy Please Rt",
+                "mytype": "tweet",
+                "score": 8.144459,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3285179247/9be6dca761ce3ef6189842cb9237355d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/HausOfBizarre/status/111450426867589120",
+                "trackback_author_url": "http://twitter.com/hausofbizarre",
+                "highlight": "Beautifully Distressed #Gothic #Macabre Black Picture Frame by HausOfBizarre via @Etsy Please Rt",
+                "topsy_author_url": "http://topsy.com/twitter/hausofbizarre",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hausofbizarre/status/111450426867589120",
+                "trackback_author_name": "HausOfBizarre",
+                "trackback_author_nick": "hausofbizarre"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1385427341,
+                "title": "If you don't like Silent Hill then you are BANISHED from my life! lol #SilentHill #Horror #Macabre #Gaming #Gamer http://t.co/2i6kxbdsv3",
+                "url": "http://twitter.com/darkangelrafael/status/405137748903739392",
+                "trackback_date": 1385427341,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2i6kxbdsv3",
+                        "display_url": "pic.twitter.com/2i6kxbdsv3",
+                        "expanded_url": "http://twitter.com/DarkAngelRafael/status/405137748903739392/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BZ9WotkCQAA1che.jpg"
+                    }
+                ],
+                "target_birth_date": 1385427341,
+                "content": "If you don't like Silent Hill then you are BANISHED from my life! lol #SilentHill #Horror #Macabre #Gaming #Gamer http://t.co/2i6kxbdsv3",
+                "mytype": "tweet",
+                "score": 8.143942,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/465682459502596096/oM_gjtDL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DarkAngelRafael/status/405137748903739392",
+                "trackback_author_url": "http://twitter.com/darkangelrafael",
+                "highlight": "If you don't like Silent Hill then you are BANISHED from my life! lol #SilentHill #Horror #Macabre #Gaming #Gamer",
+                "topsy_author_url": "http://topsy.com/twitter/darkangelrafael",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/darkangelrafael/status/405137748903739392",
+                "trackback_author_name": "Rafael",
+                "trackback_author_nick": "darkangelrafael"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 330,
+        "hidden": 0,
+        "total": 17765,
+        "page": 1
+    }
+}

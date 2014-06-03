@@ -1,0 +1,283 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23rising&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=450",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#rising",
+            "window": "a",
+            "type": "tweet",
+            "offset": "450"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 4,
+                "firstpost_date": 1394792820,
+                "title": "Surprise! (part 2) \ud83d\ude02\ud83c\udf70\ud83d\udd28\ud83d\udc55 #remakefrommyfavoritememeintheworld #rising #dariusbenson  https://t.co/9gHDRcz3Zd",
+                "url": "http://twitter.com/kinkyyasminexxx/status/444419415682330624",
+                "trackback_date": 1394792820,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/9gHDRcz3Zd",
+                        "display_url": "vine.co/v/Mmzr9uBuBgj",
+                        "expanded_url": "https://vine.co/v/Mmzr9uBuBgj",
+                        "topsy_expanded_url": "https://vine.co/v/Mmzr9uBuBgj"
+                    }
+                ],
+                "target_birth_date": 1394792820,
+                "content": "Surprise! (part 2) \ud83d\ude02\ud83c\udf70\ud83d\udd28\ud83d\udc55 #remakefrommyfavoritememeintheworld #rising #dariusbenson  https://t.co/9gHDRcz3Zd",
+                "mytype": "tweet",
+                "score": 8.388973,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471459384015347712/cfjIY4_g_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/KinkyYasmineXXX/status/444419415682330624",
+                "trackback_author_url": "http://twitter.com/kinkyyasminexxx",
+                "highlight": "Surprise! (part 2) \ud83d\ude02\ud83c\udf70\ud83d\udd28\ud83d\udc55 #remakefrommyfavoritememeintheworld #rising #dariusbenson",
+                "topsy_author_url": "http://topsy.com/twitter/kinkyyasminexxx",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kinkyyasminexxx/status/444419415682330624",
+                "trackback_author_name": "Yasmine de Leon",
+                "trackback_author_nick": "kinkyyasminexxx"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1271024467,
+                "title": "#rising \u3092\u767b\u9332\u3057\u307e\u3057\u305f\u3002 http://hashtagsjp.appspot.com/tag/rising",
+                "url": "http://twitter.com/hashtagsjp/status/12012831361",
+                "trackback_date": 1271024467,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1271024467,
+                "content": "#rising \u3092\u767b\u9332\u3057\u307e\u3057\u305f\u3002 http://hashtagsjp.appspot.com/tag/rising",
+                "mytype": "tweet",
+                "score": 8.388892,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/344100812/twitter-hashtag-logo_normal.png",
+                "trackback_permalink": "http://twitter.com/hashtagsjp/status/12012831361",
+                "trackback_author_url": "http://twitter.com/hashtagsjp",
+                "highlight": "#rising \u3092\u767b\u9332\u3057\u307e\u3057\u305f\u3002",
+                "topsy_author_url": "http://topsy.com/twitter/hashtagsjp",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hashtagsjp/status/12012831361",
+                "trackback_author_name": "hashtagsjp",
+                "trackback_author_nick": "hashtagsjp"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1399658458,
+                "title": "KEEP #RISING .",
+                "url": "http://twitter.com/family1stmgmt/status/464827379668766720",
+                "trackback_date": 1399658458,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1399658458,
+                "content": "KEEP #RISING .",
+                "mytype": "tweet",
+                "score": 8.38588,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471450076758700032/-yVdNaF4_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/FAMILY1STMGMT/status/464827379668766720",
+                "trackback_author_url": "http://twitter.com/family1stmgmt",
+                "highlight": "KEEP #RISING .",
+                "topsy_author_url": "http://topsy.com/twitter/family1stmgmt",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/family1stmgmt/status/464827379668766720",
+                "trackback_author_name": "SMOKE",
+                "trackback_author_nick": "family1stmgmt"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1394818986,
+                "title": "#Rising #Stress Levels - #Funny! http://t.co/OF8IFy0Wzy via @cpmandara",
+                "url": "http://twitter.com/dochappycamper/status/444529164868395009",
+                "trackback_date": 1394818986,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/OF8IFy0Wzy",
+                        "display_url": "goo.gl/zh0mX4",
+                        "expanded_url": "http://goo.gl/zh0mX4",
+                        "topsy_expanded_url": "http://christinamandara.wordpress.com/2014/03/13/rising-stress-levels-funny/"
+                    }
+                ],
+                "target_birth_date": 1394818986,
+                "content": "#Rising #Stress Levels - #Funny! http://t.co/OF8IFy0Wzy via @cpmandara",
+                "mytype": "tweet",
+                "score": 8.385698,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1454467525/2010-08-25_20-56-26.065_normal.jpg",
+                "trackback_permalink": "http://twitter.com/dochappycamper/status/444529164868395009",
+                "trackback_author_url": "http://twitter.com/dochappycamper",
+                "highlight": "#Rising #Stress Levels - #Funny! via @cpmandara",
+                "topsy_author_url": "http://topsy.com/twitter/dochappycamper",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dochappycamper/status/444529164868395009",
+                "trackback_author_name": "Tammy Dennings Maggy",
+                "trackback_author_nick": "dochappycamper"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1393103570,
+                "title": "Surprise! #remakefrommyfavoritememeintheworld #Rising Darius Benson #remake https://t.co/iSNpYeIL0S",
+                "url": "http://twitter.com/itsredmanho/status/437334190070431744",
+                "trackback_date": 1393103570,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/iSNpYeIL0S",
+                        "display_url": "vine.co/v/Mmhdq2jd2V1",
+                        "expanded_url": "https://vine.co/v/Mmhdq2jd2V1",
+                        "topsy_expanded_url": "https://vine.co/v/Mmhdq2jd2V1"
+                    }
+                ],
+                "target_birth_date": 1393103570,
+                "content": "Surprise! #remakefrommyfavoritememeintheworld #Rising Darius Benson #remake https://t.co/iSNpYeIL0S",
+                "mytype": "tweet",
+                "score": 8.38297,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/457711202190499840/pkM296yh_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ItsRedmanHo/status/437334190070431744",
+                "trackback_author_url": "http://twitter.com/deaze__",
+                "highlight": "Surprise! #remakefrommyfavoritememeintheworld #Rising Darius Benson #remake",
+                "topsy_author_url": "http://topsy.com/twitter/deaze__",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/itsredmanho/status/437334190070431744",
+                "trackback_author_name": "King  SD",
+                "trackback_author_nick": "deaze__"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1391308592,
+                "title": "It's goin down, I'm yellin... #HabibVine #Rising #OGKILLA \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d  https://t.co/sDUm2sp5SM",
+                "url": "http://twitter.com/jaymoola/status/429805504312115201",
+                "trackback_date": 1391308592,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/sDUm2sp5SM",
+                        "display_url": "vine.co/v/MzJ5bY72wZ2",
+                        "expanded_url": "https://vine.co/v/MzJ5bY72wZ2",
+                        "topsy_expanded_url": "https://vine.co/v/MzJ5bY72wZ2"
+                    }
+                ],
+                "target_birth_date": 1391308592,
+                "content": "It's goin down, I'm yellin... #HabibVine #Rising #OGKILLA \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d  https://t.co/sDUm2sp5SM",
+                "mytype": "tweet",
+                "score": 8.382748,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000412961059/e043896660d2421ba85d36a29bd82df0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Jaymoola/status/429805504312115201",
+                "trackback_author_url": "http://twitter.com/jaymoola",
+                "highlight": "It's goin down, I'm yellin... #HabibVine #Rising #OGKILLA \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+                "topsy_author_url": "http://topsy.com/twitter/jaymoola",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jaymoola/status/429805504312115201",
+                "trackback_author_name": "BLACK JESUS\u2122 ",
+                "trackback_author_nick": "jaymoola"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1395815963,
+                "title": "Big Sean as a parent #AllMe #drake #BigSean #Rising #dariusbenson  https://t.co/qTj473ghC0",
+                "url": "http://twitter.com/misean_/status/448710789516787712",
+                "trackback_date": 1395815963,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/qTj473ghC0",
+                        "display_url": "vine.co/v/MAFWT5m59nE",
+                        "expanded_url": "https://vine.co/v/MAFWT5m59nE",
+                        "topsy_expanded_url": "https://vine.co/v/MAFWT5m59nE"
+                    }
+                ],
+                "target_birth_date": 1395815963,
+                "content": "Big Sean as a parent #AllMe #drake #BigSean #Rising #dariusbenson  https://t.co/qTj473ghC0",
+                "mytype": "tweet",
+                "score": 8.381853,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461212433902608386/WShKoGIj_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Misean_/status/448710789516787712",
+                "trackback_author_url": "http://twitter.com/misean_",
+                "highlight": "Big Sean as a parent #AllMe #drake #BigSean #Rising #dariusbenson",
+                "topsy_author_url": "http://topsy.com/twitter/misean_",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/misean_/status/448710789516787712",
+                "trackback_author_name": "\u303d\ufe0fichael",
+                "trackback_author_nick": "misean_"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1394658705,
+                "title": "Rising Demon: Limited Edition Signed Book Cover Print http://t.co/pm7wwp4RoA #Etsy #Rising",
+                "url": "http://twitter.com/darkscribe1/status/443856898211577856",
+                "trackback_date": 1394658705,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/pm7wwp4RoA",
+                        "display_url": "etsy.me/1cNfUSA",
+                        "expanded_url": "http://etsy.me/1cNfUSA",
+                        "topsy_expanded_url": "https://www.etsy.com/listing/179595606/rising-demon-limited-edition-signed-book"
+                    }
+                ],
+                "target_birth_date": 1394658705,
+                "content": "Rising Demon: Limited Edition Signed Book Cover Print http://t.co/pm7wwp4RoA #Etsy #Rising",
+                "mytype": "tweet",
+                "score": 8.38173,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/415191598217969664/jzQbYqn3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DarkScribe1/status/443856898211577856",
+                "trackback_author_url": "http://twitter.com/darkscribe1",
+                "highlight": "Rising Demon: Limited Edition Signed Book Cover Print #Etsy",
+                "topsy_author_url": "http://topsy.com/twitter/darkscribe1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/darkscribe1/status/443856898211577856",
+                "trackback_author_name": "DarkScribe",
+                "trackback_author_nick": "darkscribe1"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1392143531,
+                "title": "\ud83d\ude02\ud83d\ude02\ud83d\ude02 Girls be like \"I woke up like this\"...\ud83d\udc50 #swerve #StopPlayin #NoYouDidnt #Rising #dariusbenson  https://t.co/0H1Lur3z9n",
+                "url": "http://twitter.com/bossmajor007/status/433307492635127808",
+                "trackback_date": 1392143531,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/0H1Lur3z9n",
+                        "display_url": "vine.co/v/MaBta3UUMKi",
+                        "expanded_url": "https://vine.co/v/MaBta3UUMKi",
+                        "topsy_expanded_url": "https://vine.co/v/MaBta3UUMKi"
+                    }
+                ],
+                "target_birth_date": 1392143531,
+                "content": "\ud83d\ude02\ud83d\ude02\ud83d\ude02 Girls be like \"I woke up like this\"...\ud83d\udc50 #swerve #StopPlayin #NoYouDidnt #Rising #dariusbenson  https://t.co/0H1Lur3z9n",
+                "mytype": "tweet",
+                "score": 8.381424,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460605436123959297/Or1KnAnd_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/bossmajor007/status/433307492635127808",
+                "trackback_author_url": "http://twitter.com/bossmajor007",
+                "highlight": "\ud83d\ude02\ud83d\ude02\ud83d\ude02 Girls be like \"I woke up like this\"...\ud83d\udc50 #swerve #StopPlayin #NoYouDidnt #Rising #dariusbenson",
+                "topsy_author_url": "http://topsy.com/twitter/bossmajor007",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bossmajor007/status/433307492635127808",
+                "trackback_author_name": "Dumaybee (Dumebi) ",
+                "trackback_author_nick": "bossmajor007"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1344978411,
+                "title": "A million more views on my account in 3 days... #rising",
+                "url": "http://twitter.com/dgainzbeats/status/235482643121192960",
+                "trackback_date": 1344978411,
+                "trackback_total": 6,
+                "url_expansions": [],
+                "target_birth_date": 1344978411,
+                "content": "A million more views on my account in 3 days... #rising",
+                "mytype": "tweet",
+                "score": 8.380988,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468588835828293632/tRmqUid8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DGainzBeats/status/235482643121192960",
+                "trackback_author_url": "http://twitter.com/dgainzbeats",
+                "highlight": "A million more views on my account in 3 days",
+                "topsy_author_url": "http://topsy.com/twitter/dgainzbeats",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dgainzbeats/status/235482643121192960",
+                "trackback_author_name": "INSTAGRAM DGAINZ",
+                "trackback_author_nick": "dgainzbeats"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 450,
+        "hidden": 0,
+        "total": 107741,
+        "page": 1
+    }
+}

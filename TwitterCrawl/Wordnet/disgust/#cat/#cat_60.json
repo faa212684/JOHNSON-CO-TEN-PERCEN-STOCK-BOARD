@@ -1,0 +1,281 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23cat&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=60",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#cat",
+            "window": "a",
+            "type": "tweet",
+            "offset": "60"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 5,
+                "firstpost_date": 1349890222,
+                "title": "#Black #Cat Kiki, o gato malandro da Adriana. http://t.co/pVFPm3Gc",
+                "url": "http://twitter.com/pregadorluo/status/256084270852997120",
+                "trackback_date": 1349890222,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/pVFPm3Gc",
+                        "display_url": "instagr.am/p/QnDTF_iPwm/",
+                        "expanded_url": "http://instagr.am/p/QnDTF_iPwm/",
+                        "topsy_expanded_url": "http://instagr.am/p/QnDTF_iPwm/"
+                    }
+                ],
+                "target_birth_date": 1349890222,
+                "content": "#Black #Cat Kiki, o gato malandro da Adriana. http://t.co/pVFPm3Gc",
+                "mytype": "tweet",
+                "score": 9.606612,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/413487255597383681/nd1zoyjm_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PREGADORLUO/status/256084270852997120",
+                "trackback_author_url": "http://twitter.com/pregadorluo",
+                "highlight": "#Black #Cat Kiki, o gato malandro da Adriana.",
+                "topsy_author_url": "http://topsy.com/twitter/pregadorluo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/pregadorluo/status/256084270852997120",
+                "trackback_author_name": "Pregador Luo-APC16",
+                "trackback_author_nick": "pregadorluo"
+            },
+            {
+                "hits": 551,
+                "firstpost_date": 1372567309,
+                "title": "\u305d\u3053\u5165\u308b\u3068\u3053\u308d\u3058\u3083\u306d\u3047\u3047\u3057www http://t.co/BcIuYD02YX #cat",
+                "url": "http://twitter.com/neco_pic/status/351198866697232384",
+                "trackback_date": 1372567309,
+                "trackback_total": 669,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/BcIuYD02YX",
+                        "display_url": "twitpic.com/a8irl7",
+                        "expanded_url": "http://twitpic.com/a8irl7",
+                        "topsy_expanded_url": "http://twitpic.com/a8irl7"
+                    }
+                ],
+                "target_birth_date": 1372567309,
+                "content": "\u305d\u3053\u5165\u308b\u3068\u3053\u308d\u3058\u3083\u306d\u3047\u3047\u3057www http://t.co/BcIuYD02YX #cat",
+                "mytype": "tweet",
+                "score": 9.604753,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000381123578/aaa557c7eb7216b93186c2127c320e89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/neco_pic/status/351198866697232384",
+                "trackback_author_url": "http://twitter.com/neco_pic",
+                "highlight": "\u305d\u3053\u5165\u308b\u3068\u3053\u308d\u3058\u3083\u306d\u3047\u3047\u3057www",
+                "topsy_author_url": "http://topsy.com/twitter/neco_pic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/neco_pic/status/351198866697232384",
+                "trackback_author_name": "\u306d\u3053\u753b\u50cfbot",
+                "trackback_author_nick": "neco_pic"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1400392155,
+                "title": "#CAT#Mask#me#Shooting#tsubasamasuwaka #tsubasa\n#lip http://t.co/4G7KaAXBWx",
+                "url": "http://twitter.com/tsubasamasuwaka/status/467904728014135296",
+                "trackback_date": 1400392155,
+                "trackback_total": 26,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4G7KaAXBWx",
+                        "display_url": "instagram.com/p/oIITKgLfWT/",
+                        "expanded_url": "http://instagram.com/p/oIITKgLfWT/",
+                        "topsy_expanded_url": "http://instagram.com/p/oIITKgLfWT/"
+                    }
+                ],
+                "target_birth_date": 1400392155,
+                "content": "#CAT#Mask#me#Shooting#tsubasamasuwaka #tsubasa\n#lip http://t.co/4G7KaAXBWx",
+                "mytype": "tweet",
+                "score": 9.603759,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463992200779399169/9d-W2-PJ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/tsubasamasuwaka/status/467904728014135296",
+                "trackback_author_url": "http://twitter.com/tsubasamasuwaka",
+                "highlight": "#CAT#Mask#me#Shooting#tsubasamasuwaka #tsubasa #lip",
+                "topsy_author_url": "http://topsy.com/twitter/tsubasamasuwaka",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tsubasamasuwaka/status/467904728014135296",
+                "trackback_author_name": "\u76ca\u82e5\u3064\u3070\u3055/MilkyBunny",
+                "trackback_author_nick": "tsubasamasuwaka"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1371436786,
+                "title": "#lol \u25baThe look that says, \"Yup, I'm stuck and I don't know what to do\" #cat http://t.co/e8fnfUxYfp",
+                "url": "http://twitter.com/tweetsmarter/status/346457109069692929",
+                "trackback_date": 1371436786,
+                "trackback_total": 21,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/e8fnfUxYfp",
+                        "expanded_url": "http://twitter.com/TweetSmarter/status/346457109069692929/photo/1",
+                        "display_url": "pic.twitter.com/e8fnfUxYfp"
+                    }
+                ],
+                "target_birth_date": 1371436786,
+                "content": "#lol \u25baThe look that says, \"Yup, I'm stuck and I don't know what to do\" #cat http://t.co/e8fnfUxYfp",
+                "mytype": "tweet",
+                "score": 9.600414,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/450471072895229952/6QCZo16O_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TweetSmarter/status/346457109069692929",
+                "trackback_author_url": "http://twitter.com/tweetsmarter",
+                "highlight": "#lol \u25baThe look that says, \"Yup, I'm stuck and I don't know what to do\" #cat",
+                "topsy_author_url": "http://topsy.com/twitter/tweetsmarter",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tweetsmarter/status/346457109069692929",
+                "trackback_author_name": "TweetSmarter",
+                "trackback_author_nick": "tweetsmarter"
+            },
+            {
+                "hits": 43,
+                "firstpost_date": 1332430719,
+                "title": "I can touch my tongue to my nose, can you? #cute #cat http://t.co/mv68hnNK",
+                "url": "http://twitter.com/joelrama/status/182853804604133376",
+                "trackback_date": 1332430719,
+                "trackback_total": 58,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/mv68hnNK",
+                        "expanded_url": "http://twitter.com/joelrama/status/182853804604133376/photo/1",
+                        "display_url": "pic.twitter.com/mv68hnNK"
+                    }
+                ],
+                "target_birth_date": 1332430719,
+                "content": "I can touch my tongue to my nose, can you? #cute #cat http://t.co/mv68hnNK",
+                "mytype": "tweet",
+                "score": 9.598281,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/420543940115181568/KfUyXyh6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/joelrama/status/182853804604133376",
+                "trackback_author_url": "http://twitter.com/joelrama",
+                "highlight": "I can touch my tongue to my nose, can you? #cute #cat",
+                "topsy_author_url": "http://topsy.com/twitter/joelrama",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/joelrama/status/182853804604133376",
+                "trackback_author_name": "Joel Bartlett",
+                "trackback_author_nick": "joelrama"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1282933980,
+                "title": "One more of Hammie this morning. What a crazy #cat... http://tweetphoto.com/41714859",
+                "url": "http://twitter.com/crissangel/status/22288780054",
+                "trackback_date": 1282933980,
+                "trackback_total": 55,
+                "url_expansions": [],
+                "target_birth_date": 1282933980,
+                "content": "One more of Hammie this morning. What a crazy #cat... http://tweetphoto.com/41714859",
+                "mytype": "tweet",
+                "score": 9.594838,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000615872937/517c672a2e57af08771376bd58931997_normal.png",
+                "trackback_permalink": "http://twitter.com/crissangel/status/22288780054",
+                "trackback_author_url": "http://twitter.com/crissangel",
+                "highlight": "One more of Hammie this morning. What a crazy #cat",
+                "topsy_author_url": "http://topsy.com/twitter/crissangel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/crissangel/status/22288780054",
+                "trackback_author_name": "Criss Angel",
+                "trackback_author_nick": "crissangel"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1337720605,
+                "title": "Today's joke: Cat Vs. Dog -- War Of The Diaries - http://t.co/lhCUooB9 #cat lovers will laugh!",
+                "url": "http://twitter.com/marlothomas/status/205041195880165377",
+                "trackback_date": 1337720605,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/lhCUooB9",
+                        "display_url": "huff.to/MEIrQY",
+                        "expanded_url": "http://huff.to/MEIrQY",
+                        "topsy_expanded_url": "http://www.huffingtonpost.com/2012/05/21/joke-cat-vs-dog----war-of_n_1534447.html"
+                    }
+                ],
+                "target_birth_date": 1337720605,
+                "content": "Today's joke: Cat Vs. Dog -- War Of The Diaries - http://t.co/lhCUooB9 #cat lovers will laugh!",
+                "mytype": "tweet",
+                "score": 9.593292,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1599383996/ec204712-54e6-49e5-b665-c146c2a87d9f_normal.JPG",
+                "trackback_permalink": "http://twitter.com/MarloThomas/status/205041195880165377",
+                "trackback_author_url": "http://twitter.com/marlothomas",
+                "highlight": "Today's joke: Cat Vs. Dog -- War Of The Diaries - #cat lovers will laugh!",
+                "topsy_author_url": "http://topsy.com/twitter/marlothomas",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/marlothomas/status/205041195880165377",
+                "trackback_author_name": "Marlo Thomas",
+                "trackback_author_nick": "marlothomas"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1283134458,
+                "title": "http://twitpic.com/2jjfie - gatinho ou n\u00e3o? RAWRRRRRRRRR, vou indicar 5 que comentar heim #Cat #Cat",
+                "url": "http://twitter.com/yescolirios/status/22487760634",
+                "trackback_date": 1283134458,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1283134458,
+                "content": "http://twitpic.com/2jjfie - gatinho ou n\u00e3o? RAWRRRRRRRRR, vou indicar 5 que comentar heim #Cat #Cat",
+                "mytype": "tweet",
+                "score": 9.591562,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1750271071/8_normal.jpg",
+                "trackback_permalink": "http://twitter.com/YesColirios/status/22487760634",
+                "trackback_author_url": "http://twitter.com/yescolirios",
+                "highlight": " - gatinho ou n\u00e3o? RAWRRRRRRRRR, vou indicar 5 que comentar heim #Cat",
+                "topsy_author_url": "http://topsy.com/twitter/yescolirios",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/yescolirios/status/22487760634",
+                "trackback_author_name": "Yes  Col\u00edrios",
+                "trackback_author_nick": "yescolirios"
+            },
+            {
+                "hits": 26,
+                "firstpost_date": 1328727908,
+                "title": "\u2595\u2594\u2594\u2572\u2582\u2582\u2582\u2582\u2582\u2571\u2594\u2594\u258f\u2508\u2508\u2508\n\u2595\u2572\u2571\u2571\u250b\u250b\u250b\u250b\u250b\u2572\u2572\u2571\u258f\u2595\u2594\u258f\n\u2509\u2572\u2571\u256d\u2586\u256e\u250b\u256d\u2586\u256e\u2572\u2571\u2509\u2509\u2572\u2572\n\u2509\u2595\u2572\u2509\u2509\u2509\u2585\u2509\u2509\u2509\u2571\u258f\u2509\u2509\u2595\u2595\n\u2509\u2595\u2509\u2594\u2594\u2570\u253b\u256f\u2594\u2594\u2509\u258f\u2509\u2509\u2571\u2571\n\u2509\u2508\u2572\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2571\u2572\u2509\u2595\u2595\u2509\n\u2509\u2509\u2571\u2570\u2570\u2570\u256f\u256f\u256f\u256e\u256e\u256e\u2572\u2571\u2571\u2509\n#cat #Twitterart",
+                "url": "http://twitter.com/karldetkenprodj/status/167323093742780416",
+                "trackback_date": 1328727908,
+                "trackback_total": 27,
+                "url_expansions": [],
+                "target_birth_date": 1328727908,
+                "content": "\u2595\u2594\u2594\u2572\u2582\u2582\u2582\u2582\u2582\u2571\u2594\u2594\u258f\u2508\u2508\u2508\n\u2595\u2572\u2571\u2571\u250b\u250b\u250b\u250b\u250b\u2572\u2572\u2571\u258f\u2595\u2594\u258f\n\u2509\u2572\u2571\u256d\u2586\u256e\u250b\u256d\u2586\u256e\u2572\u2571\u2509\u2509\u2572\u2572\n\u2509\u2595\u2572\u2509\u2509\u2509\u2585\u2509\u2509\u2509\u2571\u258f\u2509\u2509\u2595\u2595\n\u2509\u2595\u2509\u2594\u2594\u2570\u253b\u256f\u2594\u2594\u2509\u258f\u2509\u2509\u2571\u2571\n\u2509\u2508\u2572\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2571\u2572\u2509\u2595\u2595\u2509\n\u2509\u2509\u2571\u2570\u2570\u2570\u256f\u256f\u256f\u256e\u256e\u256e\u2572\u2571\u2571\u2509\n#cat #Twitterart",
+                "mytype": "tweet",
+                "score": 9.59115,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/581786982/newpioneercue_normal.png",
+                "trackback_permalink": "http://twitter.com/KarlDetkenProDJ/status/167323093742780416",
+                "trackback_author_url": "http://twitter.com/karldetkenprodj",
+                "highlight": "\u2595\u2594\u2594\u2572\u2582\u2582\u2582\u2582\u2582\u2571\u2594\u2594\u258f\u2508\u2508\u2508 \u2595\u2572\u2571\u2571\u250b\u250b\u250b\u250b\u250b\u2572\u2572\u2571\u258f\u2595\u2594\u258f \u2509\u2572\u2571\u256d\u2586\u256e\u250b\u256d\u2586\u256e\u2572\u2571\u2509\u2509\u2572\u2572 \u2509\u2595\u2572\u2509\u2509\u2509\u2585\u2509\u2509\u2509\u2571\u258f\u2509\u2509\u2595\u2595 \u2509\u2595\u2509\u2594\u2594\u2570\u253b\u256f\u2594\u2594\u2509\u258f\u2509\u2509\u2571\u2571 \u2509\u2508\u2572\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2571\u2572\u2509\u2595\u2595\u2509 \u2509\u2509\u2571\u2570\u2570\u2570\u256f\u256f\u256f\u256e\u256e\u256e\u2572\u2571\u2571\u2509 #cat",
+                "topsy_author_url": "http://topsy.com/twitter/karldetkenprodj",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/karldetkenprodj/status/167323093742780416",
+                "trackback_author_name": "Karl Detken ProDJ",
+                "trackback_author_nick": "karldetkenprodj"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1364421736,
+                "title": "A #cat cartoon by Tom Toro: http://t.co/yJU3wSoKCF",
+                "url": "http://twitter.com/newyorker/status/317033859076218880",
+                "trackback_date": 1364421736,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/yJU3wSoKCF",
+                        "display_url": "nyr.kr/ZqjDNF",
+                        "expanded_url": "http://nyr.kr/ZqjDNF",
+                        "topsy_expanded_url": "http://www.newyorker.com/humor/issuecartoons/2013/04/01/cartoons_20130325"
+                    }
+                ],
+                "target_birth_date": 1364421736,
+                "content": "A #cat cartoon by Tom Toro: http://t.co/yJU3wSoKCF",
+                "mytype": "tweet",
+                "score": 9.588434,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/421413599441981441/GMZ5UIRl_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NewYorker/status/317033859076218880",
+                "trackback_author_url": "http://twitter.com/newyorker",
+                "highlight": "A #cat cartoon by Tom Toro:",
+                "topsy_author_url": "http://topsy.com/twitter/newyorker",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/newyorker/status/317033859076218880",
+                "trackback_author_name": "The New Yorker",
+                "trackback_author_nick": "newyorker"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 60,
+        "hidden": 0,
+        "total": 8671364,
+        "page": 1
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23push_back&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=20",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#push_back",
+            "window": "a",
+            "type": "tweet",
+            "offset": "20"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1395950437,
+                "title": "Dankie love RT @CharityMasango: Nawe upretty &gt;&gt;@Amon: So so pretty RT @Xoolani: \u2665 RT @PabiiMono: SelfieThursday .. #Bun #Push_Back #Faces :",
+                "url": "http://twitter.com/amonlicious/status/449274815900557312",
+                "trackback_date": 1395950437,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1395950437,
+                "content": "Dankie love RT @CharityMasango: Nawe upretty &gt;&gt;@Amon: So so pretty RT @Xoolani: \u2665 RT @PabiiMono: SelfieThursday .. #Bun #Push_Back #Faces :",
+                "mytype": "tweet",
+                "score": 4.2955704,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473393823847288832/ruXRKbun_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Amonlicious/status/449274815900557312",
+                "trackback_author_url": "http://twitter.com/amonlicious",
+                "highlight": "Dankie loveNawe upretty &gt;&gt;@Amon: So so pretty\u2665SelfieThursday .. #Bun #Push_Back #Faces :",
+                "topsy_author_url": "http://topsy.com/twitter/amonlicious",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/amonlicious/status/449274815900557312",
+                "trackback_author_name": "That_Nomah_Chick",
+                "trackback_author_nick": "amonlicious"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1365993964,
+                "title": "@BetteMidler @motherjones \"Here I am in an extremely #conservative area, and there was almost no #push_back.\"\n#Leadership #Education #Smarts",
+                "url": "http://twitter.com/cyrilehenry/status/323628258778308608",
+                "trackback_date": 1365993964,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1365993964,
+                "content": "@BetteMidler @motherjones \"Here I am in an extremely #conservative area, and there was almost no #push_back.\"\n#Leadership #Education #Smarts",
+                "mytype": "tweet",
+                "score": 4.0461354,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3013216315/de6cf467a8146697c946778eab0171a6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CyrileHenry/status/323628258778308608",
+                "trackback_author_url": "http://twitter.com/cyrilehenry",
+                "highlight": " @motherjones \"Here I am in an extremely #conservative area, and there was almost no #push_back.\" #Leadership #Education",
+                "topsy_author_url": "http://topsy.com/twitter/cyrilehenry",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cyrilehenry/status/323628258778308608",
+                "trackback_author_name": "Cyril",
+                "trackback_author_nick": "cyrilehenry"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 20,
+        "hidden": 0,
+        "total": 22,
+        "page": 1
+    }
+}

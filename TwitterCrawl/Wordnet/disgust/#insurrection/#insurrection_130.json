@@ -1,0 +1,273 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23insurrection&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=130",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#insurrection",
+            "window": "a",
+            "type": "tweet",
+            "offset": "130"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 8,
+                "firstpost_date": 1332080981,
+                "title": "Les gens ont confondus \"prendre\" et \"monter dessus\" hihi. #Bastille #insurrection http://t.co/TDCG0aFV",
+                "url": "http://twitter.com/onlylili/status/181386896289710080",
+                "trackback_date": 1332080981,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/TDCG0aFV",
+                        "expanded_url": "http://twitter.com/OnlyLili/status/181386896289710080/photo/1",
+                        "display_url": "pic.twitter.com/TDCG0aFV"
+                    }
+                ],
+                "target_birth_date": 1332080981,
+                "content": "Les gens ont confondus \"prendre\" et \"monter dessus\" hihi. #Bastille #insurrection http://t.co/TDCG0aFV",
+                "mytype": "tweet",
+                "score": 8.663481,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458606914939543552/OI-FY6Ox_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OnlyLili/status/181386896289710080",
+                "trackback_author_url": "http://twitter.com/onlylili",
+                "highlight": "Les gens ont confondus \"prendre\" et \"monter dessus\" hihi. #Bastille #insurrection",
+                "topsy_author_url": "http://topsy.com/twitter/onlylili",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/onlylili/status/181386896289710080",
+                "trackback_author_name": "C\u00e9line A.",
+                "trackback_author_nick": "onlylili"
+            },
+            {
+                "hits": 34,
+                "firstpost_date": 1332086669,
+                "title": "\"Nous emp\u00eacherons les fascistes de s'emparer de la patrie !\" http://t.co/5EIb56VK #Insurrection #Bastille",
+                "url": "http://twitter.com/melenchon2012/status/181410758574358529",
+                "trackback_date": 1332086669,
+                "trackback_total": 37,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/5EIb56VK",
+                        "display_url": "dai.ly/xAsRaQ",
+                        "expanded_url": "http://dai.ly/xAsRaQ",
+                        "topsy_expanded_url": "http://www.dailymotion.com/video/xphk8g_direct-reprenons-la-bastille_news"
+                    }
+                ],
+                "target_birth_date": 1332086669,
+                "content": "\"Nous emp\u00eacherons les fascistes de s'emparer de la patrie !\" http://t.co/5EIb56VK #Insurrection #Bastille",
+                "mytype": "tweet",
+                "score": 8.663393,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459040628731432960/bekjj4Z2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/melenchon2012/status/181410758574358529",
+                "trackback_author_url": "http://twitter.com/jlmelenchon",
+                "highlight": "\"Nous emp\u00eacherons les fascistes de s'emparer de la patrie !\" #Insurrection",
+                "topsy_author_url": "http://topsy.com/twitter/jlmelenchon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/melenchon2012/status/181410758574358529",
+                "trackback_author_name": "Jean-Luc M\u00e9lenchon",
+                "trackback_author_nick": "jlmelenchon"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1332170358,
+                "title": "Vid\u00e9o: ils sont le peuple de la #Bastille &gt; http://t.co/SaDw70bH via @humanite_fr #Insurrection #placeaupeuple",
+                "url": "http://twitter.com/melenchon2012/status/181761772112457728",
+                "trackback_date": 1332170358,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/SaDw70bH",
+                        "display_url": "bit.ly/FPIJNM",
+                        "expanded_url": "http://bit.ly/FPIJNM",
+                        "topsy_expanded_url": "http://www.humanite.fr/politique/video-ils-sont-le-peule-de-la-bastille-492551"
+                    }
+                ],
+                "target_birth_date": 1332170358,
+                "content": "Vid\u00e9o: ils sont le peuple de la #Bastille &gt; http://t.co/SaDw70bH via @humanite_fr #Insurrection #placeaupeuple",
+                "mytype": "tweet",
+                "score": 8.66175,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459040628731432960/bekjj4Z2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/melenchon2012/status/181761772112457728",
+                "trackback_author_url": "http://twitter.com/jlmelenchon",
+                "highlight": "Vid\u00e9o: ils sont le peuple de la #Bastille &gt; via @humanite_fr #Insurrection",
+                "topsy_author_url": "http://topsy.com/twitter/jlmelenchon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/melenchon2012/status/181761772112457728",
+                "trackback_author_name": "Jean-Luc M\u00e9lenchon",
+                "trackback_author_nick": "jlmelenchon"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1332081740,
+                "title": "Alerte #TWITTER a supprim\u00e9 le TOP hastag  #Bastille ! #Censure !!! #FDG #M\u00e9lenchon #insurrection",
+                "url": "http://twitter.com/baobab26/status/181390083209957376",
+                "trackback_date": 1332081740,
+                "trackback_total": 20,
+                "url_expansions": [],
+                "target_birth_date": 1332081740,
+                "content": "Alerte #TWITTER a supprim\u00e9 le TOP hastag  #Bastille ! #Censure !!! #FDG #M\u00e9lenchon #insurrection",
+                "mytype": "tweet",
+                "score": 8.660584,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/447482145452199936/XTZGHh-__normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Baobab26/status/181390083209957376",
+                "trackback_author_url": "http://twitter.com/baobab26",
+                "highlight": "Alerte #TWITTER a supprim\u00e9 le TOP hastag #Bastille ! #Censure !!! #FDG #M\u00e9lenchon",
+                "topsy_author_url": "http://topsy.com/twitter/baobab26",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/baobab26/status/181390083209957376",
+                "trackback_author_name": "\u0279\u01ddu\u0183\u0250\u028d \u01dd\u05df\u05df\u01dd\u0250\u05df",
+                "trackback_author_nick": "baobab26"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1347393866,
+                "title": "I have peered into the future and I see #INSURRECTION coming in America #INSURRECTION #UPRISING #CIVILWAR",
+                "url": "http://twitter.com/jahbalon/status/245613792967413761",
+                "trackback_date": 1347393866,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1347393866,
+                "content": "I have peered into the future and I see #INSURRECTION coming in America #INSURRECTION #UPRISING #CIVILWAR",
+                "mytype": "tweet",
+                "score": 8.658842,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/981781684/candlestick_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jahbalon/status/245613792967413761",
+                "trackback_author_url": "http://twitter.com/jahbalon",
+                "highlight": "I have peered into the future and I see #INSURRECTION coming in America #INSURRECTION #UPRISING",
+                "topsy_author_url": "http://topsy.com/twitter/jahbalon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jahbalon/status/245613792967413761",
+                "trackback_author_name": "jahbalon",
+                "trackback_author_nick": "jahbalon"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1293927898,
+                "title": "NOW Patriots, I am not going to create an underground #Insurrection. NO, I am taking it upon me. A #Committee WILL be created this week",
+                "url": "http://twitter.com/elianabenador/status/21361269445496832",
+                "trackback_date": 1293927898,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1293927898,
+                "content": "NOW Patriots, I am not going to create an underground #Insurrection. NO, I am taking it upon me. A #Committee WILL be created this week",
+                "mytype": "tweet",
+                "score": 8.658684,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464510584206024704/K4iQSahs_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/elianabenador/status/21361269445496832",
+                "trackback_author_url": "http://twitter.com/elianabenador",
+                "highlight": "NOW Patriots, I am not going to create an underground #Insurrection. NO, I am taking it upon me. A #Committee WILL be created this week",
+                "topsy_author_url": "http://topsy.com/twitter/elianabenador",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/elianabenador/status/21361269445496832",
+                "trackback_author_name": "\u2721 Eliana Benador \u2721",
+                "trackback_author_nick": "elianabenador"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1332076779,
+                "title": "Y a foule !! Pour une #6rep #insurrection #bastille #melenchon http://t.co/4hoV0g1c",
+                "url": "http://twitter.com/aknotwot/status/181369272277270528",
+                "trackback_date": 1332076779,
+                "trackback_total": 15,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4hoV0g1c",
+                        "expanded_url": "http://twitter.com/Aknotwot/status/181369272277270528/photo/1",
+                        "display_url": "pic.twitter.com/4hoV0g1c"
+                    }
+                ],
+                "target_birth_date": 1332076779,
+                "content": "Y a foule !! Pour une #6rep #insurrection #bastille #melenchon http://t.co/4hoV0g1c",
+                "mytype": "tweet",
+                "score": 8.658138,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3107136336/0bdad5f1b944504e35fd3281ceac6e4d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Aknotwot/status/181369272277270528",
+                "trackback_author_url": "http://twitter.com/aknotwot",
+                "highlight": "Y a foule !! Pour une #6rep #insurrection #bastille #melenchon",
+                "topsy_author_url": "http://topsy.com/twitter/aknotwot",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/aknotwot/status/181369272277270528",
+                "trackback_author_name": "Aknotwot",
+                "trackback_author_nick": "aknotwot"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1316795144,
+                "title": "If you dig our new shit, let's get some #FF's with a #insurrection tag!",
+                "url": "http://twitter.com/molotovsolution/status/117273453475799040",
+                "trackback_date": 1316795144,
+                "trackback_total": 3,
+                "url_expansions": [],
+                "target_birth_date": 1316795144,
+                "content": "If you dig our new shit, let's get some #FF's with a #insurrection tag!",
+                "mytype": "tweet",
+                "score": 8.657707,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3351431522/4701a3818516b4d1bfd91319412e9905_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MolotovSolution/status/117273453475799040",
+                "trackback_author_url": "http://twitter.com/molotovsolution",
+                "highlight": "If you dig our new shit, let's get some #FF's with a #insurrection tag!",
+                "topsy_author_url": "http://topsy.com/twitter/molotovsolution",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/molotovsolution/status/117273453475799040",
+                "trackback_author_name": "Molotov Solution",
+                "trackback_author_nick": "molotovsolution"
+            },
+            {
+                "hits": 22,
+                "firstpost_date": 1332085957,
+                "title": "Ridan l\u00e8ve la clameur populaire \u00e0 la #Bastille : #Insurrection ! http://t.co/3oRsSRjm",
+                "url": "http://twitter.com/melenchon2012/status/181407765015703552",
+                "trackback_date": 1332085957,
+                "trackback_total": 23,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3oRsSRjm",
+                        "expanded_url": "http://twitter.com/melenchon2012/status/181407765015703552/photo/1",
+                        "display_url": "pic.twitter.com/3oRsSRjm"
+                    }
+                ],
+                "target_birth_date": 1332085957,
+                "content": "Ridan l\u00e8ve la clameur populaire \u00e0 la #Bastille : #Insurrection ! http://t.co/3oRsSRjm",
+                "mytype": "tweet",
+                "score": 8.654467,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459040628731432960/bekjj4Z2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/melenchon2012/status/181407765015703552",
+                "trackback_author_url": "http://twitter.com/jlmelenchon",
+                "highlight": "Ridan l\u00e8ve la clameur populaire \u00e0 la #Bastille : #Insurrection !",
+                "topsy_author_url": "http://topsy.com/twitter/jlmelenchon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/melenchon2012/status/181407765015703552",
+                "trackback_author_name": "Jean-Luc M\u00e9lenchon",
+                "trackback_author_nick": "jlmelenchon"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1332938799,
+                "title": "La Poste : l'humain sacrifi\u00e9 au nom de la productivit\u00e9 &gt; http://t.co/21btEjmk via @mediapart #Insurrection #placeaupeuple",
+                "url": "http://twitter.com/melenchon2012/status/184984850724425728",
+                "trackback_date": 1332938799,
+                "trackback_total": 21,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/21btEjmk",
+                        "display_url": "t.co/21btEjmk",
+                        "expanded_url": "http://t.co/21btEjmk",
+                        "topsy_expanded_url": "http://t.co/21btEjmk"
+                    }
+                ],
+                "target_birth_date": 1332938799,
+                "content": "La Poste : l'humain sacrifi\u00e9 au nom de la productivit\u00e9 &gt; http://t.co/21btEjmk via @mediapart #Insurrection #placeaupeuple",
+                "mytype": "tweet",
+                "score": 8.653261,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459040628731432960/bekjj4Z2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/melenchon2012/status/184984850724425728",
+                "trackback_author_url": "http://twitter.com/jlmelenchon",
+                "highlight": "La Poste : l'humain sacrifi\u00e9 au nom de la productivit\u00e9 &gt; via @mediapart #Insurrection",
+                "topsy_author_url": "http://topsy.com/twitter/jlmelenchon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/melenchon2012/status/184984850724425728",
+                "trackback_author_name": "Jean-Luc M\u00e9lenchon",
+                "trackback_author_nick": "jlmelenchon"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 130,
+        "hidden": 0,
+        "total": 19599,
+        "page": 1
+    }
+}

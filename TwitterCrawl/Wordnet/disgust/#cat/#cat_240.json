@@ -1,0 +1,281 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23cat&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=240",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#cat",
+            "window": "a",
+            "type": "tweet",
+            "offset": "240"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 5,
+                "firstpost_date": 1339607882,
+                "title": "Melted Cats on Sidewalk http://t.co/5ZFarZos #cat #kitten #catproud",
+                "url": "http://twitter.com/cute_cat_pics/status/212957009241309184",
+                "trackback_date": 1339607882,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/5ZFarZos",
+                        "display_url": "bit.ly/pHTNRX",
+                        "expanded_url": "http://bit.ly/pHTNRX",
+                        "topsy_expanded_url": "http://nekojiman.com/neko/photo/4620/"
+                    }
+                ],
+                "target_birth_date": 1339607882,
+                "content": "Melted Cats on Sidewalk http://t.co/5ZFarZos #cat #kitten #catproud",
+                "mytype": "tweet",
+                "score": 9.277496,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1443504414/d-neko35795_1036_normal.jpg",
+                "trackback_permalink": "http://twitter.com/cute_cat_pics/status/212957009241309184",
+                "trackback_author_url": "http://twitter.com/cute_cat_pics",
+                "highlight": "Melted Cats on Sidewalk #cat #kitten",
+                "topsy_author_url": "http://topsy.com/twitter/cute_cat_pics",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cute_cat_pics/status/212957009241309184",
+                "trackback_author_name": "Cute Cat Pics",
+                "trackback_author_nick": "cute_cat_pics"
+            },
+            {
+                "hits": 144,
+                "firstpost_date": 1390485844,
+                "title": "\u732b\u306e\u6298\u308a\u7d19\u3059\u3054\u3044\u30fb\u30fb\u30fb http://t.co/NEd4QqfRtw #cat",
+                "url": "http://twitter.com/neco_pic/status/426354649700917250",
+                "trackback_date": 1390485844,
+                "trackback_total": 217,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/NEd4QqfRtw",
+                        "display_url": "pic.twitter.com/NEd4QqfRtw",
+                        "expanded_url": "http://twitter.com/DJcosmo_way/status/238206395202273280/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/A05HdFFCAAEuvch.jpg"
+                    }
+                ],
+                "target_birth_date": 1390485844,
+                "content": "\u732b\u306e\u6298\u308a\u7d19\u3059\u3054\u3044\u30fb\u30fb\u30fb http://t.co/NEd4QqfRtw #cat",
+                "mytype": "tweet",
+                "score": 9.277058,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000381123578/aaa557c7eb7216b93186c2127c320e89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/neco_pic/status/426354649700917250",
+                "trackback_author_url": "http://twitter.com/neco_pic",
+                "highlight": "\u732b\u306e\u6298\u308a\u7d19\u3059\u3054\u3044\u30fb\u30fb\u30fb",
+                "topsy_author_url": "http://topsy.com/twitter/neco_pic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/neco_pic/status/426354649700917250",
+                "trackback_author_name": "\u306d\u3053\u753b\u50cfbot",
+                "trackback_author_nick": "neco_pic"
+            },
+            {
+                "hits": 15,
+                "firstpost_date": 1384057994,
+                "title": "Cats rule the internet #cat http://t.co/zUW64zCAkL",
+                "url": "http://twitter.com/cammipham/status/399394291052589056",
+                "trackback_date": 1384057994,
+                "trackback_total": 25,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/zUW64zCAkL",
+                        "display_url": "pic.twitter.com/zUW64zCAkL",
+                        "expanded_url": "http://twitter.com/cammipham/status/399394291052589056/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BYru_dvCMAAtmDh.jpg"
+                    }
+                ],
+                "target_birth_date": 1384057994,
+                "content": "Cats rule the internet #cat http://t.co/zUW64zCAkL",
+                "mytype": "tweet",
+                "score": 9.276602,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3135087866/b1197867676c18be1df33760b2a3cb16_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/cammipham/status/399394291052589056",
+                "trackback_author_url": "http://twitter.com/cammipham",
+                "highlight": "Cats rule the internet #cat",
+                "topsy_author_url": "http://topsy.com/twitter/cammipham",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cammipham/status/399394291052589056",
+                "trackback_author_name": "CamMi Pham",
+                "trackback_author_nick": "cammipham"
+            },
+            {
+                "hits": 78,
+                "firstpost_date": 1369235849,
+                "title": "... please RT to help find a forever home for a #cat called Osiris   https://t.co/amLc9Jkgk8",
+                "url": "http://twitter.com/earthactivists/status/337225709913251841",
+                "trackback_date": 1369235849,
+                "trackback_total": 89,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/amLc9Jkgk8",
+                        "expanded_url": "https://www.facebook.com/esma.egypt/posts/580907648607223",
+                        "display_url": "facebook.com/esma.egypt/pos\u2026"
+                    }
+                ],
+                "target_birth_date": 1369235849,
+                "content": "... please RT to help find a forever home for a #cat called Osiris   https://t.co/amLc9Jkgk8",
+                "mytype": "tweet",
+                "score": 9.276279,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2298039201/7v97jjc8v0tl0zq3cvx3_normal.png",
+                "trackback_permalink": "http://twitter.com/EarthActivists/status/337225709913251841",
+                "trackback_author_url": "http://twitter.com/earthactivists",
+                "highlight": "... please RT to help find a forever home for a #cat called Osiris",
+                "topsy_author_url": "http://topsy.com/twitter/earthactivists",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/earthactivists/status/337225709913251841",
+                "trackback_author_name": "EAs for Earth(lings)",
+                "trackback_author_nick": "earthactivists"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1385770042,
+                "title": "=^-_-^= #kitty #cat #cute #purr #meow #pet http://t.co/JYQ7BoJaVt",
+                "url": "http://twitter.com/jullieoficial/status/406575144308834304",
+                "trackback_date": 1385770042,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/JYQ7BoJaVt",
+                        "display_url": "instagram.com/p/hUWrVDNKe0/",
+                        "expanded_url": "http://instagram.com/p/hUWrVDNKe0/",
+                        "topsy_expanded_url": "http://instagram.com/p/hUWrVDNKe0/"
+                    }
+                ],
+                "target_birth_date": 1385770042,
+                "content": "=^-_-^= #kitty #cat #cute #purr #meow #pet http://t.co/JYQ7BoJaVt",
+                "mytype": "tweet",
+                "score": 9.276095,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3750866314/ccaa23186cf06c36fd58e506298eefca_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jullieoficial/status/406575144308834304",
+                "trackback_author_url": "http://twitter.com/jullieoficial",
+                "highlight": "=^-_-^= #kitty #cat #cute #purr #meow #pet",
+                "topsy_author_url": "http://topsy.com/twitter/jullieoficial",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jullieoficial/status/406575144308834304",
+                "trackback_author_name": "Jullie",
+                "trackback_author_nick": "jullieoficial"
+            },
+            {
+                "hits": 43,
+                "firstpost_date": 1317078902,
+                "title": "Seu gato pode aparecer na @revistasuper. \u00c9 s\u00f3 tirar uma foto dele com filtro retr\u00f4 e publicar no Twitter com as tags #cat e #revistasuper",
+                "url": "http://twitter.com/revistasuper/status/118463620786036736",
+                "trackback_date": 1317078902,
+                "trackback_total": 67,
+                "url_expansions": [],
+                "target_birth_date": 1317078902,
+                "content": "Seu gato pode aparecer na @revistasuper. \u00c9 s\u00f3 tirar uma foto dele com filtro retr\u00f4 e publicar no Twitter com as tags #cat e #revistasuper",
+                "mytype": "tweet",
+                "score": 9.275675,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459745420709605376/704pmBCo_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/revistasuper/status/118463620786036736",
+                "trackback_author_url": "http://twitter.com/revistasuper",
+                "highlight": "Seu gato pode aparecer na @revistasuper. \u00c9 s\u00f3 tirar uma foto dele com filtro retr\u00f4 e publicar no Twitter com as tags #cat e",
+                "topsy_author_url": "http://topsy.com/twitter/revistasuper",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/revistasuper/status/118463620786036736",
+                "trackback_author_name": "Superinteressante",
+                "trackback_author_nick": "revistasuper"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1355596326,
+                "title": "Tem d\u00favidas sobre a programa\u00e7\u00e3o? Ou quer saber sobre os figurinos das novelas? Entre em contato com a #CAT: http://t.co/khjr6yls",
+                "url": "http://twitter.com/rede_globo/status/280017404778651648",
+                "trackback_date": 1355596326,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/khjr6yls",
+                        "display_url": "bit.ly/mzWpkF",
+                        "expanded_url": "http://bit.ly/mzWpkF",
+                        "topsy_expanded_url": "http://falecomaredeglobo.globo.com/"
+                    }
+                ],
+                "target_birth_date": 1355596326,
+                "content": "Tem d\u00favidas sobre a programa\u00e7\u00e3o? Ou quer saber sobre os figurinos das novelas? Entre em contato com a #CAT: http://t.co/khjr6yls",
+                "mytype": "tweet",
+                "score": 9.275064,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452975864670482432/1WDRp3jg_normal.png",
+                "trackback_permalink": "http://twitter.com/rede_globo/status/280017404778651648",
+                "trackback_author_url": "http://twitter.com/rede_globo",
+                "highlight": "Tem d\u00favidas sobre a programa\u00e7\u00e3o? Ou quer saber sobre os figurinos das novelas? Entre em contato com a #CAT:",
+                "topsy_author_url": "http://topsy.com/twitter/rede_globo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rede_globo/status/280017404778651648",
+                "trackback_author_name": "Globo",
+                "trackback_author_nick": "rede_globo"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1396799932,
+                "title": "Hope the players are as fired up by that as I am. (But they show a bit more self control.) #cat #fence #40yards",
+                "url": "http://twitter.com/paul_tomkins/status/452837853274595328",
+                "trackback_date": 1396799932,
+                "trackback_total": 24,
+                "url_expansions": [],
+                "target_birth_date": 1396799932,
+                "content": "Hope the players are as fired up by that as I am. (But they show a bit more self control.) #cat #fence #40yards",
+                "mytype": "tweet",
+                "score": 9.274393,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/445600413912297474/c6Amur-N_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/paul_tomkins/status/452837853274595328",
+                "trackback_author_url": "http://twitter.com/paul_tomkins",
+                "highlight": "Hope the players are as fired up by that as I am. (But they show a bit more self control.) #cat #fence",
+                "topsy_author_url": "http://topsy.com/twitter/paul_tomkins",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/paul_tomkins/status/452837853274595328",
+                "trackback_author_name": "Paul Tomkins",
+                "trackback_author_nick": "paul_tomkins"
+            },
+            {
+                "hits": 25,
+                "firstpost_date": 1357716180,
+                "title": "If your friends were Facebook today #CAT http://t.co/Kl4NNLjT",
+                "url": "http://twitter.com/fakingnews/status/288908716810579969",
+                "trackback_date": 1357716180,
+                "trackback_total": 26,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Kl4NNLjT",
+                        "expanded_url": "http://twitter.com/fakingnews/status/288908716810579969/photo/1",
+                        "display_url": "pic.twitter.com/Kl4NNLjT"
+                    }
+                ],
+                "target_birth_date": 1357716180,
+                "content": "If your friends were Facebook today #CAT http://t.co/Kl4NNLjT",
+                "mytype": "tweet",
+                "score": 9.27351,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/351272013/logo_short_normal.jpg",
+                "trackback_permalink": "http://twitter.com/fakingnews/status/288908716810579969",
+                "trackback_author_url": "http://twitter.com/fakingnews",
+                "highlight": "If your friends were Facebook today #CAT",
+                "topsy_author_url": "http://topsy.com/twitter/fakingnews",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/fakingnews/status/288908716810579969",
+                "trackback_author_name": "Faking News",
+                "trackback_author_nick": "fakingnews"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1306844958,
+                "title": "#TOP3: Em terceiro lugar fica a linda da @pimentadocee_ #SIGAM essa #CAT.",
+                "url": "http://twitter.com/entreteen/status/75539348493312000",
+                "trackback_date": 1306844958,
+                "trackback_total": 3,
+                "url_expansions": [],
+                "target_birth_date": 1306844958,
+                "content": "#TOP3: Em terceiro lugar fica a linda da @pimentadocee_ #SIGAM essa #CAT.",
+                "mytype": "tweet",
+                "score": 9.273028,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000042330636/38d7821023c81d72ae6eb9a21a5d1d34_normal.png",
+                "trackback_permalink": "http://twitter.com/EntreTeen/status/75539348493312000",
+                "trackback_author_url": "http://twitter.com/entreteenportal",
+                "highlight": "#TOP3: Em terceiro lugar fica a linda da @pimentadocee_ #SIGAM essa #CAT.",
+                "topsy_author_url": "http://topsy.com/twitter/entreteenportal",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/entreteen/status/75539348493312000",
+                "trackback_author_name": "Entre Teen",
+                "trackback_author_nick": "entreteenportal"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 240,
+        "hidden": 0,
+        "total": 8654920,
+        "page": 1
+    }
+}

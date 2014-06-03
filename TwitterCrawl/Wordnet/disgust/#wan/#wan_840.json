@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23wan&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=840",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#wan",
+            "window": "a",
+            "type": "tweet",
+            "offset": "840"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1382794091,
+                "title": "\u8ff7\u3044\u72ac\u306f\u63a2\u3057\u3066\u3042\u3052\u3088\u3046\uff3c\u308f\u3093\u30c0\u30d5\u30eb\uff0f\uff03Wan_da_ful",
+                "url": "http://twitter.com/kazuneco/status/394093099573448704",
+                "trackback_date": 1382794091,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1382794091,
+                "content": "\u8ff7\u3044\u72ac\u306f\u63a2\u3057\u3066\u3042\u3052\u3088\u3046\uff3c\u308f\u3093\u30c0\u30d5\u30eb\uff0f\uff03Wan_da_ful",
+                "mytype": "tweet",
+                "score": 8.128478,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000672977559/21e4f17eee9c699cbd95c36bd03f4747_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/kazuneco/status/394093099573448704",
+                "trackback_author_url": "http://twitter.com/kazuneco",
+                "highlight": "\u8ff7\u3044\u72ac\u306f\u63a2\u3057\u3066\u3042\u3052\u3088\u3046\uff3c\u308f\u3093\u30c0\u30d5\u30eb\uff0f\uff03Wan_da_ful",
+                "topsy_author_url": "http://topsy.com/twitter/kazuneco",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kazuneco/status/394093099573448704",
+                "trackback_author_name": "\u548c\u97f3",
+                "trackback_author_nick": "kazuneco"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1384607432,
+                "title": "\u308f\u3093\u9054\u3082\u98df\u6b32\u306e\u79cb\u3088\u3001\uff3c\u308f\u3093\u30c0\u30d5\u30eb\uff0f\uff03Wan_da_ful",
+                "url": "http://twitter.com/kazuneco/status/401698802190389248",
+                "trackback_date": 1384607432,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1384607432,
+                "content": "\u308f\u3093\u9054\u3082\u98df\u6b32\u306e\u79cb\u3088\u3001\uff3c\u308f\u3093\u30c0\u30d5\u30eb\uff0f\uff03Wan_da_ful",
+                "mytype": "tweet",
+                "score": 8.128315,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000672977559/21e4f17eee9c699cbd95c36bd03f4747_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/kazuneco/status/401698802190389248",
+                "trackback_author_url": "http://twitter.com/kazuneco",
+                "highlight": "\u308f\u3093\u9054\u3082\u98df\u6b32\u306e\u79cb\u3088\u3001\uff3c\u308f\u3093\u30c0\u30d5\u30eb\uff0f\uff03Wan_da_ful",
+                "topsy_author_url": "http://topsy.com/twitter/kazuneco",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kazuneco/status/401698802190389248",
+                "trackback_author_name": "\u548c\u97f3",
+                "trackback_author_nick": "kazuneco"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1384002260,
+                "title": "\u308f\u3093\u306b\u3082\u30b9\u30dd\u30fc\u30c4\u306e\u79cb\u3088\uff3c\u308f\u3093\u30c0\u30d5\u30eb\uff0f\uff03Wan_da_ful",
+                "url": "http://twitter.com/kazuneco/status/399160528125194240",
+                "trackback_date": 1384002260,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1384002260,
+                "content": "\u308f\u3093\u306b\u3082\u30b9\u30dd\u30fc\u30c4\u306e\u79cb\u3088\uff3c\u308f\u3093\u30c0\u30d5\u30eb\uff0f\uff03Wan_da_ful",
+                "mytype": "tweet",
+                "score": 8.128315,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000672977559/21e4f17eee9c699cbd95c36bd03f4747_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/kazuneco/status/399160528125194240",
+                "trackback_author_url": "http://twitter.com/kazuneco",
+                "highlight": "\u308f\u3093\u306b\u3082\u30b9\u30dd\u30fc\u30c4\u306e\u79cb\u3088\uff3c\u308f\u3093\u30c0\u30d5\u30eb\uff0f\uff03Wan_da_ful",
+                "topsy_author_url": "http://topsy.com/twitter/kazuneco",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kazuneco/status/399160528125194240",
+                "trackback_author_name": "\u548c\u97f3",
+                "trackback_author_nick": "kazuneco"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1342209609,
+                "title": "#computers Differentiating #LAN and #WAN http://t.co/DXD4bUbf",
+                "url": "http://twitter.com/eileeve/status/223869443263053828",
+                "trackback_date": 1342209609,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DXD4bUbf",
+                        "display_url": "bit.ly/ezFNOc",
+                        "expanded_url": "http://bit.ly/ezFNOc",
+                        "topsy_expanded_url": "http://www.helium.com/items/2093533-differences-between-lan-and-wan"
+                    }
+                ],
+                "target_birth_date": 1342209609,
+                "content": "#computers Differentiating #LAN and #WAN http://t.co/DXD4bUbf",
+                "mytype": "tweet",
+                "score": 8.128069,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1219002322/ev_normal.jpg",
+                "trackback_permalink": "http://twitter.com/eileeve/status/223869443263053828",
+                "trackback_author_url": "http://twitter.com/eileeve",
+                "highlight": "#computers Differentiating #LAN and #WAN",
+                "topsy_author_url": "http://topsy.com/twitter/eileeve",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/eileeve/status/223869443263053828",
+                "trackback_author_name": "Eileen Eva",
+                "trackback_author_nick": "eileeve"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1340000647,
+                "title": "#computers Differentiating #LAN and #WAN http://t.co/DXD4bUbf",
+                "url": "http://twitter.com/eileeve/status/214604386633121793",
+                "trackback_date": 1340000647,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DXD4bUbf",
+                        "display_url": "bit.ly/ezFNOc",
+                        "expanded_url": "http://bit.ly/ezFNOc",
+                        "topsy_expanded_url": "http://www.helium.com/items/2093533-differences-between-lan-and-wan"
+                    }
+                ],
+                "target_birth_date": 1340000647,
+                "content": "#computers Differentiating #LAN and #WAN http://t.co/DXD4bUbf",
+                "mytype": "tweet",
+                "score": 8.128069,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1219002322/ev_normal.jpg",
+                "trackback_permalink": "http://twitter.com/eileeve/status/214604386633121793",
+                "trackback_author_url": "http://twitter.com/eileeve",
+                "highlight": "#computers Differentiating #LAN and #WAN",
+                "topsy_author_url": "http://topsy.com/twitter/eileeve",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/eileeve/status/214604386633121793",
+                "trackback_author_name": "Eileen Eva",
+                "trackback_author_nick": "eileeve"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1334780107,
+                "title": "Don't mind the #wan. At the end of that last tweet...haha",
+                "url": "http://twitter.com/burnhamamerica/status/192707855537799168",
+                "trackback_date": 1334780107,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1334780107,
+                "content": "Don't mind the #wan. At the end of that last tweet...haha",
+                "mytype": "tweet",
+                "score": 8.127813,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/466056594585710592/453HT_FH_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BurnhamAmerica/status/192707855537799168",
+                "trackback_author_url": "http://twitter.com/natalie_ellis_",
+                "highlight": "Don't mind the #wan. At the end of that last tweet...haha",
+                "topsy_author_url": "http://topsy.com/twitter/natalie_ellis_",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/burnhamamerica/status/192707855537799168",
+                "trackback_author_name": "Natalie",
+                "trackback_author_nick": "natalie_ellis_"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1327294142,
+                "title": "#computers Differentiating #LAN and #WAN http://t.co/DXD8Jukp",
+                "url": "http://twitter.com/eileeve/status/161309441294213121",
+                "trackback_date": 1327294142,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DXD8Jukp",
+                        "display_url": "bit.ly/ezFNOc",
+                        "expanded_url": "http://bit.ly/ezFNOc",
+                        "topsy_expanded_url": "http://www.helium.com/items/2093533-differences-between-lan-and-wan"
+                    }
+                ],
+                "target_birth_date": 1327294142,
+                "content": "#computers Differentiating #LAN and #WAN http://t.co/DXD8Jukp",
+                "mytype": "tweet",
+                "score": 8.127496,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1219002322/ev_normal.jpg",
+                "trackback_permalink": "http://twitter.com/eileeve/status/161309441294213121",
+                "trackback_author_url": "http://twitter.com/eileeve",
+                "highlight": "#computers Differentiating #LAN and #WAN",
+                "topsy_author_url": "http://topsy.com/twitter/eileeve",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/eileeve/status/161309441294213121",
+                "trackback_author_name": "Eileen Eva",
+                "trackback_author_nick": "eileeve"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1326172142,
+                "title": "#computers Differentiating #LAN and #WAN http://t.co/DXD8Jukp",
+                "url": "http://twitter.com/eileeve/status/156603432155889664",
+                "trackback_date": 1326172142,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DXD8Jukp",
+                        "display_url": "bit.ly/ezFNOc",
+                        "expanded_url": "http://bit.ly/ezFNOc",
+                        "topsy_expanded_url": "http://www.helium.com/items/2093533-differences-between-lan-and-wan"
+                    }
+                ],
+                "target_birth_date": 1326172142,
+                "content": "#computers Differentiating #LAN and #WAN http://t.co/DXD8Jukp",
+                "mytype": "tweet",
+                "score": 8.127496,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1219002322/ev_normal.jpg",
+                "trackback_permalink": "http://twitter.com/eileeve/status/156603432155889664",
+                "trackback_author_url": "http://twitter.com/eileeve",
+                "highlight": "#computers Differentiating #LAN and #WAN",
+                "topsy_author_url": "http://topsy.com/twitter/eileeve",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/eileeve/status/156603432155889664",
+                "trackback_author_name": "Eileen Eva",
+                "trackback_author_nick": "eileeve"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1323916203,
+                "title": "#computers Differentiating #LAN and #WAN http://t.co/DXD8Jukp",
+                "url": "http://twitter.com/eileeve/status/147141336724799489",
+                "trackback_date": 1323916203,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DXD8Jukp",
+                        "display_url": "bit.ly/ezFNOc",
+                        "expanded_url": "http://bit.ly/ezFNOc",
+                        "topsy_expanded_url": "http://www.helium.com/items/2093533-differences-between-lan-and-wan"
+                    }
+                ],
+                "target_birth_date": 1323916203,
+                "content": "#computers Differentiating #LAN and #WAN http://t.co/DXD8Jukp",
+                "mytype": "tweet",
+                "score": 8.127496,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1219002322/ev_normal.jpg",
+                "trackback_permalink": "http://twitter.com/eileeve/status/147141336724799489",
+                "trackback_author_url": "http://twitter.com/eileeve",
+                "highlight": "#computers Differentiating #LAN and #WAN",
+                "topsy_author_url": "http://topsy.com/twitter/eileeve",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/eileeve/status/147141336724799489",
+                "trackback_author_name": "Eileen Eva",
+                "trackback_author_nick": "eileeve"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1354083303,
+                "title": "#computers Differentiating #LAN and #WAN http://t.co/DXD4bUbf",
+                "url": "http://twitter.com/eileeve/status/273671328274452480",
+                "trackback_date": 1354083303,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DXD4bUbf",
+                        "display_url": "bit.ly/ezFNOc",
+                        "expanded_url": "http://bit.ly/ezFNOc",
+                        "topsy_expanded_url": "http://www.helium.com/items/2093533-differences-between-lan-and-wan"
+                    }
+                ],
+                "target_birth_date": 1354083303,
+                "content": "#computers Differentiating #LAN and #WAN http://t.co/DXD4bUbf",
+                "mytype": "tweet",
+                "score": 8.127492,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1219002322/ev_normal.jpg",
+                "trackback_permalink": "http://twitter.com/eileeve/status/273671328274452480",
+                "trackback_author_url": "http://twitter.com/eileeve",
+                "highlight": "#computers Differentiating #LAN and #WAN",
+                "topsy_author_url": "http://topsy.com/twitter/eileeve",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/eileeve/status/273671328274452480",
+                "trackback_author_name": "Eileen Eva",
+                "trackback_author_nick": "eileeve"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 840,
+        "hidden": 0,
+        "total": 101176,
+        "page": 1
+    }
+}

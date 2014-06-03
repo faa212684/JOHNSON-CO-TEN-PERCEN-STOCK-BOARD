@@ -1,0 +1,296 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23mad&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=130",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#mad",
+            "window": "a",
+            "type": "tweet",
+            "offset": "130"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 61,
+                "firstpost_date": 1368874809,
+                "title": "#LigaBBVA #MAD Mourinho: \"He fracasado esta temporada\" http://t.co/cTLB44FKng",
+                "url": "http://twitter.com/ligabbva/status/335711399160446976",
+                "trackback_date": 1368874809,
+                "trackback_total": 75,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cTLB44FKng",
+                        "display_url": "ow.ly/l9PdM",
+                        "expanded_url": "http://ow.ly/l9PdM",
+                        "topsy_expanded_url": "http://www.ligabbva.com/603_copa-del-rey/2055416_mourinho-he-fracasado-esta-temporada.html"
+                    }
+                ],
+                "target_birth_date": 1368874809,
+                "content": "#LigaBBVA #MAD Mourinho: \"He fracasado esta temporada\" http://t.co/cTLB44FKng",
+                "mytype": "tweet",
+                "score": 9.566044,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/335711399160446976",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#LigaBBVA #MAD Mourinho: \"He fracasado esta temporada\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/335711399160446976",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 202,
+                "firstpost_date": 1340832773,
+                "title": "#MAD Ramos: \"S\u00faper orgulloso de ser espa\u00f1ol. Ten\u00eda ganas de tirar el penalti porque lo he hecho siempre\".",
+                "url": "http://twitter.com/ligabbva/status/218094574176960513",
+                "trackback_date": 1340832773,
+                "trackback_total": 226,
+                "url_expansions": [],
+                "target_birth_date": 1340832773,
+                "content": "#MAD Ramos: \"S\u00faper orgulloso de ser espa\u00f1ol. Ten\u00eda ganas de tirar el penalti porque lo he hecho siempre\".",
+                "mytype": "tweet",
+                "score": 9.565649,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/218094574176960513",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Ramos: \"S\u00faper orgulloso de ser espa\u00f1ol. Ten\u00eda ganas de tirar el penalti porque lo he hecho siempre\".",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/218094574176960513",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 100,
+                "firstpost_date": 1336217702,
+                "title": "#MAD Federico Higua\u00edn: \u201cMi hermano no se va a ir del Real Madrid\u201d http://t.co/mtlis1tE",
+                "url": "http://twitter.com/ligabbva/status/198737564776140801",
+                "trackback_date": 1336217702,
+                "trackback_total": 110,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/mtlis1tE",
+                        "display_url": "ow.ly/aIx4J",
+                        "expanded_url": "http://ow.ly/aIx4J",
+                        "topsy_expanded_url": "http://www.sportyou.es/blog/futbol/2012/05/05/federico-higuain-mi-hermano-no-se-va-a-ir-del-real-madrid-411209.html"
+                    }
+                ],
+                "target_birth_date": 1336217702,
+                "content": "#MAD Federico Higua\u00edn: \u201cMi hermano no se va a ir del Real Madrid\u201d http://t.co/mtlis1tE",
+                "mytype": "tweet",
+                "score": 9.565133,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/198737564776140801",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Federico Higua\u00edn: \u201cMi hermano no se va a ir del Real Madrid\u201d",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/198737564776140801",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 99,
+                "firstpost_date": 1335460813,
+                "title": "#MAD V\u00eddeo. Mourinho: \"Voy a continuar en el Real Madrid\" http://t.co/VAJLWDYz",
+                "url": "http://twitter.com/ligabbva/status/195562944078155776",
+                "trackback_date": 1335460813,
+                "trackback_total": 108,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/VAJLWDYz",
+                        "display_url": "ow.ly/axsuf",
+                        "expanded_url": "http://ow.ly/axsuf",
+                        "topsy_expanded_url": "http://www.ligabbva.com/watch?feature=plcp&index=13&list=UUb1JlyEU7j_NrSZjShW_apw&v=eyxNhuG2JOQ"
+                    }
+                ],
+                "target_birth_date": 1335460813,
+                "content": "#MAD V\u00eddeo. Mourinho: \"Voy a continuar en el Real Madrid\" http://t.co/VAJLWDYz",
+                "mytype": "tweet",
+                "score": 9.565022,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/195562944078155776",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Mourinho: \"Voy a continuar en el Real Madrid\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/195562944078155776",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 64,
+                "firstpost_date": 1358110808,
+                "title": "#LigaBBVA #MAD El peor Real Madrid de las \u00faltimas siete temporadas http://t.co/xf2NDDZ5 http://t.co/BJ6gFIHU",
+                "url": "http://twitter.com/ligabbva/status/290563907985223680",
+                "trackback_date": 1358110808,
+                "trackback_total": 81,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/xf2NDDZ5",
+                        "display_url": "ow.ly/gLYW3",
+                        "expanded_url": "http://ow.ly/gLYW3",
+                        "topsy_expanded_url": "http://www.ligabbva.com/3209_real-madrid/1888185_el-peor-real-madrid-de-las-ultimas-siete-temporadas.html"
+                    },
+                    {
+                        "url": "http://t.co/BJ6gFIHU",
+                        "display_url": "ow.ly/i/1mJPn",
+                        "expanded_url": "http://ow.ly/i/1mJPn",
+                        "topsy_expanded_url": "http://ow.ly/i/1mJPn"
+                    }
+                ],
+                "target_birth_date": 1358110808,
+                "content": "#LigaBBVA #MAD El peor Real Madrid de las \u00faltimas siete temporadas http://t.co/xf2NDDZ5 http://t.co/BJ6gFIHU",
+                "mytype": "tweet",
+                "score": 9.564897,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/290563907985223680",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#LigaBBVA #MAD El peor Real Madrid de las \u00faltimas siete temporadas",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/290563907985223680",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 65,
+                "firstpost_date": 1345722676,
+                "title": "#MAD Kak\u00e1, fuera de la convocatoria de la Supercopa\n http://t.co/GoajVED7",
+                "url": "http://twitter.com/ligabbva/status/238604313700737024",
+                "trackback_date": 1345722676,
+                "trackback_total": 78,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/GoajVED7",
+                        "display_url": "ow.ly/daMU7",
+                        "expanded_url": "http://ow.ly/daMU7",
+                        "topsy_expanded_url": "http://ow.ly/daMU7"
+                    }
+                ],
+                "target_birth_date": 1345722676,
+                "content": "#MAD Kak\u00e1, fuera de la convocatoria de la Supercopa\n http://t.co/GoajVED7",
+                "mytype": "tweet",
+                "score": 9.564577,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/238604313700737024",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Kak\u00e1, fuera de la convocatoria de la Supercopa",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/238604313700737024",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 93,
+                "firstpost_date": 1350521410,
+                "title": "#MAD Modric: \"Bale deber\u00eda jugar para el Real Madrid y espero que venga\" http://t.co/DL5MjDeG",
+                "url": "http://twitter.com/ligabbva/status/258731665692704768",
+                "trackback_date": 1350521410,
+                "trackback_total": 104,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DL5MjDeG",
+                        "display_url": "ow.ly/eya2A",
+                        "expanded_url": "http://ow.ly/eya2A",
+                        "topsy_expanded_url": "http://www.sportyou.es/blog/futbol/2012/10/17/modric-bale-deberia-jugar-para-el-real-madrid-y-espero-que-venga-429673.html"
+                    }
+                ],
+                "target_birth_date": 1350521410,
+                "content": "#MAD Modric: \"Bale deber\u00eda jugar para el Real Madrid y espero que venga\" http://t.co/DL5MjDeG",
+                "mytype": "tweet",
+                "score": 9.5633,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/258731665692704768",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Modric: \"Bale deber\u00eda jugar para el Real Madrid y espero que venga\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/258731665692704768",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 104,
+                "firstpost_date": 1346293223,
+                "title": "#MAD V\u00eddeo. Higua\u00edn: \"Ya le jugamos como queremos al Barcelona\" http://t.co/bbRCXQaF",
+                "url": "http://twitter.com/ligabbva/status/240997361135005696",
+                "trackback_date": 1346293223,
+                "trackback_total": 126,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/bbRCXQaF",
+                        "display_url": "ow.ly/dkKeU",
+                        "expanded_url": "http://ow.ly/dkKeU",
+                        "topsy_expanded_url": "http://ow.ly/dkKeU"
+                    }
+                ],
+                "target_birth_date": 1346293223,
+                "content": "#MAD V\u00eddeo. Higua\u00edn: \"Ya le jugamos como queremos al Barcelona\" http://t.co/bbRCXQaF",
+                "mytype": "tweet",
+                "score": 9.5632515,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/240997361135005696",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Higua\u00edn: \"Ya le jugamos como queremos al Barcelona\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/240997361135005696",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 119,
+                "firstpost_date": 1350039997,
+                "title": "#MAD Mourinho: \u201cCristiano es el mejor del universo\u201d http://t.co/7m8gpeuS",
+                "url": "http://twitter.com/ligabbva/status/256712472411660288",
+                "trackback_date": 1350039997,
+                "trackback_total": 140,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7m8gpeuS",
+                        "display_url": "ow.ly/eq5cQ",
+                        "expanded_url": "http://ow.ly/eq5cQ",
+                        "topsy_expanded_url": "http://www.ligabbva.com/news/2012/10/12/mourinho-cristiano-es-el-mejor-del-universo-27344.html"
+                    }
+                ],
+                "target_birth_date": 1350039997,
+                "content": "#MAD Mourinho: \u201cCristiano es el mejor del universo\u201d http://t.co/7m8gpeuS",
+                "mytype": "tweet",
+                "score": 9.563012,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/256712472411660288",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Mourinho: \u201cCristiano es el mejor del universo\u201d",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/256712472411660288",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 77,
+                "firstpost_date": 1303938868,
+                "title": "#MAD Cristiano: \"El Barcelona tiene mucho poder,  tanto dentro como fuera del c\u00e9sped\"",
+                "url": "http://twitter.com/ligabbva/status/63350323502268416",
+                "trackback_date": 1303938868,
+                "trackback_total": 96,
+                "url_expansions": [],
+                "target_birth_date": 1303938868,
+                "content": "#MAD Cristiano: \"El Barcelona tiene mucho poder,  tanto dentro como fuera del c\u00e9sped\"",
+                "mytype": "tweet",
+                "score": 9.561882,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/ligabbva/status/63350323502268416",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Cristiano: \"El Barcelona tiene mucho poder, tanto dentro como fuera del c\u00e9sped\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/63350323502268416",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 130,
+        "hidden": 0,
+        "total": 1957884,
+        "page": 1
+    }
+}

@@ -1,0 +1,297 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23mad&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=800",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#mad",
+            "window": "a",
+            "type": "tweet",
+            "offset": "800"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 34,
+                "firstpost_date": 1337121314,
+                "title": "#MAD V\u00eddeo. Diez a\u00f1os de la 'Novena' del Real Madrid http://t.co/kowkteTv",
+                "url": "http://twitter.com/ligabbva/status/202527587937943553",
+                "trackback_date": 1337121314,
+                "trackback_total": 35,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kowkteTv",
+                        "display_url": "ow.ly/aVzcX",
+                        "expanded_url": "http://ow.ly/aVzcX",
+                        "topsy_expanded_url": "http://www.ligabbva.com/watch?feature=plcp&index=2&list=UUb1JlyEU7j_NrSZjShW_apw&v=kIQDquBHbww"
+                    }
+                ],
+                "target_birth_date": 1337121314,
+                "content": "#MAD V\u00eddeo. Diez a\u00f1os de la 'Novena' del Real Madrid http://t.co/kowkteTv",
+                "mytype": "tweet",
+                "score": 9.458715,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/202527587937943553",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Diez a\u00f1os de la 'Novena' del Real Madrid",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/202527587937943553",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 29,
+                "firstpost_date": 1364401870,
+                "title": "#LigaBBVA #MAD Ramos asegura que tiene \"la espinita de la Champions\" http://t.co/QA59OrHbX5",
+                "url": "http://twitter.com/ligabbva/status/316950535234285568",
+                "trackback_date": 1364401870,
+                "trackback_total": 33,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/QA59OrHbX5",
+                        "display_url": "ow.ly/jsRsb",
+                        "expanded_url": "http://ow.ly/jsRsb",
+                        "topsy_expanded_url": "http://www.ligabbva.com/3209_real-madrid/1986386_ramos-asegura-que-tiene-la-espinita-de-la-champions.html"
+                    }
+                ],
+                "target_birth_date": 1364401870,
+                "content": "#LigaBBVA #MAD Ramos asegura que tiene \"la espinita de la Champions\" http://t.co/QA59OrHbX5",
+                "mytype": "tweet",
+                "score": 9.458695,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/316950535234285568",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#LigaBBVA #MAD Ramos asegura que tiene \"la espinita de la Champions\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/316950535234285568",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 50,
+                "firstpost_date": 1317592505,
+                "title": "#MAD Higua\u00edn: \"Ten\u00eda ganas de hacer un partido as\u00ed por todo lo que sufr\u00ed con la lesi\u00f3n\".",
+                "url": "http://twitter.com/ligabbva/status/120617828394086400",
+                "trackback_date": 1317592505,
+                "trackback_total": 65,
+                "url_expansions": [],
+                "target_birth_date": 1317592505,
+                "content": "#MAD Higua\u00edn: \"Ten\u00eda ganas de hacer un partido as\u00ed por todo lo que sufr\u00ed con la lesi\u00f3n\".",
+                "mytype": "tweet",
+                "score": 9.458643,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/120617828394086400",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Higua\u00edn: \"Ten\u00eda ganas de hacer un partido as\u00ed por todo lo que sufr\u00ed con la lesi\u00f3n\".",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/120617828394086400",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 38,
+                "firstpost_date": 1347060904,
+                "title": "#MAD V\u00eddeo. Usain Bolt se decanta por Cristiano Ronaldo http://t.co/1ueoM88b",
+                "url": "http://twitter.com/ligabbva/status/244217248754061313",
+                "trackback_date": 1347060904,
+                "trackback_total": 42,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1ueoM88b",
+                        "display_url": "ow.ly/dxXli",
+                        "expanded_url": "http://ow.ly/dxXli",
+                        "topsy_expanded_url": "http://ow.ly/dxXli"
+                    }
+                ],
+                "target_birth_date": 1347060904,
+                "content": "#MAD V\u00eddeo. Usain Bolt se decanta por Cristiano Ronaldo http://t.co/1ueoM88b",
+                "mytype": "tweet",
+                "score": 9.458228,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/244217248754061313",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Usain Bolt se decanta por Cristiano Ronaldo",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/244217248754061313",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 26,
+                "firstpost_date": 1328654106,
+                "title": "#MAD V\u00eddeo. Kak\u00e1, el mejor socio de Xabi Alonso http://t.co/uJJ6ggQ9",
+                "url": "http://twitter.com/ligabbva/status/167013542673907714",
+                "trackback_date": 1328654106,
+                "trackback_total": 29,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/uJJ6ggQ9",
+                        "display_url": "ow.ly/8VLTp",
+                        "expanded_url": "http://ow.ly/8VLTp",
+                        "topsy_expanded_url": "http://www.ligabbva.com/watch?v=xgk3zDs0BpI"
+                    }
+                ],
+                "target_birth_date": 1328654106,
+                "content": "#MAD V\u00eddeo. Kak\u00e1, el mejor socio de Xabi Alonso http://t.co/uJJ6ggQ9",
+                "mytype": "tweet",
+                "score": 9.4581375,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/167013542673907714",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Kak\u00e1, el mejor socio de Xabi Alonso",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/167013542673907714",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 23,
+                "firstpost_date": 1331155206,
+                "title": "#MAD V\u00eddeo. Benzem\u00e1 vuelve a afilar las garras http://t.co/1gVO4xgO",
+                "url": "http://twitter.com/ligabbva/status/177503918908129281",
+                "trackback_date": 1331155206,
+                "trackback_total": 24,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1gVO4xgO",
+                        "display_url": "ow.ly/9vXA9",
+                        "expanded_url": "http://ow.ly/9vXA9",
+                        "topsy_expanded_url": "http://www.ligabbva.com/watch?feature=plcp&index=2&list=UUb1JlyEU7j_NrSZjShW_apw&v=GNSxHBXkC1c"
+                    }
+                ],
+                "target_birth_date": 1331155206,
+                "content": "#MAD V\u00eddeo. Benzem\u00e1 vuelve a afilar las garras http://t.co/1gVO4xgO",
+                "mytype": "tweet",
+                "score": 9.457905,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/177503918908129281",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Benzem\u00e1 vuelve a afilar las garras",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/177503918908129281",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 33,
+                "firstpost_date": 1370341868,
+                "title": "#LigaBBVA #MAD La carta de despedida que \u00d6zil le dedica a Mourinho http://t.co/lLbykhDwtN",
+                "url": "http://twitter.com/ligabbva/status/341864692190416896",
+                "trackback_date": 1370341868,
+                "trackback_total": 34,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/lLbykhDwtN",
+                        "display_url": "ow.ly/lGjQN",
+                        "expanded_url": "http://ow.ly/lGjQN",
+                        "topsy_expanded_url": "http://www.ligabbva.com/3209_real-madrid/2077973_ozil-se-despide-de-mourinho-con-una-carta-de-agradecimiento.html"
+                    }
+                ],
+                "target_birth_date": 1370341868,
+                "content": "#LigaBBVA #MAD La carta de despedida que \u00d6zil le dedica a Mourinho http://t.co/lLbykhDwtN",
+                "mytype": "tweet",
+                "score": 9.457795,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/341864692190416896",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#LigaBBVA #MAD La carta de despedida que \u00d6zil le dedica a Mourinho",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/341864692190416896",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 33,
+                "firstpost_date": 1339704313,
+                "title": "#MAD La prensa argentina cree que \"a Cristiano le persigue un fantasma\" http://t.co/DfMGfPAm",
+                "url": "http://twitter.com/ligabbva/status/213361472594653184",
+                "trackback_date": 1339704313,
+                "trackback_total": 39,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DfMGfPAm",
+                        "display_url": "ow.ly/bA82A",
+                        "expanded_url": "http://ow.ly/bA82A",
+                        "topsy_expanded_url": "http://ow.ly/bA82A"
+                    }
+                ],
+                "target_birth_date": 1339704313,
+                "content": "#MAD La prensa argentina cree que \"a Cristiano le persigue un fantasma\" http://t.co/DfMGfPAm",
+                "mytype": "tweet",
+                "score": 9.457682,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/213361472594653184",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD La prensa argentina cree que \"a Cristiano le persigue un fantasma\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/213361472594653184",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 36,
+                "firstpost_date": 1347672902,
+                "title": "#MAD V\u00eddeo. Mourinho: \"Si Cristiano est\u00e1 triste y juega como juega, para m\u00ed perfecto\" http://t.co/cVP9qz8V",
+                "url": "http://twitter.com/ligabbva/status/246784157890531328",
+                "trackback_date": 1347672902,
+                "trackback_total": 40,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cVP9qz8V",
+                        "display_url": "ow.ly/dJ7FS",
+                        "expanded_url": "http://ow.ly/dJ7FS",
+                        "topsy_expanded_url": "http://www.ligabbva.com/watch?feature=plcp&index=2&list=UUb1JlyEU7j_NrSZjShW_apw&v=n2WRcR2WQuI"
+                    }
+                ],
+                "target_birth_date": 1347672902,
+                "content": "#MAD V\u00eddeo. Mourinho: \"Si Cristiano est\u00e1 triste y juega como juega, para m\u00ed perfecto\" http://t.co/cVP9qz8V",
+                "mytype": "tweet",
+                "score": 9.457613,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/246784157890531328",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Mourinho: \"Si Cristiano est\u00e1 triste y juega como juega, para m\u00ed perfecto\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/246784157890531328",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 29,
+                "firstpost_date": 1345478483,
+                "title": "#MAD V\u00eddeo. Pepe recibe el alta hospitalaria http://t.co/li8Qxx8f",
+                "url": "http://twitter.com/ligabbva/status/237580095655649280",
+                "trackback_date": 1345478483,
+                "trackback_total": 34,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/li8Qxx8f",
+                        "display_url": "ow.ly/d5WUS",
+                        "expanded_url": "http://ow.ly/d5WUS",
+                        "topsy_expanded_url": "http://ow.ly/d5WUS"
+                    }
+                ],
+                "target_birth_date": 1345478483,
+                "content": "#MAD V\u00eddeo. Pepe recibe el alta hospitalaria http://t.co/li8Qxx8f",
+                "mytype": "tweet",
+                "score": 9.457569,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/237580095655649280",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Pepe recibe el alta hospitalaria",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/237580095655649280",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 800,
+        "hidden": 0,
+        "total": 1922346,
+        "page": 1
+    }
+}

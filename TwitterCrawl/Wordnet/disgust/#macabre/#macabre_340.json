@@ -1,0 +1,275 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23macabre&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=340",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#macabre",
+            "window": "a",
+            "type": "tweet",
+            "offset": "340"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1342307140,
+                "title": "#Blue #Macabre http://t.co/QKkyZTOc #mysterysuspensethriller",
+                "url": "http://twitter.com/ereaderlove/status/224278519876812801",
+                "trackback_date": 1342307140,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/QKkyZTOc",
+                        "display_url": "goo.gl/fb/hpSI6",
+                        "expanded_url": "http://goo.gl/fb/hpSI6",
+                        "topsy_expanded_url": "http://goo.gl/fb/hpSI6"
+                    }
+                ],
+                "target_birth_date": 1342307140,
+                "content": "#Blue #Macabre http://t.co/QKkyZTOc #mysterysuspensethriller",
+                "mytype": "tweet",
+                "score": 8.143241,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1456322933/ereaderLove-logo_normal.png",
+                "trackback_permalink": "http://twitter.com/eReaderLove/status/224278519876812801",
+                "trackback_author_url": "http://twitter.com/ereaderlove",
+                "highlight": "#Blue #Macabre",
+                "topsy_author_url": "http://topsy.com/twitter/ereaderlove",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ereaderlove/status/224278519876812801",
+                "trackback_author_name": "eReader Love",
+                "trackback_author_nick": "ereaderlove"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1374215032,
+                "title": "Get off the cross, we need the wood. http://t.co/k9wLHfBrJ7 #religious #couture #bizarre #haute #macabre",
+                "url": "http://twitter.com/hausofbizarre/status/358109916503867393",
+                "trackback_date": 1374215032,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/k9wLHfBrJ7",
+                        "display_url": "hausofbizarre.tumblr.com/image/55677537\u2026",
+                        "expanded_url": "http://hausofbizarre.tumblr.com/image/55677537994",
+                        "topsy_expanded_url": "http://hausofbizarre.tumblr.com/image/55677537994"
+                    }
+                ],
+                "target_birth_date": 1374215032,
+                "content": "Get off the cross, we need the wood. http://t.co/k9wLHfBrJ7 #religious #couture #bizarre #haute #macabre",
+                "mytype": "tweet",
+                "score": 8.142033,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3285179247/9be6dca761ce3ef6189842cb9237355d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/HausOfBizarre/status/358109916503867393",
+                "trackback_author_url": "http://twitter.com/hausofbizarre",
+                "highlight": "Get off the cross, we need the wood. #religious #couture #bizarre #haute",
+                "topsy_author_url": "http://topsy.com/twitter/hausofbizarre",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hausofbizarre/status/358109916503867393",
+                "trackback_author_name": "HausOfBizarre",
+                "trackback_author_nick": "hausofbizarre"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1343333179,
+                "title": "If I die during this procedure I want to be cremated. You could probably smoke the ashes and catch a buzz, just a heads up. #macabre",
+                "url": "http://twitter.com/tweetedfilms/status/228582039958478848",
+                "trackback_date": 1343333179,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1343333179,
+                "content": "If I die during this procedure I want to be cremated. You could probably smoke the ashes and catch a buzz, just a heads up. #macabre",
+                "mytype": "tweet",
+                "score": 8.141948,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000676914694/1b979e928cd00b5e216fd8786c77ceae_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TweetedFilms/status/228582039958478848",
+                "trackback_author_url": "http://twitter.com/tweetedfilms",
+                "highlight": "If I die during this procedure I want to be cremated. You could probably smoke the ashes and catch a buzz, just a heads up.",
+                "topsy_author_url": "http://topsy.com/twitter/tweetedfilms",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tweetedfilms/status/228582039958478848",
+                "trackback_author_name": "TweetedFilms",
+                "trackback_author_nick": "tweetedfilms"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1300196319,
+                "title": "This sure is some macabre, weird and still very interesting collages http://bit.ly/eahYlz #Art #Collages #Macabre",
+                "url": "http://twitter.com/cecilie_fb/status/47652933575254016",
+                "trackback_date": 1300196319,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1300196319,
+                "content": "This sure is some macabre, weird and still very interesting collages http://bit.ly/eahYlz #Art #Collages #Macabre",
+                "mytype": "tweet",
+                "score": 8.141686,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/553841463/n691148097_840839_9669_normal.jpg",
+                "trackback_permalink": "http://twitter.com/cecilie_fb/status/47652933575254016",
+                "trackback_author_url": "http://twitter.com/cecilie_fb",
+                "highlight": "This sure is some macabre, weird and still very interesting collages #Art #Collages",
+                "topsy_author_url": "http://topsy.com/twitter/cecilie_fb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cecilie_fb/status/47652933575254016",
+                "trackback_author_name": "Cecilie Friis Borup",
+                "trackback_author_nick": "cecilie_fb"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1364258859,
+                "title": "RT @dA_traditional: Ballpoint hand study part 2: Creativity by ~gretzkyfan99 #Macabre #Horror http://t.co/y4UfsXeq7V",
+                "url": "http://twitter.com/deviantart/status/316350700781187072",
+                "trackback_date": 1364258859,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/y4UfsXeq7V",
+                        "expanded_url": "http://dlvr.it/37KyMb",
+                        "display_url": "dlvr.it/37KyMb"
+                    }
+                ],
+                "target_birth_date": 1364258859,
+                "content": "RT @dA_traditional: Ballpoint hand study part 2: Creativity by ~gretzkyfan99 #Macabre #Horror http://t.co/y4UfsXeq7V",
+                "mytype": "tweet",
+                "score": 8.1415415,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2740070672/c0e5a82ea952465cce6a997c22981258_normal.png",
+                "trackback_permalink": "http://twitter.com/deviantART/status/316350700781187072",
+                "trackback_author_url": "http://twitter.com/deviantart",
+                "highlight": "Ballpoint hand study part 2: Creativity by ~gretzkyfan99 #Macabre #Horror",
+                "topsy_author_url": "http://topsy.com/twitter/deviantart",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/deviantart/status/316350700781187072",
+                "trackback_author_name": "deviantART",
+                "trackback_author_nick": "deviantart"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1338778800,
+                "title": "Holy fucking shit #madmen #macabre",
+                "url": "http://twitter.com/msottovoce/status/209479588391297025",
+                "trackback_date": 1338778800,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1338778800,
+                "content": "Holy fucking shit #madmen #macabre",
+                "mytype": "tweet",
+                "score": 8.14113,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/444272410531872768/KTM1RhDk_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/msottovoce/status/209479588391297025",
+                "trackback_author_url": "http://twitter.com/msottovoce",
+                "highlight": "Holy fucking shit #madmen",
+                "topsy_author_url": "http://topsy.com/twitter/msottovoce",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/msottovoce/status/209479588391297025",
+                "trackback_author_name": "Monica Sotto",
+                "trackback_author_nick": "msottovoce"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1319665460,
+                "title": "Finally coming home! Shooting at #WEHO Halloween night for new episodes of #Macabre Theatre.",
+                "url": "http://twitter.com/ivonnacadaver/status/129312429862686720",
+                "trackback_date": 1319665460,
+                "trackback_total": 4,
+                "url_expansions": [],
+                "target_birth_date": 1319665460,
+                "content": "Finally coming home! Shooting at #WEHO Halloween night for new episodes of #Macabre Theatre.",
+                "mytype": "tweet",
+                "score": 8.141092,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1310573866/IvonnaCadaver2_normal.JPG",
+                "trackback_permalink": "http://twitter.com/IvonnaCadaver/status/129312429862686720",
+                "trackback_author_url": "http://twitter.com/ivonnacadaver",
+                "highlight": "Finally coming home! Shooting at #WEHO Halloween night for new episodes of #Macabre Theatre.",
+                "topsy_author_url": "http://topsy.com/twitter/ivonnacadaver",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ivonnacadaver/status/129312429862686720",
+                "trackback_author_name": "Ivonna Cadaver",
+                "trackback_author_nick": "ivonnacadaver"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1323810409,
+                "title": "Edgar Allan Poe I Became Insane #Gothic #Macabre #Horror #Statement http://t.co/KyAb6ud9 via @Etsy",
+                "url": "http://twitter.com/hausofbizarre/status/146697605127221249",
+                "trackback_date": 1323810409,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/KyAb6ud9",
+                        "display_url": "etsy.me/nUAhWm",
+                        "expanded_url": "http://etsy.me/nUAhWm",
+                        "topsy_expanded_url": "http://www.etsy.com/listing/81217515/edgar-allan-poe-i-became-insane-gothic"
+                    }
+                ],
+                "target_birth_date": 1323810409,
+                "content": "Edgar Allan Poe I Became Insane #Gothic #Macabre #Horror #Statement http://t.co/KyAb6ud9 via @Etsy",
+                "mytype": "tweet",
+                "score": 8.140166,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3285179247/9be6dca761ce3ef6189842cb9237355d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/HausOfBizarre/status/146697605127221249",
+                "trackback_author_url": "http://twitter.com/hausofbizarre",
+                "highlight": "Edgar Allan Poe I Became Insane #Gothic #Macabre #Horror #Statement via @Etsy",
+                "topsy_author_url": "http://topsy.com/twitter/hausofbizarre",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hausofbizarre/status/146697605127221249",
+                "trackback_author_name": "HausOfBizarre",
+                "trackback_author_nick": "hausofbizarre"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1330725144,
+                "title": "@webdesignburn 30 Most #Horrifying #Macabre #Photographs http://t.co/05lvrDso #horror",
+                "url": "http://twitter.com/kitaro10/status/175700108392923138",
+                "trackback_date": 1330725144,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/05lvrDso",
+                        "display_url": "bit.ly/xzFFYA",
+                        "expanded_url": "http://bit.ly/xzFFYA",
+                        "topsy_expanded_url": "http://www.webdesignburn.com/2012/02/28/30-most-horrifying-macabre-photographs/"
+                    }
+                ],
+                "target_birth_date": 1330725144,
+                "content": "@webdesignburn 30 Most #Horrifying #Macabre #Photographs http://t.co/05lvrDso #horror",
+                "mytype": "tweet",
+                "score": 8.139925,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/628743494/kitaro10_twitter_normal.png",
+                "trackback_permalink": "http://twitter.com/kitaro10/status/175700108392923138",
+                "trackback_author_url": "http://twitter.com/kitaro10",
+                "highlight": " 30 Most #Horrifying #Macabre #Photographs",
+                "topsy_author_url": "http://topsy.com/twitter/kitaro10",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kitaro10/status/175700108392923138",
+                "trackback_author_name": "kitaro10",
+                "trackback_author_nick": "kitaro10"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1330704727,
+                "title": "@webdesignburn 30 Most #Horrifying #Macabre #Photographs http://t.co/nnfirgQ9 #horror",
+                "url": "http://twitter.com/kitaro10/status/175614470368927744",
+                "trackback_date": 1330704727,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/nnfirgQ9",
+                        "display_url": "webdesignburn.com/2012/02/28/30-\u2026",
+                        "expanded_url": "http://www.webdesignburn.com/2012/02/28/30-most-horrifying-macabre-photographs/",
+                        "topsy_expanded_url": "http://www.webdesignburn.com/2012/02/28/30-most-horrifying-macabre-photographs/"
+                    }
+                ],
+                "target_birth_date": 1330704727,
+                "content": "@webdesignburn 30 Most #Horrifying #Macabre #Photographs http://t.co/nnfirgQ9 #horror",
+                "mytype": "tweet",
+                "score": 8.139925,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/628743494/kitaro10_twitter_normal.png",
+                "trackback_permalink": "http://twitter.com/kitaro10/status/175614470368927744",
+                "trackback_author_url": "http://twitter.com/kitaro10",
+                "highlight": " 30 Most #Horrifying #Macabre #Photographs",
+                "topsy_author_url": "http://topsy.com/twitter/kitaro10",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kitaro10/status/175614470368927744",
+                "trackback_author_name": "kitaro10",
+                "trackback_author_nick": "kitaro10"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 340,
+        "hidden": 0,
+        "total": 17842,
+        "page": 1
+    }
+}

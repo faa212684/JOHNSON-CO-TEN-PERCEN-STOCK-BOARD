@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23revolt&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=300",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#revolt",
+            "window": "a",
+            "type": "tweet",
+            "offset": "300"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 20,
+                "firstpost_date": 1386369043,
+                "title": "#REVOLT News: @ArtBasel 2013 Kicks Off Today In Miami - http://t.co/0EY9MbIajb #ArtBasel2013",
+                "url": "http://twitter.com/revolttv/status/409087533621215232",
+                "trackback_date": 1386369043,
+                "trackback_total": 23,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/0EY9MbIajb",
+                        "display_url": "bit.ly/1dQJigl",
+                        "expanded_url": "http://bit.ly/1dQJigl",
+                        "topsy_expanded_url": "http://revolt.tv/news/art-basel-2013-kicks-off-today-in-miami/354B3096-B67E-4625-BEB6-49870B6B9A3B"
+                    }
+                ],
+                "target_birth_date": 1386369043,
+                "content": "#REVOLT News: @ArtBasel 2013 Kicks Off Today In Miami - http://t.co/0EY9MbIajb #ArtBasel2013",
+                "mytype": "tweet",
+                "score": 10.343309,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469538072871190528/DrdCikol_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RevoltTV/status/409087533621215232",
+                "trackback_author_url": "http://twitter.com/revolttv",
+                "highlight": "#REVOLT News: @ArtBasel 2013 Kicks Off Today In Miami -",
+                "topsy_author_url": "http://topsy.com/twitter/revolttv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/revolttv/status/409087533621215232",
+                "trackback_author_name": "REVOLT TV",
+                "trackback_author_nick": "revolttv"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1374855914,
+                "title": "\"This is the hardest, most stressful thing I've ever done in my life. It literally drove me crazy\" - Diddy #Revolt #TCAs13",
+                "url": "http://twitter.com/robmoynihan/status/360797969886359552",
+                "trackback_date": 1374855914,
+                "trackback_total": 17,
+                "url_expansions": [],
+                "target_birth_date": 1374855914,
+                "content": "\"This is the hardest, most stressful thing I've ever done in my life. It literally drove me crazy\" - Diddy #Revolt #TCAs13",
+                "mytype": "tweet",
+                "score": 10.335911,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000564222059/278a939f6384db2e8336f04ed979c40f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/robmoynihan/status/360797969886359552",
+                "trackback_author_url": "http://twitter.com/robmoynihan",
+                "highlight": "\"This is the hardest, most stressful thing I've ever done in my life. It literally drove me crazy\" - Diddy #Revolt",
+                "topsy_author_url": "http://topsy.com/twitter/robmoynihan",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/robmoynihan/status/360797969886359552",
+                "trackback_author_name": "Rob Moynihan",
+                "trackback_author_nick": "robmoynihan"
+            },
+            {
+                "hits": 33,
+                "firstpost_date": 1381540564,
+                "title": "Meet #REVOLT'S Newest Member @TheRealDJDAMAGE! #IAmREVOLT - http://t.co/ysVnjRI9iS",
+                "url": "http://twitter.com/revolttv/status/388835425257021440",
+                "trackback_date": 1381540564,
+                "trackback_total": 48,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ysVnjRI9iS",
+                        "display_url": "bit.ly/GSIGYR",
+                        "expanded_url": "http://bit.ly/GSIGYR",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=HHCFUCdk85U"
+                    }
+                ],
+                "target_birth_date": 1381540564,
+                "content": "Meet #REVOLT'S Newest Member @TheRealDJDAMAGE! #IAmREVOLT - http://t.co/ysVnjRI9iS",
+                "mytype": "tweet",
+                "score": 10.334593,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469538072871190528/DrdCikol_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RevoltTV/status/388835425257021440",
+                "trackback_author_url": "http://twitter.com/revolttv",
+                "highlight": "Meet #REVOLT'S Newest Member @TheRealDJDAMAGE! #IAmREVOLT -",
+                "topsy_author_url": "http://topsy.com/twitter/revolttv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/revolttv/status/388835425257021440",
+                "trackback_author_name": "REVOLT TV",
+                "trackback_author_nick": "revolttv"
+            },
+            {
+                "hits": 26,
+                "firstpost_date": 1370351582,
+                "title": "@iamdiddy thank you for establishing a new platform for REAL music that will push our culture forward! @RevoltTV #REVOLT",
+                "url": "http://twitter.com/itsbuggs/status/341905435244261376",
+                "trackback_date": 1370351582,
+                "trackback_total": 38,
+                "url_expansions": [],
+                "target_birth_date": 1370351582,
+                "content": "@iamdiddy thank you for establishing a new platform for REAL music that will push our culture forward! @RevoltTV #REVOLT",
+                "mytype": "tweet",
+                "score": 10.333661,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000824825266/1803946cf5621a05e941f36d340b36e2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/itsBUGGS/status/341905435244261376",
+                "trackback_author_url": "http://twitter.com/itsbuggs",
+                "highlight": " thank you for establishing a new platform for REAL music that will push our culture forward! @RevoltTV",
+                "topsy_author_url": "http://topsy.com/twitter/itsbuggs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/itsbuggs/status/341905435244261376",
+                "trackback_author_name": "#Y1SINCEDAY1",
+                "trackback_author_nick": "itsbuggs"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1399389683,
+                "title": "#REVOLT | Premiere: @TayWalker Unveils The Ultra-Sultry 'Pleasure' http://t.co/OvPyr4ZzWd",
+                "url": "http://twitter.com/revolttv/status/463700059142365187",
+                "trackback_date": 1399389683,
+                "trackback_total": 33,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/OvPyr4ZzWd",
+                        "display_url": "bit.ly/1lUTiqb",
+                        "expanded_url": "http://bit.ly/1lUTiqb",
+                        "topsy_expanded_url": "http://revolt.tv/news/premiere-tay-walker-unveils-the-ultra-sultry-pleasure/7F69D9FA-A2F3-4217-9E4E-70F7E6A644BC"
+                    }
+                ],
+                "target_birth_date": 1399389683,
+                "content": "#REVOLT | Premiere: @TayWalker Unveils The Ultra-Sultry 'Pleasure' http://t.co/OvPyr4ZzWd",
+                "mytype": "tweet",
+                "score": 10.332394,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469538072871190528/DrdCikol_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RevoltTV/status/463700059142365187",
+                "trackback_author_url": "http://twitter.com/revolttv",
+                "highlight": "#REVOLT | Premiere: @TayWalker Unveils The Ultra-Sultry 'Pleasure'",
+                "topsy_author_url": "http://topsy.com/twitter/revolttv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/revolttv/status/463700059142365187",
+                "trackback_author_name": "REVOLT TV",
+                "trackback_author_nick": "revolttv"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1382422108,
+                "title": "Shout out from South Africa #REVOLT !!!!!!!!!!\"@iamdiddy: I cant sleep!!!!!! i cant stop watching @revolttv !!!!!!!!!!!!!!!!!!!!!!!!!",
+                "url": "http://twitter.com/khehlaspace/status/392532890804060160",
+                "trackback_date": 1382422108,
+                "trackback_total": 16,
+                "url_expansions": [],
+                "target_birth_date": 1382422108,
+                "content": "Shout out from South Africa #REVOLT !!!!!!!!!!\"@iamdiddy: I cant sleep!!!!!! i cant stop watching @revolttv !!!!!!!!!!!!!!!!!!!!!!!!!",
+                "mytype": "tweet",
+                "score": 10.332096,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/439185688907776001/Bheh7-WW_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Khehlaspace/status/392532890804060160",
+                "trackback_author_url": "http://twitter.com/khehlaspace",
+                "highlight": "Shout out from South Africa #REVOLT !!!!!!!!!!\"@iamdiddy: I cant sleep!!!!!! i cant stop watching @revolttv !!!!!!!!!!!!!!!!!!!!!!!!!",
+                "topsy_author_url": "http://topsy.com/twitter/khehlaspace",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/khehlaspace/status/392532890804060160",
+                "trackback_author_name": "SPACE",
+                "trackback_author_nick": "khehlaspace"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1374855903,
+                "title": "Diddy has been (knowledgeably) speaking about #Revolt for a very long time, and, impressively, has no teleprompter/note cards. #tcas13",
+                "url": "http://twitter.com/marisaroffman/status/360797927876210688",
+                "trackback_date": 1374855903,
+                "trackback_total": 14,
+                "url_expansions": [],
+                "target_birth_date": 1374855903,
+                "content": "Diddy has been (knowledgeably) speaking about #Revolt for a very long time, and, impressively, has no teleprompter/note cards. #tcas13",
+                "mytype": "tweet",
+                "score": 10.329906,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000721638088/54467c3df5e8ae7fd959aa7de8d8d9a5_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/marisaroffman/status/360797927876210688",
+                "trackback_author_url": "http://twitter.com/marisaroffman",
+                "highlight": "Diddy has been (knowledgeably) speaking about #Revolt for a very long time, and, impressively, has no teleprompter/note cards.",
+                "topsy_author_url": "http://topsy.com/twitter/marisaroffman",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/marisaroffman/status/360797927876210688",
+                "trackback_author_name": "Marisa Roffman",
+                "trackback_author_nick": "marisaroffman"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1380638104,
+                "title": "ALL music, ALL day long. The revolution will be televised on #REVOLT OCT 21 @ RevoltTV - http://t.co/9ZCoXGBUpg",
+                "url": "http://twitter.com/revoltlivewire/status/385050233354199040",
+                "trackback_date": 1380638104,
+                "trackback_total": 23,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9ZCoXGBUpg",
+                        "display_url": "revolt.tv",
+                        "expanded_url": "http://revolt.tv/",
+                        "topsy_expanded_url": "http://revolt.tv/"
+                    }
+                ],
+                "target_birth_date": 1380638104,
+                "content": "ALL music, ALL day long. The revolution will be televised on #REVOLT OCT 21 @ RevoltTV - http://t.co/9ZCoXGBUpg",
+                "mytype": "tweet",
+                "score": 10.32301,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731922915/c4db13e9a8a014b2c3dfec45e6244952_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/REVOLTlivewire/status/385050233354199040",
+                "trackback_author_url": "http://twitter.com/revoltpress",
+                "highlight": "ALL music, ALL day long. The revolution will be televised on #REVOLT OCT 21 @ RevoltTV -",
+                "topsy_author_url": "http://topsy.com/twitter/revoltpress",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/revoltlivewire/status/385050233354199040",
+                "trackback_author_name": "REVOLT TV Press",
+                "trackback_author_nick": "revoltpress"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1378357658,
+                "title": "\u201c@RevoltTV: #REVOLT EXCLUSIVE: @TheWeeknd Fall Tour: Set Design II (TEASER) - http://t.co/XeTZXvSdpR\u201d",
+                "url": "http://twitter.com/iamdiddy/status/375485351546322944",
+                "trackback_date": 1378357658,
+                "trackback_total": 26,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XeTZXvSdpR",
+                        "display_url": "bit.ly/179T5HF",
+                        "expanded_url": "http://bit.ly/179T5HF",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=j5EBhVyQsoE"
+                    }
+                ],
+                "target_birth_date": 1378357658,
+                "content": "\u201c@RevoltTV: #REVOLT EXCLUSIVE: @TheWeeknd Fall Tour: Set Design II (TEASER) - http://t.co/XeTZXvSdpR\u201d",
+                "mytype": "tweet",
+                "score": 10.321154,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000627081375/217ed352be4e5ac7c6d32c07fde3989e_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/iamdiddy/status/375485351546322944",
+                "trackback_author_url": "http://twitter.com/iamdiddy",
+                "highlight": "\u201c@RevoltTV: #REVOLT EXCLUSIVE: @TheWeeknd Fall Tour: Set Design II (TEASER) -",
+                "topsy_author_url": "http://topsy.com/twitter/iamdiddy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/iamdiddy/status/375485351546322944",
+                "trackback_author_name": "Diddy",
+                "trackback_author_nick": "iamdiddy"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1390610855,
+                "title": "Watching @RevoltTV and it's live.  Congrats to @iamdiddy @KennyBurns &amp; the #revolt staff. http://t.co/dP0gQv7s29",
+                "url": "http://twitter.com/omaroboyali/status/426878986065416193",
+                "trackback_date": 1390610855,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/dP0gQv7s29",
+                        "display_url": "pic.twitter.com/dP0gQv7s29",
+                        "expanded_url": "http://twitter.com/OmarOboyAli/status/426878986065416193/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BeyULQ5CAAAu-_Y.jpg"
+                    }
+                ],
+                "target_birth_date": 1390610855,
+                "content": "Watching @RevoltTV and it's live.  Congrats to @iamdiddy @KennyBurns &amp; the #revolt staff. http://t.co/dP0gQv7s29",
+                "mytype": "tweet",
+                "score": 10.319395,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/443431918646738944/UKkXbHzj_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OmarOboyAli/status/426878986065416193",
+                "trackback_author_url": "http://twitter.com/omaroboyali",
+                "highlight": "Watching @RevoltTV and it's live. Congrats to @iamdiddy @KennyBurns &amp; the #revolt staff.",
+                "topsy_author_url": "http://topsy.com/twitter/omaroboyali",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/omaroboyali/status/426878986065416193",
+                "trackback_author_name": "Oboy Ali",
+                "trackback_author_nick": "omaroboyali"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 300,
+        "hidden": 0,
+        "total": 215231,
+        "page": 1
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23chuck&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=50",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#chuck",
+            "window": "a",
+            "type": "tweet",
+            "offset": "50"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 15,
+                "firstpost_date": 1319839353,
+                "title": "'Chuck' ironic premiere clip slams 'boring' baseball! http://t.co/DiMx0IgM #Chuck",
+                "url": "http://twitter.com/ew/status/130041791356481536",
+                "trackback_date": 1319839353,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DiMx0IgM",
+                        "display_url": "ow.ly/7cwLv",
+                        "expanded_url": "http://ow.ly/7cwLv",
+                        "topsy_expanded_url": "http://insidetv.ew.com/2011/10/28/chuck-baseball/"
+                    }
+                ],
+                "target_birth_date": 1319839353,
+                "content": "'Chuck' ironic premiere clip slams 'boring' baseball! http://t.co/DiMx0IgM #Chuck",
+                "mytype": "tweet",
+                "score": 9.870548,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/451074312267517952/hTv4RpH9_normal.png",
+                "trackback_permalink": "http://twitter.com/EW/status/130041791356481536",
+                "trackback_author_url": "http://twitter.com/ew",
+                "highlight": "'Chuck' ironic premiere clip slams 'boring' baseball!",
+                "topsy_author_url": "http://topsy.com/twitter/ew",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ew/status/130041791356481536",
+                "trackback_author_name": "Entertainment Weekly",
+                "trackback_author_nick": "ew"
+            },
+            {
+                "hits": 24,
+                "firstpost_date": 1337183411,
+                "title": "On #INSIDE, the fellas have a HEAT-ED discussion: http://t.co/XePvw28K &amp; the #ShirtOff between #Shaq &amp; #Chuck: http://t.co/nG23pdNp",
+                "url": "http://twitter.com/nba/status/202788041100763137",
+                "trackback_date": 1337183411,
+                "trackback_total": 29,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XePvw28K",
+                        "display_url": "on.nba.com/JqnQhs",
+                        "expanded_url": "http://on.nba.com/JqnQhs",
+                        "topsy_expanded_url": "http://www.nba.com/video/channels/tnt_overtime/2012/05/15/20120515_inside_2.nba/?cid=nba_12_twitter_L"
+                    },
+                    {
+                        "url": "http://t.co/nG23pdNp",
+                        "display_url": "on.nba.com/JvyDc7",
+                        "expanded_url": "http://on.nba.com/JvyDc7",
+                        "topsy_expanded_url": "http://www.nba.com/video/channels/tnt_overtime/2012/05/16/20120516_inside_shirt_off.nba/?cid=nba_12_twitter_L"
+                    }
+                ],
+                "target_birth_date": 1337183411,
+                "content": "On #INSIDE, the fellas have a HEAT-ED discussion: http://t.co/XePvw28K &amp; the #ShirtOff between #Shaq &amp; #Chuck: http://t.co/nG23pdNp",
+                "mytype": "tweet",
+                "score": 9.862674,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/425520873286950912/dQwMSlPp_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NBA/status/202788041100763137",
+                "trackback_author_url": "http://twitter.com/nba",
+                "highlight": "On #INSIDE, the fellas have a HEAT-ED discussion: &amp; the #ShirtOff between #Shaq &amp; #Chuck:",
+                "topsy_author_url": "http://topsy.com/twitter/nba",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nba/status/202788041100763137",
+                "trackback_author_name": "NBA",
+                "trackback_author_nick": "nba"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1298316616,
+                "title": "Have you earned your #Chuck fan sticker yet? Check-in while watching an all new #Chuck tonight on @GetGlue http://getglue.com/apps/nbc",
+                "url": "http://twitter.com/getglue/status/39768888644349952",
+                "trackback_date": 1298316616,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1298316616,
+                "content": "Have you earned your #Chuck fan sticker yet? Check-in while watching an all new #Chuck tonight on @GetGlue http://getglue.com/apps/nbc",
+                "mytype": "tweet",
+                "score": 9.847196,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/427147265409445888/HywVBLQl_normal.png",
+                "trackback_permalink": "http://twitter.com/getglue/status/39768888644349952",
+                "trackback_author_url": "http://twitter.com/tvtag",
+                "highlight": "Have you earned your #Chuck fan sticker yet? Check-in while watching an all new #Chuck tonight on @GetGlue",
+                "topsy_author_url": "http://topsy.com/twitter/tvtag",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/getglue/status/39768888644349952",
+                "trackback_author_name": "tvtag",
+                "trackback_author_nick": "tvtag"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1297707309,
+                "title": "Have you earned your #Chuck fan sticker yet? Check-in while watching an all new #Chuck tonight on @GetGlue http://getglue.com/apps/nbc",
+                "url": "http://twitter.com/getglue/status/37213271551377408",
+                "trackback_date": 1297707309,
+                "trackback_total": 3,
+                "url_expansions": [],
+                "target_birth_date": 1297707309,
+                "content": "Have you earned your #Chuck fan sticker yet? Check-in while watching an all new #Chuck tonight on @GetGlue http://getglue.com/apps/nbc",
+                "mytype": "tweet",
+                "score": 9.847195,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/427147265409445888/HywVBLQl_normal.png",
+                "trackback_permalink": "http://twitter.com/getglue/status/37213271551377408",
+                "trackback_author_url": "http://twitter.com/tvtag",
+                "highlight": "Have you earned your #Chuck fan sticker yet? Check-in while watching an all new #Chuck tonight on @GetGlue",
+                "topsy_author_url": "http://topsy.com/twitter/tvtag",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/getglue/status/37213271551377408",
+                "trackback_author_name": "tvtag",
+                "trackback_author_nick": "tvtag"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1325876421,
+                "title": "Its #CHUCK Vs. The Kept Man tonight! Catch the new episode & check-in w/ @GetGlue for exclusive stickers: http://t.co/Qgn8hMTc",
+                "url": "http://twitter.com/getglue/status/155363089691328512",
+                "trackback_date": 1325876421,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Qgn8hMTc",
+                        "display_url": "ow.ly/8jEtk",
+                        "expanded_url": "http://ow.ly/8jEtk",
+                        "topsy_expanded_url": "http://getglue.com/stickers/nbc/chuck_vs_the_kept_man"
+                    }
+                ],
+                "target_birth_date": 1325876421,
+                "content": "Its #CHUCK Vs. The Kept Man tonight! Catch the new episode & check-in w/ @GetGlue for exclusive stickers: http://t.co/Qgn8hMTc",
+                "mytype": "tweet",
+                "score": 9.844224,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/427147265409445888/HywVBLQl_normal.png",
+                "trackback_permalink": "http://twitter.com/getglue/status/155363089691328512",
+                "trackback_author_url": "http://twitter.com/tvtag",
+                "highlight": "Its #CHUCK Vs. The Kept Man tonight! Catch the new episode & check-in w/ @GetGlue for exclusive stickers:",
+                "topsy_author_url": "http://topsy.com/twitter/tvtag",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/getglue/status/155363089691328512",
+                "trackback_author_name": "tvtag",
+                "trackback_author_nick": "tvtag"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1337145860,
+                "title": "Absolutely hilarious. My favorite show after The Wire just went HAM. They are fools! #chuck #Shaq #Kenny #Ernie",
+                "url": "http://twitter.com/whitlockjason/status/202630543806959616",
+                "trackback_date": 1337145860,
+                "trackback_total": 19,
+                "url_expansions": [],
+                "target_birth_date": 1337145860,
+                "content": "Absolutely hilarious. My favorite show after The Wire just went HAM. They are fools! #chuck #Shaq #Kenny #Ernie",
+                "mytype": "tweet",
+                "score": 9.840699,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/451913642158456832/87fviUAb_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/WhitlockJason/status/202630543806959616",
+                "trackback_author_url": "http://twitter.com/whitlockjason",
+                "highlight": "Absolutely hilarious. My favorite show after The Wire just went HAM. They are fools! #chuck #Shaq #Kenny",
+                "topsy_author_url": "http://topsy.com/twitter/whitlockjason",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/whitlockjason/status/202630543806959616",
+                "trackback_author_name": "Jason Whitlock",
+                "trackback_author_nick": "whitlockjason"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1356302269,
+                "title": "FYI: Obvious to most I'd hope, but http://t.co/vvT2tZHO isn't real. It's not @ZacharyLevi or the #Chuck cast answering those questions.",
+                "url": "http://twitter.com/zacharylevifan/status/282978343417163777",
+                "trackback_date": 1356302269,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vvT2tZHO",
+                        "display_url": "ask.fm/chuckcastreal",
+                        "expanded_url": "http://ask.fm/chuckcastreal",
+                        "topsy_expanded_url": "http://ask.fm/chuckcastreal"
+                    }
+                ],
+                "target_birth_date": 1356302269,
+                "content": "FYI: Obvious to most I'd hope, but http://t.co/vvT2tZHO isn't real. It's not @ZacharyLevi or the #Chuck cast answering those questions.",
+                "mytype": "tweet",
+                "score": 9.8260145,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1788237848/fb729d73-7188-439b-a144-20ad9be1cc5c_normal.png",
+                "trackback_permalink": "http://twitter.com/ZacharyLeviFan/status/282978343417163777",
+                "trackback_author_url": "http://twitter.com/zacharylevifan",
+                "highlight": "FYI: Obvious to most I'd hope, but isn't real. It's not @ZacharyLevi or the #Chuck cast answering those questions.",
+                "topsy_author_url": "http://topsy.com/twitter/zacharylevifan",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/zacharylevifan/status/282978343417163777",
+                "trackback_author_name": "Zachary Levi Fan",
+                "trackback_author_nick": "zacharylevifan"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1324062609,
+                "title": "@chucktvdotnet It would be a \u2018curse\u2019 not to watch #Chuck tonight! Check-in on @GetGlue for an awesome sticker! http://t.co/TbPdi4mz",
+                "url": "http://twitter.com/getglue/status/147755408671510528",
+                "trackback_date": 1324062609,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/TbPdi4mz",
+                        "display_url": "bit.ly/rNLJC1",
+                        "expanded_url": "http://bit.ly/rNLJC1",
+                        "topsy_expanded_url": "http://getglue.com/stickers/nbc/chuck_vs_the_curse"
+                    }
+                ],
+                "target_birth_date": 1324062609,
+                "content": "@chucktvdotnet It would be a \u2018curse\u2019 not to watch #Chuck tonight! Check-in on @GetGlue for an awesome sticker! http://t.co/TbPdi4mz",
+                "mytype": "tweet",
+                "score": 9.81642,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/427147265409445888/HywVBLQl_normal.png",
+                "trackback_permalink": "http://twitter.com/getglue/status/147755408671510528",
+                "trackback_author_url": "http://twitter.com/tvtag",
+                "highlight": " It would be a \u2018curse\u2019 not to watch #Chuck tonight! Check-in on @GetGlue for an awesome sticker!",
+                "topsy_author_url": "http://topsy.com/twitter/tvtag",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/getglue/status/147755408671510528",
+                "trackback_author_name": "tvtag",
+                "trackback_author_nick": "tvtag"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1286265550,
+                "title": "Congrats to my sis @nicolerichie on #Chuck tonight!! Proud of you, would hate to get on your bad side! Damn girl u can throw down!!",
+                "url": "http://twitter.com/benjaminmadden/status/26437768752",
+                "trackback_date": 1286265550,
+                "trackback_total": 13,
+                "url_expansions": [],
+                "target_birth_date": 1286265550,
+                "content": "Congrats to my sis @nicolerichie on #Chuck tonight!! Proud of you, would hate to get on your bad side! Damn girl u can throw down!!",
+                "mytype": "tweet",
+                "score": 9.813981,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472560360764223489/vAh7KDKo_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/benjaminmadden/status/26437768752",
+                "trackback_author_url": "http://twitter.com/benjaminmadden",
+                "highlight": "Congrats to my sis @nicolerichie on #Chuck tonight!! Proud of you, would hate to get on your bad side! Damn girl u can throw down!!",
+                "topsy_author_url": "http://topsy.com/twitter/benjaminmadden",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/benjaminmadden/status/26437768752",
+                "trackback_author_name": "benji madden",
+                "trackback_author_nick": "benjaminmadden"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1327956487,
+                "title": "RT @nbcchuck: It\u2019s never too early to look back on #Chuck: http://t.co/YDKO9KQG",
+                "url": "http://twitter.com/nbc/status/164087519498088449",
+                "trackback_date": 1327956487,
+                "trackback_total": 15,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/YDKO9KQG",
+                        "display_url": "bit.ly/ygrex3",
+                        "expanded_url": "http://bit.ly/ygrex3",
+                        "topsy_expanded_url": "http://www.nbc.com/chuck/video/"
+                    }
+                ],
+                "target_birth_date": 1327956487,
+                "content": "RT @nbcchuck: It\u2019s never too early to look back on #Chuck: http://t.co/YDKO9KQG",
+                "mytype": "tweet",
+                "score": 9.813378,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467333093091602434/50j4fZvh_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/nbc/status/164087519498088449",
+                "trackback_author_url": "http://twitter.com/nbc",
+                "highlight": "It\u2019s never too early to look back on #Chuck:",
+                "topsy_author_url": "http://topsy.com/twitter/nbc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbc/status/164087519498088449",
+                "trackback_author_name": "NBC",
+                "trackback_author_nick": "nbc"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 50,
+        "hidden": 0,
+        "total": 1218220,
+        "page": 1
+    }
+}

@@ -1,0 +1,275 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23mad&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=80",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#mad",
+            "window": "a",
+            "type": "tweet",
+            "offset": "80"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 309,
+                "firstpost_date": 1335997331,
+                "title": "#MAD Pepe y Cristiano: \"We are the champions!! Gracias a todos por el apoyo en esta larga y dura temporada\" http://t.co/U5YtCgAh",
+                "url": "http://twitter.com/ligabbva/status/197813257665388547",
+                "trackback_date": 1335997331,
+                "trackback_total": 345,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/U5YtCgAh",
+                        "expanded_url": "http://twitter.com/LigaBBVA/status/197813257665388547/photo/1",
+                        "display_url": "pic.twitter.com/U5YtCgAh"
+                    }
+                ],
+                "target_birth_date": 1335997331,
+                "content": "#MAD Pepe y Cristiano: \"We are the champions!! Gracias a todos por el apoyo en esta larga y dura temporada\" http://t.co/U5YtCgAh",
+                "mytype": "tweet",
+                "score": 9.6153965,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/197813257665388547",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Pepe y Cristiano: \"We are the champions!! Gracias a todos por el apoyo en esta larga y dura temporada\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/197813257665388547",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 22,
+                "firstpost_date": 1347824189,
+                "title": "#MAD Mourinho: \u201cNos hemos decidido por una plantilla corta\u201d http://t.co/xYwfNKWL",
+                "url": "http://twitter.com/ligabbva/status/247418698573430784",
+                "trackback_date": 1347824189,
+                "trackback_total": 25,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/xYwfNKWL",
+                        "display_url": "ow.ly/dKAv1",
+                        "expanded_url": "http://ow.ly/dKAv1",
+                        "topsy_expanded_url": "http://www.ligabbva.com/news/2012/09/16/mourinho-nos-hemos-decidido-por-una-plantilla-corta.html"
+                    }
+                ],
+                "target_birth_date": 1347824189,
+                "content": "#MAD Mourinho: \u201cNos hemos decidido por una plantilla corta\u201d http://t.co/xYwfNKWL",
+                "mytype": "tweet",
+                "score": 9.613755,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/247418698573430784",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Mourinho: \u201cNos hemos decidido por una plantilla corta\u201d",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/247418698573430784",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 45,
+                "firstpost_date": 1324746304,
+                "title": "#MAD Kak\u00e1: \u201cEl Barcelona no es invencible\u201d http://t.co/TGpsa3ke",
+                "url": "http://twitter.com/ligabbva/status/150623033416093696",
+                "trackback_date": 1324746304,
+                "trackback_total": 57,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/TGpsa3ke",
+                        "display_url": "ow.ly/89sQo",
+                        "expanded_url": "http://ow.ly/89sQo",
+                        "topsy_expanded_url": "http://www.sportyou.es/blog/futbol/2011/12/24/kaka-el-barcelona-no-es-invencible-390811.html"
+                    }
+                ],
+                "target_birth_date": 1324746304,
+                "content": "#MAD Kak\u00e1: \u201cEl Barcelona no es invencible\u201d http://t.co/TGpsa3ke",
+                "mytype": "tweet",
+                "score": 9.612613,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/150623033416093696",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Kak\u00e1: \u201cEl Barcelona no es invencible\u201d",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/150623033416093696",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 137,
+                "firstpost_date": 1343159223,
+                "title": "#MAD El Real Madrid empieza como acab\u00f3: goleando http://t.co/NDOPRtb9",
+                "url": "http://twitter.com/ligabbva/status/227852413728591873",
+                "trackback_date": 1343159223,
+                "trackback_total": 153,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/NDOPRtb9",
+                        "display_url": "ow.ly/ct9s4",
+                        "expanded_url": "http://ow.ly/ct9s4",
+                        "topsy_expanded_url": "http://ow.ly/ct9s4"
+                    }
+                ],
+                "target_birth_date": 1343159223,
+                "content": "#MAD El Real Madrid empieza como acab\u00f3: goleando http://t.co/NDOPRtb9",
+                "mytype": "tweet",
+                "score": 9.610367,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/227852413728591873",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD El Real Madrid empieza como acab\u00f3: goleando",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/227852413728591873",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 119,
+                "firstpost_date": 1325633087,
+                "title": "#MAD Mourinho: \"Al descanso les he dicho que era una pena no poder cambiar a los once\"",
+                "url": "http://twitter.com/ligabbva/status/154342471457964032",
+                "trackback_date": 1325633087,
+                "trackback_total": 136,
+                "url_expansions": [],
+                "target_birth_date": 1325633087,
+                "content": "#MAD Mourinho: \"Al descanso les he dicho que era una pena no poder cambiar a los once\"",
+                "mytype": "tweet",
+                "score": 9.609815,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/154342471457964032",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Mourinho: \"Al descanso les he dicho que era una pena no poder cambiar a los once\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/154342471457964032",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 116,
+                "firstpost_date": 1346461504,
+                "title": "#MAD V\u00eddeo. Essien, nuevo jugador del Real Madrid http://t.co/RA5ltxXh",
+                "url": "http://twitter.com/ligabbva/status/241703182848389120",
+                "trackback_date": 1346461504,
+                "trackback_total": 124,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RA5ltxXh",
+                        "display_url": "ow.ly/do9uE",
+                        "expanded_url": "http://ow.ly/do9uE",
+                        "topsy_expanded_url": "http://ow.ly/do9uE"
+                    }
+                ],
+                "target_birth_date": 1346461504,
+                "content": "#MAD V\u00eddeo. Essien, nuevo jugador del Real Madrid http://t.co/RA5ltxXh",
+                "mytype": "tweet",
+                "score": 9.608477,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/241703182848389120",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD V\u00eddeo. Essien, nuevo jugador del Real Madrid",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/241703182848389120",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 156,
+                "firstpost_date": 1338492011,
+                "title": "#MAD Pepe: \"Nunca tengo la intenci\u00f3n de lesionar a mi adversario\" http://t.co/cBNxJwQp",
+                "url": "http://twitter.com/ligabbva/status/208276709840125952",
+                "trackback_date": 1338492011,
+                "trackback_total": 196,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cBNxJwQp",
+                        "display_url": "ow.ly/bhijt",
+                        "expanded_url": "http://ow.ly/bhijt",
+                        "topsy_expanded_url": "http://www.as.com/futbol/articulo/tengo-intencion-lesionar-adversario/20120531dasdasftb_31/Tes"
+                    }
+                ],
+                "target_birth_date": 1338492011,
+                "content": "#MAD Pepe: \"Nunca tengo la intenci\u00f3n de lesionar a mi adversario\" http://t.co/cBNxJwQp",
+                "mytype": "tweet",
+                "score": 9.608204,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/LigaBBVA/status/208276709840125952",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Pepe: \"Nunca tengo la intenci\u00f3n de lesionar a mi adversario\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/208276709840125952",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1294169024,
+                "title": "#MAD Confirmado: Higua\u00edn tendr\u00e1 que operarse. http://ow.ly/3ydFN",
+                "url": "http://twitter.com/ligabbva/status/22372627607715840",
+                "trackback_date": 1294169024,
+                "trackback_total": 11,
+                "url_expansions": [],
+                "target_birth_date": 1294169024,
+                "content": "#MAD Confirmado: Higua\u00edn tendr\u00e1 que operarse. http://ow.ly/3ydFN",
+                "mytype": "tweet",
+                "score": 9.60764,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/ligabbva/status/22372627607715840",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Confirmado: Higua\u00edn tendr\u00e1 que operarse.",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/22372627607715840",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 87,
+                "firstpost_date": 1304457371,
+                "title": "#MAD Valdano: \"Yo nunca he visto una falta con la espalda\"",
+                "url": "http://twitter.com/ligabbva/status/65525083506081792",
+                "trackback_date": 1304457371,
+                "trackback_total": 104,
+                "url_expansions": [],
+                "target_birth_date": 1304457371,
+                "content": "#MAD Valdano: \"Yo nunca he visto una falta con la espalda\"",
+                "mytype": "tweet",
+                "score": 9.606979,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1453397587/avatar-twitter_DEF_normal.PNG",
+                "trackback_permalink": "http://twitter.com/ligabbva/status/65525083506081792",
+                "trackback_author_url": "http://twitter.com/ligabbva",
+                "highlight": "#MAD Valdano: \"Yo nunca he visto una falta con la espalda\"",
+                "topsy_author_url": "http://topsy.com/twitter/ligabbva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ligabbva/status/65525083506081792",
+                "trackback_author_name": "LigaBBVA",
+                "trackback_author_nick": "ligabbva"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1347755443,
+                "title": "\"Your #MAD because you neverrrrrrrrrr mattered\"-@funkmasterflex !!!!",
+                "url": "http://twitter.com/carleighsayss/status/247130359601455104",
+                "trackback_date": 1347755443,
+                "trackback_total": 9,
+                "url_expansions": [],
+                "target_birth_date": 1347755443,
+                "content": "\"Your #MAD because you neverrrrrrrrrr mattered\"-@funkmasterflex !!!!",
+                "mytype": "tweet",
+                "score": 9.606385,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/3524469159/f08812f9e2c15d7048564ea0364149ce_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/carleighsayss/status/247130359601455104",
+                "trackback_author_url": "http://twitter.com/carleighsayss",
+                "highlight": "\"Your #MAD because you neverrrrrrrrrr mattered\"-@funkmasterflex !!!!",
+                "topsy_author_url": "http://topsy.com/twitter/carleighsayss",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/carleighsayss/status/247130359601455104",
+                "trackback_author_name": "MISS.mac",
+                "trackback_author_nick": "carleighsayss"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 80,
+        "hidden": 0,
+        "total": 1957310,
+        "page": 1
+    }
+}

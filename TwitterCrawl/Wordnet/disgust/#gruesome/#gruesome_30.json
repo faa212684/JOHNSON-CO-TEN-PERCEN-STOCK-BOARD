@@ -1,0 +1,301 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23gruesome&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=30",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#gruesome",
+            "window": "a",
+            "type": "tweet",
+            "offset": "30"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1368330484,
+                "title": "@eliroth oh god #aftershock was freakin insane. Im feel like im gonna puke, but i honestly loved that movie. #gruesome #amazing",
+                "url": "http://twitter.com/elenita07/status/333428335243833344",
+                "trackback_date": 1368330484,
+                "trackback_total": 4,
+                "url_expansions": [],
+                "target_birth_date": 1368330484,
+                "content": "@eliroth oh god #aftershock was freakin insane. Im feel like im gonna puke, but i honestly loved that movie. #gruesome #amazing",
+                "mytype": "tweet",
+                "score": 8.93992,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452593499959877632/nhYMAFkZ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/elenita07/status/333428335243833344",
+                "trackback_author_url": "http://twitter.com/ninaadandy",
+                "highlight": " oh god #aftershock was freakin insane. Im feel like im gonna puke, but i honestly loved that movie. #gruesome",
+                "topsy_author_url": "http://topsy.com/twitter/ninaadandy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/elenita07/status/333428335243833344",
+                "trackback_author_name": "Elena Betancourt",
+                "trackback_author_nick": "ninaadandy"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1320251261,
+                "title": "That hoe too funny RT @BEATKINGKONG NEEEEEEEEEEEEW SHIT &gt;&gt;&gt; #GRUESOME &lt;&lt;&lt; (april (cont) http://t.co/UHmrIxfw",
+                "url": "http://twitter.com/mo_boutnothing/status/131769456258056192",
+                "trackback_date": 1320251261,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/UHmrIxfw",
+                        "display_url": "tl.gd/dvaiqf",
+                        "expanded_url": "http://tl.gd/dvaiqf",
+                        "topsy_expanded_url": "http://tl.gd/dvaiqf"
+                    }
+                ],
+                "target_birth_date": 1320251261,
+                "content": "That hoe too funny RT @BEATKINGKONG NEEEEEEEEEEEEW SHIT &gt;&gt;&gt; #GRUESOME &lt;&lt;&lt; (april (cont) http://t.co/UHmrIxfw",
+                "mytype": "tweet",
+                "score": 8.929477,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3000977485/8cccdb8b69f752c4059c1e21d963559f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Mo_boutNothing/status/131769456258056192",
+                "trackback_author_url": "http://twitter.com/mo_boutnothing",
+                "highlight": "That hoe too funny RT @BEATKINGKONG NEEEEEEEEEEEEW SHIT &gt;&gt;&gt; #GRUESOME &lt;&lt;&lt; (april (cont)",
+                "topsy_author_url": "http://topsy.com/twitter/mo_boutnothing",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mo_boutnothing/status/131769456258056192",
+                "trackback_author_name": "Theotis Williams",
+                "trackback_author_nick": "mo_boutnothing"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1396866674,
+                "title": "#gruesome RT @catholicherald: Dutch priest Frans van der Lugt reportedly shot dead in Homs http://t.co/y0cMt7WXws http://t.co/J9T72O0qX0",
+                "url": "http://twitter.com/jos_douma/status/453117789495390208",
+                "trackback_date": 1396866674,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/y0cMt7WXws",
+                        "display_url": "tinyurl.com/nzqvcew",
+                        "expanded_url": "http://tinyurl.com/nzqvcew",
+                        "topsy_expanded_url": "http://www.catholicherald.co.uk/news/2014/04/07/dutch-priest-in-homs-shot-dead/"
+                    },
+                    {
+                        "url": "http://t.co/J9T72O0qX0",
+                        "display_url": "pic.twitter.com/J9T72O0qX0",
+                        "expanded_url": "http://twitter.com/catholicherald/status/453117068859027456/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BknLkstCMAAPHT9.jpg"
+                    }
+                ],
+                "target_birth_date": 1396866674,
+                "content": "#gruesome RT @catholicherald: Dutch priest Frans van der Lugt reportedly shot dead in Homs http://t.co/y0cMt7WXws http://t.co/J9T72O0qX0",
+                "mytype": "tweet",
+                "score": 8.929335,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/428887627698167808/gI8d0mQG_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Jos_Douma/status/453117789495390208",
+                "trackback_author_url": "http://twitter.com/jos_douma",
+                "highlight": "#gruesomeDutch priest Frans van der Lugt reportedly shot dead in Homs",
+                "topsy_author_url": "http://topsy.com/twitter/jos_douma",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jos_douma/status/453117789495390208",
+                "trackback_author_name": "Jos Douma",
+                "trackback_author_nick": "jos_douma"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1320433162,
+                "title": "NEEEEEEEEEEEEEEEEEEEEEW SHIT &gt;&gt;&gt; #GRUESOME &lt;&lt;&lt; (april pratt/westfield sextape) FEAT. @STUDEWOODINC http://t.co/44hmrOPd",
+                "url": "http://twitter.com/beatkingkong/status/132532405079781376",
+                "trackback_date": 1320433162,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/44hmrOPd",
+                        "display_url": "hulkshare.com/knx5iy5dxskp",
+                        "expanded_url": "http://hulkshare.com/knx5iy5dxskp",
+                        "topsy_expanded_url": "http://hulkshare.com/knx5iy5dxskp"
+                    }
+                ],
+                "target_birth_date": 1320433162,
+                "content": "NEEEEEEEEEEEEEEEEEEEEEW SHIT &gt;&gt;&gt; #GRUESOME &lt;&lt;&lt; (april pratt/westfield sextape) FEAT. @STUDEWOODINC http://t.co/44hmrOPd",
+                "mytype": "tweet",
+                "score": 8.926917,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468472310056251392/PQhM4vHK_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BEATKINGKONG/status/132532405079781376",
+                "trackback_author_url": "http://twitter.com/beatkingkong",
+                "highlight": "NEEEEEEEEEEEEEEEEEEEEEW SHIT &gt;&gt;&gt; #GRUESOME &lt;&lt;&lt; (april pratt/westfield sextape) FEAT. @STUDEWOODINC",
+                "topsy_author_url": "http://topsy.com/twitter/beatkingkong",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/beatkingkong/status/132532405079781376",
+                "trackback_author_name": "GSM2 JUNE 10th HOE!",
+                "trackback_author_nick": "beatkingkong"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1320281930,
+                "title": "NEEEEEEEEEEEEEEEEEEW SHIT &gt;&gt; #GRUESOME &lt;&lt; (april pratt/westfield sextape) FEAT. @STUDEWOODINC http://t.co/44hmrOPd",
+                "url": "http://twitter.com/beatkingkong/status/131898092231471104",
+                "trackback_date": 1320281930,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/44hmrOPd",
+                        "display_url": "hulkshare.com/knx5iy5dxskp",
+                        "expanded_url": "http://hulkshare.com/knx5iy5dxskp",
+                        "topsy_expanded_url": "http://hulkshare.com/knx5iy5dxskp"
+                    }
+                ],
+                "target_birth_date": 1320281930,
+                "content": "NEEEEEEEEEEEEEEEEEEW SHIT &gt;&gt; #GRUESOME &lt;&lt; (april pratt/westfield sextape) FEAT. @STUDEWOODINC http://t.co/44hmrOPd",
+                "mytype": "tweet",
+                "score": 8.917919,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468472310056251392/PQhM4vHK_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BEATKINGKONG/status/131898092231471104",
+                "trackback_author_url": "http://twitter.com/beatkingkong",
+                "highlight": "NEEEEEEEEEEEEEEEEEEW SHIT &gt;&gt; #GRUESOME &lt;&lt; (april pratt/westfield sextape) FEAT. @STUDEWOODINC",
+                "topsy_author_url": "http://topsy.com/twitter/beatkingkong",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/beatkingkong/status/131898092231471104",
+                "trackback_author_name": "GSM2 JUNE 10th HOE!",
+                "trackback_author_nick": "beatkingkong"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1320268586,
+                "title": "RT @momo14787: @BEATKINGKONG: NEEEEEEEEEEEW SHIT !!! &gt;&gt;&gt; #GRUESOME &lt;&lt;&lt; (april pratt/westfield ... http://t.co/8nfdAAJ9",
+                "url": "http://twitter.com/beatkingkong/status/131842124458110976",
+                "trackback_date": 1320268586,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8nfdAAJ9",
+                        "display_url": "tmi.me/hPyH4",
+                        "expanded_url": "http://tmi.me/hPyH4",
+                        "topsy_expanded_url": "http://tmi.me/hPyH4"
+                    }
+                ],
+                "target_birth_date": 1320268586,
+                "content": "RT @momo14787: @BEATKINGKONG: NEEEEEEEEEEEW SHIT !!! &gt;&gt;&gt; #GRUESOME &lt;&lt;&lt; (april pratt/westfield ... http://t.co/8nfdAAJ9",
+                "mytype": "tweet",
+                "score": 8.917806,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468472310056251392/PQhM4vHK_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BEATKINGKONG/status/131842124458110976",
+                "trackback_author_url": "http://twitter.com/beatkingkong",
+                "highlight": " : NEEEEEEEEEEEW SHIT !!! &gt;&gt;&gt; #GRUESOME &lt;&lt;&lt; (april pratt/westfield ",
+                "topsy_author_url": "http://topsy.com/twitter/beatkingkong",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/beatkingkong/status/131842124458110976",
+                "trackback_author_name": "GSM2 JUNE 10th HOE!",
+                "trackback_author_nick": "beatkingkong"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1320263792,
+                "title": "NEEEEEW SHIT &gt;&gt;&gt; #GRUESOME &lt;&lt;&lt; (april pratt/westfield sextape) @BEATKINGKONG FEAT. @STUDEWOODINC http://t.co/44hmrOPd  http://t.co/VTfE8NwU",
+                "url": "http://twitter.com/beatkingkong/status/131822014565580800",
+                "trackback_date": 1320263792,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/44hmrOPd",
+                        "display_url": "hulkshare.com/knx5iy5dxskp",
+                        "expanded_url": "http://hulkshare.com/knx5iy5dxskp",
+                        "topsy_expanded_url": "http://hulkshare.com/knx5iy5dxskp"
+                    },
+                    {
+                        "url": "http://t.co/VTfE8NwU",
+                        "display_url": "twitpic.com/79yihl",
+                        "expanded_url": "http://twitpic.com/79yihl",
+                        "topsy_expanded_url": "http://twitpic.com/79yihl"
+                    }
+                ],
+                "target_birth_date": 1320263792,
+                "content": "NEEEEEW SHIT &gt;&gt;&gt; #GRUESOME &lt;&lt;&lt; (april pratt/westfield sextape) @BEATKINGKONG FEAT. @STUDEWOODINC http://t.co/44hmrOPd  http://t.co/VTfE8NwU",
+                "mytype": "tweet",
+                "score": 8.917806,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468472310056251392/PQhM4vHK_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BEATKINGKONG/status/131822014565580800",
+                "trackback_author_url": "http://twitter.com/beatkingkong",
+                "highlight": "NEEEEEW SHIT &gt;&gt;&gt; #GRUESOME &lt;&lt;&lt; (april pratt/westfield sextape) @BEATKINGKONG FEAT. @STUDEWOODINC",
+                "topsy_author_url": "http://topsy.com/twitter/beatkingkong",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/beatkingkong/status/131822014565580800",
+                "trackback_author_name": "GSM2 JUNE 10th HOE!",
+                "trackback_author_nick": "beatkingkong"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1320268255,
+                "title": "NEEEEEEEEEEEW SHIT !!&gt;&gt;&gt; #GRUESOME &lt;&lt;&lt; (april pratt/westfield sextape) FEAT. @STUDEWOODINC http://t.co/44hmrOPd",
+                "url": "http://twitter.com/beatkingkong/status/131840734910357505",
+                "trackback_date": 1320268255,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/44hmrOPd",
+                        "display_url": "hulkshare.com/knx5iy5dxskp",
+                        "expanded_url": "http://hulkshare.com/knx5iy5dxskp",
+                        "topsy_expanded_url": "http://hulkshare.com/knx5iy5dxskp"
+                    }
+                ],
+                "target_birth_date": 1320268255,
+                "content": "NEEEEEEEEEEEW SHIT !!&gt;&gt;&gt; #GRUESOME &lt;&lt;&lt; (april pratt/westfield sextape) FEAT. @STUDEWOODINC http://t.co/44hmrOPd",
+                "mytype": "tweet",
+                "score": 8.916648,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468472310056251392/PQhM4vHK_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BEATKINGKONG/status/131840734910357505",
+                "trackback_author_url": "http://twitter.com/beatkingkong",
+                "highlight": "NEEEEEEEEEEEW SHIT !!&gt;&gt;&gt; #GRUESOME &lt;&lt;&lt; (april pratt/westfield sextape) FEAT. @STUDEWOODINC",
+                "topsy_author_url": "http://topsy.com/twitter/beatkingkong",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/beatkingkong/status/131840734910357505",
+                "trackback_author_name": "GSM2 JUNE 10th HOE!",
+                "trackback_author_nick": "beatkingkong"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1368825021,
+                "title": "And here's one from the side... #Gruesome http://t.co/0grtYApf8X",
+                "url": "http://twitter.com/boxingopinions1/status/335502571999481856",
+                "trackback_date": 1368825021,
+                "trackback_total": 23,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/0grtYApf8X",
+                        "expanded_url": "http://twitter.com/BoxingOpinions1/status/335502571999481856/photo/1",
+                        "display_url": "pic.twitter.com/0grtYApf8X"
+                    }
+                ],
+                "target_birth_date": 1368825021,
+                "content": "And here's one from the side... #Gruesome http://t.co/0grtYApf8X",
+                "mytype": "tweet",
+                "score": 8.907554,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2162927789/LOGO_USE_normal.png",
+                "trackback_permalink": "http://twitter.com/BoxingOpinions1/status/335502571999481856",
+                "trackback_author_url": "http://twitter.com/boxingopinions1",
+                "highlight": "And here's one from the side... #Gruesome",
+                "topsy_author_url": "http://topsy.com/twitter/boxingopinions1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/boxingopinions1/status/335502571999481856",
+                "trackback_author_name": "Boxing Opinions",
+                "trackback_author_nick": "boxingopinions1"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1335391635,
+                "title": "Saw starting now E4+1 haven't watched it for ages #Gruesome",
+                "url": "http://twitter.com/thecurtisdavies/status/195272789295501312",
+                "trackback_date": 1335391635,
+                "trackback_total": 8,
+                "url_expansions": [],
+                "target_birth_date": 1335391635,
+                "content": "Saw starting now E4+1 haven't watched it for ages #Gruesome",
+                "mytype": "tweet",
+                "score": 8.896848,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/465094118163873792/kgXEYWP2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/thecurtisdavies/status/195272789295501312",
+                "trackback_author_url": "http://twitter.com/thecurtisdavies",
+                "highlight": "Saw starting now E4+1 haven't watched it for ages",
+                "topsy_author_url": "http://topsy.com/twitter/thecurtisdavies",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/thecurtisdavies/status/195272789295501312",
+                "trackback_author_name": "Curtis Davies #6",
+                "trackback_author_nick": "thecurtisdavies"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 30,
+        "hidden": 0,
+        "total": 19926,
+        "page": 1
+    }
+}

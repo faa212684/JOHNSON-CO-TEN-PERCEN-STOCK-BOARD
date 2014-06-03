@@ -1,0 +1,303 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23macabre&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=40",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#macabre",
+            "window": "a",
+            "type": "tweet",
+            "offset": "40"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 4,
+                "firstpost_date": 1316279493,
+                "title": "A Pirate's Bounty!  http://t.co/WjSDRm77  #etsy #handmade #costumes #cosplay #skulls  #macabre #halloween #epl #gifts #pirates",
+                "url": "http://twitter.com/pink80sgirl/status/115110655903797248",
+                "trackback_date": 1316279493,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WjSDRm77",
+                        "display_url": "goo.gl/RgAoE",
+                        "expanded_url": "http://goo.gl/RgAoE",
+                        "topsy_expanded_url": "http://www.etsy.com/listing/61050846/skull-and-crossbone-earrings-pirates"
+                    }
+                ],
+                "target_birth_date": 1316279493,
+                "content": "A Pirate's Bounty!  http://t.co/WjSDRm77  #etsy #handmade #costumes #cosplay #skulls  #macabre #halloween #epl #gifts #pirates",
+                "mytype": "tweet",
+                "score": 8.621605,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071416365/5797a7146320dcae0c1573414ba0fd0b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/pink80sgirl/status/115110655903797248",
+                "trackback_author_url": "http://twitter.com/pink80sgirl",
+                "highlight": "A Pirate's Bounty! #etsy #handmade #costumes #cosplay #skulls #macabre #halloween #epl #gifts",
+                "topsy_author_url": "http://topsy.com/twitter/pink80sgirl",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/pink80sgirl/status/115110655903797248",
+                "trackback_author_name": "Vanessa",
+                "trackback_author_nick": "pink80sgirl"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1390211717,
+                "title": "Our band has its own #macabre swamp #comic ! \"Massacre In The Piney Woods\" #gothic #swampnation http://t.co/I1iDijaryC",
+                "url": "http://twitter.com/swampmusicinfo/status/425204877753847808",
+                "trackback_date": 1390211717,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/I1iDijaryC",
+                        "display_url": "ow.ly/spxiU",
+                        "expanded_url": "http://ow.ly/spxiU",
+                        "topsy_expanded_url": "http://swampmusic.info/players/?page_id=168"
+                    }
+                ],
+                "target_birth_date": 1390211717,
+                "content": "Our band has its own #macabre swamp #comic ! \"Massacre In The Piney Woods\" #gothic #swampnation http://t.co/I1iDijaryC",
+                "mytype": "tweet",
+                "score": 8.614347,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/449468358186917889/9O0_tgoP_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/swampmusicinfo/status/425204877753847808",
+                "trackback_author_url": "http://twitter.com/swampmusicinfo",
+                "highlight": "Our band has its own #macabre swamp #comic ! \"Massacre In The Piney Woods\" #gothic #swampnation",
+                "topsy_author_url": "http://topsy.com/twitter/swampmusicinfo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/swampmusicinfo/status/425204877753847808",
+                "trackback_author_name": "Swamp Music SMP",
+                "trackback_author_nick": "swampmusicinfo"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1320178942,
+                "title": "The world's most fascinating corpses http://t.co/ybZPQlRv #travel #ttot #macabre",
+                "url": "http://twitter.com/malloryontravel/status/131466130979168256",
+                "trackback_date": 1320178942,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ybZPQlRv",
+                        "display_url": "bit.ly/rXauUg",
+                        "expanded_url": "http://bit.ly/rXauUg",
+                        "topsy_expanded_url": "http://telegraph.feedsportal.com/c/32726/f/564440/s/19b4f14e/l/0L0Stelegraph0O0Ctravel0Cpicturegalleries0C8860A2770CThe0Eworlds0Emost0Efascinating0Ecorpses0Bhtml/story01.htm"
+                    }
+                ],
+                "target_birth_date": 1320178942,
+                "content": "The world's most fascinating corpses http://t.co/ybZPQlRv #travel #ttot #macabre",
+                "mytype": "tweet",
+                "score": 8.601591,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1166769160/IMG_0065_0061_edited-1-2_normal.jpg",
+                "trackback_permalink": "http://twitter.com/MalloryOnTravel/status/131466130979168256",
+                "trackback_author_url": "http://twitter.com/malloryontravel",
+                "highlight": "The world's most fascinating corpses #travel #ttot",
+                "topsy_author_url": "http://topsy.com/twitter/malloryontravel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/malloryontravel/status/131466130979168256",
+                "trackback_author_name": "Iain Mallory",
+                "trackback_author_nick": "malloryontravel"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1381190169,
+                "title": "Here. Have some hummingbats playing tug of war with a heart. #TisTheSeason #Halloween #Macabre #CreepyButCute http://t.co/7MdFw71fiZ",
+                "url": "http://twitter.com/glennarthurart/status/387365762765029376",
+                "trackback_date": 1381190169,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7MdFw71fiZ",
+                        "display_url": "pic.twitter.com/7MdFw71fiZ",
+                        "expanded_url": "http://twitter.com/GlennArthurArt/status/387365762765029376/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BWAzG-BCAAAXfrN.jpg"
+                    }
+                ],
+                "target_birth_date": 1381190169,
+                "content": "Here. Have some hummingbats playing tug of war with a heart. #TisTheSeason #Halloween #Macabre #CreepyButCute http://t.co/7MdFw71fiZ",
+                "mytype": "tweet",
+                "score": 8.587162,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000667116958/1b9705035b83b12c390b63fdb4ad35f5_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/GlennArthurArt/status/387365762765029376",
+                "trackback_author_url": "http://twitter.com/glennarthurart",
+                "highlight": "Here. Have some hummingbats playing tug of war with a heart. #TisTheSeason #Halloween #Macabre #CreepyButCute",
+                "topsy_author_url": "http://topsy.com/twitter/glennarthurart",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/glennarthurart/status/387365762765029376",
+                "trackback_author_name": "Glenn Arthur",
+                "trackback_author_nick": "glennarthurart"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1337255796,
+                "title": "@ReginaPucket \u201cWill Work for Food\u201d An act of charity turns deadly.  #horror #macabre\nhttp://t.co/KrPrsFdZ (US)\nhttp://t.co/ehezJ2Oz (UK)",
+                "url": "http://twitter.com/reginapucket/status/203091645359587328",
+                "trackback_date": 1337255796,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/KrPrsFdZ",
+                        "display_url": "amzn.to/HjokWw",
+                        "expanded_url": "http://amzn.to/HjokWw",
+                        "topsy_expanded_url": "http://www.amazon.com/gp/product/B007RDQGZ6"
+                    },
+                    {
+                        "url": "http://t.co/ehezJ2Oz",
+                        "display_url": "amzn.to/IGv8tg",
+                        "expanded_url": "http://amzn.to/IGv8tg",
+                        "topsy_expanded_url": "http://www.amazon.co.uk/Will-Work-for-Food-ebook/dp/B007RDQGZ6/ref=sr_1_1?ie=UTF8&qid=1336510231&s=books&sr=1-1"
+                    }
+                ],
+                "target_birth_date": 1337255796,
+                "content": "@ReginaPucket \u201cWill Work for Food\u201d An act of charity turns deadly.  #horror #macabre\nhttp://t.co/KrPrsFdZ (US)\nhttp://t.co/ehezJ2Oz (UK)",
+                "mytype": "tweet",
+                "score": 8.583036,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000684896802/47fe948854d7151ab5974cf6a9ce74b1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ReginaPucket/status/203091645359587328",
+                "trackback_author_url": "http://twitter.com/reginapucket",
+                "highlight": " \u201cWill Work for Food\u201d An act of charity turns deadly. #horror #macabre (US) (UK)",
+                "topsy_author_url": "http://topsy.com/twitter/reginapucket",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/reginapucket/status/203091645359587328",
+                "trackback_author_name": "Regina Puckett",
+                "trackback_author_nick": "reginapucket"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1288493726,
+                "title": "Animated and #macabre tale for #Halloween fright and fun!Ghost Story - http://dld.bz/xVVW - #Ghost #Story",
+                "url": "http://twitter.com/mrbill01/status/29240710749",
+                "trackback_date": 1288493726,
+                "trackback_total": 4,
+                "url_expansions": [],
+                "target_birth_date": 1288493726,
+                "content": "Animated and #macabre tale for #Halloween fright and fun!Ghost Story - http://dld.bz/xVVW - #Ghost #Story",
+                "mytype": "tweet",
+                "score": 8.581203,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1746531397/BuddhaBig01low_normal.jpg",
+                "trackback_permalink": "http://twitter.com/MrBill01/status/29240710749",
+                "trackback_author_url": "http://twitter.com/mrbill01",
+                "highlight": "Animated and #macabre tale for #Halloween fright and fun!Ghost Story - - #Ghost",
+                "topsy_author_url": "http://topsy.com/twitter/mrbill01",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mrbill01/status/29240710749",
+                "trackback_author_name": "\u00a9 MrBill",
+                "trackback_author_nick": "mrbill01"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1315708425,
+                "title": "Time for Skulls & Crossbones!!! http://t.co/ya5gEd3 &lt;&lt;&lt;&lt; @pink80sgirl #etsy #handmade #costumes #cosplay #gothic #macabre #jewelry #epl",
+                "url": "http://twitter.com/pink80sgirl/status/112715424197652480",
+                "trackback_date": 1315708425,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ya5gEd3",
+                        "display_url": "goo.gl/RgAoE",
+                        "expanded_url": "http://goo.gl/RgAoE",
+                        "topsy_expanded_url": "http://www.etsy.com/listing/61050846/skull-and-crossbone-earrings-pirates"
+                    }
+                ],
+                "target_birth_date": 1315708425,
+                "content": "Time for Skulls & Crossbones!!! http://t.co/ya5gEd3 &lt;&lt;&lt;&lt; @pink80sgirl #etsy #handmade #costumes #cosplay #gothic #macabre #jewelry #epl",
+                "mytype": "tweet",
+                "score": 8.5794325,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071416365/5797a7146320dcae0c1573414ba0fd0b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/pink80sgirl/status/112715424197652480",
+                "trackback_author_url": "http://twitter.com/pink80sgirl",
+                "highlight": "Time for Skulls & Crossbones!!! &lt;&lt;&lt;&lt; @pink80sgirl #etsy #handmade #costumes #cosplay #gothic #macabre #jewelry",
+                "topsy_author_url": "http://topsy.com/twitter/pink80sgirl",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/pink80sgirl/status/112715424197652480",
+                "trackback_author_name": "Vanessa",
+                "trackback_author_nick": "pink80sgirl"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1353545981,
+                "title": "Les massacres de l'arm\u00e9e isra\u00e9lienne \u00e0 #Gaza devient un divertissement pour certains isra\u00e9liens #macabre #d\u00e9gueulasse http://t.co/G7XbLxcn",
+                "url": "http://twitter.com/sebastienrobert/status/271417635164520449",
+                "trackback_date": 1353545981,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/G7XbLxcn",
+                        "display_url": "youtu.be/-U-CZpDyQw4",
+                        "expanded_url": "http://youtu.be/-U-CZpDyQw4",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=-U-CZpDyQw4"
+                    }
+                ],
+                "target_birth_date": 1353545981,
+                "content": "Les massacres de l'arm\u00e9e isra\u00e9lienne \u00e0 #Gaza devient un divertissement pour certains isra\u00e9liens #macabre #d\u00e9gueulasse http://t.co/G7XbLxcn",
+                "mytype": "tweet",
+                "score": 8.578175,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/441650341734391808/MmaX1C-D_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SebastienRobert/status/271417635164520449",
+                "trackback_author_url": "http://twitter.com/sebastienrobert",
+                "highlight": "Les massacres de l'arm\u00e9e isra\u00e9lienne \u00e0 #Gaza devient un divertissement pour certains isra\u00e9liens #macabre #d\u00e9gueulasse",
+                "topsy_author_url": "http://topsy.com/twitter/sebastienrobert",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sebastienrobert/status/271417635164520449",
+                "trackback_author_name": "S\u00e9bastien Robert",
+                "trackback_author_nick": "sebastienrobert"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1316404931,
+                "title": "A Pirate's Bounty!  http://t.co/WjSDRm77  #etsy #handmade #costumes #cosplay #skulls  #macabre #halloween #epl #gifts #pirates",
+                "url": "http://twitter.com/pink80sgirl/status/115636781914923008",
+                "trackback_date": 1316404931,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WjSDRm77",
+                        "display_url": "goo.gl/RgAoE",
+                        "expanded_url": "http://goo.gl/RgAoE",
+                        "topsy_expanded_url": "http://www.etsy.com/listing/61050846/skull-and-crossbone-earrings-pirates"
+                    }
+                ],
+                "target_birth_date": 1316404931,
+                "content": "A Pirate's Bounty!  http://t.co/WjSDRm77  #etsy #handmade #costumes #cosplay #skulls  #macabre #halloween #epl #gifts #pirates",
+                "mytype": "tweet",
+                "score": 8.569801,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3071416365/5797a7146320dcae0c1573414ba0fd0b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/pink80sgirl/status/115636781914923008",
+                "trackback_author_url": "http://twitter.com/pink80sgirl",
+                "highlight": "A Pirate's Bounty! #etsy #handmade #costumes #cosplay #skulls #macabre #halloween #epl #gifts",
+                "topsy_author_url": "http://topsy.com/twitter/pink80sgirl",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/pink80sgirl/status/115636781914923008",
+                "trackback_author_name": "Vanessa",
+                "trackback_author_nick": "pink80sgirl"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1360272599,
+                "title": "#99cents #macabre collection Crisis Hospital: Dark Tales from the Ward, the World, and the Bedside by Belin... http://t.co/PYWTLWkY",
+                "url": "http://twitter.com/b_frisch/status/299631116632088576",
+                "trackback_date": 1360272599,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PYWTLWkY",
+                        "display_url": "amazon.com/dp/B004VSAP5C/\u2026",
+                        "expanded_url": "http://www.amazon.com/dp/B004VSAP5C/ref=cm_sw_r_tw_dp_1Ybfrb1PXWN4Q",
+                        "topsy_expanded_url": "http://www.amazon.com/dp/B004VSAP5C/ref=cm_sw_r_tw_dp_1Ybfrb1PXWN4Q"
+                    }
+                ],
+                "target_birth_date": 1360272599,
+                "content": "#99cents #macabre collection Crisis Hospital: Dark Tales from the Ward, the World, and the Bedside by Belin... http://t.co/PYWTLWkY",
+                "mytype": "tweet",
+                "score": 8.556581,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/418871842632241153/EffI5zNc_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/b_frisch/status/299631116632088576",
+                "trackback_author_url": "http://twitter.com/b_frisch",
+                "highlight": "#99cents #macabre collection Crisis Hospital: Dark Tales from the Ward, the World, and the Bedside by Belin",
+                "topsy_author_url": "http://topsy.com/twitter/b_frisch",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/b_frisch/status/299631116632088576",
+                "trackback_author_name": "Belinda Frisch",
+                "trackback_author_nick": "b_frisch"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 40,
+        "hidden": 0,
+        "total": 18475,
+        "page": 1
+    }
+}

@@ -1,0 +1,300 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23cat&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#cat",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 65,
+                "firstpost_date": 1352932510,
+                "title": "[LIVE MEOW]: YouTube superstar @buckhollywood hosts an awards show for the most awesome #cat videos of 2012. http://t.co/tzVWyLvC",
+                "url": "http://twitter.com/youtube/status/268844552293605377",
+                "trackback_date": 1352932510,
+                "trackback_total": 78,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/tzVWyLvC",
+                        "display_url": "goo.gl/QCMsJ",
+                        "expanded_url": "http://goo.gl/QCMsJ",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=01qvd479oOc"
+                    }
+                ],
+                "target_birth_date": 1352932510,
+                "content": "[LIVE MEOW]: YouTube superstar @buckhollywood hosts an awards show for the most awesome #cat videos of 2012. http://t.co/tzVWyLvC",
+                "mytype": "tweet",
+                "score": 11.21978,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473721736500760576/2xSLqizV_normal.png",
+                "trackback_permalink": "http://twitter.com/YouTube/status/268844552293605377",
+                "trackback_author_url": "http://twitter.com/youtube",
+                "highlight": "[LIVE MEOW]: YouTube superstar @buckhollywood hosts an awards show for the most awesome #cat videos of 2012.",
+                "topsy_author_url": "http://topsy.com/twitter/youtube",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/youtube/status/268844552293605377",
+                "trackback_author_name": "YouTube",
+                "trackback_author_nick": "youtube"
+            },
+            {
+                "hits": 133,
+                "firstpost_date": 1400367652,
+                "title": "Meet Tara The #Hero #Cat Who Saved Her Young Human Brother From A Murderous Dog Attack! http://t.co/1b4hjCZlWf http://t.co/UhX3B2Sfxn",
+                "url": "http://twitter.com/perezhilton/status/467801956749422592",
+                "trackback_date": 1400367652,
+                "trackback_total": 151,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1b4hjCZlWf",
+                        "display_url": "goo.gl/qENt4s",
+                        "expanded_url": "http://goo.gl/qENt4s",
+                        "topsy_expanded_url": "http://perezhilton.com/teddyhilton/2014-05-16-tara-hero-cat-saved-young-boy-from-dog-attack"
+                    },
+                    {
+                        "url": "http://t.co/UhX3B2Sfxn",
+                        "display_url": "pic.twitter.com/UhX3B2Sfxn",
+                        "expanded_url": "http://twitter.com/PerezHilton/status/467801956749422592/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bn33ZqoIEAA61sJ.jpg"
+                    }
+                ],
+                "target_birth_date": 1400367652,
+                "content": "Meet Tara The #Hero #Cat Who Saved Her Young Human Brother From A Murderous Dog Attack! http://t.co/1b4hjCZlWf http://t.co/UhX3B2Sfxn",
+                "mytype": "tweet",
+                "score": 10.548956,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000211326403/30c8c4f35dc06205358b9903ae6d7490_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/PerezHilton/status/467801956749422592",
+                "trackback_author_url": "http://twitter.com/perezhilton",
+                "highlight": "Meet Tara The #Hero #Cat Who Saved Her Young Human Brother From A Murderous Dog Attack!",
+                "topsy_author_url": "http://topsy.com/twitter/perezhilton",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/perezhilton/status/467801956749422592",
+                "trackback_author_name": "Perez Hilton",
+                "trackback_author_nick": "perezhilton"
+            },
+            {
+                "hits": 102,
+                "firstpost_date": 1395633286,
+                "title": "\ud83d\ude39\ud83d\udc95#cat http://t.co/aIIgjSHtZb",
+                "url": "http://twitter.com/mariko_dayo/status/447944585546067969",
+                "trackback_date": 1395633286,
+                "trackback_total": 189,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/aIIgjSHtZb",
+                        "display_url": "instagram.com/p/l6TelZNdnq/",
+                        "expanded_url": "http://instagram.com/p/l6TelZNdnq/",
+                        "topsy_expanded_url": "http://instagram.com/p/l6TelZNdnq/"
+                    }
+                ],
+                "target_birth_date": 1395633286,
+                "content": "\ud83d\ude39\ud83d\udc95#cat http://t.co/aIIgjSHtZb",
+                "mytype": "tweet",
+                "score": 10.41157,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000178017259/935e4c73305e24c2fbb1468f6fe8e45f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mariko_dayo/status/447944585546067969",
+                "trackback_author_url": "http://twitter.com/mariko_dayo",
+                "highlight": "\ud83d\ude39\ud83d\udc95#cat",
+                "topsy_author_url": "http://topsy.com/twitter/mariko_dayo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mariko_dayo/status/447944585546067969",
+                "trackback_author_name": "\u7be0\u7530\u9ebb\u91cc\u5b50",
+                "trackback_author_nick": "mariko_dayo"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1368555638,
+                "title": "Watch as this clever #cat opens five doors in a row: http://t.co/T8cszw9yS7",
+                "url": "http://twitter.com/yahooscreen/status/334372699839275008",
+                "trackback_date": 1368555638,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/T8cszw9yS7",
+                        "display_url": "yhoo.it/11C1m8s",
+                        "expanded_url": "http://yhoo.it/11C1m8s",
+                        "topsy_expanded_url": "http://screen.yahoo.com/clever-cat-opens-five-doors-121739326.html"
+                    }
+                ],
+                "target_birth_date": 1368555638,
+                "content": "Watch as this clever #cat opens five doors in a row: http://t.co/T8cszw9yS7",
+                "mytype": "tweet",
+                "score": 10.356499,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000413577139/390e11c3654ddb6c31da72b46f282214_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/yahooscreen/status/334372699839275008",
+                "trackback_author_url": "http://twitter.com/yahooscreen",
+                "highlight": "Watch as this clever #cat opens five doors in a row:",
+                "topsy_author_url": "http://topsy.com/twitter/yahooscreen",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/yahooscreen/status/334372699839275008",
+                "trackback_author_name": "Yahoo Screen",
+                "trackback_author_nick": "yahooscreen"
+            },
+            {
+                "hits": 128,
+                "firstpost_date": 1379466430,
+                "title": "This mofo' is walking a cat!  #cat #funnycat #funny https://t.co/mPHIwlV87m",
+                "url": "http://twitter.com/donniewahlberg/status/380135876082548736",
+                "trackback_date": 1379466430,
+                "trackback_total": 638,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/mPHIwlV87m",
+                        "display_url": "vine.co/v/hvZXBHFFQJ6",
+                        "expanded_url": "https://vine.co/v/hvZXBHFFQJ6",
+                        "topsy_expanded_url": "https://vine.co/v/hvZXBHFFQJ6"
+                    }
+                ],
+                "target_birth_date": 1379466430,
+                "content": "This mofo' is walking a cat!  #cat #funnycat #funny https://t.co/mPHIwlV87m",
+                "mytype": "tweet",
+                "score": 10.315976,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469151618903318528/PSBc4EZn_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DonnieWahlberg/status/380135876082548736",
+                "trackback_author_url": "http://twitter.com/donniewahlberg",
+                "highlight": "This mofo' is walking a cat! #cat #funnycat #funny",
+                "topsy_author_url": "http://topsy.com/twitter/donniewahlberg",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/donniewahlberg/status/380135876082548736",
+                "trackback_author_name": "Donnie Wahlberg",
+                "trackback_author_nick": "donniewahlberg"
+            },
+            {
+                "hits": 191,
+                "firstpost_date": 1357508378,
+                "title": "Cat Burglar! Cat used in Brazil prison smuggling attempt\nhttp://t.co/lVPnuJna\nWith @HumaneSociety #cat #brazil\n@iansomerhalder",
+                "url": "http://twitter.com/ryotnews/status/288037131018977282",
+                "trackback_date": 1357508378,
+                "trackback_total": 242,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/lVPnuJna",
+                        "display_url": "ryot.org/cat-burglar-ca\u2026",
+                        "expanded_url": "http://www.ryot.org/cat-burglar-cat-used-in-brazil-prison-smuggling-attempt/46622",
+                        "topsy_expanded_url": "http://www.ryot.org/cat-burglar-cat-used-in-brazil-prison-smuggling-attempt/46622"
+                    }
+                ],
+                "target_birth_date": 1357508378,
+                "content": "Cat Burglar! Cat used in Brazil prison smuggling attempt\nhttp://t.co/lVPnuJna\nWith @HumaneSociety #cat #brazil\n@iansomerhalder",
+                "mytype": "tweet",
+                "score": 10.287955,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000116317248/847b8d4a53b4f098b1937d6b3b0e8914_normal.png",
+                "trackback_permalink": "http://twitter.com/RYOTnews/status/288037131018977282",
+                "trackback_author_url": "http://twitter.com/ryotnews",
+                "highlight": "Cat Burglar! Cat used in Brazil prison smuggling attempt With @HumaneSociety #cat #brazil @iansomerhalder",
+                "topsy_author_url": "http://topsy.com/twitter/ryotnews",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ryotnews/status/288037131018977282",
+                "trackback_author_name": "RYOT NEWS",
+                "trackback_author_nick": "ryotnews"
+            },
+            {
+                "hits": 126,
+                "firstpost_date": 1300669203,
+                "title": "#100factsaboutme Permanent home 4 Tony @ accredited big #cat sanctuary @BigCatRescue Tampa FL was refused by Tony\u2019s owner  #FreeTonyTiger",
+                "url": "http://twitter.com/freetonytiger/status/49636353796874240",
+                "trackback_date": 1300669203,
+                "trackback_total": 144,
+                "url_expansions": [],
+                "target_birth_date": 1300669203,
+                "content": "#100factsaboutme Permanent home 4 Tony @ accredited big #cat sanctuary @BigCatRescue Tampa FL was refused by Tony\u2019s owner  #FreeTonyTiger",
+                "mytype": "tweet",
+                "score": 10.133294,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/437719996710416385/I6lFxfpd_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/FreeTonyTiger/status/49636353796874240",
+                "trackback_author_url": "http://twitter.com/freetonytiger",
+                "highlight": "#100factsaboutme Permanent home 4 Tony @ accredited big #cat sanctuary @BigCatRescue Tampa FL was refused by Tony\u2019s owner",
+                "topsy_author_url": "http://topsy.com/twitter/freetonytiger",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/freetonytiger/status/49636353796874240",
+                "trackback_author_name": "Free Tony The Tiger",
+                "trackback_author_nick": "freetonytiger"
+            },
+            {
+                "hits": 58,
+                "firstpost_date": 1370096711,
+                "title": "@VINNYGUADAGNINO is at @animalleague today.  Come out an #adopt #puppy #dog #cat #kitten http://t.co/LNkXqfL85M",
+                "url": "http://twitter.com/animalleague/status/340836428504244226",
+                "trackback_date": 1370096711,
+                "trackback_total": 75,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/LNkXqfL85M",
+                        "display_url": "pic.twitter.com/LNkXqfL85M",
+                        "expanded_url": "http://twitter.com/AnimalLeague/status/340836428504244226/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BLrk7QfCIAIkVJe.jpg"
+                    }
+                ],
+                "target_birth_date": 1370096711,
+                "content": "@VINNYGUADAGNINO is at @animalleague today.  Come out an #adopt #puppy #dog #cat #kitten http://t.co/LNkXqfL85M",
+                "mytype": "tweet",
+                "score": 10.124523,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1694998364/animalleaguetwitternew_normal.jpg",
+                "trackback_permalink": "http://twitter.com/AnimalLeague/status/340836428504244226",
+                "trackback_author_url": "http://twitter.com/animalleague",
+                "highlight": " is at @animalleague today. Come out an #adopt #puppy #dog #cat #kitten",
+                "topsy_author_url": "http://topsy.com/twitter/animalleague",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/animalleague/status/340836428504244226",
+                "trackback_author_name": "AnimalLeague",
+                "trackback_author_nick": "animalleague"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1291688865,
+                "title": "ESO TE PASA A VOS #CAT",
+                "url": "http://twitter.com/connieansaldi/status/11970087795826689",
+                "trackback_date": 1291688865,
+                "trackback_total": 25,
+                "url_expansions": [],
+                "target_birth_date": 1291688865,
+                "content": "ESO TE PASA A VOS #CAT",
+                "mytype": "tweet",
+                "score": 10.124473,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472022518933782528/46mRtT6e_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/connieansaldi/status/11970087795826689",
+                "trackback_author_url": "http://twitter.com/connieansaldi",
+                "highlight": "ESO TE PASA A VOS",
+                "topsy_author_url": "http://topsy.com/twitter/connieansaldi",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/connieansaldi/status/11970087795826689",
+                "trackback_author_name": "connie ansaldi ",
+                "trackback_author_nick": "connieansaldi"
+            },
+            {
+                "hits": 389,
+                "firstpost_date": 1365352833,
+                "title": "International #cat beauty contest held in Romania: http://t.co/CVaavWK0Mw &amp; http://t.co/YhZIpjnwTX",
+                "url": "http://twitter.com/bbcworld/status/320939160066224129",
+                "trackback_date": 1365352833,
+                "trackback_total": 580,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/CVaavWK0Mw",
+                        "display_url": "bbc.in/10tqXfu",
+                        "expanded_url": "http://bbc.in/10tqXfu",
+                        "topsy_expanded_url": "http://www.bbc.co.uk/newsround/22056839"
+                    },
+                    {
+                        "url": "http://t.co/YhZIpjnwTX",
+                        "expanded_url": "http://twitter.com/BBCWorld/status/320939160066224129/photo/1",
+                        "display_url": "pic.twitter.com/YhZIpjnwTX"
+                    }
+                ],
+                "target_birth_date": 1365352833,
+                "content": "International #cat beauty contest held in Romania: http://t.co/CVaavWK0Mw &amp; http://t.co/YhZIpjnwTX",
+                "mytype": "tweet",
+                "score": 10.110422,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460756830503706624/x2R8lADg_normal.png",
+                "trackback_permalink": "http://twitter.com/BBCWorld/status/320939160066224129",
+                "trackback_author_url": "http://twitter.com/bbcworld",
+                "highlight": "International #cat beauty contest held in Romania: &amp;",
+                "topsy_author_url": "http://topsy.com/twitter/bbcworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bbcworld/status/320939160066224129",
+                "trackback_author_name": "BBC News (World)",
+                "trackback_author_nick": "bbcworld"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 8685888,
+        "page": 1
+    }
+}

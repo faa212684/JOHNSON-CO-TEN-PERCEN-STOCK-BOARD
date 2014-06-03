@@ -1,0 +1,297 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23cat&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=220",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#cat",
+            "window": "a",
+            "type": "tweet",
+            "offset": "220"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 8,
+                "firstpost_date": 1361230644,
+                "title": "@catsofinstagram must like #cheshire #cat #blink182 http://t.co/l4KB61o7",
+                "url": "http://twitter.com/blink182/status/303649448544833536",
+                "trackback_date": 1361230644,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/l4KB61o7",
+                        "display_url": "instagr.am/p/V5BlvQPXPr/",
+                        "expanded_url": "http://instagr.am/p/V5BlvQPXPr/",
+                        "topsy_expanded_url": "http://instagram.com/p/V5BlvQPXPr/"
+                    }
+                ],
+                "target_birth_date": 1361230644,
+                "content": "@catsofinstagram must like #cheshire #cat #blink182 http://t.co/l4KB61o7",
+                "mytype": "tweet",
+                "score": 9.302833,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000671236760/4042e7cffaacd415f68f2fff4c1972ef_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/blink182/status/303649448544833536",
+                "trackback_author_url": "http://twitter.com/blink182",
+                "highlight": " must like #cheshire #cat #blink182",
+                "topsy_author_url": "http://topsy.com/twitter/blink182",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/blink182/status/303649448544833536",
+                "trackback_author_name": "blink182",
+                "trackback_author_nick": "blink182"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1343000858,
+                "title": "#cat \ud83d\udc31 http://t.co/3Ttua6jo",
+                "url": "http://twitter.com/davecasali/status/227188183786483712",
+                "trackback_date": 1343000858,
+                "trackback_total": 22,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3Ttua6jo",
+                        "display_url": "instagr.am/p/NZu57IxnRo/",
+                        "expanded_url": "http://instagr.am/p/NZu57IxnRo/",
+                        "topsy_expanded_url": "http://instagr.am/p/NZu57IxnRo/"
+                    }
+                ],
+                "target_birth_date": 1343000858,
+                "content": "#cat \ud83d\udc31 http://t.co/3Ttua6jo",
+                "mytype": "tweet",
+                "score": 9.3022995,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/411651074366251008/h1HmcLXH_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/davecasali/status/227188183786483712",
+                "trackback_author_url": "http://twitter.com/davecasali",
+                "highlight": "#cat \ud83d\udc31",
+                "topsy_author_url": "http://topsy.com/twitter/davecasali",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/davecasali/status/227188183786483712",
+                "trackback_author_name": "Dave Casali",
+                "trackback_author_nick": "davecasali"
+            },
+            {
+                "hits": 254,
+                "firstpost_date": 1365237677,
+                "title": "http://t.co/yD26DGc7WU #cat",
+                "url": "http://twitter.com/neco_pic/status/320456163537866752",
+                "trackback_date": 1365237677,
+                "trackback_total": 366,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/yD26DGc7WU",
+                        "display_url": "twitpic.com/a8ir5j",
+                        "expanded_url": "http://twitpic.com/a8ir5j",
+                        "topsy_expanded_url": "http://twitpic.com/a8ir5j"
+                    }
+                ],
+                "target_birth_date": 1365237677,
+                "content": "http://t.co/yD26DGc7WU #cat",
+                "mytype": "tweet",
+                "score": 9.302075,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000381123578/aaa557c7eb7216b93186c2127c320e89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/neco_pic/status/320456163537866752",
+                "trackback_author_url": "http://twitter.com/neco_pic",
+                "highlight": "http://t.co/yD26DGc7WU #cat",
+                "topsy_author_url": "http://topsy.com/twitter/neco_pic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/neco_pic/status/320456163537866752",
+                "trackback_author_name": "\u306d\u3053\u753b\u50cfbot",
+                "trackback_author_nick": "neco_pic"
+            },
+            {
+                "hits": 68,
+                "firstpost_date": 1350304226,
+                "title": "\u304a\u3001\u7f6e\u7269\u3002\u3002\u3002\n#\u30b5\u30d0\u7f8e #cat http://t.co/fzLFGvwR",
+                "url": "http://twitter.com/miusakamoto/status/257820729352015873",
+                "trackback_date": 1350304226,
+                "trackback_total": 77,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/fzLFGvwR",
+                        "display_url": "instagr.am/p/QzY0ABkG-U/",
+                        "expanded_url": "http://instagr.am/p/QzY0ABkG-U/",
+                        "topsy_expanded_url": "http://instagram.com/p/QzY0ABkG-U/"
+                    }
+                ],
+                "target_birth_date": 1350304226,
+                "content": "\u304a\u3001\u7f6e\u7269\u3002\u3002\u3002\n#\u30b5\u30d0\u7f8e #cat http://t.co/fzLFGvwR",
+                "mytype": "tweet",
+                "score": 9.299526,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1645322449/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/miusakamoto/status/257820729352015873",
+                "trackback_author_url": "http://twitter.com/miusakamoto",
+                "highlight": "\u304a\u3001\u7f6e\u7269\u3002\u3002\u3002 #\u30b5\u30d0\u7f8e #cat",
+                "topsy_author_url": "http://topsy.com/twitter/miusakamoto",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/miusakamoto/status/257820729352015873",
+                "trackback_author_name": "\u30cd\u30b3\u5438\u3044\u3000\u5742\u672c\u7f8e\u96e8",
+                "trackback_author_nick": "miusakamoto"
+            },
+            {
+                "hits": 27,
+                "firstpost_date": 1389107009,
+                "title": "Today's high in #NYC is 13\u00b0 so we're making it easier to cuddle with a #cat thanks to $13 adoption fees! http://t.co/4w5XcGHJPo",
+                "url": "http://twitter.com/aspca/status/420571394980974592",
+                "trackback_date": 1389107009,
+                "trackback_total": 34,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4w5XcGHJPo",
+                        "display_url": "ow.ly/sj0FH",
+                        "expanded_url": "http://ow.ly/sj0FH",
+                        "topsy_expanded_url": "http://ow.ly/sj0FH"
+                    }
+                ],
+                "target_birth_date": 1389107009,
+                "content": "Today's high in #NYC is 13\u00b0 so we're making it easier to cuddle with a #cat thanks to $13 adoption fees! http://t.co/4w5XcGHJPo",
+                "mytype": "tweet",
+                "score": 9.298572,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1479082848/speech-bubble-2color-180x180_normal.png",
+                "trackback_permalink": "http://twitter.com/ASPCA/status/420571394980974592",
+                "trackback_author_url": "http://twitter.com/aspca",
+                "highlight": "Today's high in #NYC is 13\u00b0 so we're making it easier to cuddle with a #cat thanks to $13 adoption fees!",
+                "topsy_author_url": "http://topsy.com/twitter/aspca",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/aspca/status/420571394980974592",
+                "trackback_author_name": "ASPCA",
+                "trackback_author_nick": "aspca"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1379447739,
+                "title": "Siempre que veo a un gato me pongo as\u00ed, perd\u00f3n. #Roar #Cat #KatyPerry #Kitty https://t.co/CnjBsvRWwC",
+                "url": "http://twitter.com/sandycoben/status/380057480115789824",
+                "trackback_date": 1379447739,
+                "trackback_total": 13,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/CnjBsvRWwC",
+                        "display_url": "vine.co/v/hvWmnP11A10",
+                        "expanded_url": "https://vine.co/v/hvWmnP11A10",
+                        "topsy_expanded_url": "https://vine.co/v/hvWmnP11A10"
+                    }
+                ],
+                "target_birth_date": 1379447739,
+                "content": "Siempre que veo a un gato me pongo as\u00ed, perd\u00f3n. #Roar #Cat #KatyPerry #Kitty https://t.co/CnjBsvRWwC",
+                "mytype": "tweet",
+                "score": 9.2979555,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463927040224149504/FxTguEsc_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SandyCoben/status/380057480115789824",
+                "trackback_author_url": "http://twitter.com/sandycoben",
+                "highlight": "Siempre que veo a un gato me pongo as\u00ed, perd\u00f3n. #Roar #Cat #KatyPerry #Kitty",
+                "topsy_author_url": "http://topsy.com/twitter/sandycoben",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sandycoben/status/380057480115789824",
+                "trackback_author_name": "SandyCoben",
+                "trackback_author_nick": "sandycoben"
+            },
+            {
+                "hits": 187,
+                "firstpost_date": 1385983927,
+                "title": "#win a 2 in 1 Radiator Bed OR our Bamboo Radiator Bed for your #cat! Follow @rosewoodpet &amp; retweet this tweet! http://t.co/uzkjsixus8",
+                "url": "http://twitter.com/rosewoodpet/status/407472241530531840",
+                "trackback_date": 1385983927,
+                "trackback_total": 335,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/uzkjsixus8",
+                        "display_url": "on.fb.me/1eOH1za",
+                        "expanded_url": "http://on.fb.me/1eOH1za",
+                        "topsy_expanded_url": "https://www.facebook.com/photo.php?fbid=10151957414580829&set=a.89549340828.93546.82391565828&type=1"
+                    }
+                ],
+                "target_birth_date": 1385983927,
+                "content": "#win a 2 in 1 Radiator Bed OR our Bamboo Radiator Bed for your #cat! Follow @rosewoodpet &amp; retweet this tweet! http://t.co/uzkjsixus8",
+                "mytype": "tweet",
+                "score": 9.296371,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2502980067/bqx5z0eefappbp8liim9_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rosewoodpet/status/407472241530531840",
+                "trackback_author_url": "http://twitter.com/rosewoodpet",
+                "highlight": "#win a 2 in 1 Radiator Bed OR our Bamboo Radiator Bed for your #cat! Follow @rosewoodpet &amp; retweet this tweet!",
+                "topsy_author_url": "http://topsy.com/twitter/rosewoodpet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rosewoodpet/status/407472241530531840",
+                "trackback_author_name": "Rosewood Pet",
+                "trackback_author_nick": "rosewoodpet"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1306280201,
+                "title": "#TOP3: Em terceiro lugar fica a #Cat da @sophie_arantes.. que olhos em? Muito linda.. #FOLLOW nela!",
+                "url": "http://twitter.com/entreteen/status/73170584154030082",
+                "trackback_date": 1306280201,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1306280201,
+                "content": "#TOP3: Em terceiro lugar fica a #Cat da @sophie_arantes.. que olhos em? Muito linda.. #FOLLOW nela!",
+                "mytype": "tweet",
+                "score": 9.296357,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000042330636/38d7821023c81d72ae6eb9a21a5d1d34_normal.png",
+                "trackback_permalink": "http://twitter.com/EntreTeen/status/73170584154030082",
+                "trackback_author_url": "http://twitter.com/entreteenportal",
+                "highlight": "#TOP3: Em terceiro lugar fica a #Cat da @sophie_arantes.. que olhos em? Muito linda.. #FOLLOW nela!",
+                "topsy_author_url": "http://topsy.com/twitter/entreteenportal",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/entreteen/status/73170584154030082",
+                "trackback_author_name": "Entre Teen",
+                "trackback_author_nick": "entreteenportal"
+            },
+            {
+                "hits": 193,
+                "firstpost_date": 1333634001,
+                "title": "\u5206\u304b\u3089\u306b\u3083\u3044\u2026\u3000#cat #neko #\u732b http://t.co/REgG4R4Z .",
+                "url": "http://twitter.com/fuji1223/status/187900737127333888",
+                "trackback_date": 1334101589,
+                "trackback_total": 260,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/REgG4R4Z",
+                        "display_url": "twitpic.com/7my9h0",
+                        "expanded_url": "http://twitpic.com/7my9h0",
+                        "topsy_expanded_url": "http://twitpic.com/7my9h0"
+                    }
+                ],
+                "target_birth_date": 1333634001,
+                "content": "RT @fuji1223: \u5206\u304b\u3089\u306b\u3083\u3044\u2026\u3000#cat #neko #\u732b http://t.co/REgG4R4Z .",
+                "mytype": "tweet",
+                "score": 9.295524,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2802050026/7fa8816411380b9d66b49f2c0e088d0f_normal.png",
+                "trackback_permalink": "http://twitter.com/favstar50_ja/status/189861945782960128",
+                "trackback_author_url": "http://twitter.com/favstar500_ja",
+                "highlight": "\u5206\u304b\u3089\u306b\u3083\u3044\u2026\u3000#cat #neko #\u732b .",
+                "topsy_author_url": "http://topsy.com/twitter/favstar500_ja",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/fuji1223/status/187900737127333888",
+                "trackback_author_name": "JA Favstar 500\u2605's",
+                "trackback_author_nick": "favstar500_ja"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1333318102,
+                "title": "25 Most Awkward #Cat Sleeping Positions http://t.co/cI8h9KXh rt @ali_kadum",
+                "url": "http://twitter.com/paul_steele/status/186575762206375936",
+                "trackback_date": 1333318102,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cI8h9KXh",
+                        "display_url": "bit.ly/xZ0LG0",
+                        "expanded_url": "http://bit.ly/xZ0LG0",
+                        "topsy_expanded_url": "http://www.buzzfeed.com/animals/awkward-cat-sleeping-positions"
+                    }
+                ],
+                "target_birth_date": 1333318102,
+                "content": "25 Most Awkward #Cat Sleeping Positions http://t.co/cI8h9KXh rt @ali_kadum",
+                "mytype": "tweet",
+                "score": 9.291412,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000408452063/d12becd7df3503c53b3227534e994b55_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/paul_steele/status/186575762206375936",
+                "trackback_author_url": "http://twitter.com/paul_steele",
+                "highlight": "25 Most Awkward #Cat Sleeping Positions rt @ali_kadum",
+                "topsy_author_url": "http://topsy.com/twitter/paul_steele",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/paul_steele/status/186575762206375936",
+                "trackback_author_name": "paul steele",
+                "trackback_author_nick": "paul_steele"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 220,
+        "hidden": 0,
+        "total": 8654167,
+        "page": 1
+    }
+}

@@ -1,0 +1,288 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23cast&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=250",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#cast",
+            "window": "a",
+            "type": "tweet",
+            "offset": "250"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 9,
+                "firstpost_date": 1399434493,
+                "title": "Watch our amazing #actors #ensemble #cast at @noho7 Reserve tickets today http://t.co/swJluSISWK #supportindiefilm RT http://t.co/wkgBcjdQf5",
+                "url": "http://twitter.com/tentacle8/status/463888004684075008",
+                "trackback_date": 1399434493,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/swJluSISWK",
+                        "display_url": "tugg.com/events/9079",
+                        "expanded_url": "http://www.tugg.com/events/9079",
+                        "topsy_expanded_url": "http://www.tugg.com/events/9079"
+                    },
+                    {
+                        "url": "http://t.co/wkgBcjdQf5",
+                        "display_url": "pic.twitter.com/wkgBcjdQf5",
+                        "expanded_url": "http://twitter.com/Tentacle8/status/463888004684075008/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BnAPrDUCUAEqHOK.jpg"
+                    }
+                ],
+                "target_birth_date": 1399434493,
+                "content": "Watch our amazing #actors #ensemble #cast at @noho7 Reserve tickets today http://t.co/swJluSISWK #supportindiefilm RT http://t.co/wkgBcjdQf5",
+                "mytype": "tweet",
+                "score": 8.496936,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2537513860/zn0hhf8f02im0a876bt0_normal.png",
+                "trackback_permalink": "http://twitter.com/Tentacle8/status/463888004684075008",
+                "trackback_author_url": "http://twitter.com/tentacle8",
+                "highlight": "Watch our amazing #actors #ensemble #cast at @noho7 Reserve tickets today #supportindiefilm RT",
+                "topsy_author_url": "http://topsy.com/twitter/tentacle8",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tentacle8/status/463888004684075008",
+                "trackback_author_name": "Tentacle 8",
+                "trackback_author_nick": "tentacle8"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1393643710,
+                "title": "I #HitTheFloor hard today #Paramount - but I was supported by an amazing #creator #cast &amp; #crew #thanks R.I.P #SarahJones",
+                "url": "http://twitter.com/rickafox/status/439599697997463554",
+                "trackback_date": 1393643710,
+                "trackback_total": 3,
+                "url_expansions": [],
+                "target_birth_date": 1393643710,
+                "content": "I #HitTheFloor hard today #Paramount - but I was supported by an amazing #creator #cast &amp; #crew #thanks R.I.P #SarahJones",
+                "mytype": "tweet",
+                "score": 8.495492,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1211716044/rick-fox_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Rickafox/status/439599697997463554",
+                "trackback_author_url": "http://twitter.com/rickafox",
+                "highlight": "I #HitTheFloor hard today #Paramount - but I was supported by an amazing #creator #cast &amp; #crew #thanks R.I.P",
+                "topsy_author_url": "http://topsy.com/twitter/rickafox",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rickafox/status/439599697997463554",
+                "trackback_author_name": "Rick Fox",
+                "trackback_author_nick": "rickafox"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1376416922,
+                "title": "#CMTDOGANDBETH \n#cast &amp; #crew \n#Unbeatable #unshakeable \n#unsinkable  #loyal #devoted \n#hawaiibased http://t.co/sn8KLYHKcv",
+                "url": "http://twitter.com/officialdognews/status/367345314468212736",
+                "trackback_date": 1376416922,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/sn8KLYHKcv",
+                        "display_url": "pic.twitter.com/sn8KLYHKcv",
+                        "expanded_url": "http://twitter.com/MrsdogC/status/355345263344377857/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BO5womKCYAAWlLU.jpg"
+                    }
+                ],
+                "target_birth_date": 1376416922,
+                "content": "#CMTDOGANDBETH \n#cast &amp; #crew \n#Unbeatable #unshakeable \n#unsinkable  #loyal #devoted \n#hawaiibased http://t.co/sn8KLYHKcv",
+                "mytype": "tweet",
+                "score": 8.491665,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462531363799724032/zPmHbyxD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OfficialDOGNews/status/367345314468212736",
+                "trackback_author_url": "http://twitter.com/officialdognews",
+                "highlight": "#CMTDOGANDBETH #cast &amp; #crew #Unbeatable #unshakeable #unsinkable #loyal #devoted #hawaiibased",
+                "topsy_author_url": "http://topsy.com/twitter/officialdognews",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/officialdognews/status/367345314468212736",
+                "trackback_author_name": "Official DOG News ",
+                "trackback_author_nick": "officialdognews"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1374849986,
+                "title": "**EXTRAS CALL OUT** We're looking for extras on SUNDAY 28th 1pm in SALFORD. Interested? Please RT #cast #extras #film #tv #media",
+                "url": "http://twitter.com/staffroomseries/status/360773108531077122",
+                "trackback_date": 1374849986,
+                "trackback_total": 20,
+                "url_expansions": [],
+                "target_birth_date": 1374849986,
+                "content": "**EXTRAS CALL OUT** We're looking for extras on SUNDAY 28th 1pm in SALFORD. Interested? Please RT #cast #extras #film #tv #media",
+                "mytype": "tweet",
+                "score": 8.489781,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3652148395/eb06865e7e0d01b0ec8927631ebf57f2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/StaffRoomSeries/status/360773108531077122",
+                "trackback_author_url": "http://twitter.com/staffroomseries",
+                "highlight": "**EXTRAS CALL OUT** We're looking for extras on SUNDAY 28th 1pm in SALFORD. Interested? Please RT #cast #extras #film #tv",
+                "topsy_author_url": "http://topsy.com/twitter/staffroomseries",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/staffroomseries/status/360773108531077122",
+                "trackback_author_name": "Staff Room Sitcom",
+                "trackback_author_nick": "staffroomseries"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1374007869,
+                "title": "In 48 hrs we'll find out whether we can make our #Film or not! #Cast / #Crew on standby.\n#Film http://t.co/lEnjdhmR9v \n#supportindiefilm",
+                "url": "http://twitter.com/tamborinedance/status/357241013976309760",
+                "trackback_date": 1374007869,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/lEnjdhmR9v",
+                        "display_url": "kck.st/19Ot7g4",
+                        "expanded_url": "http://kck.st/19Ot7g4",
+                        "topsy_expanded_url": "http://www.kickstarter.com/projects/308277822/gift-of-light-feature-length-film"
+                    }
+                ],
+                "target_birth_date": 1374007869,
+                "content": "In 48 hrs we'll find out whether we can make our #Film or not! #Cast / #Crew on standby.\n#Film http://t.co/lEnjdhmR9v \n#supportindiefilm",
+                "mytype": "tweet",
+                "score": 8.488422,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468344429464793088/r4UxkiKJ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TamborineDance/status/357241013976309760",
+                "trackback_author_url": "http://twitter.com/tamborinedance",
+                "highlight": "In 48 hrs we'll find out whether we can make our #Film or not! #Cast / #Crew on standby. #Film",
+                "topsy_author_url": "http://topsy.com/twitter/tamborinedance",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tamborinedance/status/357241013976309760",
+                "trackback_author_name": "Ola Morgan",
+                "trackback_author_nick": "tamborinedance"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1396557224,
+                "title": "Live at the top of the hour on our YouTube channel: Photowall for Chromecast and the Google Cast SDK http://t.co/c4oJYhsTzf #cast #sdk",
+                "url": "http://twitter.com/googledevs/status/451819864554885120",
+                "trackback_date": 1396557224,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/c4oJYhsTzf",
+                        "display_url": "goo.gl/w67QC3",
+                        "expanded_url": "http://goo.gl/w67QC3",
+                        "topsy_expanded_url": "https://www.youtube.com/watch?v=rH0kG0iXN-s"
+                    }
+                ],
+                "target_birth_date": 1396557224,
+                "content": "Live at the top of the hour on our YouTube channel: Photowall for Chromecast and the Google Cast SDK http://t.co/c4oJYhsTzf #cast #sdk",
+                "mytype": "tweet",
+                "score": 8.48762,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/440636713354817536/I_Z3SDmE_normal.png",
+                "trackback_permalink": "http://twitter.com/googledevs/status/451819864554885120",
+                "trackback_author_url": "http://twitter.com/googledevs",
+                "highlight": "Live at the top of the hour on our YouTube channel: Photowall for Chromecast and the Google Cast SDK #cast",
+                "topsy_author_url": "http://topsy.com/twitter/googledevs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/googledevs/status/451819864554885120",
+                "trackback_author_name": "Google Developers",
+                "trackback_author_nick": "googledevs"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1364235735,
+                "title": "I will announce the winner on @TheVRO this Thursday live! This is the ONLY autographed item by the ENTIRE #Cult #Cast http://t.co/0lac12npAb",
+                "url": "http://twitter.com/chadrook/status/316253713557766144",
+                "trackback_date": 1364235735,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/0lac12npAb",
+                        "expanded_url": "http://twitter.com/ChadRook/status/316253713557766144/photo/1",
+                        "display_url": "pic.twitter.com/0lac12npAb"
+                    }
+                ],
+                "target_birth_date": 1364235735,
+                "content": "I will announce the winner on @TheVRO this Thursday live! This is the ONLY autographed item by the ENTIRE #Cult #Cast http://t.co/0lac12npAb",
+                "mytype": "tweet",
+                "score": 8.486746,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473502536553340928/dB2E4l-y_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ChadRook/status/316253713557766144",
+                "trackback_author_url": "http://twitter.com/chadrook",
+                "highlight": "I will announce the winner on @TheVRO this Thursday live! This is the ONLY autographed item by the ENTIRE #Cult #Cast",
+                "topsy_author_url": "http://topsy.com/twitter/chadrook",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/chadrook/status/316253713557766144",
+                "trackback_author_name": "Chad Rook",
+                "trackback_author_nick": "chadrook"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1352145363,
+                "title": "Actress Mira Furlan, best known for #Babylon5 &amp; @Lost_on_ABC, joins #cast of @boxleitnerbruce's #LanternCity http://t.co/uEPUuht4",
+                "url": "http://twitter.com/lanterncitytv/status/265543016595472384",
+                "trackback_date": 1352145363,
+                "trackback_total": 25,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/uEPUuht4",
+                        "display_url": "sos.me/bzbTP/1",
+                        "expanded_url": "http://sos.me/bzbTP/1",
+                        "topsy_expanded_url": "http://sos.me/blog/95527/post/1041413"
+                    }
+                ],
+                "target_birth_date": 1352145363,
+                "content": "Actress Mira Furlan, best known for #Babylon5 &amp; @Lost_on_ABC, joins #cast of @boxleitnerbruce's #LanternCity http://t.co/uEPUuht4",
+                "mytype": "tweet",
+                "score": 8.486167,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2807302135/e183e53bf757e9f851dbec5855e1e7e1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LanternCityTV/status/265543016595472384",
+                "trackback_author_url": "http://twitter.com/lanterncitytv",
+                "highlight": "Actress Mira Furlan, best known for #Babylon5 &amp; @Lost_on_ABC, joins #cast of @boxleitnerbruce's #LanternCity",
+                "topsy_author_url": "http://topsy.com/twitter/lanterncitytv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lanterncitytv/status/265543016595472384",
+                "trackback_author_name": "Lantern City",
+                "trackback_author_nick": "lanterncitytv"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1308940505,
+                "title": "RT @anthonywestra25 #ncis #dagger #cast Find discount Ncis Dagger Cast and Free Shipping at http://ncis-dagger-cast.daggercity0.us",
+                "url": "http://twitter.com/gibbsrules/status/84328708797763584",
+                "trackback_date": 1308940505,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1308940505,
+                "content": "RT @anthonywestra25 #ncis #dagger #cast Find discount Ncis Dagger Cast and Free Shipping at http://ncis-dagger-cast.daggercity0.us",
+                "mytype": "tweet",
+                "score": 8.48449,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/951720570/Leroy_Jethro_Gibbs_normal.jpg",
+                "trackback_permalink": "http://twitter.com/GibbsRules/status/84328708797763584",
+                "trackback_author_url": "http://twitter.com/gibbsrules",
+                "highlight": "RT @anthonywestra25 #ncis #dagger #cast Find discount Ncis Dagger Cast and Free Shipping at",
+                "topsy_author_url": "http://topsy.com/twitter/gibbsrules",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gibbsrules/status/84328708797763584",
+                "trackback_author_name": "Gibbs Rules",
+                "trackback_author_nick": "gibbsrules"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1377000070,
+                "title": "#CMTDOGANDBETH \n#cast &amp; #crew \n#Unbeatable\n#unsinkable  #loyal #devoted \n http://t.co/sn8KLYHKcv",
+                "url": "http://twitter.com/officialdognews/status/369791215656783872",
+                "trackback_date": 1377000070,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/sn8KLYHKcv",
+                        "display_url": "pic.twitter.com/sn8KLYHKcv",
+                        "expanded_url": "http://twitter.com/MrsdogC/status/355345263344377857/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BO5womKCYAAWlLU.jpg"
+                    }
+                ],
+                "target_birth_date": 1377000070,
+                "content": "#CMTDOGANDBETH \n#cast &amp; #crew \n#Unbeatable\n#unsinkable  #loyal #devoted \n http://t.co/sn8KLYHKcv",
+                "mytype": "tweet",
+                "score": 8.483337,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462531363799724032/zPmHbyxD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OfficialDOGNews/status/369791215656783872",
+                "trackback_author_url": "http://twitter.com/officialdognews",
+                "highlight": "#CMTDOGANDBETH #cast &amp; #crew #Unbeatable #unsinkable #loyal #devoted",
+                "topsy_author_url": "http://topsy.com/twitter/officialdognews",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/officialdognews/status/369791215656783872",
+                "trackback_author_name": "Official DOG News ",
+                "trackback_author_nick": "officialdognews"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 250,
+        "hidden": 0,
+        "total": 123862,
+        "page": 1
+    }
+}

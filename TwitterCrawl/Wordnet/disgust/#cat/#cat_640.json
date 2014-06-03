@@ -1,0 +1,302 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23cat&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=640",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#cat",
+            "window": "a",
+            "type": "tweet",
+            "offset": "640"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 4,
+                "firstpost_date": 1340827804,
+                "title": "Mister Mittens Big Adventure. (50% off too!) #lasers #cat #teebbq http://t.co/fa3nMCQd",
+                "url": "http://twitter.com/threadless/status/218073732730728448",
+                "trackback_date": 1340827804,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/fa3nMCQd",
+                        "display_url": "ow.ly/bRDLY",
+                        "expanded_url": "http://ow.ly/bRDLY",
+                        "topsy_expanded_url": "http://ow.ly/bRDLY"
+                    }
+                ],
+                "target_birth_date": 1340827804,
+                "content": "Mister Mittens Big Adventure. (50% off too!) #lasers #cat #teebbq http://t.co/fa3nMCQd",
+                "mytype": "tweet",
+                "score": 9.129182,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458974657014530048/6XkcBfoj_normal.png",
+                "trackback_permalink": "http://twitter.com/threadless/status/218073732730728448",
+                "trackback_author_url": "http://twitter.com/threadless",
+                "highlight": "Mister Mittens Big Adventure. (50% off too!) #lasers #cat #teebbq",
+                "topsy_author_url": "http://topsy.com/twitter/threadless",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/threadless/status/218073732730728448",
+                "trackback_author_name": "Threadless",
+                "trackback_author_nick": "threadless"
+            },
+            {
+                "hits": 28,
+                "firstpost_date": 1371349602,
+                "title": "\u304f\u308f\u308f\u308f\u308f\u308f\u3041\u301c \n#cat #\u30b5\u30d0\u7f8e http://t.co/UXiuYsQCD4",
+                "url": "http://twitter.com/miusakamoto/status/346091431624077314",
+                "trackback_date": 1371349602,
+                "trackback_total": 45,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/UXiuYsQCD4",
+                        "display_url": "instagram.com/p/aml-uckG9K/",
+                        "expanded_url": "http://instagram.com/p/aml-uckG9K/",
+                        "topsy_expanded_url": "http://instagram.com/p/aml-uckG9K/"
+                    }
+                ],
+                "target_birth_date": 1371349602,
+                "content": "\u304f\u308f\u308f\u308f\u308f\u308f\u3041\u301c \n#cat #\u30b5\u30d0\u7f8e http://t.co/UXiuYsQCD4",
+                "mytype": "tweet",
+                "score": 9.129082,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1645322449/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/miusakamoto/status/346091431624077314",
+                "trackback_author_url": "http://twitter.com/miusakamoto",
+                "highlight": "\u304f\u308f\u308f\u308f\u308f\u308f\u3041\u301c #cat #\u30b5\u30d0\u7f8e",
+                "topsy_author_url": "http://topsy.com/twitter/miusakamoto",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/miusakamoto/status/346091431624077314",
+                "trackback_author_name": "\u30cd\u30b3\u5438\u3044\u3000\u5742\u672c\u7f8e\u96e8",
+                "trackback_author_nick": "miusakamoto"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1399093375,
+                "title": "\u306c\u30fc\u30fc\u3093 #cat #\u30b5\u30d0\u7f8e http://t.co/dwllBCNQNd",
+                "url": "http://twitter.com/miusakamoto/status/462457250502963200",
+                "trackback_date": 1399093375,
+                "trackback_total": 13,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/dwllBCNQNd",
+                        "display_url": "instagram.com/p/nhbEvxEG9y/",
+                        "expanded_url": "http://instagram.com/p/nhbEvxEG9y/",
+                        "topsy_expanded_url": "http://instagram.com/p/nhbEvxEG9y/"
+                    }
+                ],
+                "target_birth_date": 1399093375,
+                "content": "\u306c\u30fc\u30fc\u3093 #cat #\u30b5\u30d0\u7f8e http://t.co/dwllBCNQNd",
+                "mytype": "tweet",
+                "score": 9.1284275,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1645322449/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/miusakamoto/status/462457250502963200",
+                "trackback_author_url": "http://twitter.com/miusakamoto",
+                "highlight": "\u306c\u30fc\u30fc\u3093 #cat #\u30b5\u30d0\u7f8e",
+                "topsy_author_url": "http://topsy.com/twitter/miusakamoto",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/miusakamoto/status/462457250502963200",
+                "trackback_author_name": "\u30cd\u30b3\u5438\u3044\u3000\u5742\u672c\u7f8e\u96e8",
+                "trackback_author_nick": "miusakamoto"
+            },
+            {
+                "hits": 37,
+                "firstpost_date": 1367866867,
+                "title": "VENTA BOLETOS: #BSC vs #CAT / Desde hoy en Mall del Sol http://t.co/hIoTqBYffx v\u00eda http://t.co/gNPppoQwy4 http://t.co/iaB6ITFuKk",
+                "url": "http://twitter.com/barcelonascweb/status/331483785168318464",
+                "trackback_date": 1367866867,
+                "trackback_total": 38,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/hIoTqBYffx",
+                        "display_url": "bit.ly/16c9Bsv",
+                        "expanded_url": "http://bit.ly/16c9Bsv",
+                        "topsy_expanded_url": "http://www.barcelonasc.com.ec/index.php?Itemid=163&catid=54%3Ael-club&id=2379%3Aventa-boletos-barcelona-vs-u-catolica-campeonato-ecuatoriano&option=com_content&view=article"
+                    },
+                    {
+                        "url": "http://t.co/gNPppoQwy4",
+                        "display_url": "barcelonasc.com.ec",
+                        "expanded_url": "http://www.barcelonasc.com.ec",
+                        "topsy_expanded_url": "http://www.barcelonasc.com.ec/"
+                    },
+                    {
+                        "url": "http://t.co/iaB6ITFuKk",
+                        "display_url": "pic.twitter.com/iaB6ITFuKk",
+                        "expanded_url": "http://twitter.com/BarcelonaSCweb/status/331483785168318464/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BJmqvxBCcAAeVuv.jpg"
+                    }
+                ],
+                "target_birth_date": 1367866867,
+                "content": "VENTA BOLETOS: #BSC vs #CAT / Desde hoy en Mall del Sol http://t.co/hIoTqBYffx v\u00eda http://t.co/gNPppoQwy4 http://t.co/iaB6ITFuKk",
+                "mytype": "tweet",
+                "score": 9.12839,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469608836572000256/yHuzyKXi_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BarcelonaSCweb/status/331483785168318464",
+                "trackback_author_url": "http://twitter.com/barcelonascweb",
+                "highlight": "VENTA BOLETOS: #BSC vs #CAT / Desde hoy en Mall del Sol v\u00eda",
+                "topsy_author_url": "http://topsy.com/twitter/barcelonascweb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/barcelonascweb/status/331483785168318464",
+                "trackback_author_name": "Barcelona S.C.",
+                "trackback_author_nick": "barcelonascweb"
+            },
+            {
+                "hits": 115,
+                "firstpost_date": 1380537189,
+                "title": "\u732b\u5211\u4e8b http://t.co/Q9FEFxj7Cu #cat",
+                "url": "http://twitter.com/neco_pic/status/384626968261447680",
+                "trackback_date": 1380537189,
+                "trackback_total": 154,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Q9FEFxj7Cu",
+                        "display_url": "twitpic.com/am0izd",
+                        "expanded_url": "http://twitpic.com/am0izd",
+                        "topsy_expanded_url": "http://twitpic.com/am0izd"
+                    }
+                ],
+                "target_birth_date": 1380537189,
+                "content": "\u732b\u5211\u4e8b http://t.co/Q9FEFxj7Cu #cat",
+                "mytype": "tweet",
+                "score": 9.127792,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000381123578/aaa557c7eb7216b93186c2127c320e89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/neco_pic/status/384626968261447680",
+                "trackback_author_url": "http://twitter.com/neco_pic",
+                "highlight": "\u732b\u5211\u4e8b",
+                "topsy_author_url": "http://topsy.com/twitter/neco_pic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/neco_pic/status/384626968261447680",
+                "trackback_author_name": "\u306d\u3053\u753b\u50cfbot",
+                "trackback_author_nick": "neco_pic"
+            },
+            {
+                "hits": 77,
+                "firstpost_date": 1383703416,
+                "title": "\u5c0f\u5224\u3092\u4f7f\u3044\u3053\u306a\u305b\u305f\u732b http://t.co/rJnfh8KO4R #cat",
+                "url": "http://twitter.com/neco_pic/status/397907083594436609",
+                "trackback_date": 1383703416,
+                "trackback_total": 102,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/rJnfh8KO4R",
+                        "display_url": "twitpic.com/bun5q7",
+                        "expanded_url": "http://twitpic.com/bun5q7",
+                        "topsy_expanded_url": "http://twitpic.com/bun5q7"
+                    }
+                ],
+                "target_birth_date": 1383703416,
+                "content": "\u5c0f\u5224\u3092\u4f7f\u3044\u3053\u306a\u305b\u305f\u732b http://t.co/rJnfh8KO4R #cat",
+                "mytype": "tweet",
+                "score": 9.127683,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000381123578/aaa557c7eb7216b93186c2127c320e89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/neco_pic/status/397907083594436609",
+                "trackback_author_url": "http://twitter.com/neco_pic",
+                "highlight": "\u5c0f\u5224\u3092\u4f7f\u3044\u3053\u306a\u305b\u305f\u732b",
+                "topsy_author_url": "http://topsy.com/twitter/neco_pic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/neco_pic/status/397907083594436609",
+                "trackback_author_name": "\u306d\u3053\u753b\u50cfbot",
+                "trackback_author_nick": "neco_pic"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1339605895,
+                "title": "\u3050\u3093\u306b\u3083\u3044  #\u30b5\u30d0\u7f8e #cat http://t.co/WmcSBBhm",
+                "url": "http://twitter.com/miusakamoto/status/212948678271451136",
+                "trackback_date": 1339605895,
+                "trackback_total": 21,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WmcSBBhm",
+                        "display_url": "instagr.am/p/L0jlsNEG-X/",
+                        "expanded_url": "http://instagr.am/p/L0jlsNEG-X/",
+                        "topsy_expanded_url": "http://instagr.am/p/L0jlsNEG-X/"
+                    }
+                ],
+                "target_birth_date": 1339605895,
+                "content": "\u3050\u3093\u306b\u3083\u3044  #\u30b5\u30d0\u7f8e #cat http://t.co/WmcSBBhm",
+                "mytype": "tweet",
+                "score": 9.1276655,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1645322449/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/miusakamoto/status/212948678271451136",
+                "trackback_author_url": "http://twitter.com/miusakamoto",
+                "highlight": "\u3050\u3093\u306b\u3083\u3044 #\u30b5\u30d0\u7f8e #cat",
+                "topsy_author_url": "http://topsy.com/twitter/miusakamoto",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/miusakamoto/status/212948678271451136",
+                "trackback_author_name": "\u30cd\u30b3\u5438\u3044\u3000\u5742\u672c\u7f8e\u96e8",
+                "trackback_author_nick": "miusakamoto"
+            },
+            {
+                "hits": 34,
+                "firstpost_date": 1390161190,
+                "title": "Sometimes our friends can be very different ... and thats ok. - #RockC |&gt; #Photo #Cat #Duck http://t.co/85Vm1gkSD2",
+                "url": "http://twitter.com/rockchristopher/status/424992953208041472",
+                "trackback_date": 1390161190,
+                "trackback_total": 39,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/85Vm1gkSD2",
+                        "display_url": "pic.twitter.com/85Vm1gkSD2",
+                        "expanded_url": "http://twitter.com/RockChristopher/status/424992953208041472/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BeXg1tiCcAAXiCo.jpg"
+                    }
+                ],
+                "target_birth_date": 1390161190,
+                "content": "Sometimes our friends can be very different ... and thats ok. - #RockC |&gt; #Photo #Cat #Duck http://t.co/85Vm1gkSD2",
+                "mytype": "tweet",
+                "score": 9.127468,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/417877867624558592/YBkyP3Nc_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RockChristopher/status/424992953208041472",
+                "trackback_author_url": "http://twitter.com/rockchristopher",
+                "highlight": "Sometimes our friends can be very different ... and thats ok. - #RockC |&gt; #Photo #Cat #Duck",
+                "topsy_author_url": "http://topsy.com/twitter/rockchristopher",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rockchristopher/status/424992953208041472",
+                "trackback_author_name": "Rock Christopher",
+                "trackback_author_nick": "rockchristopher"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1308344568,
+                "title": "Time for Friday #cat blogging. Hurrah: http://mojo.ly/iPecNO",
+                "url": "http://twitter.com/motherjones/status/81829167448076289",
+                "trackback_date": 1308344568,
+                "trackback_total": 4,
+                "url_expansions": [],
+                "target_birth_date": 1308344568,
+                "content": "Time for Friday #cat blogging. Hurrah: http://mojo.ly/iPecNO",
+                "mytype": "tweet",
+                "score": 9.12675,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/451825504207638528/2kBkscYK_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MotherJones/status/81829167448076289",
+                "trackback_author_url": "http://twitter.com/motherjones",
+                "highlight": "Time for Friday #cat blogging. Hurrah:",
+                "topsy_author_url": "http://topsy.com/twitter/motherjones",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/motherjones/status/81829167448076289",
+                "trackback_author_name": "Mother Jones",
+                "trackback_author_nick": "motherjones"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1297975204,
+                "title": "Make your own Mouse Droid #Cat Toy! http://bit.ly/floF2N #StarWars #crafts",
+                "url": "http://twitter.com/starwars/status/38336904160088064",
+                "trackback_date": 1297975204,
+                "trackback_total": 4,
+                "url_expansions": [],
+                "target_birth_date": 1297975204,
+                "content": "Make your own Mouse Droid #Cat Toy! http://bit.ly/floF2N #StarWars #crafts",
+                "mytype": "tweet",
+                "score": 9.126385,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464460229300600832/esZd6eQp_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/starwars/status/38336904160088064",
+                "trackback_author_url": "http://twitter.com/starwars",
+                "highlight": "Make your own Mouse Droid #Cat Toy! #StarWars",
+                "topsy_author_url": "http://topsy.com/twitter/starwars",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/starwars/status/38336904160088064",
+                "trackback_author_name": "Star Wars",
+                "trackback_author_nick": "starwars"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 640,
+        "hidden": 0,
+        "total": 8460085,
+        "page": 1
+    }
+}

@@ -1,0 +1,274 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23chuck&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=560",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#chuck",
+            "window": "a",
+            "type": "tweet",
+            "offset": "560"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1348203300,
+                "title": "#Chuck J\u00e1, j\u00e1: Chuck questiona se deve ou n\u00e3o procurar sua m\u00e3e http://t.co/MG7GbG5T",
+                "url": "http://twitter.com/sbtonline/status/249008807760519168",
+                "trackback_date": 1348203300,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/MG7GbG5T",
+                        "display_url": "sbt.com.br/series/chuck/e\u2026",
+                        "expanded_url": "http://www.sbt.com.br/series/chuck/episodios/",
+                        "topsy_expanded_url": "http://www.sbt.com.br/series/chuck/episodios/"
+                    }
+                ],
+                "target_birth_date": 1348203300,
+                "content": "#Chuck J\u00e1, j\u00e1: Chuck questiona se deve ou n\u00e3o procurar sua m\u00e3e http://t.co/MG7GbG5T",
+                "mytype": "tweet",
+                "score": 9.2953615,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000323478016/76d6c95df57475ead1e2f98eba3fe36e_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SBTonline/status/249008807760519168",
+                "trackback_author_url": "http://twitter.com/sbtonline",
+                "highlight": "#Chuck J\u00e1, j\u00e1: Chuck questiona se deve ou n\u00e3o procurar sua m\u00e3e",
+                "topsy_author_url": "http://topsy.com/twitter/sbtonline",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sbtonline/status/249008807760519168",
+                "trackback_author_name": "SBT Online",
+                "trackback_author_nick": "sbtonline"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1302796915,
+                "title": "#Chuck's @Y_Strahovski vs. the Droopy Cupcake Bra: Secrets Behind the CollegeHumor Spoof http://ow.ly/4AhsF",
+                "url": "http://twitter.com/tvguide/status/58560622652170240",
+                "trackback_date": 1302796915,
+                "trackback_total": 12,
+                "url_expansions": [],
+                "target_birth_date": 1302796915,
+                "content": "#Chuck's @Y_Strahovski vs. the Droopy Cupcake Bra: Secrets Behind the CollegeHumor Spoof http://ow.ly/4AhsF",
+                "mytype": "tweet",
+                "score": 9.294552,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/446278783075512322/A8N_z8W1_normal.png",
+                "trackback_permalink": "http://twitter.com/TVGuide/status/58560622652170240",
+                "trackback_author_url": "http://twitter.com/tvguide",
+                "highlight": "#Chuck's @Y_Strahovski vs. the Droopy Cupcake Bra: Secrets Behind the CollegeHumor Spoof",
+                "topsy_author_url": "http://topsy.com/twitter/tvguide",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tvguide/status/58560622652170240",
+                "trackback_author_name": "TV Guide",
+                "trackback_author_nick": "tvguide"
+            },
+            {
+                "hits": 30,
+                "firstpost_date": 1342659546,
+                "title": "Have u voted today? Vote #CHUCK @ZacharyLevi and @Y_Strahovski in 3 TCAs categories: Action TV Show, Actor and Actress http://t.co/tg74swXf",
+                "url": "http://twitter.com/littlechuckfan/status/225756616853688320",
+                "trackback_date": 1342659546,
+                "trackback_total": 39,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/tg74swXf",
+                        "display_url": "teenchoiceawards.com",
+                        "expanded_url": "http://www.teenchoiceawards.com",
+                        "topsy_expanded_url": "http://www.teenchoiceawards.com"
+                    }
+                ],
+                "target_birth_date": 1342659546,
+                "content": "Have u voted today? Vote #CHUCK @ZacharyLevi and @Y_Strahovski in 3 TCAs categories: Action TV Show, Actor and Actress http://t.co/tg74swXf",
+                "mytype": "tweet",
+                "score": 9.294067,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/443552520233709568/G7j2DE2B_normal.png",
+                "trackback_permalink": "http://twitter.com/LittleChuckFan/status/225756616853688320",
+                "trackback_author_url": "http://twitter.com/littlechuckfan",
+                "highlight": "Have u voted today? Vote #CHUCK @ZacharyLevi and @Y_Strahovski in 3 TCAs categories: Action TV Show, Actor and Actress",
+                "topsy_author_url": "http://topsy.com/twitter/littlechuckfan",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/littlechuckfan/status/225756616853688320",
+                "trackback_author_name": "Bailey",
+                "trackback_author_nick": "littlechuckfan"
+            },
+            {
+                "hits": 28,
+                "firstpost_date": 1334257432,
+                "title": "If this were an episode of #Chuck we would title it \"Chuck vs. the Puzzle.\" http://t.co/qgnZU4Q3",
+                "url": "http://twitter.com/nbcstore/status/190515591516389376",
+                "trackback_date": 1334257432,
+                "trackback_total": 44,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/qgnZU4Q3",
+                        "expanded_url": "http://twitter.com/nbcstore/status/190515591516389376/photo/1",
+                        "display_url": "pic.twitter.com/qgnZU4Q3"
+                    }
+                ],
+                "target_birth_date": 1334257432,
+                "content": "If this were an episode of #Chuck we would title it \"Chuck vs. the Puzzle.\" http://t.co/qgnZU4Q3",
+                "mytype": "tweet",
+                "score": 9.2918625,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000083240761/d12610a7231a02355cdad6bf3eb1e8fa_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/nbcstore/status/190515591516389376",
+                "trackback_author_url": "http://twitter.com/nbcstore",
+                "highlight": "If this were an episode of #Chuck we would title it \"Chuck vs. the Puzzle.\"",
+                "topsy_author_url": "http://topsy.com/twitter/nbcstore",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbcstore/status/190515591516389376",
+                "trackback_author_name": "NBC Experience Store",
+                "trackback_author_nick": "nbcstore"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1323469127,
+                "title": "RT @DannyPudi: Excited to be on #Chuck tonight. 8/7c Get your nerd herd fix!",
+                "url": "http://twitter.com/nbcchuck/status/145266167811031040",
+                "trackback_date": 1323469127,
+                "trackback_total": 18,
+                "url_expansions": [],
+                "target_birth_date": 1323469127,
+                "content": "RT @DannyPudi: Excited to be on #Chuck tonight. 8/7c Get your nerd herd fix!",
+                "mytype": "tweet",
+                "score": 9.291543,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1525627764/chuck_73x73_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nbcchuck/status/145266167811031040",
+                "trackback_author_url": "http://twitter.com/nbcchuck",
+                "highlight": "Excited to be on #Chuck tonight. 8/7c Get your nerd herd fix!",
+                "topsy_author_url": "http://topsy.com/twitter/nbcchuck",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbcchuck/status/145266167811031040",
+                "trackback_author_name": "CHUCK",
+                "trackback_author_nick": "nbcchuck"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1323197106,
+                "title": "On a shuttle to the \"Chuck\" finale set. The blindfold is surprisingly comfortable. #chuck",
+                "url": "http://twitter.com/hitfixdaniel/status/144125224990941185",
+                "trackback_date": 1323197106,
+                "trackback_total": 12,
+                "url_expansions": [],
+                "target_birth_date": 1323197106,
+                "content": "On a shuttle to the \"Chuck\" finale set. The blindfold is surprisingly comfortable. #chuck",
+                "mytype": "tweet",
+                "score": 9.291433,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/416073008470437888/N5-SeErg_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/HitFixDaniel/status/144125224990941185",
+                "trackback_author_url": "http://twitter.com/hitfixdaniel",
+                "highlight": "On a shuttle to the \"Chuck\" finale set. The blindfold is surprisingly comfortable.",
+                "topsy_author_url": "http://topsy.com/twitter/hitfixdaniel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hitfixdaniel/status/144125224990941185",
+                "trackback_author_name": "Daniel Fienberg",
+                "trackback_author_nick": "hitfixdaniel"
+            },
+            {
+                "hits": 69,
+                "firstpost_date": 1303386806,
+                "title": "#Chuck and its fans made the cover of USA Today...today @JoshSchwartz76 http://yfrog.com/gy8njiej",
+                "url": "http://twitter.com/beauparadox/status/61034805013397505",
+                "trackback_date": 1303393684,
+                "trackback_total": 82,
+                "url_expansions": [],
+                "target_birth_date": 1303386806,
+                "content": "RT @beauparadox: #Chuck and its fans made the cover of USA Today...today @JoshSchwartz76 http://yfrog.com/gy8njiej",
+                "mytype": "tweet",
+                "score": 9.291409,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2900267563/e482bd37c6a8c5cdcd67ab8c629072f8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JoshSchwartz76/status/61063653528576000",
+                "trackback_author_url": "http://twitter.com/joshschwartz76",
+                "highlight": "#Chuck and its fans made the cover of USA Today...today @JoshSchwartz76",
+                "topsy_author_url": "http://topsy.com/twitter/joshschwartz76",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/beauparadox/status/61034805013397505",
+                "trackback_author_name": "Josh Schwartz",
+                "trackback_author_nick": "joshschwartz76"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1357596708,
+                "title": "#CHUCK on Netflix!!! RT @MattG1978: Spread the word, #TeamBartowski! #Chuck is finally coming to Netflix streaming! :-D http://t.co/zjKt9mrr",
+                "url": "http://twitter.com/littlechuckfan/status/288407614629486593",
+                "trackback_date": 1357596708,
+                "trackback_total": 22,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/zjKt9mrr",
+                        "display_url": "techcrunch.com/2013/01/07/net\u2026",
+                        "expanded_url": "http://techcrunch.com/2013/01/07/netflix-warner-bros/",
+                        "topsy_expanded_url": "http://techcrunch.com/2013/01/07/netflix-warner-bros/"
+                    }
+                ],
+                "target_birth_date": 1357596708,
+                "content": "#CHUCK on Netflix!!! RT @MattG1978: Spread the word, #TeamBartowski! #Chuck is finally coming to Netflix streaming! :-D http://t.co/zjKt9mrr",
+                "mytype": "tweet",
+                "score": 9.291346,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/443552520233709568/G7j2DE2B_normal.png",
+                "trackback_permalink": "http://twitter.com/LittleChuckFan/status/288407614629486593",
+                "trackback_author_url": "http://twitter.com/littlechuckfan",
+                "highlight": "#CHUCK on Netflix!!!Spread the word, #TeamBartowski! #Chuck is finally coming to Netflix streaming! :-D",
+                "topsy_author_url": "http://topsy.com/twitter/littlechuckfan",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/littlechuckfan/status/288407614629486593",
+                "trackback_author_name": "Bailey",
+                "trackback_author_nick": "littlechuckfan"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1336509749,
+                "title": "#Chuck fans - vote for Ellie and Devon as your favorite TV doctors! http://t.co/5q2QbfQG @nbcchuck @RyanMcPartlin #CaptainAwesome",
+                "url": "http://twitter.com/tvguide/status/199962500014424067",
+                "trackback_date": 1336509749,
+                "trackback_total": 19,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/5q2QbfQG",
+                        "expanded_url": "http://bit.ly/JcyzKi",
+                        "display_url": "bit.ly/JcyzKi"
+                    }
+                ],
+                "target_birth_date": 1336509749,
+                "content": "#Chuck fans - vote for Ellie and Devon as your favorite TV doctors! http://t.co/5q2QbfQG @nbcchuck @RyanMcPartlin #CaptainAwesome",
+                "mytype": "tweet",
+                "score": 9.290917,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/446278783075512322/A8N_z8W1_normal.png",
+                "trackback_permalink": "http://twitter.com/TVGuide/status/199962500014424067",
+                "trackback_author_url": "http://twitter.com/tvguide",
+                "highlight": "#Chuck fans - vote for Ellie and Devon as your favorite TV doctors! @nbcchuck @RyanMcPartlin",
+                "topsy_author_url": "http://topsy.com/twitter/tvguide",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tvguide/status/199962500014424067",
+                "trackback_author_name": "TV Guide",
+                "trackback_author_nick": "tvguide"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1321899313,
+                "title": "Jeffster may have hit a rough patch, but we can still remember the good times: http://t.co/ADyYqZdm #Chuck",
+                "url": "http://twitter.com/nbcchuck/status/138681890327642112",
+                "trackback_date": 1321899313,
+                "trackback_total": 15,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ADyYqZdm",
+                        "display_url": "bit.ly/rE24iu",
+                        "expanded_url": "http://bit.ly/rE24iu",
+                        "topsy_expanded_url": "http://www.nbc.com/chuck/exclusives/jeff-and-lester/"
+                    }
+                ],
+                "target_birth_date": 1321899313,
+                "content": "Jeffster may have hit a rough patch, but we can still remember the good times: http://t.co/ADyYqZdm #Chuck",
+                "mytype": "tweet",
+                "score": 9.290781,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1525627764/chuck_73x73_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nbcchuck/status/138681890327642112",
+                "trackback_author_url": "http://twitter.com/nbcchuck",
+                "highlight": "Jeffster may have hit a rough patch, but we can still remember the good times:",
+                "topsy_author_url": "http://topsy.com/twitter/nbcchuck",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbcchuck/status/138681890327642112",
+                "trackback_author_name": "CHUCK",
+                "trackback_author_nick": "nbcchuck"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 560,
+        "hidden": 0,
+        "total": 1199527,
+        "page": 1
+    }
+}

@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23chuck&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=70",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#chuck",
+            "window": "a",
+            "type": "tweet",
+            "offset": "70"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 2,
+                "firstpost_date": 1321041303,
+                "title": "@wegiveachuck Get the \u201cChuck Vs The Frosted Tips\u201d #Chuck sticker by checking in with @GetGlue tonight! http://t.co/rkVyQ6UJ",
+                "url": "http://twitter.com/getglue/status/135083134835372032",
+                "trackback_date": 1321041303,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/rkVyQ6UJ",
+                        "display_url": "bit.ly/slWVlZ",
+                        "expanded_url": "http://bit.ly/slWVlZ",
+                        "topsy_expanded_url": "http://getglue.com/stickers/nbc/chuck_vs_the_frosted_tips"
+                    }
+                ],
+                "target_birth_date": 1321041303,
+                "content": "@wegiveachuck Get the \u201cChuck Vs The Frosted Tips\u201d #Chuck sticker by checking in with @GetGlue tonight! http://t.co/rkVyQ6UJ",
+                "mytype": "tweet",
+                "score": 9.773592,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/427147265409445888/HywVBLQl_normal.png",
+                "trackback_permalink": "http://twitter.com/getglue/status/135083134835372032",
+                "trackback_author_url": "http://twitter.com/tvtag",
+                "highlight": " Get the \u201cChuck Vs The Frosted Tips\u201d #Chuck sticker by checking in with @GetGlue tonight!",
+                "topsy_author_url": "http://topsy.com/twitter/tvtag",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/getglue/status/135083134835372032",
+                "trackback_author_name": "tvtag",
+                "trackback_author_nick": "tvtag"
+            },
+            {
+                "hits": 31,
+                "firstpost_date": 1327701932,
+                "title": "It\u2019s time to say goodbye\u2026 Don\u2019t miss the two-hour #Chuck series finale tonight at 8/7c! Preview: http://t.co/vLGF5kPq",
+                "url": "http://twitter.com/nbc/status/163019838715990016",
+                "trackback_date": 1327701932,
+                "trackback_total": 46,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vLGF5kPq",
+                        "display_url": "ow.ly/8J8Vp",
+                        "expanded_url": "http://ow.ly/8J8Vp",
+                        "topsy_expanded_url": "http://www.nbc.com/chuck/video/two-hour-series-finale/1380591"
+                    }
+                ],
+                "target_birth_date": 1327701932,
+                "content": "It\u2019s time to say goodbye\u2026 Don\u2019t miss the two-hour #Chuck series finale tonight at 8/7c! Preview: http://t.co/vLGF5kPq",
+                "mytype": "tweet",
+                "score": 9.770933,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467333093091602434/50j4fZvh_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/nbc/status/163019838715990016",
+                "trackback_author_url": "http://twitter.com/nbc",
+                "highlight": "It\u2019s time to say goodbye\u2026 Don\u2019t miss the two-hour #Chuck series finale tonight at 8/7c! Preview:",
+                "topsy_author_url": "http://topsy.com/twitter/nbc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbc/status/163019838715990016",
+                "trackback_author_name": "NBC",
+                "trackback_author_nick": "nbc"
+            },
+            {
+                "hits": 87,
+                "firstpost_date": 1327367179,
+                "title": "Well, it is a sin to look so good... #chuck #gossipgirl",
+                "url": "http://twitter.com/gossipgirl/status/161615780562219008",
+                "trackback_date": 1327367179,
+                "trackback_total": 112,
+                "url_expansions": [],
+                "target_birth_date": 1327367179,
+                "content": "Well, it is a sin to look so good... #chuck #gossipgirl",
+                "mytype": "tweet",
+                "score": 9.768162,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/290636835/twitterlogo_normal.JPG",
+                "trackback_permalink": "http://twitter.com/gossipgirl/status/161615780562219008",
+                "trackback_author_url": "http://twitter.com/gossipgirl",
+                "highlight": "Well, it is a sin to look so good... #chuck",
+                "topsy_author_url": "http://topsy.com/twitter/gossipgirl",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gossipgirl/status/161615780562219008",
+                "trackback_author_name": "Gossip Girl",
+                "trackback_author_nick": "gossipgirl"
+            },
+            {
+                "hits": 21,
+                "firstpost_date": 1280026408,
+                "title": "So sorry we had no time for fan Q&A at the #Chuck panel. But thanks to everyone who waited in line so long to spend time with us...",
+                "url": "http://twitter.com/zacharylevi/status/19465053226",
+                "trackback_date": 1280026408,
+                "trackback_total": 80,
+                "url_expansions": [],
+                "target_birth_date": 1280026408,
+                "content": "So sorry we had no time for fan Q&A at the #Chuck panel. But thanks to everyone who waited in line so long to spend time with us...",
+                "mytype": "tweet",
+                "score": 9.759745,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460446173627961344/pEmptkzL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ZacharyLevi/status/19465053226",
+                "trackback_author_url": "http://twitter.com/zacharylevi",
+                "highlight": "So sorry we had no time for fan Q&A at the #Chuck panel. But thanks to everyone who waited in line so long to spend time with us",
+                "topsy_author_url": "http://topsy.com/twitter/zacharylevi",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/zacharylevi/status/19465053226",
+                "trackback_author_name": "Zachary Levi",
+                "trackback_author_nick": "zacharylevi"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1321648214,
+                "title": "Its #CHUCK Vs. The Business Trip tonight! Catch the new episode & check-in w/ @GetGlue for exclusive stickers: http://t.co/NV7bAxU6",
+                "url": "http://twitter.com/getglue/status/137628702472286208",
+                "trackback_date": 1321648214,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/NV7bAxU6",
+                        "display_url": "ow.ly/7x7b7",
+                        "expanded_url": "http://ow.ly/7x7b7",
+                        "topsy_expanded_url": "http://getglue.com/stickers/nbc/chuck_vs_the_business_trip"
+                    }
+                ],
+                "target_birth_date": 1321648214,
+                "content": "Its #CHUCK Vs. The Business Trip tonight! Catch the new episode & check-in w/ @GetGlue for exclusive stickers: http://t.co/NV7bAxU6",
+                "mytype": "tweet",
+                "score": 9.757792,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/427147265409445888/HywVBLQl_normal.png",
+                "trackback_permalink": "http://twitter.com/getglue/status/137628702472286208",
+                "trackback_author_url": "http://twitter.com/tvtag",
+                "highlight": "Its #CHUCK Vs. The Business Trip tonight! Catch the new episode & check-in w/ @GetGlue for exclusive stickers:",
+                "topsy_author_url": "http://topsy.com/twitter/tvtag",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/getglue/status/137628702472286208",
+                "trackback_author_name": "tvtag",
+                "trackback_author_nick": "tvtag"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1321034705,
+                "title": "@ChuckTVE Get the \u201cChuck Vs The Frosted Tips\u201d #Chuck sticker by checking in with @GetGlue tonight! http://t.co/rkVyQ6UJ",
+                "url": "http://twitter.com/getglue/status/135055459160821760",
+                "trackback_date": 1321034705,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/rkVyQ6UJ",
+                        "display_url": "bit.ly/slWVlZ",
+                        "expanded_url": "http://bit.ly/slWVlZ",
+                        "topsy_expanded_url": "http://getglue.com/stickers/nbc/chuck_vs_the_frosted_tips"
+                    }
+                ],
+                "target_birth_date": 1321034705,
+                "content": "@ChuckTVE Get the \u201cChuck Vs The Frosted Tips\u201d #Chuck sticker by checking in with @GetGlue tonight! http://t.co/rkVyQ6UJ",
+                "mytype": "tweet",
+                "score": 9.755793,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/427147265409445888/HywVBLQl_normal.png",
+                "trackback_permalink": "http://twitter.com/getglue/status/135055459160821760",
+                "trackback_author_url": "http://twitter.com/tvtag",
+                "highlight": " Get the \u201cChuck Vs The Frosted Tips\u201d #Chuck sticker by checking in with @GetGlue tonight!",
+                "topsy_author_url": "http://topsy.com/twitter/tvtag",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/getglue/status/135055459160821760",
+                "trackback_author_name": "tvtag",
+                "trackback_author_nick": "tvtag"
+            },
+            {
+                "hits": 31,
+                "firstpost_date": 1301924986,
+                "title": "Congrats!! RT @nbcchuck: And the winner of @hulu's Best in Show is... #Chuck! We couldn't have done it without our amazing fans!",
+                "url": "http://twitter.com/nbc/status/54903488089554944",
+                "trackback_date": 1301924986,
+                "trackback_total": 39,
+                "url_expansions": [],
+                "target_birth_date": 1301924986,
+                "content": "Congrats!! RT @nbcchuck: And the winner of @hulu's Best in Show is... #Chuck! We couldn't have done it without our amazing fans!",
+                "mytype": "tweet",
+                "score": 9.755146,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467333093091602434/50j4fZvh_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/nbc/status/54903488089554944",
+                "trackback_author_url": "http://twitter.com/nbc",
+                "highlight": "Congrats!!And the winner of @hulu's Best in Show is... #Chuck! We couldn't have done it without our amazing fans!",
+                "topsy_author_url": "http://topsy.com/twitter/nbc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbc/status/54903488089554944",
+                "trackback_author_name": "NBC",
+                "trackback_author_nick": "nbc"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1375901132,
+                "title": "Exclusive: #Chuck alum to woo the ladies of Hart of Dixie! See who it is: http://t.co/joqmDKuYBB",
+                "url": "http://twitter.com/tvguide/status/365181932050448384",
+                "trackback_date": 1375901132,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/joqmDKuYBB",
+                        "display_url": "tvgd.co/19aXtug",
+                        "expanded_url": "http://tvgd.co/19aXtug",
+                        "topsy_expanded_url": "http://www.tvguide.com/news/hart-dixie-ryan-mcpartlin-1068961.aspx"
+                    }
+                ],
+                "target_birth_date": 1375901132,
+                "content": "Exclusive: #Chuck alum to woo the ladies of Hart of Dixie! See who it is: http://t.co/joqmDKuYBB",
+                "mytype": "tweet",
+                "score": 9.75202,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/446278783075512322/A8N_z8W1_normal.png",
+                "trackback_permalink": "http://twitter.com/TVGuide/status/365181932050448384",
+                "trackback_author_url": "http://twitter.com/tvguide",
+                "highlight": "Exclusive: #Chuck alum to woo the ladies of Hart of Dixie! See who it is:",
+                "topsy_author_url": "http://topsy.com/twitter/tvguide",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tvguide/status/365181932050448384",
+                "trackback_author_name": "TV Guide",
+                "trackback_author_nick": "tvguide"
+            },
+            {
+                "hits": 602,
+                "firstpost_date": 1327672099,
+                "title": "Happy #Chuck day! These past five season have been AMAZING! #goodbyechuck",
+                "url": "http://twitter.com/nbcchuck/status/162894707700137984",
+                "trackback_date": 1327672099,
+                "trackback_total": 729,
+                "url_expansions": [],
+                "target_birth_date": 1327672099,
+                "content": "Happy #Chuck day! These past five season have been AMAZING! #goodbyechuck",
+                "mytype": "tweet",
+                "score": 9.748523,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1525627764/chuck_73x73_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nbcchuck/status/162894707700137984",
+                "trackback_author_url": "http://twitter.com/nbcchuck",
+                "highlight": "Happy #Chuck day! These past five season have been AMAZING!",
+                "topsy_author_url": "http://topsy.com/twitter/nbcchuck",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbcchuck/status/162894707700137984",
+                "trackback_author_name": "CHUCK",
+                "trackback_author_nick": "nbcchuck"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1399331340,
+                "title": ".@Y_Strahovski fans, this is your night! Catch the #Chuck/#Dexter star on both #24LAD and #LouieFX this evening: http://t.co/SYFzfJcO8x",
+                "url": "http://twitter.com/peoplemag/status/463455348507287552",
+                "trackback_date": 1399331340,
+                "trackback_total": 19,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/SYFzfJcO8x",
+                        "display_url": "peoplem.ag/wvP50",
+                        "expanded_url": "http://peoplem.ag/wvP50",
+                        "topsy_expanded_url": "http://www.people.com/article/yvonne-strahovski-24-louis-appearances"
+                    }
+                ],
+                "target_birth_date": 1399331340,
+                "content": ".@Y_Strahovski fans, this is your night! Catch the #Chuck/#Dexter star on both #24LAD and #LouieFX this evening: http://t.co/SYFzfJcO8x",
+                "mytype": "tweet",
+                "score": 9.745157,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000012691090/24b3c2ec438f9fbfc6188b5f3486ded4_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/peoplemag/status/463455348507287552",
+                "trackback_author_url": "http://twitter.com/peoplemag",
+                "highlight": ".@Y_Strahovski fans, this is your night! Catch the #Chuck/#Dexter star on both #24LAD and #LouieFX this evening:",
+                "topsy_author_url": "http://topsy.com/twitter/peoplemag",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/peoplemag/status/463455348507287552",
+                "trackback_author_name": "People magazine",
+                "trackback_author_nick": "peoplemag"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 70,
+        "hidden": 0,
+        "total": 1218767,
+        "page": 1
+    }
+}

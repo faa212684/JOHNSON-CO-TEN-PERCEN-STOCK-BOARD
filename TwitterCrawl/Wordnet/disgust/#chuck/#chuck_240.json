@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23chuck&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=240",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#chuck",
+            "window": "a",
+            "type": "tweet",
+            "offset": "240"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 42,
+                "firstpost_date": 1331217453,
+                "title": "RT @monimqz: I looooove him!!!!! \u2764 #gossipgirl #love #chuck #bass #sexy #instacool @gossipgirl http://t.co/TmTHXZte",
+                "url": "http://twitter.com/gossipgirl/status/177764999270375425",
+                "trackback_date": 1331217453,
+                "trackback_total": 54,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/TmTHXZte",
+                        "display_url": "instagr.am/p/H53OJNMFyd/",
+                        "expanded_url": "http://instagr.am/p/H53OJNMFyd/",
+                        "topsy_expanded_url": "http://instagram.com/p/H53OJNMFyd/"
+                    }
+                ],
+                "target_birth_date": 1331217453,
+                "content": "RT @monimqz: I looooove him!!!!! \u2764 #gossipgirl #love #chuck #bass #sexy #instacool @gossipgirl http://t.co/TmTHXZte",
+                "mytype": "tweet",
+                "score": 9.47672,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/290636835/twitterlogo_normal.JPG",
+                "trackback_permalink": "http://twitter.com/gossipgirl/status/177764999270375425",
+                "trackback_author_url": "http://twitter.com/gossipgirl",
+                "highlight": "I looooove him!!!!! \u2764 #gossipgirl #love #chuck #bass #sexy #instacool @gossipgirl",
+                "topsy_author_url": "http://topsy.com/twitter/gossipgirl",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gossipgirl/status/177764999270375425",
+                "trackback_author_name": "Gossip Girl",
+                "trackback_author_nick": "gossipgirl"
+            },
+            {
+                "hits": 98,
+                "firstpost_date": 1381855693,
+                "title": "This is as close as I'll come to being a broadway star... Great to see you #Chuck fans!!! xx http://t.co/gQtXBv2cKp",
+                "url": "http://twitter.com/sarahmlancaster/status/390157174212538370",
+                "trackback_date": 1381855693,
+                "trackback_total": 141,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/gQtXBv2cKp",
+                        "display_url": "pic.twitter.com/gQtXBv2cKp",
+                        "expanded_url": "http://twitter.com/SarahMLancaster/status/390157174212538370/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BWod4fYCUAASP6q.jpg"
+                    }
+                ],
+                "target_birth_date": 1381855693,
+                "content": "This is as close as I'll come to being a broadway star... Great to see you #Chuck fans!!! xx http://t.co/gQtXBv2cKp",
+                "mytype": "tweet",
+                "score": 9.4761095,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2972571298/6644ca198c0a768f03223029781e3cbf_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SarahMLancaster/status/390157174212538370",
+                "trackback_author_url": "http://twitter.com/sarahmlancaster",
+                "highlight": "This is as close as I'll come to being a broadway star... Great to see you #Chuck fans!!! xx",
+                "topsy_author_url": "http://topsy.com/twitter/sarahmlancaster",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sarahmlancaster/status/390157174212538370",
+                "trackback_author_name": "Sarah Lancaster",
+                "trackback_author_nick": "sarahmlancaster"
+            },
+            {
+                "hits": 380,
+                "firstpost_date": 1273511497,
+                "title": "RT to win: Watch #Chuck LIVE tonight at 8/7c with special guests Christopher Lloyd and Julia Ling: http://bit.ly/95JlcN",
+                "url": "http://twitter.com/nbcchuck/status/13737274660",
+                "trackback_date": 1273511497,
+                "trackback_total": 416,
+                "url_expansions": [],
+                "target_birth_date": 1273511497,
+                "content": "RT to win: Watch #Chuck LIVE tonight at 8/7c with special guests Christopher Lloyd and Julia Ling: http://bit.ly/95JlcN",
+                "mytype": "tweet",
+                "score": 9.475872,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1525627764/chuck_73x73_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nbcchuck/status/13737274660",
+                "trackback_author_url": "http://twitter.com/nbcchuck",
+                "highlight": "RT to win: Watch #Chuck LIVE tonight at 8/7c with special guests Christopher Lloyd and Julia Ling:",
+                "topsy_author_url": "http://topsy.com/twitter/nbcchuck",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbcchuck/status/13737274660",
+                "trackback_author_name": "CHUCK",
+                "trackback_author_nick": "nbcchuck"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1332171540,
+                "title": "Our friends @chucktvdotnet share the final #Chuck podcast: http://t.co/EjHoWOb6",
+                "url": "http://twitter.com/nbcchuck/status/181766731625271296",
+                "trackback_date": 1332171540,
+                "trackback_total": 21,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/EjHoWOb6",
+                        "display_url": "bit.ly/ybgGK6",
+                        "expanded_url": "http://bit.ly/ybgGK6",
+                        "topsy_expanded_url": "http://www.chuckpodcast.com/106-its-a-wrap/"
+                    }
+                ],
+                "target_birth_date": 1332171540,
+                "content": "Our friends @chucktvdotnet share the final #Chuck podcast: http://t.co/EjHoWOb6",
+                "mytype": "tweet",
+                "score": 9.475622,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1525627764/chuck_73x73_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nbcchuck/status/181766731625271296",
+                "trackback_author_url": "http://twitter.com/nbcchuck",
+                "highlight": "Our friends @chucktvdotnet share the final #Chuck podcast:",
+                "topsy_author_url": "http://topsy.com/twitter/nbcchuck",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbcchuck/status/181766731625271296",
+                "trackback_author_name": "CHUCK",
+                "trackback_author_nick": "nbcchuck"
+            },
+            {
+                "hits": 85,
+                "firstpost_date": 1336527062,
+                "title": "The 5th &amp; final season is now available on DVD: http://t.co/y1YGJjIs &amp; we have a great cast goodbye clip http://t.co/lqLdUKQw #CHUCK",
+                "url": "http://twitter.com/nbcchuck/status/200035115634655233",
+                "trackback_date": 1336527062,
+                "trackback_total": 108,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/y1YGJjIs",
+                        "display_url": "bit.ly/9unerY",
+                        "expanded_url": "http://bit.ly/9unerY",
+                        "topsy_expanded_url": "http://www.thewb.com/shows/chuck-on-dvd"
+                    },
+                    {
+                        "url": "http://t.co/lqLdUKQw",
+                        "display_url": "bit.ly/Id1P4X",
+                        "expanded_url": "http://bit.ly/Id1P4X",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=-M_rshqzaI8"
+                    }
+                ],
+                "target_birth_date": 1336527062,
+                "content": "The 5th &amp; final season is now available on DVD: http://t.co/y1YGJjIs &amp; we have a great cast goodbye clip http://t.co/lqLdUKQw #CHUCK",
+                "mytype": "tweet",
+                "score": 9.475573,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1525627764/chuck_73x73_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nbcchuck/status/200035115634655233",
+                "trackback_author_url": "http://twitter.com/nbcchuck",
+                "highlight": "The 5th &amp; final season is now available on DVD: &amp; we have a great cast goodbye clip",
+                "topsy_author_url": "http://topsy.com/twitter/nbcchuck",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbcchuck/status/200035115634655233",
+                "trackback_author_name": "CHUCK",
+                "trackback_author_nick": "nbcchuck"
+            },
+            {
+                "hits": 102,
+                "firstpost_date": 1310411052,
+                "title": "Sneek peek at #CHUCK @TVGuideMagazine cover: http://t.co/Q4HWGIK Get it @WB booth @Comic-Con. #WBSDCC #SDCC\u201d",
+                "url": "http://twitter.com/y_strahovski/status/90496629299351553",
+                "trackback_date": 1310411052,
+                "trackback_total": 167,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Q4HWGIK",
+                        "display_url": "bit.ly/oDI4E8",
+                        "expanded_url": "http://bit.ly/oDI4E8",
+                        "topsy_expanded_url": "http://comiccon.thewb.com/2011/tvguidemagazinecovers2011/"
+                    }
+                ],
+                "target_birth_date": 1310411052,
+                "content": "Sneek peek at #CHUCK @TVGuideMagazine cover: http://t.co/Q4HWGIK Get it @WB booth @Comic-Con. #WBSDCC #SDCC\u201d",
+                "mytype": "tweet",
+                "score": 9.474573,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/470943281418080256/h2SkrO_F_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Y_Strahovski/status/90496629299351553",
+                "trackback_author_url": "http://twitter.com/y_strahovski",
+                "highlight": "Sneek peek at #CHUCK @TVGuideMagazine cover: Get it @WB booth @Comic-Con. #WBSDCC #SDCC\u201d",
+                "topsy_author_url": "http://topsy.com/twitter/y_strahovski",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/y_strahovski/status/90496629299351553",
+                "trackback_author_name": "Yvonne Strahovski",
+                "trackback_author_nick": "y_strahovski"
+            },
+            {
+                "hits": 47,
+                "firstpost_date": 1327726416,
+                "title": "\u201c@SWFanGirls: I'm scared of Ms. Walker #Chuck\u201d\n\nMuahahaha ha ha .... ;)",
+                "url": "http://twitter.com/y_strahovski/status/163122528263487488",
+                "trackback_date": 1327726416,
+                "trackback_total": 94,
+                "url_expansions": [],
+                "target_birth_date": 1327726416,
+                "content": "\u201c@SWFanGirls: I'm scared of Ms. Walker #Chuck\u201d\n\nMuahahaha ha ha .... ;)",
+                "mytype": "tweet",
+                "score": 9.473512,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/470943281418080256/h2SkrO_F_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Y_Strahovski/status/163122528263487488",
+                "trackback_author_url": "http://twitter.com/y_strahovski",
+                "highlight": "\u201c@SWFanGirls: I'm scared of Ms. Walker #Chuck\u201d Muahahaha ha ha .... ;)",
+                "topsy_author_url": "http://topsy.com/twitter/y_strahovski",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/y_strahovski/status/163122528263487488",
+                "trackback_author_name": "Yvonne Strahovski",
+                "trackback_author_nick": "y_strahovski"
+            },
+            {
+                "hits": 130,
+                "firstpost_date": 1305573191,
+                "title": "We're not saying we have the cutest cast ever.. Oh wait. We just did. #NBCUpfront11 #Chuck http://yfrog.com/h820owgj",
+                "url": "http://twitter.com/nbcchuck/status/70205169618518016",
+                "trackback_date": 1305573191,
+                "trackback_total": 164,
+                "url_expansions": [],
+                "target_birth_date": 1305573191,
+                "content": "We're not saying we have the cutest cast ever.. Oh wait. We just did. #NBCUpfront11 #Chuck http://yfrog.com/h820owgj",
+                "mytype": "tweet",
+                "score": 9.471263,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1525627764/chuck_73x73_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nbcchuck/status/70205169618518016",
+                "trackback_author_url": "http://twitter.com/nbcchuck",
+                "highlight": "We're not saying we have the cutest cast ever.. Oh wait. We just did. #NBCUpfront11 #Chuck",
+                "topsy_author_url": "http://topsy.com/twitter/nbcchuck",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbcchuck/status/70205169618518016",
+                "trackback_author_name": "CHUCK",
+                "trackback_author_nick": "nbcchuck"
+            },
+            {
+                "hits": 61,
+                "firstpost_date": 1319760021,
+                "title": "Congrats East Coast Nerd Herders, you only have to wait 24 more hours for a new #Chuck!",
+                "url": "http://twitter.com/nbcchuck/status/129709048437276672",
+                "trackback_date": 1319760021,
+                "trackback_total": 81,
+                "url_expansions": [],
+                "target_birth_date": 1319760021,
+                "content": "Congrats East Coast Nerd Herders, you only have to wait 24 more hours for a new #Chuck!",
+                "mytype": "tweet",
+                "score": 9.470794,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1525627764/chuck_73x73_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nbcchuck/status/129709048437276672",
+                "trackback_author_url": "http://twitter.com/nbcchuck",
+                "highlight": "Congrats East Coast Nerd Herders, you only have to wait 24 more hours for a new #Chuck!",
+                "topsy_author_url": "http://topsy.com/twitter/nbcchuck",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nbcchuck/status/129709048437276672",
+                "trackback_author_name": "CHUCK",
+                "trackback_author_nick": "nbcchuck"
+            },
+            {
+                "hits": 32,
+                "firstpost_date": 1389628825,
+                "title": "#Chuck and #Dexter alum Yvonne Strahovski  joins Fox's #24 event series http://t.co/BOwCJEALRH @Y_Strahovski",
+                "url": "http://twitter.com/tvguide/status/422760052743610369",
+                "trackback_date": 1389628825,
+                "trackback_total": 39,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/BOwCJEALRH",
+                        "display_url": "tvgd.co/1kxVqWs",
+                        "expanded_url": "http://tvgd.co/1kxVqWs",
+                        "topsy_expanded_url": "http://www.tvguide.com/news/24-yvonne-strahovski-1075917.aspx"
+                    }
+                ],
+                "target_birth_date": 1389628825,
+                "content": "#Chuck and #Dexter alum Yvonne Strahovski  joins Fox's #24 event series http://t.co/BOwCJEALRH @Y_Strahovski",
+                "mytype": "tweet",
+                "score": 9.470757,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/446278783075512322/A8N_z8W1_normal.png",
+                "trackback_permalink": "http://twitter.com/TVGuide/status/422760052743610369",
+                "trackback_author_url": "http://twitter.com/tvguide",
+                "highlight": "#Chuck and #Dexter alum Yvonne Strahovski joins Fox's #24 event series @Y_Strahovski",
+                "topsy_author_url": "http://topsy.com/twitter/tvguide",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tvguide/status/422760052743610369",
+                "trackback_author_name": "TV Guide",
+                "trackback_author_nick": "tvguide"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 240,
+        "hidden": 0,
+        "total": 1204931,
+        "page": 1
+    }
+}

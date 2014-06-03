@@ -1,0 +1,307 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23cat&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=160",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#cat",
+            "window": "a",
+            "type": "tweet",
+            "offset": "160"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 16,
+                "firstpost_date": 1360761036,
+                "title": "#jedi #cat #gato http://t.co/ZtGUsGLt",
+                "url": "http://twitter.com/amandarosars/status/301679768552738816",
+                "trackback_date": 1360761036,
+                "trackback_total": 22,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ZtGUsGLt",
+                        "display_url": "instagr.am/p/VrBy9eoMsq/",
+                        "expanded_url": "http://instagr.am/p/VrBy9eoMsq/",
+                        "topsy_expanded_url": "http://instagram.com/p/VrBy9eoMsq/"
+                    }
+                ],
+                "target_birth_date": 1360761036,
+                "content": "#jedi #cat #gato http://t.co/ZtGUsGLt",
+                "mytype": "tweet",
+                "score": 9.378695,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/449780724120305664/zjDZee8G_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Amandarosars/status/301679768552738816",
+                "trackback_author_url": "http://twitter.com/amandarosars",
+                "highlight": "#jedi #cat #gato",
+                "topsy_author_url": "http://topsy.com/twitter/amandarosars",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/amandarosars/status/301679768552738816",
+                "trackback_author_name": "Amanda Rosa",
+                "trackback_author_nick": "amandarosars"
+            },
+            {
+                "hits": 36,
+                "firstpost_date": 1350338436,
+                "title": "Who won? RT @barry_osborne Oscar the #Cat in a staring contest with #Yoda http://t.co/DynQuzfi",
+                "url": "http://twitter.com/starwars/status/257964217137778691",
+                "trackback_date": 1350338436,
+                "trackback_total": 41,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DynQuzfi",
+                        "display_url": "twitpic.com/b4atjl",
+                        "expanded_url": "http://twitpic.com/b4atjl",
+                        "topsy_expanded_url": "http://twitpic.com/b4atjl"
+                    }
+                ],
+                "target_birth_date": 1350338436,
+                "content": "Who won? RT @barry_osborne Oscar the #Cat in a staring contest with #Yoda http://t.co/DynQuzfi",
+                "mytype": "tweet",
+                "score": 9.37855,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464460229300600832/esZd6eQp_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/starwars/status/257964217137778691",
+                "trackback_author_url": "http://twitter.com/starwars",
+                "highlight": "Who won? RT @barry_osborne Oscar the #Cat in a staring contest with #Yoda",
+                "topsy_author_url": "http://topsy.com/twitter/starwars",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/starwars/status/257964217137778691",
+                "trackback_author_name": "Star Wars",
+                "trackback_author_nick": "starwars"
+            },
+            {
+                "hits": 24,
+                "firstpost_date": 1382214670,
+                "title": "Accidents do happen. Make sure you're ready with these #cat care emergency tips! http://t.co/cD9cWUgnIy",
+                "url": "http://twitter.com/aspca/status/391662832468918272",
+                "trackback_date": 1382214670,
+                "trackback_total": 29,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cD9cWUgnIy",
+                        "display_url": "ow.ly/pWYUu",
+                        "expanded_url": "http://ow.ly/pWYUu",
+                        "topsy_expanded_url": "http://www.aspca.org/pet-care/cat-care/emergency-care"
+                    }
+                ],
+                "target_birth_date": 1382214670,
+                "content": "Accidents do happen. Make sure you're ready with these #cat care emergency tips! http://t.co/cD9cWUgnIy",
+                "mytype": "tweet",
+                "score": 9.378432,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1479082848/speech-bubble-2color-180x180_normal.png",
+                "trackback_permalink": "http://twitter.com/ASPCA/status/391662832468918272",
+                "trackback_author_url": "http://twitter.com/aspca",
+                "highlight": "Accidents do happen. Make sure you're ready with these #cat care emergency tips!",
+                "topsy_author_url": "http://topsy.com/twitter/aspca",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/aspca/status/391662832468918272",
+                "trackback_author_name": "ASPCA",
+                "trackback_author_nick": "aspca"
+            },
+            {
+                "hits": 46,
+                "firstpost_date": 1387483188,
+                "title": "We cared for hundreds of animals after #Sandy. Finally, the last #cat has found her home! http://t.co/3xipNAqDUB http://t.co/O57Pb0Gwcb",
+                "url": "http://twitter.com/aspca/status/413760598833635329",
+                "trackback_date": 1387483188,
+                "trackback_total": 59,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3xipNAqDUB",
+                        "display_url": "bit.ly/1i4Lf9R",
+                        "expanded_url": "http://bit.ly/1i4Lf9R",
+                        "topsy_expanded_url": "http://www.aspca.org/blog/comfort-joy-storm-survivor-adopted-last?initialms=so_twi_blog-post-joy-20131219&ms=so_twi_blog-post-joy-20131219"
+                    },
+                    {
+                        "url": "http://t.co/O57Pb0Gwcb",
+                        "display_url": "pic.twitter.com/O57Pb0Gwcb",
+                        "expanded_url": "http://twitter.com/ASPCA/status/413760598833635329/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bb35EoJIMAAehLR.jpg"
+                    }
+                ],
+                "target_birth_date": 1387483188,
+                "content": "We cared for hundreds of animals after #Sandy. Finally, the last #cat has found her home! http://t.co/3xipNAqDUB http://t.co/O57Pb0Gwcb",
+                "mytype": "tweet",
+                "score": 9.378121,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1479082848/speech-bubble-2color-180x180_normal.png",
+                "trackback_permalink": "http://twitter.com/ASPCA/status/413760598833635329",
+                "trackback_author_url": "http://twitter.com/aspca",
+                "highlight": "We cared for hundreds of animals after #Sandy. Finally, the last #cat has found her home!",
+                "topsy_author_url": "http://topsy.com/twitter/aspca",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/aspca/status/413760598833635329",
+                "trackback_author_name": "ASPCA",
+                "trackback_author_nick": "aspca"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1391264522,
+                "title": "Kasimir, my #cat http://t.co/K63vG3GEgi",
+                "url": "http://twitter.com/trulla357/status/429620663113248768",
+                "trackback_date": 1392822560,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/K63vG3GEgi",
+                        "display_url": "pic.twitter.com/K63vG3GEgi",
+                        "expanded_url": "http://twitter.com/trulla357/status/429620663113248768/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BfZRt3hIMAAt2-7.jpg"
+                    }
+                ],
+                "target_birth_date": 1391264522,
+                "content": "RT @trulla357: Kasimir, my #cat http://t.co/K63vG3GEgi",
+                "mytype": "tweet",
+                "score": 9.377783,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461695477100969987/4Zm7FEfg_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Gamer__Guy/status/436155548640493568",
+                "trackback_author_url": "http://twitter.com/gamer__guy",
+                "highlight": "Kasimir, my #cat",
+                "topsy_author_url": "http://topsy.com/twitter/gamer__guy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/trulla357/status/429620663113248768",
+                "trackback_author_name": "\u265b Braden Port \u265b",
+                "trackback_author_nick": "gamer__guy"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1285969526,
+                "title": "Estilo \"country-fashion\" de @oficialaraguaia faz sucesso na #CAT. Visuais de Am\u00e9lia e Manuela s\u00e3o favoritos: http://goo.gl/OaHU",
+                "url": "http://twitter.com/rede_globo/status/26117760136",
+                "trackback_date": 1285969526,
+                "trackback_total": 18,
+                "url_expansions": [],
+                "target_birth_date": 1285969526,
+                "content": "Estilo \"country-fashion\" de @oficialaraguaia faz sucesso na #CAT. Visuais de Am\u00e9lia e Manuela s\u00e3o favoritos: http://goo.gl/OaHU",
+                "mytype": "tweet",
+                "score": 9.376905,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452975864670482432/1WDRp3jg_normal.png",
+                "trackback_permalink": "http://twitter.com/rede_globo/status/26117760136",
+                "trackback_author_url": "http://twitter.com/rede_globo",
+                "highlight": "Estilo \"country-fashion\" de @oficialaraguaia faz sucesso na #CAT. Visuais de Am\u00e9lia e Manuela s\u00e3o favoritos:",
+                "topsy_author_url": "http://topsy.com/twitter/rede_globo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rede_globo/status/26117760136",
+                "trackback_author_name": "Globo",
+                "trackback_author_nick": "rede_globo"
+            },
+            {
+                "hits": 34,
+                "firstpost_date": 1388511503,
+                "title": "No matter how big the cat, there's always a box that will fit. More or less. #cat http://t.co/GAI6EBDRG7",
+                "url": "http://twitter.com/thevintageyear/status/418073664064462848",
+                "trackback_date": 1388511503,
+                "trackback_total": 37,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/GAI6EBDRG7",
+                        "display_url": "pic.twitter.com/GAI6EBDRG7",
+                        "expanded_url": "http://twitter.com/TheVintageYear/status/418073664064462848/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bc1LyEzCIAAwnGt.jpg"
+                    }
+                ],
+                "target_birth_date": 1388511503,
+                "content": "No matter how big the cat, there's always a box that will fit. More or less. #cat http://t.co/GAI6EBDRG7",
+                "mytype": "tweet",
+                "score": 9.375814,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/443811320761032705/-dD0vJWJ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TheVintageYear/status/418073664064462848",
+                "trackback_author_url": "http://twitter.com/thevintageyear",
+                "highlight": "No matter how big the cat, there's always a box that will fit. More or less. #cat",
+                "topsy_author_url": "http://topsy.com/twitter/thevintageyear",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/thevintageyear/status/418073664064462848",
+                "trackback_author_name": "TheInvisibleWoman",
+                "trackback_author_nick": "thevintageyear"
+            },
+            {
+                "hits": 76,
+                "firstpost_date": 1340012751,
+                "title": "... let's help find SUZIE Q, a British Blue #cat find a forever home http://t.co/eXI4sU3h  also on http://t.co/EqaARRVg http://t.co/h43HdACe",
+                "url": "http://twitter.com/earthactivists/status/214655153389834242",
+                "trackback_date": 1340012751,
+                "trackback_total": 86,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/eXI4sU3h",
+                        "display_url": "phoenixasso.com/adoption.php3",
+                        "expanded_url": "http://www.phoenixasso.com/adoption.php3",
+                        "topsy_expanded_url": "http://www.phoenixasso.com/adoption.php3"
+                    },
+                    {
+                        "url": "http://t.co/EqaARRVg",
+                        "display_url": "bit.ly/Rehome1Pet",
+                        "expanded_url": "http://bit.ly/Rehome1Pet",
+                        "topsy_expanded_url": "http://eartheconomy.net/Rehome1Pet/"
+                    },
+                    {
+                        "url": "http://t.co/h43HdACe",
+                        "expanded_url": "http://twitter.com/EarthActivists/status/214655153389834242/photo/1",
+                        "display_url": "pic.twitter.com/h43HdACe"
+                    }
+                ],
+                "target_birth_date": 1340012751,
+                "content": "... let's help find SUZIE Q, a British Blue #cat find a forever home http://t.co/eXI4sU3h  also on http://t.co/EqaARRVg http://t.co/h43HdACe",
+                "mytype": "tweet",
+                "score": 9.373978,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2298039201/7v97jjc8v0tl0zq3cvx3_normal.png",
+                "trackback_permalink": "http://twitter.com/EarthActivists/status/214655153389834242",
+                "trackback_author_url": "http://twitter.com/earthactivists",
+                "highlight": "... let's help find SUZIE Q, a British Blue #cat find a forever home also on",
+                "topsy_author_url": "http://topsy.com/twitter/earthactivists",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/earthactivists/status/214655153389834242",
+                "trackback_author_name": "EAs for Earth(lings)",
+                "trackback_author_nick": "earthactivists"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1363537856,
+                "title": "So many #cat tees, so little time to bat them off of tables. http://t.co/eJs2B5Y4Dp",
+                "url": "http://twitter.com/threadless/status/313326596176089089",
+                "trackback_date": 1363537856,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/eJs2B5Y4Dp",
+                        "display_url": "ow.ly/iZq3j",
+                        "expanded_url": "http://ow.ly/iZq3j",
+                        "topsy_expanded_url": "http://www.threadless.com/shop-theme/cat-tees"
+                    }
+                ],
+                "target_birth_date": 1363537856,
+                "content": "So many #cat tees, so little time to bat them off of tables. http://t.co/eJs2B5Y4Dp",
+                "mytype": "tweet",
+                "score": 9.373899,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458974657014530048/6XkcBfoj_normal.png",
+                "trackback_permalink": "http://twitter.com/threadless/status/313326596176089089",
+                "trackback_author_url": "http://twitter.com/threadless",
+                "highlight": "So many #cat tees, so little time to bat them off of tables.",
+                "topsy_author_url": "http://topsy.com/twitter/threadless",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/threadless/status/313326596176089089",
+                "trackback_author_name": "Threadless",
+                "trackback_author_nick": "threadless"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1305492612,
+                "title": "#TOP5: Em 2\u00ba Lugar fica a #CAT da @_phelypa.. nossa, game\u00fd nela. #SIGAM.",
+                "url": "http://twitter.com/entreteen/status/69867196448378880",
+                "trackback_date": 1305492612,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1305492612,
+                "content": "#TOP5: Em 2\u00ba Lugar fica a #CAT da @_phelypa.. nossa, game\u00fd nela. #SIGAM.",
+                "mytype": "tweet",
+                "score": 9.372841,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000042330636/38d7821023c81d72ae6eb9a21a5d1d34_normal.png",
+                "trackback_permalink": "http://twitter.com/EntreTeen/status/69867196448378880",
+                "trackback_author_url": "http://twitter.com/entreteenportal",
+                "highlight": "#TOP5: Em 2\u00ba Lugar fica a #CAT da @_phelypa.. nossa, game\u00fd nela. #SIGAM.",
+                "topsy_author_url": "http://topsy.com/twitter/entreteenportal",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/entreteen/status/69867196448378880",
+                "trackback_author_name": "Entre Teen",
+                "trackback_author_nick": "entreteenportal"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 160,
+        "hidden": 0,
+        "total": 8656841,
+        "page": 1
+    }
+}

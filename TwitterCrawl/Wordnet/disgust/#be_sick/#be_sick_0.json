@@ -1,0 +1,86 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23be_sick&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#be_sick",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1348784894,
+                "title": "Mr. Bean on flight #airplane #be_sick",
+                "url": "http://twitter.com/johnxrisafis/status/251448189385854976",
+                "trackback_date": 1348784894,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1348784894,
+                "content": "Mr. Bean on flight #airplane #be_sick",
+                "mytype": "tweet",
+                "score": 5.077077,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1545273456/IMAG0350_normal.jpg",
+                "trackback_permalink": "http://twitter.com/johnxrisafis/status/251448189385854976",
+                "trackback_author_url": "http://twitter.com/johnxrisafis",
+                "highlight": "Mr. Bean on flight #airplane",
+                "topsy_author_url": "http://topsy.com/twitter/johnxrisafis",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/johnxrisafis/status/251448189385854976",
+                "trackback_author_name": "Iwannis Xrysafis",
+                "trackback_author_nick": "johnxrisafis"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1359562197,
+                "title": "#I_feel i will #Be_Sick \u263a",
+                "url": "http://twitter.com/general161/status/296651472983179266",
+                "trackback_date": 1359562197,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1359562197,
+                "content": "#I_feel i will #Be_Sick \u263a",
+                "mytype": "tweet",
+                "score": 5.0570273,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472695510403280897/npgku-o3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/general161/status/296651472983179266",
+                "trackback_author_url": "http://twitter.com/_kwochi",
+                "highlight": "#I_feel i will #Be_Sick \u263a",
+                "topsy_author_url": "http://topsy.com/twitter/_kwochi",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/general161/status/296651472983179266",
+                "trackback_author_name": "kwochi\u26a1\ufe0f",
+                "trackback_author_nick": "_kwochi"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1320281455,
+                "title": "I began to frail, my back is often sore, shortness of breath #be_sick",
+                "url": "http://twitter.com/melda2305/status/131896100973051904",
+                "trackback_date": 1320281455,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1320281455,
+                "content": "I began to frail, my back is often sore, shortness of breath #be_sick",
+                "mytype": "tweet",
+                "score": 4.979086,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471110968357826560/GjDWsYD6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Melda2305/status/131896100973051904",
+                "trackback_author_url": "http://twitter.com/meldameldamel",
+                "highlight": "I began to frail, my back is often sore, shortness of breath",
+                "topsy_author_url": "http://topsy.com/twitter/meldameldamel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/melda2305/status/131896100973051904",
+                "trackback_author_name": "meldanurindahsari",
+                "trackback_author_nick": "meldameldamel"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 3,
+        "page": 1
+    }
+}
