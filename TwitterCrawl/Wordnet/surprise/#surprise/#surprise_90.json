@@ -1,0 +1,288 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23surprise&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=90",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#surprise",
+            "window": "a",
+            "type": "tweet",
+            "offset": "90"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 12,
+                "firstpost_date": 1345586115,
+                "title": "I love changing others computer screens to pictures of me. #surprise http://t.co/I4aakAEO",
+                "url": "http://twitter.com/realmandyrain/status/238031538233688064",
+                "trackback_date": 1345586115,
+                "trackback_total": 15,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/I4aakAEO",
+                        "display_url": "instagr.am/p/Omx5ZpzDiP/",
+                        "expanded_url": "http://instagr.am/p/Omx5ZpzDiP/",
+                        "topsy_expanded_url": "http://instagram.com/p/Omx5ZpzDiP/"
+                    }
+                ],
+                "target_birth_date": 1345586115,
+                "content": "I love changing others computer screens to pictures of me. #surprise http://t.co/I4aakAEO",
+                "mytype": "tweet",
+                "score": 9.767045,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/423552088249884672/9ae9nY9t_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/realmandyrain/status/238031538233688064",
+                "trackback_author_url": "http://twitter.com/realmandyrain",
+                "highlight": "I love changing others computer screens to pictures of me. #surprise",
+                "topsy_author_url": "http://topsy.com/twitter/realmandyrain",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/realmandyrain/status/238031538233688064",
+                "trackback_author_name": "Mandy Rain",
+                "trackback_author_nick": "realmandyrain"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1392365221,
+                "title": "Alguien quedo impactado adem\u00e1s de mi ! #cookiebebe #surprise #valentinesday http://t.co/WHqWH0Qksj",
+                "url": "http://twitter.com/ninelconde/status/434237330426445824",
+                "trackback_date": 1392365221,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WHqWH0Qksj",
+                        "display_url": "instagram.com/p/kY6I9bu-iB/",
+                        "expanded_url": "http://instagram.com/p/kY6I9bu-iB/",
+                        "topsy_expanded_url": "http://instagram.com/p/kY6I9bu-iB/"
+                    }
+                ],
+                "target_birth_date": 1392365221,
+                "content": "Alguien quedo impactado adem\u00e1s de mi ! #cookiebebe #surprise #valentinesday http://t.co/WHqWH0Qksj",
+                "mytype": "tweet",
+                "score": 9.76703,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000649371443/50a9db91be60d1444c10b43552383b1e_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Ninelconde/status/434237330426445824",
+                "trackback_author_url": "http://twitter.com/ninelconde",
+                "highlight": "Alguien quedo impactado adem\u00e1s de mi ! #cookiebebe #surprise #valentinesday",
+                "topsy_author_url": "http://topsy.com/twitter/ninelconde",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ninelconde/status/434237330426445824",
+                "trackback_author_name": "Ninel Conde",
+                "trackback_author_nick": "ninelconde"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1346094004,
+                "title": "If you thought Australia was all beach and desert, we\u2019ve got a pleasant #surprise for you. http://t.co/yJ8LRMC7 http://t.co/Q5coV3C3",
+                "url": "http://twitter.com/bing/status/240161776191295488",
+                "trackback_date": 1346094004,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/yJ8LRMC7",
+                        "display_url": "binged.it/RdYSoC",
+                        "expanded_url": "http://binged.it/RdYSoC",
+                        "topsy_expanded_url": "http://binged.it/RdYSoC"
+                    },
+                    {
+                        "url": "http://t.co/Q5coV3C3",
+                        "expanded_url": "http://twitter.com/bing/status/240161776191295488/photo/1",
+                        "display_url": "pic.twitter.com/Q5coV3C3"
+                    }
+                ],
+                "target_birth_date": 1346094004,
+                "content": "If you thought Australia was all beach and desert, we\u2019ve got a pleasant #surprise for you. http://t.co/yJ8LRMC7 http://t.co/Q5coV3C3",
+                "mytype": "tweet",
+                "score": 9.765984,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461579421141323776/teKjOKEC_normal.png",
+                "trackback_permalink": "http://twitter.com/bing/status/240161776191295488",
+                "trackback_author_url": "http://twitter.com/bing",
+                "highlight": "If you thought Australia was all beach and desert, we\u2019ve got a pleasant #surprise for you.",
+                "topsy_author_url": "http://topsy.com/twitter/bing",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bing/status/240161776191295488",
+                "trackback_author_name": "Bing",
+                "trackback_author_nick": "bing"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1361572298,
+                "title": "A #surprise cartoon by Liam Francis Walsh: http://t.co/QvG4wncp0X",
+                "url": "http://twitter.com/newyorker/status/305082446343438336",
+                "trackback_date": 1361572298,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/QvG4wncp0X",
+                        "display_url": "nyr.kr/W8BayY",
+                        "expanded_url": "http://nyr.kr/W8BayY",
+                        "topsy_expanded_url": "http://www.newyorker.com/humor/issuecartoons/2013/02/25/cartoons_20130218"
+                    }
+                ],
+                "target_birth_date": 1361572298,
+                "content": "A #surprise cartoon by Liam Francis Walsh: http://t.co/QvG4wncp0X",
+                "mytype": "tweet",
+                "score": 9.76496,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/421413599441981441/GMZ5UIRl_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NewYorker/status/305082446343438336",
+                "trackback_author_url": "http://twitter.com/newyorker",
+                "highlight": "A #surprise cartoon by Liam Francis Walsh:",
+                "topsy_author_url": "http://topsy.com/twitter/newyorker",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/newyorker/status/305082446343438336",
+                "trackback_author_name": "The New Yorker",
+                "trackback_author_nick": "newyorker"
+            },
+            {
+                "hits": 89,
+                "firstpost_date": 1397510210,
+                "title": "@orianthi was heading to @radiodisney got an in studio performance &amp; interview... And we made it a duet #surprise http://t.co/Etn1oLsIfr",
+                "url": "http://twitter.com/therealsambora/status/455816974724239361",
+                "trackback_date": 1397510210,
+                "trackback_total": 123,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Etn1oLsIfr",
+                        "display_url": "pic.twitter.com/Etn1oLsIfr",
+                        "expanded_url": "http://twitter.com/TheRealSambora/status/455816974724239361/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BlNjH5MIgAAOKX9.jpg"
+                    }
+                ],
+                "target_birth_date": 1397510210,
+                "content": "@orianthi was heading to @radiodisney got an in studio performance &amp; interview... And we made it a duet #surprise http://t.co/Etn1oLsIfr",
+                "mytype": "tweet",
+                "score": 9.748684,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/436923675845992448/CLvdZZjd_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TheRealSambora/status/455816974724239361",
+                "trackback_author_url": "http://twitter.com/therealsambora",
+                "highlight": " was heading to @radiodisney got an in studio performance &amp; interview... And we made it a duet #surprise",
+                "topsy_author_url": "http://topsy.com/twitter/therealsambora",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/therealsambora/status/455816974724239361",
+                "trackback_author_name": "RICHIE SAMBORA",
+                "trackback_author_nick": "therealsambora"
+            },
+            {
+                "hits": 232,
+                "firstpost_date": 1368610074,
+                "title": "#Surprise",
+                "url": "http://twitter.com/laceexo/status/334601022423064576",
+                "trackback_date": 1368610074,
+                "trackback_total": 425,
+                "url_expansions": [],
+                "target_birth_date": 1368610074,
+                "content": "#Surprise",
+                "mytype": "tweet",
+                "score": 9.733781,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/455941584559693824/SJrSnFjg_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/laceexo/status/334601022423064576",
+                "trackback_author_url": "http://twitter.com/laceexo",
+                "highlight": "#Surprise",
+                "topsy_author_url": "http://topsy.com/twitter/laceexo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/laceexo/status/334601022423064576",
+                "trackback_author_name": " LACEE FRANKS",
+                "trackback_author_nick": "laceexo"
+            },
+            {
+                "hits": 21,
+                "firstpost_date": 1360924593,
+                "title": "#SURPRISE http://t.co/T3qVPF2M",
+                "url": "http://twitter.com/vannessvanwu/status/302365774658551808",
+                "trackback_date": 1360924593,
+                "trackback_total": 47,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/T3qVPF2M",
+                        "display_url": "instagr.am/p/Vv54SZiXpv/",
+                        "expanded_url": "http://instagr.am/p/Vv54SZiXpv/",
+                        "topsy_expanded_url": "http://instagram.com/p/Vv54SZiXpv/"
+                    }
+                ],
+                "target_birth_date": 1360924593,
+                "content": "#SURPRISE http://t.co/T3qVPF2M",
+                "mytype": "tweet",
+                "score": 9.732368,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1097552839/gmai_normal.jpg",
+                "trackback_permalink": "http://twitter.com/VanNessVanWu/status/302365774658551808",
+                "trackback_author_url": "http://twitter.com/vannessvanwu",
+                "highlight": "#SURPRISE",
+                "topsy_author_url": "http://topsy.com/twitter/vannessvanwu",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/vannessvanwu/status/302365774658551808",
+                "trackback_author_name": "Van Ness Wu",
+                "trackback_author_nick": "vannessvanwu"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1318620510,
+                "title": "#Surprise!! Just got to introduce the the #CatWoman #BatmanYearOne short at #NYCC !! #rad who's in the house??! #meow",
+                "url": "http://twitter.com/elizadushku/status/124929592124375041",
+                "trackback_date": 1318620510,
+                "trackback_total": 27,
+                "url_expansions": [],
+                "target_birth_date": 1318620510,
+                "content": "#Surprise!! Just got to introduce the the #CatWoman #BatmanYearOne short at #NYCC !! #rad who's in the house??! #meow",
+                "mytype": "tweet",
+                "score": 9.71985,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/418220937360994304/Qc01OPse_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/elizadushku/status/124929592124375041",
+                "trackback_author_url": "http://twitter.com/elizadushku",
+                "highlight": "#Surprise!! Just got to introduce the the #CatWoman #BatmanYearOne short at #NYCC !! #rad who's in the house??!",
+                "topsy_author_url": "http://topsy.com/twitter/elizadushku",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/elizadushku/status/124929592124375041",
+                "trackback_author_name": "Eliza Dushku",
+                "trackback_author_nick": "elizadushku"
+            },
+            {
+                "hits": 21,
+                "firstpost_date": 1367028425,
+                "title": "Redskins have drafted TE Jordan Reed from Florida. Jordan said the @Redskins never contacted him about being drafted. #Surprise",
+                "url": "http://twitter.com/dmvfollowers/status/327967103355330560",
+                "trackback_date": 1367028425,
+                "trackback_total": 26,
+                "url_expansions": [],
+                "target_birth_date": 1367028425,
+                "content": "Redskins have drafted TE Jordan Reed from Florida. Jordan said the @Redskins never contacted him about being drafted. #Surprise",
+                "mytype": "tweet",
+                "score": 9.718681,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/430752729221173248/93yDBfCC_normal.png",
+                "trackback_permalink": "http://twitter.com/DMVFollowers/status/327967103355330560",
+                "trackback_author_url": "http://twitter.com/dmvfollowers",
+                "highlight": "Redskins have drafted TE Jordan Reed from Florida. Jordan said the @Redskins never contacted him about being drafted.",
+                "topsy_author_url": "http://topsy.com/twitter/dmvfollowers",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dmvfollowers/status/327967103355330560",
+                "trackback_author_name": "DC Maryland Virginia",
+                "trackback_author_nick": "dmvfollowers"
+            },
+            {
+                "hits": 33,
+                "firstpost_date": 1376658413,
+                "title": "#surprise @klgandhoda !!! @todayshow http://t.co/CfFXBxE43C",
+                "url": "http://twitter.com/hodakotb/status/368358200363327488",
+                "trackback_date": 1376658413,
+                "trackback_total": 56,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/CfFXBxE43C",
+                        "display_url": "pic.twitter.com/CfFXBxE43C",
+                        "expanded_url": "http://twitter.com/hodakotb/status/368358200363327488/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BRyr1OMCIAEqNlL.jpg"
+                    }
+                ],
+                "target_birth_date": 1376658413,
+                "content": "#surprise @klgandhoda !!! @todayshow http://t.co/CfFXBxE43C",
+                "mytype": "tweet",
+                "score": 9.712091,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2988051778/22b2554e65676e2e80d0109c39936f2d_normal.png",
+                "trackback_permalink": "http://twitter.com/hodakotb/status/368358200363327488",
+                "trackback_author_url": "http://twitter.com/hodakotb",
+                "highlight": "#surprise @klgandhoda !!! @todayshow",
+                "topsy_author_url": "http://topsy.com/twitter/hodakotb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hodakotb/status/368358200363327488",
+                "trackback_author_name": "Hoda Kotb",
+                "trackback_author_nick": "hodakotb"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 90,
+        "hidden": 0,
+        "total": 1086542,
+        "page": 1
+    }
+}

@@ -1,0 +1,283 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23ramp&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=710",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#ramp",
+            "window": "a",
+            "type": "tweet",
+            "offset": "710"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1334058882,
+                "title": "I'm just RT-ing #ramp stories today.",
+                "url": "http://twitter.com/heather_atwood/status/189682819042250753",
+                "trackback_date": 1334058882,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1334058882,
+                "content": "I'm just RT-ing #ramp stories today.",
+                "mytype": "tweet",
+                "score": 7.985914,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3304379810/1192d02f056a6be3e2331a53367786e9_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/heather_atwood/status/189682819042250753",
+                "trackback_author_url": "http://twitter.com/heather_atwood",
+                "highlight": "I'm just RT-ing #ramp stories today.",
+                "topsy_author_url": "http://topsy.com/twitter/heather_atwood",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/heather_atwood/status/189682819042250753",
+                "trackback_author_name": "heather atwood",
+                "trackback_author_nick": "heather_atwood"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1367427799,
+                "title": "Potato salad #spring style! Roasted potatoes + #ramp pesto #lunchlove #nom http://t.co/Y6fmUOo1jG",
+                "url": "http://twitter.com/justfood/status/329642197546827779",
+                "trackback_date": 1367427799,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Y6fmUOo1jG",
+                        "display_url": "instagram.com/p/YxtWNNCWjW/",
+                        "expanded_url": "http://instagram.com/p/YxtWNNCWjW/",
+                        "topsy_expanded_url": "http://instagram.com/p/YxtWNNCWjW/"
+                    }
+                ],
+                "target_birth_date": 1367427799,
+                "content": "Potato salad #spring style! Roasted potatoes + #ramp pesto #lunchlove #nom http://t.co/Y6fmUOo1jG",
+                "mytype": "tweet",
+                "score": 7.9857683,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3608026243/2f4d1965565cee3ba746cc3625600d38_normal.png",
+                "trackback_permalink": "http://twitter.com/justfood/status/329642197546827779",
+                "trackback_author_url": "http://twitter.com/justfood",
+                "highlight": "Potato salad #spring style! Roasted potatoes + #ramp pesto #lunchlove #nom",
+                "topsy_author_url": "http://topsy.com/twitter/justfood",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/justfood/status/329642197546827779",
+                "trackback_author_name": "Just Food",
+                "trackback_author_nick": "justfood"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1399202610,
+                "title": "#ramp omelette for breakfast. Fuel for our bike ride. #sunday is the best day! http://t.co/CV9U9PV3Hw",
+                "url": "http://twitter.com/annbartlett/status/462915415484936192",
+                "trackback_date": 1399202610,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/CV9U9PV3Hw",
+                        "display_url": "instagram.com/p/nkrbG2RPfe/",
+                        "expanded_url": "http://instagram.com/p/nkrbG2RPfe/",
+                        "topsy_expanded_url": "http://instagram.com/p/nkrbG2RPfe/"
+                    }
+                ],
+                "target_birth_date": 1399202610,
+                "content": "#ramp omelette for breakfast. Fuel for our bike ride. #sunday is the best day! http://t.co/CV9U9PV3Hw",
+                "mytype": "tweet",
+                "score": 7.9856296,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000533902296/7281f2bd1d83df1fa0049d5cb5193ae6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AnnBartlett/status/462915415484936192",
+                "trackback_author_url": "http://twitter.com/annbartlett",
+                "highlight": "#ramp omelette for breakfast. Fuel for our bike ride. #sunday is the best day!",
+                "topsy_author_url": "http://topsy.com/twitter/annbartlett",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/annbartlett/status/462915415484936192",
+                "trackback_author_name": "Ann Bartlett",
+                "trackback_author_nick": "annbartlett"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1376844520,
+                "title": "Rampage Single Mini Ramp http://t.co/xiFLdUTyRv #Mini #Ramp #rampage",
+                "url": "http://twitter.com/sportblogsuk/status/369138788544434176",
+                "trackback_date": 1376844520,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/xiFLdUTyRv",
+                        "display_url": "sportblogs.co.uk/l/146613",
+                        "expanded_url": "http://sportblogs.co.uk/l/146613",
+                        "topsy_expanded_url": "http://www.sportblogs.co.uk/2013/08/rampage-single-mini-ramp/"
+                    }
+                ],
+                "target_birth_date": 1376844520,
+                "content": "Rampage Single Mini Ramp http://t.co/xiFLdUTyRv #Mini #Ramp #rampage",
+                "mytype": "tweet",
+                "score": 7.9855623,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1991262246/twitter_normal.jpg",
+                "trackback_permalink": "http://twitter.com/sportBlogsUK/status/369138788544434176",
+                "trackback_author_url": "http://twitter.com/sportblogsuk",
+                "highlight": "Rampage Single Mini Ramp #Mini #Ramp",
+                "topsy_author_url": "http://topsy.com/twitter/sportblogsuk",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sportblogsuk/status/369138788544434176",
+                "trackback_author_name": "sportBlogs",
+                "trackback_author_nick": "sportblogsuk"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1305562477,
+                "title": "morgen 2 uur van dongen #ramp!",
+                "url": "http://twitter.com/elinemarije/status/70160231027576832",
+                "trackback_date": 1305562477,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1305562477,
+                "content": "morgen 2 uur van dongen #ramp!",
+                "mytype": "tweet",
+                "score": 7.9855266,
+                "topsy_author_img": "http://a1.twimg.com/profile_images/1529945155/1395234874_5_hR2E_normal.jpg",
+                "trackback_permalink": "http://twitter.com/elinemarije/status/70160231027576832",
+                "trackback_author_url": "http://twitter.com/elinemarije",
+                "highlight": "morgen 2 uur van dongen #ramp!",
+                "topsy_author_url": "http://topsy.com/twitter/elinemarije",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/elinemarije/status/70160231027576832",
+                "trackback_author_name": "eline",
+                "trackback_author_nick": "elinemarije"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1334341609,
+                "title": "#jump #ramp #skateboarding #fun #skatepark  http://t.co/9iVGVmfh",
+                "url": "http://twitter.com/tomerikryen/status/190868659240042497",
+                "trackback_date": 1334341609,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9iVGVmfh",
+                        "display_url": "instagr.am/p/JXqwr5hPM4/",
+                        "expanded_url": "http://instagr.am/p/JXqwr5hPM4/",
+                        "topsy_expanded_url": "http://instagr.am/p/JXqwr5hPM4/"
+                    }
+                ],
+                "target_birth_date": 1334341609,
+                "content": "#jump #ramp #skateboarding #fun #skatepark  http://t.co/9iVGVmfh",
+                "mytype": "tweet",
+                "score": 7.9854193,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2386307123/g6glbnvfah8g12mu921i_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TomErikRyen/status/190868659240042497",
+                "trackback_author_url": "http://twitter.com/tomerikryen",
+                "highlight": "#jump #ramp #skateboarding #fun #skatepark",
+                "topsy_author_url": "http://topsy.com/twitter/tomerikryen",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tomerikryen/status/190868659240042497",
+                "trackback_author_name": "TomErikRyen ",
+                "trackback_author_nick": "tomerikryen"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1317670008,
+                "title": "I uploaded a @YouTube video http://t.co/Bl8VOYzh @WWE BEWARE OF THE THUMB @ #hellinacell #WWE #ramp",
+                "url": "http://twitter.com/bigramp/status/120942899142725632",
+                "trackback_date": 1317670008,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Bl8VOYzh",
+                        "display_url": "youtu.be/D3SjcCmcCY4?a",
+                        "expanded_url": "http://youtu.be/D3SjcCmcCY4?a",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=D3SjcCmcCY4"
+                    }
+                ],
+                "target_birth_date": 1317670008,
+                "content": "I uploaded a @YouTube video http://t.co/Bl8VOYzh @WWE BEWARE OF THE THUMB @ #hellinacell #WWE #ramp",
+                "mytype": "tweet",
+                "score": 7.985405,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000650999535/8794fdca4e9a337628948472e0fe5d89_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BIGRAMP/status/120942899142725632",
+                "trackback_author_url": "http://twitter.com/bigramp",
+                "highlight": "I uploaded a @YouTube video @WWE BEWARE OF THE THUMB @ #hellinacell #WWE",
+                "topsy_author_url": "http://topsy.com/twitter/bigramp",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bigramp/status/120942899142725632",
+                "trackback_author_name": "Kenneth Bigramp Wade",
+                "trackback_author_nick": "bigramp"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1395436736,
+                "title": "Welcome all new fans to my page\nluv yall!!\ncheck out my hot new single #Ramp #Ruff... http://t.co/B0162dTPhv",
+                "url": "http://twitter.com/dangel_music/status/447120197322031105",
+                "trackback_date": 1395436736,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/B0162dTPhv",
+                        "display_url": "fb.me/1rBDTZCXf",
+                        "expanded_url": "http://fb.me/1rBDTZCXf",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=ATmPA-qX2cE"
+                    }
+                ],
+                "target_birth_date": 1395436736,
+                "content": "Welcome all new fans to my page\nluv yall!!\ncheck out my hot new single #Ramp #Ruff... http://t.co/B0162dTPhv",
+                "mytype": "tweet",
+                "score": 7.9850926,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000850485428/ab0c821acd41020d9abd23b2c184cc3c_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/dangel_music/status/447120197322031105",
+                "trackback_author_url": "http://twitter.com/dangel_music",
+                "highlight": "Welcome all new fans to my page luv yall!! check out my hot new single #Ramp #Ruff",
+                "topsy_author_url": "http://topsy.com/twitter/dangel_music",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dangel_music/status/447120197322031105",
+                "trackback_author_name": "IG: Dangel_Music",
+                "trackback_author_nick": "dangel_music"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1312876365,
+                "title": "OMG HERMAN IS HERE #RAMP TRAMP",
+                "url": "http://twitter.com/palomuh/status/100836900536987648",
+                "trackback_date": 1312876365,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1312876365,
+                "content": "OMG HERMAN IS HERE #RAMP TRAMP",
+                "mytype": "tweet",
+                "score": 7.9844866,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000322443700/2a202bc4cee906ae2eab3fecf7f0319c_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/palomuh/status/100836900536987648",
+                "trackback_author_url": "http://twitter.com/palomuh",
+                "highlight": "OMG HERMAN IS HERE #RAMP TRAMP",
+                "topsy_author_url": "http://topsy.com/twitter/palomuh",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/palomuh/status/100836900536987648",
+                "trackback_author_name": "Champagne Mami",
+                "trackback_author_nick": "palomuh"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1338389972,
+                "title": "Entrevista #Ramp - #RockinRio Lisboa 2012 - dia 25 de Maio: http://t.co/CnHl0Csh v\u00eda @youtube",
+                "url": "http://twitter.com/michelenlared/status/207848726516080640",
+                "trackback_date": 1338389972,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/CnHl0Csh",
+                        "display_url": "youtu.be/x2m-h3s4-a0",
+                        "expanded_url": "http://youtu.be/x2m-h3s4-a0",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=x2m-h3s4-a0"
+                    }
+                ],
+                "target_birth_date": 1338389972,
+                "content": "Entrevista #Ramp - #RockinRio Lisboa 2012 - dia 25 de Maio: http://t.co/CnHl0Csh v\u00eda @youtube",
+                "mytype": "tweet",
+                "score": 7.984146,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/418685635973480448/Fzslkdmp_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MichelEnLaRed/status/207848726516080640",
+                "trackback_author_url": "http://twitter.com/michelenlared",
+                "highlight": "Entrevista #Ramp - #RockinRio Lisboa 2012 - dia 25 de Maio: v\u00eda @youtube",
+                "topsy_author_url": "http://topsy.com/twitter/michelenlared",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/michelenlared/status/207848726516080640",
+                "trackback_author_name": "Michel",
+                "trackback_author_nick": "michelenlared"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 710,
+        "hidden": 0,
+        "total": 47453,
+        "page": 1
+    }
+}

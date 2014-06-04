@@ -1,0 +1,275 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23tempest&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=20",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#tempest",
+            "window": "a",
+            "type": "tweet",
+            "offset": "20"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 48,
+                "firstpost_date": 1400167189,
+                "title": "#Tempest fans take note. Here's a trailer. Don't forget to clear your diary from 28 May when it hits UK cinemas http://t.co/L6pEcDvSr7",
+                "url": "http://twitter.com/the_globe/status/466961153076117504",
+                "trackback_date": 1400167189,
+                "trackback_total": 56,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/L6pEcDvSr7",
+                        "display_url": "bit.ly/1qFO8Tz",
+                        "expanded_url": "http://bit.ly/1qFO8Tz",
+                        "topsy_expanded_url": "http://www.whatsonstage.com/bath-theatre/news/05-2014/first-look-roger-allam-and-colin-morgan-in-globes-_34440.html?cid=homepage_news"
+                    }
+                ],
+                "target_birth_date": 1400167189,
+                "content": "#Tempest fans take note. Here's a trailer. Don't forget to clear your diary from 28 May when it hits UK cinemas http://t.co/L6pEcDvSr7",
+                "mytype": "tweet",
+                "score": 9.269512,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419153613785542656/Vlfe9s_M_normal.png",
+                "trackback_permalink": "http://twitter.com/The_Globe/status/466961153076117504",
+                "trackback_author_url": "http://twitter.com/the_globe",
+                "highlight": "#Tempest fans take note. Here's a trailer. Don't forget to clear your diary from 28 May when it hits UK cinemas",
+                "topsy_author_url": "http://topsy.com/twitter/the_globe",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/the_globe/status/466961153076117504",
+                "trackback_author_name": "Shakespeare's Globe",
+                "trackback_author_nick": "the_globe"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1347004136,
+                "title": "#Tempest: Bob Dylans allerbeste plaat, vindt @gijsbertkamer http://t.co/dPPcAtdx",
+                "url": "http://twitter.com/volkskrant/status/243979149981667328",
+                "trackback_date": 1347004136,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/dPPcAtdx",
+                        "display_url": "bit.ly/OZW9LE",
+                        "expanded_url": "http://bit.ly/OZW9LE",
+                        "topsy_expanded_url": "http://bit.ly/OZW9LE"
+                    }
+                ],
+                "target_birth_date": 1347004136,
+                "content": "#Tempest: Bob Dylans allerbeste plaat, vindt @gijsbertkamer http://t.co/dPPcAtdx",
+                "mytype": "tweet",
+                "score": 9.263123,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2732464361/d1de681876bd1581ab6d357e677f7e36_normal.png",
+                "trackback_permalink": "http://twitter.com/volkskrant/status/243979149981667328",
+                "trackback_author_url": "http://twitter.com/volkskrant",
+                "highlight": "#Tempest: Bob Dylans allerbeste plaat, vindt @gijsbertkamer",
+                "topsy_author_url": "http://topsy.com/twitter/volkskrant",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/volkskrant/status/243979149981667328",
+                "trackback_author_name": "De Volkskrant",
+                "trackback_author_nick": "volkskrant"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1346079368,
+                "title": "Check out @bobdylan's new track #DuquesneWhistle off his upcoming album #Tempest on @nprmusic! Listen: http://t.co/SWQQHn0i",
+                "url": "http://twitter.com/sonymusicglobal/status/240100391742738433",
+                "trackback_date": 1346079368,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/SWQQHn0i",
+                        "expanded_url": "http://n.pr/Qn1FN6",
+                        "display_url": "n.pr/Qn1FN6"
+                    }
+                ],
+                "target_birth_date": 1346079368,
+                "content": "Check out @bobdylan's new track #DuquesneWhistle off his upcoming album #Tempest on @nprmusic! Listen: http://t.co/SWQQHn0i",
+                "mytype": "tweet",
+                "score": 9.256433,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1843530267/SonyMusicM_reasonably_small_normal.jpg",
+                "trackback_permalink": "http://twitter.com/SonyMusicGlobal/status/240100391742738433",
+                "trackback_author_url": "http://twitter.com/sonymusicglobal",
+                "highlight": "Check out @bobdylan's new track #DuquesneWhistle off his upcoming album #Tempest on @nprmusic! Listen:",
+                "topsy_author_url": "http://topsy.com/twitter/sonymusicglobal",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sonymusicglobal/status/240100391742738433",
+                "trackback_author_name": "Sony Music Global",
+                "trackback_author_nick": "sonymusicglobal"
+            },
+            {
+                "hits": 25,
+                "firstpost_date": 1325760870,
+                "title": "Follow and RT this tweet for a chance to win #Tempest by @Juliecross1980 Open Intl.",
+                "url": "http://twitter.com/wefancybooks/status/154878432583483393",
+                "trackback_date": 1325760870,
+                "trackback_total": 27,
+                "url_expansions": [],
+                "target_birth_date": 1325760870,
+                "content": "Follow and RT this tweet for a chance to win #Tempest by @Juliecross1980 Open Intl.",
+                "mytype": "tweet",
+                "score": 9.242359,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2421361089/ugag237elfd21cz07i68_normal.png",
+                "trackback_permalink": "http://twitter.com/WeFancyBooks/status/154878432583483393",
+                "trackback_author_url": "http://twitter.com/wefancybooks",
+                "highlight": "Follow and RT this tweet for a chance to win #Tempest by @Juliecross1980 Open Intl.",
+                "topsy_author_url": "http://topsy.com/twitter/wefancybooks",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wefancybooks/status/154878432583483393",
+                "trackback_author_name": "We Fancy Books Blog",
+                "trackback_author_nick": "wefancybooks"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1366927332,
+                "title": "Another lovely performance from The #Tempest! Let us know what you thought.",
+                "url": "http://twitter.com/the_globe/status/327543089558347777",
+                "trackback_date": 1366927332,
+                "trackback_total": 22,
+                "url_expansions": [],
+                "target_birth_date": 1366927332,
+                "content": "Another lovely performance from The #Tempest! Let us know what you thought.",
+                "mytype": "tweet",
+                "score": 9.242038,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419153613785542656/Vlfe9s_M_normal.png",
+                "trackback_permalink": "http://twitter.com/The_Globe/status/327543089558347777",
+                "trackback_author_url": "http://twitter.com/the_globe",
+                "highlight": "Another lovely performance from The #Tempest! Let us know what you thought.",
+                "topsy_author_url": "http://topsy.com/twitter/the_globe",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/the_globe/status/327543089558347777",
+                "trackback_author_name": "Shakespeare's Globe",
+                "trackback_author_nick": "the_globe"
+            },
+            {
+                "hits": 49,
+                "firstpost_date": 1381500314,
+                "title": "#ColinMorgan #Tempest fans You could own Colin's Ariel costume. Find out how here http://t.co/3OBxjrku1d",
+                "url": "http://twitter.com/the_globe/status/388666605707599872",
+                "trackback_date": 1381500314,
+                "trackback_total": 69,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3OBxjrku1d",
+                        "display_url": "bit.ly/18UPQVz",
+                        "expanded_url": "http://bit.ly/18UPQVz",
+                        "topsy_expanded_url": "http://blog.shakespearesglobe.com/gala-auction-colin-morgans-ariel-costume-from-the-tempest-2013/"
+                    }
+                ],
+                "target_birth_date": 1381500314,
+                "content": "#ColinMorgan #Tempest fans You could own Colin's Ariel costume. Find out how here http://t.co/3OBxjrku1d",
+                "mytype": "tweet",
+                "score": 9.23943,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419153613785542656/Vlfe9s_M_normal.png",
+                "trackback_permalink": "http://twitter.com/The_Globe/status/388666605707599872",
+                "trackback_author_url": "http://twitter.com/the_globe",
+                "highlight": "#ColinMorgan #Tempest fans You could own Colin's Ariel costume. Find out how here",
+                "topsy_author_url": "http://topsy.com/twitter/the_globe",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/the_globe/status/388666605707599872",
+                "trackback_author_name": "Shakespeare's Globe",
+                "trackback_author_nick": "the_globe"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1351105824,
+                "title": "\uff32\uff25\uff34\uff37\uff25\uff25\uff34 \uff29\uff26 \uff39\uff2f\uff35 \uff26\uff2f\uff2c\uff2c\uff2f\uff37 \uff22\uff21\uff23\uff2b #TeamFollowBack \u2714#BillionDollarArt #Sale\u27bdhttp://t.co/CkimvqmA #USA #NYC #BobDylan #Tempest",
+                "url": "http://twitter.com/zupfollowback/status/261182876027088897",
+                "trackback_date": 1351105824,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/CkimvqmA",
+                        "display_url": "pharopromo.com/art---david-de\u2026",
+                        "expanded_url": "http://www.pharopromo.com/art---david-de-villiers.html",
+                        "topsy_expanded_url": "http://www.pharopromo.com/art---david-de-villiers.html"
+                    }
+                ],
+                "target_birth_date": 1351105824,
+                "content": "\uff32\uff25\uff34\uff37\uff25\uff25\uff34 \uff29\uff26 \uff39\uff2f\uff35 \uff26\uff2f\uff2c\uff2c\uff2f\uff37 \uff22\uff21\uff23\uff2b #TeamFollowBack \u2714#BillionDollarArt #Sale\u27bdhttp://t.co/CkimvqmA #USA #NYC #BobDylan #Tempest",
+                "mytype": "tweet",
+                "score": 9.220386,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000416489376/24c8478ebed16955b2aa7d9fd9bfb8e2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ZupFollowBack/status/261182876027088897",
+                "trackback_author_url": "http://twitter.com/zupfollowback",
+                "highlight": "\uff32\uff25\uff34\uff37\uff25\uff25\uff34 \uff29\uff26 \uff39\uff2f\uff35 \uff26\uff2f\uff2c\uff2c\uff2f\uff37 \uff22\uff21\uff23\uff2b #TeamFollowBack \u2714#BillionDollarArt #Sale\u27bd #USA #NYC #BobDylan",
+                "topsy_author_url": "http://topsy.com/twitter/zupfollowback",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/zupfollowback/status/261182876027088897",
+                "trackback_author_name": "SocialMediaNews",
+                "trackback_author_nick": "zupfollowback"
+            },
+            {
+                "hits": 102,
+                "firstpost_date": 1363349826,
+                "title": "Confirmed- We will be filming #Tempest, #Midsummer and #Macbeth for cinema and DVD release in 2014.",
+                "url": "http://twitter.com/the_globe/status/312537941668933632",
+                "trackback_date": 1363349826,
+                "trackback_total": 147,
+                "url_expansions": [],
+                "target_birth_date": 1363349826,
+                "content": "Confirmed- We will be filming #Tempest, #Midsummer and #Macbeth for cinema and DVD release in 2014.",
+                "mytype": "tweet",
+                "score": 9.208504,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419153613785542656/Vlfe9s_M_normal.png",
+                "trackback_permalink": "http://twitter.com/The_Globe/status/312537941668933632",
+                "trackback_author_url": "http://twitter.com/the_globe",
+                "highlight": "Confirmed- We will be filming #Tempest, #Midsummer and #Macbeth for cinema and DVD release in 2014.",
+                "topsy_author_url": "http://topsy.com/twitter/the_globe",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/the_globe/status/312537941668933632",
+                "trackback_author_name": "Shakespeare's Globe",
+                "trackback_author_nick": "the_globe"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1366819691,
+                "title": "Coming up, photos from The #Tempest. If you coming to see it and want it to remain a complete surprise don't look.",
+                "url": "http://twitter.com/the_globe/status/327091611496488962",
+                "trackback_date": 1366819691,
+                "trackback_total": 21,
+                "url_expansions": [],
+                "target_birth_date": 1366819691,
+                "content": "Coming up, photos from The #Tempest. If you coming to see it and want it to remain a complete surprise don't look.",
+                "mytype": "tweet",
+                "score": 9.1946335,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419153613785542656/Vlfe9s_M_normal.png",
+                "trackback_permalink": "http://twitter.com/The_Globe/status/327091611496488962",
+                "trackback_author_url": "http://twitter.com/the_globe",
+                "highlight": "Coming up, photos from The #Tempest. If you coming to see it and want it to remain a complete surprise don't look.",
+                "topsy_author_url": "http://topsy.com/twitter/the_globe",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/the_globe/status/327091611496488962",
+                "trackback_author_name": "Shakespeare's Globe",
+                "trackback_author_nick": "the_globe"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1376909466,
+                "title": "It may be over but you can relive your memories of #Tempest with these pictures http://t.co/s2LjnooN5v",
+                "url": "http://twitter.com/the_globe/status/369411194269888513",
+                "trackback_date": 1376909466,
+                "trackback_total": 15,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/s2LjnooN5v",
+                        "display_url": "on.fb.me/15UEAqN",
+                        "expanded_url": "http://on.fb.me/15UEAqN",
+                        "topsy_expanded_url": "http://on.fb.me/15UEAqN"
+                    }
+                ],
+                "target_birth_date": 1376909466,
+                "content": "It may be over but you can relive your memories of #Tempest with these pictures http://t.co/s2LjnooN5v",
+                "mytype": "tweet",
+                "score": 9.190416,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419153613785542656/Vlfe9s_M_normal.png",
+                "trackback_permalink": "http://twitter.com/The_Globe/status/369411194269888513",
+                "trackback_author_url": "http://twitter.com/the_globe",
+                "highlight": "It may be over but you can relive your memories of #Tempest with these pictures",
+                "topsy_author_url": "http://topsy.com/twitter/the_globe",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/the_globe/status/369411194269888513",
+                "trackback_author_name": "Shakespeare's Globe",
+                "trackback_author_nick": "the_globe"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 20,
+        "hidden": 0,
+        "total": 44848,
+        "page": 1
+    }
+}

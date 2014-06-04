@@ -1,0 +1,281 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23force&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=140",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#force",
+            "window": "a",
+            "type": "tweet",
+            "offset": "140"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 11,
+                "firstpost_date": 1350386751,
+                "title": "Je serai bien allez au concert de @rimkofficiel a la cigale mais je suis a lautre bout de la terre #force",
+                "url": "http://twitter.com/sethgueko/status/258166865438838784",
+                "trackback_date": 1350386751,
+                "trackback_total": 17,
+                "url_expansions": [],
+                "target_birth_date": 1350386751,
+                "content": "Je serai bien allez au concert de @rimkofficiel a la cigale mais je suis a lautre bout de la terre #force",
+                "mytype": "tweet",
+                "score": 8.938706,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/470858204105043969/PECxtQST_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/sethgueko/status/258166865438838784",
+                "trackback_author_url": "http://twitter.com/sethgueko",
+                "highlight": "Je serai bien allez au concert de @rimkofficiel a la cigale mais je suis a lautre bout de la terre",
+                "topsy_author_url": "http://topsy.com/twitter/sethgueko",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sethgueko/status/258166865438838784",
+                "trackback_author_name": "Seth Gueko",
+                "trackback_author_nick": "sethgueko"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1374056650,
+                "title": "\u0421 \u0434\u043d\u0435\u043c \u043c\u043e\u0440\u0441\u043a\u043e\u0439 \u0430\u0432\u0438\u0430\u0446\u0438\u0438! #rostec #aviation #sea #ocean #sukhoi #su #\u0432\u043c\u0444\u0420\u043e\u0441\u0441\u0438\u0438 #\u0432\u043c\u0444 #power #force #new\u2026 http://t.co/gHhAeSlq6P",
+                "url": "http://twitter.com/rostecrussia/status/357445615745114113",
+                "trackback_date": 1374056650,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/gHhAeSlq6P",
+                        "display_url": "instagram.com/p/b2-BpCw9fj/",
+                        "expanded_url": "http://instagram.com/p/b2-BpCw9fj/",
+                        "topsy_expanded_url": "http://instagram.com/p/b2-BpCw9fj/"
+                    }
+                ],
+                "target_birth_date": 1374056650,
+                "content": "\u0421 \u0434\u043d\u0435\u043c \u043c\u043e\u0440\u0441\u043a\u043e\u0439 \u0430\u0432\u0438\u0430\u0446\u0438\u0438! #rostec #aviation #sea #ocean #sukhoi #su #\u0432\u043c\u0444\u0420\u043e\u0441\u0441\u0438\u0438 #\u0432\u043c\u0444 #power #force #new\u2026 http://t.co/gHhAeSlq6P",
+                "mytype": "tweet",
+                "score": 8.935952,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460703324451258368/OzUyvjOM_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RostecRussia/status/357445615745114113",
+                "trackback_author_url": "http://twitter.com/rostecrussia",
+                "highlight": "\u0421 \u0434\u043d\u0435\u043c \u043c\u043e\u0440\u0441\u043a\u043e\u0439 \u0430\u0432\u0438\u0430\u0446\u0438\u0438! #rostec #aviation #sea #ocean #sukhoi #su #\u0432\u043c\u0444\u0420\u043e\u0441\u0441\u0438\u0438 #\u0432\u043c\u0444 #power #force #new\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/rostecrussia",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rostecrussia/status/357445615745114113",
+                "trackback_author_name": "Rostec",
+                "trackback_author_nick": "rostecrussia"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1350830364,
+                "title": "You can't #force people to #respect you but you can #refuse to be #disrespected.",
+                "url": "http://twitter.com/ghostdevil/status/260027510891364352",
+                "trackback_date": 1350830364,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1350830364,
+                "content": "You can't #force people to #respect you but you can #refuse to be #disrespected.",
+                "mytype": "tweet",
+                "score": 8.932368,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1530876798/sonu_normal.jpg",
+                "trackback_permalink": "http://twitter.com/ghostdevil/status/260027510891364352",
+                "trackback_author_url": "http://twitter.com/ghostdevil",
+                "highlight": "You can't #force people to #respect you but you can #refuse to be #disrespected.",
+                "topsy_author_url": "http://topsy.com/twitter/ghostdevil",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ghostdevil/status/260027510891364352",
+                "trackback_author_name": "GHOST DEVIL",
+                "trackback_author_nick": "ghostdevil"
+            },
+            {
+                "hits": 26,
+                "firstpost_date": 1397772132,
+                "title": "#Feminist group #FORCE releases a line of #Consent Condoms, fighting #rapeculture. Yeah. http://t.co/AleVNoEjlH http://t.co/SPXFqtJLbk",
+                "url": "http://twitter.com/slutwalkto/status/456915556655169536",
+                "trackback_date": 1397772132,
+                "trackback_total": 26,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/AleVNoEjlH",
+                        "display_url": "thinkprogress.org/health/2014/04\u2026",
+                        "expanded_url": "http://thinkprogress.org/health/2014/04/17/3427886/feminist-activists-consent-condoms/",
+                        "topsy_expanded_url": "http://thinkprogress.org/health/2014/04/17/3427886/feminist-activists-consent-condoms/"
+                    },
+                    {
+                        "url": "http://t.co/SPXFqtJLbk",
+                        "display_url": "pic.twitter.com/SPXFqtJLbk",
+                        "expanded_url": "http://twitter.com/SlutWalkTO/status/456915556655169536/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BldKRshIMAAq-vN.jpg"
+                    }
+                ],
+                "target_birth_date": 1397772132,
+                "content": "#Feminist group #FORCE releases a line of #Consent Condoms, fighting #rapeculture. Yeah. http://t.co/AleVNoEjlH http://t.co/SPXFqtJLbk",
+                "mytype": "tweet",
+                "score": 8.93224,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1249853149/SlutWalk_twitter_normal.jpg",
+                "trackback_permalink": "http://twitter.com/SlutWalkTO/status/456915556655169536",
+                "trackback_author_url": "http://twitter.com/slutwalkto",
+                "highlight": "#Feminist group #FORCE releases a line of #Consent Condoms, fighting #rapeculture. Yeah.",
+                "topsy_author_url": "http://topsy.com/twitter/slutwalkto",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/slutwalkto/status/456915556655169536",
+                "trackback_author_name": "SlutWalk",
+                "trackback_author_nick": "slutwalkto"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1317464395,
+                "title": "UAE: #Force Thursday AED 290,000 [Rs 39 lacs]. Had 60% jump on Friday.",
+                "url": "http://twitter.com/taran_adarsh/status/120080493562699776",
+                "trackback_date": 1317464395,
+                "trackback_total": 7,
+                "url_expansions": [],
+                "target_birth_date": 1317464395,
+                "content": "UAE: #Force Thursday AED 290,000 [Rs 39 lacs]. Had 60% jump on Friday.",
+                "mytype": "tweet",
+                "score": 8.932148,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1440352704/profile_pic_taran_normal.jpg",
+                "trackback_permalink": "http://twitter.com/taran_adarsh/status/120080493562699776",
+                "trackback_author_url": "http://twitter.com/taran_adarsh",
+                "highlight": "UAE: #Force Thursday AED 290,000 [Rs 39 lacs]. Had 60% jump on Friday.",
+                "topsy_author_url": "http://topsy.com/twitter/taran_adarsh",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/taran_adarsh/status/120080493562699776",
+                "trackback_author_name": "taran adarsh",
+                "trackback_author_nick": "taran_adarsh"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1401461994,
+                "title": "#Macarons #StarWars : Ladur\u00e9e de la cuisson d\u00e9pend de La #Force de volont\u00e9 http://t.co/uX5nmoULim http://t.co/M9bbGZ4aqG",
+                "url": "http://twitter.com/actualitte/status/472391957986443266",
+                "trackback_date": 1401461994,
+                "trackback_total": 24,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/uX5nmoULim",
+                        "display_url": "actualitte.com/t/WNGZUJY",
+                        "expanded_url": "http://www.actualitte.com/t/WNGZUJY",
+                        "topsy_expanded_url": "http://www.actualitte.com/insolite/macarons-star-wars-laduree-de-la-cuisson-depend-de-la-force-de-volonte-50475.htm"
+                    },
+                    {
+                        "url": "http://t.co/M9bbGZ4aqG",
+                        "display_url": "pic.twitter.com/M9bbGZ4aqG",
+                        "expanded_url": "http://twitter.com/ActuaLitte/status/472391957986443266/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bo5F-5IIYAAsxIC.jpg"
+                    }
+                ],
+                "target_birth_date": 1401461994,
+                "content": "#Macarons #StarWars : Ladur\u00e9e de la cuisson d\u00e9pend de La #Force de volont\u00e9 http://t.co/uX5nmoULim http://t.co/M9bbGZ4aqG",
+                "mytype": "tweet",
+                "score": 8.929167,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1529495439/Sans_titre_normal.png",
+                "trackback_permalink": "http://twitter.com/ActuaLitte/status/472391957986443266",
+                "trackback_author_url": "http://twitter.com/actualitte",
+                "highlight": "#Macarons #StarWars : Ladur\u00e9e de la cuisson d\u00e9pend de La #Force de volont\u00e9",
+                "topsy_author_url": "http://topsy.com/twitter/actualitte",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/actualitte/status/472391957986443266",
+                "trackback_author_name": "ActuaLitt\u00e9",
+                "trackback_author_nick": "actualitte"
+            },
+            {
+                "hits": 21,
+                "firstpost_date": 1393258781,
+                "title": "#PJNET What is (((((#Federal #police #force)))))) responsibility? #sctweets #kysen @tedcruz @SenMikeLee  http://t.co/bwyhHsCSF4",
+                "url": "http://twitter.com/kingsheri/status/437985192062357504",
+                "trackback_date": 1393258781,
+                "trackback_total": 27,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/bwyhHsCSF4",
+                        "display_url": "pic.twitter.com/bwyhHsCSF4",
+                        "expanded_url": "http://twitter.com/truckerbooman/status/424827019956723712/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BeVJ7HSCAAE3oKZ.jpg"
+                    }
+                ],
+                "target_birth_date": 1393258781,
+                "content": "#PJNET What is (((((#Federal #police #force)))))) responsibility? #sctweets #kysen @tedcruz @SenMikeLee  http://t.co/bwyhHsCSF4",
+                "mytype": "tweet",
+                "score": 8.927372,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3784881860/15af65e2b082858d6aa985d820a0fba7_normal.png",
+                "trackback_permalink": "http://twitter.com/kingsheri/status/437985192062357504",
+                "trackback_author_url": "http://twitter.com/kingsheri",
+                "highlight": "#PJNET What is (((((#Federal #police #force)))))) responsibility? #sctweets #kysen @tedcruz @SenMikeLee",
+                "topsy_author_url": "http://topsy.com/twitter/kingsheri",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kingsheri/status/437985192062357504",
+                "trackback_author_name": "SHERI KING",
+                "trackback_author_nick": "kingsheri"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1302180932,
+                "title": "No #matter how much you #love someone, you can't #force them to love you back.",
+                "url": "http://twitter.com/ghostdevil/status/55977005786734592",
+                "trackback_date": 1302180932,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1302180932,
+                "content": "No #matter how much you #love someone, you can't #force them to love you back.",
+                "mytype": "tweet",
+                "score": 8.9239435,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1530876798/sonu_normal.jpg",
+                "trackback_permalink": "http://twitter.com/ghostdevil/status/55977005786734592",
+                "trackback_author_url": "http://twitter.com/ghostdevil",
+                "highlight": "No #matter how much you #love someone, you can't #force them to love you back.",
+                "topsy_author_url": "http://topsy.com/twitter/ghostdevil",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ghostdevil/status/55977005786734592",
+                "trackback_author_name": "GHOST DEVIL",
+                "trackback_author_nick": "ghostdevil"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1393969083,
+                "title": "Portrait de @KingJames , encadr\u00e9... #Force http://t.co/y2jxTL4aQq",
+                "url": "http://twitter.com/dgk972/status/440964414498304000",
+                "trackback_date": 1393969083,
+                "trackback_total": 20,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/y2jxTL4aQq",
+                        "display_url": "pic.twitter.com/y2jxTL4aQq",
+                        "expanded_url": "http://twitter.com/dgk972/status/440964414498304000/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bh6ezHUCcAAPpb0.jpg"
+                    }
+                ],
+                "target_birth_date": 1393969083,
+                "content": "Portrait de @KingJames , encadr\u00e9... #Force http://t.co/y2jxTL4aQq",
+                "mytype": "tweet",
+                "score": 8.9236965,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473556147048173568/qH0IjF2O_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/dgk972/status/440964414498304000",
+                "trackback_author_url": "http://twitter.com/dgk972",
+                "highlight": "Portrait de @KingJames , encadr\u00e9... #Force",
+                "topsy_author_url": "http://topsy.com/twitter/dgk972",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dgk972/status/440964414498304000",
+                "trackback_author_name": "Les dess!ns de DGK",
+                "trackback_author_nick": "dgk972"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1342957897,
+                "title": "#Ramadan #Day3 #Force",
+                "url": "http://twitter.com/oumardinho/status/227007990622986242",
+                "trackback_date": 1342957897,
+                "trackback_total": 6,
+                "url_expansions": [],
+                "target_birth_date": 1342957897,
+                "content": "#Ramadan #Day3 #Force",
+                "mytype": "tweet",
+                "score": 8.921978,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460173618115526656/N-WlGUS0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Oumardinho/status/227007990622986242",
+                "trackback_author_url": "http://twitter.com/oumardinho",
+                "highlight": "#Ramadan #Day3",
+                "topsy_author_url": "http://topsy.com/twitter/oumardinho",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/oumardinho/status/227007990622986242",
+                "trackback_author_name": "Samak\u00e9 Oumar",
+                "trackback_author_nick": "oumardinho"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 140,
+        "hidden": 0,
+        "total": 250210,
+        "page": 1
+    }
+}

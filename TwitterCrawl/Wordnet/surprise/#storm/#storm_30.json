@@ -1,0 +1,288 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23storm&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=30",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#storm",
+            "window": "a",
+            "type": "tweet",
+            "offset": "30"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 395,
+                "firstpost_date": 1394001098,
+                "title": "Photos: #Sydney's afternoon #storm. http://t.co/E25ZYxLSKg (Photo by Dean Sewell) http://t.co/seB9ivBEsS",
+                "url": "http://twitter.com/smh/status/441098691454046208",
+                "trackback_date": 1394001098,
+                "trackback_total": 454,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/E25ZYxLSKg",
+                        "display_url": "ow.ly/ufw14",
+                        "expanded_url": "http://ow.ly/ufw14",
+                        "topsy_expanded_url": "http://www.smh.com.au/photogallery/national/clique/apocolyptic-storm-20140305-3479r.html?eid=socialn%3Atwi-13omn1677-edtrl-other%3Annn-17%2F02%2F2014-edtrs_socialshare-all-nnn-nnn-vars-o%26sa%3DD%26usg%3DALhdy28zsr6qiq"
+                    },
+                    {
+                        "url": "http://t.co/seB9ivBEsS",
+                        "display_url": "pic.twitter.com/seB9ivBEsS",
+                        "expanded_url": "http://twitter.com/smh/status/441098691454046208/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bh8Y7D-CEAAVu16.jpg"
+                    }
+                ],
+                "target_birth_date": 1394001098,
+                "content": "Photos: #Sydney's afternoon #storm. http://t.co/E25ZYxLSKg (Photo by Dean Sewell) http://t.co/seB9ivBEsS",
+                "mytype": "tweet",
+                "score": 9.981468,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3669946025/6922b350acc9dedd379a2f4de2d09357_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/smh/status/441098691454046208",
+                "trackback_author_url": "http://twitter.com/smh",
+                "highlight": "Photos: #Sydney's afternoon #storm. (Photo by Dean Sewell)",
+                "topsy_author_url": "http://topsy.com/twitter/smh",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/smh/status/441098691454046208",
+                "trackback_author_name": "smh.com.au",
+                "trackback_author_nick": "smh"
+            },
+            {
+                "hits": 52,
+                "firstpost_date": 1386262160,
+                "title": "Two Swedish sailors reportedly swept overboard, as major #storm hits northern Europe http://t.co/KNeUTUlFKY",
+                "url": "http://twitter.com/bbcworld/status/408639236158799872",
+                "trackback_date": 1386262160,
+                "trackback_total": 60,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/KNeUTUlFKY",
+                        "display_url": "bbc.in/18bvryC",
+                        "expanded_url": "http://bbc.in/18bvryC",
+                        "topsy_expanded_url": "http://www.bbc.co.uk/news/world-europe-25243460"
+                    }
+                ],
+                "target_birth_date": 1386262160,
+                "content": "Two Swedish sailors reportedly swept overboard, as major #storm hits northern Europe http://t.co/KNeUTUlFKY",
+                "mytype": "tweet",
+                "score": 9.975745,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460756830503706624/x2R8lADg_normal.png",
+                "trackback_permalink": "http://twitter.com/BBCWorld/status/408639236158799872",
+                "trackback_author_url": "http://twitter.com/bbcworld",
+                "highlight": "Two Swedish sailors reportedly swept overboard, as major #storm hits northern Europe",
+                "topsy_author_url": "http://topsy.com/twitter/bbcworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bbcworld/status/408639236158799872",
+                "trackback_author_name": "BBC News (World)",
+                "trackback_author_nick": "bbcworld"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1362898704,
+                "title": "RT @AJEWeather | What a difference a day makes | http://t.co/h994XWQFP7 | #winter #storm #Virginia",
+                "url": "http://twitter.com/ajenglish/status/310645798599794688",
+                "trackback_date": 1362898704,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/h994XWQFP7",
+                        "display_url": "aje.me/12Eu6gL",
+                        "expanded_url": "http://aje.me/12Eu6gL",
+                        "topsy_expanded_url": "http://aje.me/12Eu6gL"
+                    }
+                ],
+                "target_birth_date": 1362898704,
+                "content": "RT @AJEWeather | What a difference a day makes | http://t.co/h994XWQFP7 | #winter #storm #Virginia",
+                "mytype": "tweet",
+                "score": 9.953459,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/448478192022474752/yOHtpEoL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AJEnglish/status/310645798599794688",
+                "trackback_author_url": "http://twitter.com/ajenglish",
+                "highlight": "RT @AJEWeather | What a difference a day makes | | #winter #storm",
+                "topsy_author_url": "http://topsy.com/twitter/ajenglish",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ajenglish/status/310645798599794688",
+                "trackback_author_name": "Al Jazeera English",
+                "trackback_author_nick": "ajenglish"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1320886712,
+                "title": "#survivor  Great first 5 minutes!  Cochran is in for a &*@#storm!",
+                "url": "http://twitter.com/jeffprobst/status/134434732837568512",
+                "trackback_date": 1320886712,
+                "trackback_total": 41,
+                "url_expansions": [],
+                "target_birth_date": 1320886712,
+                "content": "#survivor  Great first 5 minutes!  Cochran is in for a &*@#storm!",
+                "mytype": "tweet",
+                "score": 9.949764,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/438521943839371264/-w8EBc_E_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JeffProbst/status/134434732837568512",
+                "trackback_author_url": "http://twitter.com/jeffprobst",
+                "highlight": "#survivor Great first 5 minutes! Cochran is in for a &*@#storm!",
+                "topsy_author_url": "http://topsy.com/twitter/jeffprobst",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jeffprobst/status/134434732837568512",
+                "trackback_author_name": "Jeff Probst",
+                "trackback_author_nick": "jeffprobst"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1287254227,
+                "title": "Flat as a pancake #Storm #XFactor",
+                "url": "http://twitter.com/heatworld/status/27565494348",
+                "trackback_date": 1287254227,
+                "trackback_total": 31,
+                "url_expansions": [],
+                "target_birth_date": 1287254227,
+                "content": "Flat as a pancake #Storm #XFactor",
+                "mytype": "tweet",
+                "score": 9.949232,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464459441547399168/c9Kq0Qkk_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/heatworld/status/27565494348",
+                "trackback_author_url": "http://twitter.com/heatworld",
+                "highlight": "Flat as a pancake #Storm",
+                "topsy_author_url": "http://topsy.com/twitter/heatworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/heatworld/status/27565494348",
+                "trackback_author_name": "heat & heatworld.com",
+                "trackback_author_nick": "heatworld"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1297444048,
+                "title": "Shortcuts and tips for #BlackBerry #Storm users: http://bbry.lv/StormTips ^SH",
+                "url": "http://twitter.com/blackberryhelp/status/36109073715822593",
+                "trackback_date": 1297444048,
+                "trackback_total": 13,
+                "url_expansions": [],
+                "target_birth_date": 1297444048,
+                "content": "Shortcuts and tips for #BlackBerry #Storm users: http://bbry.lv/StormTips ^SH",
+                "mytype": "tweet",
+                "score": 9.942891,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1993678305/r3_a1_twitter_profile_88x88__2__normal.jpg",
+                "trackback_permalink": "http://twitter.com/BlackBerryHelp/status/36109073715822593",
+                "trackback_author_url": "http://twitter.com/blackberryhelp",
+                "highlight": "Shortcuts and tips for #BlackBerry #Storm users: ^SH",
+                "topsy_author_url": "http://topsy.com/twitter/blackberryhelp",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/blackberryhelp/status/36109073715822593",
+                "trackback_author_name": "BlackBerryHelp",
+                "trackback_author_nick": "blackberryhelp"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1284327073,
+                "title": "Let's go #storm they killed it today the bird flew high #wordaapp",
+                "url": "http://twitter.com/nate_robinson/status/24317958445",
+                "trackback_date": 1284327073,
+                "trackback_total": 13,
+                "url_expansions": [],
+                "target_birth_date": 1284327073,
+                "content": "Let's go #storm they killed it today the bird flew high #wordaapp",
+                "mytype": "tweet",
+                "score": 9.912188,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/448115634031702018/vVALcx6A_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/nate_robinson/status/24317958445",
+                "trackback_author_url": "http://twitter.com/nate_robinson",
+                "highlight": "Let's go #storm they killed it today the bird flew high",
+                "topsy_author_url": "http://topsy.com/twitter/nate_robinson",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nate_robinson/status/24317958445",
+                "trackback_author_name": "Nate Robinson",
+                "trackback_author_nick": "nate_robinson"
+            },
+            {
+                "hits": 37,
+                "firstpost_date": 1395631229,
+                "title": "Severe #storm forecast for Sydney heading south.. http://t.co/1vqmk7ksyG http://t.co/ca69HUtpD3",
+                "url": "http://twitter.com/abcemergency/status/447935958344671233",
+                "trackback_date": 1395631229,
+                "trackback_total": 41,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1vqmk7ksyG",
+                        "display_url": "abc.net.au/news/emergency\u2026",
+                        "expanded_url": "http://www.abc.net.au/news/emergency/state/nsw/#IDN65152",
+                        "topsy_expanded_url": "http://www.abc.net.au/news/emergency/state/nsw/"
+                    },
+                    {
+                        "url": "http://t.co/ca69HUtpD3",
+                        "display_url": "pic.twitter.com/ca69HUtpD3",
+                        "expanded_url": "http://twitter.com/ABCemergency/status/447935958344671233/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BjdjYXlCYAIxHGl.jpg"
+                    }
+                ],
+                "target_birth_date": 1395631229,
+                "content": "Severe #storm forecast for Sydney heading south.. http://t.co/1vqmk7ksyG http://t.co/ca69HUtpD3",
+                "mytype": "tweet",
+                "score": 9.885976,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/423653926156517376/iW6qDtWX_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ABCemergency/status/447935958344671233",
+                "trackback_author_url": "http://twitter.com/abcemergency",
+                "highlight": "Severe #storm forecast for Sydney heading south..",
+                "topsy_author_url": "http://topsy.com/twitter/abcemergency",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/abcemergency/status/447935958344671233",
+                "trackback_author_name": "ABC Emergency",
+                "trackback_author_nick": "abcemergency"
+            },
+            {
+                "hits": 271,
+                "firstpost_date": 1382936590,
+                "title": "At least 7,000 properties left without power in south-west England following effects of overnight #storm http://t.co/Wyt7GKCKFP",
+                "url": "http://twitter.com/bbcbreaking/status/394690782642601984",
+                "trackback_date": 1382936590,
+                "trackback_total": 368,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Wyt7GKCKFP",
+                        "display_url": "bbc.in/17SQAYw",
+                        "expanded_url": "http://bbc.in/17SQAYw",
+                        "topsy_expanded_url": "http://www.bbc.co.uk/news/uk-24699748"
+                    }
+                ],
+                "target_birth_date": 1382936590,
+                "content": "At least 7,000 properties left without power in south-west England following effects of overnight #storm http://t.co/Wyt7GKCKFP",
+                "mytype": "tweet",
+                "score": 9.876904,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460740982498013184/wIPwMwru_normal.png",
+                "trackback_permalink": "http://twitter.com/BBCBreaking/status/394690782642601984",
+                "trackback_author_url": "http://twitter.com/bbcbreaking",
+                "highlight": "At least 7,000 properties left without power in south-west England following effects of overnight #storm",
+                "topsy_author_url": "http://topsy.com/twitter/bbcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bbcbreaking/status/394690782642601984",
+                "trackback_author_name": "BBC Breaking News",
+                "trackback_author_nick": "bbcbreaking"
+            },
+            {
+                "hits": 463,
+                "firstpost_date": 1382941122,
+                "title": "Heathrow Airport says it's cancelled 130 outgoing &amp; incoming flights because of the threat posed by the #storm http://t.co/DHxI7A9cFd",
+                "url": "http://twitter.com/bbcbreaking/status/394709793300291584",
+                "trackback_date": 1382941122,
+                "trackback_total": 553,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DHxI7A9cFd",
+                        "display_url": "bbc.in/17r7XmT",
+                        "expanded_url": "http://bbc.in/17r7XmT",
+                        "topsy_expanded_url": "http://www.bbc.co.uk/news/uk-24699748"
+                    }
+                ],
+                "target_birth_date": 1382941122,
+                "content": "Heathrow Airport says it's cancelled 130 outgoing &amp; incoming flights because of the threat posed by the #storm http://t.co/DHxI7A9cFd",
+                "mytype": "tweet",
+                "score": 9.876462,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/460740982498013184/wIPwMwru_normal.png",
+                "trackback_permalink": "http://twitter.com/BBCBreaking/status/394709793300291584",
+                "trackback_author_url": "http://twitter.com/bbcbreaking",
+                "highlight": "Heathrow Airport says it's cancelled 130 outgoing &amp; incoming flights because of the threat posed by the #storm",
+                "topsy_author_url": "http://topsy.com/twitter/bbcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bbcbreaking/status/394709793300291584",
+                "trackback_author_name": "BBC Breaking News",
+                "trackback_author_nick": "bbcbreaking"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 30,
+        "hidden": 0,
+        "total": 1145068,
+        "page": 1
+    }
+}

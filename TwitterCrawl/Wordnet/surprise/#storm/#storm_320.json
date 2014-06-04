@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23storm&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=320",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#storm",
+            "window": "a",
+            "type": "tweet",
+            "offset": "320"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 16,
+                "firstpost_date": 1355905620,
+                "title": "Severe #storm warnings for #QLD this evening. Keep checking the warnings and be prepared &gt; http://t.co/2ypAJL18 &gt; http://t.co/TknKi8tU",
+                "url": "http://twitter.com/abcemergency/status/281314679748452352",
+                "trackback_date": 1355905620,
+                "trackback_total": 15,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2ypAJL18",
+                        "display_url": "abc.net.au/news/emergency\u2026",
+                        "expanded_url": "http://www.abc.net.au/news/emergency/state/qld/",
+                        "topsy_expanded_url": "http://www.abc.net.au/news/emergency/state/qld/"
+                    },
+                    {
+                        "url": "http://t.co/TknKi8tU",
+                        "display_url": "bom.gov.au/cgi-bin/wrap_f\u2026",
+                        "expanded_url": "http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDQ20041.html",
+                        "topsy_expanded_url": "http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDQ20041.html"
+                    }
+                ],
+                "target_birth_date": 1355905620,
+                "content": "Severe #storm warnings for #QLD this evening. Keep checking the warnings and be prepared &gt; http://t.co/2ypAJL18 &gt; http://t.co/TknKi8tU",
+                "mytype": "tweet",
+                "score": 9.230537,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/423653926156517376/iW6qDtWX_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ABCEmergency/status/281314679748452352",
+                "trackback_author_url": "http://twitter.com/abcemergency",
+                "highlight": "Severe #storm warnings for #QLD this evening. Keep checking the warnings and be prepared &gt; &gt;",
+                "topsy_author_url": "http://topsy.com/twitter/abcemergency",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/abcemergency/status/281314679748452352",
+                "trackback_author_name": "ABC Emergency",
+                "trackback_author_nick": "abcemergency"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1374620746,
+                "title": "#lasvegas #storm approaching :) http://t.co/cTVs3oxAXg",
+                "url": "http://twitter.com/agoodwincollect/status/359811606642831360",
+                "trackback_date": 1374620746,
+                "trackback_total": 53,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cTVs3oxAXg",
+                        "display_url": "instagram.com/p/cIFMecnuEd/",
+                        "expanded_url": "http://instagram.com/p/cIFMecnuEd/",
+                        "topsy_expanded_url": "http://instagram.com/p/cIFMecnuEd/"
+                    }
+                ],
+                "target_birth_date": 1374620746,
+                "content": "#lasvegas #storm approaching :) http://t.co/cTVs3oxAXg",
+                "mytype": "tweet",
+                "score": 9.230484,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3013719636/4eb89c965459ff32217eabe90ec5438c_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/agoodwincollect/status/359811606642831360",
+                "trackback_author_url": "http://twitter.com/agoodwincollect",
+                "highlight": "#lasvegas #storm approaching :)",
+                "topsy_author_url": "http://topsy.com/twitter/agoodwincollect",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/agoodwincollect/status/359811606642831360",
+                "trackback_author_name": "AaronGoodwin",
+                "trackback_author_nick": "agoodwincollect"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1386909758,
+                "title": "Scary color of the skies , now #gaza #hail #storm http://t.co/1zPcbJcUrN",
+                "url": "http://twitter.com/whateveringaza/status/411355456133554178",
+                "trackback_date": 1386909758,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1zPcbJcUrN",
+                        "display_url": "pic.twitter.com/1zPcbJcUrN",
+                        "expanded_url": "http://twitter.com/WhateverInGaza/status/411355456133554178/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BbVtm5cCAAE8W_I.jpg"
+                    }
+                ],
+                "target_birth_date": 1386909758,
+                "content": "Scary color of the skies , now #gaza #hail #storm http://t.co/1zPcbJcUrN",
+                "mytype": "tweet",
+                "score": 9.230316,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000477501358/d2522abb023ce779785c1e91caedd22c_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/WhateverInGaza/status/411355456133554178",
+                "trackback_author_url": "http://twitter.com/whateveringaza",
+                "highlight": "Scary color of the skies , now #gaza #hail #storm",
+                "topsy_author_url": "http://topsy.com/twitter/whateveringaza",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/whateveringaza/status/411355456133554178",
+                "trackback_author_name": "WhateverInGaza",
+                "trackback_author_nick": "whateveringaza"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1308919410,
+                "title": "#BBTIps \u2013 Reinicia tu BlackBerry sin quitar la bater\u00eda http://bbry.lv/deewlj en dispositivos #Storm y #Pearl se requiere retirarla ^JL",
+                "url": "http://twitter.com/ayudablackberry/status/84240229157965824",
+                "trackback_date": 1308919410,
+                "trackback_total": 22,
+                "url_expansions": [],
+                "target_birth_date": 1308919410,
+                "content": "#BBTIps \u2013 Reinicia tu BlackBerry sin quitar la bater\u00eda http://bbry.lv/deewlj en dispositivos #Storm y #Pearl se requiere retirarla ^JL",
+                "mytype": "tweet",
+                "score": 9.230228,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1994333664/r3_a1_twitter_profile_88x88__2__normal.jpg",
+                "trackback_permalink": "http://twitter.com/AyudaBlackBerry/status/84240229157965824",
+                "trackback_author_url": "http://twitter.com/ayudablackberry",
+                "highlight": "#BBTIps \u2013 Reinicia tu BlackBerry sin quitar la bater\u00eda en dispositivos #Storm y #Pearl se requiere retirarla ^JL",
+                "topsy_author_url": "http://topsy.com/twitter/ayudablackberry",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ayudablackberry/status/84240229157965824",
+                "trackback_author_name": "AyudaBlackBerry",
+                "trackback_author_nick": "ayudablackberry"
+            },
+            {
+                "hits": 480,
+                "firstpost_date": 1353846114,
+                "title": "Een woedende mevrouw Thieme aan de telefoon. Wie het toch in zijn hoofd haalt om met dit weer een paard het dak op te sturen. #storm",
+                "url": "http://twitter.com/koningin_nl/status/272676485830176768",
+                "trackback_date": 1353846114,
+                "trackback_total": 528,
+                "url_expansions": [],
+                "target_birth_date": 1353846114,
+                "content": "Een woedende mevrouw Thieme aan de telefoon. Wie het toch in zijn hoofd haalt om met dit weer een paard het dak op te sturen. #storm",
+                "mytype": "tweet",
+                "score": 9.228567,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000400386480/b407f9bc250c7b989b55de628b7845b1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Koningin_NL/status/272676485830176768",
+                "trackback_author_url": "http://twitter.com/koning_nl",
+                "highlight": "Een woedende mevrouw Thieme aan de telefoon. Wie het toch in zijn hoofd haalt om met dit weer een paard het dak op te sturen.",
+                "topsy_author_url": "http://topsy.com/twitter/koning_nl",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/koningin_nl/status/272676485830176768",
+                "trackback_author_name": "Willem-Alexander",
+                "trackback_author_nick": "koning_nl"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1330689373,
+                "title": "Dust #storm expected to hit UAE again: http://t.co/8WA3cQph",
+                "url": "http://twitter.com/gulf_news/status/175550071671238657",
+                "trackback_date": 1330689373,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8WA3cQph",
+                        "display_url": "bit.ly/wPH7Yc",
+                        "expanded_url": "http://bit.ly/wPH7Yc",
+                        "topsy_expanded_url": "http://gulfnews.com/news/gulf/uae/weather/dust-storm-expected-to-hit-uae-1.989021"
+                    }
+                ],
+                "target_birth_date": 1330689373,
+                "content": "Dust #storm expected to hit UAE again: http://t.co/8WA3cQph",
+                "mytype": "tweet",
+                "score": 9.227604,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/445806545960316929/L6bjfOqL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/gulf_news/status/175550071671238657",
+                "trackback_author_url": "http://twitter.com/gulf_news",
+                "highlight": "Dust #storm expected to hit UAE again:",
+                "topsy_author_url": "http://topsy.com/twitter/gulf_news",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/gulf_news/status/175550071671238657",
+                "trackback_author_name": "Gulf News",
+                "trackback_author_nick": "gulf_news"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1352152801,
+                "title": "#BBTips \u2013 Para escribir la \u00f1 en #Storm y #Torch mant\u00e9n tu dedo sobre la tecla N (sin presionarla) y la opci\u00f3n a \u00f1 aparecer\u00e1. ^NL",
+                "url": "http://twitter.com/ayudablackberry/status/265574214558429184",
+                "trackback_date": 1352152801,
+                "trackback_total": 12,
+                "url_expansions": [],
+                "target_birth_date": 1352152801,
+                "content": "#BBTips \u2013 Para escribir la \u00f1 en #Storm y #Torch mant\u00e9n tu dedo sobre la tecla N (sin presionarla) y la opci\u00f3n a \u00f1 aparecer\u00e1. ^NL",
+                "mytype": "tweet",
+                "score": 9.22708,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1994333664/r3_a1_twitter_profile_88x88__2__normal.jpg",
+                "trackback_permalink": "http://twitter.com/AyudaBlackBerry/status/265574214558429184",
+                "trackback_author_url": "http://twitter.com/ayudablackberry",
+                "highlight": "#BBTips \u2013 Para escribir la \u00f1 en #Storm y #Torch mant\u00e9n tu dedo sobre la tecla N (sin presionarla) y la opci\u00f3n a \u00f1 aparecer\u00e1. ^NL",
+                "topsy_author_url": "http://topsy.com/twitter/ayudablackberry",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ayudablackberry/status/265574214558429184",
+                "trackback_author_name": "AyudaBlackBerry",
+                "trackback_author_nick": "ayudablackberry"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1316180171,
+                "title": "#BBTips \u2013 Para escribir la \u00f1 en #Storm y #Torch mant\u00e9n tu dedo sobre la tecla N (sin presionarla) y la opci\u00f3n a \"\u00f1\" aparecer\u00e1 ^NL",
+                "url": "http://twitter.com/ayudablackberry/status/114694067597746176",
+                "trackback_date": 1316180171,
+                "trackback_total": 40,
+                "url_expansions": [],
+                "target_birth_date": 1316180171,
+                "content": "#BBTips \u2013 Para escribir la \u00f1 en #Storm y #Torch mant\u00e9n tu dedo sobre la tecla N (sin presionarla) y la opci\u00f3n a \"\u00f1\" aparecer\u00e1 ^NL",
+                "mytype": "tweet",
+                "score": 9.226564,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1994333664/r3_a1_twitter_profile_88x88__2__normal.jpg",
+                "trackback_permalink": "http://twitter.com/AyudaBlackBerry/status/114694067597746176",
+                "trackback_author_url": "http://twitter.com/ayudablackberry",
+                "highlight": "#BBTips \u2013 Para escribir la \u00f1 en #Storm y #Torch mant\u00e9n tu dedo sobre la tecla N (sin presionarla) y la opci\u00f3n a \"\u00f1\" aparecer\u00e1 ^NL",
+                "topsy_author_url": "http://topsy.com/twitter/ayudablackberry",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ayudablackberry/status/114694067597746176",
+                "trackback_author_name": "AyudaBlackBerry",
+                "trackback_author_nick": "ayudablackberry"
+            },
+            {
+                "hits": 195,
+                "firstpost_date": 1400768419,
+                "title": "Scary stuff! Here's the Shard being struck by lightning (via @wendowen) #storm http://t.co/PJmvfN2Ml6",
+                "url": "http://twitter.com/googlelocalldn/status/469482895011504128",
+                "trackback_date": 1400768419,
+                "trackback_total": 218,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PJmvfN2Ml6",
+                        "display_url": "pic.twitter.com/PJmvfN2Ml6",
+                        "expanded_url": "http://twitter.com/GoogleLocalLDN/status/469482895011504128/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BoPwNFmCIAMkinT.png"
+                    }
+                ],
+                "target_birth_date": 1400768419,
+                "content": "Scary stuff! Here's the Shard being struck by lightning (via @wendowen) #storm http://t.co/PJmvfN2Ml6",
+                "mytype": "tweet",
+                "score": 9.226446,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2263249549/London_normal.png",
+                "trackback_permalink": "http://twitter.com/GoogleLocalLDN/status/469482895011504128",
+                "trackback_author_url": "http://twitter.com/googlelocalldn",
+                "highlight": "Scary stuff! Here's the Shard being struck by lightning (via @wendowen) #storm",
+                "topsy_author_url": "http://topsy.com/twitter/googlelocalldn",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/googlelocalldn/status/469482895011504128",
+                "trackback_author_name": "Google Local London",
+                "trackback_author_nick": "googlelocalldn"
+            },
+            {
+                "hits": 100,
+                "firstpost_date": 1357557451,
+                "title": "Ministry of Education calls for the closure of schools tomorrow and Wednesday due to the #storm  | #Lebanon #school | http://t.co/3Vvc9PHe",
+                "url": "http://twitter.com/lbci_news_en/status/288242959361658880",
+                "trackback_date": 1357557451,
+                "trackback_total": 116,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3Vvc9PHe",
+                        "display_url": "bit.ly/WnwFtW",
+                        "expanded_url": "http://bit.ly/WnwFtW",
+                        "topsy_expanded_url": "http://www.lbcgroup.tv/news/67985/as-the-storm-continues-roads-turn-to-lakes-trees-f"
+                    }
+                ],
+                "target_birth_date": 1357557451,
+                "content": "Ministry of Education calls for the closure of schools tomorrow and Wednesday due to the #storm  | #Lebanon #school | http://t.co/3Vvc9PHe",
+                "mytype": "tweet",
+                "score": 9.225298,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000632460212/d366e67feb5d2a0f866eb4596e7ee5c2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LBCI_News_EN/status/288242959361658880",
+                "trackback_author_url": "http://twitter.com/lbci_news_en",
+                "highlight": "Ministry of Education calls for the closure of schools tomorrow and Wednesday due to the #storm | #Lebanon #school |",
+                "topsy_author_url": "http://topsy.com/twitter/lbci_news_en",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lbci_news_en/status/288242959361658880",
+                "trackback_author_name": "LBCI News English",
+                "trackback_author_nick": "lbci_news_en"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 320,
+        "hidden": 0,
+        "total": 1117633,
+        "page": 1
+    }
+}

@@ -1,0 +1,287 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23tempest&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=300",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#tempest",
+            "window": "a",
+            "type": "tweet",
+            "offset": "300"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 9,
+                "firstpost_date": 1399485474,
+                "title": "Dave Smith &amp; @roger_linn having fun with #Tempest during a #moogfest demonstration. Photo by Ted Johnson http://t.co/r6vdBYjhl4",
+                "url": "http://twitter.com/davesmithinst/status/464101833766481921",
+                "trackback_date": 1399485474,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/r6vdBYjhl4",
+                        "display_url": "pic.twitter.com/r6vdBYjhl4",
+                        "expanded_url": "http://twitter.com/DaveSmithInst/status/464101833766481921/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BnDSKGpCcAAkD2C.jpg"
+                    }
+                ],
+                "target_birth_date": 1399485474,
+                "content": "Dave Smith &amp; @roger_linn having fun with #Tempest during a #moogfest demonstration. Photo by Ted Johnson http://t.co/r6vdBYjhl4",
+                "mytype": "tweet",
+                "score": 8.422356,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/881553298/DSI_Logo_black_normal.jpg",
+                "trackback_permalink": "http://twitter.com/DaveSmithInst/status/464101833766481921",
+                "trackback_author_url": "http://twitter.com/davesmithinst",
+                "highlight": "Dave Smith &amp; @roger_linn having fun with #Tempest during a #moogfest demonstration. Photo by Ted Johnson",
+                "topsy_author_url": "http://topsy.com/twitter/davesmithinst",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/davesmithinst/status/464101833766481921",
+                "trackback_author_name": "DaveSmithInstruments",
+                "trackback_author_nick": "davesmithinst"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1347392429,
+                "title": "Continua en el puesto #10 de iTunes Colombia #Tempest de Bob Dyland. C\u00f3mpralo aqu\u00ed http://t.co/Xh5EMxMN http://t.co/JT8yGdTg",
+                "url": "http://twitter.com/sonymusiccol/status/245607763114332160",
+                "trackback_date": 1347392429,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Xh5EMxMN",
+                        "display_url": "bit.ly/P92num",
+                        "expanded_url": "http://bit.ly/P92num",
+                        "topsy_expanded_url": "http://itunes.apple.com/co/album/tempest/id544403750"
+                    },
+                    {
+                        "url": "http://t.co/JT8yGdTg",
+                        "expanded_url": "http://twitter.com/SonyMusicCol/status/245607763114332160/photo/1",
+                        "display_url": "pic.twitter.com/JT8yGdTg"
+                    }
+                ],
+                "target_birth_date": 1347392429,
+                "content": "Continua en el puesto #10 de iTunes Colombia #Tempest de Bob Dyland. C\u00f3mpralo aqu\u00ed http://t.co/Xh5EMxMN http://t.co/JT8yGdTg",
+                "mytype": "tweet",
+                "score": 8.4208555,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/466953846535630848/VcjWXLfg_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SonyMusicCol/status/245607763114332160",
+                "trackback_author_url": "http://twitter.com/sonymusiccol",
+                "highlight": "Continua en el puesto #10 de iTunes Colombia #Tempest de Bob Dyland. C\u00f3mpralo aqu\u00ed",
+                "topsy_author_url": "http://topsy.com/twitter/sonymusiccol",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sonymusiccol/status/245607763114332160",
+                "trackback_author_name": "Sony Music Colombia",
+                "trackback_author_nick": "sonymusiccol"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1347313006,
+                "title": "Whisky and @bobdylan on the stereo. Life is good right now. #Tempest",
+                "url": "http://twitter.com/fabsh/status/245274644188368897",
+                "trackback_date": 1347313006,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1347313006,
+                "content": "Whisky and @bobdylan on the stereo. Life is good right now. #Tempest",
+                "mytype": "tweet",
+                "score": 8.41982,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468821379991617538/8dLO4C1A_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/fabsh/status/245274644188368897",
+                "trackback_author_url": "http://twitter.com/fabsh",
+                "highlight": "Whisky and @bobdylan on the stereo. Life is good right now.",
+                "topsy_author_url": "http://topsy.com/twitter/fabsh",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/fabsh/status/245274644188368897",
+                "trackback_author_name": "Fabian A. Scherschel",
+                "trackback_author_nick": "fabsh"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1322541222,
+                "title": "Jalape\u00f1o vodka, Old Sugar Mill honey liqueur, passion fruit and lime cocktail at #Tempest? Amazing. http://t.co/VQGIs0GG",
+                "url": "http://twitter.com/muskrat_john/status/141374248999596033",
+                "trackback_date": 1322541222,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/VQGIs0GG",
+                        "expanded_url": "http://twitter.com/muskrat_john/status/141374248999596033/photo/1",
+                        "display_url": "pic.twitter.com/VQGIs0GG"
+                    }
+                ],
+                "target_birth_date": 1322541222,
+                "content": "Jalape\u00f1o vodka, Old Sugar Mill honey liqueur, passion fruit and lime cocktail at #Tempest? Amazing. http://t.co/VQGIs0GG",
+                "mytype": "tweet",
+                "score": 8.415645,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/422059990241660928/yu3fAKNb_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/muskrat_john/status/141374248999596033",
+                "trackback_author_url": "http://twitter.com/muskrat_john",
+                "highlight": "Jalape\u00f1o vodka, Old Sugar Mill honey liqueur, passion fruit and lime cocktail at #Tempest? Amazing.",
+                "topsy_author_url": "http://topsy.com/twitter/muskrat_john",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/muskrat_john/status/141374248999596033",
+                "trackback_author_name": "John Kovalic",
+                "trackback_author_nick": "muskrat_john"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1372408823,
+                "title": "The #Tempest \u2013 Globe Theatre http://t.co/7VymogGLte",
+                "url": "http://twitter.com/colinwebsite/status/350534130062213120",
+                "trackback_date": 1372408823,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7VymogGLte",
+                        "display_url": "shar.es/xPD6J",
+                        "expanded_url": "http://shar.es/xPD6J",
+                        "topsy_expanded_url": "http://home.wtd-magazine.com/review/the-tempest-globe-theatre/"
+                    }
+                ],
+                "target_birth_date": 1372408823,
+                "content": "The #Tempest \u2013 Globe Theatre http://t.co/7VymogGLte",
+                "mytype": "tweet",
+                "score": 8.415616,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467758676795617280/i5yUNAIB_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Colinwebsite/status/350534130062213120",
+                "trackback_author_url": "http://twitter.com/colinwebsite",
+                "highlight": "The #Tempest \u2013 Globe Theatre",
+                "topsy_author_url": "http://topsy.com/twitter/colinwebsite",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/colinwebsite/status/350534130062213120",
+                "trackback_author_name": "Colin Morgan ",
+                "trackback_author_nick": "colinwebsite"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1297129610,
+                "title": "X Encontro do PUG-PE #PythonPernambuco:  http://pug.pe   #Mameluco, #CITI, #Tempest #idealizza #AIBOX #Redu #orygens apoiam este evento!",
+                "url": "http://twitter.com/pugpe/status/34790222348681216",
+                "trackback_date": 1297129610,
+                "trackback_total": 11,
+                "url_expansions": [],
+                "target_birth_date": 1297129610,
+                "content": "X Encontro do PUG-PE #PythonPernambuco:  http://pug.pe   #Mameluco, #CITI, #Tempest #idealizza #AIBOX #Redu #orygens apoiam este evento!",
+                "mytype": "tweet",
+                "score": 8.4135895,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1103990181/Picture_1_normal.png",
+                "trackback_permalink": "http://twitter.com/pugpe/status/34790222348681216",
+                "trackback_author_url": "http://twitter.com/pugpe",
+                "highlight": "X Encontro do PUG-PE #PythonPernambuco: #Mameluco, #CITI, #Tempest #idealizza #AIBOX #Redu #orygens apoiam este evento!",
+                "topsy_author_url": "http://topsy.com/twitter/pugpe",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/pugpe/status/34790222348681216",
+                "trackback_author_name": "Python User Group PE",
+                "trackback_author_nick": "pugpe"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1338227437,
+                "title": "#Tempest OS 1.2 is available now!\nFeatures added:\nPolyphonic MIDI keyboard play\nUndo Record\nSound Bank B\nOdd time... http://t.co/SNejRYUn",
+                "url": "http://twitter.com/davesmithinst/status/207167005281878017",
+                "trackback_date": 1338227437,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/SNejRYUn",
+                        "display_url": "fb.me/1MXch9wLv",
+                        "expanded_url": "http://fb.me/1MXch9wLv",
+                        "topsy_expanded_url": "http://www.davesmithinstruments.com/index.php"
+                    }
+                ],
+                "target_birth_date": 1338227437,
+                "content": "#Tempest OS 1.2 is available now!\nFeatures added:\nPolyphonic MIDI keyboard play\nUndo Record\nSound Bank B\nOdd time... http://t.co/SNejRYUn",
+                "mytype": "tweet",
+                "score": 8.413565,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/881553298/DSI_Logo_black_normal.jpg",
+                "trackback_permalink": "http://twitter.com/DaveSmithInst/status/207167005281878017",
+                "trackback_author_url": "http://twitter.com/davesmithinst",
+                "highlight": "#Tempest OS 1.2 is available now! Features added: Polyphonic MIDI keyboard play Undo Record Sound Bank B Odd time",
+                "topsy_author_url": "http://topsy.com/twitter/davesmithinst",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/davesmithinst/status/207167005281878017",
+                "trackback_author_name": "DaveSmithInstruments",
+                "trackback_author_nick": "davesmithinst"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1347390081,
+                "title": "Speaking of @BobDylan ... his 35th studio album is now available! Get your copy of #Tempest now: http://t.co/IYVWeg9S",
+                "url": "http://twitter.com/sony_music/status/245597918218821632",
+                "trackback_date": 1347390081,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/IYVWeg9S",
+                        "display_url": "bit.ly/RCQtfX",
+                        "expanded_url": "http://bit.ly/RCQtfX",
+                        "topsy_expanded_url": "http://smarturl.it/tempestitunes"
+                    }
+                ],
+                "target_birth_date": 1347390081,
+                "content": "Speaking of @BobDylan ... his 35th studio album is now available! Get your copy of #Tempest now: http://t.co/IYVWeg9S",
+                "mytype": "tweet",
+                "score": 8.413179,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2181658595/Screen_Shot_2012-05-01_at_10.01.26_AM_normal.png",
+                "trackback_permalink": "http://twitter.com/Sony_Music/status/245597918218821632",
+                "trackback_author_url": "http://twitter.com/sony_music",
+                "highlight": "Speaking of @BobDylan ... his 35th studio album is now available! Get your copy of #Tempest now:",
+                "topsy_author_url": "http://topsy.com/twitter/sony_music",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sony_music/status/245597918218821632",
+                "trackback_author_name": "Sony Music Canada",
+                "trackback_author_nick": "sony_music"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1363613945,
+                "title": "#Tempest #CastFacts Matthew Raymond appeared in Torchwood.",
+                "url": "http://twitter.com/the_globe/status/313645735407124480",
+                "trackback_date": 1363613945,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1363613945,
+                "content": "#Tempest #CastFacts Matthew Raymond appeared in Torchwood.",
+                "mytype": "tweet",
+                "score": 8.409318,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419153613785542656/Vlfe9s_M_normal.png",
+                "trackback_permalink": "http://twitter.com/The_Globe/status/313645735407124480",
+                "trackback_author_url": "http://twitter.com/the_globe",
+                "highlight": "#Tempest #CastFacts Matthew Raymond appeared in Torchwood.",
+                "topsy_author_url": "http://topsy.com/twitter/the_globe",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/the_globe/status/313645735407124480",
+                "trackback_author_name": "Shakespeare's Globe",
+                "trackback_author_nick": "the_globe"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1358799602,
+                "title": "Oh @Atari. http://t.co/2P5SlaVi\n#tempest\n#battlezone\n#starwars\n#centipede\n#pitfall\n#asteroids\n#marblemadness\n#gravitar\n#pong\n#gauntlet",
+                "url": "http://twitter.com/mikko/status/293452918126952448",
+                "trackback_date": 1358799602,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2P5SlaVi",
+                        "display_url": "money.cnn.com/2013/01/21/tec\u2026",
+                        "expanded_url": "http://money.cnn.com/2013/01/21/technology/atari-bankrupt/index.html",
+                        "topsy_expanded_url": "http://money.cnn.com/2013/01/21/technology/atari-bankrupt/"
+                    }
+                ],
+                "target_birth_date": 1358799602,
+                "content": "Oh @Atari. http://t.co/2P5SlaVi\n#tempest\n#battlezone\n#starwars\n#centipede\n#pitfall\n#asteroids\n#marblemadness\n#gravitar\n#pong\n#gauntlet",
+                "mytype": "tweet",
+                "score": 8.408345,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000408665656/55c2b354ce18b37b6fe2f5ecdf04fa85_normal.png",
+                "trackback_permalink": "http://twitter.com/mikko/status/293452918126952448",
+                "trackback_author_url": "http://twitter.com/mikko",
+                "highlight": "Oh @Atari. #tempest #battlezone #starwars #centipede #pitfall #asteroids #marblemadness #gravitar #pong",
+                "topsy_author_url": "http://topsy.com/twitter/mikko",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mikko/status/293452918126952448",
+                "trackback_author_name": "Mikko Hypponen",
+                "trackback_author_nick": "mikko"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 300,
+        "hidden": 0,
+        "total": 43486,
+        "page": 1
+    }
+}

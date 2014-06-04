@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23tempest&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=380",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#tempest",
+            "window": "a",
+            "type": "tweet",
+            "offset": "380"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 4,
+                "firstpost_date": 1370974549,
+                "title": "#Tempest featured in @mountkimbie's 'So Many Times, So Many Ways' @boilerroomtv LIVE Show! http://t.co/tfl6y2eXJf",
+                "url": "http://twitter.com/davesmithinst/status/344518349180526592",
+                "trackback_date": 1370974549,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/tfl6y2eXJf",
+                        "display_url": "youtu.be/C5NwAOFfNkk",
+                        "expanded_url": "http://youtu.be/C5NwAOFfNkk",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=C5NwAOFfNkk"
+                    }
+                ],
+                "target_birth_date": 1370974549,
+                "content": "#Tempest featured in @mountkimbie's 'So Many Times, So Many Ways' @boilerroomtv LIVE Show! http://t.co/tfl6y2eXJf",
+                "mytype": "tweet",
+                "score": 8.311017,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/881553298/DSI_Logo_black_normal.jpg",
+                "trackback_permalink": "http://twitter.com/DaveSmithInst/status/344518349180526592",
+                "trackback_author_url": "http://twitter.com/davesmithinst",
+                "highlight": "#Tempest featured in @mountkimbie's 'So Many Times, So Many Ways' @boilerroomtv LIVE Show!",
+                "topsy_author_url": "http://topsy.com/twitter/davesmithinst",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/davesmithinst/status/344518349180526592",
+                "trackback_author_name": "DaveSmithInstruments",
+                "trackback_author_nick": "davesmithinst"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1367585181,
+                "title": "RT @The_Globe: #Tempest http://t.co/uHfTPUqQ1s",
+                "url": "http://twitter.com/team_merlin/status/330302308279779330",
+                "trackback_date": 1367585181,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/uHfTPUqQ1s",
+                        "expanded_url": "http://yfrog.com/nu1gqhqj",
+                        "display_url": "yfrog.com/nu1gqhqj"
+                    }
+                ],
+                "target_birth_date": 1367585181,
+                "content": "RT @The_Globe: #Tempest http://t.co/uHfTPUqQ1s",
+                "mytype": "tweet",
+                "score": 8.310743,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473089734504243202/F-Z4Jyha_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Team_Merlin/status/330302308279779330",
+                "trackback_author_url": "http://twitter.com/team_merlin",
+                "highlight": "#Tempest",
+                "topsy_author_url": "http://topsy.com/twitter/team_merlin",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/team_merlin/status/330302308279779330",
+                "trackback_author_name": "Team_Merlin",
+                "trackback_author_nick": "team_merlin"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1361995516,
+                "title": "Nice #tutorial on creating #analog drums on #Tempest, good finger drumming too! http://t.co/VNVrsLPyeP",
+                "url": "http://twitter.com/davesmithinst/status/306857551381794817",
+                "trackback_date": 1361995516,
+                "trackback_total": 3,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/VNVrsLPyeP",
+                        "display_url": "youtube.com/watch?v=AGYy51\u2026",
+                        "expanded_url": "http://www.youtube.com/watch?v=AGYy51Bj-qM&feature=share&list=UUIoqfs4gmM39y4TwPDDIVIA",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=AGYy51Bj-qM&feature=share&list=UUIoqfs4gmM39y4TwPDDIVIA"
+                    }
+                ],
+                "target_birth_date": 1361995516,
+                "content": "Nice #tutorial on creating #analog drums on #Tempest, good finger drumming too! http://t.co/VNVrsLPyeP",
+                "mytype": "tweet",
+                "score": 8.310431,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/881553298/DSI_Logo_black_normal.jpg",
+                "trackback_permalink": "http://twitter.com/DaveSmithInst/status/306857551381794817",
+                "trackback_author_url": "http://twitter.com/davesmithinst",
+                "highlight": "Nice #tutorial on creating #analog drums on #Tempest, good finger drumming too!",
+                "topsy_author_url": "http://topsy.com/twitter/davesmithinst",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/davesmithinst/status/306857551381794817",
+                "trackback_author_name": "DaveSmithInstruments",
+                "trackback_author_nick": "davesmithinst"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1347190005,
+                "title": "V\u00eda Taringa, las letras de #Tempest en espa\u00f1ol http://t.co/C6fIFlxk #bobdylan",
+                "url": "http://twitter.com/blogpocket/status/244758739704500226",
+                "trackback_date": 1347190005,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/C6fIFlxk",
+                        "display_url": "tmblr.co/ZEqxbyT3Abkv",
+                        "expanded_url": "http://tmblr.co/ZEqxbyT3Abkv",
+                        "topsy_expanded_url": "http://tmblr.co/ZEqxbyT3Abkv"
+                    }
+                ],
+                "target_birth_date": 1347190005,
+                "content": "V\u00eda Taringa, las letras de #Tempest en espa\u00f1ol http://t.co/C6fIFlxk #bobdylan",
+                "mytype": "tweet",
+                "score": 8.310425,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3033845179/47f82c409d8fa2e00f5e40ca2d69049d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/blogpocket/status/244758739704500226",
+                "trackback_author_url": "http://twitter.com/blogpocket",
+                "highlight": "V\u00eda Taringa, las letras de #Tempest en espa\u00f1ol",
+                "topsy_author_url": "http://topsy.com/twitter/blogpocket",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/blogpocket/status/244758739704500226",
+                "trackback_author_name": "Antonio Cambronero",
+                "trackback_author_nick": "blogpocket"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1327238357,
+                "title": "http://t.co/swNIZUAH #savage #tempest Savage Tempest",
+                "url": "http://twitter.com/pulistbook/status/161075463438082048",
+                "trackback_date": 1327238357,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/swNIZUAH",
+                        "display_url": "pulist.net/savage-tempest\u2026",
+                        "expanded_url": "http://www.pulist.net/savage-tempest.html",
+                        "topsy_expanded_url": "http://www.pulist.net/savage-tempest.html"
+                    }
+                ],
+                "target_birth_date": 1327238357,
+                "content": "http://t.co/swNIZUAH #savage #tempest Savage Tempest",
+                "mytype": "tweet",
+                "score": 8.310106,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/429631840744271872/dyDx4MG8_normal.png",
+                "trackback_permalink": "http://twitter.com/pulistbook/status/161075463438082048",
+                "trackback_author_url": "http://twitter.com/pulistbook",
+                "highlight": " #savage #tempest Savage Tempest",
+                "topsy_author_url": "http://topsy.com/twitter/pulistbook",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/pulistbook/status/161075463438082048",
+                "trackback_author_name": "Pulist",
+                "trackback_author_nick": "pulistbook"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1300800416,
+                "title": "Obama's portable faraday cage: http://www.bbc.co.uk/news/world-us-canada-12810675 #TEMPEST",
+                "url": "http://twitter.com/sneakatdatavibe/status/50186700072288256",
+                "trackback_date": 1300800416,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1300800416,
+                "content": "Obama's portable faraday cage: http://www.bbc.co.uk/news/world-us-canada-12810675 #TEMPEST",
+                "mytype": "tweet",
+                "score": 8.308169,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2379882732/lpzstc3rgaohhuvnkiz8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/sneakatdatavibe/status/50186700072288256",
+                "trackback_author_url": "http://twitter.com/sneakatdatavibe",
+                "highlight": "Obama's portable faraday cage:",
+                "topsy_author_url": "http://topsy.com/twitter/sneakatdatavibe",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sneakatdatavibe/status/50186700072288256",
+                "trackback_author_name": "Jeffrey Paul",
+                "trackback_author_nick": "sneakatdatavibe"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1340462901,
+                "title": "iTunes shuffle stumbled across this...Good times... #PRR #tempest\n\nhttp://t.co/sV8EUnyJ",
+                "url": "http://twitter.com/jamiewillcox/status/216543220111384577",
+                "trackback_date": 1340462901,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/sV8EUnyJ",
+                        "display_url": "youtube.com/watch?v=BFI8dM\u2026",
+                        "expanded_url": "http://www.youtube.com/watch?v=BFI8dM08EWE",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=BFI8dM08EWE"
+                    }
+                ],
+                "target_birth_date": 1340462901,
+                "content": "iTunes shuffle stumbled across this...Good times... #PRR #tempest\n\nhttp://t.co/sV8EUnyJ",
+                "mytype": "tweet",
+                "score": 8.308097,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000047956443/3f388fe8cd0a8cefa806f0961a57f44b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JamieWillcox/status/216543220111384577",
+                "trackback_author_url": "http://twitter.com/jamiewillcox",
+                "highlight": "iTunes shuffle stumbled across this...Good times... #PRR #tempest",
+                "topsy_author_url": "http://topsy.com/twitter/jamiewillcox",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jamiewillcox/status/216543220111384577",
+                "trackback_author_name": "Willcox",
+                "trackback_author_nick": "jamiewillcox"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1376442308,
+                "title": "INTRODUCING #LasciviousLady #TEMPEST. For booking inquiries/more info email info.lasciviousladies@gmail.com http://t.co/mhlJXG57oR",
+                "url": "http://twitter.com/lasciviousl_ent/status/367451791920594944",
+                "trackback_date": 1376442308,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/mhlJXG57oR",
+                        "display_url": "pic.twitter.com/mhlJXG57oR",
+                        "expanded_url": "http://twitter.com/LasciviousL_ENT/status/367451791920594944/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BRlzdTnCAAA0RaX.jpg"
+                    }
+                ],
+                "target_birth_date": 1376442308,
+                "content": "INTRODUCING #LasciviousLady #TEMPEST. For booking inquiries/more info email info.lasciviousladies@gmail.com http://t.co/mhlJXG57oR",
+                "mytype": "tweet",
+                "score": 8.307287,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000197856067/8212003663cddedb18c456e553994eba_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LasciviousL_ENT/status/367451791920594944",
+                "trackback_author_url": "http://twitter.com/lasciviousl_ent",
+                "highlight": "INTRODUCING #LasciviousLady #TEMPEST. For booking inquiries/more info email info.lasciviousladies@gmail.com",
+                "topsy_author_url": "http://topsy.com/twitter/lasciviousl_ent",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lasciviousl_ent/status/367451791920594944",
+                "trackback_author_name": "LasciviousLadies ENT",
+                "trackback_author_nick": "lasciviousl_ent"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1400844291,
+                "title": "Congratulations to @HegartyMichael, winner of our #Tempest RT cinema competition. Please get in touch so we can arrange your prize.",
+                "url": "http://twitter.com/the_globe/status/469801127060320257",
+                "trackback_date": 1400844291,
+                "trackback_total": 3,
+                "url_expansions": [],
+                "target_birth_date": 1400844291,
+                "content": "Congratulations to @HegartyMichael, winner of our #Tempest RT cinema competition. Please get in touch so we can arrange your prize.",
+                "mytype": "tweet",
+                "score": 8.306961,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419153613785542656/Vlfe9s_M_normal.png",
+                "trackback_permalink": "http://twitter.com/The_Globe/status/469801127060320257",
+                "trackback_author_url": "http://twitter.com/the_globe",
+                "highlight": "Congratulations to @HegartyMichael, winner of our #Tempest RT cinema competition. Please get in touch so we can arrange your prize.",
+                "topsy_author_url": "http://topsy.com/twitter/the_globe",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/the_globe/status/469801127060320257",
+                "trackback_author_name": "Shakespeare's Globe",
+                "trackback_author_nick": "the_globe"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1346279492,
+                "title": "'Oh brave new world that has such people in it...' #Tempest #Paralympics",
+                "url": "http://twitter.com/paulclammer/status/240939771512381441",
+                "trackback_date": 1346279492,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1346279492,
+                "content": "'Oh brave new world that has such people in it...' #Tempest #Paralympics",
+                "mytype": "tweet",
+                "score": 8.306748,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000720000179/94197ae2f2e032e4fca35d49028595c0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/paulclammer/status/240939771512381441",
+                "trackback_author_url": "http://twitter.com/paulclammer",
+                "highlight": "'Oh brave new world that has such people in it...' #Tempest",
+                "topsy_author_url": "http://topsy.com/twitter/paulclammer",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/paulclammer/status/240939771512381441",
+                "trackback_author_name": "Paul Clammer",
+                "trackback_author_nick": "paulclammer"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 380,
+        "hidden": 0,
+        "total": 43828,
+        "page": 1
+    }
+}
