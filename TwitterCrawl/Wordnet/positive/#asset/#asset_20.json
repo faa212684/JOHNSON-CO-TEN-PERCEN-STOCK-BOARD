@@ -1,0 +1,290 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23asset&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=20",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#asset",
+            "window": "a",
+            "type": "tweet",
+            "offset": "20"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 3,
+                "firstpost_date": 1296987687,
+                "title": "A person\u2019s most useful #asset is a #heart full of #love, an ear open to listen and a hand with a #willingness to help.",
+                "url": "http://twitter.com/ghostdevil/status/34194955358437376",
+                "trackback_date": 1296987687,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1296987687,
+                "content": "A person\u2019s most useful #asset is a #heart full of #love, an ear open to listen and a hand with a #willingness to help.",
+                "mytype": "tweet",
+                "score": 8.951557,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1530876798/sonu_normal.jpg",
+                "trackback_permalink": "http://twitter.com/ghostdevil/status/34194955358437376",
+                "trackback_author_url": "http://twitter.com/ghostdevil",
+                "highlight": "A person\u2019s most useful #asset is a #heart full of #love, an ear open to listen and a hand with a #willingness to help.",
+                "topsy_author_url": "http://topsy.com/twitter/ghostdevil",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ghostdevil/status/34194955358437376",
+                "trackback_author_name": "GHOST DEVIL",
+                "trackback_author_nick": "ghostdevil"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1401765306,
+                "title": "#Asset managers: Want to achieve better performance of AUM? How digital transformation can help: http://t.co/Lu8K6wtVnT",
+                "url": "http://twitter.com/accenture/status/473664141513994240",
+                "trackback_date": 1401765306,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Lu8K6wtVnT",
+                        "display_url": "bit.ly/1iNDfWV",
+                        "expanded_url": "http://bit.ly/1iNDfWV",
+                        "topsy_expanded_url": "http://www.accenture.com/us-en/blogs/accenture-wealth-and-asset-management-blog/archive/2014/05/28/digital-transformation-an-opportunity-asset-managers-cant-ignore-2-of-2.aspx?cid=fs_cmblogfy14_10000043_smc_0913"
+                    }
+                ],
+                "target_birth_date": 1401765306,
+                "content": "#Asset managers: Want to achieve better performance of AUM? How digital transformation can help: http://t.co/Lu8K6wtVnT",
+                "mytype": "tweet",
+                "score": 8.947162,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459719895714779138/L8XXMCnq_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Accenture/status/473664141513994240",
+                "trackback_author_url": "http://twitter.com/accenture",
+                "highlight": "#Asset managers: Want to achieve better performance of AUM? How digital transformation can help:",
+                "topsy_author_url": "http://topsy.com/twitter/accenture",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/accenture/status/473664141513994240",
+                "trackback_author_name": "Accenture",
+                "trackback_author_nick": "accenture"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1401843749,
+                "title": "Self Confidence is on my balance sheet. #Asset #10X http://t.co/9yZVOqCkGS",
+                "url": "http://twitter.com/grantcardone/status/473993155235176448",
+                "trackback_date": 1401843749,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9yZVOqCkGS",
+                        "display_url": "youtu.be/38fR2slowPc",
+                        "expanded_url": "http://youtu.be/38fR2slowPc",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=38fR2slowPc&feature=youtu.be"
+                    }
+                ],
+                "target_birth_date": 1401843749,
+                "content": "Self Confidence is on my balance sheet. #Asset #10X http://t.co/9yZVOqCkGS",
+                "mytype": "tweet",
+                "score": 8.9407215,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/448983610834427904/fb3Jf3i3_normal.png",
+                "trackback_permalink": "http://twitter.com/GrantCardone/status/473993155235176448",
+                "trackback_author_url": "http://twitter.com/grantcardone",
+                "highlight": "Self Confidence is on my balance sheet. #Asset #10X",
+                "topsy_author_url": "http://topsy.com/twitter/grantcardone",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/grantcardone/status/473993155235176448",
+                "trackback_author_name": "Grant Cardone",
+                "trackback_author_nick": "grantcardone"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1342800238,
+                "title": "Dalam membeli alat, jangan hanya memikirkan kualitas suara, tp jg ketahanan produk, terutama jika digunakan secara rutin. #asset",
+                "url": "http://twitter.com/audio_station/status/226346720777342976",
+                "trackback_date": 1342800238,
+                "trackback_total": 10,
+                "url_expansions": [],
+                "target_birth_date": 1342800238,
+                "content": "Dalam membeli alat, jangan hanya memikirkan kualitas suara, tp jg ketahanan produk, terutama jika digunakan secara rutin. #asset",
+                "mytype": "tweet",
+                "score": 8.919956,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473643366949720064/NJ8u13me_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/audio_station/status/226346720777342976",
+                "trackback_author_url": "http://twitter.com/audio_station",
+                "highlight": "Dalam membeli alat, jangan hanya memikirkan kualitas suara, tp jg ketahanan produk, terutama jika digunakan secara rutin.",
+                "topsy_author_url": "http://topsy.com/twitter/audio_station",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/audio_station/status/226346720777342976",
+                "trackback_author_name": "audio station",
+                "trackback_author_nick": "audio_station"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1394871741,
+                "title": "World's largest #pension fund starts shifting its #asset allocation #investment http://t.co/yjoHlMVPNK",
+                "url": "http://twitter.com/pensionactually/status/444750435040374784",
+                "trackback_date": 1394871741,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/yjoHlMVPNK",
+                        "display_url": "economist.com/news/finance-a\u2026",
+                        "expanded_url": "http://www.economist.com/news/finance-and-economics/21599056-worlds-largest-pension-fund-changing-way-it-invests-big",
+                        "topsy_expanded_url": "http://www.economist.com/news/finance-and-economics/21599056-worlds-largest-pension-fund-changing-way-it-invests-big"
+                    }
+                ],
+                "target_birth_date": 1394871741,
+                "content": "World's largest #pension fund starts shifting its #asset allocation #investment http://t.co/yjoHlMVPNK",
+                "mytype": "tweet",
+                "score": 8.919039,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1645050136/JL_normal.jpg",
+                "trackback_permalink": "http://twitter.com/pensionactually/status/444750435040374784",
+                "trackback_author_url": "http://twitter.com/pensionactually",
+                "highlight": "World's largest #pension fund starts shifting its #asset allocation #investment",
+                "topsy_author_url": "http://topsy.com/twitter/pensionactually",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/pensionactually/status/444750435040374784",
+                "trackback_author_name": "Jeremy Lee",
+                "trackback_author_nick": "pensionactually"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1385411408,
+                "title": "Coming soon: The guidance statement for applying the @GIPS Standards to #asset owners http://t.co/pq3QW0cApp",
+                "url": "http://twitter.com/cfainstitute/status/405070922576457728",
+                "trackback_date": 1385411408,
+                "trackback_total": 24,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/pq3QW0cApp",
+                        "display_url": "cfa.is/I2hQxz",
+                        "expanded_url": "http://cfa.is/I2hQxz",
+                        "topsy_expanded_url": "http://blogs.cfainstitute.org/marketintegrity/2013/11/18/coming-soon-guidance-statement-for-applying-the-gips-standards-to-asset-owners/"
+                    }
+                ],
+                "target_birth_date": 1385411408,
+                "content": "Coming soon: The guidance statement for applying the @GIPS Standards to #asset owners http://t.co/pq3QW0cApp",
+                "mytype": "tweet",
+                "score": 8.899271,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459726820858802176/mXad4Yph_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CFAinstitute/status/405070922576457728",
+                "trackback_author_url": "http://twitter.com/cfainstitute",
+                "highlight": "Coming soon: The guidance statement for applying the @GIPS Standards to #asset owners",
+                "topsy_author_url": "http://topsy.com/twitter/cfainstitute",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cfainstitute/status/405070922576457728",
+                "trackback_author_name": "CFA Institute",
+                "trackback_author_nick": "cfainstitute"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1387210538,
+                "title": "We\u2019re celebrating winter at the #Asset Store! Get great deals on our coolest assets before they melt away: http://t.co/9bKVGtXcOL",
+                "url": "http://twitter.com/unity3d/status/412617021890002944",
+                "trackback_date": 1387210538,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9bKVGtXcOL",
+                        "display_url": "bit.ly/ASwinter",
+                        "expanded_url": "http://bit.ly/ASwinter",
+                        "topsy_expanded_url": "https://www.assetstore.unity3d.com/"
+                    }
+                ],
+                "target_birth_date": 1387210538,
+                "content": "We\u2019re celebrating winter at the #Asset Store! Get great deals on our coolest assets before they melt away: http://t.co/9bKVGtXcOL",
+                "mytype": "tweet",
+                "score": 8.8837,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473443436171776000/HoFfZbzI_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/unity3d/status/412617021890002944",
+                "trackback_author_url": "http://twitter.com/unity3d",
+                "highlight": "We\u2019re celebrating winter at the #Asset Store! Get great deals on our coolest assets before they melt away:",
+                "topsy_author_url": "http://topsy.com/twitter/unity3d",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/unity3d/status/412617021890002944",
+                "trackback_author_name": "Unity Technologies",
+                "trackback_author_nick": "unity3d"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1315605405,
+                "title": "#WHOOTY #ASSET #PINKCESS http://t.co/jyIMLyW",
+                "url": "http://twitter.com/kimmyolsenxxx/status/112283324734636032",
+                "trackback_date": 1315605405,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jyIMLyW",
+                        "display_url": "twitpic.com/6igr3k",
+                        "expanded_url": "http://twitpic.com/6igr3k",
+                        "topsy_expanded_url": "http://twitpic.com/6igr3k"
+                    }
+                ],
+                "target_birth_date": 1315605405,
+                "content": "#WHOOTY #ASSET #PINKCESS http://t.co/jyIMLyW",
+                "mytype": "tweet",
+                "score": 8.880547,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468504850997972993/GrW2UZd9_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/KimmyOlsenXXX/status/112283324734636032",
+                "trackback_author_url": "http://twitter.com/kimmyolsenxxx",
+                "highlight": "#WHOOTY #ASSET #PINKCESS",
+                "topsy_author_url": "http://topsy.com/twitter/kimmyolsenxxx",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kimmyolsenxxx/status/112283324734636032",
+                "trackback_author_name": "Kimmy Olsen",
+                "trackback_author_nick": "kimmyolsenxxx"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1323195242,
+                "title": "Whootay #asset  http://t.co/s0Cvt1oy",
+                "url": "http://twitter.com/kimmyolsenxxx/status/144117407181574144",
+                "trackback_date": 1323195242,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/s0Cvt1oy",
+                        "display_url": "mypict.me/moUEz",
+                        "expanded_url": "http://mypict.me/moUEz",
+                        "topsy_expanded_url": "http://mypict.me/index.php?id=331017043"
+                    }
+                ],
+                "target_birth_date": 1323195242,
+                "content": "Whootay #asset  http://t.co/s0Cvt1oy",
+                "mytype": "tweet",
+                "score": 8.876965,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468504850997972993/GrW2UZd9_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/KimmyOlsenXXX/status/144117407181574144",
+                "trackback_author_url": "http://twitter.com/kimmyolsenxxx",
+                "highlight": "Whootay #asset",
+                "topsy_author_url": "http://topsy.com/twitter/kimmyolsenxxx",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kimmyolsenxxx/status/144117407181574144",
+                "trackback_author_name": "Kimmy Olsen",
+                "trackback_author_nick": "kimmyolsenxxx"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1352458251,
+                "title": "\uff32\uff25\uff34\uff37\uff25\uff25\uff34 \uff29\uff26 \uff39\uff2f\uff35 \uff26\uff2f\uff2c\uff2c\uff2f\uff37 \uff22\uff21\uff23\uff2b #TeamFollowBack \u2714#BillionDollarArt #Auction\u27bdhttp://t.co/7SovEB0R #UK #EU #Most #Valued #Asset",
+                "url": "http://twitter.com/9tut9/status/266855362873917440",
+                "trackback_date": 1352458251,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7SovEB0R",
+                        "display_url": "pharopromo.com/rhinoceros.html",
+                        "expanded_url": "http://www.pharopromo.com/rhinoceros.html",
+                        "topsy_expanded_url": "http://www.pharopromo.com/rhinoceros.html"
+                    }
+                ],
+                "target_birth_date": 1352458251,
+                "content": "\uff32\uff25\uff34\uff37\uff25\uff25\uff34 \uff29\uff26 \uff39\uff2f\uff35 \uff26\uff2f\uff2c\uff2c\uff2f\uff37 \uff22\uff21\uff23\uff2b #TeamFollowBack \u2714#BillionDollarArt #Auction\u27bdhttp://t.co/7SovEB0R #UK #EU #Most #Valued #Asset",
+                "mytype": "tweet",
+                "score": 8.874987,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/431102105336545280/4fx_xhPT_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/9TUT9/status/266855362873917440",
+                "trackback_author_url": "http://twitter.com/karynne_summars",
+                "highlight": "\uff32\uff25\uff34\uff37\uff25\uff25\uff34 \uff29\uff26 \uff39\uff2f\uff35 \uff26\uff2f\uff2c\uff2c\uff2f\uff37 \uff22\uff21\uff23\uff2b #TeamFollowBack \u2714#BillionDollarArt #Auction\u27bd #UK #EU #Most #Valued",
+                "topsy_author_url": "http://topsy.com/twitter/karynne_summars",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/9tut9/status/266855362873917440",
+                "trackback_author_name": "Karynne Summars",
+                "trackback_author_nick": "karynne_summars"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 20,
+        "hidden": 0,
+        "total": 45263,
+        "page": 1
+    }
+}

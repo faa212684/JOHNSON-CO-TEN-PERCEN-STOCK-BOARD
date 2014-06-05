@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23rationalist&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=500",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#rationalist",
+            "window": "a",
+            "type": "tweet",
+            "offset": "500"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1358619054,
+                "title": "#repost #rationalist #dtla #losangeles http://t.co/5H4sDFaQ",
+                "url": "http://twitter.com/istevendesign/status/292695643191922688",
+                "trackback_date": 1358619054,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/5H4sDFaQ",
+                        "display_url": "instagr.am/p/UrMXJGsmT4/",
+                        "expanded_url": "http://instagr.am/p/UrMXJGsmT4/",
+                        "topsy_expanded_url": "http://instagram.com/p/UrMXJGsmT4/"
+                    }
+                ],
+                "target_birth_date": 1358619054,
+                "content": "#repost #rationalist #dtla #losangeles http://t.co/5H4sDFaQ",
+                "mytype": "tweet",
+                "score": 4.954649,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1246802487/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/istevendesign/status/292695643191922688",
+                "trackback_author_url": "http://twitter.com/janicepaik",
+                "highlight": "#repost #rationalist #dtla #losangeles",
+                "topsy_author_url": "http://topsy.com/twitter/janicepaik",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/istevendesign/status/292695643191922688",
+                "trackback_author_name": "janicepaik",
+                "trackback_author_nick": "janicepaik"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1359489026,
+                "title": "#rationalist #idealist #truth http://t.co/aKrTKQAF",
+                "url": "http://twitter.com/elrubenleyva/status/296344571858796545",
+                "trackback_date": 1359489026,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/aKrTKQAF",
+                        "display_url": "instagr.am/p/VFHt8xvy0Z/",
+                        "expanded_url": "http://instagr.am/p/VFHt8xvy0Z/",
+                        "topsy_expanded_url": "http://instagram.com/p/VFHt8xvy0Z/"
+                    }
+                ],
+                "target_birth_date": 1359489026,
+                "content": "#rationalist #idealist #truth http://t.co/aKrTKQAF",
+                "mytype": "tweet",
+                "score": 4.95455,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000768855489/e28fce13714f84d2ec2b32584a3d03ba_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/elrubenleyva/status/296344571858796545",
+                "trackback_author_url": "http://twitter.com/elrubenleyva",
+                "highlight": "#rationalist #idealist #truth",
+                "topsy_author_url": "http://topsy.com/twitter/elrubenleyva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/elrubenleyva/status/296344571858796545",
+                "trackback_author_name": "Rubencito",
+                "trackback_author_nick": "elrubenleyva"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1359258736,
+                "title": "Just posted a new #rationalist blog post. http://t.co/LusGUulq",
+                "url": "http://twitter.com/rationalist_aus/status/295378666597273602",
+                "trackback_date": 1359258736,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/LusGUulq",
+                        "display_url": "gd.is/sT5Mhk",
+                        "expanded_url": "http://gd.is/sT5Mhk",
+                        "topsy_expanded_url": "http://www.rationalist.com.au/new/yet-another-attempt-to-explain-suffering/"
+                    }
+                ],
+                "target_birth_date": 1359258736,
+                "content": "Just posted a new #rationalist blog post. http://t.co/LusGUulq",
+                "mytype": "tweet",
+                "score": 4.95455,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3521956685/1573d1a7bc37f3e5bc3342905c5e3bb2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rationalist_aus/status/295378666597273602",
+                "trackback_author_url": "http://twitter.com/rationalist_aus",
+                "highlight": "Just posted a new #rationalist blog post.",
+                "topsy_author_url": "http://topsy.com/twitter/rationalist_aus",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rationalist_aus/status/295378666597273602",
+                "trackback_author_name": "Rationalist Society",
+                "trackback_author_nick": "rationalist_aus"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1357212936,
+                "title": "Hating is a waste of time coz it requires you to give a fuck about things that aren't worth the fucks you're giving. :D #Rationalist",
+                "url": "http://twitter.com/nitish_db10/status/286797957074939904",
+                "trackback_date": 1357212936,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1357212936,
+                "content": "Hating is a waste of time coz it requires you to give a fuck about things that aren't worth the fucks you're giving. :D #Rationalist",
+                "mytype": "tweet",
+                "score": 4.9517317,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3144971849/cbe05e58cc4fc7afa06335a51696650f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/nitish_db10/status/286797957074939904",
+                "trackback_author_url": "http://twitter.com/nitish_db10",
+                "highlight": "Hating is a waste of time coz it requires you to give a fuck about things that aren't worth the fucks you're giving. :D",
+                "topsy_author_url": "http://topsy.com/twitter/nitish_db10",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nitish_db10/status/286797957074939904",
+                "trackback_author_name": "Nitish",
+                "trackback_author_nick": "nitish_db10"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1350656388,
+                "title": "You skeptic you. #rationalist #abr",
+                "url": "http://twitter.com/b_keough/status/259297804260880385",
+                "trackback_date": 1350656388,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1350656388,
+                "content": "You skeptic you. #rationalist #abr",
+                "mytype": "tweet",
+                "score": 4.951095,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462941418156081152/2OEE5udH_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/b_keough/status/259297804260880385",
+                "trackback_author_url": "http://twitter.com/b_keough",
+                "highlight": "You skeptic you. #rationalist",
+                "topsy_author_url": "http://topsy.com/twitter/b_keough",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/b_keough/status/259297804260880385",
+                "trackback_author_name": "Keough",
+                "trackback_author_nick": "b_keough"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1246680123,
+                "title": "A site to visit if you're #Atheist or #Rationalist http://outcampaign.org/",
+                "url": "http://twitter.com/kevinarth/status/2464843527",
+                "trackback_date": 1246680123,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1246680123,
+                "content": "A site to visit if you're #Atheist or #Rationalist http://outcampaign.org/",
+                "mytype": "tweet",
+                "score": 4.9487214,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2823126457/016b486953e0da8c71a1de2f5e1c57d2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/kevinarth/status/2464843527",
+                "trackback_author_url": "http://twitter.com/kevinarth",
+                "highlight": "A site to visit if you're #Atheist or #Rationalist",
+                "topsy_author_url": "http://topsy.com/twitter/kevinarth",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kevinarth/status/2464843527",
+                "trackback_author_name": "Kevin Arth",
+                "trackback_author_nick": "kevinarth"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1359624304,
+                "title": "#idealist #rationalist #truth http://t.co/VYIS1DNP",
+                "url": "http://twitter.com/elrubenleyva/status/296911970651750400",
+                "trackback_date": 1359624304,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/VYIS1DNP",
+                        "display_url": "instagr.am/p/VJJxD-Py5t/",
+                        "expanded_url": "http://instagr.am/p/VJJxD-Py5t/",
+                        "topsy_expanded_url": "http://instagram.com/p/VJJxD-Py5t/"
+                    }
+                ],
+                "target_birth_date": 1359624304,
+                "content": "#idealist #rationalist #truth http://t.co/VYIS1DNP",
+                "mytype": "tweet",
+                "score": 4.9481134,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000768855489/e28fce13714f84d2ec2b32584a3d03ba_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/elrubenleyva/status/296911970651750400",
+                "trackback_author_url": "http://twitter.com/elrubenleyva",
+                "highlight": "#idealist #rationalist #truth",
+                "topsy_author_url": "http://topsy.com/twitter/elrubenleyva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/elrubenleyva/status/296911970651750400",
+                "trackback_author_name": "Rubencito",
+                "trackback_author_nick": "elrubenleyva"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1358705470,
+                "title": "The biggest assumption made by people: 'Our Government would never do that to us.' #rationalist",
+                "url": "http://twitter.com/openick/status/293058100733300736",
+                "trackback_date": 1358705470,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1358705470,
+                "content": "The biggest assumption made by people: 'Our Government would never do that to us.' #rationalist",
+                "mytype": "tweet",
+                "score": 4.9481134,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3123333243/11ee2aaaee9fd0452d8328587c7d322d_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/openick/status/293058100733300736",
+                "trackback_author_url": "http://twitter.com/openick",
+                "highlight": "The biggest assumption made by people: 'Our Government would never do that to us.'",
+                "topsy_author_url": "http://topsy.com/twitter/openick",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/openick/status/293058100733300736",
+                "trackback_author_name": "Nikhil Sharma",
+                "trackback_author_nick": "openick"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1389505961,
+                "title": "Just posted a new #rationalist blog post. http://t.co/zYW2zEI31D",
+                "url": "http://twitter.com/rationalist_aus/status/422244721184874496",
+                "trackback_date": 1389505961,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/zYW2zEI31D",
+                        "display_url": "goo.gl/B7Tfby",
+                        "expanded_url": "http://goo.gl/B7Tfby",
+                        "topsy_expanded_url": "http://www.rationalist.com.au/welcome-to-the-education-culture-wars/"
+                    }
+                ],
+                "target_birth_date": 1389505961,
+                "content": "Just posted a new #rationalist blog post. http://t.co/zYW2zEI31D",
+                "mytype": "tweet",
+                "score": 4.9478645,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3521956685/1573d1a7bc37f3e5bc3342905c5e3bb2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rationalist_aus/status/422244721184874496",
+                "trackback_author_url": "http://twitter.com/rationalist_aus",
+                "highlight": "Just posted a new #rationalist blog post.",
+                "topsy_author_url": "http://topsy.com/twitter/rationalist_aus",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rationalist_aus/status/422244721184874496",
+                "trackback_author_name": "Rationalist Society",
+                "trackback_author_nick": "rationalist_aus"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1357719785,
+                "title": "#funny #pitbull #music #rationalist http://t.co/iIPjZyXV",
+                "url": "http://twitter.com/elrubenleyva/status/288923836114665472",
+                "trackback_date": 1357719785,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/iIPjZyXV",
+                        "display_url": "instagr.am/p/UQZIKSPy0t/",
+                        "expanded_url": "http://instagr.am/p/UQZIKSPy0t/",
+                        "topsy_expanded_url": "http://instagram.com/p/UQZIKSPy0t/"
+                    }
+                ],
+                "target_birth_date": 1357719785,
+                "content": "#funny #pitbull #music #rationalist http://t.co/iIPjZyXV",
+                "mytype": "tweet",
+                "score": 4.947343,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000768855489/e28fce13714f84d2ec2b32584a3d03ba_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/elrubenleyva/status/288923836114665472",
+                "trackback_author_url": "http://twitter.com/elrubenleyva",
+                "highlight": "#funny #pitbull #music #rationalist",
+                "topsy_author_url": "http://topsy.com/twitter/elrubenleyva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/elrubenleyva/status/288923836114665472",
+                "trackback_author_name": "Rubencito",
+                "trackback_author_nick": "elrubenleyva"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 500,
+        "hidden": 0,
+        "total": 2065,
+        "page": 1
+    }
+}

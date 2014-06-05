@@ -1,0 +1,51 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23positively_charged&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#positively_charged",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1328628940,
+                "title": "#Range_Rover Sport: #Positively_Charged http://t.co/SkUZ7RDU #marketing",
+                "url": "http://twitter.com/allaboutmkt/status/166907989259862016",
+                "trackback_date": 1328628940,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/SkUZ7RDU",
+                        "display_url": "bit.ly/zqh4CP",
+                        "expanded_url": "http://bit.ly/zqh4CP",
+                        "topsy_expanded_url": "http://www.brandingmagazine.com/2012/02/07/range-rover-sport-positively-charged/"
+                    }
+                ],
+                "target_birth_date": 1328628940,
+                "content": "#Range_Rover Sport: #Positively_Charged http://t.co/SkUZ7RDU #marketing",
+                "mytype": "tweet",
+                "score": 5.0441613,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1403426871/Logo_normal.jpg",
+                "trackback_permalink": "http://twitter.com/allaboutmkt/status/166907989259862016",
+                "trackback_author_url": "http://twitter.com/allaboutmkt",
+                "highlight": "#Range_Rover Sport: #Positively_Charged",
+                "topsy_author_url": "http://topsy.com/twitter/allaboutmkt",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/allaboutmkt/status/166907989259862016",
+                "trackback_author_name": "All About Marketing",
+                "trackback_author_nick": "allaboutmkt"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

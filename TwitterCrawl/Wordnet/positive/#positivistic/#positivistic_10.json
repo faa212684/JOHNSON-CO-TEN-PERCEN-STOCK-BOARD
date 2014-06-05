@@ -1,0 +1,66 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23positivistic&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=10",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#positivistic",
+            "window": "a",
+            "type": "tweet",
+            "offset": "10"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1313776201,
+                "title": "\"Modus Tollens is as phony as the Logic of Falsification and as pure as #positivistic Brute facts.\" -- G.o.P. #contradistinction",
+                "url": "http://twitter.com/ipeepfreely/status/104611087449726977",
+                "trackback_date": 1313776201,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1313776201,
+                "content": "\"Modus Tollens is as phony as the Logic of Falsification and as pure as #positivistic Brute facts.\" -- G.o.P. #contradistinction",
+                "mytype": "tweet",
+                "score": 4.4465714,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/435323792332574720/uCqB9Qgo_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ipeepfreely/status/104611087449726977",
+                "trackback_author_url": "http://twitter.com/ipeepfreely",
+                "highlight": "\"Modus Tollens is as phony as the Logic of Falsification and as pure as #positivistic Brute facts.\" -- G.o.P.",
+                "topsy_author_url": "http://topsy.com/twitter/ipeepfreely",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ipeepfreely/status/104611087449726977",
+                "trackback_author_name": "Bradley S. Clark",
+                "trackback_author_nick": "ipeepfreely"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1353620108,
+                "title": "@suckerforred Deffo - us Welsh can move as well as the Kiwis and on Sat we r gonna prove it : ) #positivistic",
+                "url": "http://twitter.com/madamrygbi/status/271728547226341376",
+                "trackback_date": 1353620108,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1353620108,
+                "content": "@suckerforred Deffo - us Welsh can move as well as the Kiwis and on Sat we r gonna prove it : ) #positivistic",
+                "mytype": "tweet",
+                "score": 4.0641108,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3358073740/123fd563cf0eae7a0bff09d8dcc348cd_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/madamrygbi/status/271728547226341376",
+                "trackback_author_url": "http://twitter.com/madamrygbi",
+                "highlight": " Deffo - us Welsh can move as well as the Kiwis and on Sat we r gonna prove it : )",
+                "topsy_author_url": "http://topsy.com/twitter/madamrygbi",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/madamrygbi/status/271728547226341376",
+                "trackback_author_name": "Rhian Davies",
+                "trackback_author_nick": "madamrygbi"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 10,
+        "hidden": 0,
+        "total": 12,
+        "page": 1
+    }
+}

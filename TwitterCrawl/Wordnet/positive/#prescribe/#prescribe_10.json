@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23prescribe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=10",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#prescribe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "10"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 2,
+                "firstpost_date": 1330004587,
+                "title": "GPs 'to #prescribe #health #apps' http://t.co/Il2oVZvc #hcsm #HITsm #mhsm",
+                "url": "http://twitter.com/docforeman/status/172677873637916672",
+                "trackback_date": 1330004587,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Il2oVZvc",
+                        "display_url": "awe.sm/5gDlU",
+                        "expanded_url": "http://awe.sm/5gDlU",
+                        "topsy_expanded_url": "http://www.bbc.co.uk/news/health-17111092"
+                    }
+                ],
+                "target_birth_date": 1330004587,
+                "content": "GPs 'to #prescribe #health #apps' http://t.co/Il2oVZvc #hcsm #HITsm #mhsm",
+                "mytype": "tweet",
+                "score": 8.349298,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2925450022/9a7462c4b14d421d18ff6f209611c0cb_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DocForeman/status/172677873637916672",
+                "trackback_author_url": "http://twitter.com/docforeman",
+                "highlight": "GPs 'to #prescribe #health #apps' #hcsm #HITsm",
+                "topsy_author_url": "http://topsy.com/twitter/docforeman",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/docforeman/status/172677873637916672",
+                "trackback_author_name": "April Foreman",
+                "trackback_author_nick": "docforeman"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1266863611,
+                "title": "@JosephBananas #Prescribe",
+                "url": "http://twitter.com/meldubs/status/9487396293",
+                "trackback_date": 1266863611,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1266863611,
+                "content": "@JosephBananas #Prescribe",
+                "mytype": "tweet",
+                "score": 8.313591,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473313806387806208/W2rP63-y_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MelDubs/status/9487396293",
+                "trackback_author_url": "http://twitter.com/meldubs",
+                "highlight": "@JosephBananas #Prescribe",
+                "topsy_author_url": "http://topsy.com/twitter/meldubs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/meldubs/status/9487396293",
+                "trackback_author_name": "Mel Wade",
+                "trackback_author_nick": "meldubs"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1329505976,
+                "title": "@headlock life in the gutter / #prescribe  http://t.co/XMSwOCJF",
+                "url": "http://twitter.com/lowcard/status/170586544103628800",
+                "trackback_date": 1329505976,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XMSwOCJF",
+                        "display_url": "instagr.am/p/HHjmHgIqe-/",
+                        "expanded_url": "http://instagr.am/p/HHjmHgIqe-/",
+                        "topsy_expanded_url": "http://instagr.am/p/HHjmHgIqe-/"
+                    }
+                ],
+                "target_birth_date": 1329505976,
+                "content": "@headlock life in the gutter / #prescribe  http://t.co/XMSwOCJF",
+                "mytype": "tweet",
+                "score": 8.29259,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/101075115/lowcardlogo2ofclub_normal.jpg",
+                "trackback_permalink": "http://twitter.com/LOWCARD/status/170586544103628800",
+                "trackback_author_url": "http://twitter.com/lowcardmag",
+                "highlight": " life in the gutter / #prescribe",
+                "topsy_author_url": "http://topsy.com/twitter/lowcardmag",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lowcard/status/170586544103628800",
+                "trackback_author_name": "LOWCARDMAG",
+                "trackback_author_nick": "lowcardmag"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1307203578,
+                "title": "Doctors #prescribe the great outdoors as a medicine for life RT @RBGCanada: http://bit.ly/jCx5Ct... http://fb.me/wvXo3mjr",
+                "url": "http://twitter.com/macberry/status/77043507579203584",
+                "trackback_date": 1307203578,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1307203578,
+                "content": "Doctors #prescribe the great outdoors as a medicine for life RT @RBGCanada: http://bit.ly/jCx5Ct... http://fb.me/wvXo3mjr",
+                "mytype": "tweet",
+                "score": 8.271722,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000731616852/004b2bf2f039f570d49f5bd6706d819f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MacBerry/status/77043507579203584",
+                "trackback_author_url": "http://twitter.com/macberry",
+                "highlight": "Doctors #prescribe the great outdoors as a medicine for life",
+                "topsy_author_url": "http://topsy.com/twitter/macberry",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/macberry/status/77043507579203584",
+                "trackback_author_name": "William H\u00f6ch \uf8ff",
+                "trackback_author_nick": "macberry"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1372792994,
+                "title": "#Prescribe Your Own #Pills (Your #Doctor Will #ThankYou) http://t.co/ro8GCCDYKf",
+                "url": "http://twitter.com/ncpa/status/352145460523307009",
+                "trackback_date": 1372792994,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ro8GCCDYKf",
+                        "display_url": "linkedin.com/today/post/art\u2026",
+                        "expanded_url": "http://www.linkedin.com/today/post/article/20130630204346-107961-great-innovations-in-medicine-the-buffet",
+                        "topsy_expanded_url": "http://www.linkedin.com/today/post/article/20130630204346-107961-great-innovations-in-medicine-the-buffet"
+                    }
+                ],
+                "target_birth_date": 1372792994,
+                "content": "#Prescribe Your Own #Pills (Your #Doctor Will #ThankYou) http://t.co/ro8GCCDYKf",
+                "mytype": "tweet",
+                "score": 8.271414,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452129629168336896/Gh7YerOa_normal.png",
+                "trackback_permalink": "http://twitter.com/NCPA/status/352145460523307009",
+                "trackback_author_url": "http://twitter.com/ncpa",
+                "highlight": "#Prescribe Your Own #Pills (Your #Doctor Will #ThankYou)",
+                "topsy_author_url": "http://topsy.com/twitter/ncpa",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ncpa/status/352145460523307009",
+                "trackback_author_name": "NCPA",
+                "trackback_author_nick": "ncpa"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1326937911,
+                "title": "Can be very quick to #prescribe :( RT @yogileana: I see her point, she wants me safe, I want to be helped with lifestyle changes #s4PM",
+                "url": "http://twitter.com/nursefriendly/status/159815300286648320",
+                "trackback_date": 1326937911,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1326937911,
+                "content": "Can be very quick to #prescribe :( RT @yogileana: I see her point, she wants me safe, I want to be helped with lifestyle changes #s4PM",
+                "mytype": "tweet",
+                "score": 8.2660055,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1173523311/lopez.andrew.2010_normal.JPG",
+                "trackback_permalink": "http://twitter.com/nursefriendly/status/159815300286648320",
+                "trackback_author_url": "http://twitter.com/nursefriendly",
+                "highlight": "Can be very quick to #prescribe :(I see her point, she wants me safe, I want to be helped with lifestyle changes",
+                "topsy_author_url": "http://topsy.com/twitter/nursefriendly",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nursefriendly/status/159815300286648320",
+                "trackback_author_name": "Andrew Lopez, RN",
+                "trackback_author_nick": "nursefriendly"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1314795899,
+                "title": "http://t.co/8F1Omfi Telemedicine for Abortions #Video conferencing #doctors #patients #prescribe #abortion #pills #InsidersHealth #plsRT",
+                "url": "http://twitter.com/insidershealth/status/108888012892545024",
+                "trackback_date": 1314795899,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8F1Omfi",
+                        "display_url": "bit.ly/IHTVNEWS",
+                        "expanded_url": "http://bit.ly/IHTVNEWS",
+                        "topsy_expanded_url": "http://www.insidershealth.com/ihtv.html"
+                    }
+                ],
+                "target_birth_date": 1314795899,
+                "content": "http://t.co/8F1Omfi Telemedicine for Abortions #Video conferencing #doctors #patients #prescribe #abortion #pills #InsidersHealth #plsRT",
+                "mytype": "tweet",
+                "score": 8.248516,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2249111519/IH_social_Icon_250x250_normal.png",
+                "trackback_permalink": "http://twitter.com/InsidersHealth/status/108888012892545024",
+                "trackback_author_url": "http://twitter.com/insidershealth",
+                "highlight": " Telemedicine for Abortions #Video conferencing #doctors #patients #prescribe #abortion #pills #InsidersHealth",
+                "topsy_author_url": "http://topsy.com/twitter/insidershealth",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/insidershealth/status/108888012892545024",
+                "trackback_author_name": "Insiders Health",
+                "trackback_author_nick": "insidershealth"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1356717276,
+                "title": "Mr. LeanOnMe ... We don't see kno body @sbn_snackb0y \ud83d\udcaf #Prescribe http://t.co/wlFj1oUS",
+                "url": "http://twitter.com/sbn_waynetrain/status/284719009532899328",
+                "trackback_date": 1356717276,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/wlFj1oUS",
+                        "display_url": "instagr.am/p/TygIT5im3n/",
+                        "expanded_url": "http://instagr.am/p/TygIT5im3n/",
+                        "topsy_expanded_url": "http://instagram.com/p/TygIT5im3n/"
+                    }
+                ],
+                "target_birth_date": 1356717276,
+                "content": "Mr. LeanOnMe ... We don't see kno body @sbn_snackb0y \ud83d\udcaf #Prescribe http://t.co/wlFj1oUS",
+                "mytype": "tweet",
+                "score": 8.235608,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473233491073957889/0OR0qTna_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SBN_WayneTRAIN/status/284719009532899328",
+                "trackback_author_url": "http://twitter.com/arringt0n",
+                "highlight": "Mr. LeanOnMe ... We don't see kno body @sbn_snackb0y \ud83d\udcaf #Prescribe",
+                "topsy_author_url": "http://topsy.com/twitter/arringt0n",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sbn_waynetrain/status/284719009532899328",
+                "trackback_author_name": "snapAholics | CEO |",
+                "trackback_author_nick": "arringt0n"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1401724997,
+                "title": "Sample #prescribe crew http://t.co/b3hvr9ybhR",
+                "url": "http://twitter.com/adhd87/status/473495073426915328",
+                "trackback_date": 1401724997,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/b3hvr9ybhR",
+                        "display_url": "instagram.com/p/ov2fl9v4JH/",
+                        "expanded_url": "http://instagram.com/p/ov2fl9v4JH/",
+                        "topsy_expanded_url": "http://instagram.com/p/ov2fl9v4JH/"
+                    }
+                ],
+                "target_birth_date": 1401724997,
+                "content": "Sample #prescribe crew http://t.co/b3hvr9ybhR",
+                "mytype": "tweet",
+                "score": 8.22694,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/433694724700913665/HYOC9-vz_normal.png",
+                "trackback_permalink": "http://twitter.com/ADHD87/status/473495073426915328",
+                "trackback_author_url": "http://twitter.com/adhd87",
+                "highlight": "Sample #prescribe crew",
+                "topsy_author_url": "http://topsy.com/twitter/adhd87",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/adhd87/status/473495073426915328",
+                "trackback_author_name": "\u0134\u2206\u0178  \u2020  \u2211\u015e\u010c\u01fe ",
+                "trackback_author_nick": "adhd87"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1263696422,
+                "title": "Drink a glass of orange juice after taking medicine, 2enhance it's  absorption. #prescribe #health #tip via @docrajen",
+                "url": "http://twitter.com/sangitasri/status/7849187894",
+                "trackback_date": 1263696422,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1263696422,
+                "content": "Drink a glass of orange juice after taking medicine, 2enhance it's  absorption. #prescribe #health #tip via @docrajen",
+                "mytype": "tweet",
+                "score": 8.219947,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471618675208777728/4-ILNyBT_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SangitaSri/status/7849187894",
+                "trackback_author_url": "http://twitter.com/sangitasri",
+                "highlight": "Drink a glass of orange juice after taking medicine, 2enhance it's absorption. #prescribe #health #tip via @docrajen",
+                "topsy_author_url": "http://topsy.com/twitter/sangitasri",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sangitasri/status/7849187894",
+                "trackback_author_name": "Sangeetha ",
+                "trackback_author_nick": "sangitasri"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 10,
+        "hidden": 0,
+        "total": 795,
+        "page": 1
+    }
+}

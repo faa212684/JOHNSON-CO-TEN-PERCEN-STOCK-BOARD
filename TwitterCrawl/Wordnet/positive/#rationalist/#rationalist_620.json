@@ -1,0 +1,283 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23rationalist&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=620",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#rationalist",
+            "window": "a",
+            "type": "tweet",
+            "offset": "620"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1359845518,
+                "title": "#lessismore #idealist #rationalist http://t.co/IPoU36so",
+                "url": "http://twitter.com/elrubenleyva/status/297839807017676800",
+                "trackback_date": 1359845518,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/IPoU36so",
+                        "display_url": "instagr.am/p/VPvrFoPy1y/",
+                        "expanded_url": "http://instagr.am/p/VPvrFoPy1y/",
+                        "topsy_expanded_url": "http://instagram.com/p/VPvrFoPy1y/"
+                    }
+                ],
+                "target_birth_date": 1359845518,
+                "content": "#lessismore #idealist #rationalist http://t.co/IPoU36so",
+                "mytype": "tweet",
+                "score": 4.841807,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000768855489/e28fce13714f84d2ec2b32584a3d03ba_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/elrubenleyva/status/297839807017676800",
+                "trackback_author_url": "http://twitter.com/elrubenleyva",
+                "highlight": "#lessismore #idealist #rationalist",
+                "topsy_author_url": "http://topsy.com/twitter/elrubenleyva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/elrubenleyva/status/297839807017676800",
+                "trackback_author_name": "Rubencito",
+                "trackback_author_nick": "elrubenleyva"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1359370657,
+                "title": "The pharmaceutical companies does not create cures they create customers#Rationalist",
+                "url": "http://twitter.com/mrhenry022/status/295848097077137408",
+                "trackback_date": 1359370657,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1359370657,
+                "content": "The pharmaceutical companies does not create cures they create customers#Rationalist",
+                "mytype": "tweet",
+                "score": 4.841508,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/2872568055/e2a8afe796d8cb4edf08ce568bfbe0e5_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MrHenry022/status/295848097077137408",
+                "trackback_author_url": "http://twitter.com/mrhenry022",
+                "highlight": "The pharmaceutical companies does not create cures they create customers",
+                "topsy_author_url": "http://topsy.com/twitter/mrhenry022",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mrhenry022/status/295848097077137408",
+                "trackback_author_name": "MR. Henry",
+                "trackback_author_nick": "mrhenry022"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1329749219,
+                "title": "what is rational is actual, and what is actual is rational #rationalist #truth #god",
+                "url": "http://twitter.com/reshzankan/status/171606781506752513",
+                "trackback_date": 1329749219,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1329749219,
+                "content": "what is rational is actual, and what is actual is rational #rationalist #truth #god",
+                "mytype": "tweet",
+                "score": 4.8410883,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/446652666416885760/dGcYv-8z_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Reshzankan/status/171606781506752513",
+                "trackback_author_url": "http://twitter.com/reshzankan",
+                "highlight": "what is rational is actual, and what is actual is rational #rationalist #truth",
+                "topsy_author_url": "http://topsy.com/twitter/reshzankan",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/reshzankan/status/171606781506752513",
+                "trackback_author_name": "Reshzan Thayaparan",
+                "trackback_author_nick": "reshzankan"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1378999585,
+                "title": "Wearing my \"don't exist\" tee shirt. Was told it was offensive. I told the woman her crucifix was too. #atheist #rationalist",
+                "url": "http://twitter.com/mmcnemar/status/378177788609839104",
+                "trackback_date": 1378999585,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1378999585,
+                "content": "Wearing my \"don't exist\" tee shirt. Was told it was offensive. I told the woman her crucifix was too. #atheist #rationalist",
+                "mytype": "tweet",
+                "score": 4.840503,
+                "topsy_author_img": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+                "trackback_permalink": "http://twitter.com/mmcnemar/status/378177788609839104",
+                "trackback_author_url": "http://twitter.com/mmcnemar",
+                "highlight": "Wearing my \"don't exist\" tee shirt. Was told it was offensive. I told the woman her crucifix was too. #atheist",
+                "topsy_author_url": "http://topsy.com/twitter/mmcnemar",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mmcnemar/status/378177788609839104",
+                "trackback_author_name": "Mark McNemar",
+                "trackback_author_nick": "mmcnemar"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1362038362,
+                "title": "#idealist #rationalist #religion #government http://t.co/Sm4EvVc4bF",
+                "url": "http://twitter.com/elrubenleyva/status/307037262066110464",
+                "trackback_date": 1362038362,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Sm4EvVc4bF",
+                        "display_url": "instagr.am/p/WRGOAuvy7s/",
+                        "expanded_url": "http://instagr.am/p/WRGOAuvy7s/",
+                        "topsy_expanded_url": "http://instagram.com/p/WRGOAuvy7s/"
+                    }
+                ],
+                "target_birth_date": 1362038362,
+                "content": "#idealist #rationalist #religion #government http://t.co/Sm4EvVc4bF",
+                "mytype": "tweet",
+                "score": 4.836474,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000768855489/e28fce13714f84d2ec2b32584a3d03ba_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/elrubenleyva/status/307037262066110464",
+                "trackback_author_url": "http://twitter.com/elrubenleyva",
+                "highlight": "#idealist #rationalist #religion #government",
+                "topsy_author_url": "http://topsy.com/twitter/elrubenleyva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/elrubenleyva/status/307037262066110464",
+                "trackback_author_name": "Rubencito",
+                "trackback_author_nick": "elrubenleyva"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1360789749,
+                "title": "#idealist #rationalist #robinwilliams #true http://t.co/5zJ95337",
+                "url": "http://twitter.com/elrubenleyva/status/301800200010346496",
+                "trackback_date": 1360789749,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/5zJ95337",
+                        "display_url": "instagr.am/p/Vr4nDPPy35/",
+                        "expanded_url": "http://instagr.am/p/Vr4nDPPy35/",
+                        "topsy_expanded_url": "http://instagram.com/p/Vr4nDPPy35/"
+                    }
+                ],
+                "target_birth_date": 1360789749,
+                "content": "#idealist #rationalist #robinwilliams #true http://t.co/5zJ95337",
+                "mytype": "tweet",
+                "score": 4.836474,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000768855489/e28fce13714f84d2ec2b32584a3d03ba_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/elrubenleyva/status/301800200010346496",
+                "trackback_author_url": "http://twitter.com/elrubenleyva",
+                "highlight": "#idealist #rationalist #robinwilliams #true",
+                "topsy_author_url": "http://topsy.com/twitter/elrubenleyva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/elrubenleyva/status/301800200010346496",
+                "trackback_author_name": "Rubencito",
+                "trackback_author_nick": "elrubenleyva"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1362259632,
+                "title": "Fascinating discovery!!! #idealist #rationalist #politics http://t.co/XGoGXGWUPI",
+                "url": "http://twitter.com/elrubenleyva/status/307965334999162881",
+                "trackback_date": 1362259632,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XGoGXGWUPI",
+                        "display_url": "instagr.am/p/WXsPk3vy-1/",
+                        "expanded_url": "http://instagr.am/p/WXsPk3vy-1/",
+                        "topsy_expanded_url": "http://instagram.com/p/WXsPk3vy-1/"
+                    }
+                ],
+                "target_birth_date": 1362259632,
+                "content": "Fascinating discovery!!! #idealist #rationalist #politics http://t.co/XGoGXGWUPI",
+                "mytype": "tweet",
+                "score": 4.836258,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000768855489/e28fce13714f84d2ec2b32584a3d03ba_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/elrubenleyva/status/307965334999162881",
+                "trackback_author_url": "http://twitter.com/elrubenleyva",
+                "highlight": "Fascinating discovery!!! #idealist #rationalist #politics",
+                "topsy_author_url": "http://topsy.com/twitter/elrubenleyva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/elrubenleyva/status/307965334999162881",
+                "trackback_author_name": "Rubencito",
+                "trackback_author_nick": "elrubenleyva"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1363928841,
+                "title": "Never!!! \n#idealist #rationalist #freethinker http://t.co/RD4rsdPZrD",
+                "url": "http://twitter.com/elrubenleyva/status/314966507778088960",
+                "trackback_date": 1363928841,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RD4rsdPZrD",
+                        "display_url": "instagram.com/p/XJb_4Uvyyt/",
+                        "expanded_url": "http://instagram.com/p/XJb_4Uvyyt/",
+                        "topsy_expanded_url": "http://instagram.com/p/XJb_4Uvyyt/"
+                    }
+                ],
+                "target_birth_date": 1363928841,
+                "content": "Never!!! \n#idealist #rationalist #freethinker http://t.co/RD4rsdPZrD",
+                "mytype": "tweet",
+                "score": 4.8359103,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000768855489/e28fce13714f84d2ec2b32584a3d03ba_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/elrubenleyva/status/314966507778088960",
+                "trackback_author_url": "http://twitter.com/elrubenleyva",
+                "highlight": "Never!!! #idealist #rationalist #freethinker",
+                "topsy_author_url": "http://topsy.com/twitter/elrubenleyva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/elrubenleyva/status/314966507778088960",
+                "trackback_author_name": "Rubencito",
+                "trackback_author_nick": "elrubenleyva"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1363891029,
+                "title": "#idealist #rationalist #america #prolife http://t.co/qJwbLIUs70",
+                "url": "http://twitter.com/elrubenleyva/status/314807912650391552",
+                "trackback_date": 1363891029,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/qJwbLIUs70",
+                        "display_url": "instagram.com/p/XIT4zXvyxx/",
+                        "expanded_url": "http://instagram.com/p/XIT4zXvyxx/",
+                        "topsy_expanded_url": "http://instagram.com/p/XIT4zXvyxx/"
+                    }
+                ],
+                "target_birth_date": 1363891029,
+                "content": "#idealist #rationalist #america #prolife http://t.co/qJwbLIUs70",
+                "mytype": "tweet",
+                "score": 4.8325634,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000768855489/e28fce13714f84d2ec2b32584a3d03ba_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/elrubenleyva/status/314807912650391552",
+                "trackback_author_url": "http://twitter.com/elrubenleyva",
+                "highlight": "#idealist #rationalist #america #prolife",
+                "topsy_author_url": "http://topsy.com/twitter/elrubenleyva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/elrubenleyva/status/314807912650391552",
+                "trackback_author_name": "Rubencito",
+                "trackback_author_nick": "elrubenleyva"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1367041417,
+                "title": "#idealist #rationalist #twosidestoeverystory http://t.co/tehgrIPz2P",
+                "url": "http://twitter.com/elrubenleyva/status/328021596977651713",
+                "trackback_date": 1367041417,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/tehgrIPz2P",
+                        "display_url": "instagram.com/p/YmMx3Dvy2r/",
+                        "expanded_url": "http://instagram.com/p/YmMx3Dvy2r/",
+                        "topsy_expanded_url": "http://instagram.com/p/YmMx3Dvy2r/"
+                    }
+                ],
+                "target_birth_date": 1367041417,
+                "content": "#idealist #rationalist #twosidestoeverystory http://t.co/tehgrIPz2P",
+                "mytype": "tweet",
+                "score": 4.8325214,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000768855489/e28fce13714f84d2ec2b32584a3d03ba_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/elrubenleyva/status/328021596977651713",
+                "trackback_author_url": "http://twitter.com/elrubenleyva",
+                "highlight": "#idealist #rationalist #twosidestoeverystory",
+                "topsy_author_url": "http://topsy.com/twitter/elrubenleyva",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/elrubenleyva/status/328021596977651713",
+                "trackback_author_name": "Rubencito",
+                "trackback_author_nick": "elrubenleyva"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 620,
+        "hidden": 0,
+        "total": 2066,
+        "page": 1
+    }
+}

@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23asset&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=990",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#asset",
+            "window": "a",
+            "type": "tweet",
+            "offset": "990"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 4,
+                "firstpost_date": 1380909409,
+                "title": "Who's excited for the upcoming #Webseries #ASSET starting @matthewcarvery ?! https://t.co/p9OkfLqwq8",
+                "url": "http://twitter.com/demoklik/status/386188169974411264",
+                "trackback_date": 1380909409,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/p9OkfLqwq8",
+                        "display_url": "m.facebook.com/Demoklik?__use\u2026",
+                        "expanded_url": "https://m.facebook.com/Demoklik?__user=100001386497243",
+                        "topsy_expanded_url": "https://m.facebook.com/Demoklik?__user=100001386497243"
+                    }
+                ],
+                "target_birth_date": 1380909409,
+                "content": "Who's excited for the upcoming #Webseries #ASSET starting @matthewcarvery ?! https://t.co/p9OkfLqwq8",
+                "mytype": "tweet",
+                "score": 8.044738,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000727367049/7008500bbe9bc1fe6f44ceb6a5e8c2e5_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DemoKlik/status/386188169974411264",
+                "trackback_author_url": "http://twitter.com/demoklik",
+                "highlight": "Who's excited for the upcoming #Webseries #ASSET starting @matthewcarvery ?!",
+                "topsy_author_url": "http://topsy.com/twitter/demoklik",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/demoklik/status/386188169974411264",
+                "trackback_author_name": "DemoKlik",
+                "trackback_author_nick": "demoklik"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1325864846,
+                "title": "Community ownership suggestion welcomed by @ShropCouncil for Ludlow Assembly Rooms - http://t.co/3zvqQC2e #asset #transfer #socent",
+                "url": "http://twitter.com/asset_transfer/status/155314538118520834",
+                "trackback_date": 1325864846,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/3zvqQC2e",
+                        "display_url": "tinyurl.com/7t8rsky",
+                        "expanded_url": "http://tinyurl.com/7t8rsky",
+                        "topsy_expanded_url": "http://www.shropshirestar.com/news/2012/01/06/ownership-suggestion-welcomed-for-ludlow-assembly-rooms/"
+                    }
+                ],
+                "target_birth_date": 1325864846,
+                "content": "Community ownership suggestion welcomed by @ShropCouncil for Ludlow Assembly Rooms - http://t.co/3zvqQC2e #asset #transfer #socent",
+                "mytype": "tweet",
+                "score": 8.044022,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/76758647/ATU_logo_RGB_JPEG_normal.JPG",
+                "trackback_permalink": "http://twitter.com/asset_transfer/status/155314538118520834",
+                "trackback_author_url": "http://twitter.com/asset_transfer",
+                "highlight": "Community ownership suggestion welcomed by @ShropCouncil for Ludlow Assembly Rooms - #asset #transfer",
+                "topsy_author_url": "http://topsy.com/twitter/asset_transfer",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/asset_transfer/status/155314538118520834",
+                "trackback_author_name": "Asset Transfer Unit",
+                "trackback_author_nick": "asset_transfer"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1303064888,
+                "title": "http://www.pulist.net/essentials-of-patents-essentials-series.html #asset #management #associates #us Essentials of Patents (Essentials",
+                "url": "http://twitter.com/puwisdom/status/59684583301578752",
+                "trackback_date": 1303064888,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1303064888,
+                "content": "http://www.pulist.net/essentials-of-patents-essentials-series.html #asset #management #associates #us Essentials of Patents (Essentials",
+                "mytype": "tweet",
+                "score": 8.043978,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1206587301/pb_normal_normal.gif",
+                "trackback_permalink": "http://twitter.com/puwisdom/status/59684583301578752",
+                "trackback_author_url": "http://twitter.com/puwisdom",
+                "highlight": " #asset #management #associates #us Essentials of Patents (Essentials",
+                "topsy_author_url": "http://topsy.com/twitter/puwisdom",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/puwisdom/status/59684583301578752",
+                "trackback_author_name": "James chain",
+                "trackback_author_nick": "puwisdom"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1302551172,
+                "title": "http://www.pulist.net/global-asset-allocation-new-methods-and-applications-wiley-finance.html #global #asset #allocation #worldwide Glob",
+                "url": "http://twitter.com/puwisdom/status/57529902915796993",
+                "trackback_date": 1302551172,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1302551172,
+                "content": "http://www.pulist.net/global-asset-allocation-new-methods-and-applications-wiley-finance.html #global #asset #allocation #worldwide Glob",
+                "mytype": "tweet",
+                "score": 8.043978,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1206587301/pb_normal_normal.gif",
+                "trackback_permalink": "http://twitter.com/puwisdom/status/57529902915796993",
+                "trackback_author_url": "http://twitter.com/puwisdom",
+                "highlight": " #global #asset #allocation #worldwide Glob",
+                "topsy_author_url": "http://topsy.com/twitter/puwisdom",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/puwisdom/status/57529902915796993",
+                "trackback_author_name": "James chain",
+                "trackback_author_nick": "puwisdom"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1298975420,
+                "title": "http://www.pulist.net/lawyers-are-liars-the-truth-about-protecting-our-assets.html #asset #protection #strategies #willamette Lawyers ar",
+                "url": "http://twitter.com/puwisdom/status/42532112313745409",
+                "trackback_date": 1298975420,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1298975420,
+                "content": "http://www.pulist.net/lawyers-are-liars-the-truth-about-protecting-our-assets.html #asset #protection #strategies #willamette Lawyers ar",
+                "mytype": "tweet",
+                "score": 8.043978,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1206587301/pb_normal_normal.gif",
+                "trackback_permalink": "http://twitter.com/puwisdom/status/42532112313745409",
+                "trackback_author_url": "http://twitter.com/puwisdom",
+                "highlight": " #asset #protection #strategies #willamette Lawyers ar",
+                "topsy_author_url": "http://topsy.com/twitter/puwisdom",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/puwisdom/status/42532112313745409",
+                "trackback_author_name": "James chain",
+                "trackback_author_nick": "puwisdom"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1353026412,
+                "title": "Colorado Legislators Will Be Pressed on Immigrant Tuition  http://t.co/BpkUCFQk  #ASSET #copolitics",
+                "url": "http://twitter.com/togetherco/status/269238404741484545",
+                "trackback_date": 1353026412,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/BpkUCFQk",
+                        "display_url": "5280.com/blogs/2012/11/\u2026",
+                        "expanded_url": "http://www.5280.com/blogs/2012/11/15/colorado-legislators-will-be-pressed-immigrant-tuition",
+                        "topsy_expanded_url": "http://www.5280.com/blogs/2012/11/15/colorado-legislators-will-be-pressed-immigrant-tuition"
+                    }
+                ],
+                "target_birth_date": 1353026412,
+                "content": "Colorado Legislators Will Be Pressed on Immigrant Tuition  http://t.co/BpkUCFQk  #ASSET #copolitics",
+                "mytype": "tweet",
+                "score": 8.043915,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2169289083/TogetherColoradoMark_normal.png",
+                "trackback_permalink": "http://twitter.com/TogetherCO/status/269238404741484545",
+                "trackback_author_url": "http://twitter.com/togetherco",
+                "highlight": "Colorado Legislators Will Be Pressed on Immigrant Tuition #ASSET",
+                "topsy_author_url": "http://topsy.com/twitter/togetherco",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/togetherco/status/269238404741484545",
+                "trackback_author_name": "TogetherCO",
+                "trackback_author_nick": "togetherco"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1302690256,
+                "title": "\"#Imagination has always been my greatest #asset, something to lean my #hope against\" My #evaluation of #valuable mainstay",
+                "url": "http://twitter.com/guncai/status/58113263698849792",
+                "trackback_date": 1302690256,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1302690256,
+                "content": "\"#Imagination has always been my greatest #asset, something to lean my #hope against\" My #evaluation of #valuable mainstay",
+                "mytype": "tweet",
+                "score": 8.043724,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/776592905/f_gel_ihandloggo_normal.jpg",
+                "trackback_permalink": "http://twitter.com/guncai/status/58113263698849792",
+                "trackback_author_url": "http://twitter.com/guncai",
+                "highlight": "\"#Imagination has always been my greatest #asset, something to lean my #hope against\" My #evaluation of #valuable mainstay",
+                "topsy_author_url": "http://topsy.com/twitter/guncai",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/guncai/status/58113263698849792",
+                "trackback_author_name": "Gunilla Caisson",
+                "trackback_author_nick": "guncai"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1328620249,
+                "title": "#Obama orders #global #US #Iran #asset block | @scoopit http://t.co/U4tffWG8",
+                "url": "http://twitter.com/benperrusi/status/166871535418740736",
+                "trackback_date": 1328620249,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/U4tffWG8",
+                        "display_url": "bit.ly/xucLJh",
+                        "expanded_url": "http://bit.ly/xucLJh",
+                        "topsy_expanded_url": "http://www.scoop.it/t/from-tahrir-square/p/1142914359/obama-orders-global-us-iran-asset-block"
+                    }
+                ],
+                "target_birth_date": 1328620249,
+                "content": "#Obama orders #global #US #Iran #asset block | @scoopit http://t.co/U4tffWG8",
+                "mytype": "tweet",
+                "score": 8.0436,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1180634746/2010Redz_normal.jpg",
+                "trackback_permalink": "http://twitter.com/BenPerrusi/status/166871535418740736",
+                "trackback_author_url": "http://twitter.com/benperrusi",
+                "highlight": "#Obama orders #global #US #Iran #asset block | @scoopit",
+                "topsy_author_url": "http://topsy.com/twitter/benperrusi",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/benperrusi/status/166871535418740736",
+                "trackback_author_name": "Ben-Perrusi Martins",
+                "trackback_author_nick": "benperrusi"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1328603093,
+                "title": "#Obama orders #global #US #Iran #asset block  | @scoopit http://t.co/U4tffWG8",
+                "url": "http://twitter.com/benperrusi/status/166799581814865920",
+                "trackback_date": 1328603093,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/U4tffWG8",
+                        "display_url": "bit.ly/xucLJh",
+                        "expanded_url": "http://bit.ly/xucLJh",
+                        "topsy_expanded_url": "http://www.scoop.it/t/from-tahrir-square/p/1142914359/obama-orders-global-us-iran-asset-block"
+                    }
+                ],
+                "target_birth_date": 1328603093,
+                "content": "#Obama orders #global #US #Iran #asset block  | @scoopit http://t.co/U4tffWG8",
+                "mytype": "tweet",
+                "score": 8.0436,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1180634746/2010Redz_normal.jpg",
+                "trackback_permalink": "http://twitter.com/BenPerrusi/status/166799581814865920",
+                "trackback_author_url": "http://twitter.com/benperrusi",
+                "highlight": "#Obama orders #global #US #Iran #asset block | @scoopit",
+                "topsy_author_url": "http://topsy.com/twitter/benperrusi",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/benperrusi/status/166799581814865920",
+                "trackback_author_name": "Ben-Perrusi Martins",
+                "trackback_author_nick": "benperrusi"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1349201551,
+                "title": "#Principles #Asset Management http://t.co/MfEfLOJU Principles of Asset Management",
+                "url": "http://twitter.com/opendbuk/status/253195776774246400",
+                "trackback_date": 1349201551,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/MfEfLOJU",
+                        "display_url": "opendb.co.uk/e/b001dahx8i.h\u2026",
+                        "expanded_url": "http://www.opendb.co.uk/e/b001dahx8i.html",
+                        "topsy_expanded_url": "http://www.opendb.co.uk/e/b001dahx8i.html"
+                    }
+                ],
+                "target_birth_date": 1349201551,
+                "content": "#Principles #Asset Management http://t.co/MfEfLOJU Principles of Asset Management",
+                "mytype": "tweet",
+                "score": 8.043355,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1891298665/favicon_normal.png",
+                "trackback_permalink": "http://twitter.com/opendbuk/status/253195776774246400",
+                "trackback_author_url": "http://twitter.com/opendbuk",
+                "highlight": "#Principles #Asset Management Principles of Asset Management",
+                "topsy_author_url": "http://topsy.com/twitter/opendbuk",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/opendbuk/status/253195776774246400",
+                "trackback_author_name": "opendbuk",
+                "trackback_author_nick": "opendbuk"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 990,
+        "hidden": 0,
+        "total": 44016,
+        "page": 1
+    }
+}

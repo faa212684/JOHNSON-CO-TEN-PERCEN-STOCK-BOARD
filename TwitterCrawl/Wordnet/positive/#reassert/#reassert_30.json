@@ -1,0 +1,45 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23reassert&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=30",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#reassert",
+            "window": "a",
+            "type": "tweet",
+            "offset": "30"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1394713106,
+                "title": "RT @ItsTankdotCom: \"@RachyOnAMission: It's almost #ariesseason and that means it's almost my birthdayyyy! 14th April \ud83d\ude0d #aries #AriesWeAre\" \u2026",
+                "url": "http://twitter.com/ariesweare/status/444085072384520192",
+                "trackback_date": 1394713106,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1394713106,
+                "content": "RT @ItsTankdotCom: \"@RachyOnAMission: It's almost #ariesseason and that means it's almost my birthdayyyy! 14th April \ud83d\ude0d #aries #AriesWeAre\" \u2026",
+                "mytype": "tweet",
+                "score": 3.7053757,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2302031158/g811pm97netu422sriqs_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AriesWeAre/status/444085072384520192",
+                "trackback_author_url": "http://twitter.com/ariesweare",
+                "highlight": "\"@RachyOnAMission: It's almost #ariesseason and that means it's almost my birthdayyyy! 14th April \ud83d\ude0d #aries #AriesWeAre\" \u2026",
+                "topsy_author_url": "http://topsy.com/twitter/ariesweare",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ariesweare/status/444085072384520192",
+                "trackback_author_name": "AriesAreUs/AriesWe",
+                "trackback_author_nick": "ariesweare"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 30,
+        "hidden": 0,
+        "total": 31,
+        "page": 1
+    }
+}

@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23sustain&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=960",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#sustain",
+            "window": "a",
+            "type": "tweet",
+            "offset": "960"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 2,
+                "firstpost_date": 1309823238,
+                "title": "Green roof planting happening this week at #CIRS! Get ready rain to be harvested. #sustain",
+                "url": "http://twitter.com/sustainubc/status/88031159019249664",
+                "trackback_date": 1309823238,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1309823238,
+                "content": "Green roof planting happening this week at #CIRS! Get ready rain to be harvested. #sustain",
+                "mytype": "tweet",
+                "score": 8.134582,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459380757790605313/imASQvsF_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SustainUBC/status/88031159019249664",
+                "trackback_author_url": "http://twitter.com/sustainubc",
+                "highlight": "Green roof planting happening this week at #CIRS! Get ready rain to be harvested.",
+                "topsy_author_url": "http://topsy.com/twitter/sustainubc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sustainubc/status/88031159019249664",
+                "trackback_author_name": "UBC sustainability",
+                "trackback_author_nick": "sustainubc"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1302354791,
+                "title": "#Environmentally active #youth head to DC - http://bit.ly/eK7pgI #activists #students #campus #energy #sustain #climate",
+                "url": "http://twitter.com/greenistweet/status/56706220442140672",
+                "trackback_date": 1302354791,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1302354791,
+                "content": "#Environmentally active #youth head to DC - http://bit.ly/eK7pgI #activists #students #campus #energy #sustain #climate",
+                "mytype": "tweet",
+                "score": 8.1343565,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/589119590/pic1_normal.jpg",
+                "trackback_permalink": "http://twitter.com/GreenIsTweet/status/56706220442140672",
+                "trackback_author_url": "http://twitter.com/greenistweet",
+                "highlight": "#Environmentally active #youth head to DC - #activists #students #campus #energy #sustain",
+                "topsy_author_url": "http://topsy.com/twitter/greenistweet",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/greenistweet/status/56706220442140672",
+                "trackback_author_name": "GreenIsTweet",
+                "trackback_author_nick": "greenistweet"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1389791140,
+                "title": "RT @treehugger Exercise, and get smarter while you're at it http://t.co/0NUYcAAT3K #sustain #eri #food",
+                "url": "http://twitter.com/bryanwempen/status/423440848164892672",
+                "trackback_date": 1389791140,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/0NUYcAAT3K",
+                        "display_url": "bit.ly/1m4Ish9",
+                        "expanded_url": "http://bit.ly/1m4Ish9",
+                        "topsy_expanded_url": "http://www.treehugger.com/health/exercise-and-get-smarter-while-youre-it.html"
+                    }
+                ],
+                "target_birth_date": 1389791140,
+                "content": "RT @treehugger Exercise, and get smarter while you're at it http://t.co/0NUYcAAT3K #sustain #eri #food",
+                "mytype": "tweet",
+                "score": 8.134222,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459342848022687745/NPaASO0r_normal.png",
+                "trackback_permalink": "http://twitter.com/bryanwempen/status/423440848164892672",
+                "trackback_author_url": "http://twitter.com/bryanwempen",
+                "highlight": "RT @treehugger Exercise, and get smarter while you're at it #sustain #eri",
+                "topsy_author_url": "http://topsy.com/twitter/bryanwempen",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bryanwempen/status/423440848164892672",
+                "trackback_author_name": "Bryan Wempen",
+                "trackback_author_nick": "bryanwempen"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1388406007,
+                "title": "RT @treehugger Students create 3D grass printer http://t.co/4RiKPaQISC #sustain #eri #food",
+                "url": "http://twitter.com/bryanwempen/status/417631181954244608",
+                "trackback_date": 1388406007,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4RiKPaQISC",
+                        "display_url": "bit.ly/19B2H0D",
+                        "expanded_url": "http://bit.ly/19B2H0D",
+                        "topsy_expanded_url": "http://www.treehugger.com/gadgets/students-create-3d-grass-printer.html"
+                    }
+                ],
+                "target_birth_date": 1388406007,
+                "content": "RT @treehugger Students create 3D grass printer http://t.co/4RiKPaQISC #sustain #eri #food",
+                "mytype": "tweet",
+                "score": 8.13354,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459342848022687745/NPaASO0r_normal.png",
+                "trackback_permalink": "http://twitter.com/bryanwempen/status/417631181954244608",
+                "trackback_author_url": "http://twitter.com/bryanwempen",
+                "highlight": "RT @treehugger Students create 3D grass printer #sustain #eri",
+                "topsy_author_url": "http://topsy.com/twitter/bryanwempen",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bryanwempen/status/417631181954244608",
+                "trackback_author_name": "Bryan Wempen",
+                "trackback_author_nick": "bryanwempen"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1264000896,
+                "title": "A birds-eye view of new suburbia http://goo.gl/fb/H9xv  #sustain",
+                "url": "http://twitter.com/sustaincities/status/7988855930",
+                "trackback_date": 1264000896,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1264000896,
+                "content": "A birds-eye view of new suburbia http://goo.gl/fb/H9xv  #sustain",
+                "mytype": "tweet",
+                "score": 8.133313,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2994156665/b625a986057d36e11d5357b53603df7a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/sustaincities/status/7988855930",
+                "trackback_author_url": "http://twitter.com/sustaincities",
+                "highlight": "A birds-eye view of new suburbia",
+                "topsy_author_url": "http://topsy.com/twitter/sustaincities",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sustaincities/status/7988855930",
+                "trackback_author_name": "Sustainable Cities ",
+                "trackback_author_nick": "sustaincities"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1378476187,
+                "title": "RT @treehugger Spray Foam Fires http://t.co/WJFmnzq6n1 #sustain #eri #food",
+                "url": "http://twitter.com/bryanwempen/status/375982498968109056",
+                "trackback_date": 1378476187,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WJFmnzq6n1",
+                        "display_url": "bit.ly/13oavzU",
+                        "expanded_url": "http://bit.ly/13oavzU",
+                        "topsy_expanded_url": "http://www.treehugger.com/green-architecture/spray-foam-fires.html"
+                    }
+                ],
+                "target_birth_date": 1378476187,
+                "content": "RT @treehugger Spray Foam Fires http://t.co/WJFmnzq6n1 #sustain #eri #food",
+                "mytype": "tweet",
+                "score": 8.133088,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459342848022687745/NPaASO0r_normal.png",
+                "trackback_permalink": "http://twitter.com/bryanwempen/status/375982498968109056",
+                "trackback_author_url": "http://twitter.com/bryanwempen",
+                "highlight": "RT @treehugger Spray Foam Fires #sustain #eri",
+                "topsy_author_url": "http://topsy.com/twitter/bryanwempen",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bryanwempen/status/375982498968109056",
+                "trackback_author_name": "Bryan Wempen",
+                "trackback_author_nick": "bryanwempen"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1371704225,
+                "title": "Because #GOD is a #Healer, I'm believing that He won't just #Sustain my brother PooPie but He will #Restore him. I don't know when #iBelieve",
+                "url": "http://twitter.com/bubbarayk/status/347578829625245697",
+                "trackback_date": 1371704225,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1371704225,
+                "content": "Because #GOD is a #Healer, I'm believing that He won't just #Sustain my brother PooPie but He will #Restore him. I don't know when #iBelieve",
+                "mytype": "tweet",
+                "score": 8.133039,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/448341853717270528/umHGPdEy_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BubbaRayK/status/347578829625245697",
+                "trackback_author_url": "http://twitter.com/bubbarayk",
+                "highlight": "Because #GOD is a #Healer, I'm believing that He won't just #Sustain my brother PooPie but He will #Restore him. I don't know when",
+                "topsy_author_url": "http://topsy.com/twitter/bubbarayk",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bubbarayk/status/347578829625245697",
+                "trackback_author_name": "Kash Henry",
+                "trackback_author_nick": "bubbarayk"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1391520148,
+                "title": "RT @treehugger Don\u2019t stop knitting! It keeps you healthy. http://t.co/fzfqQ8NAsW #sustain #eri #food",
+                "url": "http://twitter.com/bryanwempen/status/430692836397170689",
+                "trackback_date": 1391520148,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/fzfqQ8NAsW",
+                        "display_url": "bit.ly/LLhGwy",
+                        "expanded_url": "http://bit.ly/LLhGwy",
+                        "topsy_expanded_url": "http://www.treehugger.com/culture/dont-stop-knitting-its-keeping-you-healthy.html"
+                    }
+                ],
+                "target_birth_date": 1391520148,
+                "content": "RT @treehugger Don\u2019t stop knitting! It keeps you healthy. http://t.co/fzfqQ8NAsW #sustain #eri #food",
+                "mytype": "tweet",
+                "score": 8.132956,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459342848022687745/NPaASO0r_normal.png",
+                "trackback_permalink": "http://twitter.com/bryanwempen/status/430692836397170689",
+                "trackback_author_url": "http://twitter.com/bryanwempen",
+                "highlight": "RT @treehugger Don\u2019t stop knitting! It keeps you healthy. #sustain #eri",
+                "topsy_author_url": "http://topsy.com/twitter/bryanwempen",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bryanwempen/status/430692836397170689",
+                "trackback_author_name": "Bryan Wempen",
+                "trackback_author_nick": "bryanwempen"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1386012059,
+                "title": "1st NET ZERO #ENERGY Store in US opened ... #Sustain http://t.co/q9W3yfRuzf",
+                "url": "http://twitter.com/antonchupilko/status/407590235875586048",
+                "trackback_date": 1386012059,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/q9W3yfRuzf",
+                        "display_url": "lnkd.in/dDpHDGT",
+                        "expanded_url": "http://lnkd.in/dDpHDGT",
+                        "topsy_expanded_url": "https://www.2degreesnetwork.com/groups/built-environment/resources/walgreens-creates-first-net-zero-energy-retail-store-us/"
+                    }
+                ],
+                "target_birth_date": 1386012059,
+                "content": "1st NET ZERO #ENERGY Store in US opened ... #Sustain http://t.co/q9W3yfRuzf",
+                "mytype": "tweet",
+                "score": 8.132919,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458335910309134336/NkBowpwc_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AntonChupilko/status/407590235875586048",
+                "trackback_author_url": "http://twitter.com/antonboym",
+                "highlight": "1st NET ZERO #ENERGY Store in US opened ... #Sustain",
+                "topsy_author_url": "http://topsy.com/twitter/antonboym",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/antonchupilko/status/407590235875586048",
+                "trackback_author_name": "iLikeGreen",
+                "trackback_author_nick": "antonboym"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1389016362,
+                "title": "RT @treehugger 5 excellent food resolutions for the New Year http://t.co/WA6gUF7eyH #sustain #eri #food",
+                "url": "http://twitter.com/bryanwempen/status/420191196250533888",
+                "trackback_date": 1389016362,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WA6gUF7eyH",
+                        "display_url": "bit.ly/1dpIHvN",
+                        "expanded_url": "http://bit.ly/1dpIHvN",
+                        "topsy_expanded_url": "http://www.treehugger.com/green-food/5-excellent-food-resolutions-new-year.html"
+                    }
+                ],
+                "target_birth_date": 1389016362,
+                "content": "RT @treehugger 5 excellent food resolutions for the New Year http://t.co/WA6gUF7eyH #sustain #eri #food",
+                "mytype": "tweet",
+                "score": 8.132616,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459342848022687745/NPaASO0r_normal.png",
+                "trackback_permalink": "http://twitter.com/bryanwempen/status/420191196250533888",
+                "trackback_author_url": "http://twitter.com/bryanwempen",
+                "highlight": "RT @treehugger 5 excellent food resolutions for the New Year #sustain #eri",
+                "topsy_author_url": "http://topsy.com/twitter/bryanwempen",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bryanwempen/status/420191196250533888",
+                "trackback_author_name": "Bryan Wempen",
+                "trackback_author_nick": "bryanwempen"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 960,
+        "hidden": 0,
+        "total": 29437,
+        "page": 1
+    }
+}

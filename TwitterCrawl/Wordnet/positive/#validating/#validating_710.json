@@ -1,0 +1,51 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23validating&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=710",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#validating",
+            "window": "a",
+            "type": "tweet",
+            "offset": "710"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1393895558,
+                "title": "RT @ShalaBurroughs: .@academe_io is busy #validating on @startupbuskc to #sxsw - Student? 2 minutes for a survey? &gt;&gt; http://t.co/0jldm02NPQ\u2026",
+                "url": "http://twitter.com/missjennshaw/status/440656028389363712",
+                "trackback_date": 1393895558,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/0jldm02NPQ",
+                        "expanded_url": "http://j.mp/academestudent",
+                        "display_url": "j.mp/academestudent"
+                    }
+                ],
+                "target_birth_date": 1393895558,
+                "content": "RT @ShalaBurroughs: .@academe_io is busy #validating on @startupbuskc to #sxsw - Student? 2 minutes for a survey? &gt;&gt; http://t.co/0jldm02NPQ\u2026",
+                "mytype": "tweet",
+                "score": 3.5761435,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2971371634/6495cfcf46d59da0928d36903d7af94f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MissJennShaw/status/440656028389363712",
+                "trackback_author_url": "http://twitter.com/missjennshaw",
+                "highlight": ".@academe_io is busy #validating on @startupbuskc to #sxsw - Student? 2 minutes for a survey? &gt;&gt;",
+                "topsy_author_url": "http://topsy.com/twitter/missjennshaw",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/missjennshaw/status/440656028389363712",
+                "trackback_author_name": "Jennifer Shaw",
+                "trackback_author_nick": "missjennshaw"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 710,
+        "hidden": 0,
+        "total": 711,
+        "page": 1
+    }
+}

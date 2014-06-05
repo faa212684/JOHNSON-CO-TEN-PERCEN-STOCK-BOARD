@@ -1,0 +1,282 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23prescribe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=730",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#prescribe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "730"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1399392228,
+                "title": "RT @IBFdigital: Most doctors WISH they could wirelessly: #access #prescribe #monitor #initiate #communicate http://t.co/Qm0O5aYULp",
+                "url": "http://twitter.com/pafournier/status/463710732887269377",
+                "trackback_date": 1399392228,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Qm0O5aYULp",
+                        "expanded_url": "http://twitter.com/IBFdigital/status/463675861498351617/photo/1",
+                        "display_url": "pic.twitter.com/Qm0O5aYULp"
+                    }
+                ],
+                "target_birth_date": 1399392228,
+                "content": "RT @IBFdigital: Most doctors WISH they could wirelessly: #access #prescribe #monitor #initiate #communicate http://t.co/Qm0O5aYULp",
+                "mytype": "tweet",
+                "score": 3.8306503,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000361208898/3b0ae430b014916c0c25281da2b0c0b7_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/pafournier/status/463710732887269377",
+                "trackback_author_url": "http://twitter.com/pafournier",
+                "highlight": "Most doctors WISH they could wirelessly: #access #prescribe #monitor #initiate #communicate",
+                "topsy_author_url": "http://topsy.com/twitter/pafournier",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/pafournier/status/463710732887269377",
+                "trackback_author_name": "Pierre A Fournier",
+                "trackback_author_nick": "pafournier"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1399391894,
+                "title": "RT @IBFdigital: Most doctors WISH they could wirelessly: #access #prescribe #monitor #initiate #communicate http://t.co/Qm0O5aYULp",
+                "url": "http://twitter.com/keysoglobalsb/status/463709332803428352",
+                "trackback_date": 1399391894,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Qm0O5aYULp",
+                        "expanded_url": "http://twitter.com/IBFdigital/status/463675861498351617/photo/1",
+                        "display_url": "pic.twitter.com/Qm0O5aYULp"
+                    }
+                ],
+                "target_birth_date": 1399391894,
+                "content": "RT @IBFdigital: Most doctors WISH they could wirelessly: #access #prescribe #monitor #initiate #communicate http://t.co/Qm0O5aYULp",
+                "mytype": "tweet",
+                "score": 3.8306503,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1227721600/logopicture_normal.jpg",
+                "trackback_permalink": "http://twitter.com/KeySoGlobalSB/status/463709332803428352",
+                "trackback_author_url": "http://twitter.com/keysoglobalsb",
+                "highlight": "Most doctors WISH they could wirelessly: #access #prescribe #monitor #initiate #communicate",
+                "topsy_author_url": "http://topsy.com/twitter/keysoglobalsb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/keysoglobalsb/status/463709332803428352",
+                "trackback_author_name": "Steve Bell",
+                "trackback_author_nick": "keysoglobalsb"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1399391314,
+                "title": "RT @IBFdigital: Most doctors WISH they could wirelessly: #access #prescribe #monitor #initiate #communicate http://t.co/Qm0O5aYULp",
+                "url": "http://twitter.com/hexoskin/status/463706896373780480",
+                "trackback_date": 1399391314,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Qm0O5aYULp",
+                        "expanded_url": "http://twitter.com/IBFdigital/status/463675861498351617/photo/1",
+                        "display_url": "pic.twitter.com/Qm0O5aYULp"
+                    }
+                ],
+                "target_birth_date": 1399391314,
+                "content": "RT @IBFdigital: Most doctors WISH they could wirelessly: #access #prescribe #monitor #initiate #communicate http://t.co/Qm0O5aYULp",
+                "mytype": "tweet",
+                "score": 3.8306503,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2211024912/icon_hexoskin_blue2_normal.png",
+                "trackback_permalink": "http://twitter.com/Hexoskin/status/463706896373780480",
+                "trackback_author_url": "http://twitter.com/hexoskin",
+                "highlight": "Most doctors WISH they could wirelessly: #access #prescribe #monitor #initiate #communicate",
+                "topsy_author_url": "http://topsy.com/twitter/hexoskin",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hexoskin/status/463706896373780480",
+                "trackback_author_name": "Hexoskin",
+                "trackback_author_nick": "hexoskin"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1399386860,
+                "title": "RT @IBFdigital: Most doctors WISH they could wirelessly: #access #prescribe #monitor #initiate #communicate http://t.co/Qm0O5aYULp",
+                "url": "http://twitter.com/soo_cchsc/status/463688216173117440",
+                "trackback_date": 1399386860,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Qm0O5aYULp",
+                        "expanded_url": "http://twitter.com/IBFdigital/status/463675861498351617/photo/1",
+                        "display_url": "pic.twitter.com/Qm0O5aYULp"
+                    }
+                ],
+                "target_birth_date": 1399386860,
+                "content": "RT @IBFdigital: Most doctors WISH they could wirelessly: #access #prescribe #monitor #initiate #communicate http://t.co/Qm0O5aYULp",
+                "mytype": "tweet",
+                "score": 3.8306503,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000239611443/fe102258bd55057a1c69ff2f9c201c5b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/soo_cchsc/status/463688216173117440",
+                "trackback_author_url": "http://twitter.com/soo_cchsc",
+                "highlight": "Most doctors WISH they could wirelessly: #access #prescribe #monitor #initiate #communicate",
+                "topsy_author_url": "http://topsy.com/twitter/soo_cchsc",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/soo_cchsc/status/463688216173117440",
+                "trackback_author_name": "Soo Hun",
+                "trackback_author_nick": "soo_cchsc"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1399384365,
+                "title": "RT @IBFdigital: Most doctors WISH they could wirelessly: #access #prescribe #monitor #initiate #communicate http://t.co/Qm0O5aYULp",
+                "url": "http://twitter.com/hydramd_/status/463677750042062848",
+                "trackback_date": 1399384365,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Qm0O5aYULp",
+                        "expanded_url": "http://twitter.com/IBFdigital/status/463675861498351617/photo/1",
+                        "display_url": "pic.twitter.com/Qm0O5aYULp"
+                    }
+                ],
+                "target_birth_date": 1399384365,
+                "content": "RT @IBFdigital: Most doctors WISH they could wirelessly: #access #prescribe #monitor #initiate #communicate http://t.co/Qm0O5aYULp",
+                "mytype": "tweet",
+                "score": 3.8306503,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458633996268601344/N_RW8KXk_normal.png",
+                "trackback_permalink": "http://twitter.com/hydraMD_/status/463677750042062848",
+                "trackback_author_url": "http://twitter.com/hydramd_",
+                "highlight": "Most doctors WISH they could wirelessly: #access #prescribe #monitor #initiate #communicate",
+                "topsy_author_url": "http://topsy.com/twitter/hydramd_",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hydramd_/status/463677750042062848",
+                "trackback_author_name": "hydraMD",
+                "trackback_author_nick": "hydramd_"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1368901234,
+                "title": "RT @DrRob_MaxHealth: Seventeen minutes--that's how long the average #doctor takes to listen to, #diagnose, and #prescribe treatment for a p\u2026",
+                "url": "http://twitter.com/way2clinic/status/335822234889367553",
+                "trackback_date": 1368901234,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1368901234,
+                "content": "RT @DrRob_MaxHealth: Seventeen minutes--that's how long the average #doctor takes to listen to, #diagnose, and #prescribe treatment for a p\u2026",
+                "mytype": "tweet",
+                "score": 3.8282404,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/3599942009/66e3a60d5c898c39db0a85804f9a1900_normal.png",
+                "trackback_permalink": "http://twitter.com/Way2Clinic/status/335822234889367553",
+                "trackback_author_url": "http://twitter.com/way2clinic",
+                "highlight": "Seventeen minutes--that's how long the average #doctor takes to listen to, #diagnose, and #prescribe treatment for a p\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/way2clinic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/way2clinic/status/335822234889367553",
+                "trackback_author_name": "Way2Clinic",
+                "trackback_author_nick": "way2clinic"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1354139446,
+                "title": "RT @napernurse: #NJ considers bill to allow #APRNs to #prescribe on their own via @NurseSallie. #practice #legal http://t.co/2TQlaxbF",
+                "url": "http://twitter.com/shandamoore2/status/273906807829843968",
+                "trackback_date": 1354139446,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2TQlaxbF",
+                        "expanded_url": "http://sbne.ws/r/bZvK",
+                        "display_url": "sbne.ws/r/bZvK"
+                    }
+                ],
+                "target_birth_date": 1354139446,
+                "content": "RT @napernurse: #NJ considers bill to allow #APRNs to #prescribe on their own via @NurseSallie. #practice #legal http://t.co/2TQlaxbF",
+                "mytype": "tweet",
+                "score": 3.8277152,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2135536260/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/shandamoore2/status/273906807829843968",
+                "trackback_author_url": "http://twitter.com/shandamoore2",
+                "highlight": "#NJ considers bill to allow #APRNs to #prescribe on their own via @NurseSallie. #practice #legal",
+                "topsy_author_url": "http://topsy.com/twitter/shandamoore2",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/shandamoore2/status/273906807829843968",
+                "trackback_author_name": "shanda moore",
+                "trackback_author_nick": "shandamoore2"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1384432112,
+                "title": "RT @LuisMartinez678: #BuenJueves #YoQuieroVerPresoAMagnetto\n#NO_SE_OLVIDEN\n#Macri_procesado Y QUE EN  20 DIAS #PRESCRIBE LA CAUSA #DURAN_BA\u2026",
+                "url": "http://twitter.com/maximontenegro5/status/400963458378002432",
+                "trackback_date": 1384432112,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1384432112,
+                "content": "RT @LuisMartinez678: #BuenJueves #YoQuieroVerPresoAMagnetto\n#NO_SE_OLVIDEN\n#Macri_procesado Y QUE EN  20 DIAS #PRESCRIBE LA CAUSA #DURAN_BA\u2026",
+                "mytype": "tweet",
+                "score": 3.8214605,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461277277989249025/mVJbvzq2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/maximontenegro5/status/400963458378002432",
+                "trackback_author_url": "http://twitter.com/maximontenegro5",
+                "highlight": "#BuenJueves #YoQuieroVerPresoAMagnetto #NO_SE_OLVIDEN #Macri_procesado Y QUE EN 20 DIAS #PRESCRIBE LA CAUSA #DURAN_BA\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/maximontenegro5",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/maximontenegro5/status/400963458378002432",
+                "trackback_author_name": "martin montenegro",
+                "trackback_author_nick": "maximontenegro5"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1364760560,
+                "title": "RT @jimgzamora: #Rajoy intenta \"tapar\" a #Barcenas con su agenda internacional, con un poco de suerte #Prescribe  y  #SeQuedaEnNa  &gt;  ...",
+                "url": "http://twitter.com/yayachusmad/status/318454989506879488",
+                "trackback_date": 1364760560,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7nHioHDquB",
+                        "expanded_url": "http://www.publico.es/espana/452838/rajoy-intenta-tapar-a-barcenas-con-su-agenda-internacional",
+                        "display_url": "publico.es/espana/452838/\u2026"
+                    }
+                ],
+                "target_birth_date": 1364760560,
+                "content": "RT @jimgzamora: #Rajoy intenta \"tapar\" a #Barcenas con su agenda internacional, con un poco de suerte #Prescribe  y  #SeQuedaEnNa  &gt;  ...",
+                "mytype": "tweet",
+                "score": 3.8168423,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000119472118/54c34ff39602e882ab26611ef9d27148_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/yayachusmad/status/318454989506879488",
+                "trackback_author_url": "http://twitter.com/yayachusmad",
+                "highlight": "#Rajoy intenta \"tapar\" a #Barcenas con su agenda internacional, con un poco de suerte #Prescribe y #SeQuedaEnNa &gt; ",
+                "topsy_author_url": "http://topsy.com/twitter/yayachusmad",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/yayachusmad/status/318454989506879488",
+                "trackback_author_name": "yayachusmad",
+                "trackback_author_nick": "yayachusmad"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1364734661,
+                "title": "RT @jimgzamora: #Rajoy intenta \"tapar\" a #Barcenas con su agenda internacional, con un poco de suerte #Prescribe  y  #SeQuedaEnNa  &gt;  ...",
+                "url": "http://twitter.com/jmg_escorial/status/318346360514564097",
+                "trackback_date": 1364734661,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7nHioHDquB",
+                        "expanded_url": "http://www.publico.es/espana/452838/rajoy-intenta-tapar-a-barcenas-con-su-agenda-internacional",
+                        "display_url": "publico.es/espana/452838/\u2026"
+                    }
+                ],
+                "target_birth_date": 1364734661,
+                "content": "RT @jimgzamora: #Rajoy intenta \"tapar\" a #Barcenas con su agenda internacional, con un poco de suerte #Prescribe  y  #SeQuedaEnNa  &gt;  ...",
+                "mytype": "tweet",
+                "score": 3.8168423,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000762663051/ace2df8d0401f94cbda7ca2bd2879db9_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jmg_escorial/status/318346360514564097",
+                "trackback_author_url": "http://twitter.com/jmg_escorial",
+                "highlight": "#Rajoy intenta \"tapar\" a #Barcenas con su agenda internacional, con un poco de suerte #Prescribe y #SeQuedaEnNa &gt; ",
+                "topsy_author_url": "http://topsy.com/twitter/jmg_escorial",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jmg_escorial/status/318346360514564097",
+                "trackback_author_name": "jos\u00e9 mar\u00eda garc\u00eda",
+                "trackback_author_nick": "jmg_escorial"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 730,
+        "hidden": 0,
+        "total": 795,
+        "page": 1
+    }
+}

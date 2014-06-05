@@ -1,0 +1,45 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23corroborative&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=10",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#corroborative",
+            "window": "a",
+            "type": "tweet",
+            "offset": "10"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1328060953,
+                "title": "@BillGates What'll ignite a more #corroborative discourse between the #publicsector & #privatesector so that they work #inconcert 2gether?",
+                "url": "http://twitter.com/mturkpsu82/status/164525679881363456",
+                "trackback_date": 1328060953,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1328060953,
+                "content": "@BillGates What'll ignite a more #corroborative discourse between the #publicsector & #privatesector so that they work #inconcert 2gether?",
+                "mytype": "tweet",
+                "score": 3.8098073,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/444117067/Flag_with_Cross_normal.jpg",
+                "trackback_permalink": "http://twitter.com/mturkpsu82/status/164525679881363456",
+                "trackback_author_url": "http://twitter.com/turk182182turk",
+                "highlight": " What'll ignite a more #corroborative discourse between the #publicsector & #privatesector so that they work #inconcert 2gether?",
+                "topsy_author_url": "http://topsy.com/twitter/turk182182turk",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mturkpsu82/status/164525679881363456",
+                "trackback_author_name": "turk",
+                "trackback_author_nick": "turk182182turk"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 10,
+        "hidden": 0,
+        "total": 11,
+        "page": 1
+    }
+}
