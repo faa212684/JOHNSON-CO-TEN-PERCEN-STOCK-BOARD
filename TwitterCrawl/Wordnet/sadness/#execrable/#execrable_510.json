@@ -1,0 +1,23 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23execrable&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=510",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#execrable",
+            "window": "a",
+            "type": "tweet",
+            "offset": "510"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 510,
+        "hidden": 0,
+        "total": 509,
+        "page": 1
+    }
+}

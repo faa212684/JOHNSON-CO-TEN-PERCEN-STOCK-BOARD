@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23poo&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=130",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#poo",
+            "window": "a",
+            "type": "tweet",
+            "offset": "130"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1277917323,
+                "title": "Today is a triple-shot espresso day. Had fun with the Spokane influencers at the Bing theatre last night! Tons of new inside jokes. #poo",
+                "url": "http://twitter.com/chrispirillo/status/17428205652",
+                "trackback_date": 1277917323,
+                "trackback_total": 5,
+                "url_expansions": [],
+                "target_birth_date": 1277917323,
+                "content": "Today is a triple-shot espresso day. Had fun with the Spokane influencers at the Bing theatre last night! Tons of new inside jokes. #poo",
+                "mytype": "tweet",
+                "score": 8.658066,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2611249528/h6jnw0fi4him8qfhdxby_normal.png",
+                "trackback_permalink": "http://twitter.com/ChrisPirillo/status/17428205652",
+                "trackback_author_url": "http://twitter.com/chrispirillo",
+                "highlight": "Today is a triple-shot espresso day. Had fun with the Spokane influencers at the Bing theatre last night! Tons of new inside jokes.",
+                "topsy_author_url": "http://topsy.com/twitter/chrispirillo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/chrispirillo/status/17428205652",
+                "trackback_author_name": "Chris Pirillo",
+                "trackback_author_nick": "chrispirillo"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1339166632,
+                "title": "RT @DailySource: BITS AND PIECES: There\u2018s gold in that \u2019thar\u2019 whale poop. (Discovery News) Story: http://t.co/D7XbhALr #poo #poop",
+                "url": "http://twitter.com/marysarahmusic/status/211106275306647554",
+                "trackback_date": 1339166632,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/D7XbhALr",
+                        "display_url": "source.ly/10OYH",
+                        "expanded_url": "http://source.ly/10OYH",
+                        "topsy_expanded_url": "http://source.ly/10OYH"
+                    }
+                ],
+                "target_birth_date": 1339166632,
+                "content": "RT @DailySource: BITS AND PIECES: There\u2018s gold in that \u2019thar\u2019 whale poop. (Discovery News) Story: http://t.co/D7XbhALr #poo #poop",
+                "mytype": "tweet",
+                "score": 8.657426,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452036657995186176/MfUrGEkV_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MarySarahMusic/status/211106275306647554",
+                "trackback_author_url": "http://twitter.com/marysarahmusic",
+                "highlight": "BITS AND PIECES: There\u2018s gold in that \u2019thar\u2019 whale poop. (Discovery News) Story: #poo",
+                "topsy_author_url": "http://topsy.com/twitter/marysarahmusic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/marysarahmusic/status/211106275306647554",
+                "trackback_author_name": "Mary Sarah",
+                "trackback_author_nick": "marysarahmusic"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1278119463,
+                "title": "I LOVE... my #poo #poo",
+                "url": "http://twitter.com/sidyti/status/17613622915",
+                "trackback_date": 1278119463,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1278119463,
+                "content": "I LOVE... my #poo #poo",
+                "mytype": "tweet",
+                "score": 8.65722,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/470212410767208450/iRla4x2b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Sidyti/status/17613622915",
+                "trackback_author_url": "http://twitter.com/sidyti",
+                "highlight": "I LOVE... my #poo",
+                "topsy_author_url": "http://topsy.com/twitter/sidyti",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sidyti/status/17613622915",
+                "trackback_author_name": "Sidyti",
+                "trackback_author_nick": "sidyti"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1337294402,
+                "title": "#POO Sub Clases en la Programaci\u00f3n Orientada a Objetos http://t.co/E1ZSzvqp",
+                "url": "http://twitter.com/codejobs/status/203253571490295808",
+                "trackback_date": 1337294402,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/E1ZSzvqp",
+                        "display_url": "bit.ly/KjZeE2",
+                        "expanded_url": "http://bit.ly/KjZeE2",
+                        "topsy_expanded_url": "http://www.cristalab.com/programacion-orientada-objetos/sub-clases-poo/"
+                    }
+                ],
+                "target_birth_date": 1337294402,
+                "content": "#POO Sub Clases en la Programaci\u00f3n Orientada a Objetos http://t.co/E1ZSzvqp",
+                "mytype": "tweet",
+                "score": 8.654938,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000361160975/bdf30010736cfdddc4d6cd1ba0e2243b_normal.png",
+                "trackback_permalink": "http://twitter.com/codejobs/status/203253571490295808",
+                "trackback_author_url": "http://twitter.com/codejobs",
+                "highlight": "#POO Sub Clases en la Programaci\u00f3n Orientada a Objetos",
+                "topsy_author_url": "http://topsy.com/twitter/codejobs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/codejobs/status/203253571490295808",
+                "trackback_author_name": "codejobs",
+                "trackback_author_nick": "codejobs"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1339180802,
+                "title": "#POO C\u00f3mo escribir una Clase http://t.co/8PWxRZBD",
+                "url": "http://twitter.com/codejobs/status/211165705939333120",
+                "trackback_date": 1339180802,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8PWxRZBD",
+                        "display_url": "bit.ly/JSQ9DQ",
+                        "expanded_url": "http://bit.ly/JSQ9DQ",
+                        "topsy_expanded_url": "http://www.cristalab.com/programacion-orientada-objetos/como-escribir-clases/"
+                    }
+                ],
+                "target_birth_date": 1339180802,
+                "content": "#POO C\u00f3mo escribir una Clase http://t.co/8PWxRZBD",
+                "mytype": "tweet",
+                "score": 8.651349,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000361160975/bdf30010736cfdddc4d6cd1ba0e2243b_normal.png",
+                "trackback_permalink": "http://twitter.com/codejobs/status/211165705939333120",
+                "trackback_author_url": "http://twitter.com/codejobs",
+                "highlight": "#POO C\u00f3mo escribir una Clase",
+                "topsy_author_url": "http://topsy.com/twitter/codejobs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/codejobs/status/211165705939333120",
+                "trackback_author_name": "codejobs",
+                "trackback_author_nick": "codejobs"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1346445739,
+                "title": "Keith Lemon the movie. Doesn't work #poo",
+                "url": "http://twitter.com/keithsenior4/status/241637060220436480",
+                "trackback_date": 1346445739,
+                "trackback_total": 10,
+                "url_expansions": [],
+                "target_birth_date": 1346445739,
+                "content": "Keith Lemon the movie. Doesn't work #poo",
+                "mytype": "tweet",
+                "score": 8.648654,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/474209401868660736/whTRt8x4_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/KeithSenior4/status/241637060220436480",
+                "trackback_author_url": "http://twitter.com/keithsenior4",
+                "highlight": "Keith Lemon the movie. Doesn't work",
+                "topsy_author_url": "http://topsy.com/twitter/keithsenior4",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/keithsenior4/status/241637060220436480",
+                "trackback_author_name": "Keith Senior",
+                "trackback_author_nick": "keithsenior4"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1339418402,
+                "title": "#POO \u00c1mbitos public, private, protected y local http://t.co/zN7ENU4S",
+                "url": "http://twitter.com/codejobs/status/212162275296022528",
+                "trackback_date": 1339418402,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/zN7ENU4S",
+                        "display_url": "bit.ly/KjZxP0",
+                        "expanded_url": "http://bit.ly/KjZxP0",
+                        "topsy_expanded_url": "http://www.cristalab.com/programacion-orientada-objetos/ambitos-public-private-protected-local/"
+                    }
+                ],
+                "target_birth_date": 1339418402,
+                "content": "#POO \u00c1mbitos public, private, protected y local http://t.co/zN7ENU4S",
+                "mytype": "tweet",
+                "score": 8.647847,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000361160975/bdf30010736cfdddc4d6cd1ba0e2243b_normal.png",
+                "trackback_permalink": "http://twitter.com/codejobs/status/212162275296022528",
+                "trackback_author_url": "http://twitter.com/codejobs",
+                "highlight": "#POO \u00c1mbitos public, private, protected y local",
+                "topsy_author_url": "http://topsy.com/twitter/codejobs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/codejobs/status/212162275296022528",
+                "trackback_author_name": "codejobs",
+                "trackback_author_nick": "codejobs"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1337736468,
+                "title": "TL #Poo FoneLine #Poo TxtLine #Poo \ud83d\ude32\ud83d\udd2b",
+                "url": "http://twitter.com/anwhatblaccjay/status/205107731424739328",
+                "trackback_date": 1337736468,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1337736468,
+                "content": "TL #Poo FoneLine #Poo TxtLine #Poo \ud83d\ude32\ud83d\udd2b",
+                "mytype": "tweet",
+                "score": 8.641961,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/459111358710030336/yGK8rYdc_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AnWhatBlaccJay/status/205107731424739328",
+                "trackback_author_url": "http://twitter.com/anwhatblaccjay",
+                "highlight": "TL #Poo FoneLine #Poo TxtLine #Poo \ud83d\ude32\ud83d\udd2b",
+                "topsy_author_url": "http://topsy.com/twitter/anwhatblaccjay",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/anwhatblaccjay/status/205107731424739328",
+                "trackback_author_name": "IG:Blacc_JJones",
+                "trackback_author_nick": "anwhatblaccjay"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1382595610,
+                "title": "Manipuler les dates et heures en PHP de mani\u00e8re orient\u00e9e objet: http://t.co/Nxh5mA0PxP #fdw #php #poo #date #time",
+                "url": "http://twitter.com/lafermeduweb/status/393260608596226049",
+                "trackback_date": 1382595610,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Nxh5mA0PxP",
+                        "display_url": "fdw.lu/BTi",
+                        "expanded_url": "http://fdw.lu/BTi",
+                        "topsy_expanded_url": "http://net.tutsplus.com/tutorials/php/dates-and-time-the-oop-way/"
+                    }
+                ],
+                "target_birth_date": 1382595610,
+                "content": "Manipuler les dates et heures en PHP de mani\u00e8re orient\u00e9e objet: http://t.co/Nxh5mA0PxP #fdw #php #poo #date #time",
+                "mytype": "tweet",
+                "score": 8.634811,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1723312210/logo-transpa-400px_normal.png",
+                "trackback_permalink": "http://twitter.com/LaFermeDuWeb/status/393260608596226049",
+                "trackback_author_url": "http://twitter.com/lafermeduweb",
+                "highlight": "Manipuler les dates et heures en PHP de mani\u00e8re orient\u00e9e objet: #fdw #php #poo #date",
+                "topsy_author_url": "http://topsy.com/twitter/lafermeduweb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lafermeduweb/status/393260608596226049",
+                "trackback_author_name": "DJo",
+                "trackback_author_nick": "lafermeduweb"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1337784002,
+                "title": "#POO Clases Din\u00e1micas y Clases Est\u00e1ticas http://t.co/XoYHjwfV",
+                "url": "http://twitter.com/codejobs/status/205307104301559808",
+                "trackback_date": 1337784002,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XoYHjwfV",
+                        "display_url": "bit.ly/JiYP8R",
+                        "expanded_url": "http://bit.ly/JiYP8R",
+                        "topsy_expanded_url": "http://www.cristalab.com/programacion-orientada-objetos/clases-dinamicas-clases-estaticas/"
+                    }
+                ],
+                "target_birth_date": 1337784002,
+                "content": "#POO Clases Din\u00e1micas y Clases Est\u00e1ticas http://t.co/XoYHjwfV",
+                "mytype": "tweet",
+                "score": 8.63336,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000361160975/bdf30010736cfdddc4d6cd1ba0e2243b_normal.png",
+                "trackback_permalink": "http://twitter.com/codejobs/status/205307104301559808",
+                "trackback_author_url": "http://twitter.com/codejobs",
+                "highlight": "#POO Clases Din\u00e1micas y Clases Est\u00e1ticas",
+                "topsy_author_url": "http://topsy.com/twitter/codejobs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/codejobs/status/205307104301559808",
+                "trackback_author_name": "codejobs",
+                "trackback_author_nick": "codejobs"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 130,
+        "hidden": 0,
+        "total": 200095,
+        "page": 1
+    }
+}

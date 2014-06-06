@@ -1,0 +1,288 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23distress&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=20",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#distress",
+            "window": "a",
+            "type": "tweet",
+            "offset": "20"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 12,
+                "firstpost_date": 1356497632,
+                "title": "The English transliteration of the Dua, mentioned in this lecture: http://t.co/DotY1OHN\n\n#ImamAli #Ahlulbayt #Distress http://t.co/QPJD5Fxl",
+                "url": "http://twitter.com/sayedmodarresi/status/283797752847147008",
+                "trackback_date": 1356497632,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/DotY1OHN",
+                        "display_url": "youtube.com/watch?v=0njSjj\u2026",
+                        "expanded_url": "http://www.youtube.com/watch?v=0njSjjrKchs&feature=youtube_gdata_player",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=0njSjjrKchs&feature=youtube_gdata_player"
+                    },
+                    {
+                        "url": "http://t.co/QPJD5Fxl",
+                        "expanded_url": "http://twitter.com/SayedModarresi/status/283797752847147008/photo/1",
+                        "display_url": "pic.twitter.com/QPJD5Fxl"
+                    }
+                ],
+                "target_birth_date": 1356497632,
+                "content": "The English transliteration of the Dua, mentioned in this lecture: http://t.co/DotY1OHN\n\n#ImamAli #Ahlulbayt #Distress http://t.co/QPJD5Fxl",
+                "mytype": "tweet",
+                "score": 8.803507,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000410224433/b1c37492c5c1352640fbc10990cf8c86_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SayedModarresi/status/283797752847147008",
+                "trackback_author_url": "http://twitter.com/sayedmodarresi",
+                "highlight": "The English transliteration of the Dua, mentioned in this lecture: #ImamAli #Ahlulbayt #Distress",
+                "topsy_author_url": "http://topsy.com/twitter/sayedmodarresi",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sayedmodarresi/status/283797752847147008",
+                "trackback_author_name": "Sayed M. Modarresi",
+                "trackback_author_nick": "sayedmodarresi"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1296240500,
+                "title": "To my #99er friends. Thank you for using the hash tag #SOS! For those that haven't already please do so if you remember.  #distress",
+                "url": "http://twitter.com/rochellesevier/status/31061027684622336",
+                "trackback_date": 1296240500,
+                "trackback_total": 4,
+                "url_expansions": [],
+                "target_birth_date": 1296240500,
+                "content": "To my #99er friends. Thank you for using the hash tag #SOS! For those that haven't already please do so if you remember.  #distress",
+                "mytype": "tweet",
+                "score": 8.799648,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/432023100633665536/RPbqTx6c_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rochellesevier/status/31061027684622336",
+                "trackback_author_url": "http://twitter.com/rochellesevier",
+                "highlight": "To my #99er friends. Thank you for using the hash tag #SOS! For those that haven't already please do so if you remember.",
+                "topsy_author_url": "http://topsy.com/twitter/rochellesevier",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rochellesevier/status/31061027684622336",
+                "trackback_author_name": "Rochelle",
+                "trackback_author_nick": "rochellesevier"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1401642971,
+                "title": "THERE\u2019S #Dolphins IN #DISTRESS, WHAT SHOULD I DO? http://t.co/p97fEm093b  immediately call local #rescue team for advice &amp; assistance!",
+                "url": "http://twitter.com/whales_org/status/473151032034205696",
+                "trackback_date": 1401642971,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/p97fEm093b",
+                        "display_url": "bit.ly/1kwAwke",
+                        "expanded_url": "http://bit.ly/1kwAwke",
+                        "topsy_expanded_url": "http://www.whalefish.org/"
+                    }
+                ],
+                "target_birth_date": 1401642971,
+                "content": "THERE\u2019S #Dolphins IN #DISTRESS, WHAT SHOULD I DO? http://t.co/p97fEm093b  immediately call local #rescue team for advice &amp; assistance!",
+                "mytype": "tweet",
+                "score": 8.786178,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2686552874/ef9b71b261978c03e5e233208f147b99_normal.png",
+                "trackback_permalink": "http://twitter.com/WHALES_org/status/473151032034205696",
+                "trackback_author_url": "http://twitter.com/whales_org",
+                "highlight": "THERE\u2019S #Dolphins IN #DISTRESS, WHAT SHOULD I DO? immediately call local #rescue team for advice &amp; assistance!",
+                "topsy_author_url": "http://topsy.com/twitter/whales_org",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/whales_org/status/473151032034205696",
+                "trackback_author_name": "WDC",
+                "trackback_author_nick": "whales_org"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1383860251,
+                "title": "Glad you like. #distress #oakleywomen RT @RyannOToole:  My new favorite!!!! http://t.co/pEX6bgTyJD",
+                "url": "http://twitter.com/oakleysports/status/398564897966931969",
+                "trackback_date": 1383860251,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/pEX6bgTyJD",
+                        "display_url": "pic.twitter.com/pEX6bgTyJD",
+                        "expanded_url": "http://twitter.com/RyannOToole/status/398526298475094016/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BYfZjo_CUAANbhq.jpg"
+                    }
+                ],
+                "target_birth_date": 1383860251,
+                "content": "Glad you like. #distress #oakleywomen RT @RyannOToole:  My new favorite!!!! http://t.co/pEX6bgTyJD",
+                "mytype": "tweet",
+                "score": 8.7786255,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/465874021075013632/npqBIPV8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OakleySports/status/398564897966931969",
+                "trackback_author_url": "http://twitter.com/oakleysports",
+                "highlight": "Glad you like. #distress #oakleywomenMy new favorite!!!!",
+                "topsy_author_url": "http://topsy.com/twitter/oakleysports",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/oakleysports/status/398564897966931969",
+                "trackback_author_name": "Oakley Global Sports",
+                "trackback_author_nick": "oakleysports"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1392772270,
+                "title": "@izzysroses\nNation In #Distress Photo of #Marine\nWith American Flag\nThis photo is worth 1000 Words\n#VETS\nhttp://t.co/ZtEieYSbDm\n@marylene58",
+                "url": "http://twitter.com/perossmeisl/status/435944616060518400",
+                "trackback_date": 1392772270,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ZtEieYSbDm",
+                        "display_url": "pic.twitter.com/ZtEieYSbDm",
+                        "expanded_url": "http://twitter.com/Charmm001/status/389033604329652224/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BWYgAIACQAAtHuG.jpg"
+                    }
+                ],
+                "target_birth_date": 1392772270,
+                "content": "@izzysroses\nNation In #Distress Photo of #Marine\nWith American Flag\nThis photo is worth 1000 Words\n#VETS\nhttp://t.co/ZtEieYSbDm\n@marylene58",
+                "mytype": "tweet",
+                "score": 8.759339,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000545090087/421af84f96a19b1b0203f335a3280c24_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/perossmeisl/status/435944616060518400",
+                "trackback_author_url": "http://twitter.com/perossmeisl",
+                "highlight": " Nation In #Distress Photo of #Marine With American Flag This photo is worth 1000 Words #VETS @marylene58",
+                "topsy_author_url": "http://topsy.com/twitter/perossmeisl",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/perossmeisl/status/435944616060518400",
+                "trackback_author_name": "I WILL REMEMBER",
+                "trackback_author_nick": "perossmeisl"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1348593910,
+                "title": "RT @Outhere My UNITED STATES FLAG IS HANGING IN #Distress",
+                "url": "http://twitter.com/imsure/status/250647143709278210",
+                "trackback_date": 1348593910,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1348593910,
+                "content": "RT @Outhere My UNITED STATES FLAG IS HANGING IN #Distress",
+                "mytype": "tweet",
+                "score": 8.756141,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/427906096406495232/P8fz-qzh_normal.png",
+                "trackback_permalink": "http://twitter.com/imsure/status/250647143709278210",
+                "trackback_author_url": "http://twitter.com/imsure",
+                "highlight": "RT @Outhere My UNITED STATES FLAG IS HANGING IN",
+                "topsy_author_url": "http://topsy.com/twitter/imsure",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/imsure/status/250647143709278210",
+                "trackback_author_name": "mb",
+                "trackback_author_nick": "imsure"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1394751294,
+                "title": "Nation In #Distress Photo of a #Marine w/an American Flag.This photo is worth 1000 Words  #VETS http://t.co/kzlHn9eXtV",
+                "url": "http://twitter.com/izzysroses/status/444245245035679744",
+                "trackback_date": 1394751294,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kzlHn9eXtV",
+                        "display_url": "pic.twitter.com/kzlHn9eXtV",
+                        "expanded_url": "http://twitter.com/Charmm001/status/389033604329652224/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BWYgAIACQAAtHuG.jpg"
+                    }
+                ],
+                "target_birth_date": 1394751294,
+                "content": "Nation In #Distress Photo of a #Marine w/an American Flag.This photo is worth 1000 Words  #VETS http://t.co/kzlHn9eXtV",
+                "mytype": "tweet",
+                "score": 8.756073,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/293372659/1508607466_m_normal.jpg",
+                "trackback_permalink": "http://twitter.com/izzysroses/status/444245245035679744",
+                "trackback_author_url": "http://twitter.com/izzysroses",
+                "highlight": "Nation In #Distress Photo of a #Marine w/an American Flag.This photo is worth 1000 Words #VETS",
+                "topsy_author_url": "http://topsy.com/twitter/izzysroses",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/izzysroses/status/444245245035679744",
+                "trackback_author_name": "Isabelle H-Gustafson",
+                "trackback_author_nick": "izzysroses"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1381690510,
+                "title": "Nation In #Distress Photo of a #Marine w/an American Flag.This photo is worth 1000 Words #TCOT #VETS #T2SDA #teaparty http://t.co/N9PueB1ocD",
+                "url": "http://twitter.com/moralethicsnow/status/389464344032858112",
+                "trackback_date": 1381690510,
+                "trackback_total": 17,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/N9PueB1ocD",
+                        "display_url": "pic.twitter.com/N9PueB1ocD",
+                        "expanded_url": "http://twitter.com/Charmm001/status/389033604329652224/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BWYgAIACQAAtHuG.jpg"
+                    }
+                ],
+                "target_birth_date": 1381690510,
+                "content": "Nation In #Distress Photo of a #Marine w/an American Flag.This photo is worth 1000 Words #TCOT #VETS #T2SDA #teaparty http://t.co/N9PueB1ocD",
+                "mytype": "tweet",
+                "score": 8.721635,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/474395705428037632/3SRvlCtf_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MoralEthicsNow/status/389464344032858112",
+                "trackback_author_url": "http://twitter.com/moralethicsnow1",
+                "highlight": "Nation In #Distress Photo of a #Marine w/an American Flag.This photo is worth 1000 Words #TCOT #VETS #T2SDA #teaparty",
+                "topsy_author_url": "http://topsy.com/twitter/moralethicsnow1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/moralethicsnow/status/389464344032858112",
+                "trackback_author_name": "MoralEthicsNow1",
+                "trackback_author_nick": "moralethicsnow1"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1381701180,
+                "title": ".. @brithume : RT @Charmm001: Nation In #Distress #Marine w/an American Flag. photo is worth 1000 Words http://t.co/vvrLtVvGob",
+                "url": "http://twitter.com/lissy_kuri/status/389509098284146688",
+                "trackback_date": 1381701180,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vvrLtVvGob",
+                        "display_url": "pic.twitter.com/vvrLtVvGob",
+                        "expanded_url": "http://twitter.com/Charmm001/status/389033604329652224/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BWYgAIACQAAtHuG.jpg"
+                    }
+                ],
+                "target_birth_date": 1381701180,
+                "content": ".. @brithume : RT @Charmm001: Nation In #Distress #Marine w/an American Flag. photo is worth 1000 Words http://t.co/vvrLtVvGob",
+                "mytype": "tweet",
+                "score": 8.71314,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467083607878942721/MoIHQDvD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Lissy_Kuri/status/389509098284146688",
+                "trackback_author_url": "http://twitter.com/lissy_kuri",
+                "highlight": ".. @brithume :Nation In #Distress #Marine w/an American Flag. photo is worth 1000 Words",
+                "topsy_author_url": "http://topsy.com/twitter/lissy_kuri",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lissy_kuri/status/389509098284146688",
+                "trackback_author_name": "Mistakenforasoul",
+                "trackback_author_nick": "lissy_kuri"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1259791699,
+                "title": "I hate a runny nose! #distress",
+                "url": "http://twitter.com/dharmeshg/status/6282747116",
+                "trackback_date": 1259791699,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1259791699,
+                "content": "I hate a runny nose! #distress",
+                "mytype": "tweet",
+                "score": 8.708242,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471583224498753537/v-EwoV63_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/dharmeshG/status/6282747116",
+                "trackback_author_url": "http://twitter.com/dharmeshg",
+                "highlight": "I hate a runny nose!",
+                "topsy_author_url": "http://topsy.com/twitter/dharmeshg",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dharmeshg/status/6282747116",
+                "trackback_author_name": "Dharmesh Gandhi",
+                "trackback_author_nick": "dharmeshg"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 20,
+        "hidden": 0,
+        "total": 15652,
+        "page": 1
+    }
+}

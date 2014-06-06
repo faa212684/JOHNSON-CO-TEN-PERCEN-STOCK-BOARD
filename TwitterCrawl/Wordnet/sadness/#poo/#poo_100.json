@@ -1,0 +1,283 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23poo&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=100",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#poo",
+            "window": "a",
+            "type": "tweet",
+            "offset": "100"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 2,
+                "firstpost_date": 1400074482,
+                "title": "@offtheleashhfx it has happened! #poo #Q",
+                "url": "http://twitter.com/jianghomeshi/status/466572311848423424",
+                "trackback_date": 1400074482,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1400074482,
+                "content": "@offtheleashhfx it has happened! #poo #Q",
+                "mytype": "tweet",
+                "score": 8.738637,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1672062050/Picture_1_normal.png",
+                "trackback_permalink": "http://twitter.com/jianghomeshi/status/466572311848423424",
+                "trackback_author_url": "http://twitter.com/jianghomeshi",
+                "highlight": " it has happened! #poo",
+                "topsy_author_url": "http://topsy.com/twitter/jianghomeshi",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jianghomeshi/status/466572311848423424",
+                "trackback_author_name": "jian ghomeshi",
+                "trackback_author_nick": "jianghomeshi"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1352857908,
+                "title": "My parents don't let me buy energy drinks #poo",
+                "url": "http://twitter.com/lizzmama/status/268531648096776192",
+                "trackback_date": 1352857908,
+                "trackback_total": 3,
+                "url_expansions": [],
+                "target_birth_date": 1352857908,
+                "content": "My parents don't let me buy energy drinks #poo",
+                "mytype": "tweet",
+                "score": 8.737357,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/474093161053036544/46wmD4Fx_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LizzMama/status/268531648096776192",
+                "trackback_author_url": "http://twitter.com/lizbethhxo",
+                "highlight": "My parents don't let me buy energy drinks",
+                "topsy_author_url": "http://topsy.com/twitter/lizbethhxo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lizzmama/status/268531648096776192",
+                "trackback_author_name": "lizzy",
+                "trackback_author_nick": "lizbethhxo"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1337287202,
+                "title": "#POO Eventos en la Programaci\u00f3n Orientada a Objetos http://t.co/lpKab4t6",
+                "url": "http://twitter.com/codejobs/status/203223371067031552",
+                "trackback_date": 1337287202,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/lpKab4t6",
+                        "display_url": "bit.ly/KDWKTK",
+                        "expanded_url": "http://bit.ly/KDWKTK",
+                        "topsy_expanded_url": "http://www.cristalab.com/programacion-orientada-objetos/eventos/"
+                    }
+                ],
+                "target_birth_date": 1337287202,
+                "content": "#POO Eventos en la Programaci\u00f3n Orientada a Objetos http://t.co/lpKab4t6",
+                "mytype": "tweet",
+                "score": 8.737036,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000361160975/bdf30010736cfdddc4d6cd1ba0e2243b_normal.png",
+                "trackback_permalink": "http://twitter.com/codejobs/status/203223371067031552",
+                "trackback_author_url": "http://twitter.com/codejobs",
+                "highlight": "#POO Eventos en la Programaci\u00f3n Orientada a Objetos",
+                "topsy_author_url": "http://topsy.com/twitter/codejobs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/codejobs/status/203223371067031552",
+                "trackback_author_name": "codejobs",
+                "trackback_author_nick": "codejobs"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1343137204,
+                "title": "#POO C\u00f3mo escribir una Clase http://t.co/8PWxRZBD",
+                "url": "http://twitter.com/codejobs/status/227760061903167488",
+                "trackback_date": 1343137204,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8PWxRZBD",
+                        "display_url": "bit.ly/JSQ9DQ",
+                        "expanded_url": "http://bit.ly/JSQ9DQ",
+                        "topsy_expanded_url": "http://www.cristalab.com/programacion-orientada-objetos/como-escribir-clases/"
+                    }
+                ],
+                "target_birth_date": 1343137204,
+                "content": "#POO C\u00f3mo escribir una Clase http://t.co/8PWxRZBD",
+                "mytype": "tweet",
+                "score": 8.729765,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000361160975/bdf30010736cfdddc4d6cd1ba0e2243b_normal.png",
+                "trackback_permalink": "http://twitter.com/codejobs/status/227760061903167488",
+                "trackback_author_url": "http://twitter.com/codejobs",
+                "highlight": "#POO C\u00f3mo escribir una Clase",
+                "topsy_author_url": "http://topsy.com/twitter/codejobs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/codejobs/status/227760061903167488",
+                "trackback_author_name": "codejobs",
+                "trackback_author_nick": "codejobs"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1376878016,
+                "title": "A #Sunday night #poo read: http://t.co/G25ajpfzyh - fecal transplantation 2.0 @HuffPostCanada",
+                "url": "http://twitter.com/jatetro/status/369279281991393281",
+                "trackback_date": 1376878016,
+                "trackback_total": 13,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/G25ajpfzyh",
+                        "display_url": "m.huffpost.com/ca/entry/37671\u2026",
+                        "expanded_url": "http://m.huffpost.com/ca/entry/3767110",
+                        "topsy_expanded_url": "http://www.huffingtonpost.ca/jason-tetro/fecal-transplant-benefits_b_3767110.html"
+                    }
+                ],
+                "target_birth_date": 1376878016,
+                "content": "A #Sunday night #poo read: http://t.co/G25ajpfzyh - fecal transplantation 2.0 @HuffPostCanada",
+                "mytype": "tweet",
+                "score": 8.7239685,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461662199279124481/gV1g_0nU_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JATetro/status/369279281991393281",
+                "trackback_author_url": "http://twitter.com/jatetro",
+                "highlight": "A #Sunday night #poo read: - fecal transplantation 2.0 @HuffPostCanada",
+                "topsy_author_url": "http://topsy.com/twitter/jatetro",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jatetro/status/369279281991393281",
+                "trackback_author_name": "Jason Anthony Tetro",
+                "trackback_author_nick": "jatetro"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1389977929,
+                "title": "Typed in @Calfreezy to @YouTube and this is the top video that comes up: #Poo http://t.co/n6qw80ydzs",
+                "url": "http://twitter.com/kicktvgaming/status/424224299587620865",
+                "trackback_date": 1389977929,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/n6qw80ydzs",
+                        "display_url": "pic.twitter.com/n6qw80ydzs",
+                        "expanded_url": "http://twitter.com/KICKTVGaming/status/424224299587620865/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BeMlwLqCUAAU5xP.png"
+                    }
+                ],
+                "target_birth_date": 1389977929,
+                "content": "Typed in @Calfreezy to @YouTube and this is the top video that comes up: #Poo http://t.co/n6qw80ydzs",
+                "mytype": "tweet",
+                "score": 8.72331,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/454750933897867264/H5xtXEWw_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/KICKTVGaming/status/424224299587620865",
+                "trackback_author_url": "http://twitter.com/kicktvgaming",
+                "highlight": "Typed in @Calfreezy to @YouTube and this is the top video that comes up: #Poo",
+                "topsy_author_url": "http://topsy.com/twitter/kicktvgaming",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kicktvgaming/status/424224299587620865",
+                "trackback_author_name": "KICKTV Gaming",
+                "trackback_author_nick": "kicktvgaming"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1339198802,
+                "title": "#POO Clases Din\u00e1micas y Clases Est\u00e1ticas http://t.co/XoYHjwfV",
+                "url": "http://twitter.com/codejobs/status/211241205932101632",
+                "trackback_date": 1339198802,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/XoYHjwfV",
+                        "display_url": "bit.ly/JiYP8R",
+                        "expanded_url": "http://bit.ly/JiYP8R",
+                        "topsy_expanded_url": "http://www.cristalab.com/programacion-orientada-objetos/clases-dinamicas-clases-estaticas/"
+                    }
+                ],
+                "target_birth_date": 1339198802,
+                "content": "#POO Clases Din\u00e1micas y Clases Est\u00e1ticas http://t.co/XoYHjwfV",
+                "mytype": "tweet",
+                "score": 8.723061,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000361160975/bdf30010736cfdddc4d6cd1ba0e2243b_normal.png",
+                "trackback_permalink": "http://twitter.com/codejobs/status/211241205932101632",
+                "trackback_author_url": "http://twitter.com/codejobs",
+                "highlight": "#POO Clases Din\u00e1micas y Clases Est\u00e1ticas",
+                "topsy_author_url": "http://topsy.com/twitter/codejobs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/codejobs/status/211241205932101632",
+                "trackback_author_name": "codejobs",
+                "trackback_author_nick": "codejobs"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1304455045,
+                "title": "You know, if you go through all those sentence's, you could complete them all with the word #POO",
+                "url": "http://twitter.com/cravengossip/status/65515325302640640",
+                "trackback_date": 1304455045,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1304455045,
+                "content": "You know, if you go through all those sentence's, you could complete them all with the word #POO",
+                "mytype": "tweet",
+                "score": 8.722204,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1450921785/Picture_4_normal.png",
+                "trackback_permalink": "http://twitter.com/cravengossip/status/65515325302640640",
+                "trackback_author_url": "http://twitter.com/cravengossip",
+                "highlight": "You know, if you go through all those sentence's, you could complete them all with the word",
+                "topsy_author_url": "http://topsy.com/twitter/cravengossip",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cravengossip/status/65515325302640640",
+                "trackback_author_name": "craven gossip",
+                "trackback_author_nick": "cravengossip"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1342724402,
+                "title": "#POO Conceptos de la Programaci\u00f3n Orientada a Objetos http://t.co/Ml5FEQXi",
+                "url": "http://twitter.com/codejobs/status/226028644403904512",
+                "trackback_date": 1342724402,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Ml5FEQXi",
+                        "display_url": "bit.ly/Motan9",
+                        "expanded_url": "http://bit.ly/Motan9",
+                        "topsy_expanded_url": "http://www.cristalab.com/programacion-orientada-objetos/conceptos-poo/"
+                    }
+                ],
+                "target_birth_date": 1342724402,
+                "content": "#POO Conceptos de la Programaci\u00f3n Orientada a Objetos http://t.co/Ml5FEQXi",
+                "mytype": "tweet",
+                "score": 8.720613,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000361160975/bdf30010736cfdddc4d6cd1ba0e2243b_normal.png",
+                "trackback_permalink": "http://twitter.com/codejobs/status/226028644403904512",
+                "trackback_author_url": "http://twitter.com/codejobs",
+                "highlight": "#POO Conceptos de la Programaci\u00f3n Orientada a Objetos",
+                "topsy_author_url": "http://topsy.com/twitter/codejobs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/codejobs/status/226028644403904512",
+                "trackback_author_name": "codejobs",
+                "trackback_author_nick": "codejobs"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1339191603,
+                "title": "#POO Clases e Instancias http://t.co/BOafk42W",
+                "url": "http://twitter.com/codejobs/status/211211009426333697",
+                "trackback_date": 1339191603,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/BOafk42W",
+                        "display_url": "bit.ly/KiwNot",
+                        "expanded_url": "http://bit.ly/KiwNot",
+                        "topsy_expanded_url": "http://www.cristalab.com/programacion-orientada-objetos/clases-instancias/"
+                    }
+                ],
+                "target_birth_date": 1339191603,
+                "content": "#POO Clases e Instancias http://t.co/BOafk42W",
+                "mytype": "tweet",
+                "score": 8.720296,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000361160975/bdf30010736cfdddc4d6cd1ba0e2243b_normal.png",
+                "trackback_permalink": "http://twitter.com/codejobs/status/211211009426333697",
+                "trackback_author_url": "http://twitter.com/codejobs",
+                "highlight": "#POO Clases e Instancias",
+                "topsy_author_url": "http://topsy.com/twitter/codejobs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/codejobs/status/211211009426333697",
+                "trackback_author_name": "codejobs",
+                "trackback_author_nick": "codejobs"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 100,
+        "hidden": 0,
+        "total": 200694,
+        "page": 1
+    }
+}

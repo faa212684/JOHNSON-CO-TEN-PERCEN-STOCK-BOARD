@@ -1,0 +1,270 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23bad&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=20",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#bad",
+            "window": "a",
+            "type": "tweet",
+            "offset": "20"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 231,
+                "firstpost_date": 1380149453,
+                "title": "Congrats! @Wale single #Bad has reached platinum. Get #TheGifted here: http://t.co/t8TSYGvIzz",
+                "url": "http://twitter.com/rickyrozay/status/383000685627047936",
+                "trackback_date": 1380149453,
+                "trackback_total": 275,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/t8TSYGvIzz",
+                        "display_url": "Walemusic.com",
+                        "expanded_url": "http://Walemusic.com",
+                        "topsy_expanded_url": "http://www.walemusic.com/"
+                    }
+                ],
+                "target_birth_date": 1380149453,
+                "content": "Congrats! @Wale single #Bad has reached platinum. Get #TheGifted here: http://t.co/t8TSYGvIzz",
+                "mytype": "tweet",
+                "score": 10.7744055,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467294080725417984/67UQ75sL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rickyrozay/status/383000685627047936",
+                "trackback_author_url": "http://twitter.com/rickyrozay",
+                "highlight": "Congrats! @Wale single #Bad has reached platinum. Get #TheGifted here:",
+                "topsy_author_url": "http://topsy.com/twitter/rickyrozay",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rickyrozay/status/383000685627047936",
+                "trackback_author_name": "Mastermind",
+                "trackback_author_nick": "rickyrozay"
+            },
+            {
+                "hits": 135,
+                "firstpost_date": 1363822402,
+                "title": "#BAD Video a very fly clip #TheGifted",
+                "url": "http://twitter.com/rickyrozay/status/314520068346224641",
+                "trackback_date": 1363822402,
+                "trackback_total": 172,
+                "url_expansions": [],
+                "target_birth_date": 1363822402,
+                "content": "#BAD Video a very fly clip #TheGifted",
+                "mytype": "tweet",
+                "score": 10.770805,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467294080725417984/67UQ75sL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rickyrozay/status/314520068346224641",
+                "trackback_author_url": "http://twitter.com/rickyrozay",
+                "highlight": "#BAD Video a very fly clip",
+                "topsy_author_url": "http://topsy.com/twitter/rickyrozay",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rickyrozay/status/314520068346224641",
+                "trackback_author_name": "Mastermind",
+                "trackback_author_nick": "rickyrozay"
+            },
+            {
+                "hits": 118,
+                "firstpost_date": 1360039359,
+                "title": "@Wale #Bad single link http://t.co/zIro0UC0",
+                "url": "http://twitter.com/rickyrozay/status/298652836504416256",
+                "trackback_date": 1360039359,
+                "trackback_total": 169,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/zIro0UC0",
+                        "expanded_url": "http://bit.ly/WaleBad",
+                        "display_url": "bit.ly/WaleBad"
+                    }
+                ],
+                "target_birth_date": 1360039359,
+                "content": "@Wale #Bad single link http://t.co/zIro0UC0",
+                "mytype": "tweet",
+                "score": 10.7677965,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467294080725417984/67UQ75sL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rickyrozay/status/298652836504416256",
+                "trackback_author_url": "http://twitter.com/rickyrozay",
+                "highlight": " #Bad single link",
+                "topsy_author_url": "http://topsy.com/twitter/rickyrozay",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rickyrozay/status/298652836504416256",
+                "trackback_author_name": "Mastermind",
+                "trackback_author_nick": "rickyrozay"
+            },
+            {
+                "hits": 412,
+                "firstpost_date": 1342379708,
+                "title": "@RamseyKrull then get over here and letzzzz rolllll #bad",
+                "url": "http://twitter.com/mileycyrus/status/224582891894607872",
+                "trackback_date": 1342379708,
+                "trackback_total": 545,
+                "url_expansions": [],
+                "target_birth_date": 1342379708,
+                "content": "@RamseyKrull then get over here and letzzzz rolllll #bad",
+                "mytype": "tweet",
+                "score": 10.765216,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473616630141169664/HsXJpLw0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MileyCyrus/status/224582891894607872",
+                "trackback_author_url": "http://twitter.com/mileycyrus",
+                "highlight": " then get over here and letzzzz rolllll",
+                "topsy_author_url": "http://topsy.com/twitter/mileycyrus",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mileycyrus/status/224582891894607872",
+                "trackback_author_name": "Miley Ray Cyrus",
+                "trackback_author_nick": "mileycyrus"
+            },
+            {
+                "hits": 110,
+                "firstpost_date": 1362791158,
+                "title": "#Djs Lets Gooo @Wale Single #BAD",
+                "url": "http://twitter.com/rickyrozay/status/310194717998592000",
+                "trackback_date": 1362791158,
+                "trackback_total": 142,
+                "url_expansions": [],
+                "target_birth_date": 1362791158,
+                "content": "#Djs Lets Gooo @Wale Single #BAD",
+                "mytype": "tweet",
+                "score": 10.754897,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467294080725417984/67UQ75sL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rickyrozay/status/310194717998592000",
+                "trackback_author_url": "http://twitter.com/rickyrozay",
+                "highlight": "#Djs Lets Gooo @Wale Single",
+                "topsy_author_url": "http://topsy.com/twitter/rickyrozay",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rickyrozay/status/310194717998592000",
+                "trackback_author_name": "Mastermind",
+                "trackback_author_nick": "rickyrozay"
+            },
+            {
+                "hits": 859,
+                "firstpost_date": 1344056564,
+                "title": "\ud83c\udf54\ud83c\udf5f\ud83c\udf5d\ud83c\udf5e @TimNewfang @RamseyKrull @PaulKhoury #BAD",
+                "url": "http://twitter.com/mileycyrus/status/231616134057713664",
+                "trackback_date": 1344056564,
+                "trackback_total": 1120,
+                "url_expansions": [],
+                "target_birth_date": 1344056564,
+                "content": "\ud83c\udf54\ud83c\udf5f\ud83c\udf5d\ud83c\udf5e @TimNewfang @RamseyKrull @PaulKhoury #BAD",
+                "mytype": "tweet",
+                "score": 10.736637,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473616630141169664/HsXJpLw0_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MileyCyrus/status/231616134057713664",
+                "trackback_author_url": "http://twitter.com/mileycyrus",
+                "highlight": "\ud83c\udf54\ud83c\udf5f\ud83c\udf5d\ud83c\udf5e @TimNewfang @RamseyKrull @PaulKhoury",
+                "topsy_author_url": "http://topsy.com/twitter/mileycyrus",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mileycyrus/status/231616134057713664",
+                "trackback_author_name": "Miley Ray Cyrus",
+                "trackback_author_nick": "mileycyrus"
+            },
+            {
+                "hits": 70,
+                "firstpost_date": 1360432933,
+                "title": "Most added song on urban radio. @Wale #Bad http://t.co/sf5zYoro",
+                "url": "http://twitter.com/rickyrozay/status/300303605183946753",
+                "trackback_date": 1360432933,
+                "trackback_total": 111,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/sf5zYoro",
+                        "expanded_url": "http://www.youtube.com/watch?feature=player_detailpage&v=kw19TnbL2DY",
+                        "display_url": "youtube.com/watch?feature=\u2026"
+                    }
+                ],
+                "target_birth_date": 1360432933,
+                "content": "Most added song on urban radio. @Wale #Bad http://t.co/sf5zYoro",
+                "mytype": "tweet",
+                "score": 10.727572,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467294080725417984/67UQ75sL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rickyrozay/status/300303605183946753",
+                "trackback_author_url": "http://twitter.com/rickyrozay",
+                "highlight": "Most added song on urban radio. @Wale #Bad",
+                "topsy_author_url": "http://topsy.com/twitter/rickyrozay",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rickyrozay/status/300303605183946753",
+                "trackback_author_name": "Mastermind",
+                "trackback_author_nick": "rickyrozay"
+            },
+            {
+                "hits": 83,
+                "firstpost_date": 1365186450,
+                "title": "#BAD @wale @Tiara_Thomas  http://t.co/gzF13L4ZO9  #TheGifted 6/25",
+                "url": "http://twitter.com/rickyrozay/status/320241302597943298",
+                "trackback_date": 1365186450,
+                "trackback_total": 112,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/gzF13L4ZO9",
+                        "expanded_url": "http://twitter.com/DotLove/status/315891976115482624/photo/1",
+                        "display_url": "pic.twitter.com/gzF13L4ZO9"
+                    }
+                ],
+                "target_birth_date": 1365186450,
+                "content": "#BAD @wale @Tiara_Thomas  http://t.co/gzF13L4ZO9  #TheGifted 6/25",
+                "mytype": "tweet",
+                "score": 10.715464,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467294080725417984/67UQ75sL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rickyrozay/status/320241302597943298",
+                "trackback_author_url": "http://twitter.com/rickyrozay",
+                "highlight": "#BAD @wale @Tiara_Thomas #TheGifted 6/25",
+                "topsy_author_url": "http://topsy.com/twitter/rickyrozay",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rickyrozay/status/320241302597943298",
+                "trackback_author_name": "Mastermind",
+                "trackback_author_nick": "rickyrozay"
+            },
+            {
+                "hits": 47,
+                "firstpost_date": 1369841563,
+                "title": "Go to http://t.co/HuwVlkpQBs and pre order \"The Gifted\" Ft. the certified Gold single #Bad http://t.co/MSgpcShTx1",
+                "url": "http://twitter.com/rickyrozay/status/339766260495691776",
+                "trackback_date": 1369841563,
+                "trackback_total": 61,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/HuwVlkpQBs",
+                        "expanded_url": "http://www.walemusic.com",
+                        "display_url": "walemusic.com"
+                    },
+                    {
+                        "url": "http://t.co/MSgpcShTx1",
+                        "expanded_url": "http://twitter.com/rickyrozay/status/334780500742905856/photo/1",
+                        "display_url": "pic.twitter.com/MSgpcShTx1"
+                    }
+                ],
+                "target_birth_date": 1369841563,
+                "content": "Go to http://t.co/HuwVlkpQBs and pre order \"The Gifted\" Ft. the certified Gold single #Bad http://t.co/MSgpcShTx1",
+                "mytype": "tweet",
+                "score": 10.711772,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467294080725417984/67UQ75sL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rickyrozay/status/339766260495691776",
+                "trackback_author_url": "http://twitter.com/rickyrozay",
+                "highlight": "Go to and pre order \"The Gifted\" Ft. the certified Gold single #Bad",
+                "topsy_author_url": "http://topsy.com/twitter/rickyrozay",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rickyrozay/status/339766260495691776",
+                "trackback_author_name": "Mastermind",
+                "trackback_author_nick": "rickyrozay"
+            },
+            {
+                "hits": 60,
+                "firstpost_date": 1360037057,
+                "title": "@Wale New Smash #BAD available on iTunes @ midnight",
+                "url": "http://twitter.com/rickyrozay/status/298643181036240896",
+                "trackback_date": 1360037057,
+                "trackback_total": 86,
+                "url_expansions": [],
+                "target_birth_date": 1360037057,
+                "content": "@Wale New Smash #BAD available on iTunes @ midnight",
+                "mytype": "tweet",
+                "score": 10.7103,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467294080725417984/67UQ75sL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rickyrozay/status/298643181036240896",
+                "trackback_author_url": "http://twitter.com/rickyrozay",
+                "highlight": " New Smash #BAD available on iTunes @ midnight",
+                "topsy_author_url": "http://topsy.com/twitter/rickyrozay",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rickyrozay/status/298643181036240896",
+                "trackback_author_name": "Mastermind",
+                "trackback_author_nick": "rickyrozay"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 20,
+        "hidden": 0,
+        "total": 2570189,
+        "page": 1
+    }
+}

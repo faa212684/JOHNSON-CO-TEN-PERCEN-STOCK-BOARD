@@ -1,0 +1,274 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23poo&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=110",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#poo",
+            "window": "a",
+            "type": "tweet",
+            "offset": "110"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 8,
+                "firstpost_date": 1312569088,
+                "title": "Bearmageddon page two is up and it smells awful! #sushi #deadanimals #poo http://t.co/kZczttf",
+                "url": "http://twitter.com/bearmageddon/status/99548090549288960",
+                "trackback_date": 1312569088,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/kZczttf",
+                        "display_url": "bearmageddon.com",
+                        "expanded_url": "http://bearmageddon.com/",
+                        "topsy_expanded_url": "http://bearmageddon.com/"
+                    }
+                ],
+                "target_birth_date": 1312569088,
+                "content": "Bearmageddon page two is up and it smells awful! #sushi #deadanimals #poo http://t.co/kZczttf",
+                "mytype": "tweet",
+                "score": 8.713441,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1476336329/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Bearmageddon/status/99548090549288960",
+                "trackback_author_url": "http://twitter.com/bearmageddon",
+                "highlight": "Bearmageddon page two is up and it smells awful! #sushi #deadanimals #poo",
+                "topsy_author_url": "http://topsy.com/twitter/bearmageddon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bearmageddon/status/99548090549288960",
+                "trackback_author_name": "Bearmageddon",
+                "trackback_author_nick": "bearmageddon"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1304576701,
+                "title": "Un article complet pour d\u00e9buter \u00e0 d\u00e9velopper en orient\u00e9 objet avec PHP: http://fdw.lu/arf #fdw #poo #php5 #tutorials",
+                "url": "http://twitter.com/lafermeduweb/status/66025588640579584",
+                "trackback_date": 1304576701,
+                "trackback_total": 11,
+                "url_expansions": [],
+                "target_birth_date": 1304576701,
+                "content": "Un article complet pour d\u00e9buter \u00e0 d\u00e9velopper en orient\u00e9 objet avec PHP: http://fdw.lu/arf #fdw #poo #php5 #tutorials",
+                "mytype": "tweet",
+                "score": 8.712108,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1723312210/logo-transpa-400px_normal.png",
+                "trackback_permalink": "http://twitter.com/LaFermeDuWeb/status/66025588640579584",
+                "trackback_author_url": "http://twitter.com/lafermeduweb",
+                "highlight": "Un article complet pour d\u00e9buter \u00e0 d\u00e9velopper en orient\u00e9 objet avec PHP: #fdw #poo #php5",
+                "topsy_author_url": "http://topsy.com/twitter/lafermeduweb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lafermeduweb/status/66025588640579584",
+                "trackback_author_name": "DJo",
+                "trackback_author_nick": "lafermeduweb"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1338060423,
+                "title": "ITV seriously need to sack Andy Townsend. Talks complete #poo",
+                "url": "http://twitter.com/andyburgess11/status/206466498955460608",
+                "trackback_date": 1338060423,
+                "trackback_total": 17,
+                "url_expansions": [],
+                "target_birth_date": 1338060423,
+                "content": "ITV seriously need to sack Andy Townsend. Talks complete #poo",
+                "mytype": "tweet",
+                "score": 8.709354,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/474323209253552128/oC7KZeTZ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AndyBurgess11/status/206466498955460608",
+                "trackback_author_url": "http://twitter.com/andyburgess11",
+                "highlight": "ITV seriously need to sack Andy Townsend. Talks complete",
+                "topsy_author_url": "http://topsy.com/twitter/andyburgess11",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/andyburgess11/status/206466498955460608",
+                "trackback_author_name": "Andy Burgess",
+                "trackback_author_nick": "andyburgess11"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1337295602,
+                "title": "#POO C\u00f3mo escribir una Clase http://t.co/8PWCpzCx",
+                "url": "http://twitter.com/codejobs/status/203258604806086656",
+                "trackback_date": 1337295602,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8PWCpzCx",
+                        "display_url": "bit.ly/JSQ9DQ",
+                        "expanded_url": "http://bit.ly/JSQ9DQ",
+                        "topsy_expanded_url": "http://www.cristalab.com/programacion-orientada-objetos/como-escribir-clases/"
+                    }
+                ],
+                "target_birth_date": 1337295602,
+                "content": "#POO C\u00f3mo escribir una Clase http://t.co/8PWCpzCx",
+                "mytype": "tweet",
+                "score": 8.708667,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000361160975/bdf30010736cfdddc4d6cd1ba0e2243b_normal.png",
+                "trackback_permalink": "http://twitter.com/codejobs/status/203258604806086656",
+                "trackback_author_url": "http://twitter.com/codejobs",
+                "highlight": "#POO C\u00f3mo escribir una Clase",
+                "topsy_author_url": "http://topsy.com/twitter/codejobs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/codejobs/status/203258604806086656",
+                "trackback_author_name": "codejobs",
+                "trackback_author_nick": "codejobs"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1324507461,
+                "title": "The amount of Stoke fans comparing their club to Posh is embarrassing. You need a better argument than that #poo\u00ae",
+                "url": "http://twitter.com/talksportdrive/status/149621255883071488",
+                "trackback_date": 1324507461,
+                "trackback_total": 13,
+                "url_expansions": [],
+                "target_birth_date": 1324507461,
+                "content": "The amount of Stoke fans comparing their club to Posh is embarrassing. You need a better argument than that #poo\u00ae",
+                "mytype": "tweet",
+                "score": 8.708181,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3785514647/3fe0450cc97223a594b52c0771d59fbe_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/talkSPORTDrive/status/149621255883071488",
+                "trackback_author_url": "http://twitter.com/talksportdrive",
+                "highlight": "The amount of Stoke fans comparing their club to Posh is embarrassing. You need a better argument than that #poo\u00ae",
+                "topsy_author_url": "http://topsy.com/twitter/talksportdrive",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/talksportdrive/status/149621255883071488",
+                "trackback_author_name": "Adrian Durham",
+                "trackback_author_nick": "talksportdrive"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1306867225,
+                "title": "YESS! See you there Latin Prince! RT @latinprince: @Fire_Poo its going down tonight #poo #poo time!",
+                "url": "http://twitter.com/fire_poo/status/75632740866863104",
+                "trackback_date": 1306867225,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1306867225,
+                "content": "YESS! See you there Latin Prince! RT @latinprince: @Fire_Poo its going down tonight #poo #poo time!",
+                "mytype": "tweet",
+                "score": 8.707896,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2556915440/fajsbb7mstlud46kqn09_normal.png",
+                "trackback_permalink": "http://twitter.com/Fire_Poo/status/75632740866863104",
+                "trackback_author_url": "http://twitter.com/fire_poo",
+                "highlight": "YESS! See you there Latin Prince!@Fire_Poo its going down tonight #poo #poo time!",
+                "topsy_author_url": "http://topsy.com/twitter/fire_poo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/fire_poo/status/75632740866863104",
+                "trackback_author_name": "Fire Poo",
+                "trackback_author_nick": "fire_poo"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1339152003,
+                "title": "#POO M\u00e9todos de clases, sobreescribir m\u00e9todos, sobrecargar m\u00e9todos http://t.co/zYeNrVAN",
+                "url": "http://twitter.com/codejobs/status/211044916229439489",
+                "trackback_date": 1339152003,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/zYeNrVAN",
+                        "display_url": "bit.ly/Jzd6iy",
+                        "expanded_url": "http://bit.ly/Jzd6iy",
+                        "topsy_expanded_url": "http://www.cristalab.com/programacion-orientada-objetos/metodos-sobrecargar-metodos-sobreescribir-metodos/"
+                    }
+                ],
+                "target_birth_date": 1339152003,
+                "content": "#POO M\u00e9todos de clases, sobreescribir m\u00e9todos, sobrecargar m\u00e9todos http://t.co/zYeNrVAN",
+                "mytype": "tweet",
+                "score": 8.700792,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000361160975/bdf30010736cfdddc4d6cd1ba0e2243b_normal.png",
+                "trackback_permalink": "http://twitter.com/codejobs/status/211044916229439489",
+                "trackback_author_url": "http://twitter.com/codejobs",
+                "highlight": "#POO M\u00e9todos de clases, sobreescribir m\u00e9todos, sobrecargar m\u00e9todos",
+                "topsy_author_url": "http://topsy.com/twitter/codejobs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/codejobs/status/211044916229439489",
+                "trackback_author_name": "codejobs",
+                "trackback_author_nick": "codejobs"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1339567211,
+                "title": "#POO Eventos en la Programaci\u00f3n Orientada a Objetos http://t.co/lpK5Dusc",
+                "url": "http://twitter.com/codejobs/status/212786423860969473",
+                "trackback_date": 1339567211,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/lpK5Dusc",
+                        "display_url": "bit.ly/KDWKTK",
+                        "expanded_url": "http://bit.ly/KDWKTK",
+                        "topsy_expanded_url": "http://www.cristalab.com/programacion-orientada-objetos/eventos/"
+                    }
+                ],
+                "target_birth_date": 1339567211,
+                "content": "#POO Eventos en la Programaci\u00f3n Orientada a Objetos http://t.co/lpK5Dusc",
+                "mytype": "tweet",
+                "score": 8.698926,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000361160975/bdf30010736cfdddc4d6cd1ba0e2243b_normal.png",
+                "trackback_permalink": "http://twitter.com/codejobs/status/212786423860969473",
+                "trackback_author_url": "http://twitter.com/codejobs",
+                "highlight": "#POO Eventos en la Programaci\u00f3n Orientada a Objetos",
+                "topsy_author_url": "http://topsy.com/twitter/codejobs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/codejobs/status/212786423860969473",
+                "trackback_author_name": "codejobs",
+                "trackback_author_nick": "codejobs"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1356814442,
+                "title": "Am pushing out a baby seal here #poo http://t.co/nWdE2mZJ",
+                "url": "http://twitter.com/jckettles/status/285126553220825088",
+                "trackback_date": 1360060914,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/nWdE2mZJ",
+                        "expanded_url": "http://twitter.com/JCKettles/status/285126553220825088/photo/1",
+                        "display_url": "pic.twitter.com/nWdE2mZJ"
+                    }
+                ],
+                "target_birth_date": 1356814442,
+                "content": "RT @JCKettles: Am pushing out a baby seal here #poo http://t.co/nWdE2mZJ",
+                "mytype": "tweet",
+                "score": 8.698645,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/453569489729486848/lHVucIlR_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/lucytheunicorn/status/298743243124908032",
+                "trackback_author_url": "http://twitter.com/lucytheunicorn",
+                "highlight": "Am pushing out a baby seal here #poo",
+                "topsy_author_url": "http://topsy.com/twitter/lucytheunicorn",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jckettles/status/285126553220825088",
+                "trackback_author_name": "lucy miller",
+                "trackback_author_nick": "lucytheunicorn"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1353073110,
+                "title": "Why didn't the editor pick up on this? #oops #poo http://t.co/TqsQBFx1",
+                "url": "http://twitter.com/jamie_dodger_/status/269434267346550784",
+                "trackback_date": 1353073110,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/TqsQBFx1",
+                        "expanded_url": "http://twitter.com/Jamie_Dodger_/status/269434267346550784/photo/1",
+                        "display_url": "pic.twitter.com/TqsQBFx1"
+                    }
+                ],
+                "target_birth_date": 1353073110,
+                "content": "Why didn't the editor pick up on this? #oops #poo http://t.co/TqsQBFx1",
+                "mytype": "tweet",
+                "score": 8.689134,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472439988488241152/AFB8O53f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Jamie_Dodger_/status/269434267346550784",
+                "trackback_author_url": "http://twitter.com/jamie_dodger_",
+                "highlight": "Why didn't the editor pick up on this? #oops #poo",
+                "topsy_author_url": "http://topsy.com/twitter/jamie_dodger_",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jamie_dodger_/status/269434267346550784",
+                "trackback_author_name": "Jamie (SuperRedJim)",
+                "trackback_author_nick": "jamie_dodger_"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 110,
+        "hidden": 0,
+        "total": 199396,
+        "page": 1
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23dark&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=100",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#dark",
+            "window": "a",
+            "type": "tweet",
+            "offset": "100"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 12,
+                "firstpost_date": 1389773111,
+                "title": "January should stand for \"the load of me bollix month\" #dark",
+                "url": "http://twitter.com/thejasonbyrne/status/423365232871100416",
+                "trackback_date": 1389773111,
+                "trackback_total": 14,
+                "url_expansions": [],
+                "target_birth_date": 1389773111,
+                "content": "January should stand for \"the load of me bollix month\" #dark",
+                "mytype": "tweet",
+                "score": 9.090819,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/940590627/leastown_normal.jpg",
+                "trackback_permalink": "http://twitter.com/thejasonbyrne/status/423365232871100416",
+                "trackback_author_url": "http://twitter.com/thejasonbyrne",
+                "highlight": "January should stand for \"the load of me bollix month\"",
+                "topsy_author_url": "http://topsy.com/twitter/thejasonbyrne",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/thejasonbyrne/status/423365232871100416",
+                "trackback_author_name": "jason byrne",
+                "trackback_author_nick": "thejasonbyrne"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1338759372,
+                "title": "#dark #art #photography http://t.co/lxFCJg8T",
+                "url": "http://twitter.com/d_tunstall/status/209398098030637056",
+                "trackback_date": 1338759372,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/lxFCJg8T",
+                        "expanded_url": "http://twitter.com/d_tunstall/status/209398098030637056/photo/1",
+                        "display_url": "pic.twitter.com/lxFCJg8T"
+                    }
+                ],
+                "target_birth_date": 1338759372,
+                "content": "#dark #art #photography http://t.co/lxFCJg8T",
+                "mytype": "tweet",
+                "score": 9.087926,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1366931855/24691_111918362178580_106110069426076_82303_3635402_n_normal.jpg",
+                "trackback_permalink": "http://twitter.com/d_tunstall/status/209398098030637056",
+                "trackback_author_url": "http://twitter.com/d_tunstall",
+                "highlight": "#dark #art #photography",
+                "topsy_author_url": "http://topsy.com/twitter/d_tunstall",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/d_tunstall/status/209398098030637056",
+                "trackback_author_name": "Danielle Tunstall",
+                "trackback_author_nick": "d_tunstall"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1400094186,
+                "title": "New pic by @nowspellcup #mua @chousner #dark #edgy #skull #darkangel #jessejane http://t.co/QO4BthXnaw",
+                "url": "http://twitter.com/jessejane/status/466654956205137921",
+                "trackback_date": 1400094186,
+                "trackback_total": 15,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/QO4BthXnaw",
+                        "display_url": "pic.twitter.com/QO4BthXnaw",
+                        "expanded_url": "http://twitter.com/jessejane/status/466654956205137921/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BnnkNcYIUAIQvVT.jpg"
+                    }
+                ],
+                "target_birth_date": 1400094186,
+                "content": "New pic by @nowspellcup #mua @chousner #dark #edgy #skull #darkangel #jessejane http://t.co/QO4BthXnaw",
+                "mytype": "tweet",
+                "score": 9.082571,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/466969636870049792/4qry8hDb_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jessejane/status/466654956205137921",
+                "trackback_author_url": "http://twitter.com/jessejane",
+                "highlight": "New pic by @nowspellcup #mua @chousner #dark #edgy #skull #darkangel #jessejane",
+                "topsy_author_url": "http://topsy.com/twitter/jessejane",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jessejane/status/466654956205137921",
+                "trackback_author_name": "Jesse Jane",
+                "trackback_author_nick": "jessejane"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1359400013,
+                "title": "#Light and #Dark treats! #BeautifulCreatures http://t.co/lKlY83MA",
+                "url": "http://twitter.com/ravenwoodmanor/status/295971223098232832",
+                "trackback_date": 1359400013,
+                "trackback_total": 17,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/lKlY83MA",
+                        "display_url": "instagr.am/p/VCdzwNIrkk/",
+                        "expanded_url": "http://instagr.am/p/VCdzwNIrkk/",
+                        "topsy_expanded_url": "http://instagram.com/p/VCdzwNIrkk/"
+                    }
+                ],
+                "target_birth_date": 1359400013,
+                "content": "#Light and #Dark treats! #BeautifulCreatures http://t.co/lKlY83MA",
+                "mytype": "tweet",
+                "score": 9.082539,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/2816749321/8e6a83a84ba65e9d965595539563dbc2_normal.png",
+                "trackback_permalink": "http://twitter.com/RavenwoodManor/status/295971223098232832",
+                "trackback_author_url": "http://twitter.com/ravenwoodmanor",
+                "highlight": "#Light and #Dark treats! #BeautifulCreatures",
+                "topsy_author_url": "http://topsy.com/twitter/ravenwoodmanor",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ravenwoodmanor/status/295971223098232832",
+                "trackback_author_name": "Beautiful Creatures",
+                "trackback_author_nick": "ravenwoodmanor"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1345298122,
+                "title": "Dreamt that I did my own autopsy. #dark",
+                "url": "http://twitter.com/ohlandmusic/status/236823605235830784",
+                "trackback_date": 1345298122,
+                "trackback_total": 11,
+                "url_expansions": [],
+                "target_birth_date": 1345298122,
+                "content": "Dreamt that I did my own autopsy. #dark",
+                "mytype": "tweet",
+                "score": 9.081917,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000525786862/04a943320d4c656805d4545cdce85120_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OHLANDmusic/status/236823605235830784",
+                "trackback_author_url": "http://twitter.com/ohlandmusic",
+                "highlight": "Dreamt that I did my own autopsy.",
+                "topsy_author_url": "http://topsy.com/twitter/ohlandmusic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ohlandmusic/status/236823605235830784",
+                "trackback_author_name": "OH LAND",
+                "trackback_author_nick": "ohlandmusic"
+            },
+            {
+                "hits": 24,
+                "firstpost_date": 1352521178,
+                "title": "I went back dark for the Fall. #Dark&amp;Lovely \ud83d\ude18 http://t.co/rlnuaAa7",
+                "url": "http://twitter.com/toyawright/status/267119300517703680",
+                "trackback_date": 1352521178,
+                "trackback_total": 48,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/rlnuaAa7",
+                        "display_url": "instagr.am/p/R1dfaIlQJy/",
+                        "expanded_url": "http://instagr.am/p/R1dfaIlQJy/",
+                        "topsy_expanded_url": "http://instagram.com/p/R1dfaIlQJy/"
+                    }
+                ],
+                "target_birth_date": 1352521178,
+                "content": "I went back dark for the Fall. #Dark&amp;Lovely \ud83d\ude18 http://t.co/rlnuaAa7",
+                "mytype": "tweet",
+                "score": 9.072924,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/422228197896253440/BAqKOV_6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ToyaWright/status/267119300517703680",
+                "trackback_author_url": "http://twitter.com/toyawright",
+                "highlight": "I went back dark for the Fall. #Dark&amp;Lovely \ud83d\ude18",
+                "topsy_author_url": "http://topsy.com/twitter/toyawright",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/toyawright/status/267119300517703680",
+                "trackback_author_name": "Toya Wright",
+                "trackback_author_nick": "toyawright"
+            },
+            {
+                "hits": 180,
+                "firstpost_date": 1359412195,
+                "title": "Te quiero as\u00ed de cerca... #dark http://t.co/s5El614Y",
+                "url": "http://twitter.com/locootro/status/296022318990385153",
+                "trackback_date": 1359412195,
+                "trackback_total": 235,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/s5El614Y",
+                        "display_url": "pic.twitter.com/s5El614Y",
+                        "expanded_url": "http://twitter.com/LocoOtro/status/296022318990385153/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BBuuuxJCYAA80eA.jpg"
+                    }
+                ],
+                "target_birth_date": 1359412195,
+                "content": "Te quiero as\u00ed de cerca... #dark http://t.co/s5El614Y",
+                "mytype": "tweet",
+                "score": 9.072381,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2759620030/0aac92dbaf5ed48e426dcfcc11f95547_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LocoOtro/status/296022318990385153",
+                "trackback_author_url": "http://twitter.com/locootro",
+                "highlight": "Te quiero as\u00ed de cerca... #dark",
+                "topsy_author_url": "http://topsy.com/twitter/locootro",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/locootro/status/296022318990385153",
+                "trackback_author_name": "Otro Loco? Puede ser",
+                "trackback_author_nick": "locootro"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1399922195,
+                "title": "Lucifer Morningstar installation - wow! #dark http://t.co/zfUUwBxaD7 http://t.co/SsFB9XlNF6",
+                "url": "http://twitter.com/thecreativepenn/status/465933573489303552",
+                "trackback_date": 1399922195,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/zfUUwBxaD7",
+                        "display_url": "worldofwonder.net/art-break-luci\u2026",
+                        "expanded_url": "http://worldofwonder.net/art-break-lucifer-morning-star-by-paul-fryer/",
+                        "topsy_expanded_url": "http://worldofwonder.net/art-break-lucifer-morning-star-by-paul-fryer/"
+                    },
+                    {
+                        "url": "http://t.co/SsFB9XlNF6",
+                        "display_url": "pic.twitter.com/SsFB9XlNF6",
+                        "expanded_url": "http://twitter.com/thecreativepenn/status/465933573489303552/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BndUHb6CMAA1O7J.jpg"
+                    }
+                ],
+                "target_birth_date": 1399922195,
+                "content": "Lucifer Morningstar installation - wow! #dark http://t.co/zfUUwBxaD7 http://t.co/SsFB9XlNF6",
+                "mytype": "tweet",
+                "score": 9.067524,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3256698210/2e23d0469d6b2e59fa73eee5f3b1d7a1_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/thecreativepenn/status/465933573489303552",
+                "trackback_author_url": "http://twitter.com/thecreativepenn",
+                "highlight": "Lucifer Morningstar installation - wow! #dark",
+                "topsy_author_url": "http://topsy.com/twitter/thecreativepenn",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/thecreativepenn/status/465933573489303552",
+                "trackback_author_name": "Joanna Penn",
+                "trackback_author_nick": "thecreativepenn"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1355358643,
+                "title": "Charlie Brooker revealed at the BCAa that a new ep of Black Mirror would be about a computer continuing your Twitter after you die #dark",
+                "url": "http://twitter.com/digitalspy/status/279020490436251649",
+                "trackback_date": 1355358643,
+                "trackback_total": 16,
+                "url_expansions": [],
+                "target_birth_date": 1355358643,
+                "content": "Charlie Brooker revealed at the BCAa that a new ep of Black Mirror would be about a computer continuing your Twitter after you die #dark",
+                "mytype": "tweet",
+                "score": 9.062826,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/444415871872561153/sqIE2a2j_normal.png",
+                "trackback_permalink": "http://twitter.com/digitalspy/status/279020490436251649",
+                "trackback_author_url": "http://twitter.com/digitalspy",
+                "highlight": "Charlie Brooker revealed at the BCAa that a new ep of Black Mirror would be about a computer continuing your Twitter after you die",
+                "topsy_author_url": "http://topsy.com/twitter/digitalspy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/digitalspy/status/279020490436251649",
+                "trackback_author_name": "Digital Spy",
+                "trackback_author_nick": "digitalspy"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1310664226,
+                "title": "great new Kelly Link story. keywords: dystopian, #dark, Egypt, Brett Easton Ellis, Sofia Coppola, death http://bit.ly/mQUGWT",
+                "url": "http://twitter.com/radiomaru/status/91558519932854273",
+                "trackback_date": 1310664226,
+                "trackback_total": 6,
+                "url_expansions": [],
+                "target_birth_date": 1310664226,
+                "content": "great new Kelly Link story. keywords: dystopian, #dark, Egypt, Brett Easton Ellis, Sofia Coppola, death http://bit.ly/mQUGWT",
+                "mytype": "tweet",
+                "score": 9.062803,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473510601029734400/fW0lplqQ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/radiomaru/status/91558519932854273",
+                "trackback_author_url": "http://twitter.com/radiomaru",
+                "highlight": "great new Kelly Link story. keywords: dystopian, #dark, Egypt, Brett Easton Ellis, Sofia Coppola, death",
+                "topsy_author_url": "http://topsy.com/twitter/radiomaru",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/radiomaru/status/91558519932854273",
+                "trackback_author_name": "Bryan Lee O'Malley",
+                "trackback_author_nick": "radiomaru"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 100,
+        "hidden": 0,
+        "total": 1042325,
+        "page": 1
+    }
+}

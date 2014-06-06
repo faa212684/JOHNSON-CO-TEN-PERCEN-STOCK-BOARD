@@ -1,0 +1,275 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23blue&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=200",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#blue",
+            "window": "a",
+            "type": "tweet",
+            "offset": "200"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 57,
+                "firstpost_date": 1350004975,
+                "title": "Este es el pikete de hoy azulito #Lebron#Rolex#Blue#YellowGold#cobrando en \u20acuros jajaja http://t.co/ZP4cvBC4",
+                "url": "http://twitter.com/farrukopr/status/256565580839145472",
+                "trackback_date": 1350004975,
+                "trackback_total": 81,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ZP4cvBC4",
+                        "display_url": "instagr.am/p/QqeEhWk_TK/",
+                        "expanded_url": "http://instagr.am/p/QqeEhWk_TK/",
+                        "topsy_expanded_url": "http://instagram.com/p/QqeEhWk_TK/"
+                    }
+                ],
+                "target_birth_date": 1350004975,
+                "content": "Este es el pikete de hoy azulito #Lebron#Rolex#Blue#YellowGold#cobrando en \u20acuros jajaja http://t.co/ZP4cvBC4",
+                "mytype": "tweet",
+                "score": 9.357175,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000854339190/7e3f9c93745f2e61382b26ab90caf365_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/FarrukoPR/status/256565580839145472",
+                "trackback_author_url": "http://twitter.com/farrukopr",
+                "highlight": "Este es el pikete de hoy azulito #Lebron#Rolex#Blue#YellowGold#cobrando en \u20acuros jajaja",
+                "topsy_author_url": "http://topsy.com/twitter/farrukopr",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/farrukopr/status/256565580839145472",
+                "trackback_author_name": "Farruko",
+                "trackback_author_nick": "farrukopr"
+            },
+            {
+                "hits": 123,
+                "firstpost_date": 1353684671,
+                "title": "#avena #lifestyle #blue #hapicidad http://t.co/PbAEYYNi",
+                "url": "http://twitter.com/malumacolombia/status/271999341961543680",
+                "trackback_date": 1353684671,
+                "trackback_total": 180,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/PbAEYYNi",
+                        "display_url": "instagr.am/p/SYIs6ER-ga/",
+                        "expanded_url": "http://instagr.am/p/SYIs6ER-ga/",
+                        "topsy_expanded_url": "http://instagram.com/p/SYIs6ER-ga/"
+                    }
+                ],
+                "target_birth_date": 1353684671,
+                "content": "#avena #lifestyle #blue #hapicidad http://t.co/PbAEYYNi",
+                "mytype": "tweet",
+                "score": 9.354775,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461902091444039680/AeAicCSq_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MALUMACOLOMBIA/status/271999341961543680",
+                "trackback_author_url": "http://twitter.com/malumacolombia",
+                "highlight": "#avena #lifestyle #blue #hapicidad",
+                "topsy_author_url": "http://topsy.com/twitter/malumacolombia",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/malumacolombia/status/271999341961543680",
+                "trackback_author_name": "MALUMA",
+                "trackback_author_nick": "malumacolombia"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1297199125,
+                "title": "Warning: Smurfs are bad for your bank account http://mojo.ly/hKWhtq #really #blue",
+                "url": "http://twitter.com/motherjones/status/35081793086431232",
+                "trackback_date": 1297199125,
+                "trackback_total": 5,
+                "url_expansions": [],
+                "target_birth_date": 1297199125,
+                "content": "Warning: Smurfs are bad for your bank account http://mojo.ly/hKWhtq #really #blue",
+                "mytype": "tweet",
+                "score": 9.350308,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/451825504207638528/2kBkscYK_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MotherJones/status/35081793086431232",
+                "trackback_author_url": "http://twitter.com/motherjones",
+                "highlight": "Warning: Smurfs are bad for your bank account #really",
+                "topsy_author_url": "http://topsy.com/twitter/motherjones",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/motherjones/status/35081793086431232",
+                "trackback_author_name": "Mother Jones",
+                "trackback_author_nick": "motherjones"
+            },
+            {
+                "hits": 89,
+                "firstpost_date": 1305403837,
+                "title": "I can, I will, I know I can, I pad, I pod, I phone, I can hav cheezburgers, I newspaper, I stop now, I need help #eurovision #blue",
+                "url": "http://twitter.com/radiogagger/status/69494849384095744",
+                "trackback_date": 1305403837,
+                "trackback_total": 109,
+                "url_expansions": [],
+                "target_birth_date": 1305403837,
+                "content": "I can, I will, I know I can, I pad, I pod, I phone, I can hav cheezburgers, I newspaper, I stop now, I need help #eurovision #blue",
+                "mytype": "tweet",
+                "score": 9.350006,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461303538723717120/1LgDDkql_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/radiogagger/status/69494849384095744",
+                "trackback_author_url": "http://twitter.com/radiogagger",
+                "highlight": "I can, I will, I know I can, I pad, I pod, I phone, I can hav cheezburgers, I newspaper, I stop now, I need help #eurovision",
+                "topsy_author_url": "http://topsy.com/twitter/radiogagger",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/radiogagger/status/69494849384095744",
+                "trackback_author_name": "The Professor Peter",
+                "trackback_author_nick": "radiogagger"
+            },
+            {
+                "hits": 29,
+                "firstpost_date": 1357575161,
+                "title": "Blue #roulette tracklist!can't wait ti have it in my hands!!!! #Blue #blueinItaly http://t.co/yzOmDWPi",
+                "url": "http://twitter.com/dunkjamesitalia/status/288317239864741889",
+                "trackback_date": 1357575161,
+                "trackback_total": 29,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/yzOmDWPi",
+                        "expanded_url": "http://twitter.com/DunkJamesItalia/status/288317239864741889/photo/1",
+                        "display_url": "pic.twitter.com/yzOmDWPi"
+                    }
+                ],
+                "target_birth_date": 1357575161,
+                "content": "Blue #roulette tracklist!can't wait ti have it in my hands!!!! #Blue #blueinItaly http://t.co/yzOmDWPi",
+                "mytype": "tweet",
+                "score": 9.349359,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000079445283/67f2e3015221f3e5c38f61202d427ad6_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DunkJamesItalia/status/288317239864741889",
+                "trackback_author_url": "http://twitter.com/dunkjamesitalia",
+                "highlight": "Blue #roulette tracklist!can't wait ti have it in my hands!!!! #Blue #blueinItaly",
+                "topsy_author_url": "http://topsy.com/twitter/dunkjamesitalia",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dunkjamesitalia/status/288317239864741889",
+                "trackback_author_name": "DuncanJamesItaliaFC",
+                "trackback_author_nick": "dunkjamesitalia"
+            },
+            {
+                "hits": 22,
+                "firstpost_date": 1367145798,
+                "title": "Your comments and feedbacks have been brilliant regarding our new album!!!! #Roulette #Blue keep up the support thankyou xxx",
+                "url": "http://twitter.com/antonycosta/status/328459400174002176",
+                "trackback_date": 1367145798,
+                "trackback_total": 42,
+                "url_expansions": [],
+                "target_birth_date": 1367145798,
+                "content": "Your comments and feedbacks have been brilliant regarding our new album!!!! #Roulette #Blue keep up the support thankyou xxx",
+                "mytype": "tweet",
+                "score": 9.348754,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000105644677/4c11a08b1ede274341fe0d050ff7eba4_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AntonyCosta/status/328459400174002176",
+                "trackback_author_url": "http://twitter.com/antonycosta",
+                "highlight": "Your comments and feedbacks have been brilliant regarding our new album!!!! #Roulette #Blue keep up the support thankyou xxx",
+                "topsy_author_url": "http://topsy.com/twitter/antonycosta",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/antonycosta/status/328459400174002176",
+                "trackback_author_name": "Antony Costa",
+                "trackback_author_nick": "antonycosta"
+            },
+            {
+                "hits": 79,
+                "firstpost_date": 1344836035,
+                "title": "#buildings and #blue #sky http://t.co/10Hpsej2",
+                "url": "http://twitter.com/tomo_kotic/status/234885475381424128",
+                "trackback_date": 1344836035,
+                "trackback_total": 99,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/10Hpsej2",
+                        "display_url": "instagr.am/p/OQbWpEIvcG/",
+                        "expanded_url": "http://instagr.am/p/OQbWpEIvcG/",
+                        "topsy_expanded_url": "http://instagram.com/p/OQbWpEIvcG/"
+                    }
+                ],
+                "target_birth_date": 1344836035,
+                "content": "#buildings and #blue #sky http://t.co/10Hpsej2",
+                "mytype": "tweet",
+                "score": 9.348407,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3345989597/8ff42e7b63a443d83bf5f65d6c01bd3a_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Tomo_kotic/status/234885475381424128",
+                "trackback_author_url": "http://twitter.com/tomo_kotic",
+                "highlight": "#buildings and #blue #sky",
+                "topsy_author_url": "http://topsy.com/twitter/tomo_kotic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tomo_kotic/status/234885475381424128",
+                "trackback_author_name": "Tomo",
+                "trackback_author_nick": "tomo_kotic"
+            },
+            {
+                "hits": 8,
+                "firstpost_date": 1333466685,
+                "title": "#Blue live twit Cam from @simonwebbe1 now. #CooCoo KB",
+                "url": "http://twitter.com/simonwebbe1/status/187198965106749441",
+                "trackback_date": 1333466685,
+                "trackback_total": 18,
+                "url_expansions": [],
+                "target_birth_date": 1333466685,
+                "content": "#Blue live twit Cam from @simonwebbe1 now. #CooCoo KB",
+                "mytype": "tweet",
+                "score": 9.34805,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3197088012/c86d484cc481bda14a7bdbf3af49e5fd_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/simonwebbe1/status/187198965106749441",
+                "trackback_author_url": "http://twitter.com/simonwebbe1",
+                "highlight": "#Blue live twit Cam from @simonwebbe1 now. #CooCoo KB",
+                "topsy_author_url": "http://topsy.com/twitter/simonwebbe1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/simonwebbe1/status/187198965106749441",
+                "trackback_author_name": "Simon Webbe",
+                "trackback_author_nick": "simonwebbe1"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1363823878,
+                "title": "La Presidenta convoc\u00f3 al equipo econ\u00f3mico en un d\u00eda de escalada del d\u00f3lar #blue http://t.co/7hDkJhsru2",
+                "url": "http://twitter.com/cris_telefe/status/314526257519919104",
+                "trackback_date": 1363823878,
+                "trackback_total": 20,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7hDkJhsru2",
+                        "display_url": "lanacion.com.ar/1565317-cristi\u2026",
+                        "expanded_url": "http://www.lanacion.com.ar/1565317-cristina-convoco-al-equipo-economico-en-medio-de-rumores-por-la-corrida-del-dolar-paralelo",
+                        "topsy_expanded_url": "http://detection.lanacion.com.ar/1565317-cristina-convoco-al-equipo-economico-en-medio-de-rumores-por-la-corrida-del-dolar-paralelo"
+                    }
+                ],
+                "target_birth_date": 1363823878,
+                "content": "La Presidenta convoc\u00f3 al equipo econ\u00f3mico en un d\u00eda de escalada del d\u00f3lar #blue http://t.co/7hDkJhsru2",
+                "mytype": "tweet",
+                "score": 9.346201,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472004518595399680/MMQwVLma_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Cris_telefe/status/314526257519919104",
+                "trackback_author_url": "http://twitter.com/cris_telefe",
+                "highlight": "La Presidenta convoc\u00f3 al equipo econ\u00f3mico en un d\u00eda de escalada del d\u00f3lar #blue",
+                "topsy_author_url": "http://topsy.com/twitter/cris_telefe",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cris_telefe/status/314526257519919104",
+                "trackback_author_name": "Cristina Perez",
+                "trackback_author_nick": "cris_telefe"
+            },
+            {
+                "hits": 39,
+                "firstpost_date": 1374286847,
+                "title": "Repost from @leeryanmusic #brothers #williamhunt #suit&amp;tie #whiteboys #friends #swag #blue #roulette http://t.co/Rcyf4NgHot",
+                "url": "http://twitter.com/mrduncanjames/status/358411133289369600",
+                "trackback_date": 1374286847,
+                "trackback_total": 59,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Rcyf4NgHot",
+                        "display_url": "instagram.com/p/b-INm5qyp6/",
+                        "expanded_url": "http://instagram.com/p/b-INm5qyp6/",
+                        "topsy_expanded_url": "http://instagram.com/p/b-INm5qyp6/"
+                    }
+                ],
+                "target_birth_date": 1374286847,
+                "content": "Repost from @leeryanmusic #brothers #williamhunt #suit&amp;tie #whiteboys #friends #swag #blue #roulette http://t.co/Rcyf4NgHot",
+                "mytype": "tweet",
+                "score": 9.341169,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/436898728423997440/YT_OgWLj_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MrDuncanJames/status/358411133289369600",
+                "trackback_author_url": "http://twitter.com/mrduncanjames",
+                "highlight": "Repost from @leeryanmusic #brothers #williamhunt #suit&amp;tie #whiteboys #friends #swag #blue #roulette",
+                "topsy_author_url": "http://topsy.com/twitter/mrduncanjames",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mrduncanjames/status/358411133289369600",
+                "trackback_author_name": "Duncan James",
+                "trackback_author_nick": "mrduncanjames"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 200,
+        "hidden": 0,
+        "total": 4450370,
+        "page": 1
+    }
+}

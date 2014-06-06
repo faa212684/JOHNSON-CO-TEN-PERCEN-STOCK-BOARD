@@ -1,0 +1,283 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23blue&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=740",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#blue",
+            "window": "a",
+            "type": "tweet",
+            "offset": "740"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 6,
+                "firstpost_date": 1352509577,
+                "title": "Dublin. You know I love you. I will remember tonight forever. #blue",
+                "url": "http://twitter.com/buck65/status/267070641147105280",
+                "trackback_date": 1352509577,
+                "trackback_total": 5,
+                "url_expansions": [],
+                "target_birth_date": 1352509577,
+                "content": "Dublin. You know I love you. I will remember tonight forever. #blue",
+                "mytype": "tweet",
+                "score": 8.800685,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/514827003/BT-centaurofattention-gallery-3699_normal.jpg",
+                "trackback_permalink": "http://twitter.com/Buck65/status/267070641147105280",
+                "trackback_author_url": "http://twitter.com/buck65",
+                "highlight": "Dublin. You know I love you. I will remember tonight forever.",
+                "topsy_author_url": "http://topsy.com/twitter/buck65",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/buck65/status/267070641147105280",
+                "trackback_author_name": "Buck 65",
+                "trackback_author_nick": "buck65"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1394116989,
+                "title": "Shhhh! Parece que se desplom\u00f3 el #Blue http://t.co/dPkDZlJSSu",
+                "url": "http://twitter.com/romerodiario/status/441584776588591104",
+                "trackback_date": 1394116989,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/dPkDZlJSSu",
+                        "display_url": "enorsai.com.ar/economia/9591-\u2026",
+                        "expanded_url": "http://www.enorsai.com.ar/economia/9591-se-desplomo-el-blue-y-los-medios-opositores-lo-ocultan.html",
+                        "topsy_expanded_url": "http://www.enorsai.com.ar/economia/9591-se-desplomo-el-blue-y-los-medios-opositores-lo-ocultan.html"
+                    }
+                ],
+                "target_birth_date": 1394116989,
+                "content": "Shhhh! Parece que se desplom\u00f3 el #Blue http://t.co/dPkDZlJSSu",
+                "mytype": "tweet",
+                "score": 8.799796,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2331101947/5s7sbuw8za60rwmmtbz9_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/romerodiario/status/441584776588591104",
+                "trackback_author_url": "http://twitter.com/romerodiario",
+                "highlight": "Shhhh! Parece que se desplom\u00f3 el #Blue",
+                "topsy_author_url": "http://topsy.com/twitter/romerodiario",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/romerodiario/status/441584776588591104",
+                "trackback_author_name": "Profe Romero",
+                "trackback_author_nick": "romerodiario"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1401294560,
+                "title": "It's a #blue kind of day... #selfie #justbecause http://t.co/JpFxIOk7nl",
+                "url": "http://twitter.com/satchapretto/status/471689691431849984",
+                "trackback_date": 1401294560,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/JpFxIOk7nl",
+                        "display_url": "instagram.com/p/ojBcb9pyVm/",
+                        "expanded_url": "http://instagram.com/p/ojBcb9pyVm/",
+                        "topsy_expanded_url": "http://instagram.com/p/ojBcb9pyVm/"
+                    }
+                ],
+                "target_birth_date": 1401294560,
+                "content": "It's a #blue kind of day... #selfie #justbecause http://t.co/JpFxIOk7nl",
+                "mytype": "tweet",
+                "score": 8.798926,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1409392306/DSC_0198_normal.JPG",
+                "trackback_permalink": "http://twitter.com/satchapretto/status/471689691431849984",
+                "trackback_author_url": "http://twitter.com/satchapretto",
+                "highlight": "It's a #blue kind of day... #selfie #justbecause",
+                "topsy_author_url": "http://topsy.com/twitter/satchapretto",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/satchapretto/status/471689691431849984",
+                "trackback_author_name": "Satcha Pretto ",
+                "trackback_author_nick": "satchapretto"
+            },
+            {
+                "hits": 42,
+                "firstpost_date": 1358123863,
+                "title": "No se puede no escuchar joni mitchell. #blue",
+                "url": "http://twitter.com/mariacelestecid/status/290618665265668096",
+                "trackback_date": 1358123863,
+                "trackback_total": 68,
+                "url_expansions": [],
+                "target_birth_date": 1358123863,
+                "content": "No se puede no escuchar joni mitchell. #blue",
+                "mytype": "tweet",
+                "score": 8.798792,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1471694850/child_normal.jpg",
+                "trackback_permalink": "http://twitter.com/mariacelestecid/status/290618665265668096",
+                "trackback_author_url": "http://twitter.com/mariacelestecid",
+                "highlight": "No se puede no escuchar joni mitchell.",
+                "topsy_author_url": "http://topsy.com/twitter/mariacelestecid",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mariacelestecid/status/290618665265668096",
+                "trackback_author_name": "Celeste Cid",
+                "trackback_author_nick": "mariacelestecid"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1363461872,
+                "title": "Watch first 7 eps. of great series #Blue w/ @MissJuliaStiles on @WIGS. http://t.co/FZLZEkf3dz U will be hooked! \nMy ep goes live 3/29th -hrp",
+                "url": "http://twitter.com/hollyrpeete/status/313007898018074625",
+                "trackback_date": 1363461872,
+                "trackback_total": 5,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/FZLZEkf3dz",
+                        "display_url": "wigs.ly/10MLrPo",
+                        "expanded_url": "http://wigs.ly/10MLrPo",
+                        "topsy_expanded_url": "http://www.youtube.com/watch?v=Eqv3Et_EqJs"
+                    }
+                ],
+                "target_birth_date": 1363461872,
+                "content": "Watch first 7 eps. of great series #Blue w/ @MissJuliaStiles on @WIGS. http://t.co/FZLZEkf3dz U will be hooked! \nMy ep goes live 3/29th -hrp",
+                "mytype": "tweet",
+                "score": 8.798523,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462655386294947840/nVpcG_Zb_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/hollyrpeete/status/313007898018074625",
+                "trackback_author_url": "http://twitter.com/hollyrpeete",
+                "highlight": "Watch first 7 eps. of great series #Blue w/ @MissJuliaStiles on @WIGS. U will be hooked! My ep goes live 3/29th -hrp",
+                "topsy_author_url": "http://topsy.com/twitter/hollyrpeete",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hollyrpeete/status/313007898018074625",
+                "trackback_author_name": "Holly Robinson Peete",
+                "trackback_author_nick": "hollyrpeete"
+            },
+            {
+                "hits": 70,
+                "firstpost_date": 1367743555,
+                "title": "Good morning people! What a lovely #blue #sky #today http://t.co/2wmKqpnbQx",
+                "url": "http://twitter.com/nancyajram/status/330966575609946113",
+                "trackback_date": 1367743555,
+                "trackback_total": 202,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/2wmKqpnbQx",
+                        "display_url": "instagram.com/p/Y7H8wVtvdU/",
+                        "expanded_url": "http://instagram.com/p/Y7H8wVtvdU/",
+                        "topsy_expanded_url": "http://instagram.com/p/Y7H8wVtvdU/"
+                    }
+                ],
+                "target_birth_date": 1367743555,
+                "content": "Good morning people! What a lovely #blue #sky #today http://t.co/2wmKqpnbQx",
+                "mytype": "tweet",
+                "score": 8.797943,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/433612480158253056/KaIRJB73_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NancyAjram/status/330966575609946113",
+                "trackback_author_url": "http://twitter.com/nancyajram",
+                "highlight": "Good morning people! What a lovely #blue #sky #today",
+                "topsy_author_url": "http://topsy.com/twitter/nancyajram",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nancyajram/status/330966575609946113",
+                "trackback_author_name": "Nancy Ajram",
+                "trackback_author_nick": "nancyajram"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1389652824,
+                "title": "#D\u00f3lar: por qu\u00e9 el \u0091oficial\u0092 nunca alcanzar\u00e1 al #blue. http://t.co/duNa1VspRX",
+                "url": "http://twitter.com/cronistacom/status/422860711736655872",
+                "trackback_date": 1389652824,
+                "trackback_total": 13,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/duNa1VspRX",
+                        "display_url": "bit.ly/KWpMBR",
+                        "expanded_url": "http://bit.ly/KWpMBR",
+                        "topsy_expanded_url": "http://www.cronista.com/finanzasmercados/Dolar-por-que-el-oficial-nunca-alcanzara-al-blue-20140113-0019.html"
+                    }
+                ],
+                "target_birth_date": 1389652824,
+                "content": "#D\u00f3lar: por qu\u00e9 el \u0091oficial\u0092 nunca alcanzar\u00e1 al #blue. http://t.co/duNa1VspRX",
+                "mytype": "tweet",
+                "score": 8.797732,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/433312698005078017/f2W4NDGb_normal.png",
+                "trackback_permalink": "http://twitter.com/Cronistacom/status/422860711736655872",
+                "trackback_author_url": "http://twitter.com/cronistacom",
+                "highlight": "#D\u00f3lar: por qu\u00e9 el \u0091oficial\u0092 nunca alcanzar\u00e1 al #blue.",
+                "topsy_author_url": "http://topsy.com/twitter/cronistacom",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cronistacom/status/422860711736655872",
+                "trackback_author_name": "Cronista.com",
+                "trackback_author_nick": "cronistacom"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1375725798,
+                "title": "El #blue parte de los $ 8,71, pero llega a venderse a $ 9. http://t.co/Qke1aZUOvR",
+                "url": "http://twitter.com/cronistacom/status/364446528989323264",
+                "trackback_date": 1375725798,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Qke1aZUOvR",
+                        "display_url": "goo.gl/9bExis",
+                        "expanded_url": "http://goo.gl/9bExis",
+                        "topsy_expanded_url": "http://www.cronista.com/finanzasmercados/El-blue-parte-de-los--871-pero-llega-a-venderse-a--9-20130805-0091.html"
+                    }
+                ],
+                "target_birth_date": 1375725798,
+                "content": "El #blue parte de los $ 8,71, pero llega a venderse a $ 9. http://t.co/Qke1aZUOvR",
+                "mytype": "tweet",
+                "score": 8.797319,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/433312698005078017/f2W4NDGb_normal.png",
+                "trackback_permalink": "http://twitter.com/Cronistacom/status/364446528989323264",
+                "trackback_author_url": "http://twitter.com/cronistacom",
+                "highlight": "El #blue parte de los $ 8,71, pero llega a venderse a $ 9.",
+                "topsy_author_url": "http://topsy.com/twitter/cronistacom",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cronistacom/status/364446528989323264",
+                "trackback_author_name": "Cronista.com",
+                "trackback_author_nick": "cronistacom"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1394201472,
+                "title": "It's \"National Dress in #BLUE Day!!!\"  I'm honoured to be a spokesperson for @coloncanada http://t.co/mS5qlwh3ab",
+                "url": "http://twitter.com/marilyndenisctv/status/441939122228191232",
+                "trackback_date": 1394201472,
+                "trackback_total": 15,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/mS5qlwh3ab",
+                        "display_url": "pic.twitter.com/mS5qlwh3ab",
+                        "expanded_url": "http://twitter.com/MarilynDenisCTV/status/441939122228191232/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BiIVSklCYAAGhZ_.png"
+                    }
+                ],
+                "target_birth_date": 1394201472,
+                "content": "It's \"National Dress in #BLUE Day!!!\"  I'm honoured to be a spokesperson for @coloncanada http://t.co/mS5qlwh3ab",
+                "mytype": "tweet",
+                "score": 8.79714,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/427987191805906944/Ygfo51rN_normal.png",
+                "trackback_permalink": "http://twitter.com/MarilynDenisCTV/status/441939122228191232",
+                "trackback_author_url": "http://twitter.com/marilyndenisctv",
+                "highlight": "It's \"National Dress in #BLUE Day!!!\" I'm honoured to be a spokesperson for @coloncanada",
+                "topsy_author_url": "http://topsy.com/twitter/marilyndenisctv",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/marilyndenisctv/status/441939122228191232",
+                "trackback_author_name": "Marilyn Denis",
+                "trackback_author_nick": "marilyndenisctv"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1384691228,
+                "title": "Tengan piedad, perder a una mascota amada es muy doloroso, devuelvan a #Blue @raymacaricatura ella les dar\u00e1 una recompensa. Gracias",
+                "url": "http://twitter.com/km_yalemm/status/402050268591697920",
+                "trackback_date": 1384691228,
+                "trackback_total": 14,
+                "url_expansions": [],
+                "target_birth_date": 1384691228,
+                "content": "Tengan piedad, perder a una mascota amada es muy doloroso, devuelvan a #Blue @raymacaricatura ella les dar\u00e1 una recompensa. Gracias",
+                "mytype": "tweet",
+                "score": 8.79689,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/462016751035625472/ChB96oqR_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Km_yalemm/status/402050268591697920",
+                "trackback_author_url": "http://twitter.com/km_yalemm",
+                "highlight": "Tengan piedad, perder a una mascota amada es muy doloroso, devuelvan a #Blue @raymacaricatura ella les dar\u00e1 una recompensa. Gracias",
+                "topsy_author_url": "http://topsy.com/twitter/km_yalemm",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/km_yalemm/status/402050268591697920",
+                "trackback_author_name": "Yalexzy Martinez",
+                "trackback_author_nick": "km_yalemm"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 740,
+        "hidden": 0,
+        "total": 4354250,
+        "page": 1
+    }
+}

@@ -1,0 +1,248 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23dark&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=700",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#dark",
+            "window": "a",
+            "type": "tweet",
+            "offset": "700"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 2,
+                "firstpost_date": 1319980187,
+                "title": "RT \u201c@LunaArtWork: Ol\u00e1 nova art http://t.co/RqB1ckCf #DigitalArt #Photomanipulation #Dark\u201d",
+                "url": "http://twitter.com/theresamax/status/130632490070183936",
+                "trackback_date": 1319980187,
+                "trackback_total": 2,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RqB1ckCf",
+                        "display_url": "fav.me/d4e3oeb",
+                        "expanded_url": "http://fav.me/d4e3oeb",
+                        "topsy_expanded_url": "http://luaarts.deviantart.com/art/Demon-Fire-265550915"
+                    }
+                ],
+                "target_birth_date": 1319980187,
+                "content": "RT \u201c@LunaArtWork: Ol\u00e1 nova art http://t.co/RqB1ckCf #DigitalArt #Photomanipulation #Dark\u201d",
+                "mytype": "tweet",
+                "score": 8.561445,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2144261472/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/theresamax/status/130632490070183936",
+                "trackback_author_url": "http://twitter.com/theresamax",
+                "highlight": "RT \u201c@LunaArtWork: Ol\u00e1 nova art #DigitalArt #Photomanipulation #Dark\u201d",
+                "topsy_author_url": "http://topsy.com/twitter/theresamax",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/theresamax/status/130632490070183936",
+                "trackback_author_name": "Theresa",
+                "trackback_author_nick": "theresamax"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1362487455,
+                "title": "harry da #dark pt. 27 http://t.co/HR5rV6Kp99",
+                "url": "http://twitter.com/xhoransvoice/status/308920896188456960",
+                "trackback_date": 1362487455,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/HR5rV6Kp99",
+                        "display_url": "25.media.tumblr.com/268c7f40858da0\u2026",
+                        "expanded_url": "http://25.media.tumblr.com/268c7f40858da08416ed8db12ff01eab/tumblr_mj1n0dxC6J1qzwl3io1_250.png",
+                        "topsy_expanded_url": "http://25.media.tumblr.com/268c7f40858da08416ed8db12ff01eab/tumblr_mj1n0dxC6J1qzwl3io1_250.png"
+                    }
+                ],
+                "target_birth_date": 1362487455,
+                "content": "harry da #dark pt. 27 http://t.co/HR5rV6Kp99",
+                "mytype": "tweet",
+                "score": 8.561394,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473400460901380096/je1tlJWs_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/xhoransvoice/status/308920896188456960",
+                "trackback_author_url": "http://twitter.com/skinsiall",
+                "highlight": "harry da #dark pt. 27",
+                "topsy_author_url": "http://topsy.com/twitter/skinsiall",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/xhoransvoice/status/308920896188456960",
+                "trackback_author_name": "federica",
+                "trackback_author_nick": "skinsiall"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1362487104,
+                "title": "harry da #dark pt. 23 http://t.co/CnmwGsZAOy",
+                "url": "http://twitter.com/xhoransvoice/status/308919423836770306",
+                "trackback_date": 1362487104,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/CnmwGsZAOy",
+                        "display_url": "25.media.tumblr.com/43cb445773c079\u2026",
+                        "expanded_url": "http://25.media.tumblr.com/43cb445773c079eee4848f8d11fa0de2/tumblr_mgalnfvQEn1s21bv7o2_250.jpg",
+                        "topsy_expanded_url": "http://25.media.tumblr.com/43cb445773c079eee4848f8d11fa0de2/tumblr_mgalnfvQEn1s21bv7o2_250.jpg"
+                    }
+                ],
+                "target_birth_date": 1362487104,
+                "content": "harry da #dark pt. 23 http://t.co/CnmwGsZAOy",
+                "mytype": "tweet",
+                "score": 8.561338,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473400460901380096/je1tlJWs_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/xhoransvoice/status/308919423836770306",
+                "trackback_author_url": "http://twitter.com/skinsiall",
+                "highlight": "harry da #dark pt. 23",
+                "topsy_author_url": "http://topsy.com/twitter/skinsiall",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/xhoransvoice/status/308919423836770306",
+                "trackback_author_name": "federica",
+                "trackback_author_nick": "skinsiall"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1354136572,
+                "title": "Please ReTweet: A girl who feels at home in graveyards. Eerie, huh? http://t.co/LvO2eb7I #Dark #Paranormal #MatureYA #Romance #ian1",
+                "url": "http://twitter.com/michelleibrooks/status/273894753010069504",
+                "trackback_date": 1354136572,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/LvO2eb7I",
+                        "display_url": "goo.gl/Kl3C4",
+                        "expanded_url": "http://goo.gl/Kl3C4",
+                        "topsy_expanded_url": "http://www.readinista.com/2011/10/bone-dressing-book-trailer/"
+                    }
+                ],
+                "target_birth_date": 1354136572,
+                "content": "Please ReTweet: A girl who feels at home in graveyards. Eerie, huh? http://t.co/LvO2eb7I #Dark #Paranormal #MatureYA #Romance #ian1",
+                "mytype": "tweet",
+                "score": 8.561187,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1632114857/Michelle_Book_2_Cover_normal.jpg",
+                "trackback_permalink": "http://twitter.com/MichelleIBrooks/status/273894753010069504",
+                "trackback_author_url": "http://twitter.com/michelleibrooks",
+                "highlight": "Please ReTweet: A girl who feels at home in graveyards. Eerie, huh? #Dark #Paranormal #MatureYA #Romance",
+                "topsy_author_url": "http://topsy.com/twitter/michelleibrooks",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/michelleibrooks/status/273894753010069504",
+                "trackback_author_name": "Michelle I Brooks",
+                "trackback_author_nick": "michelleibrooks"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1363371626,
+                "title": "RT @desairahul: @LollyDaskal negatives need a #dark room",
+                "url": "http://twitter.com/lollydaskal/status/312629375323471872",
+                "trackback_date": 1363371626,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1363371626,
+                "content": "RT @desairahul: @LollyDaskal negatives need a #dark room",
+                "mytype": "tweet",
+                "score": 8.560886,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/127105431/Lolly2_normal.jpg",
+                "trackback_permalink": "http://twitter.com/LollyDaskal/status/312629375323471872",
+                "trackback_author_url": "http://twitter.com/lollydaskal",
+                "highlight": " negatives need a #dark room",
+                "topsy_author_url": "http://topsy.com/twitter/lollydaskal",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lollydaskal/status/312629375323471872",
+                "trackback_author_name": "Lolly Daskal",
+                "trackback_author_nick": "lollydaskal"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1335889265,
+                "title": "OK before it get's #Dark:) Any one else want a #FB\u2714 Like ... it's #Free .. (\u25d1\u203f\u25d0)  #bizitalk #locatebiz #purplebiz #bizipig",
+                "url": "http://twitter.com/silverfox2/status/197359999448649732",
+                "trackback_date": 1335889265,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1335889265,
+                "content": "OK before it get's #Dark:) Any one else want a #FB\u2714 Like ... it's #Free .. (\u25d1\u203f\u25d0)  #bizitalk #locatebiz #purplebiz #bizipig",
+                "mytype": "tweet",
+                "score": 8.560817,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1165176472/Mart_normal.jpg",
+                "trackback_permalink": "http://twitter.com/silverfox2/status/197359999448649732",
+                "trackback_author_url": "http://twitter.com/silverfox2",
+                "highlight": "OK before it get's #Dark:) Any one else want a #FB\u2714 Like ... it's #Free .. (\u25d1\u203f\u25d0) #bizitalk #locatebiz #purplebiz",
+                "topsy_author_url": "http://topsy.com/twitter/silverfox2",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/silverfox2/status/197359999448649732",
+                "trackback_author_name": "Martin Holmes",
+                "trackback_author_nick": "silverfox2"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1291495812,
+                "title": "#photography #ohio #Troyohio #winter #snow #gloomy #dark http://www.flickr.com/photos/44704258@N06/5231544079/",
+                "url": "http://twitter.com/wake_up_service/status/11160360794980352",
+                "trackback_date": 1291495812,
+                "trackback_total": 1,
+                "url_expansions": [],
+                "target_birth_date": 1291495812,
+                "content": "#photography #ohio #Troyohio #winter #snow #gloomy #dark http://www.flickr.com/photos/44704258@N06/5231544079/",
+                "mytype": "tweet",
+                "score": 8.560467,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/436037352343875584/My9TbehY_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Wake_up_service/status/11160360794980352",
+                "trackback_author_url": "http://twitter.com/wake_up_service",
+                "highlight": "#photography #ohio #Troyohio #winter #snow #gloomy #dark",
+                "topsy_author_url": "http://topsy.com/twitter/wake_up_service",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wake_up_service/status/11160360794980352",
+                "trackback_author_name": "lonnie",
+                "trackback_author_nick": "wake_up_service"
+            },
+            {
+                "hits": 18,
+                "firstpost_date": 1362485397,
+                "title": "harry da #dark pt. 4 http://t.co/mFvYl1CYRf",
+                "url": "http://twitter.com/xhoransvoice/status/308912263560060928",
+                "trackback_date": 1362485397,
+                "trackback_total": 21,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/mFvYl1CYRf",
+                        "display_url": "24.media.tumblr.com/c77972cb6d1192\u2026",
+                        "expanded_url": "http://24.media.tumblr.com/c77972cb6d1192874eb61892db3428c6/tumblr_mj6rgskG8u1s59ap9o1_500.jpg",
+                        "topsy_expanded_url": "http://24.media.tumblr.com/c77972cb6d1192874eb61892db3428c6/tumblr_mj6rgskG8u1s59ap9o1_500.jpg"
+                    }
+                ],
+                "target_birth_date": 1362485397,
+                "content": "harry da #dark pt. 4 http://t.co/mFvYl1CYRf",
+                "mytype": "tweet",
+                "score": 8.560412,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473400460901380096/je1tlJWs_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/xhoransvoice/status/308912263560060928",
+                "trackback_author_url": "http://twitter.com/skinsiall",
+                "highlight": "harry da #dark pt. 4",
+                "topsy_author_url": "http://topsy.com/twitter/skinsiall",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/xhoransvoice/status/308912263560060928",
+                "trackback_author_name": "federica",
+                "trackback_author_nick": "skinsiall"
+            },
+            {
+                "hits": 15,
+                "firstpost_date": 1353785112,
+                "title": "All my BADD #DARK skin females come to #Obsessions tonight its gone be STOOOOPID!! FREE ALL NIGHT #ThugHoliday #Exoticz #RatedNext",
+                "url": "http://twitter.com/hisconcreterose/status/272420625044344832",
+                "trackback_date": 1353785112,
+                "trackback_total": 14,
+                "url_expansions": [],
+                "target_birth_date": 1353785112,
+                "content": "All my BADD #DARK skin females come to #Obsessions tonight its gone be STOOOOPID!! FREE ALL NIGHT #ThugHoliday #Exoticz #RatedNext",
+                "mytype": "tweet",
+                "score": 8.5602455,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/439826193299542016/0GvSskRK_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/HisConcreteROSE/status/272420625044344832",
+                "trackback_author_url": "http://twitter.com/nopain_novacane",
+                "highlight": "All my BADD #DARK skin females come to #Obsessions tonight its gone be STOOOOPID!! FREE ALL NIGHT #ThugHoliday #Exoticz",
+                "topsy_author_url": "http://topsy.com/twitter/nopain_novacane",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hisconcreterose/status/272420625044344832",
+                "trackback_author_name": "JamaicanBreed\u2764\ufe0f",
+                "trackback_author_nick": "nopain_novacane"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 700,
+        "hidden": 0,
+        "total": 1022456,
+        "page": 1
+    }
+}

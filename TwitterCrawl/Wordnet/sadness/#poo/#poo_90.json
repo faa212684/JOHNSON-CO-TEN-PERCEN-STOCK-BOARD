@@ -1,0 +1,276 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23poo&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=90",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#poo",
+            "window": "a",
+            "type": "tweet",
+            "offset": "90"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 21,
+                "firstpost_date": 1326093002,
+                "title": "Un tr\u00e8s bon cours sur l'orient\u00e9 objet en Javascript: http://t.co/LDrwU5ZU #fdw #javascript #poo #tutorials",
+                "url": "http://twitter.com/lafermeduweb/status/156271495201566720",
+                "trackback_date": 1326093002,
+                "trackback_total": 20,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/LDrwU5ZU",
+                        "display_url": "fdw.lu/a2h",
+                        "expanded_url": "http://fdw.lu/a2h",
+                        "topsy_expanded_url": "http://fdw.lu/a2h"
+                    }
+                ],
+                "target_birth_date": 1326093002,
+                "content": "Un tr\u00e8s bon cours sur l'orient\u00e9 objet en Javascript: http://t.co/LDrwU5ZU #fdw #javascript #poo #tutorials",
+                "mytype": "tweet",
+                "score": 8.7755575,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1723312210/logo-transpa-400px_normal.png",
+                "trackback_permalink": "http://twitter.com/LaFermeDuWeb/status/156271495201566720",
+                "trackback_author_url": "http://twitter.com/lafermeduweb",
+                "highlight": "Un tr\u00e8s bon cours sur l'orient\u00e9 objet en Javascript: #fdw #javascript #poo",
+                "topsy_author_url": "http://topsy.com/twitter/lafermeduweb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lafermeduweb/status/156271495201566720",
+                "trackback_author_name": "DJo",
+                "trackback_author_nick": "lafermeduweb"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1296808200,
+                "title": "Comment manipuler les #namespaces en PHP 5.3: http://fdw.lu/aNI #fdw #poo #php5",
+                "url": "http://twitter.com/lafermeduweb/status/33442133314633728",
+                "trackback_date": 1296808200,
+                "trackback_total": 9,
+                "url_expansions": [],
+                "target_birth_date": 1296808200,
+                "content": "Comment manipuler les #namespaces en PHP 5.3: http://fdw.lu/aNI #fdw #poo #php5",
+                "mytype": "tweet",
+                "score": 8.774937,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1723312210/logo-transpa-400px_normal.png",
+                "trackback_permalink": "http://twitter.com/LaFermeDuWeb/status/33442133314633728",
+                "trackback_author_url": "http://twitter.com/lafermeduweb",
+                "highlight": "Comment manipuler les #namespaces en PHP 5.3: #fdw #poo",
+                "topsy_author_url": "http://topsy.com/twitter/lafermeduweb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lafermeduweb/status/33442133314633728",
+                "trackback_author_name": "DJo",
+                "trackback_author_nick": "lafermeduweb"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1339501217,
+                "title": "#POO Conceptos de la Programaci\u00f3n Orientada a Objetos http://t.co/Ml5FEQXi",
+                "url": "http://twitter.com/codejobs/status/212509625801646082",
+                "trackback_date": 1339501217,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Ml5FEQXi",
+                        "display_url": "bit.ly/Motan9",
+                        "expanded_url": "http://bit.ly/Motan9",
+                        "topsy_expanded_url": "http://www.cristalab.com/programacion-orientada-objetos/conceptos-poo/"
+                    }
+                ],
+                "target_birth_date": 1339501217,
+                "content": "#POO Conceptos de la Programaci\u00f3n Orientada a Objetos http://t.co/Ml5FEQXi",
+                "mytype": "tweet",
+                "score": 8.768265,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000361160975/bdf30010736cfdddc4d6cd1ba0e2243b_normal.png",
+                "trackback_permalink": "http://twitter.com/codejobs/status/212509625801646082",
+                "trackback_author_url": "http://twitter.com/codejobs",
+                "highlight": "#POO Conceptos de la Programaci\u00f3n Orientada a Objetos",
+                "topsy_author_url": "http://topsy.com/twitter/codejobs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/codejobs/status/212509625801646082",
+                "trackback_author_name": "codejobs",
+                "trackback_author_nick": "codejobs"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1341081602,
+                "title": "#POO Eventos en la Programaci\u00f3n Orientada a Objetos http://t.co/lpK5Dusc",
+                "url": "http://twitter.com/codejobs/status/219138241239060480",
+                "trackback_date": 1341081602,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/lpK5Dusc",
+                        "display_url": "bit.ly/KDWKTK",
+                        "expanded_url": "http://bit.ly/KDWKTK",
+                        "topsy_expanded_url": "http://www.cristalab.com/programacion-orientada-objetos/eventos/"
+                    }
+                ],
+                "target_birth_date": 1341081602,
+                "content": "#POO Eventos en la Programaci\u00f3n Orientada a Objetos http://t.co/lpK5Dusc",
+                "mytype": "tweet",
+                "score": 8.759006,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000361160975/bdf30010736cfdddc4d6cd1ba0e2243b_normal.png",
+                "trackback_permalink": "http://twitter.com/codejobs/status/219138241239060480",
+                "trackback_author_url": "http://twitter.com/codejobs",
+                "highlight": "#POO Eventos en la Programaci\u00f3n Orientada a Objetos",
+                "topsy_author_url": "http://topsy.com/twitter/codejobs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/codejobs/status/219138241239060480",
+                "trackback_author_name": "codejobs",
+                "trackback_author_nick": "codejobs"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1337704801,
+                "title": "#POO \u00c1mbitos public, private, protected y local http://t.co/zN7ENU4S",
+                "url": "http://twitter.com/codejobs/status/204974912039952384",
+                "trackback_date": 1337704801,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/zN7ENU4S",
+                        "display_url": "bit.ly/KjZxP0",
+                        "expanded_url": "http://bit.ly/KjZxP0",
+                        "topsy_expanded_url": "http://www.cristalab.com/programacion-orientada-objetos/ambitos-public-private-protected-local/"
+                    }
+                ],
+                "target_birth_date": 1337704801,
+                "content": "#POO \u00c1mbitos public, private, protected y local http://t.co/zN7ENU4S",
+                "mytype": "tweet",
+                "score": 8.756396,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000361160975/bdf30010736cfdddc4d6cd1ba0e2243b_normal.png",
+                "trackback_permalink": "http://twitter.com/codejobs/status/204974912039952384",
+                "trackback_author_url": "http://twitter.com/codejobs",
+                "highlight": "#POO \u00c1mbitos public, private, protected y local",
+                "topsy_author_url": "http://topsy.com/twitter/codejobs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/codejobs/status/204974912039952384",
+                "trackback_author_name": "codejobs",
+                "trackback_author_nick": "codejobs"
+            },
+            {
+                "hits": 88,
+                "firstpost_date": 1397358097,
+                "title": "I just carried groceries to my apartment from a block away. I feel extremely accomplished right now. #GiveMeCookie #JK #HealthyEating #Poo",
+                "url": "http://twitter.com/iisuperwomanii/status/455178968308514816",
+                "trackback_date": 1397358097,
+                "trackback_total": 140,
+                "url_expansions": [],
+                "target_birth_date": 1397358097,
+                "content": "I just carried groceries to my apartment from a block away. I feel extremely accomplished right now. #GiveMeCookie #JK #HealthyEating #Poo",
+                "mytype": "tweet",
+                "score": 8.743668,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/418852543570010112/k_wH6q1z_normal.png",
+                "trackback_permalink": "http://twitter.com/IISuperwomanII/status/455178968308514816",
+                "trackback_author_url": "http://twitter.com/iisuperwomanii",
+                "highlight": "I just carried groceries to my apartment from a block away. I feel extremely accomplished right now. #GiveMeCookie #JK #HealthyEating",
+                "topsy_author_url": "http://topsy.com/twitter/iisuperwomanii",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/iisuperwomanii/status/455178968308514816",
+                "trackback_author_name": "Lilly Singh",
+                "trackback_author_nick": "iisuperwomanii"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1337292002,
+                "title": "#POO \u00c1mbitos public, private, protected y local http://t.co/zN7Jlu5M",
+                "url": "http://twitter.com/codejobs/status/203243504082759681",
+                "trackback_date": 1337292002,
+                "trackback_total": 8,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/zN7Jlu5M",
+                        "display_url": "bit.ly/KjZxP0",
+                        "expanded_url": "http://bit.ly/KjZxP0",
+                        "topsy_expanded_url": "http://www.cristalab.com/programacion-orientada-objetos/ambitos-public-private-protected-local/"
+                    }
+                ],
+                "target_birth_date": 1337292002,
+                "content": "#POO \u00c1mbitos public, private, protected y local http://t.co/zN7Jlu5M",
+                "mytype": "tweet",
+                "score": 8.739874,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000361160975/bdf30010736cfdddc4d6cd1ba0e2243b_normal.png",
+                "trackback_permalink": "http://twitter.com/codejobs/status/203243504082759681",
+                "trackback_author_url": "http://twitter.com/codejobs",
+                "highlight": "#POO \u00c1mbitos public, private, protected y local",
+                "topsy_author_url": "http://topsy.com/twitter/codejobs",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/codejobs/status/203243504082759681",
+                "trackback_author_name": "codejobs",
+                "trackback_author_nick": "codejobs"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1400122335,
+                "title": "@GoodBeerWeek #PoO Bingo card for those who plan on getting around this week http://t.co/1bLWEL4Rqc",
+                "url": "http://twitter.com/thirstyinmelb/status/466773021915492353",
+                "trackback_date": 1400122335,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1bLWEL4Rqc",
+                        "display_url": "pic.twitter.com/1bLWEL4Rqc",
+                        "expanded_url": "http://twitter.com/thirstyinmelb/status/466773021915492353/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BnpPlrUIQAE6Eo-.jpg"
+                    }
+                ],
+                "target_birth_date": 1400122335,
+                "content": "@GoodBeerWeek #PoO Bingo card for those who plan on getting around this week http://t.co/1bLWEL4Rqc",
+                "mytype": "tweet",
+                "score": 8.73934,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000632077566/c9dbf75ca44b8bcc40436911ca82ea21_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/thirstyinmelb/status/466773021915492353",
+                "trackback_author_url": "http://twitter.com/thirstyinmelb",
+                "highlight": " #PoO Bingo card for those who plan on getting around this week",
+                "topsy_author_url": "http://topsy.com/twitter/thirstyinmelb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/thirstyinmelb/status/466773021915492353",
+                "trackback_author_name": "cornelius frank",
+                "trackback_author_nick": "thirstyinmelb"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1400074482,
+                "title": "@offtheleashhfx it has happened! #poo #Q",
+                "url": "http://twitter.com/jianghomeshi/status/466572311848423424",
+                "trackback_date": 1400074482,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1400074482,
+                "content": "@offtheleashhfx it has happened! #poo #Q",
+                "mytype": "tweet",
+                "score": 8.738637,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1672062050/Picture_1_normal.png",
+                "trackback_permalink": "http://twitter.com/jianghomeshi/status/466572311848423424",
+                "trackback_author_url": "http://twitter.com/jianghomeshi",
+                "highlight": " it has happened! #poo",
+                "topsy_author_url": "http://topsy.com/twitter/jianghomeshi",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jianghomeshi/status/466572311848423424",
+                "trackback_author_name": "jian ghomeshi",
+                "trackback_author_nick": "jianghomeshi"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1352857908,
+                "title": "My parents don't let me buy energy drinks #poo",
+                "url": "http://twitter.com/lizzmama/status/268531648096776192",
+                "trackback_date": 1352857908,
+                "trackback_total": 3,
+                "url_expansions": [],
+                "target_birth_date": 1352857908,
+                "content": "My parents don't let me buy energy drinks #poo",
+                "mytype": "tweet",
+                "score": 8.737357,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/474093161053036544/46wmD4Fx_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LizzMama/status/268531648096776192",
+                "trackback_author_url": "http://twitter.com/lizbethhxo",
+                "highlight": "My parents don't let me buy energy drinks",
+                "topsy_author_url": "http://topsy.com/twitter/lizbethhxo",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/lizzmama/status/268531648096776192",
+                "trackback_author_name": "lizzy",
+                "trackback_author_nick": "lizbethhxo"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 90,
+        "hidden": 0,
+        "total": 199770,
+        "page": 1
+    }
+}

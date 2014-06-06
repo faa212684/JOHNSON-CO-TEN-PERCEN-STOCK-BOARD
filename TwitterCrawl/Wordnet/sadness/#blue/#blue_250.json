@@ -1,0 +1,289 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23blue&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=250",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#blue",
+            "window": "a",
+            "type": "tweet",
+            "offset": "250"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 10,
+                "firstpost_date": 1400076077,
+                "title": "[#DOLAR COTIZACI\u00d3N] A las 11:00hs | #Oficial: $8,08 | #Tarjeta: $10,91 | #Blue: $10,74 | Contado con Liqui: $9,71 http://t.co/d6AWOzoZjp",
+                "url": "http://twitter.com/infobae/status/466579002157965313",
+                "trackback_date": 1400076077,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/d6AWOzoZjp",
+                        "display_url": "infobae.com",
+                        "expanded_url": "http://infobae.com",
+                        "topsy_expanded_url": "http://www.infobae.com/america"
+                    }
+                ],
+                "target_birth_date": 1400076077,
+                "content": "[#DOLAR COTIZACI\u00d3N] A las 11:00hs | #Oficial: $8,08 | #Tarjeta: $10,91 | #Blue: $10,74 | Contado con Liqui: $9,71 http://t.co/d6AWOzoZjp",
+                "mytype": "tweet",
+                "score": 9.272163,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2828859276/bb4f2d28422139d76c57679aff875870_normal.png",
+                "trackback_permalink": "http://twitter.com/infobae/status/466579002157965313",
+                "trackback_author_url": "http://twitter.com/infobae",
+                "highlight": "[#DOLAR COTIZACI\u00d3N] A las 11:00hs | #Oficial: $8,08 | #Tarjeta: $10,91 | #Blue: $10,74 | Contado con Liqui: $9,71",
+                "topsy_author_url": "http://topsy.com/twitter/infobae",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/infobae/status/466579002157965313",
+                "trackback_author_name": "infobae",
+                "trackback_author_nick": "infobae"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1392408911,
+                "title": ".@mw55 sporting his #Blue-Def/#AAA firesuit @toyotaracing #NASCAR http://t.co/lDNYZVCE3v",
+                "url": "http://twitter.com/mwrteam/status/434420579576610817",
+                "trackback_date": 1392408911,
+                "trackback_total": 13,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/lDNYZVCE3v",
+                        "display_url": "pic.twitter.com/lDNYZVCE3v",
+                        "expanded_url": "http://twitter.com/MWRteam/status/434420579576610817/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BgdfNyAIMAIcYV8.jpg"
+                    }
+                ],
+                "target_birth_date": 1392408911,
+                "content": ".@mw55 sporting his #Blue-Def/#AAA firesuit @toyotaracing #NASCAR http://t.co/lDNYZVCE3v",
+                "mytype": "tweet",
+                "score": 9.270329,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3325361244/20b3ffde4c3e69fe6f55be2f23a628a5_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MWRteam/status/434420579576610817",
+                "trackback_author_url": "http://twitter.com/mwrteam",
+                "highlight": ".@mw55 sporting his #Blue-Def/#AAA firesuit @toyotaracing #NASCAR",
+                "topsy_author_url": "http://topsy.com/twitter/mwrteam",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mwrteam/status/434420579576610817",
+                "trackback_author_name": "M. Waltrip Racing",
+                "trackback_author_nick": "mwrteam"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1339450891,
+                "title": "@seventeenmag #blue #sparkle #manicuremonday http://t.co/NIxSY2AU",
+                "url": "http://twitter.com/sailormel/status/212298541211725824",
+                "trackback_date": 1339450891,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/NIxSY2AU",
+                        "expanded_url": "http://twitter.com/sailormel/status/212298541211725824/photo/1",
+                        "display_url": "pic.twitter.com/NIxSY2AU"
+                    }
+                ],
+                "target_birth_date": 1339450891,
+                "content": "@seventeenmag #blue #sparkle #manicuremonday http://t.co/NIxSY2AU",
+                "mytype": "tweet",
+                "score": 9.269008,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/447408327262097408/JC7Pv-CS_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/sailormel/status/212298541211725824",
+                "trackback_author_url": "http://twitter.com/sailormel",
+                "highlight": " #blue #sparkle #manicuremonday",
+                "topsy_author_url": "http://topsy.com/twitter/sailormel",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sailormel/status/212298541211725824",
+                "trackback_author_name": "Mel",
+                "trackback_author_nick": "sailormel"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1368706274,
+                "title": "http://t.co/7zyoRT8055 @juliaSTILES vs @djwhookid interview #BLUE #SEX",
+                "url": "http://twitter.com/djwhookid/status/335004510869135360",
+                "trackback_date": 1368706274,
+                "trackback_total": 6,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7zyoRT8055",
+                        "display_url": "radioplanet.tv/julia-stiles-w\u2026",
+                        "expanded_url": "http://www.radioplanet.tv/julia-stiles-whookid-shade45-may13/",
+                        "topsy_expanded_url": "http://www.radioplanet.tv/julia-stiles-whookid-shade45-may13/"
+                    }
+                ],
+                "target_birth_date": 1368706274,
+                "content": "http://t.co/7zyoRT8055 @juliaSTILES vs @djwhookid interview #BLUE #SEX",
+                "mytype": "tweet",
+                "score": 9.267777,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/452530452403073024/Sf6rTC2y_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/DJWhooKid/status/335004510869135360",
+                "trackback_author_url": "http://twitter.com/djwhookid",
+                "highlight": " @juliaSTILES vs @djwhookid interview #BLUE",
+                "topsy_author_url": "http://topsy.com/twitter/djwhookid",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/djwhookid/status/335004510869135360",
+                "trackback_author_name": "DJ Whoo Kid",
+                "trackback_author_nick": "djwhookid"
+            },
+            {
+                "hits": 59,
+                "firstpost_date": 1353980838,
+                "title": "#BLUE CHIPS and #RARE CHANDELIERS this year. Not bad.",
+                "url": "http://twitter.com/actionbronson/status/273241558726348800",
+                "trackback_date": 1353980838,
+                "trackback_total": 85,
+                "url_expansions": [],
+                "target_birth_date": 1353980838,
+                "content": "#BLUE CHIPS and #RARE CHANDELIERS this year. Not bad.",
+                "mytype": "tweet",
+                "score": 9.261402,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467320358694297600/AyHCnVtg_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ActionBronson/status/273241558726348800",
+                "trackback_author_url": "http://twitter.com/actionbronson",
+                "highlight": "#BLUE CHIPS and #RARE CHANDELIERS this year. Not bad.",
+                "topsy_author_url": "http://topsy.com/twitter/actionbronson",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/actionbronson/status/273241558726348800",
+                "trackback_author_name": "#MR.WONDERFUL",
+                "trackback_author_nick": "actionbronson"
+            },
+            {
+                "hits": 27,
+                "firstpost_date": 1342903158,
+                "title": "#PJ #keny #show #carpet #blue  http://t.co/9q20G2Pw",
+                "url": "http://twitter.com/ken_y_official/status/226778399136432129",
+                "trackback_date": 1342903158,
+                "trackback_total": 46,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9q20G2Pw",
+                        "display_url": "instagr.am/p/NW0rD6zJT-/",
+                        "expanded_url": "http://instagr.am/p/NW0rD6zJT-/",
+                        "topsy_expanded_url": "http://instagr.am/p/NW0rD6zJT-/"
+                    }
+                ],
+                "target_birth_date": 1342903158,
+                "content": "#PJ #keny #show #carpet #blue  http://t.co/9q20G2Pw",
+                "mytype": "tweet",
+                "score": 9.26139,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2599684821/ken_y_official_normal.jpg",
+                "trackback_permalink": "http://twitter.com/ken_y_official/status/226778399136432129",
+                "trackback_author_url": "http://twitter.com/ken_y_official",
+                "highlight": "#PJ #keny #show #carpet #blue",
+                "topsy_author_url": "http://topsy.com/twitter/ken_y_official",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ken_y_official/status/226778399136432129",
+                "trackback_author_name": "KenVazquez",
+                "trackback_author_nick": "ken_y_official"
+            },
+            {
+                "hits": 91,
+                "firstpost_date": 1381341751,
+                "title": "Get the London look! #boo #blue http://t.co/ZInytf4sMR",
+                "url": "http://twitter.com/ritaora/status/388001542437359616",
+                "trackback_date": 1381341751,
+                "trackback_total": 150,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/ZInytf4sMR",
+                        "display_url": "instagram.com/p/fQYfdtRs1k/",
+                        "expanded_url": "http://instagram.com/p/fQYfdtRs1k/",
+                        "topsy_expanded_url": "http://instagram.com/p/fQYfdtRs1k/"
+                    }
+                ],
+                "target_birth_date": 1381341751,
+                "content": "Get the London look! #boo #blue http://t.co/ZInytf4sMR",
+                "mytype": "tweet",
+                "score": 9.259116,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/444444278454886400/2QK5_4jL_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/RitaOra/status/388001542437359616",
+                "trackback_author_url": "http://twitter.com/ritaora",
+                "highlight": "Get the London look! #boo #blue",
+                "topsy_author_url": "http://topsy.com/twitter/ritaora",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ritaora/status/388001542437359616",
+                "trackback_author_name": "Rita Ora",
+                "trackback_author_nick": "ritaora"
+            },
+            {
+                "hits": 195,
+                "firstpost_date": 1364550814,
+                "title": "#WIN an @HonorGold #blue #dress just RT &amp; follow @HonorGold for a chance to win. Winner announced Tuesday! http://t.co/rVQUyd1bqU",
+                "url": "http://twitter.com/honorgold/status/317575247970856960",
+                "trackback_date": 1364550814,
+                "trackback_total": 335,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/rVQUyd1bqU",
+                        "display_url": "pic.twitter.com/rVQUyd1bqU",
+                        "expanded_url": "http://twitter.com/HonorGold/status/317336426377256960/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BGdnzGkCIAE1GlM.jpg"
+                    }
+                ],
+                "target_birth_date": 1364550814,
+                "content": "#WIN an @HonorGold #blue #dress just RT &amp; follow @HonorGold for a chance to win. Winner announced Tuesday! http://t.co/rVQUyd1bqU",
+                "mytype": "tweet",
+                "score": 9.258735,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3113682119/8459910d313ec96cbcd7dd002ad54d7b_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/HonorGold/status/317575247970856960",
+                "trackback_author_url": "http://twitter.com/honorgold",
+                "highlight": "#WIN an @HonorGold #blue #dress just RT &amp; follow @HonorGold for a chance to win. Winner announced Tuesday!",
+                "topsy_author_url": "http://topsy.com/twitter/honorgold",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/honorgold/status/317575247970856960",
+                "trackback_author_name": "Honor Gold",
+                "trackback_author_nick": "honorgold"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1333250474,
+                "title": "Which #Blue is the #Biggest?????? #Kentucky or #Kansas???? RT",
+                "url": "http://twitter.com/bigtiggershow/status/186292108154515456",
+                "trackback_date": 1333250474,
+                "trackback_total": 23,
+                "url_expansions": [],
+                "target_birth_date": 1333250474,
+                "content": "Which #Blue is the #Biggest?????? #Kentucky or #Kansas???? RT",
+                "mytype": "tweet",
+                "score": 9.257847,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472898031663079424/IaDvdhIj_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BigTiggerShow/status/186292108154515456",
+                "trackback_author_url": "http://twitter.com/bigtiggershow",
+                "highlight": "Which #Blue is the #Biggest?????? #Kentucky or #Kansas???? RT",
+                "topsy_author_url": "http://topsy.com/twitter/bigtiggershow",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bigtiggershow/status/186292108154515456",
+                "trackback_author_name": "Big Tigger",
+                "trackback_author_nick": "bigtiggershow"
+            },
+            {
+                "hits": 20,
+                "firstpost_date": 1400333994,
+                "title": "@autismspeaksbos #blue http://t.co/5KQy1nieU9",
+                "url": "http://twitter.com/thekimballfarm/status/467660785259675648",
+                "trackback_date": 1400333994,
+                "trackback_total": 22,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/5KQy1nieU9",
+                        "display_url": "pic.twitter.com/5KQy1nieU9",
+                        "expanded_url": "http://twitter.com/TheKimballFarm/status/467660785259675648/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bn13AWBCcAANGxj.jpg"
+                    }
+                ],
+                "target_birth_date": 1400333994,
+                "content": "@autismspeaksbos #blue http://t.co/5KQy1nieU9",
+                "mytype": "tweet",
+                "score": 9.254791,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1330772282/classicgold_low_normal.jpg",
+                "trackback_permalink": "http://twitter.com/TheKimballFarm/status/467660785259675648",
+                "trackback_author_url": "http://twitter.com/thekimballfarm",
+                "highlight": " #blue",
+                "topsy_author_url": "http://topsy.com/twitter/thekimballfarm",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/thekimballfarm/status/467660785259675648",
+                "trackback_author_name": "Kimball Farm",
+                "trackback_author_nick": "thekimballfarm"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 250,
+        "hidden": 0,
+        "total": 4457198,
+        "page": 1
+    }
+}

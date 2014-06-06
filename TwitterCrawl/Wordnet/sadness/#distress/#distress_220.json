@@ -1,0 +1,296 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23distress&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=220",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#distress",
+            "window": "a",
+            "type": "tweet",
+            "offset": "220"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1334897118,
+                "title": "\u201c@MSS_iDGAF: I just got sad outta no where\u201d&lt;~ #Distress",
+                "url": "http://twitter.com/nenaflyy/status/193198634408480768",
+                "trackback_date": 1334897118,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1334897118,
+                "content": "\u201c@MSS_iDGAF: I just got sad outta no where\u201d&lt;~ #Distress",
+                "mytype": "tweet",
+                "score": 8.193063,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/455846883639169024/ssnSeAjO_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NenaFlyy/status/193198634408480768",
+                "trackback_author_url": "http://twitter.com/nenaflyy",
+                "highlight": "\u201c@MSS_iDGAF: I just got sad outta no where\u201d&lt;~",
+                "topsy_author_url": "http://topsy.com/twitter/nenaflyy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nenaflyy/status/193198634408480768",
+                "trackback_author_name": "Keneen ;$ ",
+                "trackback_author_nick": "nenaflyy"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1388701170,
+                "title": "#Distress - The first mental and emotional cause of cancer: http://t.co/JbvocNRBGH #Nutrition",
+                "url": "http://twitter.com/naturalnews_sb/status/418869182873501696",
+                "trackback_date": 1388701170,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/JbvocNRBGH",
+                        "display_url": "dld.bz/aN5pv",
+                        "expanded_url": "http://dld.bz/aN5pv",
+                        "topsy_expanded_url": "http://www.naturalnews.com/034798_stress_cancer_emotional.html"
+                    }
+                ],
+                "target_birth_date": 1388701170,
+                "content": "#Distress - The first mental and emotional cause of cancer: http://t.co/JbvocNRBGH #Nutrition",
+                "mytype": "tweet",
+                "score": 8.192067,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000728032245/2ee538a52aaca5d4df29e3c4347bc0bf_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NaturalNews_SB/status/418869182873501696",
+                "trackback_author_url": "http://twitter.com/naturalnews_sb",
+                "highlight": "#Distress - The first mental and emotional cause of cancer:",
+                "topsy_author_url": "http://topsy.com/twitter/naturalnews_sb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/naturalnews_sb/status/418869182873501696",
+                "trackback_author_name": "Samantha Davis",
+                "trackback_author_nick": "naturalnews_sb"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1389255562,
+                "title": "#Distress - The first mental and emotional cause of cancer: http://t.co/JbvocNRBGH #Nutrition",
+                "url": "http://twitter.com/naturalnews_sb/status/421194473931309056",
+                "trackback_date": 1389255562,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/JbvocNRBGH",
+                        "display_url": "dld.bz/aN5pv",
+                        "expanded_url": "http://dld.bz/aN5pv",
+                        "topsy_expanded_url": "http://www.naturalnews.com/034798_stress_cancer_emotional.html"
+                    }
+                ],
+                "target_birth_date": 1389255562,
+                "content": "#Distress - The first mental and emotional cause of cancer: http://t.co/JbvocNRBGH #Nutrition",
+                "mytype": "tweet",
+                "score": 8.191334,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000728032245/2ee538a52aaca5d4df29e3c4347bc0bf_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NaturalNews_SB/status/421194473931309056",
+                "trackback_author_url": "http://twitter.com/naturalnews_sb",
+                "highlight": "#Distress - The first mental and emotional cause of cancer:",
+                "topsy_author_url": "http://topsy.com/twitter/naturalnews_sb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/naturalnews_sb/status/421194473931309056",
+                "trackback_author_name": "Samantha Davis",
+                "trackback_author_nick": "naturalnews_sb"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1390076380,
+                "title": "#Distress - The first mental and emotional cause of cancer: http://t.co/JbvocNRBGH #Nutrition",
+                "url": "http://twitter.com/naturalnews_sb/status/424637233904508929",
+                "trackback_date": 1390076380,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/JbvocNRBGH",
+                        "display_url": "dld.bz/aN5pv",
+                        "expanded_url": "http://dld.bz/aN5pv",
+                        "topsy_expanded_url": "http://www.naturalnews.com/034798_stress_cancer_emotional.html"
+                    }
+                ],
+                "target_birth_date": 1390076380,
+                "content": "#Distress - The first mental and emotional cause of cancer: http://t.co/JbvocNRBGH #Nutrition",
+                "mytype": "tweet",
+                "score": 8.1911,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000728032245/2ee538a52aaca5d4df29e3c4347bc0bf_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NaturalNews_SB/status/424637233904508929",
+                "trackback_author_url": "http://twitter.com/naturalnews_sb",
+                "highlight": "#Distress - The first mental and emotional cause of cancer:",
+                "topsy_author_url": "http://topsy.com/twitter/naturalnews_sb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/naturalnews_sb/status/424637233904508929",
+                "trackback_author_name": "Samantha Davis",
+                "trackback_author_nick": "naturalnews_sb"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1389802803,
+                "title": "#Distress - The first mental and emotional cause of cancer: http://t.co/JbvocNRBGH #Nutrition",
+                "url": "http://twitter.com/naturalnews_sb/status/423489768518078464",
+                "trackback_date": 1389802803,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/JbvocNRBGH",
+                        "display_url": "dld.bz/aN5pv",
+                        "expanded_url": "http://dld.bz/aN5pv",
+                        "topsy_expanded_url": "http://www.naturalnews.com/034798_stress_cancer_emotional.html"
+                    }
+                ],
+                "target_birth_date": 1389802803,
+                "content": "#Distress - The first mental and emotional cause of cancer: http://t.co/JbvocNRBGH #Nutrition",
+                "mytype": "tweet",
+                "score": 8.1911,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000728032245/2ee538a52aaca5d4df29e3c4347bc0bf_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NaturalNews_SB/status/423489768518078464",
+                "trackback_author_url": "http://twitter.com/naturalnews_sb",
+                "highlight": "#Distress - The first mental and emotional cause of cancer:",
+                "topsy_author_url": "http://topsy.com/twitter/naturalnews_sb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/naturalnews_sb/status/423489768518078464",
+                "trackback_author_name": "Samantha Davis",
+                "trackback_author_nick": "naturalnews_sb"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1400224774,
+                "title": "#Distress - The first mental and emotional cause of cancer: http://t.co/5Vt5v8FUxa #Nutrition",
+                "url": "http://twitter.com/naturalnews_sb/status/467202684618297344",
+                "trackback_date": 1400224774,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/5Vt5v8FUxa",
+                        "display_url": "dld.bz/aN5pv",
+                        "expanded_url": "http://dld.bz/aN5pv",
+                        "topsy_expanded_url": "http://www.naturalnews.com/034798_stress_cancer_emotional.html"
+                    }
+                ],
+                "target_birth_date": 1400224774,
+                "content": "#Distress - The first mental and emotional cause of cancer: http://t.co/5Vt5v8FUxa #Nutrition",
+                "mytype": "tweet",
+                "score": 8.190195,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000728032245/2ee538a52aaca5d4df29e3c4347bc0bf_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NaturalNews_SB/status/467202684618297344",
+                "trackback_author_url": "http://twitter.com/naturalnews_sb",
+                "highlight": "#Distress - The first mental and emotional cause of cancer:",
+                "topsy_author_url": "http://topsy.com/twitter/naturalnews_sb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/naturalnews_sb/status/467202684618297344",
+                "trackback_author_name": "Samantha Davis",
+                "trackback_author_nick": "naturalnews_sb"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1302087683,
+                "title": "RT @soshollywood: Veja o Teaser Trailer de #Distress: http://t.co/6DwocAU | Comente e divulgue!",
+                "url": "http://twitter.com/clintondavisson/status/55585891263066112",
+                "trackback_date": 1302087683,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/6DwocAU",
+                        "display_url": "bit.ly/fjUS87",
+                        "expanded_url": "http://bit.ly/fjUS87",
+                        "topsy_expanded_url": "http://www.soshollywood.com.br/distress-teaser-trailer/"
+                    }
+                ],
+                "target_birth_date": 1302087683,
+                "content": "RT @soshollywood: Veja o Teaser Trailer de #Distress: http://t.co/6DwocAU | Comente e divulgue!",
+                "mytype": "tweet",
+                "score": 8.190158,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3642675687/6084bd6d0e96030260f3f7eec6dd2112_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/clintondavisson/status/55585891263066112",
+                "trackback_author_url": "http://twitter.com/clintondavisson",
+                "highlight": "Veja o Teaser Trailer de #Distress: | Comente e divulgue!",
+                "topsy_author_url": "http://topsy.com/twitter/clintondavisson",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/clintondavisson/status/55585891263066112",
+                "trackback_author_name": "Clinton Davisson",
+                "trackback_author_nick": "clintondavisson"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1340206100,
+                "title": "There has been a little #distress selling on the stock exchange. -Thomas W. Lamont, October 29, 1929",
+                "url": "http://twitter.com/4chan_anon/status/215466117089595392",
+                "trackback_date": 1340206100,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1340206100,
+                "content": "There has been a little #distress selling on the stock exchange. -Thomas W. Lamont, October 29, 1929",
+                "mytype": "tweet",
+                "score": 8.189975,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1263211710/anon.jpg_normal.jpg",
+                "trackback_permalink": "http://twitter.com/4Chan_Anon/status/215466117089595392",
+                "trackback_author_url": "http://twitter.com/4chan_anon",
+                "highlight": "There has been a little #distress selling on the stock exchange. -Thomas W. Lamont, October 29, 1929",
+                "topsy_author_url": "http://topsy.com/twitter/4chan_anon",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/4chan_anon/status/215466117089595392",
+                "trackback_author_name": "4Chan Anonymous",
+                "trackback_author_nick": "4chan_anon"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1383743957,
+                "title": "#Distress - The first mental and emotional cause of cancer: http://t.co/JbvocNRBGH #Nutrition",
+                "url": "http://twitter.com/naturalnews_sb/status/398077125401792512",
+                "trackback_date": 1383743957,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/JbvocNRBGH",
+                        "display_url": "dld.bz/aN5pv",
+                        "expanded_url": "http://dld.bz/aN5pv",
+                        "topsy_expanded_url": "http://www.naturalnews.com/034798_stress_cancer_emotional.html"
+                    }
+                ],
+                "target_birth_date": 1383743957,
+                "content": "#Distress - The first mental and emotional cause of cancer: http://t.co/JbvocNRBGH #Nutrition",
+                "mytype": "tweet",
+                "score": 8.189793,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000728032245/2ee538a52aaca5d4df29e3c4347bc0bf_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/NaturalNews_SB/status/398077125401792512",
+                "trackback_author_url": "http://twitter.com/naturalnews_sb",
+                "highlight": "#Distress - The first mental and emotional cause of cancer:",
+                "topsy_author_url": "http://topsy.com/twitter/naturalnews_sb",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/naturalnews_sb/status/398077125401792512",
+                "trackback_author_name": "Samantha Davis",
+                "trackback_author_nick": "naturalnews_sb"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1326295583,
+                "title": "This guy looks incredibly excited! | http://t.co/URqAUI7L Brings Special Focus to #Distress Coverage - http://t.co/uw75vqd8 #CRE",
+                "url": "http://twitter.com/bobarronccim/status/157121183295344641",
+                "trackback_date": 1326295583,
+                "trackback_total": 1,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/URqAUI7L",
+                        "display_url": "GlobeSt.com",
+                        "expanded_url": "http://GlobeSt.com",
+                        "topsy_expanded_url": "http://www.globest.com/"
+                    },
+                    {
+                        "url": "http://t.co/uw75vqd8",
+                        "display_url": "ow.ly/8pF1a",
+                        "expanded_url": "http://ow.ly/8pF1a",
+                        "topsy_expanded_url": "http://www.globest.com/news/12_260/newyork/distressed_assets/GlobeStcom-Brings-Special-Focus-to-Distress-Coverage-317461.html"
+                    }
+                ],
+                "target_birth_date": 1326295583,
+                "content": "This guy looks incredibly excited! | http://t.co/URqAUI7L Brings Special Focus to #Distress Coverage - http://t.co/uw75vqd8 #CRE",
+                "mytype": "tweet",
+                "score": 8.189704,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/422867453358522368/g32nl81-_normal.png",
+                "trackback_permalink": "http://twitter.com/BoBarronCCIM/status/157121183295344641",
+                "trackback_author_url": "http://twitter.com/bobarronccim",
+                "highlight": "This guy looks incredibly excited! | Brings Special Focus to #Distress Coverage -",
+                "topsy_author_url": "http://topsy.com/twitter/bobarronccim",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bobarronccim/status/157121183295344641",
+                "trackback_author_name": "Bo Barron",
+                "trackback_author_nick": "bobarronccim"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 220,
+        "hidden": 0,
+        "total": 15114,
+        "page": 1
+    }
+}

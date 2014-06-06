@@ -1,0 +1,288 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23blue&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=850",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#blue",
+            "window": "a",
+            "type": "tweet",
+            "offset": "850"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 15,
+                "firstpost_date": 1386356308,
+                "title": "#Blue #Polkadot #Tote #Bag   http://t.co/cVdFHM3xq3",
+                "url": "http://twitter.com/kcavenderdesign/status/409034119809859584",
+                "trackback_date": 1386356308,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cVdFHM3xq3",
+                        "display_url": "society6.com/KCavender/Blue\u2026",
+                        "expanded_url": "http://society6.com/KCavender/Blue-Fade-Polka-dot-yWl_Bag#26=197",
+                        "topsy_expanded_url": "http://society6.com/KCavender/Blue-Fade-Polka-dot-yWl_Bag"
+                    }
+                ],
+                "target_birth_date": 1386356308,
+                "content": "#Blue #Polkadot #Tote #Bag   http://t.co/cVdFHM3xq3",
+                "mytype": "tweet",
+                "score": 8.757748,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/466599067435286528/yRzbQIQk_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/KCavenderDesign/status/409034119809859584",
+                "trackback_author_url": "http://twitter.com/kcavenderdesign",
+                "highlight": "#Blue #Polkadot #Tote #Bag",
+                "topsy_author_url": "http://topsy.com/twitter/kcavenderdesign",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kcavenderdesign/status/409034119809859584",
+                "trackback_author_name": "Kelly Cavender",
+                "trackback_author_nick": "kcavenderdesign"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1394642784,
+                "title": "#Shabbychic #candle  #handpainted #white #daisies by EnchantedRoseProduct http://t.co/iUZGiAe6ZZ via @Etsy #pottiteam #spring #blue",
+                "url": "http://twitter.com/valleerose24/status/443790120894734336",
+                "trackback_date": 1394642784,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/iUZGiAe6ZZ",
+                        "display_url": "etsy.me/1iMDiVr",
+                        "expanded_url": "http://etsy.me/1iMDiVr",
+                        "topsy_expanded_url": "https://www.etsy.com/listing/170693682/shabby-chic-candle-handpainted-daisies"
+                    }
+                ],
+                "target_birth_date": 1394642784,
+                "content": "#Shabbychic #candle  #handpainted #white #daisies by EnchantedRoseProduct http://t.co/iUZGiAe6ZZ via @Etsy #pottiteam #spring #blue",
+                "mytype": "tweet",
+                "score": 8.757327,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1946864004/Business_card__anklets_plus_03_24_12_003_normal.JPG",
+                "trackback_permalink": "http://twitter.com/valleerose24/status/443790120894734336",
+                "trackback_author_url": "http://twitter.com/valleerose24",
+                "highlight": "#Shabbychic #candle #handpainted #white #daisies by EnchantedRoseProduct via @Etsy #pottiteam #spring",
+                "topsy_author_url": "http://topsy.com/twitter/valleerose24",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/valleerose24/status/443790120894734336",
+                "trackback_author_name": "Vallee Rose",
+                "trackback_author_nick": "valleerose24"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1338396861,
+                "title": "I'm afraid I'll be tweeting A LOT of houses in this town. #Architecture of \u00c5lesund is marvelous. Check out this #blue! http://t.co/RiLiL4zO",
+                "url": "http://twitter.com/wheresandrew/status/207877619125985280",
+                "trackback_date": 1338396861,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RiLiL4zO",
+                        "expanded_url": "http://twitter.com/WheresAndrew/status/207877619125985280/photo/1",
+                        "display_url": "pic.twitter.com/RiLiL4zO"
+                    }
+                ],
+                "target_birth_date": 1338396861,
+                "content": "I'm afraid I'll be tweeting A LOT of houses in this town. #Architecture of \u00c5lesund is marvelous. Check out this #blue! http://t.co/RiLiL4zO",
+                "mytype": "tweet",
+                "score": 8.756771,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/474734986151870464/O90_MLDt_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/WheresAndrew/status/207877619125985280",
+                "trackback_author_url": "http://twitter.com/wheresandrew",
+                "highlight": "I'm afraid I'll be tweeting A LOT of houses in this town. #Architecture of \u00c5lesund is marvelous. Check out this #blue!",
+                "topsy_author_url": "http://topsy.com/twitter/wheresandrew",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wheresandrew/status/207877619125985280",
+                "trackback_author_name": "Andrew Evans",
+                "trackback_author_nick": "wheresandrew"
+            },
+            {
+                "hits": 71,
+                "firstpost_date": 1374581319,
+                "title": "\u201c@KyahTimCahill: 9years today since my dad left his team @Everton #blue http://t.co/z4esTOFijh\u201d #ourteam",
+                "url": "http://twitter.com/tim_cahill/status/359646237785464832",
+                "trackback_date": 1374581319,
+                "trackback_total": 114,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/z4esTOFijh",
+                        "display_url": "pic.twitter.com/z4esTOFijh",
+                        "expanded_url": "http://twitter.com/KyahTimCahill/status/359646059133280258/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BP24L3ACIAEwsND.jpg"
+                    }
+                ],
+                "target_birth_date": 1374581319,
+                "content": "\u201c@KyahTimCahill: 9years today since my dad left his team @Everton #blue http://t.co/z4esTOFijh\u201d #ourteam",
+                "mytype": "tweet",
+                "score": 8.756739,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/474654666517540865/rJjhkh5f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Tim_Cahill/status/359646237785464832",
+                "trackback_author_url": "http://twitter.com/tim_cahill",
+                "highlight": "\u201c@KyahTimCahill: 9years today since my dad left his team @Everton #blue",
+                "topsy_author_url": "http://topsy.com/twitter/tim_cahill",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tim_cahill/status/359646237785464832",
+                "trackback_author_name": "Tim Cahill",
+                "trackback_author_nick": "tim_cahill"
+            },
+            {
+                "hits": 17,
+                "firstpost_date": 1387092122,
+                "title": "#Blue #Butterfly #Necklace Pendant   Womens Statement #Jewelry by Art @MadeByTammy http://t.co/9f7CYGeGiu via @Etsy #JewelryonEtsy",
+                "url": "http://twitter.com/madebytammy/status/412120349963075585",
+                "trackback_date": 1387092122,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/9f7CYGeGiu",
+                        "display_url": "etsy.me/n2QSGB",
+                        "expanded_url": "http://etsy.me/n2QSGB",
+                        "topsy_expanded_url": "http://www.etsy.com/listing/76525420/butterfly-necklace-pendant-womens"
+                    }
+                ],
+                "target_birth_date": 1387092122,
+                "content": "#Blue #Butterfly #Necklace Pendant   Womens Statement #Jewelry by Art @MadeByTammy http://t.co/9f7CYGeGiu via @Etsy #JewelryonEtsy",
+                "mytype": "tweet",
+                "score": 8.756238,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/639915448/final_2_100_1016_normal.jpg",
+                "trackback_permalink": "http://twitter.com/MadeByTammy/status/412120349963075585",
+                "trackback_author_url": "http://twitter.com/madebytammy",
+                "highlight": "#Blue #Butterfly #Necklace Pendant Womens Statement #Jewelry by Art @MadeByTammy via @Etsy",
+                "topsy_author_url": "http://topsy.com/twitter/madebytammy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/madebytammy/status/412120349963075585",
+                "trackback_author_name": "Made By Tammy",
+                "trackback_author_nick": "madebytammy"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1265919542,
+                "title": "Deep Blue Relaxation Bracelet / Mother of Pearl  http://bit.ly/7peNpn #etsy #handmade #wwes #jewelry #blue #ocean #pearl",
+                "url": "http://twitter.com/earthlifeshop/status/8975975931",
+                "trackback_date": 1265919542,
+                "trackback_total": 3,
+                "url_expansions": [],
+                "target_birth_date": 1265919542,
+                "content": "Deep Blue Relaxation Bracelet / Mother of Pearl  http://bit.ly/7peNpn #etsy #handmade #wwes #jewelry #blue #ocean #pearl",
+                "mytype": "tweet",
+                "score": 8.755959,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000249757651/f072f3bf45e186084f135f2536aa30e5_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/EarthLifeShop/status/8975975931",
+                "trackback_author_url": "http://twitter.com/earthlifeshop",
+                "highlight": "Deep Blue Relaxation Bracelet / Mother of Pearl #etsy #handmade #wwes #jewelry #blue #ocean",
+                "topsy_author_url": "http://topsy.com/twitter/earthlifeshop",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/earthlifeshop/status/8975975931",
+                "trackback_author_name": "Dagmar Magdalena  ",
+                "trackback_author_nick": "earthlifeshop"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1326002833,
+                "title": "On #Sale  Hand Painted #Blue #Jean #Butterfly Pendant  #Necklace @MadeByTammy http://t.co/trO9ew0z via @Etsy #jewelryonetsy",
+                "url": "http://twitter.com/madebytammy/status/155893300015017984",
+                "trackback_date": 1326002833,
+                "trackback_total": 9,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/trO9ew0z",
+                        "display_url": "etsy.me/s0iB8o",
+                        "expanded_url": "http://etsy.me/s0iB8o",
+                        "topsy_expanded_url": "http://www.etsy.com/listing/82449973/sale-hand-painted-blue-jean-butterfly"
+                    }
+                ],
+                "target_birth_date": 1326002833,
+                "content": "On #Sale  Hand Painted #Blue #Jean #Butterfly Pendant  #Necklace @MadeByTammy http://t.co/trO9ew0z via @Etsy #jewelryonetsy",
+                "mytype": "tweet",
+                "score": 8.755707,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/639915448/final_2_100_1016_normal.jpg",
+                "trackback_permalink": "http://twitter.com/MadeByTammy/status/155893300015017984",
+                "trackback_author_url": "http://twitter.com/madebytammy",
+                "highlight": "On #Sale Hand Painted #Blue #Jean #Butterfly Pendant #Necklace @MadeByTammy via @Etsy",
+                "topsy_author_url": "http://topsy.com/twitter/madebytammy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/madebytammy/status/155893300015017984",
+                "trackback_author_name": "Made By Tammy",
+                "trackback_author_nick": "madebytammy"
+            },
+            {
+                "hits": 3,
+                "firstpost_date": 1271938191,
+                "title": "9 Reasons Why #Blue Is The New Green (PHOTOS) http://huff.to/9Fa2vG #huffpost",
+                "url": "http://twitter.com/dianen56/status/12634978536",
+                "trackback_date": 1271938191,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1271938191,
+                "content": "9 Reasons Why #Blue Is The New Green (PHOTOS) http://huff.to/9Fa2vG #huffpost",
+                "mytype": "tweet",
+                "score": 8.754923,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/672448450/singing-humpback-521833-sw_normal.jpg",
+                "trackback_permalink": "http://twitter.com/DianeN56/status/12634978536",
+                "trackback_author_url": "http://twitter.com/dianen56",
+                "highlight": "9 Reasons Why #Blue Is The New Green (PHOTOS)",
+                "topsy_author_url": "http://topsy.com/twitter/dianen56",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dianen56/status/12634978536",
+                "trackback_author_name": "DianeN56",
+                "trackback_author_nick": "dianen56"
+            },
+            {
+                "hits": 31,
+                "firstpost_date": 1390073696,
+                "title": "#Sesion #blue RT http://t.co/i1wbOzL4Zb",
+                "url": "http://twitter.com/miriamsavdra/status/424625976421543937",
+                "trackback_date": 1390073696,
+                "trackback_total": 43,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/i1wbOzL4Zb",
+                        "display_url": "pic.twitter.com/i1wbOzL4Zb",
+                        "expanded_url": "http://twitter.com/MiriamSavdra/status/424625976421543937/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BeSTE2eCcAA53fx.jpg"
+                    }
+                ],
+                "target_birth_date": 1390073696,
+                "content": "#Sesion #blue RT http://t.co/i1wbOzL4Zb",
+                "mytype": "tweet",
+                "score": 8.754866,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468852587014266880/gWLWJzJh_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MiriamSavdra/status/424625976421543937",
+                "trackback_author_url": "http://twitter.com/miriamsavdra",
+                "highlight": "#Sesion #blue RT",
+                "topsy_author_url": "http://topsy.com/twitter/miriamsavdra",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/miriamsavdra/status/424625976421543937",
+                "trackback_author_name": "Miriam'",
+                "trackback_author_nick": "miriamsavdra"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1360254939,
+                "title": "Is this #heaven? @tiffanyandco boxes awaiting amazing jewels #tiffany #blue #wedding http://t.co/OKipCfAF",
+                "url": "http://twitter.com/marthaweddings/status/299557045508665344",
+                "trackback_date": 1360254939,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/OKipCfAF",
+                        "expanded_url": "http://instagr.am/p/Vb8iCyjRpv/",
+                        "display_url": "instagr.am/p/Vb8iCyjRpv/"
+                    }
+                ],
+                "target_birth_date": 1360254939,
+                "content": "Is this #heaven? @tiffanyandco boxes awaiting amazing jewels #tiffany #blue #wedding http://t.co/OKipCfAF",
+                "mytype": "tweet",
+                "score": 8.754756,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/474641584718241792/m6gSlSxZ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/MarthaWeddings/status/299557045508665344",
+                "trackback_author_url": "http://twitter.com/marthaweddings",
+                "highlight": "Is this #heaven? @tiffanyandco boxes awaiting amazing jewels #tiffany #blue #wedding",
+                "topsy_author_url": "http://topsy.com/twitter/marthaweddings",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/marthaweddings/status/299557045508665344",
+                "trackback_author_name": "MarthaStewartWedding",
+                "trackback_author_nick": "marthaweddings"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 850,
+        "hidden": 0,
+        "total": 4331337,
+        "page": 1
+    }
+}

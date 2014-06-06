@@ -1,0 +1,280 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23dark&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=50",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#dark",
+            "window": "a",
+            "type": "tweet",
+            "offset": "50"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 191,
+                "firstpost_date": 1362090446,
+                "title": "Te quiero as\u00ed de cerca... #dark http://t.co/LZmxs21bt3",
+                "url": "http://twitter.com/locootro/status/307255716970889216",
+                "trackback_date": 1362090446,
+                "trackback_total": 238,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/LZmxs21bt3",
+                        "expanded_url": "http://twitter.com/LocoOtro/status/307255716970889216/photo/1",
+                        "display_url": "pic.twitter.com/LZmxs21bt3"
+                    }
+                ],
+                "target_birth_date": 1362090446,
+                "content": "Te quiero as\u00ed de cerca... #dark http://t.co/LZmxs21bt3",
+                "mytype": "tweet",
+                "score": 9.358999,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2759620030/0aac92dbaf5ed48e426dcfcc11f95547_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LocoOtro/status/307255716970889216",
+                "trackback_author_url": "http://twitter.com/locootro",
+                "highlight": "Te quiero as\u00ed de cerca... #dark",
+                "topsy_author_url": "http://topsy.com/twitter/locootro",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/locootro/status/307255716970889216",
+                "trackback_author_name": "Otro Loco? Puede ser",
+                "trackback_author_nick": "locootro"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1383192002,
+                "title": "This mix will get you in the mood for #halloween. #dark #experimental\n\nhttp://t.co/lhNLwMO0pm http://t.co/xdoiZaCoym",
+                "url": "http://twitter.com/8tracks/status/395762059259813888",
+                "trackback_date": 1383192002,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/lhNLwMO0pm",
+                        "display_url": "8trx.com/1940oTg",
+                        "expanded_url": "http://8trx.com/1940oTg",
+                        "topsy_expanded_url": "http://8tracks.com/duewets/dark-is-the-color"
+                    },
+                    {
+                        "url": "http://t.co/xdoiZaCoym",
+                        "display_url": "pic.twitter.com/xdoiZaCoym",
+                        "expanded_url": "http://twitter.com/8tracks/status/395762059259813888/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BX4HfvYCYAEaApU.jpg"
+                    }
+                ],
+                "target_birth_date": 1383192002,
+                "content": "This mix will get you in the mood for #halloween. #dark #experimental\n\nhttp://t.co/lhNLwMO0pm http://t.co/xdoiZaCoym",
+                "mytype": "tweet",
+                "score": 9.357696,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/463740288549130240/XKwA_0jU_normal.png",
+                "trackback_permalink": "http://twitter.com/8tracks/status/395762059259813888",
+                "trackback_author_url": "http://twitter.com/8tracks",
+                "highlight": "This mix will get you in the mood for #halloween. #dark #experimental",
+                "topsy_author_url": "http://topsy.com/twitter/8tracks",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/8tracks/status/395762059259813888",
+                "trackback_author_name": "8tracks",
+                "trackback_author_nick": "8tracks"
+            },
+            {
+                "hits": 15,
+                "firstpost_date": 1326062816,
+                "title": "#Quick lance un burger \u00abnoir\u00bb pour f\u00eater #Dark #Vador http://t.co/mWIcBtuV via @la_Parisienne_",
+                "url": "http://twitter.com/le_parisien_fr/status/156144886536613889",
+                "trackback_date": 1326062816,
+                "trackback_total": 17,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/mWIcBtuV",
+                        "display_url": "tinyurl.com/77et3uu",
+                        "expanded_url": "http://tinyurl.com/77et3uu",
+                        "topsy_expanded_url": "http://www.leparisien.fr/laparisienne/cuisine/quick-lance-un-burger-noir-pour-feter-dark-vador-05-01-2012-1798065.php"
+                    }
+                ],
+                "target_birth_date": 1326062816,
+                "content": "#Quick lance un burger \u00abnoir\u00bb pour f\u00eater #Dark #Vador http://t.co/mWIcBtuV via @la_Parisienne_",
+                "mytype": "tweet",
+                "score": 9.350184,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461434751992074240/4I4uaCxw_normal.png",
+                "trackback_permalink": "http://twitter.com/le_Parisien_fr/status/156144886536613889",
+                "trackback_author_url": "http://twitter.com/le_parisien",
+                "highlight": "#Quick lance un burger \u00abnoir\u00bb pour f\u00eater #Dark #Vador via @la_Parisienne_",
+                "topsy_author_url": "http://topsy.com/twitter/le_parisien",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/le_parisien_fr/status/156144886536613889",
+                "trackback_author_name": "Le Parisien",
+                "trackback_author_nick": "le_parisien"
+            },
+            {
+                "hits": 29,
+                "firstpost_date": 1308031752,
+                "title": "My wife just came into bed dressed as Groucho Marx. It takes a lot to get me in the mood these days. #dark",
+                "url": "http://twitter.com/joshfreese/status/80517123184668672",
+                "trackback_date": 1308031752,
+                "trackback_total": 38,
+                "url_expansions": [],
+                "target_birth_date": 1308031752,
+                "content": "My wife just came into bed dressed as Groucho Marx. It takes a lot to get me in the mood these days. #dark",
+                "mytype": "tweet",
+                "score": 9.349229,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/617587774/Josh_and_Jason_normal.jpg",
+                "trackback_permalink": "http://twitter.com/joshfreese/status/80517123184668672",
+                "trackback_author_url": "http://twitter.com/joshfreese",
+                "highlight": "My wife just came into bed dressed as Groucho Marx. It takes a lot to get me in the mood these days.",
+                "topsy_author_url": "http://topsy.com/twitter/joshfreese",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/joshfreese/status/80517123184668672",
+                "trackback_author_name": "Josh Freese",
+                "trackback_author_nick": "joshfreese"
+            },
+            {
+                "hits": 15,
+                "firstpost_date": 1372039364,
+                "title": "Watching #Dark Girls on OWN.",
+                "url": "http://twitter.com/teresabwmom/status/348984505027149825",
+                "trackback_date": 1372039364,
+                "trackback_total": 21,
+                "url_expansions": [],
+                "target_birth_date": 1372039364,
+                "content": "Watching #Dark Girls on OWN.",
+                "mytype": "tweet",
+                "score": 9.339025,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473073206233141248/QghaSreg_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TeresaBWMom/status/348984505027149825",
+                "trackback_author_url": "http://twitter.com/teresabwmom",
+                "highlight": "Watching #Dark Girls on OWN.",
+                "topsy_author_url": "http://topsy.com/twitter/teresabwmom",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/teresabwmom/status/348984505027149825",
+                "trackback_author_name": "Bow Wow's Mom",
+                "trackback_author_nick": "teresabwmom"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1337781031,
+                "title": "Got a chubby reading final episodes of Hollyoaks Later.. Not cause its dark, I just find the font so arousing... #DARK",
+                "url": "http://twitter.com/emmettscanlan/status/205294639899611136",
+                "trackback_date": 1337781031,
+                "trackback_total": 30,
+                "url_expansions": [],
+                "target_birth_date": 1337781031,
+                "content": "Got a chubby reading final episodes of Hollyoaks Later.. Not cause its dark, I just find the font so arousing... #DARK",
+                "mytype": "tweet",
+                "score": 9.335079,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/456364432872853504/5lqezQEN_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/EmmettScanlan/status/205294639899611136",
+                "trackback_author_url": "http://twitter.com/emmettscanlan",
+                "highlight": "Got a chubby reading final episodes of Hollyoaks Later.. Not cause its dark, I just find the font so arousing",
+                "topsy_author_url": "http://topsy.com/twitter/emmettscanlan",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/emmettscanlan/status/205294639899611136",
+                "trackback_author_name": "Emmett J. Scanlan",
+                "trackback_author_nick": "emmettscanlan"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1385088768,
+                "title": "It\u2019s #dark",
+                "url": "http://twitter.com/radiomaru/status/403717674577829888",
+                "trackback_date": 1385088768,
+                "trackback_total": 7,
+                "url_expansions": [],
+                "target_birth_date": 1385088768,
+                "content": "It\u2019s #dark",
+                "mytype": "tweet",
+                "score": 9.327206,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473510601029734400/fW0lplqQ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/radiomaru/status/403717674577829888",
+                "trackback_author_url": "http://twitter.com/radiomaru",
+                "highlight": "It\u2019s",
+                "topsy_author_url": "http://topsy.com/twitter/radiomaru",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/radiomaru/status/403717674577829888",
+                "trackback_author_name": "Bryan Lee O'Malley",
+                "trackback_author_nick": "radiomaru"
+            },
+            {
+                "hits": 22,
+                "firstpost_date": 1399396731,
+                "title": "Fox's Batman prequel, #Gotham, looks very Christopher Nolan: http://t.co/OLx1B87Ooj #dark #gritty #etc http://t.co/BaDfTpoKhe",
+                "url": "http://twitter.com/browbeat/status/463729620815450112",
+                "trackback_date": 1399396731,
+                "trackback_total": 25,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/OLx1B87Ooj",
+                        "display_url": "slate.com/blogs/browbeat\u2026",
+                        "expanded_url": "http://www.slate.com/blogs/browbeat/2014/05/06/gotham_trailer_fox_s_batman_prequel_looks_very_christopher_nolan_video.html",
+                        "topsy_expanded_url": "http://www.slate.com/blogs/browbeat/2014/05/06/gotham_trailer_fox_s_batman_prequel_looks_very_christopher_nolan_video.html"
+                    },
+                    {
+                        "url": "http://t.co/BaDfTpoKhe",
+                        "display_url": "pic.twitter.com/BaDfTpoKhe",
+                        "expanded_url": "http://twitter.com/browbeat/status/463729620815450112/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bm9_ofDIMAA8fVs.png"
+                    }
+                ],
+                "target_birth_date": 1399396731,
+                "content": "Fox's Batman prequel, #Gotham, looks very Christopher Nolan: http://t.co/OLx1B87Ooj #dark #gritty #etc http://t.co/BaDfTpoKhe",
+                "mytype": "tweet",
+                "score": 9.324934,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1737786252/browbeat_normal.jpg",
+                "trackback_permalink": "http://twitter.com/browbeat/status/463729620815450112",
+                "trackback_author_url": "http://twitter.com/browbeat",
+                "highlight": "Fox's Batman prequel, #Gotham, looks very Christopher Nolan: #dark #gritty #etc",
+                "topsy_author_url": "http://topsy.com/twitter/browbeat",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/browbeat/status/463729620815450112",
+                "trackback_author_name": "Brow Beat",
+                "trackback_author_nick": "browbeat"
+            },
+            {
+                "hits": 155,
+                "firstpost_date": 1369252888,
+                "title": "#Dark secrets will come to #Light... RT now for a chance to win #BeautifulCreatures",
+                "url": "http://twitter.com/ravenwoodmanor/status/337297176436801537",
+                "trackback_date": 1369252888,
+                "trackback_total": 184,
+                "url_expansions": [],
+                "target_birth_date": 1369252888,
+                "content": "#Dark secrets will come to #Light... RT now for a chance to win #BeautifulCreatures",
+                "mytype": "tweet",
+                "score": 9.323487,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/2816749321/8e6a83a84ba65e9d965595539563dbc2_normal.png",
+                "trackback_permalink": "http://twitter.com/RavenwoodManor/status/337297176436801537",
+                "trackback_author_url": "http://twitter.com/ravenwoodmanor",
+                "highlight": "#Dark secrets will come to #Light... RT now for a chance to win",
+                "topsy_author_url": "http://topsy.com/twitter/ravenwoodmanor",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/ravenwoodmanor/status/337297176436801537",
+                "trackback_author_name": "Beautiful Creatures",
+                "trackback_author_nick": "ravenwoodmanor"
+            },
+            {
+                "hits": 160,
+                "firstpost_date": 1385580887,
+                "title": "This Ep is #Dark\n#Revenge\n#Hatred http://t.co/cDwCRI02Q5",
+                "url": "http://twitter.com/barrysloane/status/405781767149199360",
+                "trackback_date": 1385580887,
+                "trackback_total": 235,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/cDwCRI02Q5",
+                        "display_url": "pic.twitter.com/cDwCRI02Q5",
+                        "expanded_url": "http://twitter.com/BarrySloane/status/405781767149199360/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BaGgXf-CMAE6Tky.jpg"
+                    }
+                ],
+                "target_birth_date": 1385580887,
+                "content": "This Ep is #Dark\n#Revenge\n#Hatred http://t.co/cDwCRI02Q5",
+                "mytype": "tweet",
+                "score": 9.321487,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471849315309076480/6GWtHpeJ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BarrySloane/status/405781767149199360",
+                "trackback_author_url": "http://twitter.com/barrysloane",
+                "highlight": "This Ep is #Dark #Revenge #Hatred",
+                "topsy_author_url": "http://topsy.com/twitter/barrysloane",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/barrysloane/status/405781767149199360",
+                "trackback_author_name": "Barry Sloane",
+                "trackback_author_nick": "barrysloane"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 50,
+        "hidden": 0,
+        "total": 1023178,
+        "page": 1
+    }
+}
