@@ -1,0 +1,87 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23ostracize&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=130",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#ostracize",
+            "window": "a",
+            "type": "tweet",
+            "offset": "130"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1365099744,
+                "title": "@K_Mowers Children can be so despicably rotten... SMFH #Taunt #Bully  #Demean #Abuse #Provoke #Label #Punish #Ostracize @DarthNihilus1",
+                "url": "http://twitter.com/mrburlesk/status/319877629383680001",
+                "trackback_date": 1365099744,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1365099744,
+                "content": "@K_Mowers Children can be so despicably rotten... SMFH #Taunt #Bully  #Demean #Abuse #Provoke #Label #Punish #Ostracize @DarthNihilus1",
+                "mytype": "tweet",
+                "score": 3.699155,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3398238705/dbf514a1fdcf55d3be1effc6ab756bcb_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/mrburlesk/status/319877629383680001",
+                "trackback_author_url": "http://twitter.com/mrburlesk",
+                "highlight": " Children can be so despicably rotten... SMFH #Taunt #Bully #Demean #Abuse #Provoke #Label #Punish #Ostracize @DarthNihilus1",
+                "topsy_author_url": "http://topsy.com/twitter/mrburlesk",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mrburlesk/status/319877629383680001",
+                "trackback_author_name": "Mr Burlesk",
+                "trackback_author_nick": "mrburlesk"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1383244313,
+                "title": "RT @k_flaherty13: \"What's that word that begins with an 'O' and sounds like ostrich? \" - @Mietschh #ostracize? #Whaddup #gladwearefriends",
+                "url": "http://twitter.com/mietschh/status/395981469166084096",
+                "trackback_date": 1383244313,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1383244313,
+                "content": "RT @k_flaherty13: \"What's that word that begins with an 'O' and sounds like ostrich? \" - @Mietschh #ostracize? #Whaddup #gladwearefriends",
+                "mytype": "tweet",
+                "score": 3.6899152,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/422399147203760128/aR59Ig2N_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Mietschh/status/395981469166084096",
+                "trackback_author_url": "http://twitter.com/mietschh",
+                "highlight": "\"What's that word that begins with an 'O' and sounds like ostrich? \" - @Mietschh #ostracize? #Whaddup",
+                "topsy_author_url": "http://topsy.com/twitter/mietschh",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mietschh/status/395981469166084096",
+                "trackback_author_name": "Ming Lietsch",
+                "trackback_author_nick": "mietschh"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1399239634,
+                "title": "RT @Husseinsirad: @CarolmNyaga @KhalidIntellect .\nThis iswhat jubilee govtwantsnot terrorist#stoke hate#steal Somali property#dehumanize#Gr\u2026",
+                "url": "http://twitter.com/khalidintellect/status/463070705530449920",
+                "trackback_date": 1399239634,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1399239634,
+                "content": "RT @Husseinsirad: @CarolmNyaga @KhalidIntellect .\nThis iswhat jubilee govtwantsnot terrorist#stoke hate#steal Somali property#dehumanize#Gr\u2026",
+                "mytype": "tweet",
+                "score": 3.6521807,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/471666593702084608/A6U9kHWr_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/KhalidIntellect/status/463070705530449920",
+                "trackback_author_url": "http://twitter.com/khalidintellect",
+                "highlight": " @KhalidIntellect . This iswhat jubilee govtwantsnot terrorist#stoke hate#steal Somali property#dehumanize#Gr\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/khalidintellect",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/khalidintellect/status/463070705530449920",
+                "trackback_author_name": "Khalid Abdulaziz",
+                "trackback_author_nick": "khalidintellect"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 130,
+        "hidden": 0,
+        "total": 133,
+        "page": 1
+    }
+}

@@ -1,0 +1,325 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23so-so&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=300",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#so-so",
+            "window": "a",
+            "type": "tweet",
+            "offset": "300"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1393540698,
+                "title": "\u5c0f\u51fa\u6075\u4ecb\uff01\uff01\n\u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57  #KOIDE #Keisuke! #So-so http://t.co/VZXPbEy5kj https://t.co/A5GBzoDZ86",
+                "url": "http://twitter.com/nanohariri1/status/439167637713862657",
+                "trackback_date": 1393540698,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/VZXPbEy5kj",
+                        "display_url": "nicolines.net/z/8XEos/",
+                        "expanded_url": "http://nicolines.net/z/8XEos/",
+                        "topsy_expanded_url": "http://nicolines.net/y/1/8299/"
+                    },
+                    {
+                        "url": "https://t.co/A5GBzoDZ86",
+                        "display_url": "pic.twitter.com/A5GBzoDZ86",
+                        "expanded_url": "https://twitter.com/sotuaru/status/371823690054254594/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BSj7rRUCQAQf7lA.png"
+                    }
+                ],
+                "target_birth_date": 1393540698,
+                "content": "\u5c0f\u51fa\u6075\u4ecb\uff01\uff01\n\u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57  #KOIDE #Keisuke! #So-so http://t.co/VZXPbEy5kj https://t.co/A5GBzoDZ86",
+                "mytype": "tweet",
+                "score": 7.339844,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2240601621/images_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nanohariri1/status/439167637713862657",
+                "trackback_author_url": "http://twitter.com/nanohariri1",
+                "highlight": "\u5c0f\u51fa\u6075\u4ecb\uff01\uff01 \u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57 #KOIDE #Keisuke! #So-so",
+                "topsy_author_url": "http://topsy.com/twitter/nanohariri1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nanohariri1/status/439167637713862657",
+                "trackback_author_name": "nanohariri",
+                "trackback_author_nick": "nanohariri1"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392458095,
+                "title": "\u5c0f\u51fa\u6075\u4ecb\uff01\uff01\n\u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57  #KOIDE #Keisuke! #So-so http://t.co/jR9OLaTkl0 https://t.co/1jnOH8qpnn",
+                "url": "http://twitter.com/nanohariri1/status/434626871733387264",
+                "trackback_date": 1392458095,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jR9OLaTkl0",
+                        "display_url": "nicolines.net/z/U0dG4/",
+                        "expanded_url": "http://nicolines.net/z/U0dG4/",
+                        "topsy_expanded_url": "http://nicolines.net/y/1/7789/"
+                    },
+                    {
+                        "url": "https://t.co/1jnOH8qpnn",
+                        "display_url": "pic.twitter.com/1jnOH8qpnn",
+                        "expanded_url": "https://twitter.com/sotuaru/status/371823690054254594/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BSj7rRUCQAQf7lA.png"
+                    }
+                ],
+                "target_birth_date": 1392458095,
+                "content": "\u5c0f\u51fa\u6075\u4ecb\uff01\uff01\n\u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57  #KOIDE #Keisuke! #So-so http://t.co/jR9OLaTkl0 https://t.co/1jnOH8qpnn",
+                "mytype": "tweet",
+                "score": 7.339844,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2240601621/images_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nanohariri1/status/434626871733387264",
+                "trackback_author_url": "http://twitter.com/nanohariri1",
+                "highlight": "\u5c0f\u51fa\u6075\u4ecb\uff01\uff01 \u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57 #KOIDE #Keisuke! #So-so",
+                "topsy_author_url": "http://topsy.com/twitter/nanohariri1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nanohariri1/status/434626871733387264",
+                "trackback_author_name": "nanohariri",
+                "trackback_author_nick": "nanohariri1"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1393780299,
+                "title": "\u5c0f\u51fa\u6075\u4ecb\uff01\n\u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57  #KOIDE #Keisuke! #So-so http://t.co/eVLM0hDWQO https://t.co/JJ5HsmL2A4",
+                "url": "http://twitter.com/nanohariri1/status/440172596282134528",
+                "trackback_date": 1393780299,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/eVLM0hDWQO",
+                        "display_url": "nicolines.net/z/5oLA8/",
+                        "expanded_url": "http://nicolines.net/z/5oLA8/",
+                        "topsy_expanded_url": "http://nicolines.net/y/1/8432/"
+                    },
+                    {
+                        "url": "https://t.co/JJ5HsmL2A4",
+                        "display_url": "pic.twitter.com/JJ5HsmL2A4",
+                        "expanded_url": "https://twitter.com/sotuaru/status/371823690054254594/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BSj7rRUCQAQf7lA.png"
+                    }
+                ],
+                "target_birth_date": 1393780299,
+                "content": "\u5c0f\u51fa\u6075\u4ecb\uff01\n\u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57  #KOIDE #Keisuke! #So-so http://t.co/eVLM0hDWQO https://t.co/JJ5HsmL2A4",
+                "mytype": "tweet",
+                "score": 7.338394,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2240601621/images_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nanohariri1/status/440172596282134528",
+                "trackback_author_url": "http://twitter.com/nanohariri1",
+                "highlight": "\u5c0f\u51fa\u6075\u4ecb\uff01 \u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57 #KOIDE #Keisuke! #So-so",
+                "topsy_author_url": "http://topsy.com/twitter/nanohariri1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nanohariri1/status/440172596282134528",
+                "trackback_author_name": "nanohariri",
+                "trackback_author_nick": "nanohariri1"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1393774258,
+                "title": "\u5c0f\u51fa\u6075\u4ecb\uff01\n\u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57  #KOIDE #Keisuke! #So-so http://t.co/6WLDz08CCE https://t.co/JJ5HsmL2A4",
+                "url": "http://twitter.com/nanohariri1/status/440147259896758273",
+                "trackback_date": 1393774258,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/6WLDz08CCE",
+                        "display_url": "nicolines.net/z/qr8W9/",
+                        "expanded_url": "http://nicolines.net/z/qr8W9/",
+                        "topsy_expanded_url": "http://nicolines.net/y/1/8426/"
+                    },
+                    {
+                        "url": "https://t.co/JJ5HsmL2A4",
+                        "display_url": "pic.twitter.com/JJ5HsmL2A4",
+                        "expanded_url": "https://twitter.com/sotuaru/status/371823690054254594/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BSj7rRUCQAQf7lA.png"
+                    }
+                ],
+                "target_birth_date": 1393774258,
+                "content": "\u5c0f\u51fa\u6075\u4ecb\uff01\n\u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57  #KOIDE #Keisuke! #So-so http://t.co/6WLDz08CCE https://t.co/JJ5HsmL2A4",
+                "mytype": "tweet",
+                "score": 7.338394,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2240601621/images_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nanohariri1/status/440147259896758273",
+                "trackback_author_url": "http://twitter.com/nanohariri1",
+                "highlight": "\u5c0f\u51fa\u6075\u4ecb\uff01 \u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57 #KOIDE #Keisuke! #So-so",
+                "topsy_author_url": "http://topsy.com/twitter/nanohariri1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nanohariri1/status/440147259896758273",
+                "trackback_author_name": "nanohariri",
+                "trackback_author_nick": "nanohariri1"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392456586,
+                "title": "\u5c0f\u51fa\u6075\u4ecb\uff01\uff01\n\u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57  #KOIDE #Keisuke! #So-so http://t.co/p6gHZ7c65M https://t.co/1jnOH8qpnn",
+                "url": "http://twitter.com/nanohariri1/status/434620539479392256",
+                "trackback_date": 1392456586,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/p6gHZ7c65M",
+                        "display_url": "nicolines.net/z/EIFPS/",
+                        "expanded_url": "http://nicolines.net/z/EIFPS/",
+                        "topsy_expanded_url": "http://nicolines.net/y/1/7787/"
+                    },
+                    {
+                        "url": "https://t.co/1jnOH8qpnn",
+                        "display_url": "pic.twitter.com/1jnOH8qpnn",
+                        "expanded_url": "https://twitter.com/sotuaru/status/371823690054254594/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BSj7rRUCQAQf7lA.png"
+                    }
+                ],
+                "target_birth_date": 1392456586,
+                "content": "\u5c0f\u51fa\u6075\u4ecb\uff01\uff01\n\u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57  #KOIDE #Keisuke! #So-so http://t.co/p6gHZ7c65M https://t.co/1jnOH8qpnn",
+                "mytype": "tweet",
+                "score": 7.338394,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2240601621/images_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nanohariri1/status/434620539479392256",
+                "trackback_author_url": "http://twitter.com/nanohariri1",
+                "highlight": "\u5c0f\u51fa\u6075\u4ecb\uff01\uff01 \u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57 #KOIDE #Keisuke! #So-so",
+                "topsy_author_url": "http://topsy.com/twitter/nanohariri1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nanohariri1/status/434620539479392256",
+                "trackback_author_name": "nanohariri",
+                "trackback_author_nick": "nanohariri1"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1356737917,
+                "title": "\"Norman Reedus followed me on twitter and Dm\u2019ed me twice, THE FUCKING FEELS!!!!!\n#Darryl Dixon #I love you #so so so much\" daRRyl, by tumblr",
+                "url": "http://twitter.com/hearjaimeroar/status/284805585017384960",
+                "trackback_date": 1356737917,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1356737917,
+                "content": "\"Norman Reedus followed me on twitter and Dm\u2019ed me twice, THE FUCKING FEELS!!!!!\n#Darryl Dixon #I love you #so so so much\" daRRyl, by tumblr",
+                "mytype": "tweet",
+                "score": 7.3366604,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/473261917889232896/9XTEePSt_normal.png",
+                "trackback_permalink": "http://twitter.com/hearjaimeroar/status/284805585017384960",
+                "trackback_author_url": "http://twitter.com/oberynmarteii",
+                "highlight": "\"Norman Reedus followed me on twitter and Dm\u2019ed me twice, THE FUCKING FEELS!!!!! #Darryl Dixon #I love you #so so so much\" daRRyl, by tumblr",
+                "topsy_author_url": "http://topsy.com/twitter/oberynmarteii",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/hearjaimeroar/status/284805585017384960",
+                "trackback_author_name": "ice truck killer",
+                "trackback_author_nick": "oberynmarteii"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1391619381,
+                "title": "\u5c0f\u51fa\u6075\u4ecb\uff01\uff01\n\u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57  #KOIDE #Keisuke! #So-so http://t.co/7JIcK3zXDK https://t.co/A5GBzoV2a6",
+                "url": "http://twitter.com/nanohariri1/status/431109049967734785",
+                "trackback_date": 1391619381,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7JIcK3zXDK",
+                        "display_url": "nicolines.net/z/GBklv/",
+                        "expanded_url": "http://nicolines.net/z/GBklv/",
+                        "topsy_expanded_url": "http://nicolines.net/y/1/7399/"
+                    },
+                    {
+                        "url": "https://t.co/A5GBzoV2a6",
+                        "display_url": "pic.twitter.com/A5GBzoV2a6",
+                        "expanded_url": "https://twitter.com/sotuaru/status/371823690054254594/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BSj7rRUCQAQf7lA.png"
+                    }
+                ],
+                "target_birth_date": 1391619381,
+                "content": "\u5c0f\u51fa\u6075\u4ecb\uff01\uff01\n\u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57  #KOIDE #Keisuke! #So-so http://t.co/7JIcK3zXDK https://t.co/A5GBzoV2a6",
+                "mytype": "tweet",
+                "score": 7.3365555,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2240601621/images_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nanohariri1/status/431109049967734785",
+                "trackback_author_url": "http://twitter.com/nanohariri1",
+                "highlight": "\u5c0f\u51fa\u6075\u4ecb\uff01\uff01 \u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57 #KOIDE #Keisuke! #So-so",
+                "topsy_author_url": "http://topsy.com/twitter/nanohariri1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nanohariri1/status/431109049967734785",
+                "trackback_author_name": "nanohariri",
+                "trackback_author_nick": "nanohariri1"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1252124658,
+                "title": "reprise do @descargaoficial  , #s\u00f3-s\u00f3-s\u00f3safadeza  ahhuahuhuauha",
+                "url": "http://twitter.com/tamisaysnow/status/3773225220",
+                "trackback_date": 1252124658,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1252124658,
+                "content": "reprise do @descargaoficial  , #s\u00f3-s\u00f3-s\u00f3safadeza  ahhuahuhuauha",
+                "mytype": "tweet",
+                "score": 7.3363223,
+                "topsy_author_img": "http://a0.twimg.com/profile_images/1465193911/IMG_0899_normal.jpg",
+                "trackback_permalink": "http://twitter.com/tamisaysnow/status/3773225220",
+                "trackback_author_url": "http://twitter.com/tamisaysnow",
+                "highlight": "reprise do @descargaoficial , #s\u00f3-s\u00f3-s\u00f3safadeza ahhuahuhuauha",
+                "topsy_author_url": "http://topsy.com/twitter/tamisaysnow",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/tamisaysnow/status/3773225220",
+                "trackback_author_name": "Tamires Bastos",
+                "trackback_author_nick": "tamisaysnow"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1274004413,
+                "title": "RT @The_Bassistman: Raketnya Simon mestinya merk pro kennex... Lebih ringan loh,, dari almunium bahannya.... #so'-so' ngritik  #FollowFriday",
+                "url": "http://twitter.com/indonesiartis/status/14090682048",
+                "trackback_date": 1274004413,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1274004413,
+                "content": "RT @The_Bassistman: Raketnya Simon mestinya merk pro kennex... Lebih ringan loh,, dari almunium bahannya.... #so'-so' ngritik  #FollowFriday",
+                "mytype": "tweet",
+                "score": 7.336098,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/672423925/wew_normal.png",
+                "trackback_permalink": "http://twitter.com/IndonesiaRTis/status/14090682048",
+                "trackback_author_url": "http://twitter.com/indonesiartis",
+                "highlight": "Raketnya Simon mestinya merk pro kennex... Lebih ringan loh,, dari almunium bahannya.... #so'-so' ngritik",
+                "topsy_author_url": "http://topsy.com/twitter/indonesiartis",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/indonesiartis/status/14090682048",
+                "trackback_author_name": "Artis Indonesia",
+                "trackback_author_nick": "indonesiartis"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1393769729,
+                "title": "\u5c0f\u51fa\u6075\u4ecb\uff01\n\u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57  #KOIDE #Keisuke! #So-so http://t.co/vfulNjsWHk https://t.co/JJ5HsmL2A4",
+                "url": "http://twitter.com/nanohariri1/status/440128261381562369",
+                "trackback_date": 1393769729,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/vfulNjsWHk",
+                        "display_url": "nicolines.net/z/OcfVg/",
+                        "expanded_url": "http://nicolines.net/z/OcfVg/",
+                        "topsy_expanded_url": "http://nicolines.net/y/1/8422/"
+                    },
+                    {
+                        "url": "https://t.co/JJ5HsmL2A4",
+                        "display_url": "pic.twitter.com/JJ5HsmL2A4",
+                        "expanded_url": "https://twitter.com/sotuaru/status/371823690054254594/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BSj7rRUCQAQf7lA.png"
+                    }
+                ],
+                "target_birth_date": 1393769729,
+                "content": "\u5c0f\u51fa\u6075\u4ecb\uff01\n\u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57  #KOIDE #Keisuke! #So-so http://t.co/vfulNjsWHk https://t.co/JJ5HsmL2A4",
+                "mytype": "tweet",
+                "score": 7.3338695,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2240601621/images_normal.jpg",
+                "trackback_permalink": "http://twitter.com/nanohariri1/status/440128261381562369",
+                "trackback_author_url": "http://twitter.com/nanohariri1",
+                "highlight": "\u5c0f\u51fa\u6075\u4ecb\uff01 \u307e\u3042\u307e\u3042\u30a4\u30b1\u30e1\u30f3\uff57 #KOIDE #Keisuke! #So-so",
+                "topsy_author_url": "http://topsy.com/twitter/nanohariri1",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/nanohariri1/status/440128261381562369",
+                "trackback_author_name": "nanohariri",
+                "trackback_author_nick": "nanohariri1"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 300,
+        "hidden": 0,
+        "total": 199884,
+        "page": 1
+    }
+}

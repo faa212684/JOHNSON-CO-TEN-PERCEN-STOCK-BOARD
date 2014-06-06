@@ -1,0 +1,66 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23invalidating&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=50",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#invalidating",
+            "window": "a",
+            "type": "tweet",
+            "offset": "50"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1374587422,
+                "title": "RT @teracarissa: #Invalidating distorts the victim\u2019s perceptions of their world. It occurs when the abuser refuses to acknowledge reality. \u2026",
+                "url": "http://twitter.com/mynaamis_tandie/status/359671833106198528",
+                "trackback_date": 1374587422,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1374587422,
+                "content": "RT @teracarissa: #Invalidating distorts the victim\u2019s perceptions of their world. It occurs when the abuser refuses to acknowledge reality. \u2026",
+                "mytype": "tweet",
+                "score": 3.8728826,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/469403711308304384/sLqvqRQ7_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Mynaamis_tandie/status/359671833106198528",
+                "trackback_author_url": "http://twitter.com/mynaamis_tandie",
+                "highlight": "#Invalidating distorts the victim\u2019s perceptions of their world. It occurs when the abuser refuses to acknowledge reality. \u2026",
+                "topsy_author_url": "http://topsy.com/twitter/mynaamis_tandie",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/mynaamis_tandie/status/359671833106198528",
+                "trackback_author_name": "Still I rise!!!",
+                "trackback_author_nick": "mynaamis_tandie"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1374586571,
+                "title": "RT @teracarissa: #Invalidating distorts the victim\u2019s perceptions of their world. It occurs when the abuser refuses to acknowledge reality. \u2026",
+                "url": "http://twitter.com/karmelsuga/status/359668266664341504",
+                "trackback_date": 1374586571,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1374586571,
+                "content": "RT @teracarissa: #Invalidating distorts the victim\u2019s perceptions of their world. It occurs when the abuser refuses to acknowledge reality. \u2026",
+                "mytype": "tweet",
+                "score": 3.8728826,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/467151302858780672/9mV4eoT3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/karmelsuga/status/359668266664341504",
+                "trackback_author_url": "http://twitter.com/karmelsuga",
+                "highlight": "#Invalidating distorts the victim\u2019s perceptions of their world. It occurs when the abuser refuses to acknowledge reality. \u2026",
+                "topsy_author_url": "http://topsy.com/twitter/karmelsuga",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/karmelsuga/status/359668266664341504",
+                "trackback_author_name": "Amber Bryant",
+                "trackback_author_nick": "karmelsuga"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 50,
+        "hidden": 0,
+        "total": 56,
+        "page": 1
+    }
+}

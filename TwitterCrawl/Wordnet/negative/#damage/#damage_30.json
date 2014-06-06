@@ -1,0 +1,303 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23damage&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=30",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#damage",
+            "window": "a",
+            "type": "tweet",
+            "offset": "30"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 4,
+                "firstpost_date": 1362703837,
+                "title": "Photo: Bout to go do some #demo #damage yo. http://t.co/bYo4nAP9TL",
+                "url": "http://twitter.com/elizadushku/status/309828468483424256",
+                "trackback_date": 1362703837,
+                "trackback_total": 27,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/bYo4nAP9TL",
+                        "display_url": "tmblr.co/ZTvoCxfldAU5",
+                        "expanded_url": "http://tmblr.co/ZTvoCxfldAU5",
+                        "topsy_expanded_url": "http://lizaloulicious.tumblr.com/post/44822210437/bout-to-go-do-some-demo-damage-yo"
+                    }
+                ],
+                "target_birth_date": 1362703837,
+                "content": "Photo: Bout to go do some #demo #damage yo. http://t.co/bYo4nAP9TL",
+                "mytype": "tweet",
+                "score": 9.840967,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/418220937360994304/Qc01OPse_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/elizadushku/status/309828468483424256",
+                "trackback_author_url": "http://twitter.com/elizadushku",
+                "highlight": "Photo: Bout to go do some #demo #damage yo.",
+                "topsy_author_url": "http://topsy.com/twitter/elizadushku",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/elizadushku/status/309828468483424256",
+                "trackback_author_name": "Eliza Dushku",
+                "trackback_author_nick": "elizadushku"
+            },
+            {
+                "hits": 24,
+                "firstpost_date": 1375199338,
+                "title": "We're continuing our North American tour Thursday night in St. Louis! Check out all the upcoming dates: http://t.co/LCt0dIzGlV #damage",
+                "url": "http://twitter.com/jimmyeatworld/status/362238397558947841",
+                "trackback_date": 1375199338,
+                "trackback_total": 34,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/LCt0dIzGlV",
+                        "display_url": "jimmyeatworld.com/tour/",
+                        "expanded_url": "http://jimmyeatworld.com/tour/",
+                        "topsy_expanded_url": "http://jimmyeatworld.com/tour/"
+                    }
+                ],
+                "target_birth_date": 1375199338,
+                "content": "We're continuing our North American tour Thursday night in St. Louis! Check out all the upcoming dates: http://t.co/LCt0dIzGlV #damage",
+                "mytype": "tweet",
+                "score": 9.7954,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/428685011936501761/qLRA-K32_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jimmyeatworld/status/362238397558947841",
+                "trackback_author_url": "http://twitter.com/jimmyeatworld",
+                "highlight": "We're continuing our North American tour Thursday night in St. Louis! Check out all the upcoming dates:",
+                "topsy_author_url": "http://topsy.com/twitter/jimmyeatworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimmyeatworld/status/362238397558947841",
+                "trackback_author_name": "Jimmy Eat World",
+                "trackback_author_nick": "jimmyeatworld"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1370978942,
+                "title": "So, you've listened to #Damage http://t.co/uhb06jsZhV You may have even bought it http://t.co/f7AIszKiIb Let's hear YOUR review. Bring it!",
+                "url": "http://twitter.com/jimmyeatworld/status/344536773738778624",
+                "trackback_date": 1370978942,
+                "trackback_total": 65,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/uhb06jsZhV",
+                        "display_url": "spoti.fi/18bpNvJ",
+                        "expanded_url": "http://spoti.fi/18bpNvJ",
+                        "topsy_expanded_url": "http://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
+                    },
+                    {
+                        "url": "http://t.co/f7AIszKiIb",
+                        "display_url": "smarturl.it/damage",
+                        "expanded_url": "http://smarturl.it/damage",
+                        "topsy_expanded_url": "http://smarturl.it/damage"
+                    }
+                ],
+                "target_birth_date": 1370978942,
+                "content": "So, you've listened to #Damage http://t.co/uhb06jsZhV You may have even bought it http://t.co/f7AIszKiIb Let's hear YOUR review. Bring it!",
+                "mytype": "tweet",
+                "score": 9.761869,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/428685011936501761/qLRA-K32_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jimmyeatworld/status/344536773738778624",
+                "trackback_author_url": "http://twitter.com/jimmyeatworld",
+                "highlight": "So, you've listened to #Damage You may have even bought it Let's hear YOUR review. Bring it!",
+                "topsy_author_url": "http://topsy.com/twitter/jimmyeatworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimmyeatworld/status/344536773738778624",
+                "trackback_author_name": "Jimmy Eat World",
+                "trackback_author_nick": "jimmyeatworld"
+            },
+            {
+                "hits": 40,
+                "firstpost_date": 1371154579,
+                "title": "Hey friends! Just a heads up #Damage is now available at @Target. Get some toothpaste, a blender and our new record. http://t.co/4Jy1Jw73P5",
+                "url": "http://twitter.com/jimmyeatworld/status/345273447129169920",
+                "trackback_date": 1371154579,
+                "trackback_total": 63,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4Jy1Jw73P5",
+                        "display_url": "bit.ly/DamageTarget",
+                        "expanded_url": "http://bit.ly/DamageTarget",
+                        "topsy_expanded_url": "http://www.target.com/p/damage/-/A-14569918"
+                    }
+                ],
+                "target_birth_date": 1371154579,
+                "content": "Hey friends! Just a heads up #Damage is now available at @Target. Get some toothpaste, a blender and our new record. http://t.co/4Jy1Jw73P5",
+                "mytype": "tweet",
+                "score": 9.741066,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/428685011936501761/qLRA-K32_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jimmyeatworld/status/345273447129169920",
+                "trackback_author_url": "http://twitter.com/jimmyeatworld",
+                "highlight": "Hey friends! Just a heads up #Damage is now available at @Target. Get some toothpaste, a blender and our new record.",
+                "topsy_author_url": "http://topsy.com/twitter/jimmyeatworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimmyeatworld/status/345273447129169920",
+                "trackback_author_name": "Jimmy Eat World",
+                "trackback_author_nick": "jimmyeatworld"
+            },
+            {
+                "hits": 83,
+                "firstpost_date": 1367969248,
+                "title": "The songs on #Damage are inspired by the struggle of adult relationships. It's our attempt at an adult break-up album.",
+                "url": "http://twitter.com/jimmyeatworld/status/331913200608083968",
+                "trackback_date": 1367969248,
+                "trackback_total": 125,
+                "url_expansions": [],
+                "target_birth_date": 1367969248,
+                "content": "The songs on #Damage are inspired by the struggle of adult relationships. It's our attempt at an adult break-up album.",
+                "mytype": "tweet",
+                "score": 9.7313385,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/428685011936501761/qLRA-K32_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jimmyeatworld/status/331913200608083968",
+                "trackback_author_url": "http://twitter.com/jimmyeatworld",
+                "highlight": "The songs on #Damage are inspired by the struggle of adult relationships. It's our attempt at an adult break-up album.",
+                "topsy_author_url": "http://topsy.com/twitter/jimmyeatworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimmyeatworld/status/331913200608083968",
+                "trackback_author_name": "Jimmy Eat World",
+                "trackback_author_nick": "jimmyeatworld"
+            },
+            {
+                "hits": 112,
+                "firstpost_date": 1370930845,
+                "title": "Hey fellow late-nighters, we're super psyched to announce #Damage is available worldwide NOW! http://t.co/f7AIszKiIb",
+                "url": "http://twitter.com/jimmyeatworld/status/344335040722907138",
+                "trackback_date": 1370930845,
+                "trackback_total": 154,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/f7AIszKiIb",
+                        "display_url": "smarturl.it/damage",
+                        "expanded_url": "http://smarturl.it/damage",
+                        "topsy_expanded_url": "http://smarturl.it/damage"
+                    }
+                ],
+                "target_birth_date": 1370930845,
+                "content": "Hey fellow late-nighters, we're super psyched to announce #Damage is available worldwide NOW! http://t.co/f7AIszKiIb",
+                "mytype": "tweet",
+                "score": 9.703391,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/428685011936501761/qLRA-K32_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jimmyeatworld/status/344335040722907138",
+                "trackback_author_url": "http://twitter.com/jimmyeatworld",
+                "highlight": "Hey fellow late-nighters, we're super psyched to announce #Damage is available worldwide NOW!",
+                "topsy_author_url": "http://topsy.com/twitter/jimmyeatworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimmyeatworld/status/344335040722907138",
+                "trackback_author_name": "Jimmy Eat World",
+                "trackback_author_nick": "jimmyeatworld"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1391720023,
+                "title": "WOW - lats see all your excited #BigReunion faces... RT @OfficialDamage: I am excited !!!!! #Damage   http://t.co/FHUsV3YD12",
+                "url": "http://twitter.com/itv2/status/431531172087472128",
+                "trackback_date": 1391720023,
+                "trackback_total": 10,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/FHUsV3YD12",
+                        "display_url": "pic.twitter.com/FHUsV3YD12",
+                        "expanded_url": "http://twitter.com/OfficialDamage/status/431530687859290112/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bf0a38VIMAA7_Cv.jpg"
+                    }
+                ],
+                "target_birth_date": 1391720023,
+                "content": "WOW - lats see all your excited #BigReunion faces... RT @OfficialDamage: I am excited !!!!! #Damage   http://t.co/FHUsV3YD12",
+                "mytype": "tweet",
+                "score": 9.683793,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/445712856135122946/-qoxmheR_normal.png",
+                "trackback_permalink": "http://twitter.com/itv2/status/431531172087472128",
+                "trackback_author_url": "http://twitter.com/itv2",
+                "highlight": "WOW - lats see all your excited #BigReunion faces...I am excited !!!!! #Damage",
+                "topsy_author_url": "http://topsy.com/twitter/itv2",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/itv2/status/431531172087472128",
+                "trackback_author_name": "ITV2",
+                "trackback_author_nick": "itv2"
+            },
+            {
+                "hits": 19,
+                "firstpost_date": 1372375554,
+                "title": "Zach recording drums for #Damage at producer Al Johannes's house http://t.co/4PLb8DCaO6",
+                "url": "http://twitter.com/jimmyeatworld/status/350394587191320576",
+                "trackback_date": 1372375554,
+                "trackback_total": 23,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/4PLb8DCaO6",
+                        "display_url": "pic.twitter.com/4PLb8DCaO6",
+                        "expanded_url": "http://twitter.com/jimmyeatworld/status/350394587191320576/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BNzaBUUCIAAm8Bs.jpg"
+                    }
+                ],
+                "target_birth_date": 1372375554,
+                "content": "Zach recording drums for #Damage at producer Al Johannes's house http://t.co/4PLb8DCaO6",
+                "mytype": "tweet",
+                "score": 9.673514,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/428685011936501761/qLRA-K32_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jimmyeatworld/status/350394587191320576",
+                "trackback_author_url": "http://twitter.com/jimmyeatworld",
+                "highlight": "Zach recording drums for #Damage at producer Al Johannes's house",
+                "topsy_author_url": "http://topsy.com/twitter/jimmyeatworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimmyeatworld/status/350394587191320576",
+                "trackback_author_name": "Jimmy Eat World",
+                "trackback_author_nick": "jimmyeatworld"
+            },
+            {
+                "hits": 12,
+                "firstpost_date": 1391724194,
+                "title": "http://t.co/J6zHuItiNw \n\n#Damage",
+                "url": "http://twitter.com/officialdamage/status/431548666382675970",
+                "trackback_date": 1391724194,
+                "trackback_total": 14,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/J6zHuItiNw",
+                        "display_url": "DamageWorld.com",
+                        "expanded_url": "http://www.DamageWorld.com",
+                        "topsy_expanded_url": "http://www.damageworld.com/"
+                    }
+                ],
+                "target_birth_date": 1391724194,
+                "content": "http://t.co/J6zHuItiNw \n\n#Damage",
+                "mytype": "tweet",
+                "score": 9.664887,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/444230064386093056/zzSaWYi8_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/OfficialDamage/status/431548666382675970",
+                "trackback_author_url": "http://twitter.com/officialdamage",
+                "highlight": "http://t.co/J6zHuItiNw \n\n#Damage",
+                "topsy_author_url": "http://topsy.com/twitter/officialdamage",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/officialdamage/status/431548666382675970",
+                "trackback_author_name": "Damage",
+                "trackback_author_nick": "officialdamage"
+            },
+            {
+                "hits": 44,
+                "firstpost_date": 1398692892,
+                "title": "New raw video: Mayflower, AR #tornado #damage: http://t.co/mX4o5v2O29",
+                "url": "http://twitter.com/twcbreaking/status/460777503934918656",
+                "trackback_date": 1398692892,
+                "trackback_total": 51,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/mX4o5v2O29",
+                        "display_url": "wxch.nl/QPOR4t",
+                        "expanded_url": "http://wxch.nl/QPOR4t",
+                        "topsy_expanded_url": "http://www.weather.com/video/raw-video-of-mayflower-ar-damage-47660?hootPostID=f47968e75f6eb21c53bf3b384f55c287"
+                    }
+                ],
+                "target_birth_date": 1398692892,
+                "content": "New raw video: Mayflower, AR #tornado #damage: http://t.co/mX4o5v2O29",
+                "mytype": "tweet",
+                "score": 9.661199,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/460777503934918656",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "New raw video: Mayflower, AR #tornado #damage:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/460777503934918656",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 30,
+        "hidden": 0,
+        "total": 105875,
+        "page": 1
+    }
+}

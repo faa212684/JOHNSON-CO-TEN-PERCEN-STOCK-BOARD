@@ -1,0 +1,51 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23ostracise&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=80",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#ostracise",
+            "window": "a",
+            "type": "tweet",
+            "offset": "80"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1391568887,
+                "title": "RT @_AnimalAdvocate: Join Germany\u2019s Largest #TourOperator &amp; Drop #Dolphin &amp; #Orca trips. #Ostracise #Seaworld https://t.co/FSqJ4TxVfa \u2026 via\u2026",
+                "url": "http://twitter.com/kimberly555/status/430897263570092032",
+                "trackback_date": 1391568887,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "https://t.co/FSqJ4TxVfa",
+                        "expanded_url": "https://www.thedodo.com/germanys-largest-tour-operator-416507411.html?xrs=RebelMouse_tw",
+                        "display_url": "thedodo.com/germanys-large\u2026"
+                    }
+                ],
+                "target_birth_date": 1391568887,
+                "content": "RT @_AnimalAdvocate: Join Germany\u2019s Largest #TourOperator &amp; Drop #Dolphin &amp; #Orca trips. #Ostracise #Seaworld https://t.co/FSqJ4TxVfa \u2026 via\u2026",
+                "mytype": "tweet",
+                "score": 3.4818387,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468416839622488064/UCXQXdPJ_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/Kimberly555/status/430897263570092032",
+                "trackback_author_url": "http://twitter.com/kimberly555",
+                "highlight": "Join Germany\u2019s Largest #TourOperator &amp; Drop #Dolphin &amp; #Orca trips. #Ostracise #Seaworld \u2026 via\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/kimberly555",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/kimberly555/status/430897263570092032",
+                "trackback_author_name": "Kimberly Contreras",
+                "trackback_author_nick": "kimberly555"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 80,
+        "hidden": 0,
+        "total": 81,
+        "page": 1
+    }
+}

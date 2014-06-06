@@ -1,0 +1,44 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23prejudicious&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#prejudicious",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1330292984,
+                "title": "@studcal @mikes_invegas stay off the dirt! #prejudicious",
+                "url": "http://twitter.com/legittasballs/status/173887495325491201",
+                "trackback_date": 1330292984,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1330292984,
+                "content": "@studcal @mikes_invegas stay off the dirt! #prejudicious",
+                "mytype": "tweet",
+                "score": 5.694673,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/446322041437040640/_Gxz3JY2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/LegittAsBalls/status/173887495325491201",
+                "trackback_author_url": "http://twitter.com/oh_dannyboyy",
+                "highlight": " @mikes_invegas stay off the dirt!",
+                "topsy_author_url": "http://topsy.com/twitter/oh_dannyboyy",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/legittasballs/status/173887495325491201",
+                "trackback_author_name": "Benny The Jet",
+                "trackback_author_nick": "oh_dannyboyy"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 1,
+        "page": 1
+    }
+}

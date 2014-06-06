@@ -1,0 +1,65 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23disconfirming&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#disconfirming",
+            "window": "a",
+            "type": "tweet"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1287297473,
+                "title": "Confirmation bias: You will only see what will fit your bias. New info = #disconfirming evidence. Klarer #Denken mit #Dobelli",
+                "url": "http://twitter.com/montaltaberger/status/27614359088",
+                "trackback_date": 1287297473,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1287297473,
+                "content": "Confirmation bias: You will only see what will fit your bias. New info = #disconfirming evidence. Klarer #Denken mit #Dobelli",
+                "mytype": "tweet",
+                "score": 4.6792774,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2966488729/76cb72adbdeef82f8136d4c8b3fa0356_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/montaltaberger/status/27614359088",
+                "trackback_author_url": "http://twitter.com/ka_berger",
+                "highlight": "Confirmation bias: You will only see what will fit your bias. New info = #disconfirming evidence. Klarer #Denken mit",
+                "topsy_author_url": "http://topsy.com/twitter/ka_berger",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/montaltaberger/status/27614359088",
+                "trackback_author_name": "Karin Berger",
+                "trackback_author_nick": "ka_berger"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1353389455,
+                "title": "RT @BrainBackBend: I am so misunderstood.  #disconfirming",
+                "url": "http://twitter.com/jetglobal/status/270761119302447105",
+                "trackback_date": 1353389455,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1353389455,
+                "content": "RT @BrainBackBend: I am so misunderstood.  #disconfirming",
+                "mytype": "tweet",
+                "score": 4.405167,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2610775464/image_normal.jpg",
+                "trackback_permalink": "http://twitter.com/JetGlobal/status/270761119302447105",
+                "trackback_author_url": "http://twitter.com/jetglobal",
+                "highlight": "I am so misunderstood.",
+                "topsy_author_url": "http://topsy.com/twitter/jetglobal",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jetglobal/status/270761119302447105",
+                "trackback_author_name": "Jet Rod ",
+                "trackback_author_nick": "jetglobal"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 0,
+        "hidden": 0,
+        "total": 2,
+        "page": 1
+    }
+}

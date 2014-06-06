@@ -1,0 +1,78 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23proscribe&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=50",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#proscribe",
+            "window": "a",
+            "type": "tweet",
+            "offset": "50"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1392297743,
+                "title": "RT @ProScribeMD: ProScribe Looking forward to a great AAEM conference! #ProScribe #AAEM14 http://t.co/Uw6tBS2uqH",
+                "url": "http://twitter.com/elizabethpetro/status/433954306283159552",
+                "trackback_date": 1392297743,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/Uw6tBS2uqH",
+                        "expanded_url": "http://twitter.com/ProScribeMD/status/433741815393837056/photo/1",
+                        "display_url": "pic.twitter.com/Uw6tBS2uqH"
+                    }
+                ],
+                "target_birth_date": 1392297743,
+                "content": "RT @ProScribeMD: ProScribe Looking forward to a great AAEM conference! #ProScribe #AAEM14 http://t.co/Uw6tBS2uqH",
+                "mytype": "tweet",
+                "score": 3.9720695,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/433629139807895552/i3nqrTAp_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ElizabethPetro/status/433954306283159552",
+                "trackback_author_url": "http://twitter.com/elizabethpetro",
+                "highlight": "ProScribe Looking forward to a great AAEM conference! #ProScribe #AAEM14",
+                "topsy_author_url": "http://topsy.com/twitter/elizabethpetro",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/elizabethpetro/status/433954306283159552",
+                "trackback_author_name": "Elizabeth Petro",
+                "trackback_author_nick": "elizabethpetro"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1392391031,
+                "title": "RT @ProScribeMD: Physician, Help Thyself - http://t.co/8dWycRm4RG via @Shareaholic #EMR #MedicalScribes #ProScribe #Physician",
+                "url": "http://twitter.com/corky_roth/status/434345581645811712",
+                "trackback_date": 1392391031,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/8dWycRm4RG",
+                        "expanded_url": "http://s.shr.lc/NoPTmJ",
+                        "display_url": "s.shr.lc/NoPTmJ"
+                    }
+                ],
+                "target_birth_date": 1392391031,
+                "content": "RT @ProScribeMD: Physician, Help Thyself - http://t.co/8dWycRm4RG via @Shareaholic #EMR #MedicalScribes #ProScribe #Physician",
+                "mytype": "tweet",
+                "score": 3.823064,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461509178222055424/ffUHmNyR_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/corky_roth/status/434345581645811712",
+                "trackback_author_url": "http://twitter.com/corky_roth",
+                "highlight": "Physician, Help Thyself - via @Shareaholic #EMR #MedicalScribes #ProScribe",
+                "topsy_author_url": "http://topsy.com/twitter/corky_roth",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/corky_roth/status/434345581645811712",
+                "trackback_author_name": "corky roth",
+                "trackback_author_nick": "corky_roth"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 50,
+        "hidden": 0,
+        "total": 52,
+        "page": 1
+    }
+}

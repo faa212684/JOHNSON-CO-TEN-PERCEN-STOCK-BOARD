@@ -1,0 +1,297 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23damage&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=40",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#damage",
+            "window": "a",
+            "type": "tweet",
+            "offset": "40"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 20,
+                "firstpost_date": 1355788835,
+                "title": "#damage",
+                "url": "http://twitter.com/jacko__c/status/280824846642995200",
+                "trackback_date": 1355788835,
+                "trackback_total": 34,
+                "url_expansions": [],
+                "target_birth_date": 1355788835,
+                "content": "#damage",
+                "mytype": "tweet",
+                "score": 9.640266,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/468878740731465729/OBydVFEP_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/JackO__C/status/280824846642995200",
+                "trackback_author_url": "http://twitter.com/jacko__c",
+                "highlight": "#damage",
+                "topsy_author_url": "http://topsy.com/twitter/jacko__c",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jacko__c/status/280824846642995200",
+                "trackback_author_name": "Jack O'C",
+                "trackback_author_nick": "jacko__c"
+            },
+            {
+                "hits": 52,
+                "firstpost_date": 1400791246,
+                "title": "PHOTO: #Damage near Altamont, NY via @willis923: http://t.co/5yoTuSBB5t",
+                "url": "http://twitter.com/twcbreaking/status/469578640137932800",
+                "trackback_date": 1400791246,
+                "trackback_total": 60,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/5yoTuSBB5t",
+                        "display_url": "pic.twitter.com/5yoTuSBB5t",
+                        "expanded_url": "http://twitter.com/willis923/status/469575614295703552/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BoREiBQIQAEppVq.jpg"
+                    }
+                ],
+                "target_birth_date": 1400791246,
+                "content": "PHOTO: #Damage near Altamont, NY via @willis923: http://t.co/5yoTuSBB5t",
+                "mytype": "tweet",
+                "score": 9.639933,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/469578640137932800",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "PHOTO: #Damage near Altamont, NY via @willis923:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/469578640137932800",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1330550562,
+                "title": "New #damage photos from today's #tornado outbreak: http://t.co/7xy5KtEi",
+                "url": "http://twitter.com/twcbreaking/status/174967857497636864",
+                "trackback_date": 1330550562,
+                "trackback_total": 17,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7xy5KtEi",
+                        "display_url": "wxch.nl/AdvY70",
+                        "expanded_url": "http://wxch.nl/AdvY70",
+                        "topsy_expanded_url": "http://www.weather.com/outlook/weather-news/news/articles/photos-storm-damage-kansas-to-kentucky_2012-02-29"
+                    }
+                ],
+                "target_birth_date": 1330550562,
+                "content": "New #damage photos from today's #tornado outbreak: http://t.co/7xy5KtEi",
+                "mytype": "tweet",
+                "score": 9.62016,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/174967857497636864",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "New #damage photos from today's #tornado outbreak:",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/174967857497636864",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 22,
+                "firstpost_date": 1396546147,
+                "title": "New video: This morning's #tornado #damage in the St. Louis metro. http://t.co/tHd4pjhCIB",
+                "url": "http://twitter.com/twcbreaking/status/451773402999959553",
+                "trackback_date": 1396546147,
+                "trackback_total": 25,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/tHd4pjhCIB",
+                        "display_url": "wxch.nl/1h8zgrJ",
+                        "expanded_url": "http://wxch.nl/1h8zgrJ",
+                        "topsy_expanded_url": "http://www.weather.com/video/tornado-touches-down-near-st-louis-46505?hootPostID=0a42aaf111d721ed8028404b4a2b2a31"
+                    }
+                ],
+                "target_birth_date": 1396546147,
+                "content": "New video: This morning's #tornado #damage in the St. Louis metro. http://t.co/tHd4pjhCIB",
+                "mytype": "tweet",
+                "score": 9.619021,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/451773402999959553",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "New video: This morning's #tornado #damage in the St. Louis metro.",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/451773402999959553",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 34,
+                "firstpost_date": 1400796216,
+                "title": "Photo: Duanesburg, N.Y. #damage HT @patrickdodson http://t.co/OD1yn8DSAn",
+                "url": "http://twitter.com/twcbreaking/status/469599482846646272",
+                "trackback_date": 1400796216,
+                "trackback_total": 35,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/OD1yn8DSAn",
+                        "display_url": "pic.twitter.com/OD1yn8DSAn",
+                        "expanded_url": "http://twitter.com/patrickdodson/status/469598409171554304/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/BoRZQj0CEAIT9IX.jpg"
+                    }
+                ],
+                "target_birth_date": 1400796216,
+                "content": "Photo: Duanesburg, N.Y. #damage HT @patrickdodson http://t.co/OD1yn8DSAn",
+                "mytype": "tweet",
+                "score": 9.618574,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/419207915182903296/JL-KhuiD_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/TWCBreaking/status/469599482846646272",
+                "trackback_author_url": "http://twitter.com/twcbreaking",
+                "highlight": "Photo: Duanesburg, N.Y. #damage HT @patrickdodson",
+                "topsy_author_url": "http://topsy.com/twitter/twcbreaking",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/twcbreaking/status/469599482846646272",
+                "trackback_author_name": "TWC Breaking",
+                "trackback_author_nick": "twcbreaking"
+            },
+            {
+                "hits": 21,
+                "firstpost_date": 1354859165,
+                "title": "#damage video krizzkaliko http://t.co/7zSbyazh",
+                "url": "http://twitter.com/snowthaproduct/status/276925527745519616",
+                "trackback_date": 1354859165,
+                "trackback_total": 25,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/7zSbyazh",
+                        "display_url": "instagr.am/p/S7I85TDbmP/",
+                        "expanded_url": "http://instagr.am/p/S7I85TDbmP/",
+                        "topsy_expanded_url": "http://instagram.com/p/S7I85TDbmP/"
+                    }
+                ],
+                "target_birth_date": 1354859165,
+                "content": "#damage video krizzkaliko http://t.co/7zSbyazh",
+                "mytype": "tweet",
+                "score": 9.614228,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/464161556398231552/o9AbY6PK_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SnowThaProduct/status/276925527745519616",
+                "trackback_author_url": "http://twitter.com/snowthaproduct",
+                "highlight": "#damage video krizzkaliko",
+                "topsy_author_url": "http://topsy.com/twitter/snowthaproduct",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/snowthaproduct/status/276925527745519616",
+                "trackback_author_name": "Snow, Tha Product ",
+                "trackback_author_nick": "snowthaproduct"
+            },
+            {
+                "hits": 16,
+                "firstpost_date": 1381245591,
+                "title": "Premiere: @Mat_Zo_Official \"Lucid Dream\" off #Damage Control LP cc: @anjunabeats @Astralwerks http://t.co/J8XM2KFAwk",
+                "url": "http://twitter.com/vibemagazine/status/387598220379303936",
+                "trackback_date": 1381245591,
+                "trackback_total": 19,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/J8XM2KFAwk",
+                        "display_url": "bit.ly/1e6aS5C",
+                        "expanded_url": "http://bit.ly/1e6aS5C",
+                        "topsy_expanded_url": "http://www.vibe.com/article/premiere-mat-zo-lucid-dreams-upcoming-damage-control-lp"
+                    }
+                ],
+                "target_birth_date": 1381245591,
+                "content": "Premiere: @Mat_Zo_Official \"Lucid Dream\" off #Damage Control LP cc: @anjunabeats @Astralwerks http://t.co/J8XM2KFAwk",
+                "mytype": "tweet",
+                "score": 9.610768,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/466641214016466944/CUOLUlXg_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/VibeMagazine/status/387598220379303936",
+                "trackback_author_url": "http://twitter.com/vibemagazine",
+                "highlight": "Premiere: @Mat_Zo_Official \"Lucid Dream\" off #Damage Control LP cc: @anjunabeats @Astralwerks",
+                "topsy_author_url": "http://topsy.com/twitter/vibemagazine",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/vibemagazine/status/387598220379303936",
+                "trackback_author_name": "VibeMagazine",
+                "trackback_author_nick": "vibemagazine"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1372185300,
+                "title": "Hey guys, #Damage vinyl back in stock! Get em quick while you can: http://t.co/bBVn0dxtLU",
+                "url": "http://twitter.com/jimmyeatworld/status/349596605499965440",
+                "trackback_date": 1372185300,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/bBVn0dxtLU",
+                        "display_url": "bit.ly/DamageVinyl",
+                        "expanded_url": "http://bit.ly/DamageVinyl",
+                        "topsy_expanded_url": "http://store.jimmyeatworld.com/collections/frontpage/products/damage-vinyl-preorder"
+                    }
+                ],
+                "target_birth_date": 1372185300,
+                "content": "Hey guys, #Damage vinyl back in stock! Get em quick while you can: http://t.co/bBVn0dxtLU",
+                "mytype": "tweet",
+                "score": 9.607058,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/428685011936501761/qLRA-K32_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jimmyeatworld/status/349596605499965440",
+                "trackback_author_url": "http://twitter.com/jimmyeatworld",
+                "highlight": "Hey guys, #Damage vinyl back in stock! Get em quick while you can:",
+                "topsy_author_url": "http://topsy.com/twitter/jimmyeatworld",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jimmyeatworld/status/349596605499965440",
+                "trackback_author_name": "Jimmy Eat World",
+                "trackback_author_nick": "jimmyeatworld"
+            },
+            {
+                "hits": 50,
+                "firstpost_date": 1365012360,
+                "title": "BIG NEWS: We're beyond proud to welcome @JimmyEatWorld to the roster. New album #Damage drops June 11, 2013. Details: http://t.co/BrqQZZWCaw",
+                "url": "http://twitter.com/dinealonemusic/status/319511113488273408",
+                "trackback_date": 1365012360,
+                "trackback_total": 60,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/BrqQZZWCaw",
+                        "display_url": "bit.ly/17dn2qG",
+                        "expanded_url": "http://bit.ly/17dn2qG",
+                        "topsy_expanded_url": "http://dinealonerecords.com/2013/index.php/news/view/481"
+                    }
+                ],
+                "target_birth_date": 1365012360,
+                "content": "BIG NEWS: We're beyond proud to welcome @JimmyEatWorld to the roster. New album #Damage drops June 11, 2013. Details: http://t.co/BrqQZZWCaw",
+                "mytype": "tweet",
+                "score": 9.600479,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/386124202/datwitlogo_normal.jpg",
+                "trackback_permalink": "http://twitter.com/dinealonemusic/status/319511113488273408",
+                "trackback_author_url": "http://twitter.com/dinealonemusic",
+                "highlight": "BIG NEWS: We're beyond proud to welcome @JimmyEatWorld to the roster. New album #Damage drops June 11, 2013. Details:",
+                "topsy_author_url": "http://topsy.com/twitter/dinealonemusic",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/dinealonemusic/status/319511113488273408",
+                "trackback_author_name": "Dine Alone Records",
+                "trackback_author_nick": "dinealonemusic"
+            },
+            {
+                "hits": 10,
+                "firstpost_date": 1349115522,
+                "title": "#electDAMAGE2012 #DAMAGE #PTSD my name is Pharoahe Monch and i approve these hashtags\u201d http://t.co/RwDJwfld",
+                "url": "http://twitter.com/pharoahemonch/status/252834940935368704",
+                "trackback_date": 1349115522,
+                "trackback_total": 11,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/RwDJwfld",
+                        "display_url": "itun.es/us/eubQH",
+                        "expanded_url": "http://itun.es/us/eubQH",
+                        "topsy_expanded_url": "https://itunes.apple.com/us/album/damage-single/id564663556"
+                    }
+                ],
+                "target_birth_date": 1349115522,
+                "content": "#electDAMAGE2012 #DAMAGE #PTSD my name is Pharoahe Monch and i approve these hashtags\u201d http://t.co/RwDJwfld",
+                "mytype": "tweet",
+                "score": 9.599198,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/445986677526233088/O-WMLc5N_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/pharoahemonch/status/252834940935368704",
+                "trackback_author_url": "http://twitter.com/pharoahemonch",
+                "highlight": "#electDAMAGE2012 #DAMAGE #PTSD my name is Pharoahe Monch and i approve these hashtags\u201d",
+                "topsy_author_url": "http://topsy.com/twitter/pharoahemonch",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/pharoahemonch/status/252834940935368704",
+                "trackback_author_name": "PHAROAHE MONCH",
+                "trackback_author_nick": "pharoahemonch"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 40,
+        "hidden": 0,
+        "total": 105853,
+        "page": 1
+    }
+}

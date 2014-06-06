@@ -1,0 +1,45 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23barring&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=670",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#barring",
+            "window": "a",
+            "type": "tweet",
+            "offset": "670"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1330168309,
+                "title": "RT @F_Almutawah10: \u0627\u0644\u062c\u0640\u0648\u064e \u063a\u064a\u0645\u064e \u0648 \u0645\u0640\u0622\u0637\u0631 \u0627\u0644\u0640\u062c\u0648\u0651 \u0631\u0622\u064a\u0640\u0642\u064e~\u0648\u0627\u0644\u0642\u0644\u0628\u064e \u0645\u0622\u064a\u0642\u0648\u0649\u064e \u0639\u0644\u0649 \u0631\u0622\u064a\u0642\u064e \u0627\u0644\u062c\u0648\u0651 // \u062e\u0630\u0646\u064a \u0645\u0639\u0643\u064e \u0644\u0644\u0628\u0631\u064e \u0628\u0627\u0644\u062d\u064a\u0651\u0644\u064e \u0636\u0622\u064a\u0642\u0652~\u0642\u0645 \u062e\u0622\u0648\u0646\u064a .. \u062e\u0644\u0651 \u0627 ...",
+                "url": "http://twitter.com/halbuflasa/status/173364573485793280",
+                "trackback_date": 1330168309,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1330168309,
+                "content": "RT @F_Almutawah10: \u0627\u0644\u062c\u0640\u0648\u064e \u063a\u064a\u0645\u064e \u0648 \u0645\u0640\u0622\u0637\u0631 \u0627\u0644\u0640\u062c\u0648\u0651 \u0631\u0622\u064a\u0640\u0642\u064e~\u0648\u0627\u0644\u0642\u0644\u0628\u064e \u0645\u0622\u064a\u0642\u0648\u0649\u064e \u0639\u0644\u0649 \u0631\u0622\u064a\u0642\u064e \u0627\u0644\u062c\u0648\u0651 // \u062e\u0630\u0646\u064a \u0645\u0639\u0643\u064e \u0644\u0644\u0628\u0631\u064e \u0628\u0627\u0644\u062d\u064a\u0651\u0644\u064e \u0636\u0622\u064a\u0642\u0652~\u0642\u0645 \u062e\u0622\u0648\u0646\u064a .. \u062e\u0644\u0651 \u0627 ...",
+                "mytype": "tweet",
+                "score": 3.1829035,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/465023065257046016/WhFMEhO4_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/HAlbuflasa/status/173364573485793280",
+                "trackback_author_url": "http://twitter.com/halbuflasa",
+                "highlight": "\u0627\u0644\u062c\u0640\u0648\u064e \u063a\u064a\u0645\u064e \u0648 \u0645\u0640\u0622\u0637\u0631 \u0627\u0644\u0640\u062c\u0648\u0651 \u0631\u0622\u064a\u0640\u0642\u064e~\u0648\u0627\u0644\u0642\u0644\u0628\u064e \u0645\u0622\u064a\u0642\u0648\u0649\u064e \u0639\u0644\u0649 \u0631\u0622\u064a\u0642\u064e \u0627\u0644\u062c\u0648\u0651 // \u062e\u0630\u0646\u064a \u0645\u0639\u0643\u064e \u0644\u0644\u0628\u0631\u064e \u0628\u0627\u0644\u062d\u064a\u0651\u0644\u064e \u0636\u0622\u064a\u0642\u0652~\u0642\u0645 \u062e\u0622\u0648\u0646\u064a .. \u062e\u0644\u0651 \u0627 ",
+                "topsy_author_url": "http://topsy.com/twitter/halbuflasa",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/halbuflasa/status/173364573485793280",
+                "trackback_author_name": "\u06be\u0640\u0646\u0640\u062f \u0671\u0644\u0640\u0628\u0640\u0648\u0641\u0640\u0644\u0622\u0633\u0640\u0640\u06c3",
+                "trackback_author_nick": "halbuflasa"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 670,
+        "hidden": 0,
+        "total": 671,
+        "page": 1
+    }
+}

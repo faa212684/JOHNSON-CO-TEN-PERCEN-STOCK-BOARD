@@ -1,0 +1,78 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23unbiassed&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=40",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#unbiassed",
+            "window": "a",
+            "type": "tweet",
+            "offset": "40"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1394726285,
+                "title": "RT @AttaBoyPEI: Not a bad looking @MusicPEI banner for #ECMW2014! That Saturday afternoon free show looks appealing. #Unbiassed http://t.co\u2026",
+                "url": "http://twitter.com/joanboyington/status/444140348952944640",
+                "trackback_date": 1394726285,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/do4RVDwkzg",
+                        "expanded_url": "http://twitter.com/AttaBoyPEI/status/443903305862098944/photo/1",
+                        "display_url": "pic.twitter.com/do4RVDwkzg"
+                    }
+                ],
+                "target_birth_date": 1394726285,
+                "content": "RT @AttaBoyPEI: Not a bad looking @MusicPEI banner for #ECMW2014! That Saturday afternoon free show looks appealing. #Unbiassed http://t.co\u2026",
+                "mytype": "tweet",
+                "score": 3.859795,
+                "topsy_author_img": "http://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+                "trackback_permalink": "http://twitter.com/JOANBOYINGTON/status/444140348952944640",
+                "trackback_author_url": "http://twitter.com/joanboyington",
+                "highlight": "Not a bad looking @MusicPEI banner for #ECMW2014! That Saturday afternoon free show looks appealing. #Unbiassed",
+                "topsy_author_url": "http://topsy.com/twitter/joanboyington",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/joanboyington/status/444140348952944640",
+                "trackback_author_name": "JOAN BOYINGTON",
+                "trackback_author_nick": "joanboyington"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1394726097,
+                "title": "RT @AttaBoyPEI: Not a bad looking @MusicPEI banner for #ECMW2014! That Saturday afternoon free show looks appealing. #Unbiassed http://t.co\u2026",
+                "url": "http://twitter.com/acornchad/status/444139559727947776",
+                "trackback_date": 1394726097,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/do4RVDwkzg",
+                        "expanded_url": "http://twitter.com/AttaBoyPEI/status/443903305862098944/photo/1",
+                        "display_url": "pic.twitter.com/do4RVDwkzg"
+                    }
+                ],
+                "target_birth_date": 1394726097,
+                "content": "RT @AttaBoyPEI: Not a bad looking @MusicPEI banner for #ECMW2014! That Saturday afternoon free show looks appealing. #Unbiassed http://t.co\u2026",
+                "mytype": "tweet",
+                "score": 3.859795,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/416957971672088576/Fr6svfth_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/AcornChad/status/444139559727947776",
+                "trackback_author_url": "http://twitter.com/acornchad",
+                "highlight": "Not a bad looking @MusicPEI banner for #ECMW2014! That Saturday afternoon free show looks appealing. #Unbiassed",
+                "topsy_author_url": "http://topsy.com/twitter/acornchad",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/acornchad/status/444139559727947776",
+                "trackback_author_name": "Chad Acorn Taylor",
+                "trackback_author_nick": "acornchad"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 40,
+        "hidden": 0,
+        "total": 42,
+        "page": 1
+    }
+}

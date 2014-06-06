@@ -1,0 +1,23 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23disallow&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=230",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#disallow",
+            "window": "a",
+            "type": "tweet",
+            "offset": "230"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 230,
+        "hidden": 0,
+        "total": 224,
+        "page": 1
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23interdict&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=130",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#interdict",
+            "window": "a",
+            "type": "tweet",
+            "offset": "130"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1383907376,
+                "title": "RT @njanjichauke: #sabcnews:the#State is applying for a court #interdict to stop #PublicProtector #ThuliMadonsela from releasing #Nkandla r\u2026",
+                "url": "http://twitter.com/sabctvnews/status/398762556397219840",
+                "trackback_date": 1383907376,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1383907376,
+                "content": "RT @njanjichauke: #sabcnews:the#State is applying for a court #interdict to stop #PublicProtector #ThuliMadonsela from releasing #Nkandla r\u2026",
+                "mytype": "tweet",
+                "score": 3.6413584,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3558969845/a2836023793b1c374eda57eb57af56ad_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SABCTVNews/status/398762556397219840",
+                "trackback_author_url": "http://twitter.com/sabctvnews",
+                "highlight": "#sabcnews:the#State is applying for a court #interdict to stop #PublicProtector #ThuliMadonsela from releasing #Nkandla r\u2026",
+                "topsy_author_url": "http://topsy.com/twitter/sabctvnews",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sabctvnews/status/398762556397219840",
+                "trackback_author_name": "SABC TV News",
+                "trackback_author_nick": "sabctvnews"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 130,
+        "hidden": 0,
+        "total": 131,
+        "page": 1
+    }
+}

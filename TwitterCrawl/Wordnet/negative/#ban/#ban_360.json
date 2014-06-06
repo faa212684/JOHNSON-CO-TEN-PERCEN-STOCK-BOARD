@@ -1,0 +1,297 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23ban&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=360",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#ban",
+            "window": "a",
+            "type": "tweet",
+            "offset": "360"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 13,
+                "firstpost_date": 1368287923,
+                "title": "CLOSE THE DOLPHIN SHOWS http://t.co/1Pf5OkRHHP PLEASE SIGN http://t.co/vEukIy1fwh #ban http://t.co/gVybo0LNtG",
+                "url": "http://twitter.com/peteswildlife/status/333249820376563712",
+                "trackback_date": 1368287923,
+                "trackback_total": 12,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/1Pf5OkRHHP",
+                        "expanded_url": "http://buff.ly/12l0yBm",
+                        "display_url": "buff.ly/12l0yBm"
+                    },
+                    {
+                        "url": "http://t.co/vEukIy1fwh",
+                        "expanded_url": "http://buff.ly/12l0yBo",
+                        "display_url": "buff.ly/12l0yBo"
+                    },
+                    {
+                        "url": "http://t.co/gVybo0LNtG",
+                        "expanded_url": "http://twitter.com/peteswildlife/status/333249820376563712/photo/1",
+                        "display_url": "pic.twitter.com/gVybo0LNtG"
+                    }
+                ],
+                "target_birth_date": 1368287923,
+                "content": "CLOSE THE DOLPHIN SHOWS http://t.co/1Pf5OkRHHP PLEASE SIGN http://t.co/vEukIy1fwh #ban http://t.co/gVybo0LNtG",
+                "mytype": "tweet",
+                "score": 8.765329,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/3278561657/abefbb29327008bde4fc47f0ca35748f_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/peteswildlife/status/333249820376563712",
+                "trackback_author_url": "http://twitter.com/peteswildlife",
+                "highlight": "CLOSE THE DOLPHIN SHOWS PLEASE SIGN #ban",
+                "topsy_author_url": "http://topsy.com/twitter/peteswildlife",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/peteswildlife/status/333249820376563712",
+                "trackback_author_name": "peter burton  ",
+                "trackback_author_nick": "peteswildlife"
+            },
+            {
+                "hits": 4,
+                "firstpost_date": 1375630243,
+                "title": "Gast\u00f3n Intelisano, el primer autor de ficci\u00f3n forense de Argentina presenta su segunda obra #Epicrisis HOY en #BAN http://t.co/uw8OIxR6P3",
+                "url": "http://twitter.com/bsasnegra/status/364045742169927680",
+                "trackback_date": 1375630243,
+                "trackback_total": 4,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/uw8OIxR6P3",
+                        "display_url": "bit.ly/19miE8S",
+                        "expanded_url": "http://bit.ly/19miE8S",
+                        "topsy_expanded_url": "http://buenosairesnegra.com.ar/es/programa-ban-buenos-aires-negra/"
+                    }
+                ],
+                "target_birth_date": 1375630243,
+                "content": "Gast\u00f3n Intelisano, el primer autor de ficci\u00f3n forense de Argentina presenta su segunda obra #Epicrisis HOY en #BAN http://t.co/uw8OIxR6P3",
+                "mytype": "tweet",
+                "score": 8.764728,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000196485719/e0bda8b40fc1050a76f07e7d19cdc7d3_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/BsAsNegra/status/364045742169927680",
+                "trackback_author_url": "http://twitter.com/bsasnegra",
+                "highlight": "Gast\u00f3n Intelisano, el primer autor de ficci\u00f3n forense de Argentina presenta su segunda obra #Epicrisis HOY en #BAN",
+                "topsy_author_url": "http://topsy.com/twitter/bsasnegra",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/bsasnegra/status/364045742169927680",
+                "trackback_author_name": "Buenos Aires Negra",
+                "trackback_author_nick": "bsasnegra"
+            },
+            {
+                "hits": 5,
+                "firstpost_date": 1302539136,
+                "title": "RT 2 help #ban the single-use #plasic bags ... :)",
+                "url": "http://twitter.com/earthactivists/status/57479422583914496",
+                "trackback_date": 1302539136,
+                "trackback_total": 4,
+                "url_expansions": [],
+                "target_birth_date": 1302539136,
+                "content": "RT 2 help #ban the single-use #plasic bags ... :)",
+                "mytype": "tweet",
+                "score": 8.764463,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2298039201/7v97jjc8v0tl0zq3cvx3_normal.png",
+                "trackback_permalink": "http://twitter.com/EarthActivists/status/57479422583914496",
+                "trackback_author_url": "http://twitter.com/earthactivists",
+                "highlight": "RT 2 help #ban the single-use #plasic bags ... :)",
+                "topsy_author_url": "http://topsy.com/twitter/earthactivists",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/earthactivists/status/57479422583914496",
+                "trackback_author_name": "EAs for Earth(lings)",
+                "trackback_author_nick": "earthactivists"
+            },
+            {
+                "hits": 6,
+                "firstpost_date": 1302600385,
+                "title": "#Muslim #women protest on first day of #France's face #veil #ban http://cot.ag/eTgsKg",
+                "url": "http://twitter.com/womenadvocates/status/57736319085977600",
+                "trackback_date": 1302600385,
+                "trackback_total": 6,
+                "url_expansions": [],
+                "target_birth_date": 1302600385,
+                "content": "#Muslim #women protest on first day of #France's face #veil #ban http://cot.ag/eTgsKg",
+                "mytype": "tweet",
+                "score": 8.7644205,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/1664803532/WNNlogo-_10_normal.jpg",
+                "trackback_permalink": "http://twitter.com/womenadvocates/status/57736319085977600",
+                "trackback_author_url": "http://twitter.com/womenadvocates",
+                "highlight": "#Muslim #women protest on first day of #France's face #veil #ban",
+                "topsy_author_url": "http://topsy.com/twitter/womenadvocates",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/womenadvocates/status/57736319085977600",
+                "trackback_author_name": "Women News Network",
+                "trackback_author_nick": "womenadvocates"
+            },
+            {
+                "hits": 9,
+                "firstpost_date": 1391590409,
+                "title": "Endless Love has been banned by MOI\n\u062a\u0645 \u0645\u0646\u0639 \u0641\u064a\u0644\u0645 \u0627\u0646\u062f\u0644\u0633 \u0644\u0648\u0641 \u0645\u0646 \u0642\u0628\u0644 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u0625\u0639\u0644\u0627\u0645\n\n#Kuwait #MOI #Ban #movie #EndlessLove http://t.co/jYyU5HihPl",
+                "url": "http://twitter.com/cinescapeq8/status/430987530998001664",
+                "trackback_date": 1391590409,
+                "trackback_total": 18,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/jYyU5HihPl",
+                        "display_url": "pic.twitter.com/jYyU5HihPl",
+                        "expanded_url": "http://twitter.com/CinescapeQ8/status/430987530998001664/photo/1",
+                        "topsy_expanded_url": "http://pbs.twimg.com/media/Bfss4EBCMAAlmAx.jpg"
+                    }
+                ],
+                "target_birth_date": 1391590409,
+                "content": "Endless Love has been banned by MOI\n\u062a\u0645 \u0645\u0646\u0639 \u0641\u064a\u0644\u0645 \u0627\u0646\u062f\u0644\u0633 \u0644\u0648\u0641 \u0645\u0646 \u0642\u0628\u0644 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u0625\u0639\u0644\u0627\u0645\n\n#Kuwait #MOI #Ban #movie #EndlessLove http://t.co/jYyU5HihPl",
+                "mytype": "tweet",
+                "score": 8.763582,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/2592096016/1uamn7wrehlc4ubfj1dc_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/CinescapeQ8/status/430987530998001664",
+                "trackback_author_url": "http://twitter.com/cinescapeq8",
+                "highlight": "Endless Love has been banned by MOI \u062a\u0645 \u0645\u0646\u0639 \u0641\u064a\u0644\u0645 \u0627\u0646\u062f\u0644\u0633 \u0644\u0648\u0641 \u0645\u0646 \u0642\u0628\u0644 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u0625\u0639\u0644\u0627\u0645 #Kuwait #MOI #Ban #movie #EndlessLove",
+                "topsy_author_url": "http://topsy.com/twitter/cinescapeq8",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/cinescapeq8/status/430987530998001664",
+                "trackback_author_name": "Cinescape - \u0633\u064a\u0646\u0633\u0643\u064a\u0628",
+                "trackback_author_nick": "cinescapeq8"
+            },
+            {
+                "hits": 2,
+                "firstpost_date": 1376133878,
+                "title": "So no more pretty girls that can't sing with auto tune!! #ban it! Ha",
+                "url": "http://twitter.com/thisismaxonline/status/366158142079369216",
+                "trackback_date": 1376133878,
+                "trackback_total": 2,
+                "url_expansions": [],
+                "target_birth_date": 1376133878,
+                "content": "So no more pretty girls that can't sing with auto tune!! #ban it! Ha",
+                "mytype": "tweet",
+                "score": 8.7625,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/472538819716464640/VbQoTnxG_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/THISISMAXONLINE/status/366158142079369216",
+                "trackback_author_url": "http://twitter.com/thisismax",
+                "highlight": "So no more pretty girls that can't sing with auto tune!! #ban it! Ha",
+                "topsy_author_url": "http://topsy.com/twitter/thisismax",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/thisismaxonline/status/366158142079369216",
+                "trackback_author_name": "MAX",
+                "trackback_author_nick": "thisismax"
+            },
+            {
+                "hits": 7,
+                "firstpost_date": 1351851195,
+                "title": "Bumblebees are declining also due to pesticide usage. #ban #clothianidin now. @lisapjackson RT\nhttp://t.co/GTKVI5m0 http://t.co/tYlAPGLU",
+                "url": "http://twitter.com/sonnybeez/status/264309186798694400",
+                "trackback_date": 1351851195,
+                "trackback_total": 7,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/GTKVI5m0",
+                        "display_url": "Tree-beez.com",
+                        "expanded_url": "http://Tree-beez.com",
+                        "topsy_expanded_url": "http://p3nlhclust404.shr.prod.phx3.secureserver.net/SharedContent/redirect_0.html"
+                    },
+                    {
+                        "url": "http://t.co/tYlAPGLU",
+                        "expanded_url": "http://twitter.com/SonnyBeez/status/264309186798694400/photo/1",
+                        "display_url": "pic.twitter.com/tYlAPGLU"
+                    }
+                ],
+                "target_birth_date": 1351851195,
+                "content": "Bumblebees are declining also due to pesticide usage. #ban #clothianidin now. @lisapjackson RT\nhttp://t.co/GTKVI5m0 http://t.co/tYlAPGLU",
+                "mytype": "tweet",
+                "score": 8.761768,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/420641772076019712/GUNTbIzm_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/SonnyBeez/status/264309186798694400",
+                "trackback_author_url": "http://twitter.com/sonnybeez",
+                "highlight": "Bumblebees are declining also due to pesticide usage. #ban #clothianidin now. @lisapjackson RT",
+                "topsy_author_url": "http://topsy.com/twitter/sonnybeez",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/sonnybeez/status/264309186798694400",
+                "trackback_author_name": "SonnyBee",
+                "trackback_author_nick": "sonnybeez"
+            },
+            {
+                "hits": 11,
+                "firstpost_date": 1355288445,
+                "title": "#BREAKING Costa Rica becomes the first Latin American country to ban hunting as a sport http://t.co/nZHiKjsR #latinamerica #hunting #ban",
+                "url": "http://twitter.com/wspaaustralia/status/278726056796626946",
+                "trackback_date": 1355288445,
+                "trackback_total": 13,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/nZHiKjsR",
+                        "display_url": "bit.ly/SPRAHt",
+                        "expanded_url": "http://bit.ly/SPRAHt",
+                        "topsy_expanded_url": "http://www.guardian.co.uk/environment/2012/dec/11/costa-rica-bans-hunting-sport"
+                    }
+                ],
+                "target_birth_date": 1355288445,
+                "content": "#BREAKING Costa Rica becomes the first Latin American country to ban hunting as a sport http://t.co/nZHiKjsR #latinamerica #hunting #ban",
+                "mytype": "tweet",
+                "score": 8.7591,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/461308270582317056/8D8gDgOI_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/WSPAAustralia/status/278726056796626946",
+                "trackback_author_url": "http://twitter.com/wspaaustralia",
+                "highlight": "#BREAKING Costa Rica becomes the first Latin American country to ban hunting as a sport #latinamerica #hunting",
+                "topsy_author_url": "http://topsy.com/twitter/wspaaustralia",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/wspaaustralia/status/278726056796626946",
+                "trackback_author_name": "WSPA Australia",
+                "trackback_author_nick": "wspaaustralia"
+            },
+            {
+                "hits": 13,
+                "firstpost_date": 1383887130,
+                "title": "#Paz y #desarrollo deben avanzar unidos en el #Sahel, dice #Ban Ki-moon en su visita a esa regi\u00f3n africana http://t.co/WyejAaNqp6",
+                "url": "http://twitter.com/onuweb/status/398677637050433536",
+                "trackback_date": 1383887130,
+                "trackback_total": 16,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/WyejAaNqp6",
+                        "display_url": "bit.ly/1dQ57Jk",
+                        "expanded_url": "http://bit.ly/1dQ57Jk",
+                        "topsy_expanded_url": "http://www.un.org/spanish/News/index.asp"
+                    }
+                ],
+                "target_birth_date": 1383887130,
+                "content": "#Paz y #desarrollo deben avanzar unidos en el #Sahel, dice #Ban Ki-moon en su visita a esa regi\u00f3n africana http://t.co/WyejAaNqp6",
+                "mytype": "tweet",
+                "score": 8.758517,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000499108796/182cad0c2e120fcf97f95bdecdefd7eb_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/ONUWeb/status/398677637050433536",
+                "trackback_author_url": "http://twitter.com/onu_es",
+                "highlight": "#Paz y #desarrollo deben avanzar unidos en el #Sahel, dice #Ban Ki-moon en su visita a esa regi\u00f3n africana",
+                "topsy_author_url": "http://topsy.com/twitter/onu_es",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/onuweb/status/398677637050433536",
+                "trackback_author_name": "Naciones Unidas",
+                "trackback_author_nick": "onu_es"
+            },
+            {
+                "hits": 14,
+                "firstpost_date": 1393954350,
+                "title": "2 Tage Krisendiplomatie: #Ukraine Gespr\u00e4che von #Steinmeier im EU-AM-Kreis &amp; mit RUS AM #Lawrow, UN-GS #Ban + @OSCE: http://t.co/eXudGZ5WnR",
+                "url": "http://twitter.com/auswaertigesamt/status/440902617741664256",
+                "trackback_date": 1393954350,
+                "trackback_total": 17,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/eXudGZ5WnR",
+                        "display_url": "bit.ly/1jMiSvJ",
+                        "expanded_url": "http://bit.ly/1jMiSvJ",
+                        "topsy_expanded_url": "http://www.auswaertiges-amt.de/DE/Aussenpolitik/Laender/Aktuelle_Artikel/Ukraine/140303_Steinmeier_Bruessel_FAC.html"
+                    }
+                ],
+                "target_birth_date": 1393954350,
+                "content": "2 Tage Krisendiplomatie: #Ukraine Gespr\u00e4che von #Steinmeier im EU-AM-Kreis &amp; mit RUS AM #Lawrow, UN-GS #Ban + @OSCE: http://t.co/eXudGZ5WnR",
+                "mytype": "tweet",
+                "score": 8.757345,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/378800000151472945/7e80d29ceaf3b0972bea274824d42358_normal.png",
+                "trackback_permalink": "http://twitter.com/AuswaertigesAmt/status/440902617741664256",
+                "trackback_author_url": "http://twitter.com/auswaertigesamt",
+                "highlight": "2 Tage Krisendiplomatie: #Ukraine Gespr\u00e4che von #Steinmeier im EU-AM-Kreis &amp; mit RUS AM #Lawrow, UN-GS #Ban + @OSCE:",
+                "topsy_author_url": "http://topsy.com/twitter/auswaertigesamt",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/auswaertigesamt/status/440902617741664256",
+                "trackback_author_name": "Ausw\u00e4rtiges Amt",
+                "trackback_author_nick": "auswaertigesamt"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 360,
+        "hidden": 0,
+        "total": 174223,
+        "page": 1
+    }
+}

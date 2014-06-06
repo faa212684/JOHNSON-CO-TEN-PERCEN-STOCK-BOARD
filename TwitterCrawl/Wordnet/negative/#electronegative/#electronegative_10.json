@@ -1,0 +1,94 @@
+{
+    "request": {
+        "url": "http://api-int:7000/search.json?q=%23electronegative&window=a&apikey=09C43A9B270A470B8EB8F2946A9369F3&type=tweet&offset=10",
+        "resource": "search",
+        "response_type": "json",
+        "parameters": {
+            "q": "#electronegative",
+            "window": "a",
+            "type": "tweet",
+            "offset": "10"
+        }
+    },
+    "response": {
+        "perpage": 10,
+        "list": [
+            {
+                "hits": 1,
+                "firstpost_date": 1382987737,
+                "title": "Silicon Tetrachloride Acts Like a Strongly Electronegative Atom http://t.co/EbyQutr00D #electronegative #atom #molecule #silicon",
+                "url": "http://twitter.com/vsummers61/status/394905308130451457",
+                "trackback_date": 1382987737,
+                "trackback_total": 0,
+                "url_expansions": [
+                    {
+                        "url": "http://t.co/EbyQutr00D",
+                        "display_url": "ow.ly/qfXzI",
+                        "expanded_url": "http://ow.ly/qfXzI",
+                        "topsy_expanded_url": "http://www.quirkyscience.com/silicon-tetrachloride-acts-like-strongly-electronegative-atom/"
+                    }
+                ],
+                "target_birth_date": 1382987737,
+                "content": "Silicon Tetrachloride Acts Like a Strongly Electronegative Atom http://t.co/EbyQutr00D #electronegative #atom #molecule #silicon",
+                "mytype": "tweet",
+                "score": 4.534002,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/432268937175121920/kPEPIos2_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/vsummers61/status/394905308130451457",
+                "trackback_author_url": "http://twitter.com/vsummers61",
+                "highlight": "Silicon Tetrachloride Acts Like a Strongly Electronegative Atom #electronegative #atom #molecule",
+                "topsy_author_url": "http://topsy.com/twitter/vsummers61",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/vsummers61/status/394905308130451457",
+                "trackback_author_name": "Vincent Summers",
+                "trackback_author_nick": "vsummers61"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1351051524,
+                "title": "@yingsammie #cytocrome #electronegative #nerdsunite",
+                "url": "http://twitter.com/rayjohn07/status/260955122333528064",
+                "trackback_date": 1351051524,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1351051524,
+                "content": "@yingsammie #cytocrome #electronegative #nerdsunite",
+                "mytype": "tweet",
+                "score": 4.186123,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/433011118013825025/GJd6kgUU_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/rayjohn07/status/260955122333528064",
+                "trackback_author_url": "http://twitter.com/rayjohn07",
+                "highlight": " #cytocrome #electronegative",
+                "topsy_author_url": "http://topsy.com/twitter/rayjohn07",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/rayjohn07/status/260955122333528064",
+                "trackback_author_name": "Rachel Johnson",
+                "trackback_author_nick": "rayjohn07"
+            },
+            {
+                "hits": 1,
+                "firstpost_date": 1394160243,
+                "title": "@dandaman_PharmD My chem teacher kept saying \"size doesn't matter.\" I really wanted to exclaim \"that's NOT what she said.\" #electronegative",
+                "url": "http://twitter.com/jongaskill/status/441766194455257088",
+                "trackback_date": 1394160243,
+                "trackback_total": 0,
+                "url_expansions": [],
+                "target_birth_date": 1394160243,
+                "content": "@dandaman_PharmD My chem teacher kept saying \"size doesn't matter.\" I really wanted to exclaim \"that's NOT what she said.\" #electronegative",
+                "mytype": "tweet",
+                "score": 4.0927596,
+                "topsy_author_img": "http://pbs.twimg.com/profile_images/458060336063848448/eH0qLW-D_normal.jpeg",
+                "trackback_permalink": "http://twitter.com/jongaskill/status/441766194455257088",
+                "trackback_author_url": "http://twitter.com/jongaskill",
+                "highlight": " My chem teacher kept saying \"size doesn't matter.\" I really wanted to exclaim \"that's NOT what she said.\"",
+                "topsy_author_url": "http://topsy.com/twitter/jongaskill",
+                "topsy_trackback_url": "http://topsy.com/trackback?url=http%3A//twitter.com/jongaskill/status/441766194455257088",
+                "trackback_author_name": "Jon",
+                "trackback_author_nick": "jongaskill"
+            }
+        ],
+        "last_offset": 10,
+        "window": "a",
+        "offset": 10,
+        "hidden": 0,
+        "total": 13,
+        "page": 1
+    }
+}
